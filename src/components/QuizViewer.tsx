@@ -14,7 +14,7 @@ interface Question {
 const QuizViewer: React.FC = () => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState('Matematik');
-  const [selectedTheme, setSelectedTheme] = useState('');
+  const [selectedTheme] = useState('');
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [loading, setLoading] = useState(true);
