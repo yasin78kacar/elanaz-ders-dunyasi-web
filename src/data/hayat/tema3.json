@@ -1,0 +1,1809 @@
+{
+  "id": "tema-3",
+  "baslik": "Hayat Bilgisi — Tema 3 — Okul",
+  "konular": [
+    {
+      "id": "okul",
+      "baslik": "Okul",
+      "kazanimKodu": "HB.2.1.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Okulda kurallara uymalıyız: Sessiz olmak, el kaldırmak, öğretmenimizi dinlemek ve okul eşyalarına özen göstermek önemlidir.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "os-anlatim-1"
+            }
+          },
+          {
+            "metin": "Sınıfımızı düzenli tutmalıyız. Masalarımız düzenli, çöplerimiz çöp kutusunda olmalı. Temiz ve düzenli sınıfta daha iyi öğreniriz.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "os-anlatim-2"
+            }
+          },
+          {
+            "metin": "Öğretmenimiz bize bilgi verir, arkadaşlarımızla birlikte öğreniriz. Birbirimize saygılı ve yardımsever olmalıyız.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "os-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ok-a1",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda ders çalışırken sessiz olmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "sessizlik"
+          }
+        },
+        {
+          "id": "ok-a2",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıfta konuşmak istediğimizde ne yapmalıyız?",
+          "dogruCevap": "El kaldırmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "el-kaldirma",
+            "ozellik": "kural"
+          }
+        },
+        {
+          "id": "ok-a3",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okul eşyalarına özen göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "ozen"
+          }
+        },
+        {
+          "id": "ok-a4",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıfta masalar düzenli olmalı mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-duzeni",
+            "ozellik": "duzen"
+          }
+        },
+        {
+          "id": "ok-a5",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Öğretmenimize saygılı olmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ogretmen",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ok-a6",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımıza kaba davranmalı mıyız?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "arkadas",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ok-a7",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Ders araçlarından biri hangisidir?",
+          "dogruCevap": "Kalem",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "ok-a8",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Kitabımızı özenle kullanmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "ozen"
+          }
+        },
+        {
+          "id": "ok-a9",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Öğretmenimiz konuşurken ne yapmalıyız?",
+          "dogruCevap": "dinlemeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ogretmen-anlatim",
+            "ozellik": "dinleme"
+          }
+        },
+        {
+          "id": "ok-a10",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıfta koşmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "guvenlik"
+          }
+        },
+        {
+          "id": "ok-a11",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okul bahçesinde oynarken kurallara uymalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "okul-bahcesi",
+            "ozellik": "oyun"
+          }
+        },
+        {
+          "id": "ok-a12",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Başkasının eşyasını izinsiz almalı mıyız?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "canta",
+            "vurgu": "izin"
+          }
+        },
+        {
+          "id": "ok-a13",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıfta tahtaya yazı yazan kimdir?",
+          "dogruCevap": "Öğretmen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "tahta"
+          }
+        },
+        {
+          "id": "ok-a14",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Defterimizi düzenli tutmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "defter",
+            "vurgu": "duzen"
+          }
+        },
+        {
+          "id": "ok-a15",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okula zamanında gelmeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "okul-kapisi",
+            "ozellik": "zamaninda"
+          }
+        },
+        {
+          "id": "ok-a16",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıfta yüksek sesle bağırmak uygun mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "sessizlik"
+          }
+        },
+        {
+          "id": "ok-a17",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Silgimizi paylaşmak doğru bir davranış mıdır?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "silgi",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ok-a18",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda temiz kalmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-temizligi",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ok-a19",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımızla birlikte ders çalışmak güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "ogrenci",
+              "arkadas",
+              "kitap"
+            ],
+            "vurgu": "arkadas"
+          }
+        },
+        {
+          "id": "ok-a20",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okul kurallarından üçünü yaz",
+          "dogruCevap": "Sessiz olmak, el kaldırmak, eşyalara özen göstermek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "os-anlatim-1"
+          }
+        },
+        {
+          "id": "ok-a21",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Çöpleri yere atmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ok-a22",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Öğretmenimizin sözünü kesmeli miyiz?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ogretmen",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ok-a23",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıfta sıramıza oturmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-duzeni",
+            "ozellik": "oturma"
+          }
+        },
+        {
+          "id": "ok-a24",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda öğrenmek için nereye gideriz?",
+          "dogruCevap": "Sınıfa",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sinif"
+          }
+        },
+        {
+          "id": "ok-a25",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Ders araçlarından üçünü yaz",
+          "dogruCevap": "Kalem, kitap, defter",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "kalem",
+              "kitap",
+              "defter"
+            ]
+          }
+        },
+        {
+          "id": "ok-a26",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okula zamanında gitmeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "okul-kapisi",
+            "ozellik": "zamaninda"
+          }
+        },
+        {
+          "id": "ok-a27",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıfta öğretmeni dinlemeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ogretmen-anlatim",
+            "ozellik": "dinleme"
+          }
+        },
+        {
+          "id": "ok-a28",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Ders araçlarımızı düzenli tutmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "kalem",
+              "kitap",
+              "defter"
+            ],
+            "vurgu": "duzen"
+          }
+        },
+        {
+          "id": "ok-a29",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Teneffüste bahçede oynarız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "okul-bahcesi",
+            "ozellik": "oyun"
+          }
+        },
+        {
+          "id": "ok-a30",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımıza yardım etmeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "arkadas",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "ok-a31",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Ödevlerimizi zamanında yapmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "defter",
+            "vurgu": "odev"
+          }
+        },
+        {
+          "id": "ok-a32",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda kurallara uymalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "kural"
+          }
+        },
+        {
+          "id": "ok-a33",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Kütüphanede sessiz olmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kutuphane",
+            "vurgu": "sessizlik"
+          }
+        },
+        {
+          "id": "ok-a34",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda sportif etkinliklere katılabiliriz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "spor",
+            "vurgu": "etkinlik"
+          }
+        },
+        {
+          "id": "ok-a35",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıfta el kaldırarak konuşuruz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "el-kaldirma",
+            "ozellik": "kural"
+          }
+        },
+        {
+          "id": "ok-a36",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda başkalarının eşyasına dokunmayız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "canta",
+            "vurgu": "izin"
+          }
+        },
+        {
+          "id": "ok-a37",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okul servisinde emniyet kemeri takarız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "emniyetKemeri",
+            "vurgu": "guvenlik"
+          }
+        },
+        {
+          "id": "ok-a38",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda öğretmenimize saygı gösteririz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ogretmen",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ok-a39",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Sınıf panosuna çalışmalarımızı asarız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-panosu",
+            "ozellik": "basari"
+          }
+        },
+        {
+          "id": "ok-a40",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda yeni arkadaşlar edinebiliriz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "arkadas",
+            "vurgu": "arkadaslik"
+          }
+        },
+        {
+          "id": "ok-a41",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Derslerde not almak faydalıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "defter",
+            "vurgu": "not"
+          }
+        },
+        {
+          "id": "ok-a42",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okul bahçesinde çiçeklere zarar vermeyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan",
+            "vurgu": "koruma"
+          }
+        },
+        {
+          "id": "ok-a43",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda yemekhanede sıra bekleriz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yemekhane",
+            "ozellik": "sira"
+          }
+        },
+        {
+          "id": "ok-a44",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda başarılı olmak için çalışırız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "calisma"
+          }
+        },
+        {
+          "id": "ok-a45",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda kavga etmek doğru değildir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "baris"
+          }
+        },
+        {
+          "id": "ok-a46",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda ders dinlemek öğrenmemizi sağlar.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ogretmen-anlatim",
+            "ozellik": "dinleme"
+          }
+        },
+        {
+          "id": "ok-a47",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda herkesin fikrine saygı duyarız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "saygi"
+          }
+        },
+        {
+          "id": "ok-a48",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda kitap okumayı severiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "okuma"
+          }
+        },
+        {
+          "id": "ok-a49",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okul eğitim aldığımız önemli yerdir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "okul",
+            "vurgu": "egitim"
+          }
+        },
+        {
+          "id": "ok-a50",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "yazili",
+          "soru": "Okulda temizlik görevlilerine saygı gösteririz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "temizlikGorevlisi",
+            "vurgu": "saygi"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ok-t1",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfta konuşmak istediğimizde ne yapmalıyız?",
+          "dogruCevap": "El kaldırmalıyız",
+          "secenekler": [
+            "El kaldırmalıyız",
+            "Masaya vurmalıyız",
+            "Koşmalıyız",
+            "Bağırmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "el-kaldirma",
+            "ozellik": "kural"
+          }
+        },
+        {
+          "id": "ok-t2",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okul eşyalarına nasıl davranmalıyız?",
+          "dogruCevap": "Özenle",
+          "secenekler": [
+            "Umursamaz",
+            "Kaba",
+            "Kırarak",
+            "Özenle"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "ozen"
+          }
+        },
+        {
+          "id": "ok-t3",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Öğretmenimize nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "secenekler": [
+            "Kaba",
+            "Umursamaz",
+            "Saygılı",
+            "Bağırarak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ogretmen",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ok-t4",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ders araçlarından hangisi doğrudur?",
+          "dogruCevap": "Defter",
+          "secenekler": [
+            "Top",
+            "Araba",
+            "Taş",
+            "Defter"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "kalem",
+              "kitap",
+              "defter",
+              "silgi"
+            ],
+            "vurgu": "defter"
+          }
+        },
+        {
+          "id": "ok-t5",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfta sessiz olmak gerekir mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece öğretmen yokken",
+            "Evet",
+            "Hayır",
+            "Bazen değil"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "sessizlik"
+          }
+        },
+        {
+          "id": "ok-t6",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşlarımıza nasıl davranmalıyız?",
+          "dogruCevap": "Nazik",
+          "secenekler": [
+            "Kızgın",
+            "Nazik",
+            "Kıskanç",
+            "Kaba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "arkadas",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ok-t7",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okula zamanında gelmek önemli midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Sadece sınav günü",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "okul-kapisi",
+            "ozellik": "zamaninda"
+          }
+        },
+        {
+          "id": "ok-t8",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Sınıfta koşmak her zaman serbest midir?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Her zaman evet",
+            "Sadece öğretmen yokken",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "Sınıfta güvenli ve düzenli olmalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "guvenlik"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ok-t9",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Öğretmen konuşurken ne yapmalıyız?",
+          "dogruCevap": "Dinlemeliyiz",
+          "secenekler": [
+            "Konuşmalıyız",
+            "Dinlemeliyiz",
+            "Oynamalıyız",
+            "Bağırmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ogretmen-anlatim",
+            "ozellik": "dinleme"
+          }
+        },
+        {
+          "id": "ok-t10",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çöpleri nereye atmalıyız?",
+          "dogruCevap": "Çöp kutusuna",
+          "secenekler": [
+            "Masaya",
+            "Pencereye",
+            "Yere",
+            "Çöp kutusuna"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ok-t11",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Başkasının kalemini izinsiz almak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Her zaman",
+            "Evet",
+            "Bazen",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kalem",
+            "vurgu": "izin"
+          }
+        },
+        {
+          "id": "ok-t12",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfta masalar nasıl olmalıdır?",
+          "dogruCevap": "Düzenli",
+          "secenekler": [
+            "Yerde",
+            "Dağınık",
+            "Kırık",
+            "Düzenli"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-duzeni",
+            "ozellik": "duzen"
+          }
+        },
+        {
+          "id": "ok-t13",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Defterimizi nasıl tutmalıyız?",
+          "dogruCevap": "Düzenli",
+          "secenekler": [
+            "Yırtık",
+            "Düzenli",
+            "Kirli",
+            "Kayıp"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "defter",
+            "vurgu": "duzen"
+          }
+        },
+        {
+          "id": "ok-t14",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okul bahçesinde oynarken ne yapmalıyız?",
+          "dogruCevap": "Kurallara uymalıyız",
+          "secenekler": [
+            "Eşyaları kırmalıyız",
+            "Kavga etmeliyiz",
+            "Kurallara uymalıyız",
+            "Bağırmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "okul-bahcesi",
+            "ozellik": "oyun"
+          }
+        },
+        {
+          "id": "ok-t15",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfta yüksek sesle bağırmak uygun mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Sadece arkadaşlarla",
+            "Hayır",
+            "Her zaman"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "sessizlik"
+          }
+        },
+        {
+          "id": "ok-t16",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Öğretmenin sözünü kesmek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Sıkıldığımızda evet",
+            "Bazen olur",
+            "Hayır"
+          ],
+          "ipucu": "Öğretmenimizi dinlemeliyiz!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ogretmen",
+            "vurgu": "saygi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ok-t17",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Silgimizi arkadaşımızla paylaşmak doğru mudur?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Asla",
+            "Hayır",
+            "Sadece öğretmen isterse",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "silgi",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ok-t18",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfta sıramıza oturmalı mıyız?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Masaya çıkmalıyız",
+            "Ayakta durmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-duzeni",
+            "ozellik": "oturma"
+          }
+        },
+        {
+          "id": "ok-t19",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda temiz kalmak gerekir mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Sadece bahçede",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-temizligi",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ok-t20",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Okul kurallarına uymak neden önemlidir?",
+          "dogruCevap": "Güvenli ve düzenli öğrenmek için",
+          "secenekler": [
+            "Hiç önemli değil",
+            "Sadece öğretmen istediği için",
+            "Güvenli ve düzenli öğrenmek için",
+            "Sadece ceza yememek için"
+          ],
+          "ipucu": "Kurallar hepimizin iyiliği içindir!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "os-anlatim-1"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ok-t21",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Tahtaya kim yazar?",
+          "dogruCevap": "Öğretmen",
+          "secenekler": [
+            "Öğrenci",
+            "Veli",
+            "Komşu",
+            "Öğretmen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "tahta"
+          }
+        },
+        {
+          "id": "ok-t22",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ders çalışırken ne yapmalıyız?",
+          "dogruCevap": "Dikkatli dinlemeliyiz",
+          "secenekler": [
+            "Koşmalıyız",
+            "Dikkatli dinlemeliyiz",
+            "Oynamalıyız",
+            "Uyumalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ogretmen-anlatim",
+            "ozellik": "dinleme"
+          }
+        },
+        {
+          "id": "ok-t23",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda öğrenmek için nereye gideriz?",
+          "dogruCevap": "Sınıfa",
+          "secenekler": [
+            "Markete",
+            "Denize",
+            "Sınıfa",
+            "Hastaneye"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sinif"
+          }
+        },
+        {
+          "id": "ok-t24",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Arkadaşımızın çantasını izinsiz açmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Merak ettiğimizde evet",
+            "Evet",
+            "Sadece oyuncak varsa",
+            "Hayır"
+          ],
+          "ipucu": "Başkalarının eşyalarına saygı göstermeliyiz!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "canta",
+            "vurgu": "izin"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ok-t25",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Okulda en önemli davranışlardan biri hangisidir?",
+          "dogruCevap": "Saygı ve dinleme",
+          "secenekler": [
+            "Kavga etmek",
+            "Saygı ve dinleme",
+            "Eşyaları kırmak",
+            "Bağırmak"
+          ],
+          "ipucu": "Okulda saygılı ve düzenli olmalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "os-anlatim-3"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ok-t26",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okula zamanında gitmeli miyiz?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "okul-kapisi",
+            "ozellik": "zamaninda"
+          }
+        },
+        {
+          "id": "ok-t27",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfta öğretmeni dinlemeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ogretmen-anlatim",
+            "ozellik": "dinleme"
+          }
+        },
+        {
+          "id": "ok-t28",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ders araçlarımızı nasıl tutmalıyız?",
+          "dogruCevap": "Düzenli",
+          "secenekler": [
+            "Düzenli",
+            "Kayıp",
+            "Dağınık",
+            "Kırık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "kalem",
+              "kitap",
+              "defter"
+            ],
+            "vurgu": "duzen"
+          }
+        },
+        {
+          "id": "ok-t29",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Teneffüste nerede oynarız?",
+          "dogruCevap": "Bahçede",
+          "secenekler": [
+            "Sınıfta",
+            "Tuvalette",
+            "Koridorda",
+            "Bahçede"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "okul-bahcesi",
+            "ozellik": "oyun"
+          }
+        },
+        {
+          "id": "ok-t30",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşlarımıza nasıl davranmalıyız?",
+          "dogruCevap": "Yardımsever",
+          "secenekler": [
+            "Kaba",
+            "Bağırarak",
+            "Kıskanç",
+            "Yardımsever"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "arkadas",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "ok-t31",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ödevlerimizi ne zaman yapmalıyız?",
+          "dogruCevap": "Zamanında",
+          "secenekler": [
+            "Sınavdan sonra",
+            "Zamanında",
+            "Yaz tatilinde",
+            "Hiç"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "defter",
+            "vurgu": "odev"
+          }
+        },
+        {
+          "id": "ok-t32",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda kurallara uymalı mıyız?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gereksiz",
+            "Fark etmez",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "kural"
+          }
+        },
+        {
+          "id": "ok-t33",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kütüphanede nasıl olmalıyız?",
+          "dogruCevap": "Sessiz",
+          "secenekler": [
+            "Sessiz",
+            "Koşarak",
+            "Bağırarak",
+            "Gürültülü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kutuphane",
+            "vurgu": "sessizlik"
+          }
+        },
+        {
+          "id": "ok-t34",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda sportif etkinliklere katılabilir miyiz?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Hayır",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "spor",
+            "vurgu": "etkinlik"
+          }
+        },
+        {
+          "id": "ok-t35",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfta konuşmak için ne yaparız?",
+          "dogruCevap": "El kaldırırız",
+          "secenekler": [
+            "Bağırırız",
+            "El kaldırırız",
+            "Masaya vururuz",
+            "Koşarız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "el-kaldirma",
+            "ozellik": "kural"
+          }
+        },
+        {
+          "id": "ok-t36",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Başkasının eşyasına izinsiz dokunmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Her zaman",
+            "Hayır",
+            "Bazen",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "canta",
+            "vurgu": "izin"
+          }
+        },
+        {
+          "id": "ok-t37",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okul servisinde ne takarız?",
+          "dogruCevap": "Emniyet kemeri",
+          "secenekler": [
+            "Atkı",
+            "Eldiven",
+            "Emniyet kemeri",
+            "Şapka"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "emniyetKemeri",
+            "vurgu": "guvenlik"
+          }
+        },
+        {
+          "id": "ok-t38",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Öğretmenimize nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "secenekler": [
+            "Bağırarak",
+            "Kaba",
+            "Umursamaz",
+            "Saygılı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ogretmen",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ok-t39",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıf panosuna ne asarız?",
+          "dogruCevap": "Çalışmalarımızı",
+          "secenekler": [
+            "Taş",
+            "Çalışmalarımızı",
+            "Çöp",
+            "Oyuncak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-panosu",
+            "ozellik": "basari"
+          }
+        },
+        {
+          "id": "ok-t40",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda yeni arkadaşlar edinebilir miyiz?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "arkadas",
+            "vurgu": "arkadaslik"
+          }
+        },
+        {
+          "id": "ok-t41",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Derslerde not almak faydalı mıdır?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "defter",
+            "vurgu": "not"
+          }
+        },
+        {
+          "id": "ok-t42",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okul bahçesindeki çiçeklere zarar vermek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Hayır",
+            "Bazen",
+            "Evet",
+            "Her zaman"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan",
+            "vurgu": "koruma"
+          }
+        },
+        {
+          "id": "ok-t43",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yemekhanede ne yaparız?",
+          "dogruCevap": "Sıra bekleriz",
+          "secenekler": [
+            "Masaya çıkarız",
+            "Bağırırız",
+            "Sıra bekleriz",
+            "Koşarız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yemekhane",
+            "ozellik": "sira"
+          }
+        },
+        {
+          "id": "ok-t44",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda başarılı olmak için ne yaparız?",
+          "dogruCevap": "Çalışırız",
+          "secenekler": [
+            "Oynamayız",
+            "Kaçarız",
+            "Uyuruz",
+            "Çalışırız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "calisma"
+          }
+        },
+        {
+          "id": "ok-t45",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda kavga etmek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Her zaman",
+            "Hayır",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "baris"
+          }
+        },
+        {
+          "id": "ok-t46",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ders dinlemek ne sağlar?",
+          "dogruCevap": "Öğrenmemizi",
+          "secenekler": [
+            "Öğrenmemizi",
+            "Uyumamızı",
+            "Oynamamızı",
+            "Koşmamızı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ogretmen-anlatim",
+            "ozellik": "dinleme"
+          }
+        },
+        {
+          "id": "ok-t47",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Herkesin fikrine saygı duymalı mıyız?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Evet",
+            "Fark etmez",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "ozellik": "saygi"
+          }
+        },
+        {
+          "id": "ok-t48",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda kitap okumak güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Gereksiz",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "okuma"
+          }
+        },
+        {
+          "id": "ok-t49",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Okul sadece oyun oynamak için midir?",
+          "dogruCevap": "Hayır, eğitim aldığımız yerdir",
+          "secenekler": [
+            "Sadece yemek için",
+            "Evet, sadece oyun",
+            "Hayır, eğitim aldığımız yerdir",
+            "Hiç gitmeyiz"
+          ],
+          "ipucu": "Okulda öğreniriz!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "okul",
+            "vurgu": "egitim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ok-t50",
+          "kazanimKodu": "HB.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Temizlik görevlilerine nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "secenekler": [
+            "Umursamaz",
+            "Bağırarak",
+            "Kaba",
+            "Saygılı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "temizlikGorevlisi",
+            "vurgu": "saygi"
+          }
+        }
+      ]
+    }
+  ]
+}

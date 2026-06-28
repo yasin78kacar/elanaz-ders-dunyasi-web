@@ -1,0 +1,1864 @@
+{
+  "id": "tema-7",
+  "baslik": "Türkçe — Tema 7 — Noktalama",
+  "konular": [
+    {
+      "id": "noktalama",
+      "baslik": "Noktalama",
+      "kazanimKodu": "TUR.2.1.5",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "NOKTA (.) — Cümlenin bittiğini gösterir. VİRGÜL (,) — Sayma ve duraklamada kullanılır. SORU İŞARETİ (?) — Soru cümlelerinin sonuna gelir. ÜNLEM İŞARETİ (!) — Ünlem cümlelerinin sonuna gelir.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "nw-anlatim-1"
+            }
+          },
+          {
+            "metin": "BÜYÜK HARF KURALLARI: Cümle büyük harfle başlar. Özel isimler (kişi, şehir, ülke adları) büyük harfle yazılır.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "nw-anlatim-2"
+            }
+          },
+          {
+            "metin": "YAZIM KURALLARI: Bitişik yazılan kelimeler (bugün, yarın) ve ayrı yazılan kelimeler. Sesli harf uyumu: Türkçe kelimelerde sesli harfler uyum içindedir.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "nw-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "nk-a1",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"Hava güzel\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Nokta (.)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a2",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"Adın ne\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Soru işareti (?)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "?"
+          }
+        },
+        {
+          "id": "nk-a3",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"Yangın var\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Ünlem işareti (!)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-a4",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"elma armut muz\" listesinde virgül nereye gelir?",
+          "dogruCevap": "elma, armut, muz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-a5",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"ali ankara'ya gitti\" cümlesini düzelt",
+          "dogruCevap": "Ali Ankara'ya gitti.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "ali ankara'ya gitti"
+          }
+        },
+        {
+          "id": "nk-a6",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Hangi kelime büyük harfle başlamalı?",
+          "dogruCevap": "Özel isimler (Ayşe, İstanbul)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ayşe",
+              "elma",
+              "Ankara",
+              "koşmak"
+            ]
+          }
+        },
+        {
+          "id": "nk-a7",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"mehmet okula gitti\" cümlesini düzelt",
+          "dogruCevap": "Mehmet okula gitti.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "mehmet okula gitti"
+          }
+        },
+        {
+          "id": "nk-a8",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Virgül nerelerde kullanılır?",
+          "dogruCevap": "Saymada ve duraklamada",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-a9",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"ne güzel hava\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "!",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-a10",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"çocuklar koştu oynadı güldü\" — virgülleri koy",
+          "dogruCevap": "koştu, oynadı, güldü",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a11",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"türkiye güzel bir ülkedir\" cümlesini düzelt",
+          "dogruCevap": "Türkiye güzel bir ülkedir.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "türkiye",
+            "nesne": "turkiye"
+          }
+        },
+        {
+          "id": "nk-a12",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Nokta nerede kullanılır?",
+          "dogruCevap": "Cümle sonunda",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a13",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"fatma ayşe ve ali parka gitti\" — düzelt",
+          "dogruCevap": "Fatma, Ayşe ve Ali parka gitti.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a14",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Hangi cümle doğru yazılmıştır?",
+          "dogruCevap": "\"Ali okula gitti.\"",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          }
+        },
+        {
+          "id": "nk-a15",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"istanbul türkiye'nin büyük şehridir\" — düzelt",
+          "dogruCevap": "İstanbul Türkiye'nin büyük şehridir.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a16",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Büyük harfle başlaması gereken kelime hangisi?",
+          "dogruCevap": "\"ankara\" → Ankara",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a17",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"elma, armut ve muz\" listesinde kaç virgül var?",
+          "dogruCevap": "1 (and'dan önce virgül gerekmez Türkçede, burada 1)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-a18",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"hava soğuk değil mi\" — düzelt",
+          "dogruCevap": "Hava soğuk değil mi?",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "?"
+          }
+        },
+        {
+          "id": "nk-a19",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Cümle hangi harfle başlamalı?",
+          "dogruCevap": "Büyük harfle",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a20",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"berk, can ve selin sınıfa girdi\" — büyük harf düzeltmesi",
+          "dogruCevap": "Berk, Can ve Selin sınıfa girdi.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a21",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Soru işareti hangi cümlenin sonuna gelir?",
+          "dogruCevap": "Soru cümlesinin",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "?"
+          }
+        },
+        {
+          "id": "nk-a22",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"merhaba nasılsın\" — noktalama ekle",
+          "dogruCevap": "Merhaba! Nasılsın?",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a23",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"ayşe İzmir'de yaşıyor\" — hata nerede?",
+          "dogruCevap": "\"ayşe\" → Ayşe",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "ayşe İzmir'de yaşıyor"
+          }
+        },
+        {
+          "id": "nk-a24",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Virgüllü cümle yaz (3 şey say)",
+          "dogruCevap": "Elma, armut ve muz aldım.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-a25",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"aferin sen çok başarılısın\" — noktalama ekle",
+          "dogruCevap": "Aferin! Sen çok başarılısın.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "selamlama",
+            "nesne": "ogretmen"
+          }
+        },
+        {
+          "id": "nk-a26",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"Okula gidiyorum\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Nokta (.)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a27",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"Kaç yaşındasın\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Soru işareti (?)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "?"
+          }
+        },
+        {
+          "id": "nk-a28",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"Yangına dikkat\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Ünlem işareti (!)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-a29",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"elma armut kiraz\" listesine virgül koy",
+          "dogruCevap": "elma, armut, kiraz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-a30",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"selin okula gitti\" cümlesini düzelt",
+          "dogruCevap": "Selin okula gitti.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "selin okula gitti"
+          }
+        },
+        {
+          "id": "nk-a31",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"izmir güzel bir şehirdir\" cümlesini düzelt",
+          "dogruCevap": "İzmir güzel bir şehirdir.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sehir",
+            "nesne": "izmir"
+          }
+        },
+        {
+          "id": "nk-a32",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"ne kadar güzel\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "!",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-a33",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"Bugün pazartesi mi\" cümlesini düzelt",
+          "dogruCevap": "Bugün pazartesi mi?",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "?"
+          }
+        },
+        {
+          "id": "nk-a34",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Cümle hangi harfle başlamalıdır?",
+          "dogruCevap": "Büyük harfle",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "A",
+              "a",
+              "B"
+            ]
+          }
+        },
+        {
+          "id": "nk-a35",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"çocuklar oynadı koştu güldü\" — virgülleri koy",
+          "dogruCevap": "oynadı, koştu, güldü",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "parkta-oyun",
+            "nesne": "park"
+          }
+        },
+        {
+          "id": "nk-a36",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"antalya sıcak bir şehirdir\" cümlesini düzelt",
+          "dogruCevap": "Antalya sıcak bir şehirdir.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sehir",
+            "nesne": "antalya"
+          }
+        },
+        {
+          "id": "nk-a37",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"tamam anladım\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Nokta (.)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a38",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"haydi koş\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Ünlem işareti (!)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-a39",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"Lale, Nil ve Arda parka gitti\" cümlesinde kaç virgül var?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-a40",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"van gölü türkiye'dedir\" cümlesini düzelt",
+          "dogruCevap": "Van Gölü Türkiye'dedir.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dogal-guzellik",
+            "nesne": "gol"
+          }
+        },
+        {
+          "id": "nk-a41",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Nokta işareti ne işe yarar?",
+          "dogruCevap": "Cümleyi bitirir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a42",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"emre emir ve ege geldi\" cümlesini düzelt",
+          "dogruCevap": "Emre, Emir ve Ege geldi.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-a43",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"okuldan geldim\" cümlesini düzelt",
+          "dogruCevap": "Okuldan geldim.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "okuldan geldim"
+          }
+        },
+        {
+          "id": "nk-a44",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "Virgül hangi durumda kullanılır?",
+          "dogruCevap": "Sayarken",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-a45",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"bravo çok iyisin\" cümlesini düzelt",
+          "dogruCevap": "Bravo! Çok iyisin!",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "selamlama",
+            "nesne": "ogretmen"
+          }
+        },
+        {
+          "id": "nk-a46",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"ders bitti mi\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Soru işareti (?)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "?"
+          }
+        },
+        {
+          "id": "nk-a47",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"sus lütfen\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Ünlem işareti (!)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-a48",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"bursa yeşil bir şehirdir\" cümlesini düzelt",
+          "dogruCevap": "Bursa yeşil bir şehirdir.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sehir",
+            "nesne": "bursa"
+          }
+        },
+        {
+          "id": "nk-a49",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"kırmızı mavi sarı\" renkleri virgülle yaz",
+          "dogruCevap": "kırmızı, mavi, sarı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "kırmızı",
+              "mavi",
+              "sarı"
+            ]
+          }
+        },
+        {
+          "id": "nk-a50",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "yazili",
+          "soru": "\"iyi geceler\" cümlesinin sonuna ne gelir?",
+          "dogruCevap": "Ünlem işareti (!)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gece-uyku",
+            "nesne": "yatak"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "nk-t1",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Cümlenin sonuna hangi noktalama işareti gelir?",
+          "dogruCevap": ".",
+          "secenekler": [
+            ",",
+            "?",
+            "!",
+            "."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-t2",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle doğru yazılmıştır?",
+          "dogruCevap": "Ali okula gitti.",
+          "secenekler": [
+            "ali okula gitti.",
+            "Ali okula gitti.",
+            "Ali okula Gitti.",
+            "ali Okula gitti."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          }
+        },
+        {
+          "id": "nk-t3",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Soru cümlesinin sonuna hangi işaret gelir?",
+          "dogruCevap": "?",
+          "secenekler": [
+            ",",
+            "?",
+            "!",
+            "."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "?"
+          }
+        },
+        {
+          "id": "nk-t4",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"Elma armut ve muz aldım\" cümlesine virgül nereye gelir?",
+          "dogruCevap": "Elma, armut ve muz",
+          "secenekler": [
+            "Elma, armut, ve muz",
+            "Elma, armut ve, muz",
+            "Elma, armut ve muz",
+            "Elma armut, ve muz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-t5",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kelime büyük harfle yazılmalıdır?",
+          "dogruCevap": "ankara",
+          "secenekler": [
+            "ankara",
+            "güzel",
+            "koşmak",
+            "elma"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ayşe",
+              "elma",
+              "Ankara",
+              "koşmak"
+            ]
+          }
+        },
+        {
+          "id": "nk-t6",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"ne güzel bir gün\" cümlesine hangi işaret gelir?",
+          "dogruCevap": "!",
+          "secenekler": [
+            ",",
+            "?",
+            "!",
+            "."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-t7",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümlede yazım hatası var?",
+          "dogruCevap": "mehmet koştu.",
+          "secenekler": [
+            "Hava güzel.",
+            "Ayşe İstanbul'da yaşıyor.",
+            "Ali okula gitti.",
+            "mehmet koştu."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t8",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Virgül ne zaman kullanılır?",
+          "dogruCevap": "Sayarken",
+          "secenekler": [
+            "Ünlem cümlelerinde",
+            "Sayarken",
+            "Soru cümlelerinde",
+            "Cümle bitince"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-t9",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"türkiye güzel bir ülkedir\" cümlesini doğru yaz.",
+          "dogruCevap": "Türkiye güzel bir ülkedir.",
+          "secenekler": [
+            "türkiye Güzel bir ülkedir.",
+            "Türkiye güzel bir ülkedir.",
+            "Türkiye Güzel Bir Ülkedir.",
+            "türkiye güzel bir ülkedir."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "türkiye",
+            "nesne": "turkiye"
+          }
+        },
+        {
+          "id": "nk-t10",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Özel isimler nasıl yazılır?",
+          "dogruCevap": "Büyük harfle başlar",
+          "secenekler": [
+            "Küçük harfle",
+            "Büyük harfle başlar",
+            "Fark etmez",
+            "Tamamı büyük harfle"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ayşe",
+              "elma",
+              "Ankara",
+              "koşmak"
+            ]
+          }
+        },
+        {
+          "id": "nk-t11",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümlede tüm noktalama doğrudur?",
+          "dogruCevap": "Ali, Ayşe ve Mehmet koştu.",
+          "secenekler": [
+            "Ali, Ayşe ve Mehmet koştu.",
+            "ali, Ayşe ve mehmet koştu.",
+            "ali, ayşe ve mehmet koştu",
+            "Ali Ayşe ve Mehmet, koştu."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t12",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Ünlem işareti hangi cümlenin sonuna gelir?",
+          "dogruCevap": "Aferin!",
+          "secenekler": [
+            "Aferin!",
+            "Hava güzel mi?",
+            "Hava güzeldi.",
+            "Hava güzel."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-t13",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"fatma izmir'de doğdu\" cümlesindeki hatalar nelerdir?",
+          "dogruCevap": "f ve i küçük",
+          "secenekler": [
+            "f ve i küçük",
+            "Sadece f küçük",
+            "Hata yok",
+            "Sadece i küçük"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "fatma izmir'de doğdu"
+          }
+        },
+        {
+          "id": "nk-t14",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Kaç noktalama işareti var: \"Ali, Ayşe ve Mehmet okula gitti. Hava güzel miydi?\"",
+          "dogruCevap": "3",
+          "secenekler": [
+            "4",
+            "3",
+            "1",
+            "2"
+          ],
+          "ipucu": "virgül + nokta + soru işareti = 3",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali, Ayşe ve Mehmet okula gitti. Hava güzel miydi?"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t15",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle yanlış yazılmıştır?",
+          "dogruCevap": "ayşe geldi.",
+          "secenekler": [
+            "Ali koştu.",
+            "ayşe geldi.",
+            "Hava güzel.",
+            "Mehmet uyudu."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          }
+        },
+        {
+          "id": "nk-t16",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"merhaba nasılsın\" cümlesine hangi noktalama işaretleri eklenmeli?",
+          "dogruCevap": "Ünlem ve soru işareti",
+          "secenekler": [
+            "İki nokta",
+            "İki virgül",
+            "Nokta ve virgül",
+            "Ünlem ve soru işareti"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "selamlama",
+            "nesne": "ogretmen"
+          }
+        },
+        {
+          "id": "nk-t17",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ankara Türkiye'nin başkentidir\" cümlesinde kaç büyük harf olmalı?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "4",
+            "3",
+            "1"
+          ],
+          "ipucu": "Ankara ve Türkiye",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ankara Türkiye'nin başkentidir."
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t18",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle doğru noktalanmıştır?",
+          "dogruCevap": "Aferin, çok iyisin!",
+          "secenekler": [
+            "Hava güzel mi.",
+            "Ne güzel.",
+            "Aferin, çok iyisin!",
+            "Ali okula gitti?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          }
+        },
+        {
+          "id": "nk-t19",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Büyük harfle başlaması gerekmeyen hangisidir?",
+          "dogruCevap": "elma",
+          "secenekler": [
+            "İstanbul",
+            "elma",
+            "Türkiye",
+            "Ayşe"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ayşe",
+              "elma",
+              "Ankara",
+              "koşmak"
+            ]
+          }
+        },
+        {
+          "id": "nk-t20",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"berk can selin ve hande parkta oynadı\" — kaç düzeltme gerekir?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "4",
+            "2",
+            "5",
+            "3"
+          ],
+          "ipucu": "B, C, S, H büyük + nokta = 5? Hayır: 4 büyük harf + 2 virgül + 1 nokta...",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "parkta-oyun",
+            "nesne": "park"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t21",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Virgül olmadan doğru yazılan cümle hangisidir?",
+          "dogruCevap": "\"Ali ve Ayşe geldi.\"",
+          "secenekler": [
+            "\"Ali Ayşe Mehmet geldi\"",
+            "\"Elma armut muz aldım\"",
+            "\"Ali ve Ayşe geldi.\"",
+            "\"Koştum oynadım geldim\""
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          }
+        },
+        {
+          "id": "nk-t22",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"aferin sen çok çalışkansın\" cümlesini doğru yaz.",
+          "dogruCevap": "Aferin! Sen çok çalışkansın.",
+          "secenekler": [
+            "Aferin! Sen çok çalışkansın.",
+            "aferin! sen çok çalışkansın.",
+            "Aferin, sen çok çalışkansın!",
+            "AFERIN sen çok çalışkansın."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "selamlama",
+            "nesne": "ogretmen"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t23",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümlede gereksiz büyük harf kullanılmıştır?",
+          "dogruCevap": "Hava Güzel.",
+          "secenekler": [
+            "İstanbul büyük şehir.",
+            "Ali okula gitti.",
+            "Ayşe koştu.",
+            "Hava Güzel."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          }
+        },
+        {
+          "id": "nk-t24",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Noktalama işaretlerinin kullanım amacı nedir?",
+          "dogruCevap": "Anlamı belirginleştirmek",
+          "secenekler": [
+            "Cümleyi uzatmak",
+            "Kelime saymak",
+            "Yazıyı süslemek",
+            "Anlamı belirginleştirmek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-t25",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki cümleyi tamamen doğru yaz: \"bugün hava çok güzel değil mi\"",
+          "dogruCevap": "Bugün hava çok güzel değil mi?",
+          "secenekler": [
+            "Bugün hava çok güzel değil mi.",
+            "bugün Hava çok güzel değil mi?",
+            "Bugün hava çok güzel değil mi?",
+            "Bugün Hava Çok Güzel Değil Mi?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "bugün hava çok güzel değil mi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t26",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"Kitabı okudum\" cümlesinin sonuna hangi işaret gelir?",
+          "dogruCevap": ".",
+          "secenekler": [
+            ",",
+            ".",
+            "?",
+            "!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-t27",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"Nerede oturuyorsun\" cümlesinin sonuna hangi işaret gelir?",
+          "dogruCevap": "?",
+          "secenekler": [
+            ",",
+            ".",
+            "!",
+            "?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "?"
+          }
+        },
+        {
+          "id": "nk-t28",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"Dikkat et\" cümlesinin sonuna hangi işaret gelir?",
+          "dogruCevap": "!",
+          "secenekler": [
+            "?",
+            "!",
+            ".",
+            ","
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-t29",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle doğru yazılmıştır?",
+          "dogruCevap": "Zeynep okula gitti.",
+          "secenekler": [
+            "zeynep Okula gitti.",
+            "Zeynep okula gitti.",
+            "Zeynep okula Gitti.",
+            "zeynep okula gitti."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Zeynep okula gitti."
+          }
+        },
+        {
+          "id": "nk-t30",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"Portakal mandalina üzüm\" listesine virgül nereye gelir?",
+          "dogruCevap": "Portakal, mandalina, üzüm",
+          "secenekler": [
+            "Portakal, mandalina üzüm",
+            "Portakal mandalina, üzüm",
+            "Portakal mandalina üzüm",
+            "Portakal, mandalina, üzüm"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-t31",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kelime büyük harfle yazılmalıdır?",
+          "dogruCevap": "bursa",
+          "secenekler": [
+            "güzel",
+            "bursa",
+            "koşmak",
+            "masa"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Bursa",
+              "masa",
+              "güzel",
+              "koşmak"
+            ]
+          }
+        },
+        {
+          "id": "nk-t32",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ne güzel bir manzara\" cümlesine hangi işaret gelir?",
+          "dogruCevap": "!",
+          "secenekler": [
+            "?",
+            ",",
+            ".",
+            "!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dogal-guzellik",
+            "nesne": "dag"
+          }
+        },
+        {
+          "id": "nk-t33",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümlede yazım hatası vardır?",
+          "dogruCevap": "can koştu.",
+          "secenekler": [
+            "can koştu.",
+            "Hava güzel.",
+            "Ayşe İzmir'de.",
+            "Ali geldi."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali geldi."
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t34",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Virgül en çok hangi durumda kullanılır?",
+          "dogruCevap": "Sayarken",
+          "secenekler": [
+            "Cümle bitince",
+            "Sayarken",
+            "Soru sorarken",
+            "Ünlem yaparken"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": ","
+          }
+        },
+        {
+          "id": "nk-t35",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"antalya güzel bir şehirdir\" cümlesini doğru yaz.",
+          "dogruCevap": "Antalya güzel bir şehirdir.",
+          "secenekler": [
+            "antalya Güzel bir şehirdir.",
+            "Antalya Güzel Bir Şehirdir.",
+            "Antalya güzel bir şehirdir.",
+            "antalya güzel bir şehirdir."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sehir",
+            "nesne": "antalya"
+          }
+        },
+        {
+          "id": "nk-t36",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümlede noktalama doğrudur?",
+          "dogruCevap": "Lale, Can ve Efe oynadı.",
+          "secenekler": [
+            "lale, Can ve efe oynadı.",
+            "lale can ve efe oynadı",
+            "Lale Can ve Efe, oynadı.",
+            "Lale, Can ve Efe oynadı."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Lale, Can ve Efe oynadı."
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t37",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Ünlem işareti hangi cümlede kullanılır?",
+          "dogruCevap": "Bravo!",
+          "secenekler": [
+            "Hava güzel.",
+            "Ali geldi.",
+            "Hava güzel mi?",
+            "Bravo!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        },
+        {
+          "id": "nk-t38",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"deniz trabzon'da yaşıyor\" cümlesindeki hata nedir?",
+          "dogruCevap": "d ve t küçük",
+          "secenekler": [
+            "Hata yok",
+            "Sadece t küçük",
+            "Sadece d küçük",
+            "d ve t küçük"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "deniz trabzon'da yaşıyor"
+          }
+        },
+        {
+          "id": "nk-t39",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Kaç noktalama işareti var: \"Elif, Arda ve Mert geldi. Hava sıcak mı?\"",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "2",
+            "1",
+            "4"
+          ],
+          "ipucu": "virgül + nokta + soru işareti = 3",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Elif, Arda ve Mert geldi. Hava sıcak mı?"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t40",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle yanlış yazılmıştır?",
+          "dogruCevap": "elif uyudu.",
+          "secenekler": [
+            "elif uyudu.",
+            "Ali koştu.",
+            "Hava güzel.",
+            "Mehmet geldi."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali koştu."
+          }
+        },
+        {
+          "id": "nk-t41",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"iyi akşamlar nasılsın\" cümlesine hangi işaretler eklenmeli?",
+          "dogruCevap": "Ünlem ve soru işareti",
+          "secenekler": [
+            "Ünlem ve soru işareti",
+            "İki virgül",
+            "İki nokta",
+            "Nokta ve virgül"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "selamlama",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "nk-t42",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"İzmir Ege'nin güzel şehridir\" cümlesinde kaç büyük harf olmalı?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "4",
+            "2",
+            "1",
+            "3"
+          ],
+          "ipucu": "İzmir ve Ege",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "İzmir Ege'nin güzel şehridir."
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t43",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle doğru noktalanmıştır?",
+          "dogruCevap": "Harika, çok güzel!",
+          "secenekler": [
+            "Ne güzel.",
+            "Hava güzel mi.",
+            "Ali okula gitti?",
+            "Harika, çok güzel!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Harika, çok güzel!"
+          }
+        },
+        {
+          "id": "nk-t44",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Büyük harfle başlaması gerekmeyen kelime hangisidir?",
+          "dogruCevap": "kitap",
+          "secenekler": [
+            "İstanbul",
+            "kitap",
+            "Ayşe",
+            "Türkiye"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ayşe",
+              "kitap",
+              "Ankara",
+              "koşmak"
+            ]
+          }
+        },
+        {
+          "id": "nk-t45",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"ece ilayda deniz ve arda sınıfa girdi\" — kaç düzeltme gerekir?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "4",
+            "5",
+            "6",
+            "3"
+          ],
+          "ipucu": "E, I, D, A büyük + virgüller + nokta",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sinif-ici",
+            "nesne": "sinif"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t46",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Virgül olmadan doğru yazılan cümle hangisidir?",
+          "dogruCevap": "\"Ali ve Ayşe geldi.\"",
+          "secenekler": [
+            "\"Koştum oynadım geldim\"",
+            "\"Elma armut kiraz aldım\"",
+            "\"Ali Ayşe Mert geldi\"",
+            "\"Ali ve Ayşe geldi.\""
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali ve Ayşe geldi."
+          }
+        },
+        {
+          "id": "nk-t47",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "\"süper sen çok akıllısın\" cümlesini doğru yaz.",
+          "dogruCevap": "Süper! Sen çok akıllısın!",
+          "secenekler": [
+            "Süper! Sen çok akıllısın!",
+            "SÜPER sen çok akıllısın.",
+            "Süper, sen çok akıllısın!",
+            "süper! sen çok akıllısın."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "selamlama",
+            "nesne": "ogretmen"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "nk-t48",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümlede gereksiz büyük harf kullanılmıştır?",
+          "dogruCevap": "Kitap Güzel.",
+          "secenekler": [
+            "Kitap Güzel.",
+            "Ali okula gitti.",
+            "İstanbul büyük şehir.",
+            "Ayşe koştu."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti."
+          }
+        },
+        {
+          "id": "nk-t49",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Noktalama işaretleri neden kullanılır?",
+          "dogruCevap": "Anlamı netleştirmek için",
+          "secenekler": [
+            "Yazıyı süslemek için",
+            "Kelime saymak için",
+            "Anlamı netleştirmek için",
+            "Cümleyi uzatmak için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "."
+          }
+        },
+        {
+          "id": "nk-t50",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki cümleyi tamamen doğru yaz: \"yarın okula gidecek misin\"",
+          "dogruCevap": "Yarın okula gidecek misin?",
+          "secenekler": [
+            "Yarın Okula Gidecek Misin?",
+            "Yarın okula gidecek misin?",
+            "yarın Okula gidecek misin?",
+            "Yarın okula gidecek misin."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "yarın okula gidecek misin"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "tr_t6_01",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Pazardan elma, armut, muz ve çilek aldık. Bu cümlede virgül hangi amaçla kullanılmıştır?",
+          "dogruCevap": "Eş görevli kelimeleri ayırmak",
+          "secenekler": [
+            "Eş görevli kelimeleri ayırmak",
+            "Sayıların yazımında",
+            "Hitap kelimesinden sonra",
+            "Sıralı cümleleri ayırmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "elma",
+              "armut",
+              "muz",
+              "çilek"
+            ]
+          }
+        },
+        {
+          "id": "tr_t6_02",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Cümledeki boşluğa hangisi gelmelidir?\n'Sevgili Öğretmenim ( ) sizi çok özledim.'",
+          "dogruCevap": ",",
+          "secenekler": [
+            "!",
+            "?",
+            ",",
+            "."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "selamlama",
+            "nesne": "ogretmen"
+          }
+        },
+        {
+          "id": "tr_t6_03",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Eve geldim, ellerimi yıkadım, yemeğe oturdum. Bu cümlede virgüller ne için kullanılmıştır?",
+          "dogruCevap": "Sıralı cümleleri ayırmak için",
+          "secenekler": [
+            "Tarih belirtmek için",
+            "Sıralı cümleleri ayırmak için",
+            "Korku ifadesi için",
+            "Soru sormak için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Eve geldim, ellerimi yıkadım, yemeğe oturdum."
+          }
+        },
+        {
+          "id": "tr_t6_51",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Yarınki sınavda başarılar dilerim( ) Cümlenin sonuna hangi işaret gelmelidir?",
+          "dogruCevap": ".",
+          "secenekler": [
+            ",",
+            "?",
+            ".",
+            "!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Yarınki sınavda başarılar dilerim."
+          }
+        },
+        {
+          "id": "tr_t6_52",
+          "kazanimKodu": "TUR.2.1.5",
+          "tip": "coktanSecmeli",
+          "soru": "Eyvah, süt döküldü ( ) cümlesinde parantez içine hangi işaret gelmelidir?",
+          "dogruCevap": "!",
+          "secenekler": [
+            "?",
+            ".",
+            "!",
+            ":"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "noktalama",
+            "isaret": "!"
+          }
+        }
+      ]
+    }
+  ]
+}

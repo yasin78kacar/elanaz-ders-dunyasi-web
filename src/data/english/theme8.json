@@ -1,0 +1,1914 @@
+{
+  "id": "tema-8",
+  "baslik": "İngilizce — Tema 8",
+  "konular": [
+    {
+      "id": "sporlar",
+      "baslik": "Sports",
+      "kazanimKodu": "ING.2.8.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Berk ve Yusuf spor parkında çok eğleniyordu. Berk koştu: \"Run!\" Yusuf zıpladı: \"Jump!\" Can yüzdü: \"Swim!\" Spor yapmak İngilizcede harikaydı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sp-anlatim-1"
+            }
+          },
+          {
+            "metin": "Okul bahçesinde futbol oynadılar. \"Play football!\" dedi öğretmen. Turuncu basketbol topuyla \"Basketball\" ve fileyle \"Volleyball\" öğrendiler.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sp-anlatim-2"
+            }
+          },
+          {
+            "metin": "Tenis kortunda raket salladılar: \"Tennis!\" Bisiklete bindiler: \"Ride a bike!\" Sports kelimesi tüm sporları kapsıyordu. Her gün yeni bir spor öğrenmek çok eğlenceliydi!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sp-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "sp-a1",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Spor kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "sport",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "futbol-topu"
+          }
+        },
+        {
+          "id": "sp-a2",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Futbol İngilizcede \"Football\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "futbol-topu"
+          }
+        },
+        {
+          "id": "sp-a3",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Basketbol kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "basketball",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turuncu-basketbol"
+          }
+        },
+        {
+          "id": "sp-a4",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Yüzmek İngilizcede \"Swim\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yuzme-havuz"
+          }
+        },
+        {
+          "id": "sp-a5",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Koşmak kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "run",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hizli-kosan-sporcu"
+          }
+        },
+        {
+          "id": "sp-a6",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Tenis İngilizcede \"Tennis\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tenis-raketi"
+          }
+        },
+        {
+          "id": "sp-a7",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Voleybol kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "volleyball",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "voleybol-topu"
+          }
+        },
+        {
+          "id": "sp-a8",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "\"Run\" kelimesi koşmak anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kosu-parkur"
+          }
+        },
+        {
+          "id": "sp-a9",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Bisiklet sürmek İngilizcede \"Ride a .........\" olarak söylenir.",
+          "dogruCevap": "bike",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "oyuncak-bisiklet"
+          }
+        },
+        {
+          "id": "sp-a10",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Futbol oynamak \"Play football\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "futbol-oynayan"
+          }
+        },
+        {
+          "id": "sp-a11",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Sporlar kelimesinin İngilizcesi \".........\" kelimesidir.",
+          "dogruCevap": "sports",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "spor-sahasi"
+          }
+        },
+        {
+          "id": "sp-a12",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "\"Swim\" kelimesi yüzmek demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yuzme-havuz"
+          }
+        },
+        {
+          "id": "sp-a13",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "yazili",
+          "soru": "Zıplamak kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "jump",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ziplayan-cocuk"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "sp-t1",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Futbol kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Football",
+          "secenekler": [
+            "Basketball",
+            "Football",
+            "Swimming",
+            "Tennis"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "futbol-topu"
+          }
+        },
+        {
+          "id": "sp-t2",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Basketbol topunun İngilizcesi hangisidir?",
+          "dogruCevap": "Basketball",
+          "secenekler": [
+            "Football",
+            "Tennis",
+            "Basketball",
+            "Volleyball"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turuncu-basketbol"
+          }
+        },
+        {
+          "id": "sp-t3",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yüzmek İngilizcede nasıl söylenir?",
+          "dogruCevap": "Swim",
+          "secenekler": [
+            "Draw",
+            "Jump",
+            "Run",
+            "Swim"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yuzme-havuz"
+          }
+        },
+        {
+          "id": "sp-t4",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Koşmak kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Run",
+          "secenekler": [
+            "Run",
+            "Read",
+            "Eat",
+            "Sleep"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hizli-kosan-sporcu"
+          }
+        },
+        {
+          "id": "sp-t5",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Tenis sporunun İngilizcesi hangisidir?",
+          "dogruCevap": "Tennis",
+          "secenekler": [
+            "Football",
+            "Tennis",
+            "Volleyball",
+            "Basketball"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tenis-raketi"
+          }
+        },
+        {
+          "id": "sp-t6",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Voleybol kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Volleyball",
+          "secenekler": [
+            "Volleyball",
+            "Football",
+            "Tennis",
+            "Basketball"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "voleybol-topu"
+          }
+        },
+        {
+          "id": "sp-t7",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Futbol oynamak İngilizcede nasıl ifade edilir?",
+          "dogruCevap": "Play football",
+          "secenekler": [
+            "Play food",
+            "Play football",
+            "Play school",
+            "Play piano"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "futbol-oynayan"
+          }
+        },
+        {
+          "id": "sp-t8",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sporlar kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Sports",
+          "secenekler": [
+            "Jobs",
+            "Toys",
+            "Sports",
+            "Colors"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "spor-sahasi"
+          }
+        },
+        {
+          "id": "sp-t9",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Zıplamak İngilizcede hangi kelimeyle söylenir?",
+          "dogruCevap": "Jump",
+          "secenekler": [
+            "Jump",
+            "Swim",
+            "Sleep",
+            "Run"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ziplayan-cocuk"
+          }
+        },
+        {
+          "id": "sp-t10",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bisiklet sürmek İngilizcede nasıl söylenir?",
+          "dogruCevap": "Ride a bike",
+          "secenekler": [
+            "Play football",
+            "Go swimming",
+            "Ride a bike",
+            "Read a book"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "oyuncak-bisiklet"
+          }
+        },
+        {
+          "id": "sp-t11",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Run\" ve \"Jump\" kelimeleri ne tür eylemlerdir?",
+          "dogruCevap": "Spor eylemleri",
+          "secenekler": [
+            "Uyku eylemleri",
+            "Spor eylemleri",
+            "Yemek eylemleri",
+            "Renk eylemleri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kosu-havuz"
+          }
+        },
+        {
+          "id": "sp-t12",
+          "kazanimKodu": "ING.2.8.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi top turuncu renklidir?",
+          "dogruCevap": "Basketball",
+          "secenekler": [
+            "Basketball",
+            "Volleyball",
+            "Tennis ball",
+            "Football"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turuncu-basketbol"
+          }
+        }
+      ]
+    },
+    {
+      "id": "enstrumanlar",
+      "baslik": "Instruments",
+      "kazanimKodu": "ING.2.8.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Müzik sınıfında Elanaz piyanoya dokundu: \"Piano!\" Berk gitar çaldı: \"Guitar!\" Öğretmen keman gösterdi: \"Violin!\" Musical instruments çok eğlenceliydi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "en-anlatim-1"
+            }
+          },
+          {
+            "metin": "Davula vurdular: \"Drum!\" Flüt üflediler: \"Flute!\" Trompet sesi sınıfı doldurdu. Her enstrüman farklı ve güzel bir ses çıkarıyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "en-anlatim-2"
+            }
+          },
+          {
+            "metin": "Orkestra konserinde birçok instrument bir arada çaldı. \"Play the piano, play the guitar!\" İngilizce enstrüman adları müziği daha da renkli yapıyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "en-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "en-a1",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Enstrüman kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "instrument",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "muzik-enstrumanlari"
+          }
+        },
+        {
+          "id": "en-a2",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Piyano İngilizcede \"Piano\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "piyano-tuslari"
+          }
+        },
+        {
+          "id": "en-a3",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Gitar kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "guitar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gitar-calan"
+          }
+        },
+        {
+          "id": "en-a4",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Keman İngilizcede \"Violin\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "keman-calan"
+          }
+        },
+        {
+          "id": "en-a5",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Davul kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "drum",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "davul-calan"
+          }
+        },
+        {
+          "id": "en-a6",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Flüt İngilizcede \"Flute\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "flut-calan"
+          }
+        },
+        {
+          "id": "en-a7",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Trompet kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "trumpet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "trompet-calan"
+          }
+        },
+        {
+          "id": "en-a8",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "\"Piano\" kelimesi piyano demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "piyano-tuslari"
+          }
+        },
+        {
+          "id": "en-a9",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Müzik aletleri İngilizcede \"Musical .........\" olarak adlandırılır.",
+          "dogruCevap": "instruments",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "muzik-enstrumanlari"
+          }
+        },
+        {
+          "id": "en-a10",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Gitar çalmak \"Play the guitar\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gitar-calan"
+          }
+        },
+        {
+          "id": "en-a11",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Piyano çalmak İngilizcede \"Play the .........\" olarak söylenir.",
+          "dogruCevap": "piano",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "piyano-calan"
+          }
+        },
+        {
+          "id": "en-a12",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "\"Drum\" kelimesi davul demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "davul-calan"
+          }
+        },
+        {
+          "id": "en-a13",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "yazili",
+          "soru": "Keman çalan kişiye \".........\" player deriz.",
+          "dogruCevap": "violin",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "keman-calan"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "en-t1",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Piyanonun İngilizcesi nedir?",
+          "dogruCevap": "Piano",
+          "secenekler": [
+            "Piano",
+            "Flute",
+            "Drum",
+            "Guitar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "piyano-tuslari"
+          }
+        },
+        {
+          "id": "en-t2",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Gitar kelimesinin İngilizcesi hangisidir?",
+          "dogruCevap": "Guitar",
+          "secenekler": [
+            "Piano",
+            "Guitar",
+            "Trumpet",
+            "Violin"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gitar-calan"
+          }
+        },
+        {
+          "id": "en-t3",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kemanın İngilizcesi nedir?",
+          "dogruCevap": "Violin",
+          "secenekler": [
+            "Flute",
+            "Drum",
+            "Guitar",
+            "Violin"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "keman-calan"
+          }
+        },
+        {
+          "id": "en-t4",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Davul kelimesinin İngilizcesi hangisidir?",
+          "dogruCevap": "Drum",
+          "secenekler": [
+            "Guitar",
+            "Drum",
+            "Piano",
+            "Flute"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "davul-calan"
+          }
+        },
+        {
+          "id": "en-t5",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Flütün İngilizcesi nedir?",
+          "dogruCevap": "Flute",
+          "secenekler": [
+            "Violin",
+            "Drum",
+            "Trumpet",
+            "Flute"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "flut-calan"
+          }
+        },
+        {
+          "id": "en-t6",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Trompetin İngilizcesi hangisidir?",
+          "dogruCevap": "Trumpet",
+          "secenekler": [
+            "Flute",
+            "Guitar",
+            "Trumpet",
+            "Piano"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "trompet-calan"
+          }
+        },
+        {
+          "id": "en-t7",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Enstrüman kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Instrument",
+          "secenekler": [
+            "Job",
+            "Sport",
+            "Instrument",
+            "Toy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "muzik-enstrumanlari"
+          }
+        },
+        {
+          "id": "en-t8",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Piyano çalmak İngilizcede nasıl söylenir?",
+          "dogruCevap": "Play the piano",
+          "secenekler": [
+            "Play the piano",
+            "Go to school",
+            "Play football",
+            "Ride a bike"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "piyano-calan"
+          }
+        },
+        {
+          "id": "en-t9",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Gitar çalmak İngilizcede nasıl ifade edilir?",
+          "dogruCevap": "Play the guitar",
+          "secenekler": [
+            "Play school",
+            "Play the guitar",
+            "Play tennis",
+            "Play the drum"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gitar-calan"
+          }
+        },
+        {
+          "id": "en-t10",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Müzik aletleri İngilizcede nasıl adlandırılır?",
+          "dogruCevap": "Musical instruments",
+          "secenekler": [
+            "Musical instruments",
+            "School supplies",
+            "Toys",
+            "Sports equipment"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "muzik-sinifi"
+          }
+        },
+        {
+          "id": "en-t11",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Drum\" kelimesinin anlamı nedir?",
+          "dogruCevap": "Davul",
+          "secenekler": [
+            "Davul",
+            "Flüt",
+            "Gitar",
+            "Keman"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "davul-vuran"
+          }
+        },
+        {
+          "id": "en-t12",
+          "kazanimKodu": "ING.2.8.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi enstrüman tuşludur?",
+          "dogruCevap": "Piano",
+          "secenekler": [
+            "Drum",
+            "Flute",
+            "Guitar",
+            "Piano"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "piyano-tuslari"
+          }
+        }
+      ]
+    },
+    {
+      "id": "meslekler",
+      "baslik": "Jobs",
+      "kazanimKodu": "ING.2.8.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Sınıfta meslek panosu vardı. Doctor, Teacher, Police officer! Her meslek farklı bir iş yapıyordu. \"What is your job?\" diye sordular birbirlerine.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ms-anlatim-1"
+            }
+          },
+          {
+            "metin": "İtfaiyeci Firefighter yangını söndürdü. Aşçı Chef lezzetli yemek yaptı. Çiftçi Farmer tarlaya ekti. Jobs kelimesi tüm meslekleri kapsıyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ms-anlatim-2"
+            }
+          },
+          {
+            "metin": "Elanaz \"I want to be a doctor!\" dedi. Berk \"My dream job is teacher!\" diye cevap verdi. Meslekleri İngilizce öğrenmek geleceğe hazırlıyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ms-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ms-a1",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Meslek kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "job",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "meslekler-panosu"
+          }
+        },
+        {
+          "id": "ms-a2",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Doktor İngilizcede \"Doctor\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "doktor"
+          }
+        },
+        {
+          "id": "ms-a3",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Öğretmen kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "teacher",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ogretmen"
+          }
+        },
+        {
+          "id": "ms-a4",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Polis İngilizcede \"Police officer\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "polis"
+          }
+        },
+        {
+          "id": "ms-a5",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "İtfaiyeci kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "firefighter",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "itfaiyeci"
+          }
+        },
+        {
+          "id": "ms-a6",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Aşçı İngilizcede \"Chef\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "asci"
+          }
+        },
+        {
+          "id": "ms-a7",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Çiftçi kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "farmer",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ciftci"
+          }
+        },
+        {
+          "id": "ms-a8",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "\"Doctor\" kelimesi doktor demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "doktor-stetoskop"
+          }
+        },
+        {
+          "id": "ms-a9",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Hastaları tedavi eden kişiye \".........\" deriz.",
+          "dogruCevap": "doctor",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "doktor"
+          }
+        },
+        {
+          "id": "ms-a10",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Öğretmen okulda ders anlatır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ogretmen-masa"
+          }
+        },
+        {
+          "id": "ms-a11",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Meslekler kelimesinin İngilizcesi \".........\" kelimesidir.",
+          "dogruCevap": "jobs",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "meslekler-panosu"
+          }
+        },
+        {
+          "id": "ms-a12",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "\"Teacher\" kelimesi öğretmen demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ogretmen"
+          }
+        },
+        {
+          "id": "ms-a13",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "yazili",
+          "soru": "Yangın söndüren kişiye \".........\" deriz.",
+          "dogruCevap": "firefighter",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "itfaiyeci"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ms-t1",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Doktor kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Doctor",
+          "secenekler": [
+            "Farmer",
+            "Chef",
+            "Teacher",
+            "Doctor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "doktor"
+          }
+        },
+        {
+          "id": "ms-t2",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Öğretmenin İngilizcesi hangisidir?",
+          "dogruCevap": "Teacher",
+          "secenekler": [
+            "Police officer",
+            "Teacher",
+            "Doctor",
+            "Firefighter"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ogretmen"
+          }
+        },
+        {
+          "id": "ms-t3",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Polisin İngilizcesi nedir?",
+          "dogruCevap": "Police officer",
+          "secenekler": [
+            "Farmer",
+            "Police officer",
+            "Doctor",
+            "Chef"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "polis"
+          }
+        },
+        {
+          "id": "ms-t4",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "İtfaiyecinin İngilizcesi hangisidir?",
+          "dogruCevap": "Firefighter",
+          "secenekler": [
+            "Teacher",
+            "Doctor",
+            "Chef",
+            "Firefighter"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "itfaiyeci"
+          }
+        },
+        {
+          "id": "ms-t5",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Aşçının İngilizcesi nedir?",
+          "dogruCevap": "Chef",
+          "secenekler": [
+            "Teacher",
+            "Doctor",
+            "Chef",
+            "Farmer"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "asci"
+          }
+        },
+        {
+          "id": "ms-t6",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Çiftçinin İngilizcesi hangisidir?",
+          "dogruCevap": "Farmer",
+          "secenekler": [
+            "Police officer",
+            "Doctor",
+            "Farmer",
+            "Chef"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ciftci"
+          }
+        },
+        {
+          "id": "ms-t7",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Meslek kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Job",
+          "secenekler": [
+            "Job",
+            "Shape",
+            "Sport",
+            "Toy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "meslekler-panosu"
+          }
+        },
+        {
+          "id": "ms-t8",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hastaları tedavi eden meslek hangisidir?",
+          "dogruCevap": "Doctor",
+          "secenekler": [
+            "Teacher",
+            "Doctor",
+            "Chef",
+            "Farmer"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "doktor-stetoskop"
+          }
+        },
+        {
+          "id": "ms-t9",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Okulda ders anlatan meslek hangisidir?",
+          "dogruCevap": "Teacher",
+          "secenekler": [
+            "Firefighter",
+            "Chef",
+            "Doctor",
+            "Teacher"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ogretmen-masa"
+          }
+        },
+        {
+          "id": "ms-t10",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yangın söndüren meslek hangisidir?",
+          "dogruCevap": "Firefighter",
+          "secenekler": [
+            "Doctor",
+            "Teacher",
+            "Police officer",
+            "Firefighter"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "itfaiyeci-arac"
+          }
+        },
+        {
+          "id": "ms-t11",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Jobs\" kelimesinin anlamı nedir?",
+          "dogruCevap": "Meslekler",
+          "secenekler": [
+            "Oyuncaklar",
+            "Sporlar",
+            "Renkler",
+            "Meslekler"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "meslekler-grup"
+          }
+        },
+        {
+          "id": "ms-t12",
+          "kazanimKodu": "ING.2.8.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yemek yapan meslek hangisidir?",
+          "dogruCevap": "Chef",
+          "secenekler": [
+            "Chef",
+            "Farmer",
+            "Doctor",
+            "Teacher"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "asci-mutfak"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ulasim",
+      "baslik": "Transport",
+      "kazanimKodu": "ING.2.8.4",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Elanaz okula giderken farklı ulaşım araçları gördü. Sarı otobüs Bus, mavi araba Car! Her araç farklı yere gider.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ts-anlatim-1"
+            }
+          },
+          {
+            "metin": "İstasyonda tren Train beklediler. Havaalanında uçak Plane, denizde gemi Ship! Transport kelimesi tüm ulaşım araçlarını kapsıyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ts-anlatim-2"
+            }
+          },
+          {
+            "metin": "Parkta bisiklete bindi: Ride a bike! Okul otobüsü School bus ile eve döndü. Ulaşım araçlarını bilmek çok işe yarıyordu!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ts-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ts-a1",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Araba kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "car",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "araba-yol"
+          }
+        },
+        {
+          "id": "ts-a2",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Otobüs İngilizcede \"Bus\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-otobus"
+          }
+        },
+        {
+          "id": "ts-a3",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Tren kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "train",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tren"
+          }
+        },
+        {
+          "id": "ts-a4",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Uçak İngilizcede \"Plane\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucak"
+          }
+        },
+        {
+          "id": "ts-a5",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Gemi kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "ship",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gemi"
+          }
+        },
+        {
+          "id": "ts-a6",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Bisiklet İngilizcede \"Bike\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bisiklet-park"
+          }
+        },
+        {
+          "id": "ts-a7",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Ulaşım kelimesinin İngilizcesi \".........\" kelimesidir.",
+          "dogruCevap": "transport",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "araba-yol"
+          }
+        },
+        {
+          "id": "ts-a8",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "\"Train\" kelimesi tren anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tren-ray"
+          }
+        },
+        {
+          "id": "ts-a9",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Okula otobüsle gideriz. İngilizcesi \"School .........\" demektir.",
+          "dogruCevap": "bus",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "okul-otobusu"
+          }
+        },
+        {
+          "id": "ts-a10",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Uçak gökyüzünde uçar.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucak-gokyuzu"
+          }
+        },
+        {
+          "id": "ts-a11",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Denizde yolculuk için ......... kullanırız.",
+          "dogruCevap": "ship",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gemi-deniz"
+          }
+        },
+        {
+          "id": "ts-a12",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "\"Car\" kelimesi araba demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mavi-araba"
+          }
+        },
+        {
+          "id": "ts-a13",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "yazili",
+          "soru": "Havaalanında ......... görürüz.",
+          "dogruCevap": "plane",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "havaalani-ucak"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ts-t1",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Arabanın İngilizce adı nedir?",
+          "dogruCevap": "Car",
+          "secenekler": [
+            "Train",
+            "Bus",
+            "Car",
+            "Plane"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "araba-yol"
+          }
+        },
+        {
+          "id": "ts-t2",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Otobüsün İngilizce adı hangisidir?",
+          "dogruCevap": "Bus",
+          "secenekler": [
+            "Ship",
+            "Car",
+            "Bike",
+            "Bus"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-otobus"
+          }
+        },
+        {
+          "id": "ts-t3",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Trenin İngilizce adı nedir?",
+          "dogruCevap": "Train",
+          "secenekler": [
+            "Ship",
+            "Train",
+            "Plane",
+            "Car"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tren"
+          }
+        },
+        {
+          "id": "ts-t4",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uçağın İngilizce adı nedir?",
+          "dogruCevap": "Plane",
+          "secenekler": [
+            "Ship",
+            "Plane",
+            "Train",
+            "Bus"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucak"
+          }
+        },
+        {
+          "id": "ts-t5",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Geminin İngilizce adı hangisidir?",
+          "dogruCevap": "Ship",
+          "secenekler": [
+            "Ship",
+            "Car",
+            "Bus",
+            "Train"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gemi"
+          }
+        },
+        {
+          "id": "ts-t6",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Bisikletin İngilizce adı nedir?",
+          "dogruCevap": "Bike",
+          "secenekler": [
+            "Plane",
+            "Train",
+            "Bus",
+            "Bike"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bisiklet-park"
+          }
+        },
+        {
+          "id": "ts-t7",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ulaşım kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Transport",
+          "secenekler": [
+            "Fruit",
+            "Country",
+            "Transport",
+            "Sport"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "araba-yol"
+          }
+        },
+        {
+          "id": "ts-t8",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Okul otobüsünün İngilizcesi nedir?",
+          "dogruCevap": "School bus",
+          "secenekler": [
+            "School train",
+            "School plane",
+            "School car",
+            "School bus"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "okul-otobusu"
+          }
+        },
+        {
+          "id": "ts-t9",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi taşıt gökyüzünde uçar?",
+          "dogruCevap": "Plane",
+          "secenekler": [
+            "Bike",
+            "Train",
+            "Ship",
+            "Plane"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucak-gokyuzu"
+          }
+        },
+        {
+          "id": "ts-t10",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi taşıt denizde gider?",
+          "dogruCevap": "Ship",
+          "secenekler": [
+            "Car",
+            "Train",
+            "Bus",
+            "Ship"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gemi-deniz"
+          }
+        },
+        {
+          "id": "ts-t11",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Tren istasyonunun İngilizcesi nedir?",
+          "dogruCevap": "Train station",
+          "secenekler": [
+            "Harbor",
+            "Bus stop",
+            "Train station",
+            "Airport"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tren-istasyon"
+          }
+        },
+        {
+          "id": "ts-t12",
+          "kazanimKodu": "ING.2.8.4",
+          "tip": "coktanSecmeli",
+          "soru": "Havaalanında hangi taşıt görülür?",
+          "dogruCevap": "Plane",
+          "secenekler": [
+            "Train",
+            "Bike",
+            "Plane",
+            "Ship"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "havaalani-ucak"
+          }
+        }
+      ]
+    }
+  ]
+}

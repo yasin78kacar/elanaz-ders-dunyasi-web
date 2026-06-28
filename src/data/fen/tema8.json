@@ -1,0 +1,1880 @@
+{
+  "id": "tema-8",
+  "baslik": "Fen Bilimleri — Tema 8 — Ses",
+  "konular": [
+    {
+      "id": "ses",
+      "baslik": "Ses",
+      "kazanimKodu": "FEN.2.2.5",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Görmek için ışığa ihtiyacımız vardır. Hava karardığında renkleri seçemeyiz; lamba yanınca her şey tekrar görünür.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "is-anlatim-1"
+            }
+          },
+          {
+            "metin": "Güneş en büyük doğal ışık kaynağıdır. Kamp feneri yapay ışıktır. Ay ise kendi ışığı olmayan, Güneş'i yansıtan bir gök cismidir.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "is-anlatim-2"
+            }
+          },
+          {
+            "metin": "Ormandaki kuş sesi doğal, piyano sesi yapaydır. Her sesin bir kaynağı vardır ve biz kulaklarımızla duyarız.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "is-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ss-a1",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Sesleri duyabilmek için ......... organımızı kullanırız.",
+          "dogruCevap": "kulak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulak"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a2",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Kuşun sesi ......... ses kaynağıdır.",
+          "dogruCevap": "doğal",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kus"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a3",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Piyano ......... bir ses kaynağıdır.",
+          "dogruCevap": "yapay",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "piyano"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a4",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Gök gürültüsü yapay bir sestir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "simsek"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a5",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Çalan cep telefonu ......... ses kaynağıdır.",
+          "dogruCevap": "yapay",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "telefon"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a6",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Şelalenin su sesi ......... ses kaynağıdır.",
+          "dogruCevap": "doğal",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "selale"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a7",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Arabaların korna sesi yapay bir sestir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "korna"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a8",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Öğrencinin sesi ......... ses kaynağıdır.",
+          "dogruCevap": "doğal",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cocuk"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a9",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Ambulansın sireni ......... ses kaynağıdır.",
+          "dogruCevap": "yapay",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ambulans"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a10",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Kedinin miyavlaması doğal bir ses kaynağıdır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kedi"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a11",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Gitarın telleri titreşerek ......... üretir.",
+          "dogruCevap": "ses",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gitar"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a12",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "yazili",
+          "soru": "Deniz dalgalarının sesi ......... ses kaynağıdır.",
+          "dogruCevap": "doğal",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "deniz"
+          },
+          "kazanim": "FEN.2.2.3"
+        },
+        {
+          "id": "ss-a13",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Kuş sesi doğal bir sestir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kus"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a14",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Piyano yapay ses çıkarır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "piyano"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a15",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Sesleri kulaklarımızla duyarız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulak"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a16",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Yüksek ses kulaklarımıza zarar verebilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulaklik"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a17",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Zil çaldığında ses duyarız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "zil"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a18",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Rüzgarın sesi doğaldır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a19",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Gitar çalmak yapay ses üretir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gitar"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a20",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Horoz sabah sesi çıkarır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "horoz"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a21",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Ses kaynağı titreşimle oluşur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a22",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Ambulans siren sesi çıkarır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ambulans"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a23",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Yağmur damlalarının sesi doğaldır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yagmur"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a24",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Flüt üflemeli bir enstrümandır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "flut"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a25",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Korna yüksek ses çıkarır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "korna"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a26",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Televizyon sesi yapaydır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "televizyon"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a27",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Köpek havlaması doğal sestir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kopek"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a28",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Tren düdüğü yapay sestir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "tren"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a29",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Müzik dinlemek kulaklarımızla olur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulak"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a30",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Arı vızıltısı doğal sestir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ari"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a31",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Ses boşlukta yayılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a32",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Her sesin bir kaynağı vardır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a33",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Fısıldamak düşük sesle konuşmaktır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fisilda"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a34",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Bağırmak yüksek sestir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bagirma"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a35",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Sessizlikte ses duymayız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sessizlik"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a36",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Deniz dalgalarının sesi doğaldır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "deniz"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a37",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Şelale suyun sesi doğaldır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "selale"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a38",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Müzik aleti sesi yapay mıdır?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gitar"
+          }
+        },
+        {
+          "id": "ss-a39",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Dalga sesi doğal mıdır?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "deniz"
+          }
+        },
+        {
+          "id": "ss-a40",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Kahkaha yüksek ses midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "ss-a41",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Fısıltı düşük ses midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fisilda"
+          }
+        },
+        {
+          "id": "ss-a42",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Gürültü kulakları yorar mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulaklik"
+          }
+        },
+        {
+          "id": "ss-a43",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Doğada kuş sesi duyulur mu?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "ss-a44",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Kapı zili ses çıkarır mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "zil"
+          }
+        },
+        {
+          "id": "ss-a45",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Ses dalgalar halinde yayılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a46",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Kulaklarımızla işitir miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulak"
+          }
+        },
+        {
+          "id": "ss-a47",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Sessiz kütüphanede ne yaparız?",
+          "dogruCevap": "Sessiz oluruz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kutuphane"
+          }
+        },
+        {
+          "id": "ss-a48",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Yüksek sesten kaçınmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulaklik"
+          }
+        },
+        {
+          "id": "ss-a49",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Sesin kaynağı titreşimdir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "ss-a50",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "yazili",
+          "soru": "Horoz ötüşü doğal sestir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "horoz"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        }
+      ],
+      "test": [
+        {
+          "id": "ss-t1",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Nehrin su sesi ne tür kaynaktır?",
+          "dogruCevap": "Doğal ses kaynağı",
+          "secenekler": [
+            "Doğal ışık kaynağı",
+            "Yapay ışık kaynağı",
+            "Doğal ses kaynağı",
+            "Yapay ses kaynağı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "nehir"
+          }
+        },
+        {
+          "id": "ss-t2",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Selin'in flütü ne tür ses kaynağıdır?",
+          "dogruCevap": "Yapay ses kaynağı",
+          "secenekler": [
+            "Doğal ses kaynağı",
+            "Yapay ses kaynağı",
+            "Doğal ışık kaynağı",
+            "Yapay ışık kaynağı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "flut"
+          }
+        },
+        {
+          "id": "ss-t3",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Horozun sesi nedir?",
+          "dogruCevap": "Doğal ses",
+          "secenekler": [
+            "Doğal ışık",
+            "Doğal ses",
+            "Yapay ışık",
+            "Yapay ses"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "horoz"
+          }
+        },
+        {
+          "id": "ss-t4",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Çalar saatin sesi nasıldır?",
+          "dogruCevap": "Yapay ses",
+          "secenekler": [
+            "Yapay ses",
+            "Yapay ışık",
+            "Doğal ışık",
+            "Doğal ses"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "saat"
+          }
+        },
+        {
+          "id": "ss-t5",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yağmur damlalarının çıkardığı ses hangi gruba aittir?",
+          "dogruCevap": "Doğal ses kaynağı",
+          "secenekler": [
+            "Doğal ses kaynağı",
+            "Yansıtıcı",
+            "Yapay ses",
+            "İnsan yapımı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yagmur"
+          }
+        },
+        {
+          "id": "ss-t6",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Okul zilinin sesi hangi tür kaynaktır?",
+          "dogruCevap": "Yapay ses kaynağı",
+          "secenekler": [
+            "Yıldız ışığı",
+            "Yapay ses kaynağı",
+            "Doğal ışık kaynağı",
+            "Doğal ses kaynağı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "zil"
+          }
+        },
+        {
+          "id": "ss-t7",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Televizyondan gelen sesler hangi gruba girer?",
+          "dogruCevap": "Yapay ses kaynağı",
+          "secenekler": [
+            "Doğal ışık kaynağı",
+            "Yapay ses kaynağı",
+            "Sessiz kaynak",
+            "Doğal ses kaynağı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "televizyon"
+          }
+        },
+        {
+          "id": "ss-t8",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Annemizin sesi hangi türe örnektir?",
+          "dogruCevap": "Doğal ses kaynağı",
+          "secenekler": [
+            "Doğal ses kaynağı",
+            "Yankı kaynağı",
+            "Yapay ses kaynağı",
+            "Mekanik ses"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "anne"
+          }
+        },
+        {
+          "id": "ss-t9",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisinde doğal ses + yapay ışık yan yana verilmiştir?",
+          "dogruCevap": "Rüzgar sesi - Yanan Mum",
+          "secenekler": [
+            "Kuş sesi - Güneş",
+            "Araba kornası - El feneri",
+            "Radyo sesi - Yıldız",
+            "Rüzgar sesi - Yanan Mum"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "ruzgar",
+              "mum"
+            ],
+            "vurgu": [
+              "ruzgar",
+              "mum"
+            ]
+          }
+        },
+        {
+          "id": "ss-t10",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Vitrendeki yüzük ışık kaynağı mıdır?",
+          "dogruCevap": "Hayır, sadece yansıtır",
+          "secenekler": [
+            "Kendi üretir",
+            "Hayır, sadece yansıtır",
+            "Evet, doğal",
+            "Evet, yapay"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yuzuk"
+          }
+        },
+        {
+          "id": "ss-t11",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Trenin düdük sesi ne tür kaynaktan gelir?",
+          "dogruCevap": "Yapay ses kaynağı",
+          "secenekler": [
+            "Yapay ses kaynağı",
+            "Doğal ışık kaynağı",
+            "Güneş ışığı",
+            "Doğal ses kaynağı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "tren"
+          }
+        },
+        {
+          "id": "ss-t12",
+          "kazanimKodu": "FEN.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Aslanın sesi hangi ses sınıfına girer?",
+          "dogruCevap": "Doğal ses kaynağı",
+          "secenekler": [
+            "Yapay ses kaynağı",
+            "İnsan yapımı",
+            "Teknoloji sesi",
+            "Doğal ses kaynağı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.3",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "aslan"
+          }
+        },
+        {
+          "id": "ss-t13",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Kuş sesi doğal bir sestir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Hiçbiri",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "ss-t14",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Piyano yapay ses çıkarır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "piyano"
+          }
+        },
+        {
+          "id": "ss-t15",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Sesleri kulaklarımızla duyarız.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulak"
+          }
+        },
+        {
+          "id": "ss-t16",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Yüksek ses kulaklarımıza zarar verebilir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulaklik"
+          }
+        },
+        {
+          "id": "ss-t17",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Zil çaldığında ses duyarız.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "zil"
+          }
+        },
+        {
+          "id": "ss-t18",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Rüzgarın sesi doğaldır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar"
+          }
+        },
+        {
+          "id": "ss-t19",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Gitar çalmak yapay ses üretir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Bazen",
+            "Doğru",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gitar"
+          }
+        },
+        {
+          "id": "ss-t20",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Horoz sabah sesi çıkarır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "horoz"
+          }
+        },
+        {
+          "id": "ss-t21",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Ses kaynağı titreşimle oluşur.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Bazen",
+            "Yanlış",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          }
+        },
+        {
+          "id": "ss-t22",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Ambulans siren sesi çıkarır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ambulans"
+          }
+        },
+        {
+          "id": "ss-t23",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Yağmur damlalarının sesi doğaldır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yagmur"
+          }
+        },
+        {
+          "id": "ss-t24",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Flüt üflemeli bir enstrümandır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "flut"
+          }
+        },
+        {
+          "id": "ss-t25",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Korna yüksek ses çıkarır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "korna"
+          }
+        },
+        {
+          "id": "ss-t26",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Televizyon sesi yapaydır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "televizyon"
+          }
+        },
+        {
+          "id": "ss-t27",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Köpek havlaması doğal sestir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Hiçbiri",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kopek"
+          }
+        },
+        {
+          "id": "ss-t28",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Tren düdüğü yapay sestir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "tren"
+          }
+        },
+        {
+          "id": "ss-t29",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Müzik dinlemek kulaklarımızla olur.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulak"
+          }
+        },
+        {
+          "id": "ss-t30",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Arı vızıltısı doğal sestir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ari"
+          }
+        },
+        {
+          "id": "ss-t31",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Ses boşlukta yayılır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          }
+        },
+        {
+          "id": "ss-t32",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Her sesin bir kaynağı vardır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Bazen",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          }
+        },
+        {
+          "id": "ss-t33",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Fısıldamak düşük sesle konuşmaktır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fisilda"
+          }
+        },
+        {
+          "id": "ss-t34",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Bağırmak yüksek sestir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hiçbiri",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bagirma"
+          }
+        },
+        {
+          "id": "ss-t35",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Sessizlikte ses duymayız.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sessizlik"
+          }
+        },
+        {
+          "id": "ss-t36",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Deniz dalgalarının sesi doğaldır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "deniz"
+          }
+        },
+        {
+          "id": "ss-t37",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Şelale suyun sesi doğaldır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Yanlış",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "selale"
+          }
+        },
+        {
+          "id": "ss-t38",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Müzik aleti sesi yapay mıdır?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hiçbiri",
+            "Bazen",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gitar"
+          }
+        },
+        {
+          "id": "ss-t39",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Dalga sesi doğal mıdır?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hiçbiri",
+            "Evet",
+            "Hayır",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "deniz"
+          }
+        },
+        {
+          "id": "ss-t40",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Kahkaha yüksek ses midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hiçbiri",
+            "Bazen",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "ss-t41",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Fısıltı düşük ses midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fisilda"
+          }
+        },
+        {
+          "id": "ss-t42",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Gürültü kulakları yorar mı?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Hiçbiri",
+            "Evet",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulaklik"
+          }
+        },
+        {
+          "id": "ss-t43",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Doğada kuş sesi duyulur mu?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Hiçbiri",
+            "Evet",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "ss-t44",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Kapı zili ses çıkarır mı?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "zil"
+          }
+        },
+        {
+          "id": "ss-t45",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Ses dalgalar halinde yayılır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Hayır",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          }
+        },
+        {
+          "id": "ss-t46",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Kulaklarımızla işitir miyiz?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hiçbiri",
+            "Hayır",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulak"
+          }
+        },
+        {
+          "id": "ss-t47",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Sessiz kütüphanede ne yaparız?",
+          "dogruCevap": "Sessiz oluruz",
+          "secenekler": [
+            "Sessiz oluruz",
+            "Hayır",
+            "Bazen",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kutuphane"
+          }
+        },
+        {
+          "id": "ss-t48",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Yüksek sesten kaçınmalı mıyız?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Bazen",
+            "Hiçbiri",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kulaklik"
+          }
+        },
+        {
+          "id": "ss-t49",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Sesin kaynağı titreşimdir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Doğru",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "is-anlatim-3"
+          }
+        },
+        {
+          "id": "ss-t50",
+          "kazanimKodu": "FEN.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Sessizlikte ses duyar mıyız?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Bazen çok",
+            "Hayır",
+            "Her zaman"
+          ],
+          "ipucu": "Ses kaynağı olmadan ses duymayız!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "horoz"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

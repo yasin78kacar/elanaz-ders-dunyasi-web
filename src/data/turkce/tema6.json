@@ -1,0 +1,2292 @@
+{
+  "id": "tema-6",
+  "baslik": "Türkçe — Tema 6 — Metin Türleri",
+  "konular": [
+    {
+      "id": "hikaye-metni",
+      "baslik": "Hikâye Metni",
+      "kazanimKodu": "TUR.2.2.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "HİKÂYE; başı, ortası ve sonu olan bir anlatıdır. Hikâyede kahramanlar (kişiler), olay ve yer vardır.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "hm-anlatim-1"
+            }
+          },
+          {
+            "metin": "Hikâyenin BAŞINDA kahramanlar ve yer tanıtılır. GELİŞME bölümünde olaylar yaşanır. SONUÇ bölümünde her şey çözüme kavuşur.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "hm-anlatim-2"
+            }
+          },
+          {
+            "metin": "İyi bir hikâye okuyucuyu içine çeker! Kahraman kim? Nerede? Ne yaşadı? Ne öğrendi? Bu soruları sormak hikâyeyi daha iyi anlamamızı sağlar.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "hm-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "hm-a1",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Hikâyenin kahramanı kim?",
+          "dogruCevap": "Berk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "oyuncak-ayi",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Berk oyuncak ayısını kaybetti. Her yeri aradı; yatağının altına baktı, dolabı karıştırdı. Bulamadı ve ağladı. Annesi geldi ve \"Son nerede oynadın?\" diye sordu. Berk bahçeyi hatırladı. Koştu, baktı — ayı çalının altındaydı! Berk sevinçle güldü."
+        },
+        {
+          "id": "hm-a2",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Berk ne kaybetti?",
+          "dogruCevap": "Oyuncak ayısını",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "oyuncak-ayi",
+            "nesne": "default"
+          },
+          "okumaMetni": "Berk oyuncak ayısını kaybetti. Her yeri aradı; yatağının altına baktı, dolabı karıştırdı. Bulamadı ve ağladı. Annesi geldi ve \"Son nerede oynadın?\" diye sordu. Berk bahçeyi hatırladı. Koştu, baktı — ayı çalının altındaydı! Berk sevinçle güldü."
+        },
+        {
+          "id": "hm-a3",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Berk nereye baktı?",
+          "dogruCevap": "Yatağın altına, dolaba",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "arama",
+            "nesne": "ev"
+          },
+          "okumaMetni": "Berk oyuncak ayısını kaybetti. Her yeri aradı; yatağının altına baktı, dolabı karıştırdı. Bulamadı ve ağladı. Annesi geldi ve \"Son nerede oynadın?\" diye sordu. Berk bahçeyi hatırladı. Koştu, baktı — ayı çalının altındaydı! Berk sevinçle güldü."
+        },
+        {
+          "id": "hm-a4",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Annesi ne sordu?",
+          "dogruCevap": "\"Son nerede oynadın?\"",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "anne-cocuk",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Berk oyuncak ayısını kaybetti. Her yeri aradı; yatağının altına baktı, dolabı karıştırdı. Bulamadı ve ağladı. Annesi geldi ve \"Son nerede oynadın?\" diye sordu. Berk bahçeyi hatırladı. Koştu, baktı — ayı çalının altındaydı! Berk sevinçle güldü."
+        },
+        {
+          "id": "hm-a5",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Oyuncak neredeydi?",
+          "dogruCevap": "Bahçede, çalının altında",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cali-oyuncak",
+            "nesne": "bahce"
+          },
+          "okumaMetni": "Berk oyuncak ayısını kaybetti. Her yeri aradı; yatağının altına baktı, dolabı karıştırdı. Bulamadı ve ağladı. Annesi geldi ve \"Son nerede oynadın?\" diye sordu. Berk bahçeyi hatırladı. Koştu, baktı — ayı çalının altındaydı! Berk sevinçle güldü."
+        },
+        {
+          "id": "hm-a6",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Hikâye nerede geçiyor?",
+          "dogruCevap": "Evde ve bahçede",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ev-bahce",
+            "nesne": "ev"
+          },
+          "okumaMetni": "Berk oyuncak ayısını kaybetti. Her yeri aradı; yatağının altına baktı, dolabı karıştırdı. Bulamadı ve ağladı. Annesi geldi ve \"Son nerede oynadın?\" diye sordu. Berk bahçeyi hatırladı. Koştu, baktı — ayı çalının altındaydı! Berk sevinçle güldü."
+        },
+        {
+          "id": "hm-a7",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Hikâyenin sonu nasıl bitti?",
+          "dogruCevap": "Mutlu sona erdi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "mutlu-berk",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Berk oyuncak ayısını kaybetti. Her yeri aradı; yatağının altına baktı, dolabı karıştırdı. Bulamadı ve ağladı. Annesi geldi ve \"Son nerede oynadın?\" diye sordu. Berk bahçeyi hatırladı. Koştu, baktı — ayı çalının altındaydı! Berk sevinçle güldü."
+        },
+        {
+          "id": "hm-a8",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Bu hikâyenin ana fikri nedir?",
+          "dogruCevap": "Kayıp şeyleri bulmak için son gittiğimiz yeri hatırlamalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dusunen-cocuk",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Berk oyuncak ayısını kaybetti. Her yeri aradı; yatağının altına baktı, dolabı karıştırdı. Bulamadı ve ağladı. Annesi geldi ve \"Son nerede oynadın?\" diye sordu. Berk bahçeyi hatırladı. Koştu, baktı — ayı çalının altındaydı! Berk sevinçle güldü."
+        },
+        {
+          "id": "hm-a9",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Pamuk nasıl bir kedi?",
+          "dogruCevap": "Mahalledeki en küçük kedi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kucuk-kedi",
+            "nesne": "kedi"
+          },
+          "okumaMetni": "Mahalledeki en küçük kedi Pamuk'tu. Diğer kediler büyüktü, Pamuk'a gülerlerdi. Bir gün bahçede bir fare belirdi. Büyük kediler kaçtı! Ama Pamuk korkmadı. Fareyi kovaladı ve kovdu. Artık kimse Pamuk'a gülmüyordu."
+        },
+        {
+          "id": "hm-a10",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Büyük kediler ne yaptı?",
+          "dogruCevap": "Fareden kaçtılar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kacan-kediler",
+            "nesne": "kedi"
+          },
+          "okumaMetni": "Mahalledeki en küçük kedi Pamuk'tu. Diğer kediler büyüktü, Pamuk'a gülerlerdi. Bir gün bahçede bir fare belirdi. Büyük kediler kaçtı! Ama Pamuk korkmadı. Fareyi kovaladı ve kovdu. Artık kimse Pamuk'a gülmüyordu."
+        },
+        {
+          "id": "hm-a11",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Pamuk ne yaptı?",
+          "dogruCevap": "Fareyi kovladı ve kovdu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cesur-kedi-fare",
+            "nesne": "kedi"
+          },
+          "okumaMetni": "Mahalledeki en küçük kedi Pamuk'tu. Diğer kediler büyüktü, Pamuk'a gülerlerdi. Bir gün bahçede bir fare belirdi. Büyük kediler kaçtı! Ama Pamuk korkmadı. Fareyi kovaladı ve kovdu. Artık kimse Pamuk'a gülmüyordu."
+        },
+        {
+          "id": "hm-a12",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Hikâyenin sonunda ne değişti?",
+          "dogruCevap": "Artık kimse Pamuk'a gülmüyor",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "saygili-pamuk",
+            "nesne": "kedi"
+          },
+          "okumaMetni": "Mahalledeki en küçük kedi Pamuk'tu. Diğer kediler büyüktü, Pamuk'a gülerlerdi. Bir gün bahçede bir fare belirdi. Büyük kediler kaçtı! Ama Pamuk korkmadı. Fareyi kovaladı ve kovdu. Artık kimse Pamuk'a gülmüyordu."
+        },
+        {
+          "id": "hm-a13",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "yazili",
+          "soru": "Bu hikâyenin ana fikri nedir?",
+          "dogruCevap": "Cesaret boyuya değil yüreğe bağlıdır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cesur-kucuk-kedi",
+            "nesne": "kedi"
+          },
+          "okumaMetni": "Mahalledeki en küçük kedi Pamuk'tu. Diğer kediler büyüktü, Pamuk'a gülerlerdi. Bir gün bahçede bir fare belirdi. Büyük kediler kaçtı! Ama Pamuk korkmadı. Fareyi kovaladı ve kovdu. Artık kimse Pamuk'a gülmüyordu."
+        }
+      ],
+      "test": [
+        {
+          "id": "hm-t1",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Zeynep ve arkadaşları her gün ne yapardı?",
+          "dogruCevap": "Futbol oynarlardı",
+          "secenekler": [
+            "Koşarlardı",
+            "Futbol oynarlardı",
+            "Kitap okurlarrdı",
+            "Yüzerlerdi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "futbol",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Zeynep ve arkadaşları her gün futbol oynarlardı. Bir gün yağmur yağmaya başladı. \"Eve gidelim\" dedi biri. Ama Zeynep \"Hayır, oynayalım!\" dedi. Çamurda koştular, düştüler, güldüler. Eve döndüklerinde çok kirliydiler ama çok mutluydular da."
+        },
+        {
+          "id": "hm-t2",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yağmur yağınca biri ne dedi?",
+          "dogruCevap": "Eve gidelim",
+          "secenekler": [
+            "Bekleyelim",
+            "Oynayalım",
+            "Şemsiye alalım",
+            "Eve gidelim"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yagmurlu-hava",
+            "nesne": "yagmur"
+          },
+          "okumaMetni": "Zeynep ve arkadaşları her gün futbol oynarlardı. Bir gün yağmur yağmaya başladı. \"Eve gidelim\" dedi biri. Ama Zeynep \"Hayır, oynayalım!\" dedi. Çamurda koştular, düştüler, güldüler. Eve döndüklerinde çok kirliydiler ama çok mutluydular da."
+        },
+        {
+          "id": "hm-t3",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Zeynep ne yapmak istedi?",
+          "dogruCevap": "Oynamaya devam etmek",
+          "secenekler": [
+            "Oynamaya devam etmek",
+            "Eve gitmek",
+            "Ağlamak",
+            "Şemsiye almak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yagmurda-oynayan",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Zeynep ve arkadaşları her gün futbol oynarlardı. Bir gün yağmur yağmaya başladı. \"Eve gidelim\" dedi biri. Ama Zeynep \"Hayır, oynayalım!\" dedi. Çamurda koştular, düştüler, güldüler. Eve döndüklerinde çok kirliydiler ama çok mutluydular da."
+        },
+        {
+          "id": "hm-t4",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Eve döndüklerinde nasıldılar?",
+          "dogruCevap": "Kirli ve mutlu",
+          "secenekler": [
+            "Temiz ve mutlu",
+            "Yorgun ve üzgün",
+            "Hasta ve yorgun",
+            "Kirli ve mutlu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "camurlu-mutlu",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Zeynep ve arkadaşları her gün futbol oynarlardı. Bir gün yağmur yağmaya başladı. \"Eve gidelim\" dedi biri. Ama Zeynep \"Hayır, oynayalım!\" dedi. Çamurda koştular, düştüler, güldüler. Eve döndüklerinde çok kirliydiler ama çok mutluydular da."
+        },
+        {
+          "id": "hm-t5",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bu hikâyenin ana fikri nedir?",
+          "dogruCevap": "Eğlence için mükemmel koşullar gerekmez",
+          "secenekler": [
+            "Zeynep çok iyi futbol oynar",
+            "Yağmurda oynamak tehlikelidir",
+            "Futbol çok güzel bir spordur",
+            "Eğlence için mükemmel koşullar gerekmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yagmurda-mutlu",
+            "nesne": "yagmur"
+          },
+          "okumaMetni": "Zeynep ve arkadaşları her gün futbol oynarlardı. Bir gün yağmur yağmaya başladı. \"Eve gidelim\" dedi biri. Ama Zeynep \"Hayır, oynayalım!\" dedi. Çamurda koştular, düştüler, güldüler. Eve döndüklerinde çok kirliydiler ama çok mutluydular da."
+        },
+        {
+          "id": "hm-t6",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hande ne öğrenmek istiyordu?",
+          "dogruCevap": "Bisiklet sürmeyi",
+          "secenekler": [
+            "Bisiklet sürmeyi",
+            "Paten kaymayı",
+            "Koşmayı",
+            "Yüzmeyi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bisiklet",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Hande bisiklete binmeyi öğrenmek istiyordu. Babası yanında durdu. İlk denemede düştü, dizi kanadı. Ağlamak istedi ama \"Bir daha\" dedi. İkinci denemede de düştü. Üçüncüde ise düşmedi! Bisiklet sürerken rüzgâr saçlarını uçuruyordu."
+        },
+        {
+          "id": "hm-t7",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "İlk denemede ne oldu?",
+          "dogruCevap": "Düştü",
+          "secenekler": [
+            "Ağladı",
+            "Bıraktı",
+            "Başardı",
+            "Düştü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dusen-cocuk",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Hande bisiklete binmeyi öğrenmek istiyordu. Babası yanında durdu. İlk denemede düştü, dizi kanadı. Ağlamak istedi ama \"Bir daha\" dedi. İkinci denemede de düştü. Üçüncüde ise düşmedi! Bisiklet sürerken rüzgâr saçlarını uçuruyordu."
+        },
+        {
+          "id": "hm-t8",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hande kaçıncı denemede başardı?",
+          "dogruCevap": "Üçüncü",
+          "secenekler": [
+            "İkinci",
+            "Birinci",
+            "Üçüncü",
+            "Dördüncü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "basaran-hande",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Hande bisiklete binmeyi öğrenmek istiyordu. Babası yanında durdu. İlk denemede düştü, dizi kanadı. Ağlamak istedi ama \"Bir daha\" dedi. İkinci denemede de düştü. Üçüncüde ise düşmedi! Bisiklet sürerken rüzgâr saçlarını uçuruyordu."
+        },
+        {
+          "id": "hm-t9",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ağlamak istedi ama 'Bir daha' dedi\" cümlesi Hande hakkında ne söylüyor?",
+          "dogruCevap": "Kararlı ve azimli biri",
+          "secenekler": [
+            "Acı hissetmiyor",
+            "Kararlı ve azimli biri",
+            "Ağlamayı sevmiyor",
+            "Bisikleti sevmiyor"
+          ],
+          "ipucu": "Hande düşse de pes etmedi, tekrar denedi.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kararli-hande",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Hande bisiklete binmeyi öğrenmek istiyordu. Babası yanında durdu. İlk denemede düştü, dizi kanadı. Ağlamak istedi ama \"Bir daha\" dedi. İkinci denemede de düştü. Üçüncüde ise düşmedi! Bisiklet sürerken rüzgâr saçlarını uçuruyordu."
+        },
+        {
+          "id": "hm-t10",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bu hikâyenin ana fikri nedir?",
+          "dogruCevap": "Azim ve kararlılıkla her şey başarılır",
+          "secenekler": [
+            "İlk denemede başarmak gerekir",
+            "Azim ve kararlılıkla her şey başarılır",
+            "Babalar çok yardımseverdir",
+            "Bisiklet tehlikeli bir spordur"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bisiklet-mutlu",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Hande bisiklete binmeyi öğrenmek istiyordu. Babası yanında durdu. İlk denemede düştü, dizi kanadı. Ağlamak istedi ama \"Bir daha\" dedi. İkinci denemede de düştü. Üçüncüde ise düşmedi! Bisiklet sürerken rüzgâr saçlarını uçuruyordu."
+        },
+        {
+          "id": "hm-t11",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf ne getirdi?",
+          "dogruCevap": "Oyuncak",
+          "secenekler": [
+            "Resim",
+            "Kitap",
+            "Oyuncak",
+            "Kalem"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "oyuncak-getiren",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Yusuf sınıfa yeni bir oyuncak getirdi. Herkes görmek istedi. Yusuf \"Dokunmayın, benim!\" dedi. Öğretmen \"Paylaşmak güzeldir\" dedi. Yusuf düşündü. Sonra \"Sırayla oynayabilirsiniz\" dedi. Herkes güldü. Yusuf da çok mutlu oldu."
+        },
+        {
+          "id": "hm-t12",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf ilk başta ne dedi?",
+          "dogruCevap": "Dokunmayın, benim",
+          "secenekler": [
+            "Sırayla oynayın",
+            "Öğretmene sorun",
+            "Dokunmayın, benim",
+            "Alın, oynayın"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "koruyucu-yusuf",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Yusuf sınıfa yeni bir oyuncak getirdi. Herkes görmek istedi. Yusuf \"Dokunmayın, benim!\" dedi. Öğretmen \"Paylaşmak güzeldir\" dedi. Yusuf düşündü. Sonra \"Sırayla oynayabilirsiniz\" dedi. Herkes güldü. Yusuf da çok mutlu oldu."
+        },
+        {
+          "id": "hm-t13",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Öğretmen ne dedi?",
+          "dogruCevap": "Paylaşmak güzeldir",
+          "secenekler": [
+            "Oyuncağı eve götür",
+            "Oyuncak getirme",
+            "Arkadaşlarına ver",
+            "Paylaşmak güzeldir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ogretmen-konusuyor",
+            "nesne": "ogretmen"
+          },
+          "okumaMetni": "Yusuf sınıfa yeni bir oyuncak getirdi. Herkes görmek istedi. Yusuf \"Dokunmayın, benim!\" dedi. Öğretmen \"Paylaşmak güzeldir\" dedi. Yusuf düşündü. Sonra \"Sırayla oynayabilirsiniz\" dedi. Herkes güldü. Yusuf da çok mutlu oldu."
+        },
+        {
+          "id": "hm-t14",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf sonunda ne yaptı?",
+          "dogruCevap": "Sırayla oynamaya izin verdi",
+          "secenekler": [
+            "Eve gönderdi",
+            "Sırayla oynamaya izin verdi",
+            "Ağladı",
+            "Oyuncağı sakladı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sirayla-oynayan",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Yusuf sınıfa yeni bir oyuncak getirdi. Herkes görmek istedi. Yusuf \"Dokunmayın, benim!\" dedi. Öğretmen \"Paylaşmak güzeldir\" dedi. Yusuf düşündü. Sonra \"Sırayla oynayabilirsiniz\" dedi. Herkes güldü. Yusuf da çok mutlu oldu."
+        },
+        {
+          "id": "hm-t15",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf neden mutlu oldu?",
+          "dogruCevap": "Paylaşmanın güzelliğini hissetti",
+          "secenekler": [
+            "Herkes gitti",
+            "Oyuncağı geri aldı",
+            "Öğretmen övdü",
+            "Paylaşmanın güzelliğini hissetti"
+          ],
+          "ipucu": "Paylaşınca hem arkadaşları hem kendisi mutlu oldu.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "mutlu-yusuf",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Yusuf sınıfa yeni bir oyuncak getirdi. Herkes görmek istedi. Yusuf \"Dokunmayın, benim!\" dedi. Öğretmen \"Paylaşmak güzeldir\" dedi. Yusuf düşündü. Sonra \"Sırayla oynayabilirsiniz\" dedi. Herkes güldü. Yusuf da çok mutlu oldu."
+        },
+        {
+          "id": "hm-t16",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Selin her yaz nereye giderdi?",
+          "dogruCevap": "Büyükannesinin köyüne",
+          "secenekler": [
+            "Tatil köyüne",
+            "Dağa",
+            "Denize",
+            "Büyükannesinin köyüne"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "koy-evi-bahce",
+            "nesne": "bahce"
+          },
+          "okumaMetni": "Her yaz Selin büyükannesinin köyüne giderdi. Büyükannesinin bahçesinde domates, biber ve salatalık yetişirdi. Selin sulama yapmaya yardım ederdi. \"Tohumdan sebze olur\" derdi büyükannnesi. Selin şehre döndüğünde balkonuna bir saksı dikti."
+        },
+        {
+          "id": "hm-t17",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Büyüannenin bahçesinde ne yetişirdi?",
+          "dogruCevap": "Domates, biber, salatalık",
+          "secenekler": [
+            "Çiçekler",
+            "Elma, armut, muz",
+            "Meyve ağaçları",
+            "Domates, biber, salatalık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sebze-bahcesi",
+            "nesne": "bahce"
+          },
+          "okumaMetni": "Her yaz Selin büyükannesinin köyüne giderdi. Büyükannesinin bahçesinde domates, biber ve salatalık yetişirdi. Selin sulama yapmaya yardım ederdi. \"Tohumdan sebze olur\" derdi büyükannnesi. Selin şehre döndüğünde balkonuna bir saksı dikti."
+        },
+        {
+          "id": "hm-t18",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Selin ne yapmaya yardım ederdi?",
+          "dogruCevap": "Sulamaya",
+          "secenekler": [
+            "Hasat etmeye",
+            "Satmaya",
+            "Pişirmeye",
+            "Sulamaya"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sulama-yapan",
+            "nesne": "bahce"
+          },
+          "okumaMetni": "Her yaz Selin büyükannesinin köyüne giderdi. Büyükannesinin bahçesinde domates, biber ve salatalık yetişirdi. Selin sulama yapmaya yardım ederdi. \"Tohumdan sebze olur\" derdi büyükannnesi. Selin şehre döndüğünde balkonuna bir saksı dikti."
+        },
+        {
+          "id": "hm-t19",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Selin şehre dönünce neden balkonuna saksı dikti?",
+          "dogruCevap": "Büyükannesinden öğrendiklerini uyguladı",
+          "secenekler": [
+            "Büyükannesini özledi",
+            "Annesi istedi",
+            "Ödev için",
+            "Büyükannesinden öğrendiklerini uyguladı"
+          ],
+          "ipucu": "Büyükannesi \"Tohumdan sebze olur\" demişti.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "balkon-saksi",
+            "nesne": "bahce"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Her yaz Selin büyükannesinin köyüne giderdi. Büyükannesinin bahçesinde domates, biber ve salatalık yetişirdi. Selin sulama yapmaya yardım ederdi. \"Tohumdan sebze olur\" derdi büyükannnesi. Selin şehre döndüğünde balkonuna bir saksı dikti."
+        },
+        {
+          "id": "hm-t20",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bu hikâyenin ana fikri nedir?",
+          "dogruCevap": "Büyüklerden öğrendiklerimizi hayata geçirebiliriz",
+          "secenekler": [
+            "Büyükanneler çok bilgelikdir",
+            "Köy hayatı şehirden iyidir",
+            "Büyüklerden öğrendiklerimizi hayata geçirebiliriz",
+            "Sebze yetiştirmek zordur"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "buyukanne-selin",
+            "nesne": "bahce"
+          },
+          "okumaMetni": "Her yaz Selin büyükannesinin köyüne giderdi. Büyükannesinin bahçesinde domates, biber ve salatalık yetişirdi. Selin sulama yapmaya yardım ederdi. \"Tohumdan sebze olur\" derdi büyükannnesi. Selin şehre döndüğünde balkonuna bir saksı dikti."
+        },
+        {
+          "id": "hm-t21",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Can rüyasında ne gördü?",
+          "dogruCevap": "Robot arkadaş",
+          "secenekler": [
+            "Uzay gemisi",
+            "Kitap karakteri",
+            "Robot arkadaş",
+            "Macera"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ruyada-robot",
+            "nesne": "default"
+          },
+          "okumaMetni": "Can robotlarla ilgili bir kitap okudu. O gece rüyasında robot arkadaşı oldu. Robot her sorusuna cevap veriyordu, ama gülemiyordu. Can \"Neden gülmüyorsun?\" diye sordu. Robot \"Duygularım yok\" dedi. Can uyandığında insan arkadaşlarını çok sevdi."
+        },
+        {
+          "id": "hm-t22",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Robot neden gülemiyordu?",
+          "dogruCevap": "Duyguları olmadığı için",
+          "secenekler": [
+            "Duyguları olmadığı için",
+            "Hasta olduğu için",
+            "Bilmiyordu",
+            "İzni olmadığı için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "duygusuz-robot",
+            "nesne": "default"
+          },
+          "okumaMetni": "Can robotlarla ilgili bir kitap okudu. O gece rüyasında robot arkadaşı oldu. Robot her sorusuna cevap veriyordu, ama gülemiyordu. Can \"Neden gülmüyorsun?\" diye sordu. Robot \"Duygularım yok\" dedi. Can uyandığında insan arkadaşlarını çok sevdi."
+        },
+        {
+          "id": "hm-t23",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Can uyandığında neden arkadaşlarını çok sevdi?",
+          "dogruCevap": "İnsan arkadaşların duyguları olduğunu anladı",
+          "secenekler": [
+            "Okula gidecekti",
+            "İnsan arkadaşların duyguları olduğunu anladı",
+            "Rüya korkutucuydu",
+            "Onları özlemişti"
+          ],
+          "ipucu": "Robot \"Duygularım yok\" dedi.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "can-arkadaslari",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Can robotlarla ilgili bir kitap okudu. O gece rüyasında robot arkadaşı oldu. Robot her sorusuna cevap veriyordu, ama gülemiyordu. Can \"Neden gülmüyorsun?\" diye sordu. Robot \"Duygularım yok\" dedi. Can uyandığında insan arkadaşlarını çok sevdi."
+        },
+        {
+          "id": "hm-t24",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bu hikâye ne tür bir metindir?",
+          "dogruCevap": "Hikâye",
+          "secenekler": [
+            "Hikâye",
+            "Haber",
+            "Şiir",
+            "Bilgi metni"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "hikaye-kitabi",
+            "nesne": "kitap"
+          },
+          "okumaMetni": "Can robotlarla ilgili bir kitap okudu. O gece rüyasında robot arkadaşı oldu. Robot her sorusuna cevap veriyordu, ama gülemiyordu. Can \"Neden gülmüyorsun?\" diye sordu. Robot \"Duygularım yok\" dedi. Can uyandığında insan arkadaşlarını çok sevdi."
+        },
+        {
+          "id": "hm-t25",
+          "kazanimKodu": "TUR.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bu hikâyenin vermek istediği mesaj nedir?",
+          "dogruCevap": "İnsan ilişkileri ve duygular değerlidir",
+          "secenekler": [
+            "Robotlar tehlikelidir",
+            "Kitap okumak rüya gördürür",
+            "İnsan ilişkileri ve duygular değerlidir",
+            "Teknoloji gelişiyor"
+          ],
+          "ipucu": "Robot cevap veriyordu ama gülemiyordu.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "insan-robot",
+            "nesne": "default"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Can robotlarla ilgili bir kitap okudu. O gece rüyasında robot arkadaşı oldu. Robot her sorusuna cevap veriyordu, ama gülemiyordu. Can \"Neden gülmüyorsun?\" diye sordu. Robot \"Duygularım yok\" dedi. Can uyandığında insan arkadaşlarını çok sevdi."
+        }
+      ]
+    },
+    {
+      "id": "siir",
+      "baslik": "Şiir",
+      "kazanimKodu": "TUR.2.2.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "ŞİİR, duygu ve düşünceleri ahenkli, ritmik bir şekilde anlatan yazıdır. Şiirde dizeler (satırlar) vardır. Dizeler kıtalar oluşturur.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sr-anlatim-1"
+            }
+          },
+          {
+            "metin": "KAFİYE: Dizelerin sonundaki benzer seslerdir. \"Güneş — gider / Yağmur — biter\" → güneş/gider kafiyesi yok, ama \"güneş/ateş\", \"biter/gider\" kafiyeli!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sr-anlatim-2"
+            }
+          },
+          {
+            "metin": "Şiirde sözcükler gerçek anlamı dışında da kullanılabilir. \"Güneş güldü\" → Güneş aslında gülmez, bu bir benzetmedir!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sr-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "sr-a1",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Bu şiirde kaç kıta var?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "yaz-tatili-kita"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a2",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Şiirde anlatılan mevsim hangisi?",
+          "dogruCevap": "Yaz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "yaz-tatili"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a3",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Dalgalar bekliyordu\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Deniz hazır, hemen gidildi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dalgalı-deniz"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a4",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Şair kumda ne yaptı?",
+          "dogruCevap": "Kale yaptı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "kumda-kale"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a5",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Eve dönerken nasıl hissediyordu?",
+          "dogruCevap": "Yorgun ama mutlu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "yorgun-mutlu"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a6",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Güneş yaktı ensemi\" ifadesinde ne anlatılıyor?",
+          "dogruCevap": "Güneşin çok sıcak olduğu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sicak-gunes"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a7",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Şiirde kafiyeli dizeler var mı?",
+          "dogruCevap": "Evet: \"geldi/işte\" tam değil, \"ensemi/gerçekten\" de tam kafiye değil — öğretici tartışma",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "kafiye-analizi"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a8",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Bu şiirin ana duygusu nedir?",
+          "dogruCevap": "Tatil mutluluğu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "mutlu-deniz"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a9",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Bu şiirde hangi mevsim anlatılıyor?",
+          "dogruCevap": "Sonbahar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sonbahar"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a10",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Rüzgâr söylüyor türkü\" ne anlama geliyor?",
+          "dogruCevap": "Rüzgâr güzel esiyor (kişileştirme)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "ruzgar"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a11",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Ağaçlar dans ediyor\" gerçek mi?",
+          "dogruCevap": "Hayır, benzetme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sallanan-agaclar"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a12",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Yapraklar nasıl anlatılıyor?",
+          "dogruCevap": "Sararmış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sari-yapraklar"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a13",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Şiirde kaç dize var?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dize-sayimi"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        }
+      ],
+      "test": [
+        {
+          "id": "sr-t1",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirde kaç kıta vardır?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "4",
+            "1",
+            "3",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "kar-kita"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t2",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Dünya pamuk olur\" ifadesi ne anlama gelir?",
+          "dogruCevap": "Her yer bembeyaz kar kaplanıyor",
+          "secenekler": [
+            "Pamuk yağıyor",
+            "Pamuk satılıyor",
+            "Her yer bembeyaz kar kaplanıyor",
+            "Yumuşak bir his var"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "karli-manzara"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t3",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çocuklar ne yapıyor?",
+          "dogruCevap": "Dışarı fırlıyor",
+          "secenekler": [
+            "Okula gidiyor",
+            "Evde kalıyor",
+            "Dışarı fırlıyor",
+            "Uyuyor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "karda-oynayan"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t4",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Eller üşür, yüz güler\" ne anlama geliyor?",
+          "dogruCevap": "Soğukta üşüseler de mutlular",
+          "secenekler": [
+            "Elleri acıyor, ağlıyorlar",
+            "Eldiven takıyorlar",
+            "Eve giriyorlar",
+            "Soğukta üşüseler de mutlular"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "usuyen-gulen"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t5",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin ana duygusu nedir?",
+          "dogruCevap": "Kış neşesi",
+          "secenekler": [
+            "Kış korkusu",
+            "Üzüntü",
+            "Kış neşesi",
+            "Soğuktan şikâyet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "karda-mutlu"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t6",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şair okul açılınca ne yaptı?",
+          "dogruCevap": "Sınıfa koştu",
+          "secenekler": [
+            "Eve döndü",
+            "Sınıfa koştu",
+            "Bekledi",
+            "Yavaş yürüdü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "okula-kosan"
+          },
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t7",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Her gün biraz daha büyüdüm\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Her gün yeni şeyler öğrendi",
+          "secenekler": [
+            "Boyu uzadı",
+            "Her gün yeni şeyler öğrendi",
+            "Kilosu arttı",
+            "Yaşlandı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "buyuyen-cocuk"
+          },
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t8",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Okul böyle işte, dolu dolu\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Okul çok şey öğretiyor, zengin bir yer",
+          "secenekler": [
+            "Okul çok şey öğretiyor, zengin bir yer",
+            "Ödev çok",
+            "Sınıf dolu",
+            "Okul kalabalık"
+          ],
+          "ipucu": "Okul dolu dolu = öğrenmekle dolu.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dolu-okul"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t9",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde kaç dize var?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "6",
+            "10",
+            "8",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dize-sayimi"
+          },
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t10",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin ana fikri nedir?",
+          "dogruCevap": "Okul öğrenme ve büyüme yeridir",
+          "secenekler": [
+            "Okul öğrenme ve büyüme yeridir",
+            "Öğretmenler çok anlatır",
+            "Zil güzel çalar",
+            "Okul sıkıcıdır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "mutlu-okul"
+          },
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t11",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirde hangi mevsim anlatılıyor?",
+          "dogruCevap": "Bahar",
+          "secenekler": [
+            "Yaz",
+            "Kış",
+            "Sonbahar",
+            "Bahar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "bahar"
+          },
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t12",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Tohumlar uyandı topraktan\" ne anlama geliyor?",
+          "dogruCevap": "Tohumlar filizleniyor",
+          "secenekler": [
+            "Tohumlar ısınıyor",
+            "Tohumlar filizleniyor",
+            "Tohumlar konuşuyor",
+            "Tohumlar dışarı çıkıyor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "filizlenen-tohum"
+          },
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t13",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Her yer güldü\" ifadesinde ne kullanılmıştır?",
+          "dogruCevap": "Kişileştirme",
+          "secenekler": [
+            "Kişileştirme",
+            "Karşıtlık",
+            "Kafiye",
+            "Gerçek anlatım"
+          ],
+          "ipucu": "Her yer gülmez; doğa insana benzetilmiş.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "kisilestirme"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t14",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Son dizede ne söyleniyor?",
+          "dogruCevap": "Kışın karı gitti",
+          "secenekler": [
+            "Kış geri döndü",
+            "Bahar bitti",
+            "Kar devam ediyor",
+            "Kışın karı gitti"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "eriyen-kar"
+          },
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t15",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde kaç kıta var?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "1",
+            "3",
+            "2",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "bahar-kita"
+          },
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t16",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiir kime yazılmış?",
+          "dogruCevap": "Anneye",
+          "secenekler": [
+            "Büyükanneye",
+            "Öğretmene",
+            "Arkadaşa",
+            "Anneye"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "anne-cocuk"
+          },
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t17",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Elleri sıcak\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Annenin şefkatli ve sevecen olduğu",
+          "secenekler": [
+            "Eldiven takıyor",
+            "Ateşi var",
+            "Elleri gerçekten sıcak",
+            "Annenin şefkatli ve sevecen olduğu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "anne-el-ele"
+          },
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t18",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Gülüşü bana güç verir\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Annenin gülüşü çocuğa enerji ve destek verir",
+          "secenekler": [
+            "Annesini güçlendiriyor",
+            "Gülmek güçlüdür",
+            "Annenin gülüşü çocuğa enerji ve destek verir",
+            "Güç sporu yapıyor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "gulen-anne"
+          },
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t19",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirde kaç dize var?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "3",
+            "5",
+            "6",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dize-sayimi"
+          },
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t20",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin duygusal tonu nedir?",
+          "dogruCevap": "Sevgi dolu",
+          "secenekler": [
+            "Heyecanlı",
+            "Korkulu",
+            "Sevgi dolu",
+            "Üzgün"
+          ],
+          "ipucu": "Annemi çok seviyorum...",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sevgi"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t21",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Deniz nasıl tarif ediliyor?",
+          "dogruCevap": "Büyük ve derin",
+          "secenekler": [
+            "Büyük ve derin",
+            "Küçük ve sığ",
+            "Durgun ve sakin",
+            "Soğuk ve karanlık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "genis-deniz"
+          },
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t22",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Dalgalar oynar benimle\" ifadesi ne tür bir anlatım?",
+          "dogruCevap": "Kişileştirme",
+          "secenekler": [
+            "Kişileştirme",
+            "Gerçek",
+            "Kafiye",
+            "Zıtlık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "oynayan-dalgalar"
+          },
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t23",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Güneş gülümser geride\" ifadesinde ne var?",
+          "dogruCevap": "Kişileştirme",
+          "secenekler": [
+            "Kafiye",
+            "Karşıtlık",
+            "Gerçek bir olay",
+            "Kişileştirme"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "gulen-gunes"
+          },
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t24",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Denize her bakışımda mutluluk doluyorum\" ne anlama geliyor?",
+          "dogruCevap": "Denizi görünce çok mutlu oluyor",
+          "secenekler": [
+            "Deniz suyu içiyor",
+            "Deniz onu doldurdu",
+            "Yüzmek istiyor",
+            "Denizi görünce çok mutlu oluyor"
+          ],
+          "ipucu": "Bakışımda mutluluk doluyorum = görünce seviniyorum.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "denize-bakan"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t25",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin ana duygusu nedir?",
+          "dogruCevap": "Denizden duyulan mutluluk",
+          "secenekler": [
+            "Deniz korkusu",
+            "Yalnızlık",
+            "Denizden duyulan mutluluk",
+            "Yorgunluk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "denizde-mutlu"
+          },
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        }
+      ]
+    },
+    {
+      "id": "bilgi-metni",
+      "baslik": "Bilgi Metni",
+      "kazanimKodu": "TUR.2.2.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "BİLGİ METNİ, bir konuyu açıklamak veya bilgi vermek amacıyla yazılan metindir. Ansiklopediler, ders kitapları, broşürler bilgi metni örnekleridir.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "bt-anlatim-1"
+            }
+          },
+          {
+            "metin": "Bilgi metninde: BAŞLIK (konu ne?), GİRİŞ (konuya giriş), GELİŞME (ayrıntılar), SONUÇ (özet/sonuç) bulunur.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "bt-anlatim-2"
+            }
+          },
+          {
+            "metin": "Bilgi metni okurken ana fikri ve önemli detayları not alırız. \"Bu metinde ne öğrendim?\" sorusu bize yol gösterir!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "bt-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "bt-a1",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Arılar nerede yaşar?",
+          "dogruCevap": "Kovanda",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ari-kovani",
+            "nesne": "default"
+          },
+          "okumaMetni": "Arılar çok çalışkan böceklerdir. Kovanda yaşarlar. Çiçeklerden nektar toplayarak bal yaparlar. Bir arı kovanında binlerce arı yaşar. Kraliçe arı yumurta bırakır, işçi arılar bal yapar, erkek arılar ürer. Bal hem lezzetli hem de sağlıklıdır."
+        },
+        {
+          "id": "bt-a2",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Arılar neyi toplayarak bal yapar?",
+          "dogruCevap": "Çiçeklerden nektar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cicekte-ari",
+            "nesne": "cicek"
+          },
+          "okumaMetni": "Arılar çok çalışkan böceklerdir. Kovanda yaşarlar. Çiçeklerden nektar toplayarak bal yaparlar. Bir arı kovanında binlerce arı yaşar. Kraliçe arı yumurta bırakır, işçi arılar bal yapar, erkek arılar ürer. Bal hem lezzetli hem de sağlıklıdır."
+        },
+        {
+          "id": "bt-a3",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Kraliçe arı ne yapar?",
+          "dogruCevap": "Yumurta bırakır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kralice-ari",
+            "nesne": "default"
+          },
+          "okumaMetni": "Arılar çok çalışkan böceklerdir. Kovanda yaşarlar. Çiçeklerden nektar toplayarak bal yaparlar. Bir arı kovanında binlerce arı yaşar. Kraliçe arı yumurta bırakır, işçi arılar bal yapar, erkek arılar ürer. Bal hem lezzetli hem de sağlıklıdır."
+        },
+        {
+          "id": "bt-a4",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "İşçi arılar ne yapar?",
+          "dogruCevap": "Bal yapar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bal-yapan-arilar",
+            "nesne": "default"
+          },
+          "okumaMetni": "Arılar çok çalışkan böceklerdir. Kovanda yaşarlar. Çiçeklerden nektar toplayarak bal yaparlar. Bir arı kovanında binlerce arı yaşar. Kraliçe arı yumurta bırakır, işçi arılar bal yapar, erkek arılar ürer. Bal hem lezzetli hem de sağlıklıdır."
+        },
+        {
+          "id": "bt-a5",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Bal nasıl tanımlanıyor?",
+          "dogruCevap": "Hem lezzetli hem sağlıklı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bal-kavanozu",
+            "nesne": "default"
+          },
+          "okumaMetni": "Arılar çok çalışkan böceklerdir. Kovanda yaşarlar. Çiçeklerden nektar toplayarak bal yaparlar. Bir arı kovanında binlerce arı yaşar. Kraliçe arı yumurta bırakır, işçi arılar bal yapar, erkek arılar ürer. Bal hem lezzetli hem de sağlıklıdır."
+        },
+        {
+          "id": "bt-a6",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Bu metin ne tür bir metin?",
+          "dogruCevap": "Bilgi metni",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bilgi-metni-etiketi",
+            "nesne": "kitap"
+          },
+          "okumaMetni": "Arılar çok çalışkan böceklerdir. Kovanda yaşarlar. Çiçeklerden nektar toplayarak bal yaparlar. Bir arı kovanında binlerce arı yaşar. Kraliçe arı yumurta bırakır, işçi arılar bal yapar, erkek arılar ürer. Bal hem lezzetli hem de sağlıklıdır."
+        },
+        {
+          "id": "bt-a7",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Bu metnin başlığı ne?",
+          "dogruCevap": "Arılar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ari-baslik",
+            "nesne": "default"
+          },
+          "okumaMetni": "Arılar çok çalışkan böceklerdir. Kovanda yaşarlar. Çiçeklerden nektar toplayarak bal yaparlar. Bir arı kovanında binlerce arı yaşar. Kraliçe arı yumurta bırakır, işçi arılar bal yapar, erkek arılar ürer. Bal hem lezzetli hem de sağlıklıdır."
+        },
+        {
+          "id": "bt-a8",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Bu metinden ne öğrendik?",
+          "dogruCevap": "Arıların nasıl yaşadığı ve bal yaptığı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ari-hayati",
+            "nesne": "default"
+          },
+          "okumaMetni": "Arılar çok çalışkan böceklerdir. Kovanda yaşarlar. Çiçeklerden nektar toplayarak bal yaparlar. Bir arı kovanında binlerce arı yaşar. Kraliçe arı yumurta bırakır, işçi arılar bal yapar, erkek arılar ürer. Bal hem lezzetli hem de sağlıklıdır."
+        },
+        {
+          "id": "bt-a9",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Su döngüsünde ilk adım nedir?",
+          "dogruCevap": "Güneş suyu ısıtır, su buharlaşır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "su-dongusu-semasi",
+            "nesne": "gunes"
+          },
+          "okumaMetni": "Su yeryüzünde sürekli döner. Güneş suyu ısıtır, su buharlaşır. Bulutlar oluşur. Bulutlar soğuyunca yağmur ya da kar yağar. Yağmur suları denize, göle ve nehirlere akar. Sonra tekrar buharlaşır. Bu döngü sonsuza kadar devam eder."
+        },
+        {
+          "id": "bt-a10",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Bulutlar nasıl oluşur?",
+          "dogruCevap": "Su buharlaşır ve yükselir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bulut-olusumu",
+            "nesne": "gunes"
+          },
+          "okumaMetni": "Su yeryüzünde sürekli döner. Güneş suyu ısıtır, su buharlaşır. Bulutlar oluşur. Bulutlar soğuyunca yağmur ya da kar yağar. Yağmur suları denize, göle ve nehirlere akar. Sonra tekrar buharlaşır. Bu döngü sonsuza kadar devam eder."
+        },
+        {
+          "id": "bt-a11",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Yağmur suları nereye akar?",
+          "dogruCevap": "Deniz, göl ve nehirlere",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "su-akisi",
+            "nesne": "default"
+          },
+          "okumaMetni": "Su yeryüzünde sürekli döner. Güneş suyu ısıtır, su buharlaşır. Bulutlar oluşur. Bulutlar soğuyunca yağmur ya da kar yağar. Yağmur suları denize, göle ve nehirlere akar. Sonra tekrar buharlaşır. Bu döngü sonsuza kadar devam eder."
+        },
+        {
+          "id": "bt-a12",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Su döngüsü ne zaman biter?",
+          "dogruCevap": "Bitmez, sonsuza kadar devam eder",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sonsuz-dongu",
+            "nesne": "default"
+          },
+          "okumaMetni": "Su yeryüzünde sürekli döner. Güneş suyu ısıtır, su buharlaşır. Bulutlar oluşur. Bulutlar soğuyunca yağmur ya da kar yağar. Yağmur suları denize, göle ve nehirlere akar. Sonra tekrar buharlaşır. Bu döngü sonsuza kadar devam eder."
+        },
+        {
+          "id": "bt-a13",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "yazili",
+          "soru": "Bu metinin konusu nedir?",
+          "dogruCevap": "Suyun doğadaki döngüsü",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "su-dongusu",
+            "nesne": "default"
+          },
+          "okumaMetni": "Su yeryüzünde sürekli döner. Güneş suyu ısıtır, su buharlaşır. Bulutlar oluşur. Bulutlar soğuyunca yağmur ya da kar yağar. Yağmur suları denize, göle ve nehirlere akar. Sonra tekrar buharlaşır. Bu döngü sonsuza kadar devam eder."
+        }
+      ],
+      "test": [
+        {
+          "id": "bt-t1",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş sisteminde kaç gezegen vardır?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "6",
+            "9",
+            "8",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gunes-sistemi",
+            "nesne": "gunes"
+          },
+          "okumaMetni": "Güneş sisteminde Güneş ve ona bağlı gezegenler bulunur. Sekiz gezegen vardır: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün. Dünya, Güneş'ten üçüncü gezegen olup yaşam barındıran tek gezegendir. Dünya hem kendi etrafında hem de Güneş etrafında döner."
+        },
+        {
+          "id": "bt-t2",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya Güneş'ten kaçıncı gezegendir?",
+          "dogruCevap": "Üçüncü",
+          "secenekler": [
+            "İkinci",
+            "Dördüncü",
+            "Birinci",
+            "Üçüncü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gezegen-siralamasi",
+            "nesne": "gunes"
+          },
+          "okumaMetni": "Güneş sisteminde Güneş ve ona bağlı gezegenler bulunur. Sekiz gezegen vardır: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün. Dünya, Güneş'ten üçüncü gezegen olup yaşam barındıran tek gezegendir. Dünya hem kendi etrafında hem de Güneş etrafında döner."
+        },
+        {
+          "id": "bt-t3",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yaşam barındıran tek gezegen hangisidir?",
+          "dogruCevap": "Dünya",
+          "secenekler": [
+            "Dünya",
+            "Mars",
+            "Jüpiter",
+            "Venüs"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dunya-gezegeni",
+            "nesne": "default"
+          },
+          "okumaMetni": "Güneş sisteminde Güneş ve ona bağlı gezegenler bulunur. Sekiz gezegen vardır: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün. Dünya, Güneş'ten üçüncü gezegen olup yaşam barındıran tek gezegendir. Dünya hem kendi etrafında hem de Güneş etrafında döner."
+        },
+        {
+          "id": "bt-t4",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya hangi hareketleri yapar?",
+          "dogruCevap": "Hem kendi hem Güneş etrafında",
+          "secenekler": [
+            "Sadece Güneş etrafında",
+            "Hem kendi hem Güneş etrafında",
+            "Sadece kendi etrafında",
+            "Hiç dönmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dunya-hareketleri",
+            "nesne": "gunes"
+          },
+          "okumaMetni": "Güneş sisteminde Güneş ve ona bağlı gezegenler bulunur. Sekiz gezegen vardır: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün. Dünya, Güneş'ten üçüncü gezegen olup yaşam barındıran tek gezegendir. Dünya hem kendi etrafında hem de Güneş etrafında döner."
+        },
+        {
+          "id": "bt-t5",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Bu metin ne tür bir metindir?",
+          "dogruCevap": "Bilgi metni",
+          "secenekler": [
+            "Mektup",
+            "Hikâye",
+            "Bilgi metni",
+            "Şiir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bilgi-metni-etiketi",
+            "nesne": "kitap"
+          },
+          "okumaMetni": "Güneş sisteminde Güneş ve ona bağlı gezegenler bulunur. Sekiz gezegen vardır: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs, Neptün. Dünya, Güneş'ten üçüncü gezegen olup yaşam barındıran tek gezegendir. Dünya hem kendi etrafında hem de Güneş etrafında döner."
+        },
+        {
+          "id": "bt-t6",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaçlar ne alıp ne verirler?",
+          "dogruCevap": "Karbondioksit alır, oksijen verir",
+          "secenekler": [
+            "Işık alır, nem verir",
+            "Oksijen alır, karbondioksit verir",
+            "Karbondioksit alır, oksijen verir",
+            "Su alır, hava verir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "agac-gaz-alisverisi",
+            "nesne": "bahce"
+          },
+          "okumaMetni": "Ağaçlar doğanın en önemli varlıklarından biridir. Karbondioksiti alıp oksijen verirler. Böylece havanın temiz kalmasını sağlarlar. Ağaçlar aynı zamanda kuşlara ve böceklere yuva olur. Kâğıt, mobilya ve birçok ürün ağaçtan yapılır. Bu yüzden ağaçları korumak çok önemlidir."
+        },
+        {
+          "id": "bt-t7",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaçlar kimin yuvası olur?",
+          "dogruCevap": "Kuşların ve böceklerin",
+          "secenekler": [
+            "Evcil hayvanların",
+            "Balıkların",
+            "Kuşların ve böceklerin",
+            "İnsanların"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "agacta-kus-yuvasi",
+            "nesne": "kus"
+          },
+          "okumaMetni": "Ağaçlar doğanın en önemli varlıklarından biridir. Karbondioksiti alıp oksijen verirler. Böylece havanın temiz kalmasını sağlarlar. Ağaçlar aynı zamanda kuşlara ve böceklere yuva olur. Kâğıt, mobilya ve birçok ürün ağaçtan yapılır. Bu yüzden ağaçları korumak çok önemlidir."
+        },
+        {
+          "id": "bt-t8",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi ürünler ağaçtan yapılır?",
+          "dogruCevap": "Kâğıt ve mobilya",
+          "secenekler": [
+            "Kâğıt ve mobilya",
+            "Cam ve metal",
+            "Plastik ve kauçuk",
+            "Kumaş ve ipek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "agactan-urunler",
+            "nesne": "default"
+          },
+          "okumaMetni": "Ağaçlar doğanın en önemli varlıklarından biridir. Karbondioksiti alıp oksijen verirler. Böylece havanın temiz kalmasını sağlarlar. Ağaçlar aynı zamanda kuşlara ve böceklere yuva olur. Kâğıt, mobilya ve birçok ürün ağaçtan yapılır. Bu yüzden ağaçları korumak çok önemlidir."
+        },
+        {
+          "id": "bt-t9",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Havanın temiz kalmasını sağlarlar\" cümlesi ağaçların hangi özelliğini anlatıyor?",
+          "dogruCevap": "Karbondioksiti temizleyip oksijen verdikleri",
+          "secenekler": [
+            "Güzel göründükleri",
+            "Karbondioksiti temizleyip oksijen verdikleri",
+            "Meyve verdikleri",
+            "Gölge yaptıkları"
+          ],
+          "ipucu": "Karbondioksiti alıp oksijen verirler.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "temiz-hava-agac",
+            "nesne": "bahce"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Ağaçlar doğanın en önemli varlıklarından biridir. Karbondioksiti alıp oksijen verirler. Böylece havanın temiz kalmasını sağlarlar. Ağaçlar aynı zamanda kuşlara ve böceklere yuva olur. Kâğıt, mobilya ve birçok ürün ağaçtan yapılır. Bu yüzden ağaçları korumak çok önemlidir."
+        },
+        {
+          "id": "bt-t10",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Bu metnin ana fikri nedir?",
+          "dogruCevap": "Ağaçlar doğa için çok önemlidir ve korunmalıdır",
+          "secenekler": [
+            "Kuşlar ağaçlarda yaşar",
+            "Ağaçlardan mobilya yapılır",
+            "Ağaçlar doğa için çok önemlidir ve korunmalıdır",
+            "Ağaçlar güzeldir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "agac-koruma",
+            "nesne": "bahce"
+          },
+          "okumaMetni": "Ağaçlar doğanın en önemli varlıklarından biridir. Karbondioksiti alıp oksijen verirler. Böylece havanın temiz kalmasını sağlarlar. Ağaçlar aynı zamanda kuşlara ve böceklere yuva olur. Kâğıt, mobilya ve birçok ürün ağaçtan yapılır. Bu yüzden ağaçları korumak çok önemlidir."
+        },
+        {
+          "id": "bt-t11",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kemikleri güçlendiren besin grubu hangisidir?",
+          "dogruCevap": "Süt ve süt ürünleri",
+          "secenekler": [
+            "Ekmek ve tahıllar",
+            "Et ve balık",
+            "Sebze ve meyve",
+            "Süt ve süt ürünleri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sut-urunleri",
+            "nesne": "default"
+          },
+          "okumaMetni": "Sağlıklı büyümek için doğru beslenmeliyiz. Her gün sebze ve meyve yemeliyiz. Süt ve süt ürünleri kemiklerimizi güçlendirir. Ekmek ve tahıllar enerji verir. Şeker ve hazır yiyecekler az tüketilmelidir. Su içmek de çok önemlidir."
+        },
+        {
+          "id": "bt-t12",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Enerji veren besin grubu hangisidir?",
+          "dogruCevap": "Ekmek ve tahıllar",
+          "secenekler": [
+            "Su",
+            "Ekmek ve tahıllar",
+            "Meyveler",
+            "Şeker"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ekmek-tahil",
+            "nesne": "default"
+          },
+          "okumaMetni": "Sağlıklı büyümek için doğru beslenmeliyiz. Her gün sebze ve meyve yemeliyiz. Süt ve süt ürünleri kemiklerimizi güçlendirir. Ekmek ve tahıllar enerji verir. Şeker ve hazır yiyecekler az tüketilmelidir. Su içmek de çok önemlidir."
+        },
+        {
+          "id": "bt-t13",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Az tüketilmesi gereken besinler hangileri?",
+          "dogruCevap": "Şeker ve hazır yiyecekler",
+          "secenekler": [
+            "Su",
+            "Sebze ve meyve",
+            "Şeker ve hazır yiyecekler",
+            "Süt ürünleri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "seker-uyari",
+            "nesne": "default"
+          },
+          "okumaMetni": "Sağlıklı büyümek için doğru beslenmeliyiz. Her gün sebze ve meyve yemeliyiz. Süt ve süt ürünleri kemiklerimizi güçlendirir. Ekmek ve tahıllar enerji verir. Şeker ve hazır yiyecekler az tüketilmelidir. Su içmek de çok önemlidir."
+        },
+        {
+          "id": "bt-t14",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Bu metne göre sağlıklı beslenmenin amacı nedir?",
+          "dogruCevap": "Doğru büyümek",
+          "secenekler": [
+            "Şişmanlamak",
+            "Para biriktirmek",
+            "Hızlı koşmak",
+            "Doğru büyümek"
+          ],
+          "ipucu": "Metnin ilk cümlesi: Sağlıklı büyümek için...",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "saglikli-cocuk",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Sağlıklı büyümek için doğru beslenmeliyiz. Her gün sebze ve meyve yemeliyiz. Süt ve süt ürünleri kemiklerimizi güçlendirir. Ekmek ve tahıllar enerji verir. Şeker ve hazır yiyecekler az tüketilmelidir. Su içmek de çok önemlidir."
+        },
+        {
+          "id": "bt-t15",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Bu metin hangi soruya cevap veriyor?",
+          "dogruCevap": "Sağlıklı nasıl besleniriz?",
+          "secenekler": [
+            "Yemek nasıl pişirilir?",
+            "Hangi spor yapmalıyız?",
+            "Sağlıklı nasıl besleniriz?",
+            "Su neden önemlidir?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "saglikli-beslenme",
+            "nesne": "default"
+          },
+          "okumaMetni": "Sağlıklı büyümek için doğru beslenmeliyiz. Her gün sebze ve meyve yemeliyiz. Süt ve süt ürünleri kemiklerimizi güçlendirir. Ekmek ve tahıllar enerji verir. Şeker ve hazır yiyecekler az tüketilmelidir. Su içmek de çok önemlidir."
+        },
+        {
+          "id": "bt-t16",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Deprem nasıl oluşur?",
+          "dogruCevap": "Yer kabuğunun hareketiyle",
+          "secenekler": [
+            "Rüzgârın etkisiyle",
+            "Bulutların birleşmesiyle",
+            "Yer kabuğunun hareketiyle",
+            "Yağmurun etkisiyle"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "deprem",
+            "nesne": "default"
+          },
+          "okumaMetni": "Deprem, yer kabuğunun hareket etmesiyle oluşan doğal bir olaydır. Depremde zemin sallanır. Büyük depremler binalara zarar verebilir. Deprem sırasında paniklemeden \"Çök-Kapan-Tutun\" hareketini yapmalıyız. Güvenli bir yere geçmek önemlidir."
+        },
+        {
+          "id": "bt-t17",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Depremde zemin nasıl olur?",
+          "dogruCevap": "Sallanır",
+          "secenekler": [
+            "Sallanır",
+            "Donur",
+            "Islak olur",
+            "Isınır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sallanan-zemin",
+            "nesne": "default"
+          },
+          "okumaMetni": "Deprem, yer kabuğunun hareket etmesiyle oluşan doğal bir olaydır. Depremde zemin sallanır. Büyük depremler binalara zarar verebilir. Deprem sırasında paniklemeden \"Çök-Kapan-Tutun\" hareketini yapmalıyız. Güvenli bir yere geçmek önemlidir."
+        },
+        {
+          "id": "bt-t18",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Deprem sırasında hangi hareketi yapmalıyız?",
+          "dogruCevap": "Çök-Kapan-Tutun",
+          "secenekler": [
+            "Dur-Otur-Bekle",
+            "Çök-Kapan-Tutun",
+            "Koş-Bağır-Kaç",
+            "Zıpla-Yürü-Git"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "deprem-guvenlik",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Deprem, yer kabuğunun hareket etmesiyle oluşan doğal bir olaydır. Depremde zemin sallanır. Büyük depremler binalara zarar verebilir. Deprem sırasında paniklemeden \"Çök-Kapan-Tutun\" hareketini yapmalıyız. Güvenli bir yere geçmek önemlidir."
+        },
+        {
+          "id": "bt-t19",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Depremde neden paniklememelidir?",
+          "dogruCevap": "Panik hareketlerimizi bozar ve tehlike yaratır",
+          "secenekler": [
+            "Deprem zararsızdır",
+            "Panik hareketlerimizi bozar ve tehlike yaratır",
+            "Deprem çabuk biter",
+            "Herkes panikte"
+          ],
+          "ipucu": "Sakin kalıp güvenli hareket yapmalıyız.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sakin-deprem",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Deprem, yer kabuğunun hareket etmesiyle oluşan doğal bir olaydır. Depremde zemin sallanır. Büyük depremler binalara zarar verebilir. Deprem sırasında paniklemeden \"Çök-Kapan-Tutun\" hareketini yapmalıyız. Güvenli bir yere geçmek önemlidir."
+        },
+        {
+          "id": "bt-t20",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Bu metnin amacı nedir?",
+          "dogruCevap": "Depremi tanıtmak ve güvenlik bilgisi vermek",
+          "secenekler": [
+            "Depremi güzel göstermek",
+            "Depremi tanıtmak ve güvenlik bilgisi vermek",
+            "Deprem masalı yazmak",
+            "Deprem hikâyesi anlatmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bilgi-metni-etiketi",
+            "nesne": "kitap"
+          },
+          "okumaMetni": "Deprem, yer kabuğunun hareket etmesiyle oluşan doğal bir olaydır. Depremde zemin sallanır. Büyük depremler binalara zarar verebilir. Deprem sırasında paniklemeden \"Çök-Kapan-Tutun\" hareketini yapmalıyız. Güvenli bir yere geçmek önemlidir."
+        },
+        {
+          "id": "bt-t21",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuşların uzun yolculuk yapmasına ne denir?",
+          "dogruCevap": "Göç",
+          "secenekler": [
+            "Uçuş",
+            "Yolculuk",
+            "Seyahat",
+            "Göç"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "goc-eden-kuslar",
+            "nesne": "kus"
+          },
+          "okumaMetni": "Bazı kuşlar her yıl uzun yolculuklar yapar. Buna \"göç\" denir. Yazın serin ülkelerde yaşayan kuşlar kışın sıcak ülkelere göç eder. Leylekler, kırlangıçlar ve turna kuşları göç eder. Binlerce kilometre uçarlar. Yorulmadan yollarını bulmak için Güneş ve yıldızlardan yararlanırlar."
+        },
+        {
+          "id": "bt-t22",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuşlar kışın nereye göç eder?",
+          "dogruCevap": "Sıcak ülkelere",
+          "secenekler": [
+            "Bulundukları yerde kalır",
+            "Sıcak ülkelere",
+            "Soğuk ülkelere",
+            "Serin ülkelere"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "goc-haritasi",
+            "nesne": "kus"
+          },
+          "okumaMetni": "Bazı kuşlar her yıl uzun yolculuklar yapar. Buna \"göç\" denir. Yazın serin ülkelerde yaşayan kuşlar kışın sıcak ülkelere göç eder. Leylekler, kırlangıçlar ve turna kuşları göç eder. Binlerce kilometre uçarlar. Yorulmadan yollarını bulmak için Güneş ve yıldızlardan yararlanırlar."
+        },
+        {
+          "id": "bt-t23",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kuşlar göç eder?",
+          "dogruCevap": "Leylek, kırlangıç, turna",
+          "secenekler": [
+            "Papağan, muhabbet kuşu",
+            "Leylek, kırlangıç, turna",
+            "Devekuşu, penguen",
+            "Tavuk, hindi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "leylek-kirlangic",
+            "nesne": "kus"
+          },
+          "okumaMetni": "Bazı kuşlar her yıl uzun yolculuklar yapar. Buna \"göç\" denir. Yazın serin ülkelerde yaşayan kuşlar kışın sıcak ülkelere göç eder. Leylekler, kırlangıçlar ve turna kuşları göç eder. Binlerce kilometre uçarlar. Yorulmadan yollarını bulmak için Güneş ve yıldızlardan yararlanırlar."
+        },
+        {
+          "id": "bt-t24",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuşlar yollarını nasıl bulur?",
+          "dogruCevap": "Güneş ve yıldızlardan yararlanarak",
+          "secenekler": [
+            "Koku alarak",
+            "Haritaya bakarak",
+            "Diğer kuşları takip ederek",
+            "Güneş ve yıldızlardan yararlanarak"
+          ],
+          "ipucu": "Metinde açıkça yazılı.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kus-gunes-yildiz",
+            "nesne": "gunes"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Bazı kuşlar her yıl uzun yolculuklar yapar. Buna \"göç\" denir. Yazın serin ülkelerde yaşayan kuşlar kışın sıcak ülkelere göç eder. Leylekler, kırlangıçlar ve turna kuşları göç eder. Binlerce kilometre uçarlar. Yorulmadan yollarını bulmak için Güneş ve yıldızlardan yararlanırlar."
+        },
+        {
+          "id": "bt-t25",
+          "kazanimKodu": "TUR.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Bu metnin ana fikri nedir?",
+          "dogruCevap": "Bazı kuşlar hayatta kalmak için mevsimlik göç eder",
+          "secenekler": [
+            "Kışın soğuk olur",
+            "Kuşlar çok güçlüdür",
+            "Bazı kuşlar hayatta kalmak için mevsimlik göç eder",
+            "Göç uzun bir yolculuktur"
+          ],
+          "ipucu": "Yazın serin, kışın sıcak ülkelere giderler.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "goc-suru",
+            "nesne": "kus"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Bazı kuşlar her yıl uzun yolculuklar yapar. Buna \"göç\" denir. Yazın serin ülkelerde yaşayan kuşlar kışın sıcak ülkelere göç eder. Leylekler, kırlangıçlar ve turna kuşları göç eder. Binlerce kilometre uçarlar. Yorulmadan yollarını bulmak için Güneş ve yıldızlardan yararlanırlar."
+        }
+      ]
+    }
+  ]
+}

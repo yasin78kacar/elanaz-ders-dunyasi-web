@@ -1,0 +1,2009 @@
+{
+  "id": "tema-1",
+  "baslik": "Matematik — Tema 1 — Sayılar ve Sayma (1-20)",
+  "konular": [
+    {
+      "id": "sayilar-ve-sayma",
+      "baslik": "Sayılar ve Sayma (1-20)",
+      "kazanimKodu": "MAT.2.2.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Elanaz masadaki elmaları sayıyor: 1, 2, 3, 4, 5… Saymak, nesnelerin kaç tane olduğunu bulmaktır. 1'den 20'ye kadar saymayı öğrenelim!",
+            "gorsel": {
+              "tur": "islem",
+              "mod": "anlatim",
+              "sahne": "s1-anlatim-1"
+            }
+          },
+          {
+            "metin": "Sayı doğrusunda sayılar soldan sağa büyür. 7 sayısı 5'ten büyük, 3'ten de büyüktür. Bir sayıdan sonra gelen sayıya 1 ekleriz.",
+            "gorsel": {
+              "tur": "islem",
+              "mod": "anlatim",
+              "sahne": "s1-anlatim-2"
+            }
+          },
+          {
+            "metin": "İki gruptaki nesneleri sayarak hangisinde daha çok olduğunu bulabiliriz. Sayıları okurken \"on bir\", \"on iki\"… \"yirmi\" deriz.",
+            "gorsel": {
+              "tur": "islem",
+              "mod": "anlatim",
+              "sahne": "s1-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "s1-a1",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç elma var?",
+          "dogruCevap": "3",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 3,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-a2",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç top var?",
+          "dogruCevap": "5",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 5,
+            "nesne": "top",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-a3",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç yildiz var?",
+          "dogruCevap": "7",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 7,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "s1-a4",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç balon var?",
+          "dogruCevap": "4",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 4,
+            "nesne": "balon",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "s1-a5",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç cicek var?",
+          "dogruCevap": "6",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 6,
+            "nesne": "cicek",
+            "renk1": "pembe"
+          }
+        },
+        {
+          "id": "s1-a6",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç kelebek var?",
+          "dogruCevap": "8",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 8,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "s1-a7",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç kalem var?",
+          "dogruCevap": "2",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 2,
+            "nesne": "kalem",
+            "renk1": "turuncu"
+          }
+        },
+        {
+          "id": "s1-a8",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç cilek var?",
+          "dogruCevap": "9",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 9,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-a9",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç elma var?",
+          "dogruCevap": "1",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 1,
+            "nesne": "elma",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "s1-a10",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç top var?",
+          "dogruCevap": "10",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 10,
+            "nesne": "top",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-a11",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç yildiz var?",
+          "dogruCevap": "11",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 11,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "s1-a12",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç balon var?",
+          "dogruCevap": "12",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 12,
+            "nesne": "balon",
+            "renk1": "turuncu"
+          }
+        },
+        {
+          "id": "s1-a13",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç cicek var?",
+          "dogruCevap": "13",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 13,
+            "nesne": "cicek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-a14",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç kelebek var?",
+          "dogruCevap": "14",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 14,
+            "nesne": "kelebek",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-a15",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç kalem var?",
+          "dogruCevap": "15",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 15,
+            "nesne": "kalem",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "s1-a16",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç cilek var?",
+          "dogruCevap": "16",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 16,
+            "nesne": "cilek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "s1-a17",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç elma var?",
+          "dogruCevap": "17",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 17,
+            "nesne": "elma",
+            "renk1": "pembe"
+          }
+        },
+        {
+          "id": "s1-a18",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç top var?",
+          "dogruCevap": "18",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 18,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-a19",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç yildiz var?",
+          "dogruCevap": "19",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 19,
+            "nesne": "yildiz",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-a20",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Resimde kaç balon var?",
+          "dogruCevap": "20",
+          "ipucu": "Her birini tek tek say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 20,
+            "nesne": "balon",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "s1-a21",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"yedi\" sayısını rakamla yaz.",
+          "dogruCevap": "7",
+          "ipucu": "Sayının rakam karşılığını düşün.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 7,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-a22",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"on iki\" sayısını rakamla yaz.",
+          "dogruCevap": "12",
+          "ipucu": "Sayının rakam karşılığını düşün.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 12,
+            "nesne": "top",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-a23",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"on beş\" sayısını rakamla yaz.",
+          "dogruCevap": "15",
+          "ipucu": "Sayının rakam karşılığını düşün.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 15,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "s1-a24",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"üç\" sayısını rakamla yaz.",
+          "dogruCevap": "3",
+          "ipucu": "Sayının rakam karşılığını düşün.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 3,
+            "nesne": "balon",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "s1-a25",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"on sekiz\" sayısını rakamla yaz.",
+          "dogruCevap": "18",
+          "ipucu": "Sayının rakam karşılığını düşün.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 18,
+            "nesne": "cicek",
+            "renk1": "turuncu"
+          }
+        },
+        {
+          "id": "s1-a26",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"yirmi\" sayısını rakamla yaz.",
+          "dogruCevap": "20",
+          "ipucu": "Sayının rakam karşılığını düşün.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 20,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "s1-a27",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"dokuz\" sayısını rakamla yaz.",
+          "dogruCevap": "9",
+          "ipucu": "Sayının rakam karşılığını düşün.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 9,
+            "nesne": "kalem",
+            "renk1": "pembe"
+          }
+        },
+        {
+          "id": "s1-a28",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"on dört\" sayısını rakamla yaz.",
+          "dogruCevap": "14",
+          "ipucu": "Sayının rakam karşılığını düşün.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 14,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-a29",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "5 sayısından sonra hangi sayı gelir?",
+          "dogruCevap": "6",
+          "ipucu": "5'e 1 ekle.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              5,
+              6
+            ]
+          }
+        },
+        {
+          "id": "s1-a30",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "9 sayısından önce hangi sayı vardır?",
+          "dogruCevap": "8",
+          "ipucu": "9'dan 1 çıkar.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 5,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "id": "s1-a31",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "12 sayısından sonra hangi sayı gelir?",
+          "dogruCevap": "13",
+          "ipucu": "12'ye 1 ekle.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 10,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              12,
+              13
+            ]
+          }
+        },
+        {
+          "id": "s1-a32",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "17 sayısından önce hangi sayı vardır?",
+          "dogruCevap": "16",
+          "ipucu": "17'den 1 çıkar.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 13,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              16,
+              17
+            ]
+          }
+        },
+        {
+          "id": "s1-a33",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "1'den başlayarak sayarken 4'ten sonra hangi sayı gelir?",
+          "dogruCevap": "5",
+          "ipucu": "Sırayla say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "id": "s1-a34",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "19 sayısından sonra hangi sayı gelir?",
+          "dogruCevap": "20",
+          "ipucu": "19'a 1 ekle.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 15,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              19,
+              20
+            ]
+          }
+        },
+        {
+          "id": "s1-a35",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "11 sayısından önce hangi sayı vardır?",
+          "dogruCevap": "10",
+          "ipucu": "11'den 1 çıkar.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 8,
+            "adim": 1,
+            "adimSayisi": 6,
+            "vurgulananlar": [
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "id": "s1-a36",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Soldaki grupta 4, sağdaki grupta 7 top var. Hangi grupta daha çok top vardır?",
+          "dogruCevap": "7",
+          "ipucu": "Sayıları karşılaştır.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma-grup",
+            "a": 4,
+            "b": 7,
+            "nesne": "top",
+            "renk1": "kirmizi",
+            "renk2": "mavi"
+          }
+        },
+        {
+          "id": "s1-a37",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Soldaki grupta 9, sağdaki grupta 6 elma var. Hangi grupta daha az elma vardır?",
+          "dogruCevap": "6",
+          "ipucu": "Küçük olanı bul.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma-grup",
+            "a": 9,
+            "b": 6,
+            "nesne": "elma",
+            "renk1": "yesil",
+            "renk2": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-a38",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "8 ile 12 sayılarından hangisi daha büyüktür?",
+          "dogruCevap": "12",
+          "ipucu": "Sayı doğrusunda sağdaki daha büyüktür.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 5,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              8,
+              12
+            ]
+          }
+        },
+        {
+          "id": "s1-a39",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "3 ile 3 sayıları eşit midir? \"evet\" veya \"hayır\" yaz.",
+          "dogruCevap": "evet",
+          "ipucu": "İki sayı aynı mı?",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma-grup",
+            "a": 3,
+            "b": 3,
+            "nesne": "yildiz",
+            "renk1": "sari",
+            "renk2": "sari"
+          }
+        },
+        {
+          "id": "s1-a40",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "15 sayısı 10'dan büyük müdür? \"evet\" veya \"hayır\" yaz.",
+          "dogruCevap": "evet",
+          "ipucu": "15, 10'dan sonra gelir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 8,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              10,
+              15
+            ]
+          }
+        },
+        {
+          "id": "s1-a41",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Sayı doğrusunda 6 ile 14 arasında kaç sayı vardır? (6 ve 14 dahil değil)",
+          "dogruCevap": "7",
+          "ipucu": "7, 8, 9, 10, 11, 12, 13",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 5,
+            "adim": 1,
+            "adimSayisi": 12,
+            "vurgulananlar": [
+              6,
+              14
+            ]
+          }
+        },
+        {
+          "id": "s1-a42",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Elanaz 10 tane çiçek saydı, Kerem 10 tane çiçek saydı. Toplam kaç çiçek?",
+          "dogruCevap": "20",
+          "ipucu": "10 + 10",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma-grup",
+            "a": 10,
+            "b": 10,
+            "nesne": "cicek",
+            "renk1": "pembe",
+            "renk2": "mor"
+          }
+        },
+        {
+          "id": "s1-a43",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Sayı doğrusunda mavi ile işaretli sayı kaçtır?",
+          "dogruCevap": "7",
+          "ipucu": "İşaretli noktayı oku.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              7
+            ]
+          }
+        },
+        {
+          "id": "s1-a44",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Sayı doğrusunda vurgulanan sayı kaçtır?",
+          "dogruCevap": "15",
+          "ipucu": "10 ile 20 arasına bak.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 11,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              15
+            ]
+          }
+        },
+        {
+          "id": "s1-a45",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "1'den 20'ye kadar sayarken 10. sayı hangisidir?",
+          "dogruCevap": "10",
+          "ipucu": "Parmaklarınla say.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 12,
+            "vurgulananlar": [
+              10
+            ]
+          }
+        },
+        {
+          "id": "s1-a46",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "Elanaz'ın 0 elması var. Kaç elma vardır?",
+          "dogruCevap": "0",
+          "ipucu": "Hiç yok demektir.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 0,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-a47",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "\"on dokuz\" sayısını rakamla yaz.",
+          "dogruCevap": "19",
+          "ipucu": "On dokuz = 1 ve 9",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 19,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "s1-a48",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "🎭 Resimde 8 elma var. \"6 elma\" diyen arkadaş doğru mu? \"evet\" veya \"hayır\" yaz.",
+          "dogruCevap": "hayır",
+          "ipucu": "Önce say, sonra karşılaştır!",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 8,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "s1-a49",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "🎭 20 sayısından sonra 21 gelir mi? \"evet\" veya \"hayır\" yaz.",
+          "dogruCevap": "hayır",
+          "ipucu": "1'den 20'ye sayıyoruz — 20 en son!",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 15,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              20
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "s1-a50",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "yazili",
+          "soru": "🎭 5 top ile 8 top sayıldı. \"5 daha büyük\" denirse doğru mu? \"evet\" veya \"hayır\" yaz.",
+          "dogruCevap": "hayır",
+          "ipucu": "8, 5'ten büyüktür!",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma-grup",
+            "a": 5,
+            "b": 8,
+            "nesne": "top",
+            "renk1": "kirmizi",
+            "renk2": "mavi"
+          },
+          "sasirtma": true
+        }
+      ],
+      "test": [
+        {
+          "id": "s1-t1",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç elma vardır?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "8",
+            "7",
+            "5",
+            "6"
+          ],
+          "ipucu": "Her birini say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 6,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-t2",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç top vardır?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "9",
+            "7",
+            "10",
+            "8"
+          ],
+          "ipucu": "Tek tek say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 9,
+            "nesne": "top",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-t3",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç yıldız vardır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "5",
+            "4",
+            "3",
+            "6"
+          ],
+          "ipucu": "Dikkatle say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 4,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "s1-t4",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç balon vardır?",
+          "dogruCevap": "11",
+          "secenekler": [
+            "12",
+            "10",
+            "13",
+            "11"
+          ],
+          "ipucu": "Her birini say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 11,
+            "nesne": "balon",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "s1-t5",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç çiçek vardır?",
+          "dogruCevap": "13",
+          "secenekler": [
+            "13",
+            "12",
+            "14",
+            "11"
+          ],
+          "ipucu": "Tek tek say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 13,
+            "nesne": "cicek",
+            "renk1": "pembe"
+          }
+        },
+        {
+          "id": "s1-t6",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç kelebek vardır?",
+          "dogruCevap": "15",
+          "secenekler": [
+            "15",
+            "13",
+            "16",
+            "14"
+          ],
+          "ipucu": "Dikkatle say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 15,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "s1-t7",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç kalem vardır?",
+          "dogruCevap": "17",
+          "secenekler": [
+            "18",
+            "16",
+            "17",
+            "15"
+          ],
+          "ipucu": "Her birini say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 17,
+            "nesne": "kalem",
+            "renk1": "turuncu"
+          }
+        },
+        {
+          "id": "s1-t8",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç çilek vardır?",
+          "dogruCevap": "18",
+          "secenekler": [
+            "16",
+            "18",
+            "17",
+            "19"
+          ],
+          "ipucu": "Tek tek say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 18,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-t9",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç elma vardır?",
+          "dogruCevap": "20",
+          "secenekler": [
+            "20",
+            "18",
+            "19",
+            "21"
+          ],
+          "ipucu": "Hepsini say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 20,
+            "nesne": "elma",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "s1-t10",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç top vardır?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ],
+          "ipucu": "Az sayıda — dikkatle say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 2,
+            "nesne": "top",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-t11",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç yıldız vardır?",
+          "dogruCevap": "14",
+          "secenekler": [
+            "15",
+            "12",
+            "13",
+            "14"
+          ],
+          "ipucu": "Her birini say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 14,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "s1-t12",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç balon vardır?",
+          "dogruCevap": "16",
+          "secenekler": [
+            "14",
+            "17",
+            "16",
+            "15"
+          ],
+          "ipucu": "Tek tek say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 16,
+            "nesne": "balon",
+            "renk1": "turuncu"
+          }
+        },
+        {
+          "id": "s1-t13",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç çiçek vardır?",
+          "dogruCevap": "12",
+          "secenekler": [
+            "13",
+            "12",
+            "11",
+            "10"
+          ],
+          "ipucu": "Dikkatle say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 12,
+            "nesne": "cicek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-t14",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde kaç kelebek vardır?",
+          "dogruCevap": "19",
+          "secenekler": [
+            "19",
+            "20",
+            "17",
+            "18"
+          ],
+          "ipucu": "Her birini say.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 19,
+            "nesne": "kelebek",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-t15",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resimde hiç nesne yoksa kaç tane vardır?",
+          "dogruCevap": "0",
+          "secenekler": [
+            "0",
+            "2",
+            "10",
+            "1"
+          ],
+          "ipucu": "Hiç yok = 0",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 0,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-t16",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"yedi\" sayısının rakam karşılığı hangisidir?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "5",
+            "8",
+            "7",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 7,
+            "nesne": "elma",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "s1-t17",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"on iki\" sayısının rakam karşılığı hangisidir?",
+          "dogruCevap": "12",
+          "secenekler": [
+            "13",
+            "11",
+            "12",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 12,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-t18",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"on beş\" sayısının rakam karşılığı hangisidir?",
+          "dogruCevap": "15",
+          "secenekler": [
+            "16",
+            "15",
+            "13",
+            "14"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 15,
+            "nesne": "cicek",
+            "renk1": "pembe"
+          }
+        },
+        {
+          "id": "s1-t19",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"yirmi\" sayısının rakam karşılığı hangisidir?",
+          "dogruCevap": "20",
+          "secenekler": [
+            "19",
+            "20",
+            "21",
+            "18"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 20,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "s1-t20",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "8 sayısı nasıl okunur?",
+          "dogruCevap": "sekiz",
+          "secenekler": [
+            "yedi",
+            "dokuz",
+            "sekiz",
+            "altı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 8,
+            "nesne": "top",
+            "renk1": "turuncu"
+          }
+        },
+        {
+          "id": "s1-t21",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "11 sayısı nasıl okunur?",
+          "dogruCevap": "on bir",
+          "secenekler": [
+            "on bir",
+            "yirmi bir",
+            "on",
+            "on iki"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 11,
+            "nesne": "kalem",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "s1-t22",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "16 sayısı nasıl okunur?",
+          "dogruCevap": "on altı",
+          "secenekler": [
+            "on altı",
+            "on beş",
+            "on yedi",
+            "on dört"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 16,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-t23",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "3 sayısının yazılışı hangisidir?",
+          "dogruCevap": "üç",
+          "secenekler": [
+            "iki",
+            "üç",
+            "dört",
+            "beş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 3,
+            "nesne": "kelebek",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "s1-t24",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "10 sayısının yazılışı hangisidir?",
+          "dogruCevap": "on",
+          "secenekler": [
+            "yirmi",
+            "on",
+            "dokuz",
+            "on bir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 10,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-t25",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "19 sayısının yazılışı hangisidir?",
+          "dogruCevap": "on dokuz",
+          "secenekler": [
+            "on sekiz",
+            "on yedi",
+            "on dokuz",
+            "yirmi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 19,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "s1-t26",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "7 sayısından sonra hangi sayı gelir?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "7",
+            "8",
+            "6",
+            "9"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 4,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              7,
+              8
+            ]
+          }
+        },
+        {
+          "id": "s1-t27",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "13 sayısından önce hangi sayı vardır?",
+          "dogruCevap": "12",
+          "secenekler": [
+            "13",
+            "10",
+            "11",
+            "12"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 9,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              12,
+              13
+            ]
+          }
+        },
+        {
+          "id": "s1-t28",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "1, 2, 3, 4, … dizisinde 4'ten sonra hangi sayı gelir?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "5",
+            "3",
+            "6",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "id": "s1-t29",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "18 sayısından sonra hangi sayı gelir?",
+          "dogruCevap": "19",
+          "secenekler": [
+            "20",
+            "19",
+            "18",
+            "17"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 14,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              18,
+              19
+            ]
+          }
+        },
+        {
+          "id": "s1-t30",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "10 sayısından önce hangi sayı vardır?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "10",
+            "9",
+            "8",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 5,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "id": "s1-t31",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "2 sayısından sonra hangi sayı gelir?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "4",
+            "1",
+            "2",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 6,
+            "vurgulananlar": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "id": "s1-t32",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "20 sayısından önce hangi sayı vardır?",
+          "dogruCevap": "19",
+          "secenekler": [
+            "20",
+            "18",
+            "17",
+            "19"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 15,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              19,
+              20
+            ]
+          }
+        },
+        {
+          "id": "s1-t33",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "5 ile 6 arasında başka sayı var mı?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet, 5.5",
+            "Evet, 4",
+            "Evet, 7",
+            "Hayır"
+          ],
+          "ipucu": "Tam sayılarda arada sayı yok.",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 3,
+            "adim": 1,
+            "adimSayisi": 6,
+            "vurgulananlar": [
+              5,
+              6
+            ]
+          }
+        },
+        {
+          "id": "s1-t34",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "1'den 20'ye sayarken ilk sayı hangisidir?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "2",
+            "0",
+            "1",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              1
+            ]
+          }
+        },
+        {
+          "id": "s1-t35",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "1'den 20'ye sayarken son sayı hangisidir?",
+          "dogruCevap": "20",
+          "secenekler": [
+            "20",
+            "19",
+            "18",
+            "21"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 13,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              20
+            ]
+          }
+        },
+        {
+          "id": "s1-t36",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi grupta daha çok nesne vardır?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "6",
+            "9",
+            "5",
+            "4"
+          ],
+          "ipucu": "Sayıları karşılaştır.",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma-grup",
+            "a": 5,
+            "b": 9,
+            "nesne": "top",
+            "renk1": "kirmizi",
+            "renk2": "mavi"
+          },
+          "cevapTipi": "sayi"
+        },
+        {
+          "id": "s1-t37",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi sayı daha büyüktür?",
+          "dogruCevap": "17",
+          "secenekler": [
+            "15",
+            "12",
+            "17",
+            "14"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 10,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              12,
+              17
+            ]
+          }
+        },
+        {
+          "id": "s1-t38",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi sayı daha küçüktür?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "12",
+            "15",
+            "3",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              3,
+              12
+            ]
+          }
+        },
+        {
+          "id": "s1-t39",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Soldaki grupta 7, sağdaki grupta 7 elma var. Hangisi doğrudur?",
+          "dogruCevap": "İkisi eşit",
+          "secenekler": [
+            "İkisi eşit",
+            "Sol daha çok",
+            "Sağ daha çok",
+            "Sayılamaz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma-grup",
+            "a": 7,
+            "b": 7,
+            "nesne": "elma",
+            "renk1": "yesil",
+            "renk2": "kirmizi"
+          }
+        },
+        {
+          "id": "s1-t40",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "10 ile 20 arasında hangi sayı vardır?",
+          "dogruCevap": "15",
+          "secenekler": [
+            "5",
+            "15",
+            "8",
+            "25"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 10,
+            "adim": 1,
+            "adimSayisi": 12,
+            "vurgulananlar": [
+              10,
+              15,
+              20
+            ]
+          }
+        },
+        {
+          "id": "s1-t41",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi sayı 1-20 aralığında DEĞİLDİR?",
+          "dogruCevap": "21",
+          "secenekler": [
+            "21",
+            "12",
+            "5",
+            "20"
+          ],
+          "ipucu": "1 ile 20 arasına bak.",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 12,
+            "vurgulananlar": [
+              20
+            ]
+          }
+        },
+        {
+          "id": "s1-t42",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "En büyük tek basamaklı sayı hangisidir?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "9",
+            "10",
+            "11",
+            "8"
+          ],
+          "ipucu": "9'dan sonra 10 gelir.",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 5,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "id": "s1-t43",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sayı doğrusunda vurgulanan sayı kaçtır?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "5",
+            "7",
+            "4",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              6
+            ]
+          }
+        },
+        {
+          "id": "s1-t44",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sayı doğrusunda işaretli sayı kaçtır?",
+          "dogruCevap": "14",
+          "secenekler": [
+            "15",
+            "13",
+            "14",
+            "12"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 10,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              14
+            ]
+          }
+        },
+        {
+          "id": "s1-t45",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sayı doğrusunda vurgulanan sayı kaçtır?",
+          "dogruCevap": "11",
+          "secenekler": [
+            "11",
+            "12",
+            "9",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 8,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              11
+            ]
+          }
+        },
+        {
+          "id": "s1-t46",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "1 ile 5 arasında (5 dahil) kaç sayı vardır?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "3",
+            "5",
+            "4",
+            "6"
+          ],
+          "ipucu": "1, 2, 3, 4, 5",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 8,
+            "vurgulananlar": [
+              1,
+              5
+            ]
+          }
+        },
+        {
+          "id": "s1-t47",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sayı doğrusunda 3 ile 8 arasında kaç sayı vardır? (3 ve 8 dahil)",
+          "dogruCevap": "6",
+          "secenekler": [
+            "5",
+            "4",
+            "7",
+            "6"
+          ],
+          "ipucu": "3'ten 8'e say.",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              3,
+              8
+            ]
+          }
+        },
+        {
+          "id": "s1-t48",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Resimde 5 elma var. \"7 elma\" diyen doğru mu?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Bazen",
+            "Evet",
+            "Hayır",
+            "Bilinemez"
+          ],
+          "ipucu": "Önce say, sonra karşılaştır!",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 5,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "s1-t49",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 0 sayısı \"hiç yok\" anlamına mı gelir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Bilinemez",
+            "Hayır",
+            "Sadece büyük sayılar için",
+            "Evet"
+          ],
+          "ipucu": "0 = hiç demektir!",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "sayma-grup",
+            "a": 0,
+            "nesne": "top",
+            "renk1": "mavi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "s1-t50",
+          "kazanimKodu": "MAT.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 1'den 20'ye sayarken 0 sayısını söyler miyiz?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet, ilk sayı 0",
+            "Sadece sonda",
+            "Hayır",
+            "Her zaman"
+          ],
+          "ipucu": "1'den başlarız!",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 1,
+            "adim": 1,
+            "adimSayisi": 10,
+            "vurgulananlar": [
+              1
+            ]
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

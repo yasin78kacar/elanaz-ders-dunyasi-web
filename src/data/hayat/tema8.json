@@ -1,0 +1,1799 @@
+{
+  "id": "tema-8",
+  "baslik": "Hayat Bilgisi — Tema 8 — İletişim",
+  "konular": [
+    {
+      "id": "iletisim",
+      "baslik": "İletişim",
+      "kazanimKodu": "HB.2.2.5",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Ailemizde anne, baba, kardeş, dede ve nene gibi bireyler bulunur. Ailemizde birbirimize sevgi gösterir, yardımlaşırız.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "aa-anlatim-1"
+            }
+          },
+          {
+            "metin": "Arkadaşlarımızla paylaşır, birlikte oynarız. Kıskançlık yapmamalı, hata yaptığımızda özür dilemeliyiz.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "aa-anlatim-2"
+            }
+          },
+          {
+            "metin": "İyi bir arkadaş paylaşır, yardım eder ve dürüsttür. Ailemizde ve arkadaşlıkta sevgi ve saygı en önemli değerlerdir.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "aa-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "il-a1",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ailemizde kimler bulunabilir?",
+          "dogruCevap": "Anne, baba, kardeş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "il-a2",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ailemizde birbirimize sevgi göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "il-a3",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde yardımlaşmak güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-isleri",
+            "ozellik": "yardim"
+          }
+        },
+        {
+          "id": "il-a4",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımızla paylaşmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "il-a5",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımıza kıskanmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "kiskanclik-yok"
+          }
+        },
+        {
+          "id": "il-a6",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Hata yaptığımızda ne yapmalıyız?",
+          "dogruCevap": "Özür dilemeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "il-a7",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımızla birlikte oynamak güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "birlikte-oyun",
+            "ozellik": "oyun"
+          }
+        },
+        {
+          "id": "il-a8",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Annemize saygılı olmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "il-a9",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Babamıza yardım etmeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "baba",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "il-a10",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Kardeşimize kaba davranmalı mıyız?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kardes",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "il-a11",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımız üzgünse ne yapmalıyız?",
+          "dogruCevap": "Yanında olmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadas-destek",
+            "ozellik": "empati"
+          }
+        },
+        {
+          "id": "il-a12",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Oyuncağımızı paylaşmak doğru mudur?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "il-a13",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ailemizde sevgi önemli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "il-a14",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımıza yalan söylemeli miyiz?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "durustluk",
+            "ozellik": "dogruluk"
+          }
+        },
+        {
+          "id": "il-a15",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Dedemize ve nenemize saygı göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "dede",
+              "nene"
+            ],
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "il-a16",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde masayı birlikte kurmak yardımlaşma mıdır?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-isleri",
+            "ozellik": "yardim"
+          }
+        },
+        {
+          "id": "il-a17",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımızın sırrını herkese anlatmalı mıyız?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "guven",
+            "ozellik": "sır"
+          }
+        },
+        {
+          "id": "il-a18",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Birbirimize \"özür dilerim\" demek güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "il-a19",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Aile bireylerinden üçünü yaz",
+          "dogruCevap": "Anne, baba, kardeş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "il-a20",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşlıkta en önemli şeylerden biri nedir?",
+          "dogruCevap": "Güven ve paylaşma",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "guven"
+          }
+        },
+        {
+          "id": "il-a21",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ailemizde kavga etmek yerine ne yapmalıyız?",
+          "dogruCevap": "Konuşarak çözmek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "il-a22",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımızın oyuncağını kırarsak ne yapmalıyız?",
+          "dogruCevap": "Özür dilemeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "il-a23",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde annemize yardım etmek güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "il-a24",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımızla dışarıda oynamak güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "birlikte-oyun",
+            "ozellik": "disarida"
+          }
+        },
+        {
+          "id": "il-a25",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "İyi bir arkadaş nasıl davranır?",
+          "dogruCevap": "Paylaşır, yardım eder ve saygılıdır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "iyi-arkadas"
+          }
+        },
+        {
+          "id": "il-a26",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Konuşurken karşımızdakini dinlemeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "dinleme",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a27",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Teşekkür etmek güzel bir iletişimdir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "tesekkur",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a28",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Özür dilemek önemlidir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "il-a29",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Kibarca konuşmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "kibarlik",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a30",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Duygularımızı sözcüklerle ifade ederiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "ifade"
+          }
+        },
+        {
+          "id": "il-a31",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Başkalarının sözünü kesmemeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "dinleme",
+            "ozellik": "saygi"
+          }
+        },
+        {
+          "id": "il-a32",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Selamlaşmak iletişimin başlangıcıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "selamlasma",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a33",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Hoşça kal demek güzel bir vedadır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "veda",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a34",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Sorular sormak öğrenmemize yardım eder.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "soru-sorma",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a35",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Yalan söylemek iletişimi bozar.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "durustluk",
+            "ozellik": "guven"
+          }
+        },
+        {
+          "id": "il-a36",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Gülümsemek olumlu iletişimdir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "il-a37",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Telefonla konuşurken kibar oluruz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "telefon"
+          }
+        },
+        {
+          "id": "il-a38",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "İletişimde sabırlı olmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sabir",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a39",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Fikirlerimizi açıkça söyleyebiliriz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "ifade"
+          }
+        },
+        {
+          "id": "il-a40",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "İyi bir dinleyici olmak önemlidir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "dinleme",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a41",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "İletişimde saygılı olmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "saygi",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a42",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Yardım istemek iletişimin parçasıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yardim-isteme",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a43",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Grup çalışmasında konuşarak anlaşırız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "ogrenci",
+              "arkadas"
+            ],
+            "vurgu": "iletisim"
+          }
+        },
+        {
+          "id": "il-a44",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "İletişim ilişkilerimizi güçlendirir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "il-a45",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Etkili iletişim başarının anahtarıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "aa-anlatim-2"
+          }
+        },
+        {
+          "id": "il-a46",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Göz teması kurmak iletişimi güçlendirir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "goz-temasi",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a47",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Telefonda yüksek sesle konuşmamalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "telefon",
+            "vurgu": "kibarlik"
+          }
+        },
+        {
+          "id": "il-a48",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Mesajlarımızı nazikçe yazarız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "tablet",
+            "vurgu": "iletisim"
+          }
+        },
+        {
+          "id": "il-a49",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Beden dilimiz de iletişim kurar.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "beden-dili",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-a50",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "yazili",
+          "soru": "Mektuplar yazmak iletişim yoludur.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mektup"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "il-t1",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde kimler bulunabilir?",
+          "dogruCevap": "Anne ve baba",
+          "secenekler": [
+            "Sadece komşu",
+            "Sadece öğretmen",
+            "Anne ve baba",
+            "Sadece doktor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "il-t2",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde birbirimize ne göstermeliyiz?",
+          "dogruCevap": "Sevgi",
+          "secenekler": [
+            "Kaba davranış",
+            "Kızgınlık",
+            "Kıskançlık",
+            "Sevgi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "il-t3",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde yardımlaşmak güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece büyükler",
+            "Evet",
+            "Hayır",
+            "Hiç gerekmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-isleri",
+            "ozellik": "yardim"
+          }
+        },
+        {
+          "id": "il-t4",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşlarımızla ne yapmalıyız?",
+          "dogruCevap": "Paylaşmalıyız",
+          "secenekler": [
+            "Kıskanmalıyız",
+            "Kavga etmeliyiz",
+            "Yalan söylemeliyiz",
+            "Paylaşmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "il-t5",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımıza kıskanmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Hayır",
+            "Her zaman",
+            "Bazen olur",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "kiskanclik-yok"
+          }
+        },
+        {
+          "id": "il-t6",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hata yaptığımızda ne yapmalıyız?",
+          "dogruCevap": "Özür dilemeliyiz",
+          "secenekler": [
+            "Kaçmalıyız",
+            "Yalan söylemeliyiz",
+            "Bağırmalıyız",
+            "Özür dilemeliyiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "il-t7",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşlarımızla birlikte oynamak güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hiç oynamamalıyız",
+            "Sadece yalnız",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "birlikte-oyun",
+            "ozellik": "oyun"
+          }
+        },
+        {
+          "id": "il-t8",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Arkadaşımızın oyuncağını izinsiz almak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Hayır",
+            "Sadece küçükse",
+            "Evet",
+            "Merak ettiğimizde evet"
+          ],
+          "ipucu": "Paylaşmak güzeldir ama izin almalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "izin"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "il-t9",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Annemize nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "secenekler": [
+            "Umursamaz",
+            "Saygılı",
+            "Bağırarak",
+            "Kaba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "il-t10",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Babamıza yardım etmek güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece annemize",
+            "Evet",
+            "Hayır",
+            "Hiç gerekmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "baba",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "il-t11",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kardeşimize kaba davranmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Bazen",
+            "Hayır",
+            "Evet",
+            "Kızdığımızda evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kardes",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "il-t12",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımız üzgünse ne yapmalıyız?",
+          "dogruCevap": "Yanında olmalıyız",
+          "secenekler": [
+            "Alay etmeliyiz",
+            "Yanında olmalıyız",
+            "Uzaklaşmalıyız",
+            "Gülmeliyiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadas-destek",
+            "ozellik": "empati"
+          }
+        },
+        {
+          "id": "il-t13",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde sevgi önemli midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Sadece bayramda",
+            "Fark etmez",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "il-t14",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımıza yalan söylemek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Bazen",
+            "Evet",
+            "Hayır",
+            "Şaka için evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "durustluk",
+            "ozellik": "dogruluk"
+          }
+        },
+        {
+          "id": "il-t15",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Dedemize ve nenemize nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "secenekler": [
+            "Bağırarak",
+            "Saygılı",
+            "Kaba",
+            "Umursamaz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "dede",
+              "nene"
+            ],
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "il-t16",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Evde sadece annemiz mi yardımlaşmalıdır?",
+          "dogruCevap": "Hayır, hepimiz yardımlaşmalıyız",
+          "secenekler": [
+            "Hayır, hepimiz yardımlaşmalıyız",
+            "Evet, sadece annemiz",
+            "Hiç kimse yardım etmez",
+            "Sadece babamız"
+          ],
+          "ipucu": "Ailede herkes görev alır!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-isleri",
+            "ozellik": "yardim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "il-t17",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımızın sırrını herkese anlatmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Merak ettiğimizde evet",
+            "Hayır",
+            "Sadece annemize"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "guven",
+            "ozellik": "sır"
+          }
+        },
+        {
+          "id": "il-t18",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Birbirimize \"özür dilerim\" demek güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Sadece büyükler",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "il-t19",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "İyi bir arkadaş nasıl davranır?",
+          "dogruCevap": "Paylaşır ve yardım eder",
+          "secenekler": [
+            "Kavga eder",
+            "Paylaşır ve yardım eder",
+            "Yalan söyler",
+            "Kıskanır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "iyi-arkadas"
+          }
+        },
+        {
+          "id": "il-t20",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Arkadaşımızın başarısını kıskanmak doğru mudur?",
+          "dogruCevap": "Hayır, onu tebrik etmeliyiz",
+          "secenekler": [
+            "Hayır, onu tebrik etmeliyiz",
+            "Evet, hep kıskanmalıyız",
+            "Uzaklaşmalıyız",
+            "Onu eleştirmeliyiz"
+          ],
+          "ipucu": "İyi arkadaş birbirini destekler!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "kiskanclik-yok"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "il-t21",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde kavga yerine ne yapmalıyız?",
+          "dogruCevap": "Konuşarak çözmek",
+          "secenekler": [
+            "Konuşarak çözmek",
+            "Bağırmak",
+            "Susmak",
+            "Kaçmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "il-t22",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımızın oyuncağını kırarsak ne yapmalıyız?",
+          "dogruCevap": "Özür dilemeliyiz",
+          "secenekler": [
+            "Suçlamalıyız",
+            "Kaçmalıyız",
+            "Özür dilemeliyiz",
+            "Gizlemeliyiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "il-t23",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde annemize yardım etmek güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Sadece babamız",
+            "Hiç gerekmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "il-t24",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Paylaşmak sadece oyuncaklar için midir?",
+          "dogruCevap": "Hayır, sevgi ve yardım da paylaşılır",
+          "secenekler": [
+            "Evet, sadece oyuncak",
+            "Hayır, sevgi ve yardım da paylaşılır",
+            "Sadece yemek için",
+            "Hiç paylaşmayız"
+          ],
+          "ipucu": "Paylaşmak güzel bir davranıştır!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "paylasim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "il-t25",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Aile ve arkadaşlıkta en önemli değer hangisidir?",
+          "dogruCevap": "Sevgi ve saygı",
+          "secenekler": [
+            "Kıskançlık",
+            "Kaba davranış",
+            "Sevgi ve saygı",
+            "Yalan"
+          ],
+          "ipucu": "Sevgi ve saygı ilişkilerimizi güçlendirir!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "aa-anlatim-3"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "il-t26",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Konuşurken karşımızdakini dinlemeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "dinleme",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t27",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Teşekkür etmek güzel bir iletişimdir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "tesekkur",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t28",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Özür dilemek önemlidir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "il-t29",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Kibarca konuşmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "kibarlik",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t30",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Duygularımızı sözcüklerle ifade ederiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "ifade"
+          }
+        },
+        {
+          "id": "il-t31",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Başkalarının sözünü kesmemeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Fark etmez",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "dinleme",
+            "ozellik": "saygi"
+          }
+        },
+        {
+          "id": "il-t32",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Selamlaşmak iletişimin başlangıcıdır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "selamlasma",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t33",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Hoşça kal demek güzel bir vedadır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "veda",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t34",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Sorular sormak öğrenmemize yardım eder.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "soru-sorma",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t35",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Yalan söylemek iletişimi bozar.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "durustluk",
+            "ozellik": "guven"
+          }
+        },
+        {
+          "id": "il-t36",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Gülümsemek olumlu iletişimdir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "il-t37",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Telefonla konuşurken kibar oluruz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Gereksiz",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "telefon"
+          }
+        },
+        {
+          "id": "il-t38",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "İletişimde sabırlı olmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sabir",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t39",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Fikirlerimizi açıkça söyleyebiliriz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Evet",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "ifade"
+          }
+        },
+        {
+          "id": "il-t40",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "İyi bir dinleyici olmak önemlidir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "dinleme",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t41",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "İletişimde saygılı olmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "saygi",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t42",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Yardım istemek iletişimin parçasıdır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yardim-isteme",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t43",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Grup çalışmasında konuşarak anlaşırız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "ogrenci",
+              "arkadas"
+            ],
+            "vurgu": "iletisim"
+          }
+        },
+        {
+          "id": "il-t44",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "İletişim ilişkilerimizi güçlendirir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "il-t45",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Etkili iletişim başarının anahtarıdır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "aa-anlatim-2"
+          }
+        },
+        {
+          "id": "il-t46",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Göz teması kurmak iletişimi güçlendirir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "goz-temasi",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t47",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Telefonda yüksek sesle konuşmamalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "telefon",
+            "vurgu": "kibarlik"
+          }
+        },
+        {
+          "id": "il-t48",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Mesajlarımızı nazikçe yazarız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "tablet",
+            "vurgu": "iletisim"
+          }
+        },
+        {
+          "id": "il-t49",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "Beden dilimiz de iletişim kurar.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "beden-dili",
+            "ozellik": "iletisim"
+          }
+        },
+        {
+          "id": "il-t50",
+          "kazanimKodu": "HB.2.2.5",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Başkasının sözünü kesmek kibar mıdır?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Hızlı konuşunca",
+            "Bazen"
+          ],
+          "ipucu": "Dinlemek iyi iletişimin parçasıdır!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mektup"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

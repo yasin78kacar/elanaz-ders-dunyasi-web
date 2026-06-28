@@ -1,0 +1,1815 @@
+{
+  "id": "tema-1",
+  "baslik": "Fen Bilimleri — Tema 1 — Canlıların Sınıflandırılması",
+  "konular": [
+    {
+      "id": "canlilarin-siniflandirilmasi",
+      "baslik": "Canlıların Sınıflandırılması",
+      "kazanimKodu": "FEN.2.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Dünyamızda canlılar ve cansızlar vardır. Canlılar; kedi, kuş, ağaç, çiçek gibi büyüyen ve beslenen varlıklardır. Cansızlar; taş, kitap, masa gibi büyümeyen varlıklardır.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "cc-anlatim-1"
+            }
+          },
+          {
+            "metin": "Canlıların 7 yaşam özelliği vardır: Büyür, beslenir, solur, ürer, hareket eder, tepki verir ve ölür.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "cc-anlatim-2"
+            }
+          },
+          {
+            "metin": "Bir varlığın canlı olup olmadığını anlamak için yaşam özelliklerine bakarız. Hepsini gösteriyorsa canlıdır!",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "cc-anlatim-3"
+            }
+          },
+          {
+            "metin": "Bitkilerin beş ana parçası vardır: Kök, gövde, yaprak, çiçek ve meyve. Kök bitkiyi toprağa tutar, gövde yükseltir, yaprak güneş enerjisi alır.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "bt-anlatim-1"
+            }
+          },
+          {
+            "metin": "Bitkilerin yaşaması için su, güneş, toprak ve havaya ihtiyaç vardır. Bu ihtiyaçlar olmadan bitki sağlıklı büyüyemez.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "bt-anlatim-2"
+            }
+          },
+          {
+            "metin": "Bitkiler de canlıdır! Büyür, beslenir, solur, ürer ve ölür. Ağaçlar, çiçekler ve sebzeler bitkidir.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "bt-anlatim-3"
+            }
+          },
+          {
+            "metin": "Hayvanlar farklı gruplara ayrılır: Memeliler (kedi, inek), kuşlar (ördek, serçe), balıklar ve böcekler (arı, kelebek).",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hv-anlatim-1"
+            }
+          },
+          {
+            "metin": "Hayvanlar farklı ortamlarda yaşar. Kimi karada (kedi), kimi suda (balık), kimi de havada (kuş) yaşar.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hv-anlatim-2"
+            }
+          },
+          {
+            "metin": "Hayvanların vücut örtüleri farklıdır: Kuşlarda tüy, balıklarda pul, memelilerde deri ve tüy bulunur. Hayvanlar yürür, uçar, yüzer veya sürünerek hareket eder.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hv-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "cn-a1",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Kedi canlı mı cansız mı?",
+          "dogruCevap": "Canlı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "cn-a2",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Taş canlı mı cansız mı?",
+          "dogruCevap": "Cansız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "tas"
+          }
+        },
+        {
+          "id": "cn-a3",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Canlıların kaç yaşam özelliği vardır?",
+          "dogruCevap": "7",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "cc-anlatim-2"
+          }
+        },
+        {
+          "id": "cn-a4",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Canlılar büyür mü?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "cn-a5",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Taş büyür mü?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "tas"
+          }
+        },
+        {
+          "id": "cn-a6",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Canlılar beslenir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "cn-a7",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Masanın beslenmesi gerekir mi?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "masa"
+          }
+        },
+        {
+          "id": "cn-a8",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Canlılar solur mu?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "insan"
+          }
+        },
+        {
+          "id": "cn-a9",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Kitap solur mu?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "cn-a10",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Canlılar ürer mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "cn-a11",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Araba ürer mi?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "cn-a12",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Canlılar hareket eder mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "cn-a13",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Kaya kendiliğinden hareket eder mi?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kaya"
+          }
+        },
+        {
+          "id": "cn-a14",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Canlılar tepki verir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kopek"
+          }
+        },
+        {
+          "id": "cn-a15",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Ağaç canlı mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "cn-a16",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "Top canlı mı?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "top"
+          }
+        },
+        {
+          "id": "cn-a17",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "yazili",
+          "soru": "İnsan canlı mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "insan"
+          }
+        },
+        {
+          "id": "cn-a18",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitkinin toprağa tutunmasını sağlayan kısım hangisidir?",
+          "dogruCevap": "Kök",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "kök"
+          }
+        },
+        {
+          "id": "cn-a19",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitkinin toprak üstünde yükselen ana gövdesi nedir?",
+          "dogruCevap": "Gövde",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "gövde"
+          }
+        },
+        {
+          "id": "cn-a20",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitkinin yeşil kısmı ve güneş enerjisi alan parçası hangisidir?",
+          "dogruCevap": "Yaprak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "yaprak"
+          }
+        },
+        {
+          "id": "cn-a21",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitkinin renkli ve güzel olan üreme kısmı hangisidir?",
+          "dogruCevap": "Çiçek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "çiçek"
+          }
+        },
+        {
+          "id": "cn-a22",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Tohumları koruyan bitki parçası hangisidir?",
+          "dogruCevap": "Meyve",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "meyve"
+          }
+        },
+        {
+          "id": "cn-a23",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitkilerin yaşaması için su gerekli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "su"
+          }
+        },
+        {
+          "id": "cn-a24",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitkilerin yaşaması için güneş gerekli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "cn-a25",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitkilerin yaşaması için toprak gerekli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "toprak"
+          }
+        },
+        {
+          "id": "cn-a26",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitkilerin yaşaması için hava gerekli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "cicek",
+              "su",
+              "gunes",
+              "toprak"
+            ]
+          }
+        },
+        {
+          "id": "cn-a27",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Ağacın kökü nerededir?",
+          "dogruCevap": "Toprak altında",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "kök"
+          }
+        },
+        {
+          "id": "cn-a28",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Yapraklar genellikle hangi renktedir?",
+          "dogruCevap": "Yeşil",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "yaprak"
+          }
+        },
+        {
+          "id": "cn-a29",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitki büyür mü?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "cn-a30",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Çiçekten sonra bitkide ne oluşabilir?",
+          "dogruCevap": "Meyve",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "meyve"
+          }
+        },
+        {
+          "id": "cn-a31",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Havuç gibi sebzeler bitki midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sebze"
+          }
+        },
+        {
+          "id": "cn-a32",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Elma bitkiden mi gelir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "cn-a33",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitki solur mu?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "cn-a34",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "yazili",
+          "soru": "Bitki beslenir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "cn-a35",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedinin vücut örtüsü nedir?",
+          "dogruCevap": "Deri ve tüy",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "deri"
+          }
+        },
+        {
+          "id": "cn-a36",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuşun vücut örtüsü nedir?",
+          "dogruCevap": "Tüy",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "tuy"
+          }
+        },
+        {
+          "id": "cn-a37",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balığın vücut örtüsü nedir?",
+          "dogruCevap": "Pul",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "pul"
+          }
+        },
+        {
+          "id": "cn-a38",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedi nerede yaşar?",
+          "dogruCevap": "Kara",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "kara"
+          }
+        },
+        {
+          "id": "cn-a39",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balık nerede yaşar?",
+          "dogruCevap": "Su",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "cn-a40",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuş en çok hangi ortamda hareket eder?",
+          "dogruCevap": "Hava",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "hava"
+          }
+        },
+        {
+          "id": "cn-a41",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedi nasıl hareket eder?",
+          "dogruCevap": "Yürür",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "yurur"
+          }
+        },
+        {
+          "id": "cn-a42",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuş nasıl hareket eder?",
+          "dogruCevap": "Uçar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "ucar"
+          }
+        },
+        {
+          "id": "cn-a43",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balık nasıl hareket eder?",
+          "dogruCevap": "Yüzer",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "yuzer"
+          }
+        },
+        {
+          "id": "cn-a44",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Yavrusunu sütle besleyen hayvanlara ne denir?",
+          "dogruCevap": "Memeli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "cn-a45",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedi memeli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "cn-a46",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuş hangi gruptadır?",
+          "dogruCevap": "Kuş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "cn-a47",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balık hangi gruptadır?",
+          "dogruCevap": "Balık",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "balik"
+          }
+        },
+        {
+          "id": "cn-a48",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Arı hangi gruptadır?",
+          "dogruCevap": "Böcek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ari",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "cn-a49",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kelebek böcek midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kelebek",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "cn-a50",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "İnek memeli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "cn-t1",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi canlıdır?",
+          "dogruCevap": "Kedi",
+          "secenekler": [
+            "Masa",
+            "Kedi",
+            "Kaya",
+            "Kitap"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "kedi",
+              "kaya",
+              "masa",
+              "kitap"
+            ],
+            "vurgu": "kedi"
+          }
+        },
+        {
+          "id": "cn-t2",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi cansızdır?",
+          "dogruCevap": "Taş",
+          "secenekler": [
+            "Kedi",
+            "Ağaç",
+            "Taş",
+            "Çiçek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "agac",
+              "kedi",
+              "tas",
+              "cicek"
+            ],
+            "vurgu": "tas"
+          }
+        },
+        {
+          "id": "cn-t3",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Canlıların kaç yaşam özelliği vardır?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "6",
+            "5",
+            "7",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "cc-anlatim-2"
+          }
+        },
+        {
+          "id": "cn-t4",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi canlıların yaşam özelliğidir?",
+          "dogruCevap": "Beslenir",
+          "secenekler": [
+            "Parlar",
+            "Erir",
+            "Beslenir",
+            "Kırılır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "cc-anlatim-2"
+          }
+        },
+        {
+          "id": "cn-t5",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaç canlı mıdır?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Belli değil",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "cn-t6",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Araba canlı mıdır?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Sadece hareket edince",
+            "Evet",
+            "Bazen",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "cn-t7",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Canlılar büyür mü?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece bitkiler",
+            "Sadece hayvanlar",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "cn-t8",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hareket eden her şey canlı mıdır?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Sadece uçanlar",
+            "Sadece yürüyenler"
+          ],
+          "ipucu": "Araba hareket eder ama canlı değildir!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "araba",
+              "kedi",
+              "top",
+              "kus"
+            ],
+            "vurgu": "araba"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "cn-t9",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Canlılar solur mu?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Sadece balık",
+            "Evet",
+            "Sadece insan"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "insan"
+          }
+        },
+        {
+          "id": "cn-t10",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Canlılar ürer mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece bitkiler",
+            "Evet",
+            "Sadece kuşlar",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "cn-t11",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Canlılar tepki verir mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece insanlar",
+            "Sadece köpekler",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kopek"
+          }
+        },
+        {
+          "id": "cn-t12",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi canlıların yaşam özelliği değildir?",
+          "dogruCevap": "Parlar",
+          "secenekler": [
+            "Parlar",
+            "Büyür",
+            "Beslenir",
+            "Solur"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "cc-anlatim-2"
+          }
+        },
+        {
+          "id": "cn-t13",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çiçek canlı mıdır?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Sadece yazın",
+            "Evet",
+            "Kuruyunca"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "cn-t14",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kelebek canlı mıdır?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece uçarken",
+            "Hayır",
+            "Sadece tırtılken",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kelebek"
+          }
+        },
+        {
+          "id": "cn-t15",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kitap canlı mıdır?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Okununca",
+            "Evet",
+            "Hayır",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "cn-t16",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Güneş canlı mıdır?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Hayır",
+            "Sıcak olduğu için evet",
+            "Sadece gündüz",
+            "Evet"
+          ],
+          "ipucu": "Güneş ısı ve ışık verir ama canlı değildir!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "cn-t17",
+          "kazanimKodu": "FEN.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Canlılar ölür mü?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Sadece bitkiler",
+            "Evet",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "cc-anlatim-2"
+          }
+        },
+        {
+          "id": "cn-t18",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkinin toprağa tutunan kısmı hangisidir?",
+          "dogruCevap": "Kök",
+          "secenekler": [
+            "Yaprak",
+            "Meyve",
+            "Çiçek",
+            "Kök"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "kök"
+          }
+        },
+        {
+          "id": "cn-t19",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkinin gövdesi ne işe yarar?",
+          "dogruCevap": "Bitkiyi yükseltir",
+          "secenekler": [
+            "Güneşi tutar",
+            "Bitkiyi yükseltir",
+            "Tohum üretir",
+            "Su içer"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "gövde"
+          }
+        },
+        {
+          "id": "cn-t20",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş enerjisini alan bitki parçası hangisidir?",
+          "dogruCevap": "Yaprak",
+          "secenekler": [
+            "Tohum",
+            "Meyve",
+            "Yaprak",
+            "Kök"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "yaprak"
+          }
+        },
+        {
+          "id": "cn-t21",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkinin renkli üreme kısmı hangisidir?",
+          "dogruCevap": "Çiçek",
+          "secenekler": [
+            "Kabuk",
+            "Kök",
+            "Çiçek",
+            "Gövde"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "çiçek"
+          }
+        },
+        {
+          "id": "cn-t22",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Tohumları koruyan bitki parçası hangisidir?",
+          "dogruCevap": "Meyve",
+          "secenekler": [
+            "Kök",
+            "Dal",
+            "Yaprak",
+            "Meyve"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "meyve"
+          }
+        },
+        {
+          "id": "cn-t23",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkilerin yaşaması için hangisi gereklidir?",
+          "dogruCevap": "Su",
+          "secenekler": [
+            "Kalem",
+            "Araba",
+            "Taş",
+            "Su"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "su"
+          }
+        },
+        {
+          "id": "cn-t24",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkilerin büyümesi için hangisi gereklidir?",
+          "dogruCevap": "Güneş",
+          "secenekler": [
+            "Rüzgâr",
+            "Ay",
+            "Kar",
+            "Güneş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "cn-t25",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Bitki sadece su içerse ama güneş görmezse ne olur?",
+          "dogruCevap": "Sağlıklı büyüyemez",
+          "secenekler": [
+            "Çok hızlı büyür",
+            "Sağlıklı büyüyemez",
+            "Meyve verir",
+            "Hiç etkilenmez"
+          ],
+          "ipucu": "Bitkiler hem su hem güneş ister!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "su",
+              "gunes",
+              "cicek"
+            ],
+            "vurgu": [
+              "su",
+              "gunes"
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "cn-t26",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkilerin yaşaması için toprak gerekli midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Sadece ağaçlar için",
+            "Evet",
+            "Sadece çiçekler için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "toprak"
+          }
+        },
+        {
+          "id": "cn-t27",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkilerin yaşaması için hava gerekli midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece kök için",
+            "Hayır",
+            "Evet",
+            "Sadece yazın"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "cicek",
+              "su",
+              "gunes",
+              "toprak"
+            ]
+          }
+        },
+        {
+          "id": "cn-t28",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaç bitki midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Sadece meyve verince",
+            "Sadece ormanda"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "cn-t29",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elma nereden gelir?",
+          "dogruCevap": "Bitkiden",
+          "secenekler": [
+            "Bitkiden",
+            "Hayvandan",
+            "Taştan",
+            "Sudan"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "cn-t30",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Havuç hangi canlı grubundadır?",
+          "dogruCevap": "Bitki",
+          "secenekler": [
+            "Taş",
+            "Bitki",
+            "Hayvan",
+            "Araba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sebze"
+          }
+        },
+        {
+          "id": "cn-t31",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çiçekten sonra bitkide ne oluşabilir?",
+          "dogruCevap": "Meyve",
+          "secenekler": [
+            "Meyve",
+            "Taş",
+            "Kök",
+            "Kalem"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "meyve"
+          }
+        },
+        {
+          "id": "cn-t32",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yapraklar genellikle hangi renktedir?",
+          "dogruCevap": "Yeşil",
+          "secenekler": [
+            "Kırmızı",
+            "Siyah",
+            "Mavi",
+            "Yeşil"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "yaprak"
+          }
+        },
+        {
+          "id": "cn-t33",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Kökün görevi nedir?",
+          "dogruCevap": "Toprağa tutunmak ve su almak",
+          "secenekler": [
+            "Tohum üretmek",
+            "Toprağa tutunmak ve su almak",
+            "Güneşi yakalamak",
+            "Uçmak"
+          ],
+          "ipucu": "Kök yerin altındadır!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "bitki",
+            "vurgu": "kök"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "cn-t34",
+          "kazanimKodu": "FEN.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bitki büyür mü?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece kışın",
+            "Evet",
+            "Hayır",
+            "Sadece meyve verince"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "cn-t35",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedinin vücut örtüsü hangisidir?",
+          "dogruCevap": "Deri",
+          "secenekler": [
+            "Pul",
+            "Deri",
+            "Tüy",
+            "Taş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "deri"
+          }
+        },
+        {
+          "id": "cn-t36",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuşun vücut örtüsü hangisidir?",
+          "dogruCevap": "Tüy",
+          "secenekler": [
+            "Deri",
+            "Pul",
+            "Tüy",
+            "Kaya"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "tuy"
+          }
+        },
+        {
+          "id": "cn-t37",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Balığın vücut örtüsü hangisidir?",
+          "dogruCevap": "Pul",
+          "secenekler": [
+            "Pul",
+            "Tüy",
+            "Deri",
+            "Kürk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "pul"
+          }
+        },
+        {
+          "id": "cn-t38",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedi hangi ortamda yaşar?",
+          "dogruCevap": "Kara",
+          "secenekler": [
+            "Uzay",
+            "Kara",
+            "Su",
+            "Hava"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "kara"
+          }
+        },
+        {
+          "id": "cn-t39",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Balık hangi ortamda yaşar?",
+          "dogruCevap": "Su",
+          "secenekler": [
+            "Kara",
+            "Su",
+            "Toprak",
+            "Hava"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "cn-t40",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuş en çok hangi ortamda hareket eder?",
+          "dogruCevap": "Hava",
+          "secenekler": [
+            "Hava",
+            "Su",
+            "Toprak",
+            "Mağara"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "hava"
+          }
+        },
+        {
+          "id": "cn-t41",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedi nasıl hareket eder?",
+          "dogruCevap": "Yürür",
+          "secenekler": [
+            "Yürür",
+            "Uçar",
+            "Yüzer",
+            "Sürünür"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "yurur"
+          }
+        },
+        {
+          "id": "cn-t42",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Yürüyen her hayvan memeli midir?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Sadece köpekler",
+            "Sadece kediler",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "Kaplumbağa da yürür ama memeli değildir!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kaplumbaga",
+            "ozellik": "yurur"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "cn-t43",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuş nasıl hareket eder?",
+          "dogruCevap": "Uçar",
+          "secenekler": [
+            "Zıplar",
+            "Sürünür",
+            "Uçar",
+            "Yüzer"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "ucar"
+          }
+        },
+        {
+          "id": "cn-t44",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Balık nasıl hareket eder?",
+          "dogruCevap": "Yüzer",
+          "secenekler": [
+            "Uçar",
+            "Yüzer",
+            "Tırmanır",
+            "Yürür"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "yuzer"
+          }
+        },
+        {
+          "id": "cn-t45",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedi hangi hayvan grubundadır?",
+          "dogruCevap": "Memeli",
+          "secenekler": [
+            "Böcek",
+            "Kuş",
+            "Memeli",
+            "Balık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "cn-t46",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ördek hangi hayvan grubundadır?",
+          "dogruCevap": "Kuş",
+          "secenekler": [
+            "Kuş",
+            "Memeli",
+            "Böcek",
+            "Balık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ordek",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "cn-t47",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Arı hangi hayvan grubundadır?",
+          "dogruCevap": "Böcek",
+          "secenekler": [
+            "Memeli",
+            "Balık",
+            "Böcek",
+            "Kuş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ari",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "cn-t48",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "İnek hangi hayvan grubundadır?",
+          "dogruCevap": "Memeli",
+          "secenekler": [
+            "Balık",
+            "Kuş",
+            "Böcek",
+            "Memeli"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "cn-t49",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yılan nasıl hareket eder?",
+          "dogruCevap": "Sürünür",
+          "secenekler": [
+            "Yüzer",
+            "Koşar",
+            "Uçar",
+            "Sürünür"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "yilan",
+            "ozellik": "surunur"
+          }
+        },
+        {
+          "id": "cn-t50",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Tüy örtüsü olan hayvan hangisidir?",
+          "dogruCevap": "Kuş",
+          "secenekler": [
+            "Balık",
+            "Kedi",
+            "Kuş",
+            "Kurbağa"
+          ],
+          "ipucu": "Kuşların vücudu tüyle kaplıdır!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "tuy"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

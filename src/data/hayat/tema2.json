@@ -1,0 +1,1792 @@
+{
+  "id": "tema-2",
+  "baslik": "Hayat Bilgisi — Tema 2 — Ev",
+  "konular": [
+    {
+      "id": "ev",
+      "baslik": "Ev",
+      "kazanimKodu": "HB.2.1.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Ailemizde anne, baba, kardeş, dede ve nene gibi bireyler bulunur. Ailemizde birbirimize sevgi gösterir, yardımlaşırız.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "aa-anlatim-1"
+            }
+          },
+          {
+            "metin": "Arkadaşlarımızla paylaşır, birlikte oynarız. Kıskançlık yapmamalı, hata yaptığımızda özür dilemeliyiz.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "aa-anlatim-2"
+            }
+          },
+          {
+            "metin": "İyi bir arkadaş paylaşır, yardım eder ve dürüsttür. Ailemizde ve arkadaşlıkta sevgi ve saygı en önemli değerlerdir.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "aa-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ev-a1",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ailemizde kimler bulunabilir?",
+          "dogruCevap": "Anne, baba, kardeş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "ev-a2",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ailemizde birbirimize sevgi göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "ev-a3",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde yardımlaşmak güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-isleri",
+            "ozellik": "yardim"
+          }
+        },
+        {
+          "id": "ev-a4",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımızla paylaşmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ev-a5",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımıza kıskanmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "kiskanclik-yok"
+          }
+        },
+        {
+          "id": "ev-a6",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Hata yaptığımızda ne yapmalıyız?",
+          "dogruCevap": "Özür dilemeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "ev-a7",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımızla birlikte oynamak güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "birlikte-oyun",
+            "ozellik": "oyun"
+          }
+        },
+        {
+          "id": "ev-a8",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Annemize saygılı olmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ev-a9",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Babamıza yardım etmeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "baba",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "ev-a10",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Kardeşimize kaba davranmalı mıyız?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kardes",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ev-a11",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımız üzgünse ne yapmalıyız?",
+          "dogruCevap": "Yanında olmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadas-destek",
+            "ozellik": "empati"
+          }
+        },
+        {
+          "id": "ev-a12",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Oyuncağımızı paylaşmak doğru mudur?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ev-a13",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ailemizde sevgi önemli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "ev-a14",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımıza yalan söylemeli miyiz?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "durustluk",
+            "ozellik": "dogruluk"
+          }
+        },
+        {
+          "id": "ev-a15",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Dedemize ve nenemize saygı göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "dede",
+              "nene"
+            ],
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ev-a16",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde masayı birlikte kurmak yardımlaşma mıdır?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-isleri",
+            "ozellik": "yardim"
+          }
+        },
+        {
+          "id": "ev-a17",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımızın sırrını herkese anlatmalı mıyız?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "guven",
+            "ozellik": "sır"
+          }
+        },
+        {
+          "id": "ev-a18",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Birbirimize \"özür dilerim\" demek güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "ev-a19",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Aile bireylerinden üçünü yaz",
+          "dogruCevap": "Anne, baba, kardeş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "ev-a20",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşlıkta en önemli şeylerden biri nedir?",
+          "dogruCevap": "Güven ve paylaşma",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "guven"
+          }
+        },
+        {
+          "id": "ev-a21",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ailemizde kavga etmek yerine ne yapmalıyız?",
+          "dogruCevap": "Konuşarak çözmek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "ev-a22",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımızın oyuncağını kırarsak ne yapmalıyız?",
+          "dogruCevap": "Özür dilemeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "ev-a23",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde annemize yardım etmek güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "ev-a24",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Arkadaşlarımızla dışarıda oynamak güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "birlikte-oyun",
+            "ozellik": "disarida"
+          }
+        },
+        {
+          "id": "ev-a25",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "İyi bir arkadaş nasıl davranır?",
+          "dogruCevap": "Paylaşır, yardım eder ve saygılıdır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "iyi-arkadas"
+          }
+        },
+        {
+          "id": "ev-a26",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evimizde odalarımız düzenli olmalı mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-duzeni",
+            "ozellik": "duzen"
+          }
+        },
+        {
+          "id": "ev-a27",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Yatak odasında uyuruz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "yatak"
+          }
+        },
+        {
+          "id": "ev-a28",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Mutfakta yemek pişirilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "mutfak",
+            "ozellik": "yemek"
+          }
+        },
+        {
+          "id": "ev-a29",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Banyoda temizleniriz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "banyo",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ev-a30",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Salonda ailece vakit geçiririz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "birlikte"
+          }
+        },
+        {
+          "id": "ev-a31",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ev eşyalarına özen göstermeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "masa",
+            "vurgu": "ozen"
+          }
+        },
+        {
+          "id": "ev-a32",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde ayakkabılarımızı düzenli koymalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-duzeni",
+            "ozellik": "duzen"
+          }
+        },
+        {
+          "id": "ev-a33",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde elektrikli aletlere dikkatli yaklaşmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fis",
+            "vurgu": "guvenlik"
+          }
+        },
+        {
+          "id": "ev-a34",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evimizde misafir gelince ne yaparız?",
+          "dogruCevap": "Karşılarız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "misafir",
+            "ozellik": "karsilama"
+          }
+        },
+        {
+          "id": "ev-a35",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde pencereyi açmak havalandırma sağlar.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-havalandirma",
+            "ozellik": "hava"
+          }
+        },
+        {
+          "id": "ev-a36",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde kitaplarımızı düzenli tutmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "duzen"
+          }
+        },
+        {
+          "id": "ev-a37",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde çöpleri çöp kutusuna atmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ev-a38",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde yemek masasında birlikte otururuz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yemek-masasi",
+            "ozellik": "aile"
+          }
+        },
+        {
+          "id": "ev-a39",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde ışıkları gereksiz yere yakmamalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "lamba",
+            "vurgu": "tasarruf"
+          }
+        },
+        {
+          "id": "ev-a40",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde oyuncaklarımızı toplamalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "duzen"
+          }
+        },
+        {
+          "id": "ev-a41",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde yangın çıkarsa yetişkinlere haber veririz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yangin",
+            "ozellik": "guvenlik"
+          }
+        },
+        {
+          "id": "ev-a42",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde herkesin görevleri vardır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-gorevleri",
+            "ozellik": "sorumluluk"
+          }
+        },
+        {
+          "id": "ev-a43",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde misafirperver olmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "misafir",
+            "ozellik": "karsilama"
+          }
+        },
+        {
+          "id": "ev-a44",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde eşyaları paylaşmak güzeldir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ev-a45",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde temiz kalmak sağlıklıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-temizligi",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ev-a46",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Ev ailemizin sıcak yuvasıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "ev-a47",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde bitki yetiştirmek güzel bir hobidir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "ev-a48",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde sessiz olmak komşulara saygıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "komsu",
+            "ozellik": "saygi"
+          }
+        },
+        {
+          "id": "ev-a49",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde kapıyı kilitlerken dikkatli olmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "guvenlik",
+            "ozellik": "kapi"
+          }
+        },
+        {
+          "id": "ev-a50",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "yazili",
+          "soru": "Evde televizyon izlerken çok yaklaşmamalıyız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "televizyon",
+            "vurgu": "saglik"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ev-t1",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde kimler bulunabilir?",
+          "dogruCevap": "Anne ve baba",
+          "secenekler": [
+            "Sadece doktor",
+            "Sadece komşu",
+            "Sadece öğretmen",
+            "Anne ve baba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "ev-t2",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde birbirimize ne göstermeliyiz?",
+          "dogruCevap": "Sevgi",
+          "secenekler": [
+            "Kızgınlık",
+            "Sevgi",
+            "Kıskançlık",
+            "Kaba davranış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "ev-t3",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde yardımlaşmak güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hiç gerekmez",
+            "Hayır",
+            "Sadece büyükler"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-isleri",
+            "ozellik": "yardim"
+          }
+        },
+        {
+          "id": "ev-t4",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşlarımızla ne yapmalıyız?",
+          "dogruCevap": "Paylaşmalıyız",
+          "secenekler": [
+            "Kavga etmeliyiz",
+            "Paylaşmalıyız",
+            "Kıskanmalıyız",
+            "Yalan söylemeliyiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ev-t5",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımıza kıskanmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Bazen olur",
+            "Evet",
+            "Her zaman",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "kiskanclik-yok"
+          }
+        },
+        {
+          "id": "ev-t6",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hata yaptığımızda ne yapmalıyız?",
+          "dogruCevap": "Özür dilemeliyiz",
+          "secenekler": [
+            "Kaçmalıyız",
+            "Özür dilemeliyiz",
+            "Yalan söylemeliyiz",
+            "Bağırmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "ev-t7",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşlarımızla birlikte oynamak güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Hiç oynamamalıyız",
+            "Evet",
+            "Sadece yalnız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "birlikte-oyun",
+            "ozellik": "oyun"
+          }
+        },
+        {
+          "id": "ev-t8",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Arkadaşımızın oyuncağını izinsiz almak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Merak ettiğimizde evet",
+            "Hayır",
+            "Evet",
+            "Sadece küçükse"
+          ],
+          "ipucu": "Paylaşmak güzeldir ama izin almalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "izin"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ev-t9",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Annemize nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "secenekler": [
+            "Bağırarak",
+            "Saygılı",
+            "Umursamaz",
+            "Kaba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ev-t10",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Babamıza yardım etmek güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hiç gerekmez",
+            "Sadece annemize",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "baba",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "ev-t11",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kardeşimize kaba davranmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Kızdığımızda evet",
+            "Bazen",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kardes",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ev-t12",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımız üzgünse ne yapmalıyız?",
+          "dogruCevap": "Yanında olmalıyız",
+          "secenekler": [
+            "Alay etmeliyiz",
+            "Gülmeliyiz",
+            "Uzaklaşmalıyız",
+            "Yanında olmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadas-destek",
+            "ozellik": "empati"
+          }
+        },
+        {
+          "id": "ev-t13",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde sevgi önemli midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece bayramda",
+            "Hayır",
+            "Evet",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "ev-t14",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımıza yalan söylemek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Bazen",
+            "Şaka için evet",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "durustluk",
+            "ozellik": "dogruluk"
+          }
+        },
+        {
+          "id": "ev-t15",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Dedemize ve nenemize nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "secenekler": [
+            "Kaba",
+            "Umursamaz",
+            "Bağırarak",
+            "Saygılı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "dede",
+              "nene"
+            ],
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ev-t16",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Evde sadece annemiz mi yardımlaşmalıdır?",
+          "dogruCevap": "Hayır, hepimiz yardımlaşmalıyız",
+          "secenekler": [
+            "Evet, sadece annemiz",
+            "Hiç kimse yardım etmez",
+            "Sadece babamız",
+            "Hayır, hepimiz yardımlaşmalıyız"
+          ],
+          "ipucu": "Ailede herkes görev alır!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-isleri",
+            "ozellik": "yardim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ev-t17",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımızın sırrını herkese anlatmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Merak ettiğimizde evet",
+            "Sadece annemize"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "guven",
+            "ozellik": "sır"
+          }
+        },
+        {
+          "id": "ev-t18",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Birbirimize \"özür dilerim\" demek güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Sadece büyükler",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "ev-t19",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "İyi bir arkadaş nasıl davranır?",
+          "dogruCevap": "Paylaşır ve yardım eder",
+          "secenekler": [
+            "Yalan söyler",
+            "Kıskanır",
+            "Paylaşır ve yardım eder",
+            "Kavga eder"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "iyi-arkadas"
+          }
+        },
+        {
+          "id": "ev-t20",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Arkadaşımızın başarısını kıskanmak doğru mudur?",
+          "dogruCevap": "Hayır, onu tebrik etmeliyiz",
+          "secenekler": [
+            "Evet, hep kıskanmalıyız",
+            "Uzaklaşmalıyız",
+            "Hayır, onu tebrik etmeliyiz",
+            "Onu eleştirmeliyiz"
+          ],
+          "ipucu": "İyi arkadaş birbirini destekler!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "kiskanclik-yok"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ev-t21",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde kavga yerine ne yapmalıyız?",
+          "dogruCevap": "Konuşarak çözmek",
+          "secenekler": [
+            "Kaçmak",
+            "Bağırmak",
+            "Konuşarak çözmek",
+            "Susmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "ev-t22",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımızın oyuncağını kırarsak ne yapmalıyız?",
+          "dogruCevap": "Özür dilemeliyiz",
+          "secenekler": [
+            "Özür dilemeliyiz",
+            "Suçlamalıyız",
+            "Gizlemeliyiz",
+            "Kaçmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "ev-t23",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde annemize yardım etmek güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hiç gerekmez",
+            "Evet",
+            "Hayır",
+            "Sadece babamız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "yardim"
+          }
+        },
+        {
+          "id": "ev-t24",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Paylaşmak sadece oyuncaklar için midir?",
+          "dogruCevap": "Hayır, sevgi ve yardım da paylaşılır",
+          "secenekler": [
+            "Evet, sadece oyuncak",
+            "Sadece yemek için",
+            "Hiç paylaşmayız",
+            "Hayır, sevgi ve yardım da paylaşılır"
+          ],
+          "ipucu": "Paylaşmak güzel bir davranıştır!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "paylasim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ev-t25",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Aile ve arkadaşlıkta en önemli değer hangisidir?",
+          "dogruCevap": "Sevgi ve saygı",
+          "secenekler": [
+            "Kıskançlık",
+            "Kaba davranış",
+            "Yalan",
+            "Sevgi ve saygı"
+          ],
+          "ipucu": "Sevgi ve saygı ilişkilerimizi güçlendirir!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "aa-anlatim-3"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ev-t26",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evimizde odalarımız düzenli olmalı mı?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Gereksiz",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-duzeni",
+            "ozellik": "duzen"
+          }
+        },
+        {
+          "id": "ev-t27",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yatak odasında uyuruz.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Gereksiz",
+            "Fark etmez",
+            "Hayır",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "yatak"
+          }
+        },
+        {
+          "id": "ev-t28",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Mutfakta yemek pişirilir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "mutfak",
+            "ozellik": "yemek"
+          }
+        },
+        {
+          "id": "ev-t29",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Banyoda temizleniriz.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "banyo",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ev-t30",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Salonda ailece vakit geçiririz.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hayır",
+            "Doğru",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "birlikte"
+          }
+        },
+        {
+          "id": "ev-t31",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ev eşyalarına özen göstermeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "masa",
+            "vurgu": "ozen"
+          }
+        },
+        {
+          "id": "ev-t32",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde ayakkabılarımızı düzenli koymalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-duzeni",
+            "ozellik": "duzen"
+          }
+        },
+        {
+          "id": "ev-t33",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde elektrikli aletlere dikkatli yaklaşmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fis",
+            "vurgu": "guvenlik"
+          }
+        },
+        {
+          "id": "ev-t34",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evimizde misafir gelince ne yaparız?",
+          "dogruCevap": "Karşılarız",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Gereksiz",
+            "Karşılarız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "misafir",
+            "ozellik": "karsilama"
+          }
+        },
+        {
+          "id": "ev-t35",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde pencereyi açmak havalandırma sağlar.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Hayır",
+            "Evet",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-havalandirma",
+            "ozellik": "hava"
+          }
+        },
+        {
+          "id": "ev-t36",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde kitaplarımızı düzenli tutmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kitap",
+            "vurgu": "duzen"
+          }
+        },
+        {
+          "id": "ev-t37",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde çöpleri çöp kutusuna atmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ev-t38",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde yemek masasında birlikte otururuz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yemek-masasi",
+            "ozellik": "aile"
+          }
+        },
+        {
+          "id": "ev-t39",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde ışıkları gereksiz yere yakmamalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "lamba",
+            "vurgu": "tasarruf"
+          }
+        },
+        {
+          "id": "ev-t40",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde oyuncaklarımızı toplamalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "duzen"
+          }
+        },
+        {
+          "id": "ev-t41",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde yangın çıkarsa yetişkinlere haber veririz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Fark etmez",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yangin",
+            "ozellik": "guvenlik"
+          }
+        },
+        {
+          "id": "ev-t42",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde herkesin görevleri vardır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-gorevleri",
+            "ozellik": "sorumluluk"
+          }
+        },
+        {
+          "id": "ev-t43",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde misafirperver olmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Fark etmez",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "misafir",
+            "ozellik": "karsilama"
+          }
+        },
+        {
+          "id": "ev-t44",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde eşyaları paylaşmak güzeldir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Fark etmez",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ev-t45",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde temiz kalmak sağlıklıdır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Hayır",
+            "Evet",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ev-temizligi",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ev-t46",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ev ailemizin sıcak yuvasıdır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "ev-t47",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde bitki yetiştirmek güzel bir hobidir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "ev-t48",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde sessiz olmak komşulara saygıdır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "komsu",
+            "ozellik": "saygi"
+          }
+        },
+        {
+          "id": "ev-t49",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde kapıyı kilitlerken dikkatli olmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Fark etmez",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "guvenlik",
+            "ozellik": "kapi"
+          }
+        },
+        {
+          "id": "ev-t50",
+          "kazanimKodu": "HB.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evde televizyon izlerken çok yaklaşmamalıyız.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "televizyon",
+            "vurgu": "saglik"
+          }
+        }
+      ]
+    }
+  ]
+}

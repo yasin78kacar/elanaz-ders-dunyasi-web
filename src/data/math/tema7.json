@@ -1,0 +1,1945 @@
+{
+  "id": "tema-7",
+  "baslik": "Matematik — Tema 7 — Ölçü",
+  "konular": [
+    {
+      "id": "uzunluk-olcme",
+      "baslik": "Uzunluk Ölçme",
+      "kazanimKodu": "MAT.2.5.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Nesnelerin uzunluğunu ölçebiliriz! Cetvel kullanırız. Uzunluk birimi santimetredir (cm).",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "uo-anlatim-1"
+            }
+          },
+          {
+            "metin": "Cetvel kullanırken başı 0'a hizalarız! Kalem 0'dan başlayıp 8'de bitiyorsa — kalem 8 cm'dir.",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "uo-anlatim-2"
+            }
+          },
+          {
+            "metin": "Nesneleri uzunluklarına göre karşılaştırabiliriz: uzun-kısa, daha uzun-daha kısa, en uzun-en kısa.",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "uo-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "uo-a1",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Bir kalem 6 cm, diğer kalem 9 cm. Hangi kalem daha uzun?",
+          "dogruCevap": "9 cm'lik",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              6,
+              9
+            ]
+          }
+        },
+        {
+          "id": "uo-a2",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Cetvel 0'dan 5'e kadar gösteriyorsa nesne kaç cm?",
+          "dogruCevap": "5 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 0,
+            "bitis": 5,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-a3",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Masa 120 cm, sandalye 80 cm. Hangisi daha kısa?",
+          "dogruCevap": "Sandalye",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-masa-sandalye"
+          }
+        },
+        {
+          "id": "uo-a4",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Bir ip 12 cm. Bu ip kaç cm?",
+          "dogruCevap": "12 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 0,
+            "bitis": 12,
+            "nesne": "ip"
+          }
+        },
+        {
+          "id": "uo-a5",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Ali 140 cm, Ayşe 130 cm. Kim daha uzun boylu?",
+          "dogruCevap": "Ali",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-cocuk-boy-karsilastir"
+          }
+        },
+        {
+          "id": "uo-a6",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Cetvel 0'dan 7'ye kadar gösteriyorsa nesne kaç cm?",
+          "dogruCevap": "7 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 0,
+            "bitis": 7,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-a7",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Kalem 15 cm, silgi 5 cm. Kalem silgiden kaç cm uzun?",
+          "dogruCevap": "10 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              15,
+              5
+            ]
+          }
+        },
+        {
+          "id": "uo-a8",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "En uzun nesneyi bul: 8 cm, 12 cm, 6 cm",
+          "dogruCevap": "12 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              8,
+              12,
+              6
+            ]
+          }
+        },
+        {
+          "id": "uo-a9",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Bir çubuk 10 cm. Yarısı kaç cm?",
+          "dogruCevap": "5 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-cubuk-yarim"
+          }
+        },
+        {
+          "id": "uo-a10",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Masa 90 cm, kapı 200 cm. Hangisi daha uzun?",
+          "dogruCevap": "Kapı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-masa-kapi"
+          }
+        },
+        {
+          "id": "uo-a11",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Cetvel 0'dan 14'e kadar gösteriyorsa nesne kaç cm?",
+          "dogruCevap": "14 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 0,
+            "bitis": 14,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-a12",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "En kısa nesneyi bul: 11 cm, 7 cm, 15 cm",
+          "dogruCevap": "7 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              11,
+              7,
+              15
+            ]
+          }
+        },
+        {
+          "id": "uo-a13",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Berk 135 cm, Can 128 cm, Selin 142 cm. En uzun boylu kim?",
+          "dogruCevap": "Selin",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-uc-cocuk-boy"
+          }
+        },
+        {
+          "id": "uo-a14",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Bir kitap 20 cm. Bir defter 18 cm. Kitap defterden kaç cm uzun?",
+          "dogruCevap": "2 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              20,
+              18
+            ]
+          }
+        },
+        {
+          "id": "uo-a15",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Cetvel 3'ten 9'a kadar gösteriyorsa nesne kaç cm?",
+          "dogruCevap": "6 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 3,
+            "bitis": 9,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-a16",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "İki kalem var: 13 cm ve 8 cm. Toplam kaç cm?",
+          "dogruCevap": "21 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-iki-kalem-arka-arka"
+          }
+        },
+        {
+          "id": "uo-a17",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Bir ip 18 cm, diğer ip 9 cm. Fark kaç cm?",
+          "dogruCevap": "9 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              18,
+              9
+            ]
+          }
+        },
+        {
+          "id": "uo-a18",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Sıralama: 5 cm, 15 cm, 10 cm — küçükten büyüğe",
+          "dogruCevap": "5, 10, 15",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              5,
+              15,
+              10
+            ]
+          }
+        },
+        {
+          "id": "uo-a19",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Cetvel 0'dan 16'ya kadar gösteriyorsa nesne kaç cm?",
+          "dogruCevap": "16 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 0,
+            "bitis": 16,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-a20",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Zeynep'in boyu 138 cm, Hande'nin boyu 138 cm. Kiminki daha uzun?",
+          "dogruCevap": "Eşit",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-esit-boy-cocuk"
+          }
+        },
+        {
+          "id": "uo-a21",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Bir çubuk 20 cm. Dörtte biri kaç cm?",
+          "dogruCevap": "5 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-cubuk-dort-parca"
+          }
+        },
+        {
+          "id": "uo-a22",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Masanın uzunluğu 5 kitap. Her kitap 20 cm. Masa kaç cm?",
+          "dogruCevap": "100 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-masa-kitap"
+          }
+        },
+        {
+          "id": "uo-a23",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Cetvel 2'den 10'a kadar gösteriyorsa nesne kaç cm?",
+          "dogruCevap": "8 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 2,
+            "bitis": 10,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-a24",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "En kısa: 20 cm, 18 cm, 19 cm",
+          "dogruCevap": "18 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              20,
+              18,
+              19
+            ]
+          }
+        },
+        {
+          "id": "uo-a25",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "yazili",
+          "soru": "Yusuf 145 cm. Kapı 200 cm. Kapı Yusuf'tan kaç cm uzun?",
+          "dogruCevap": "55 cm",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-yusuf-kapi"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "uo-t1",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bir kalem cetvelde 0'dan 8'e kadar uzanıyor. Kalem kaç cm?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "8",
+            "9",
+            "6",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 0,
+            "bitis": 8,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-t2",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi nesne daha kısa? Kalem: 12 cm, Silgi: 5 cm",
+          "dogruCevap": "Silgi",
+          "secenekler": [
+            "İkisi eşit",
+            "Kalem",
+            "Silgi",
+            "Belli değil"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              12,
+              5
+            ]
+          }
+        },
+        {
+          "id": "uo-t3",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Mehmet 132 cm, Ali 140 cm. Ali Mehmet'ten kaç cm uzun?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "8",
+            "12",
+            "6",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-cocuk-boy-karsilastir"
+          }
+        },
+        {
+          "id": "uo-t4",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Cetvel 4'ten 11'e kadar uzanan nesne kaç cm?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "6",
+            "8",
+            "7",
+            "9"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 4,
+            "bitis": 11,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-t5",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "En uzun hangisi? 9 cm, 15 cm, 12 cm",
+          "dogruCevap": "15 cm",
+          "secenekler": [
+            "15 cm",
+            "Hepsi eşit",
+            "12 cm",
+            "9 cm"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              9,
+              15,
+              12
+            ]
+          }
+        },
+        {
+          "id": "uo-t6",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Fatma'nın kalemi 14 cm, Ayşe'nin kalemi 9 cm. Toplam kaç cm?",
+          "dogruCevap": "23",
+          "secenekler": [
+            "24",
+            "22",
+            "23",
+            "21"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-iki-kalem-arka-arka"
+          }
+        },
+        {
+          "id": "uo-t7",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bir ip 20 cm'dir. Ortadan kesilirse her parça kaç cm olur?",
+          "dogruCevap": "10",
+          "secenekler": [
+            "8",
+            "9",
+            "10",
+            "12"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-ip-ortadan-kes"
+          }
+        },
+        {
+          "id": "uo-t8",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Cetvel 0'dan değil 3'ten başlıyor ve nesne 9'da bitiyor. Nesne kaç cm?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "9",
+            "6",
+            "3",
+            "12"
+          ],
+          "ipucu": "9 - 3 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 3,
+            "bitis": 9,
+            "nesne": "kalem"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "uo-t9",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Selin 138 cm, Berk 145 cm, Can 132 cm. En kısa boylu kim?",
+          "dogruCevap": "Can",
+          "secenekler": [
+            "Berk",
+            "Can",
+            "Selin",
+            "Hepsi eşit"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-uc-cocuk-boy"
+          }
+        },
+        {
+          "id": "uo-t10",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi ölçüm doğrudur? Kalem cetvelde 2'den 10'a uzanıyor.",
+          "dogruCevap": "8 cm",
+          "secenekler": [
+            "10 cm",
+            "2 cm",
+            "12 cm",
+            "8 cm"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "cetvel-nesne",
+            "baslangic": 2,
+            "bitis": 10,
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "uo-t11",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Masa 150 cm, sandalye 90 cm. Fark kaç cm?",
+          "dogruCevap": "60",
+          "secenekler": [
+            "70",
+            "50",
+            "80",
+            "60"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-masa-sandalye"
+          }
+        },
+        {
+          "id": "uo-t12",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ali bir çubuğu 4 eşit parçaya böldü. Her parça 5 cm. Çubuk kaç cm?",
+          "dogruCevap": "20",
+          "secenekler": [
+            "25",
+            "10",
+            "20",
+            "15"
+          ],
+          "ipucu": "4 × 5 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-cubuk-dort-parca"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "uo-t13",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Küçükten büyüğe sırala: 14 cm, 8 cm, 11 cm",
+          "dogruCevap": "8, 11, 14",
+          "secenekler": [
+            "14, 11, 8",
+            "11, 8, 14",
+            "8, 11, 14",
+            "8, 14, 11"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              14,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "id": "uo-t14",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Zeynep'in boyu 136 cm. Kapı 200 cm. Fark kaç cm?",
+          "dogruCevap": "64",
+          "secenekler": [
+            "54",
+            "74",
+            "64",
+            "84"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-zeynep-kapi"
+          }
+        },
+        {
+          "id": "uo-t15",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 İki kalem var. Birincisi 7 cm, ikincisi birincisinin 2 katı. İkinci kalem kaç cm?",
+          "dogruCevap": "14",
+          "secenekler": [
+            "9",
+            "14",
+            "16",
+            "12"
+          ],
+          "ipucu": "7 × 2 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-kalem-iki-kat"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "uo-t16",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi ölçüm aracı uzunluk ölçmek için kullanılır?",
+          "dogruCevap": "Cetvel",
+          "secenekler": [
+            "Saat",
+            "Terazi",
+            "Termometre",
+            "Cetvel"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "araclar",
+            "sahne": "olcum-aletleri"
+          }
+        },
+        {
+          "id": "uo-t17",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hande 3 kalemi arka arkaya koydu. Her kalem 6 cm. Toplam kaç cm?",
+          "dogruCevap": "18",
+          "secenekler": [
+            "12",
+            "21",
+            "18",
+            "15"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-uc-kalem-arka-arka"
+          }
+        },
+        {
+          "id": "uo-t18",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Masanın uzunluğu 6 deftere eşit. Her defter 15 cm. Masa kaç cm?",
+          "dogruCevap": "90",
+          "secenekler": [
+            "90",
+            "80",
+            "100",
+            "70"
+          ],
+          "ipucu": "6 × 15 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-masa-defter"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "uo-t19",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "En uzun hangisi? 17 cm, 17 cm, 16 cm",
+          "dogruCevap": "Birinci ve ikinci eşit",
+          "secenekler": [
+            "Birinci ve ikinci eşit",
+            "Üçüncü",
+            "İkinci",
+            "Birinci"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              17,
+              17,
+              16
+            ]
+          }
+        },
+        {
+          "id": "uo-t20",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf'un kalemi 11 cm, Can'ın kalemi Yusuf'unkinden 4 cm kısa. Can'ın kalemi kaç cm?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "9",
+            "7",
+            "15",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              11,
+              7
+            ]
+          }
+        },
+        {
+          "id": "uo-t21",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Bir ip 18 cm. 6 eşit parçaya bölünürse her parça kaç cm?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "6",
+            "2",
+            "3",
+            "4"
+          ],
+          "ipucu": "18 ÷ 6 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-ip-alti-parca"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "uo-t22",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Büyükten küçüğe sırala: 13 cm, 19 cm, 7 cm",
+          "dogruCevap": "19, 13, 7",
+          "secenekler": [
+            "13, 19, 7",
+            "7, 13, 19",
+            "19, 13, 7",
+            "19, 7, 13"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              13,
+              19,
+              7
+            ]
+          }
+        },
+        {
+          "id": "uo-t23",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kalem 0'dan 15'e uzanıyor. Silgi 0'dan 6'ya uzanıyor. Kalem silgiden kaç cm uzun?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "8",
+            "7",
+            "10",
+            "9"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              15,
+              6
+            ]
+          }
+        },
+        {
+          "id": "uo-t24",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ali'nin boyu Ayşe'den 8 cm uzun. Ayşe 127 cm ise Ali kaç cm?",
+          "dogruCevap": "135",
+          "secenekler": [
+            "133",
+            "137",
+            "131",
+            "135"
+          ],
+          "ipucu": "127 + 8 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "uo-cocuk-boy-karsilastir"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "uo-t25",
+          "kazanimKodu": "MAT.2.5.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Selin 3 ip kesti: 5 cm, 8 cm, 12 cm. Toplam kaç cm ip kullandı?",
+          "dogruCevap": "25",
+          "secenekler": [
+            "25",
+            "23",
+            "21",
+            "27"
+          ],
+          "ipucu": "5 + 8 + 12 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "uzunluk",
+            "sahne": "uzunluk-karsilastir",
+            "uzunluklar": [
+              5,
+              8,
+              12
+            ]
+          },
+          "sasirtma": true
+        }
+      ]
+    },
+    {
+      "id": "tartma",
+      "baslik": "Tartma",
+      "kazanimKodu": "MAT.2.5.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Nesnelerin ağırlığını ölçebiliriz! Terazi kullanırız. Ağırlık birimi kilogram (kg) ve gramdır (g).",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "ta-anlatim-1"
+            }
+          },
+          {
+            "metin": "Terazi dengede ise iki taraf eşit ağırlıktadır. Sol taraf aşağı inerse sol taraf daha ağırdır!",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "ta-anlatim-2"
+            }
+          },
+          {
+            "metin": "1 kg = 1000 g. Hafif nesneler gram ile, ağır nesneler kilogram ile ölçülür.",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "ta-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ta-a1",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Elma 200 g, armut 150 g. Hangisi daha ağır?",
+          "dogruCevap": "Elma",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 200,
+            "sag": 150,
+            "durum": "dengede",
+            "solBirim": "g",
+            "sagBirim": "g"
+          }
+        },
+        {
+          "id": "ta-a2",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Terazi dengede. Sol kefede 3 kg var. Sağ kefede kaç kg var?",
+          "dogruCevap": "3 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 3,
+            "sag": 3,
+            "durum": "dengede",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-a3",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Karpuz 4 kg, kavun 2 kg. Toplam kaç kg?",
+          "dogruCevap": "6 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 4,
+            "sag": 2,
+            "durum": "dengede",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-a4",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Çanta 5 kg, kitap 1 kg. Çanta kitaptan kaç kg ağır?",
+          "dogruCevap": "4 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 5,
+            "sag": 1,
+            "durum": "sola",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-a5",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "1 kg kaç gramdır?",
+          "dogruCevap": "1000 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-kg-gram-gosterim"
+          }
+        },
+        {
+          "id": "ta-a6",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Mehmet 35 kg, Ali 42 kg. Hangisi daha ağır?",
+          "dogruCevap": "Ali",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-cocuk-terazi"
+          }
+        },
+        {
+          "id": "ta-a7",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Bir paket 500 g. İki paket kaç g?",
+          "dogruCevap": "1000 g = 1 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 500,
+            "sag": 500,
+            "durum": "dengede",
+            "solBirim": "g",
+            "sagBirim": "g"
+          }
+        },
+        {
+          "id": "ta-a8",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Sol kefe 6 kg, sağ kefe 4 kg. Terazi hangi tarafa eğik?",
+          "dogruCevap": "Sola",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 6,
+            "sag": 4,
+            "durum": "sola",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-a9",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Portakal 300 g, mandalina 200 g. Toplam kaç g?",
+          "dogruCevap": "500 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 300,
+            "sag": 200,
+            "durum": "dengede",
+            "solBirim": "g",
+            "sagBirim": "g"
+          }
+        },
+        {
+          "id": "ta-a10",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "En ağır hangisi? 2 kg, 5 kg, 3 kg",
+          "dogruCevap": "5 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-agirlik-karsilastir"
+          }
+        },
+        {
+          "id": "ta-a11",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Ayşe 28 kg, annesi 65 kg. Fark kaç kg?",
+          "dogruCevap": "37 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-anne-cocuk"
+          }
+        },
+        {
+          "id": "ta-a12",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Bir sandık 20 kg. İki sandık kaç kg?",
+          "dogruCevap": "40 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-iki-sandik"
+          }
+        },
+        {
+          "id": "ta-a13",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "En hafif hangisi? 800 g, 1 kg, 600 g",
+          "dogruCevap": "600 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-hafif-karsilastir"
+          }
+        },
+        {
+          "id": "ta-a14",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Terazi dengede. Sol kefede 2 kg + 500 g var. Sağ kefede kaç g var?",
+          "dogruCevap": "2500 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 2500,
+            "sag": 2500,
+            "durum": "dengede",
+            "solBirim": "g",
+            "sagBirim": "g"
+          }
+        },
+        {
+          "id": "ta-a15",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Karpuz 3 kg, elma 1 kg, üzüm 500 g. Toplam kaç g?",
+          "dogruCevap": "4500 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-uc-meyve"
+          }
+        },
+        {
+          "id": "ta-a16",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Fatma 32 kg. Çantası 4 kg. İkisi birlikte kaç kg?",
+          "dogruCevap": "36 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-fatma-canta"
+          }
+        },
+        {
+          "id": "ta-a17",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "2000 g kaç kg'dır?",
+          "dogruCevap": "2 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-2000g-2kg"
+          }
+        },
+        {
+          "id": "ta-a18",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Sol kefe sağ kefeden 3 kg ağır. Sol kefe 8 kg ise sağ kefe kaç kg?",
+          "dogruCevap": "5 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 8,
+            "sag": 5,
+            "durum": "sola",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-a19",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Bir kutu 750 g. İki kutu kaç g?",
+          "dogruCevap": "1500 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 750,
+            "sag": 750,
+            "durum": "dengede",
+            "solBirim": "g",
+            "sagBirim": "g"
+          }
+        },
+        {
+          "id": "ta-a20",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Berk 38 kg, Can 38 kg. Terazi dengede mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 38,
+            "sag": 38,
+            "durum": "dengede",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-a21",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "3 kg kaç gramdır?",
+          "dogruCevap": "3000 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-3kg-agirlik-tasi"
+          }
+        },
+        {
+          "id": "ta-a22",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Selin'in çantası 3 kg. Kitapları 2 kg. Toplam kaç kg?",
+          "dogruCevap": "5 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-canta-kitap"
+          }
+        },
+        {
+          "id": "ta-a23",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "En hafif: 1 kg 200 g, 900 g, 1 kg 100 g",
+          "dogruCevap": "900 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-hafif-karsilastir"
+          }
+        },
+        {
+          "id": "ta-a24",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Yusuf 40 kg. Kardeşi 15 kg. Yusuf kardeşinden kaç kg ağır?",
+          "dogruCevap": "25 kg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-cocuk-terazi"
+          }
+        },
+        {
+          "id": "ta-a25",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "yazili",
+          "soru": "Bir sepet meyve 4 kg 500 g. Kaç gramdır?",
+          "dogruCevap": "4500 g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-meyve-sepeti"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ta-t1",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elma 300 g, armut 500 g. Hangisi daha ağır?",
+          "dogruCevap": "Armut",
+          "secenekler": [
+            "Eşit",
+            "Elma",
+            "Armut",
+            "Belli değil"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 300,
+            "sag": 500,
+            "durum": "dengede",
+            "solBirim": "g",
+            "sagBirim": "g"
+          }
+        },
+        {
+          "id": "ta-t2",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Terazi dengede. Sol kefede 4 kg var. Sağ kefede kaç kg var?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "3",
+            "5",
+            "4",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 4,
+            "sag": 4,
+            "durum": "dengede",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-t3",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi ölçüm aracı ağırlık ölçmek için kullanılır?",
+          "dogruCevap": "Terazi",
+          "secenekler": [
+            "Terazi",
+            "Cetvel",
+            "Saat",
+            "Bardak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "araclar",
+            "sahne": "olcum-aletleri"
+          }
+        },
+        {
+          "id": "ta-t4",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "1 kg kaç gramdır?",
+          "dogruCevap": "1000",
+          "secenekler": [
+            "10",
+            "100",
+            "1000",
+            "500"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-kg-gram-gosterim"
+          }
+        },
+        {
+          "id": "ta-t5",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Karpuz 6 kg, kavun 3 kg. Fark kaç kg?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 6,
+            "sag": 3,
+            "durum": "sola",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-t6",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Sol kefe 7 kg, sağ kefe 4 kg. Terazi hangi tarafa eğik?",
+          "dogruCevap": "Sola",
+          "secenekler": [
+            "Sola",
+            "Belli değil",
+            "Dengede",
+            "Sağa"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 7,
+            "sag": 4,
+            "durum": "sola",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          }
+        },
+        {
+          "id": "ta-t7",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Mehmet 36 kg, Ali 29 kg. Toplam kaç kg?",
+          "dogruCevap": "65",
+          "secenekler": [
+            "63",
+            "64",
+            "66",
+            "65"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-cocuk-terazi"
+          }
+        },
+        {
+          "id": "ta-t8",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 2500 g kaç kg ve kaç gramdır?",
+          "dogruCevap": "2 kg 500 g",
+          "secenekler": [
+            "2 kg",
+            "3 kg",
+            "1 kg 500 g",
+            "2 kg 500 g"
+          ],
+          "ipucu": "2500 = 2000 + 500",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-2500g-bolunmus"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ta-t9",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "En ağır hangisi? 3 kg, 2500 g, 3500 g",
+          "dogruCevap": "3500 g",
+          "secenekler": [
+            "3 kg",
+            "Hepsi eşit",
+            "2500 g",
+            "3500 g"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-agirlik-karsilastir"
+          }
+        },
+        {
+          "id": "ta-t10",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bir paket 250 g. 4 paket kaç g?",
+          "dogruCevap": "1000",
+          "secenekler": [
+            "750",
+            "800",
+            "1200",
+            "1000"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-dort-paket"
+          }
+        },
+        {
+          "id": "ta-t11",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ayşe 31 kg, annesi 58 kg. Fark kaç kg?",
+          "dogruCevap": "27",
+          "secenekler": [
+            "23",
+            "27",
+            "25",
+            "29"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-anne-cocuk"
+          }
+        },
+        {
+          "id": "ta-t12",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Terazide sol kefe sağ kefeden 2 kg ağır. Dengelemek için sağ kefeye kaç kg eklenmeli?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "3",
+            "1",
+            "2",
+            "4"
+          ],
+          "ipucu": "Eksik ağırlığı ekle!",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 7,
+            "sag": 5,
+            "durum": "sola",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ta-t13",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "En hafif hangisi? 1 kg, 999 g, 1001 g",
+          "dogruCevap": "999 g",
+          "secenekler": [
+            "Hepsi eşit",
+            "999 g",
+            "1 kg",
+            "1001 g"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-hafif-karsilastir"
+          }
+        },
+        {
+          "id": "ta-t14",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Fatma'nın çantası 2 kg 500 g. Kaç gramdır?",
+          "dogruCevap": "2500",
+          "secenekler": [
+            "250",
+            "2050",
+            "200",
+            "2500"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-canta-terazi"
+          }
+        },
+        {
+          "id": "ta-t15",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hangi nesne gram ile ölçülür?",
+          "dogruCevap": "Çikolata",
+          "secenekler": [
+            "Çikolata",
+            "Araba",
+            "Fil",
+            "Kamyon"
+          ],
+          "ipucu": "Hafif nesneler gram ile ölçülür!",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-hafif-agir-nesne"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ta-t16",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bir sandık 15 kg. 3 sandık kaç kg?",
+          "dogruCevap": "45",
+          "secenekler": [
+            "40",
+            "35",
+            "45",
+            "50"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-uc-sandik"
+          }
+        },
+        {
+          "id": "ta-t17",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Berk 40 kg, Can Berk'ten 5 kg hafif. Can kaç kg?",
+          "dogruCevap": "35",
+          "secenekler": [
+            "40",
+            "30",
+            "45",
+            "35"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-cocuk-terazi"
+          }
+        },
+        {
+          "id": "ta-t18",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Terazinin sol kefesinde 3 kg elma var. Sağ kefede 2 kg armut var. Dengelemek için sağ kefeye kaç kg daha eklenmeli?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "2",
+            "1",
+            "4",
+            "3"
+          ],
+          "ipucu": "3 - 2 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 3,
+            "sag": 2,
+            "durum": "sola",
+            "solBirim": "kg",
+            "sagBirim": "kg"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ta-t19",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "4000 g kaç kg?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "400",
+            "3",
+            "4",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-4000g-4kg"
+          }
+        },
+        {
+          "id": "ta-t20",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Selin'in çantası 1 kg 800 g. Zeynep'in çantası 2 kg. Hangisi daha ağır?",
+          "dogruCevap": "Zeynep",
+          "secenekler": [
+            "Belli değil",
+            "Selin",
+            "Zeynep",
+            "Eşit"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 1800,
+            "sag": 2000,
+            "durum": "saga",
+            "solBirim": "g",
+            "sagBirim": "g"
+          }
+        },
+        {
+          "id": "ta-t21",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Bir karpuz 8 kg. Yarısı kaç kg?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "6",
+            "3",
+            "4",
+            "5"
+          ],
+          "ipucu": "8 ÷ 2 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-karpuz-yarim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ta-t22",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf 42 kg, Hande 38 kg. Toplam kaç kg?",
+          "dogruCevap": "80",
+          "secenekler": [
+            "80",
+            "78",
+            "79",
+            "81"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-cocuk-terazi"
+          }
+        },
+        {
+          "id": "ta-t23",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi nesne kilogram ile ölçülür?",
+          "dogruCevap": "Karpuz",
+          "secenekler": [
+            "Kâğıt",
+            "Karpuz",
+            "İğne",
+            "Tüy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-hafif-agir-nesne"
+          }
+        },
+        {
+          "id": "ta-t24",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Terazi dengede. Sol kefede 2 kg + 300 g var. Sağ kefede kaç g var?",
+          "dogruCevap": "2300",
+          "secenekler": [
+            "2030",
+            "2003",
+            "2300",
+            "230"
+          ],
+          "ipucu": "2 kg = 2000 g, 2000 + 300 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "tartma",
+            "sahne": "terazi",
+            "sol": 2300,
+            "sag": 2300,
+            "durum": "dengede",
+            "solBirim": "g",
+            "sagBirim": "g"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ta-t25",
+          "kazanimKodu": "MAT.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ali 3 paket aldı. Her paket 800 g. Toplam kaç g aldı?",
+          "dogruCevap": "2400",
+          "secenekler": [
+            "2600",
+            "2000",
+            "2400",
+            "2200"
+          ],
+          "ipucu": "3 × 800 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "ta-uc-paket"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

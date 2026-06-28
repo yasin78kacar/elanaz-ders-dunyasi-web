@@ -1,0 +1,1932 @@
+{
+  "id": "tema-5",
+  "baslik": "İngilizce — Tema 5",
+  "konular": [
+    {
+      "id": "hayvanlar",
+      "baslik": "Animals",
+      "kazanimKodu": "ING.2.2.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Ali ve Zeynep parkta yürüdü. Kedinin İngilizcesi Cat, köpeğin Dog, kuşun Bird, akvaryumdaki balığın Fish olduğunu öğrendiler. Hayvan dostlarımızın İngilizce isimlerini bilmek çok eğlenceliydi!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "hy-anlatim-1"
+            }
+          },
+          {
+            "metin": "Berk ve Fatma dedelerinin çiftliğine gittiler. İnek Cow, koyun Sheep, at Horse, tavuk Chicken! Çiftlik hayatı İngilizce kelimelerle çok daha neşeli bir yer haline gelmişti.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "hy-anlatim-2"
+            }
+          },
+          {
+            "metin": "Can ve Hande doğa belgeseli izlediler. Aslan Lion, fil Elephant, maymun Monkey! Dünyamızdaki tüm hayvanları korumak ve onları çok sevmek zorundaydık.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "hy-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "hy-a1",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "Kedi kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "cat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kedi-sevimli"
+          }
+        },
+        {
+          "id": "hy-a2",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "İngilizcede köpek \"Dog\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kopek-nese"
+          }
+        },
+        {
+          "id": "hy-a3",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "Kuş kelimesinin İngilizce karşılığı ......... kelimesidir.",
+          "dogruCevap": "bird",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kus-mavi"
+          }
+        },
+        {
+          "id": "hy-a4",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "Balık İngilizcede \"Fish\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "balik-akvaryum"
+          }
+        },
+        {
+          "id": "hy-a5",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "İnek kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "cow",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "inek-ciftlik"
+          }
+        },
+        {
+          "id": "hy-a6",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "\"Sheep\" kelimesi Türkçede at anlamına gelir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "koyun-otlayan"
+          }
+        },
+        {
+          "id": "hy-a7",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "At kelimesinin İngilizce yazılışı ......... kelimesidir.",
+          "dogruCevap": "horse",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "at-kosan"
+          }
+        },
+        {
+          "id": "hy-a8",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "Tavuk İngilizcede \"Chicken\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tavuk-kumes"
+          }
+        },
+        {
+          "id": "hy-a9",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "Aslan kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "lion",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aslan-orman"
+          }
+        },
+        {
+          "id": "hy-a10",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "Fil İngilizcede \"Elephant\" olarak yazılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "fil-hortum"
+          }
+        },
+        {
+          "id": "hy-a11",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "Ağaçlarda zıplayan maymunun İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "monkey",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "maymun-dal"
+          }
+        },
+        {
+          "id": "hy-a12",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "\"Cat\" kelimesi Türkçede köpek demektir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kedi-yavrusu"
+          }
+        },
+        {
+          "id": "hy-a13",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "yazili",
+          "soru": "\"Fish\" kelimesi hem balık hem de balıklar anlamına gelebilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yuzme-balik"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "hy-t1",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Evimizde beslediğimiz sevimli kedinin İngilizcesi nedir?",
+          "dogruCevap": "Cat",
+          "secenekler": [
+            "Fish",
+            "Dog",
+            "Cat",
+            "Bird"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "miyavlayan-kedi"
+          }
+        },
+        {
+          "id": "hy-t2",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bize dost olan ve evimizi koruyan köpeğin İngilizce adı hangisidir?",
+          "dogruCevap": "Dog",
+          "secenekler": [
+            "Cow",
+            "Lion",
+            "Sheep",
+            "Dog"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kuyruk-sallayan-kopek"
+          }
+        },
+        {
+          "id": "hy-t3",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaçlara yuva yapan ve gökyüzünde uçan kuşun İngilizcesi nedir?",
+          "dogruCevap": "Bird",
+          "secenekler": [
+            "Elephant",
+            "Fish",
+            "Bird",
+            "Monkey"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucan-kus-gokyuzu"
+          }
+        },
+        {
+          "id": "hy-t4",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Suda nefes alan ve yüzen balığın İngilizcesi aşağıdakilerden hangisidir?",
+          "dogruCevap": "Fish",
+          "secenekler": [
+            "Cat",
+            "Fish",
+            "Horse",
+            "Bird"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turuncu-balik"
+          }
+        },
+        {
+          "id": "hy-t5",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çiftlikte bize sağlıklı süt veren ineğin İngilizce karşılığı nedir?",
+          "dogruCevap": "Cow",
+          "secenekler": [
+            "Dog",
+            "Cow",
+            "Sheep",
+            "Lion"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cimen-inek"
+          }
+        },
+        {
+          "id": "hy-t6",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yumuşacık yünleri olan koyunun İngilizcesi hangi seçenekte doğru verilmiştir?",
+          "dogruCevap": "Sheep",
+          "secenekler": [
+            "Horse",
+            "Bird",
+            "Monkey",
+            "Sheep"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "beyaz-koyun"
+          }
+        },
+        {
+          "id": "hy-t7",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çok hızlı koşan ve yelesi olan atın İngilizcesi nedir?",
+          "dogruCevap": "Horse",
+          "secenekler": [
+            "Elephant",
+            "Cat",
+            "Chicken",
+            "Horse"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kosan-at"
+          }
+        },
+        {
+          "id": "hy-t8",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çiftlikte sabahları bize yumurta veren tavuğun İngilizcesi nedir?",
+          "dogruCevap": "Chicken",
+          "secenekler": [
+            "Cow",
+            "Fish",
+            "Lion",
+            "Chicken"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gidaklayan-tavuk"
+          }
+        },
+        {
+          "id": "hy-t9",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ormanların kralı olarak bilinen aslanın İngilizcesi nedir?",
+          "dogruCevap": "Lion",
+          "secenekler": [
+            "Sheep",
+            "Monkey",
+            "Dog",
+            "Lion"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kukreyen-aslan"
+          }
+        },
+        {
+          "id": "hy-t10",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hortumu ve kocaman kulakları olan filin İngilizcesi hangisidir?",
+          "dogruCevap": "Elephant",
+          "secenekler": [
+            "Elephant",
+            "Bird",
+            "Fish",
+            "Horse"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kulakli-fil"
+          }
+        },
+        {
+          "id": "hy-t11",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaçlarda zıplayan ve muz yemeyi çok seven maymunun İngilizce adı nedir?",
+          "dogruCevap": "Monkey",
+          "secenekler": [
+            "Chicken",
+            "Cat",
+            "Monkey",
+            "Cow"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "muz-yiyen-maymun"
+          }
+        },
+        {
+          "id": "hy-t12",
+          "kazanimKodu": "ING.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+          "dogruCevap": "Koyun = Bird",
+          "secenekler": [
+            "Köpek = Dog",
+            "Koyun = Bird",
+            "İnek = Cow",
+            "Kedi = Cat"
+          ],
+          "ipucu": "Sheep koyun demektir!",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ciftlik-manzara"
+          },
+          "sasirtma": true
+        }
+      ]
+    },
+    {
+      "id": "yiyecekler-ve-icecekler",
+      "baslik": "Food and Drinks",
+      "kazanimKodu": "ING.2.2.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Güneşli ve çok tatlı bir sabahtı. Ayşe ve Yusuf erkenden uyanıp kahvaltı sofrasına oturdular. Anneleri onlar için mis gibi bir kahvaltı hazırlamıştı. Ayşe ekmeği göstererek, \"Ekmek İngilizcede Bread demektir, enerji verir,\" dedi. Yusuf tabağındaki peyniri afiyetle yerken, \"Peynir çok lezzetli, İngilizcesi ise Cheese!\" diye ekledi. Anneleri masaya haşlanmış yumurta getirdi. Yumurtanın İngilizcesi \"Egg\" idi ve kemiklerini güçlendiriyordu. Sağlıklı bir kahvaltının en önemli içeceği olan sütü yudumlarken, sütün İngilizcede \"Milk\" olarak söylendiğini hatırladılar. Güzel bir kahvaltı, güne mutlu ve güçlü başlamanın en harika yoluydu!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "yi-anlatim-1"
+            }
+          },
+          {
+            "metin": "Öğle vakti geldiğinde Mehmet ve Selin okulun yemekhanesine gittiler. Tabaklarında harika bir et yemeği vardı. Mehmet, \"Etin İngilizcesi Meat'tir, çok sağlıklıdır,\" dedi. Selin ise tavuk yemeğini göstererek, \"Benim yemeğim tavuk, yani Chicken!\" diye gülümsedi. Yemeklerini bitirdikten sonra sıra en sevdikleri kısma, meyvelere gelmişti. Mehmet kıpkırmızı bir elmayı ısırırken elmanın İngilizcesinin \"Apple\" olduğunu söyledi. Selin de sarı muzunu soyarken, \"Muz İngilizcede Banana demektir, maymunlar da bunu çok sever!\" dedi. Meyveler (Fruits) ve sağlıklı yiyecekler (Food) onları hastalıklardan koruyan sihirli kalkanlardı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "yi-anlatim-2"
+            }
+          },
+          {
+            "metin": "Hafta sonu parkta koşup oyun oynayan Fatma ve Berk çok susamışlardı. Berk hemen matarasından kana kana su içti. \"Su, hayatımız için çok önemli. Suyun İngilizcesi Water!\" dedi neşeyle. Fatma da yanında getirdiği portakal suyunu içti. Meyve sularına İngilizcede genel olarak \"Juice\" dendiğini biliyordu. Akşam eve döndüklerinde dedeleri bahçede çay içiyordu. Dedelerine sıcak bir çay ikram ettiler. Çayın İngilizcesi \"Tea\" idi. Yiyecekler (Food) ve içecekler (Drinks) dünyasını İngilizce kelimelerle öğrenmek, her öğünü çok eğlenceli bir oyuna dönüştürmüştü.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "yi-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "yi-a1",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Ekmek kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "bread",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ekmek-dilim"
+          }
+        },
+        {
+          "id": "yi-a2",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "İngilizcede peynir \"Cheese\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "peynir-tabak"
+          }
+        },
+        {
+          "id": "yi-a3",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Yumurta kelimesinin İngilizce karşılığı ......... kelimesidir.",
+          "dogruCevap": "egg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yumurta-hasli"
+          }
+        },
+        {
+          "id": "yi-a4",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Süt İngilizcede \"Milk\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bardak-sut"
+          }
+        },
+        {
+          "id": "yi-a5",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Elma kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "apple",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-elma-yiyecek"
+          }
+        },
+        {
+          "id": "yi-a6",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Banana\" kelimesi Türkçede portakal anlamına gelir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-muz"
+          }
+        },
+        {
+          "id": "yi-a7",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Et kelimesinin İngilizce yazılışı ......... kelimesidir.",
+          "dogruCevap": "meat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "et-yemegi"
+          }
+        },
+        {
+          "id": "yi-a8",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Tavuk eti yemeğine İngilizcede \"Chicken\" denir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tavuk-yemek"
+          }
+        },
+        {
+          "id": "yi-a9",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Su kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "water",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bardak-su"
+          }
+        },
+        {
+          "id": "yi-a10",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Meyve suyu İngilizcede \"Juice\" olarak yazılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "meyve-suyu"
+          }
+        },
+        {
+          "id": "yi-a11",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "Çay içeceğinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "tea",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sicak-cay"
+          }
+        },
+        {
+          "id": "yi-a12",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Cheese\" kelimesi Türkçede süt demektir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "peynir-ekmek"
+          }
+        },
+        {
+          "id": "yi-a13",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Apple\" kelimesi çok lezzetli ve sağlıklı bir meyve olan elmadır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "taze-elma"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "yi-t1",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kahvaltıda yediğimiz ekmeğin İngilizcesi nedir?",
+          "dogruCevap": "Bread",
+          "secenekler": [
+            "Milk",
+            "Water",
+            "Bread",
+            "Apple"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dilim-ekmek"
+          }
+        },
+        {
+          "id": "yi-t2",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kahvaltıların en lezzetli yiyeceği olan peynirin İngilizce adı hangisidir?",
+          "dogruCevap": "Cheese",
+          "secenekler": [
+            "Meat",
+            "Tea",
+            "Cheese",
+            "Banana"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "beyaz-peynir"
+          }
+        },
+        {
+          "id": "yi-t3",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Sağlıklı kemikler için yediğimiz yumurtanın İngilizcesi nedir?",
+          "dogruCevap": "Egg",
+          "secenekler": [
+            "Juice",
+            "Water",
+            "Chicken",
+            "Egg"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yumurta-hasli"
+          }
+        },
+        {
+          "id": "yi-t4",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Her gün içmemiz gereken sağlıklı sütün İngilizcesi aşağıdakilerden hangisidir?",
+          "dogruCevap": "Milk",
+          "secenekler": [
+            "Milk",
+            "Meat",
+            "Bread",
+            "Tea"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bardak-sut"
+          }
+        },
+        {
+          "id": "yi-t5",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çok sağlıklı ve tatlı bir meyve olan elmanın İngilizce karşılığı nedir?",
+          "dogruCevap": "Apple",
+          "secenekler": [
+            "Apple",
+            "Banana",
+            "Juice",
+            "Cheese"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-elma-yiyecek"
+          }
+        },
+        {
+          "id": "yi-t6",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Maymunların da çok sevdiği muz meyvesinin İngilizcesi hangi seçenekte doğru verilmiştir?",
+          "dogruCevap": "Banana",
+          "secenekler": [
+            "Egg",
+            "Apple",
+            "Water",
+            "Banana"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-muz"
+          }
+        },
+        {
+          "id": "yi-t7",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bizi güçlü yapan et yemeğinin İngilizcesi nedir?",
+          "dogruCevap": "Meat",
+          "secenekler": [
+            "Chicken",
+            "Meat",
+            "Milk",
+            "Bread"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "et-yemegi"
+          }
+        },
+        {
+          "id": "yi-t8",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Akşam yemeğinde yediğimiz tavuk etinin İngilizcesi nedir?",
+          "dogruCevap": "Chicken",
+          "secenekler": [
+            "Chicken",
+            "Tea",
+            "Water",
+            "Cheese"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kizarmis-tavuk"
+          }
+        },
+        {
+          "id": "yi-t9",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Susadığımızda içtiğimiz hayat kaynağımız olan suyun İngilizcesi nedir?",
+          "dogruCevap": "Water",
+          "secenekler": [
+            "Water",
+            "Milk",
+            "Juice",
+            "Tea"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bardak-su-temiz"
+          }
+        },
+        {
+          "id": "yi-t10",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Taze sıkılmış meyve suyunun İngilizcesi hangisidir?",
+          "dogruCevap": "Juice",
+          "secenekler": [
+            "Juice",
+            "Apple",
+            "Meat",
+            "Bread"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "portakal-suyu"
+          }
+        },
+        {
+          "id": "yi-t11",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Büyüklerimizin kahvaltıda içmeyi çok sevdiği çayın İngilizce adı nedir?",
+          "dogruCevap": "Tea",
+          "secenekler": [
+            "Cheese",
+            "Egg",
+            "Tea",
+            "Water"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sicak-cay-fincan"
+          }
+        },
+        {
+          "id": "yi-t12",
+          "kazanimKodu": "ING.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+          "dogruCevap": "Ekmek = Water",
+          "secenekler": [
+            "Ekmek = Water",
+            "Süt = Milk",
+            "Peynir = Cheese",
+            "Et = Meat"
+          ],
+          "ipucu": "Bread ekmek demektir!",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yiyecekler-masasi"
+          },
+          "sasirtma": true
+        }
+      ]
+    },
+    {
+      "id": "sekiller-ing",
+      "baslik": "Shapes",
+      "kazanimKodu": "ING.2.5.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Elanaz ve Berk sınıfta şekil panosu hazırladılar. Daire Circle, kare Square, üçgen Triangle! Renkli şekiller duvara asılınca sınıf çok neşeli oldu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sk-anlatim-1"
+            }
+          },
+          {
+            "metin": "Öğretmen dikdörtgen Rectangle, yıldız Star ve kalp Heart şekillerini gösterdi. \"Shapes\" kelimesi tüm şekillerin adıydı. Her şekil farklı ve güzeldi!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sk-anlatim-2"
+            }
+          },
+          {
+            "metin": "Parkta top Circle, çadır Triangle, pencere Rectangle şeklindeydi. Şekilleri İngilizce öğrenmek çevremizdeki her şeyi daha eğlenceli yapıyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sk-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "sk-a1",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Daire kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "circle",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "daire-sekil"
+          }
+        },
+        {
+          "id": "sk-a2",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Kare kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "square",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kare-sekil"
+          }
+        },
+        {
+          "id": "sk-a3",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Üçgen İngilizcede \"Triangle\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucgen-sekil"
+          }
+        },
+        {
+          "id": "sk-a4",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Dikdörtgen kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "rectangle",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dikdortgen-sekil"
+          }
+        },
+        {
+          "id": "sk-a5",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Yıldız şeklinin İngilizcesi \"Star\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yildiz-sekil"
+          }
+        },
+        {
+          "id": "sk-a6",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Kalp şeklinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "heart",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kalp-sekil"
+          }
+        },
+        {
+          "id": "sk-a7",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "\"Circle\" kelimesi Türkçede kare demektir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "top-sekli"
+          }
+        },
+        {
+          "id": "sk-a8",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Şekiller kelimesinin İngilizcesi \".........\" kelimesidir.",
+          "dogruCevap": "shapes",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "renkli-sekiller"
+          }
+        },
+        {
+          "id": "sk-a9",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "\"Square\" kelimesi dört eşit kenarlı kare şeklidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kare-kutu"
+          }
+        },
+        {
+          "id": "sk-a10",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Oval şeklinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "oval",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "oval-sekil"
+          }
+        },
+        {
+          "id": "sk-a11",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "\"Triangle\" kelimesi üç kenarlı şekil demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucgen-cad"
+          }
+        },
+        {
+          "id": "sk-a12",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Elmas şeklinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "diamond",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "elmas-sekil"
+          }
+        },
+        {
+          "id": "sk-a13",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "yazili",
+          "soru": "Futbol topu bir \"Circle\" (daire) şekline benzer.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "futbol-topu"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "sk-t1",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Top gibi yuvarlak şeklin İngilizcesi nedir?",
+          "dogruCevap": "Circle",
+          "secenekler": [
+            "Triangle",
+            "Star",
+            "Circle",
+            "Square"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "top-sekli"
+          }
+        },
+        {
+          "id": "sk-t2",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Dört eşit kenarlı karenin İngilizcesi hangisidir?",
+          "dogruCevap": "Square",
+          "secenekler": [
+            "Heart",
+            "Circle",
+            "Square",
+            "Oval"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kare-sekil"
+          }
+        },
+        {
+          "id": "sk-t3",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Üç kenarlı şeklin İngilizce adı nedir?",
+          "dogruCevap": "Triangle",
+          "secenekler": [
+            "Star",
+            "Diamond",
+            "Triangle",
+            "Rectangle"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucgen-sekil"
+          }
+        },
+        {
+          "id": "sk-t4",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kitap gibi uzun dörtgen şeklin İngilizcesi nedir?",
+          "dogruCevap": "Rectangle",
+          "secenekler": [
+            "Rectangle",
+            "Triangle",
+            "Circle",
+            "Heart"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dikdortgen-sekil"
+          }
+        },
+        {
+          "id": "sk-t5",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Gökyüzündeki parlayan yıldız şeklinin İngilizcesi nedir?",
+          "dogruCevap": "Star",
+          "secenekler": [
+            "Star",
+            "Diamond",
+            "Square",
+            "Oval"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yildiz-sekil"
+          }
+        },
+        {
+          "id": "sk-t6",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sevgi sembolü kalp şeklinin İngilizcesi hangisidir?",
+          "dogruCevap": "Heart",
+          "secenekler": [
+            "Square",
+            "Circle",
+            "Triangle",
+            "Heart"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kalp-sekil"
+          }
+        },
+        {
+          "id": "sk-t7",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Şekiller kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Shapes",
+          "secenekler": [
+            "Animals",
+            "Numbers",
+            "Colors",
+            "Shapes"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "renkli-sekiller"
+          }
+        },
+        {
+          "id": "sk-t8",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yumurtaya benzeyen şeklin İngilizcesi nedir?",
+          "dogruCevap": "Oval",
+          "secenekler": [
+            "Star",
+            "Oval",
+            "Square",
+            "Triangle"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "oval-sekil"
+          }
+        },
+        {
+          "id": "sk-t9",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Elmas şeklinin İngilizce karşılığı nedir?",
+          "dogruCevap": "Diamond",
+          "secenekler": [
+            "Circle",
+            "Diamond",
+            "Heart",
+            "Rectangle"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "elmas-sekil"
+          }
+        },
+        {
+          "id": "sk-t10",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Circle\" kelimesinin Türkçe anlamı nedir?",
+          "dogruCevap": "Daire",
+          "secenekler": [
+            "Daire",
+            "Yıldız",
+            "Üçgen",
+            "Kare"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "daire-sekil"
+          }
+        },
+        {
+          "id": "sk-t11",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Çadırın çatısı hangi şekle benzer?",
+          "dogruCevap": "Triangle",
+          "secenekler": [
+            "Triangle",
+            "Circle",
+            "Square",
+            "Oval"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucgen-cad"
+          }
+        },
+        {
+          "id": "sk-t12",
+          "kazanimKodu": "ING.2.5.3",
+          "tip": "coktanSecmeli",
+          "soru": "Zarın yüzleri hangi şekildedir?",
+          "dogruCevap": "Square",
+          "secenekler": [
+            "Circle",
+            "Star",
+            "Heart",
+            "Square"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "zar-kup"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vucudumuzun-bolumleri",
+      "baslik": "Body Parts",
+      "kazanimKodu": "ING.2.2.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Pırıl pırıl bir sabahtı. Can ve Zeynep aynanın karşısına geçmiş, yüzlerindeki organları inceliyorlardı. Can, ellerini başına koydu ve \"Başımızın İngilizcesi Head,\" dedi. Zeynep iri ve güzel gözlerini göstererek, \"Gözlerimiz ise Eye demek, dünyayı onların sayesinde görüyoruz!\" diye gülümsedi. Can kulaklarını işaret etti: \"Müziği ve kuşların sesini duyduğumuz kulağımız İngilizcede Ear olarak söylenir.\" Çiçeklerin mis gibi kokusunu aldığımız burnumuzun adı \"Nose\", yemek yediğimiz ve konuştuğumuz ağzımızın adı ise \"Mouth\" idi. Vücudumuzun baş (Head) bölgesi, harika şeyleri görmemizi, duymamızı, koklamamızı ve tatmamızı sağlayan harika bir komuta merkeziydi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "vb-anlatim-1"
+            }
+          },
+          {
+            "metin": "Dışarı çıkıp oyun oynamaya başladıklarında Ali ve Hande birbirlerine top atıyorlardı. Ali topu fırlatırken, \"Kollarımız ne kadar güçlü, İngilizcede onlara Arm diyoruz!\" diye seslendi. Hande topu elleriyle havada yakaladı ve neşeyle cevap verdi: \"Topu tutmamı sağlayan ellerimin İngilizcesi ise Hand.\" Ellerimiz olmasaydı resim yapamaz, kalem tutamaz ve sevdiklerimize sarılamazdık. Öğretmenleri onlara şarkı söylerken parmaklarını şıklatmayı da öğretmişti. Her bir parmağın adı İngilizcede \"Finger\" idi. İki kolda (Arm) iki el (Hand) ve tam on tane marifetli parmak (Finger) vardı. Vücudumuz kusursuz çalışan çok tatlı bir makine gibiydi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "vb-anlatim-2"
+            }
+          },
+          {
+            "metin": "Öğleden sonra Yusuf ve Ayşe parkta seksek oynamaya başladılar. Yusuf tek bacağının üzerinde zıplarken, \"Bacaklarımız çok sağlam, İngilizcesi Leg!\" diyerek zıpladı. Ayşe de yere sağlam basan ayaklarını gösterdi: \"Bizi ayakta tutan ve yürümemizi sağlayan ayaklarımıza ise Foot diyoruz.\" İngilizcede ayak parmakları için el parmaklarından farklı bir kelime kullanılırdı. Ayak parmaklarının adı \"Toe\" idi. Vücudumuzun bölümleri (Body Parts) muhteşem bir uyum içinde çalışıyordu. Gözlerimiz (Eye) yolu görüyor, kollarımız (Arm) denge kuruyor, bacaklarımız (Leg) ve ayaklarımız (Foot) ise bizi istediğimiz her yere sevgiyle taşıyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "vb-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "vb-a1",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "Vücudumuzun en üstünde bulunan baş (kafa) kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "head",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bas-kafa"
+          }
+        },
+        {
+          "id": "vb-a2",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "İngilizcede göz \"Eye\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "insan-gozu"
+          }
+        },
+        {
+          "id": "vb-a3",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "Kulak kelimesinin İngilizce karşılığı ......... kelimesidir.",
+          "dogruCevap": "ear",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "insan-kulak"
+          }
+        },
+        {
+          "id": "vb-a4",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "Burun İngilizcede \"Nose\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "insan-burnu"
+          }
+        },
+        {
+          "id": "vb-a5",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "Ağız kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "mouth",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gulumseyen-agiz"
+          }
+        },
+        {
+          "id": "vb-a6",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "\"Arm\" kelimesi Türkçede bacak anlamına gelir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "insan-kolu"
+          }
+        },
+        {
+          "id": "vb-a7",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "El kelimesinin İngilizce yazılışı ......... kelimesidir.",
+          "dogruCevap": "hand",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "insan-eli"
+          }
+        },
+        {
+          "id": "vb-a8",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "El parmaklarımıza İngilizcede \"Finger\" denir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "el-parmaklari"
+          }
+        },
+        {
+          "id": "vb-a9",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "Bacak kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "leg",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "insan-bacagi"
+          }
+        },
+        {
+          "id": "vb-a10",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "Ayak İngilizcede \"Foot\" olarak yazılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "insan-ayagi"
+          }
+        },
+        {
+          "id": "vb-a11",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "Ayak parmaklarımızın İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "toe",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ayak-parmaklari"
+          }
+        },
+        {
+          "id": "vb-a12",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "\"Eye\" kelimesi Türkçede kulak demektir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cift-goz"
+          }
+        },
+        {
+          "id": "vb-a13",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "yazili",
+          "soru": "\"Hand\" kelimesi el anlamına gelir ve resim yapmamızı sağlar.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "el-sallayan-el"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "vb-t1",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Saçlarımızın bulunduğu baş (kafa) bölümünün İngilizcesi nedir?",
+          "dogruCevap": "Head",
+          "secenekler": [
+            "Leg",
+            "Head",
+            "Ear",
+            "Arm"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sac-taranan-bas"
+          }
+        },
+        {
+          "id": "vb-t2",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Dünyayı, renkleri ve şekilleri görmemizi sağlayan gözün İngilizce adı hangisidir?",
+          "dogruCevap": "Eye",
+          "secenekler": [
+            "Eye",
+            "Hand",
+            "Foot",
+            "Nose"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "guzel-goz"
+          }
+        },
+        {
+          "id": "vb-t3",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sesleri, müziği ve arkadaşlarımızın sesini duyduğumuz kulağın İngilizcesi nedir?",
+          "dogruCevap": "Ear",
+          "secenekler": [
+            "Finger",
+            "Leg",
+            "Mouth",
+            "Ear"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "muzik-kulak"
+          }
+        },
+        {
+          "id": "vb-t4",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Nefes almamızı ve mis gibi kokuları duymamızı sağlayan burnun İngilizcesi aşağıdakilerden hangisidir?",
+          "dogruCevap": "Nose",
+          "secenekler": [
+            "Eye",
+            "Toe",
+            "Arm",
+            "Nose"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cicek-burun"
+          }
+        },
+        {
+          "id": "vb-t5",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yemek yediğimiz, konuştuğumuz ve şarkı söylediğimiz ağzın İngilizce karşılığı nedir?",
+          "dogruCevap": "Mouth",
+          "secenekler": [
+            "Foot",
+            "Mouth",
+            "Hand",
+            "Head"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "konusan-agiz"
+          }
+        },
+        {
+          "id": "vb-t6",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Eşyaları kaldırmamızı sağlayan kolun İngilizcesi hangi seçenekte doğru verilmiştir?",
+          "dogruCevap": "Arm",
+          "secenekler": [
+            "Arm",
+            "Ear",
+            "Nose",
+            "Leg"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "guclu-kol"
+          }
+        },
+        {
+          "id": "vb-t7",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Birine el sallarken kullandığımız elin İngilizcesi nedir?",
+          "dogruCevap": "Hand",
+          "secenekler": [
+            "Hand",
+            "Eye",
+            "Foot",
+            "Mouth"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "el-sallayan-el"
+          }
+        },
+        {
+          "id": "vb-t8",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kalem tutmamızı sağlayan el parmaklarımızın İngilizcesi nedir?",
+          "dogruCevap": "Finger",
+          "secenekler": [
+            "Head",
+            "Leg",
+            "Finger",
+            "Toe"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "el-parmaklari"
+          }
+        },
+        {
+          "id": "vb-t9",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yürümemizi, koşmamızı ve zıplamamızı sağlayan bacağın İngilizcesi nedir?",
+          "dogruCevap": "Leg",
+          "secenekler": [
+            "Nose",
+            "Leg",
+            "Arm",
+            "Ear"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yuruyen-bacaklar"
+          }
+        },
+        {
+          "id": "vb-t10",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ayakkabı giydiğimiz ve yere sağlam basmamızı sağlayan ayağın İngilizcesi hangisidir?",
+          "dogruCevap": "Foot",
+          "secenekler": [
+            "Hand",
+            "Head",
+            "Eye",
+            "Foot"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yere-basan-ayak"
+          }
+        },
+        {
+          "id": "vb-t11",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ayak uçlarımızda bulunan ayak parmaklarına İngilizcede ne ad verilir?",
+          "dogruCevap": "Toe",
+          "secenekler": [
+            "Finger",
+            "Arm",
+            "Toe",
+            "Mouth"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ayak-parmaklari"
+          }
+        },
+        {
+          "id": "vb-t12",
+          "kazanimKodu": "ING.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki eşleştirmelerden hangisi YANLIŞTIR?",
+          "dogruCevap": "Burun = Hand",
+          "secenekler": [
+            "Ağız = Mouth",
+            "Burun = Hand",
+            "Kulak = Ear",
+            "Göz = Eye"
+          ],
+          "ipucu": "Nose burun demektir!",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yuz-organlari"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

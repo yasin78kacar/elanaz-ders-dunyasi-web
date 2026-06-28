@@ -1,0 +1,2576 @@
+{
+  "id": "tema-8",
+  "baslik": "Matematik — Tema 8 — Geometri",
+  "konular": [
+    {
+      "id": "geometrik-cisim-modelleri",
+      "baslik": "Geometrik Cisim Modelleri",
+      "kazanimKodu": "MAT.2.1.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Geçen konuda cisimleri yuvarlak ve köşeli diye ayırmıştık. Şimdi bu cisimlerin adlarını öğreniyoruz! Çevremizdeki her nesne bir geometrik cisme benzer.",
+            "gorsel": {
+              "tur": "nesne",
+              "sahne": "g2m-anlatim-1"
+            }
+          },
+          {
+            "metin": "Zar ve küp şeker KÜP'e benzer. Kibrit kutusu ve ayakkabı kutusu DİKDÖRTGEN PRİZMA'ya benzer. Kolonya kutusu gibi kare yüzlü uzun kutular KARE PRİZMA'ya benzer.",
+            "gorsel": {
+              "tur": "nesne",
+              "sahne": "g2m-anlatim-2"
+            }
+          },
+          {
+            "metin": "Çadır ve bazı çatılar ÜÇGEN PRİZMA'ya benzer. Konserve kutusu ve teneke kutu SİLİNDİR'e benzer. Futbol topu ve dünya KÜRE'ye benzer.",
+            "gorsel": {
+              "tur": "nesne",
+              "sahne": "g2m-anlatim-3"
+            }
+          },
+          {
+            "metin": "Çevremizdeki yapılarda da geometrik cisimler gizlidir! Kale kuleleri silindire, binalar dikdörtgen prizmaya, çatılar üçgen prizmaya benzer. Haydi, odana bak: hangi nesne hangi cisme benziyor?",
+            "gorsel": {
+              "tur": "nesne",
+              "sahne": "g2m-anlatim-4"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "g2m-a1",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Zar hangi geometrik cisme benzer?",
+          "dogruCevap": "küp",
+          "ipucu": "Zarın her yüzü karedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-zar"
+          },
+          "alternatifCevaplar": [
+            "Küp"
+          ]
+        },
+        {
+          "id": "g2m-a2",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Konserve kutusu hangi geometrik cisme benzer?",
+          "dogruCevap": "silindir",
+          "ipucu": "Yuvarlak gövdeli kutular silindire benzer.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-konserve"
+          }
+        },
+        {
+          "id": "g2m-a3",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Futbol topu hangi geometrik cisme benzer?",
+          "dogruCevap": "küre",
+          "ipucu": "Top her yönden yuvarlaktır.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-futbol-topu"
+          },
+          "alternatifCevaplar": [
+            "Küre"
+          ]
+        },
+        {
+          "id": "g2m-a4",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Ayakkabı kutusu hangi geometrik cisme benzer?",
+          "dogruCevap": "dikdörtgen prizma",
+          "ipucu": "Uzun dikdörtgen yüzlü kutular…",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-ayakkabi-kutusu"
+          },
+          "alternatifCevaplar": [
+            "Dikdörtgen prizma"
+          ]
+        },
+        {
+          "id": "g2m-a5",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Elanaz'ın kamp çadırı hangi geometrik cisme benzer?",
+          "dogruCevap": "üçgen prizma",
+          "ipucu": "Çadırın çatısı üçgen şeklindedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-cadir"
+          },
+          "alternatifCevaplar": [
+            "Üçgen prizma"
+          ]
+        },
+        {
+          "id": "g2m-a6",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Küp şeker hangi geometrik cisme benzer?",
+          "dogruCevap": "küp",
+          "ipucu": "Küçük kare yüzlü şekerler küpe benzer.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kup-seker"
+          },
+          "alternatifCevaplar": [
+            "Küp"
+          ]
+        },
+        {
+          "id": "g2m-a7",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Teneke meyve suyu kutusu hangi geometrik cisme benzer?",
+          "dogruCevap": "silindir",
+          "ipucu": "Teneke kutuların gövdesi yuvarlaktır.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-meyve-suyu-teneke"
+          }
+        },
+        {
+          "id": "g2m-a8",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Dünya'mız hangi geometrik cisme benzer?",
+          "dogruCevap": "küre",
+          "ipucu": "Dünya her yönden yuvarlaktır.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-dunya"
+          },
+          "alternatifCevaplar": [
+            "Küre"
+          ]
+        },
+        {
+          "id": "g2m-a9",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "🎭 Basketbol topu silindire mi, küreye mi benzer?",
+          "dogruCevap": "küre",
+          "ipucu": "Top her yönden yusyuvarlaktır — silindirin ise düz iki yüzü vardır!",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-basketbol-topu"
+          },
+          "sasirtma": true,
+          "alternatifCevaplar": [
+            "Küre"
+          ]
+        },
+        {
+          "id": "g2m-a10",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Kibrit kutusu hangi geometrik cisme benzer?",
+          "dogruCevap": "dikdörtgen prizma",
+          "ipucu": "Kibrit kutusu köşeli ve uzun bir kutudur.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kibrit-kutusu"
+          },
+          "alternatifCevaplar": [
+            "Dikdörtgen prizma"
+          ]
+        },
+        {
+          "id": "g2m-a11",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Elanaz'ın boya kalemi kutusu uzun ve kare yüzlüdür. Hangi cisme benzer?",
+          "dogruCevap": "kare prizma",
+          "ipucu": "Kare tabanlı uzun kutular kare prizmaya benzer.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-boya-kutusu"
+          },
+          "alternatifCevaplar": [
+            "Kare prizma"
+          ]
+        },
+        {
+          "id": "g2m-a12",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Bir kale kulesi hangi geometrik cisme benzer?",
+          "dogruCevap": "silindir",
+          "ipucu": "Kuleler genelde yuvarlak gövdelidir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kale-kulesi"
+          }
+        },
+        {
+          "id": "g2m-a13",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Süt kutusu hangi geometrik cisme benzer?",
+          "dogruCevap": "dikdörtgen prizma",
+          "ipucu": "Süt kutusu köşeli bir kutudur.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-sut-kutusu"
+          },
+          "alternatifCevaplar": [
+            "Dikdörtgen prizma"
+          ]
+        },
+        {
+          "id": "g2m-a14",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "🎭 Yumurta küreye benzer mi? (evet/hayır)",
+          "dogruCevap": "hayır",
+          "ipucu": "Küre her yönden aynı yuvarlaklıktadır; yumurtanın bir ucu sivri, dikkat!",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-yumurta"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "g2m-a15",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Bazı evlerin çatısı hangi geometrik cisme benzer?",
+          "dogruCevap": "üçgen prizma",
+          "ipucu": "Üçgen çatılar üçgen prizmaya benzer.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-ucgen-catili-ev"
+          },
+          "alternatifCevaplar": [
+            "Üçgen prizma"
+          ]
+        },
+        {
+          "id": "g2m-a16",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Misket hangi geometrik cisme benzer?",
+          "dogruCevap": "küre",
+          "ipucu": "Misket küçük bir küredir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-misket"
+          },
+          "alternatifCevaplar": [
+            "Küre"
+          ]
+        },
+        {
+          "id": "g2m-a17",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Elanaz markette silindire benzeyen bir ürün arıyor. Konserve mi almalı, küp şeker mi?",
+          "dogruCevap": "konserve",
+          "ipucu": "Konserve kutusu silindire benzer; küp şeker küpe benzer.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-konserve-kup-seker"
+          }
+        },
+        {
+          "id": "g2m-a18",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Buzdolabı hangi geometrik cisme benzer?",
+          "dogruCevap": "dikdörtgen prizma",
+          "ipucu": "Buzdolabı köşeli ve uzun bir kutudur.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-buzdolabi"
+          },
+          "alternatifCevaplar": [
+            "Dikdörtgen prizma"
+          ]
+        },
+        {
+          "id": "g2m-a19",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Zekâ küpü hangi cisme benzer?",
+          "dogruCevap": "küp",
+          "ipucu": "Zekâ küpü küp şeklindedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-zeka-kupu"
+          },
+          "alternatifCevaplar": [
+            "Küp"
+          ]
+        },
+        {
+          "id": "g2m-a20",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Tuvalet kâğıdı rulosu hangi geometrik cisme benzer?",
+          "dogruCevap": "silindir",
+          "ipucu": "Rulo yuvarlak gövdelidir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kagit-rulosu"
+          }
+        },
+        {
+          "id": "g2m-a21",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Portakal hangi geometrik cisme benzer?",
+          "dogruCevap": "küre",
+          "ipucu": "Portakal yuvarlaktır.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-portakal"
+          },
+          "alternatifCevaplar": [
+            "Küre"
+          ]
+        },
+        {
+          "id": "g2m-a22",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Elanaz'ın hediye kutusu her yüzü kare olan bir kutudur. Hangi cisme benzer?",
+          "dogruCevap": "küp",
+          "ipucu": "Her yüzü kare olan kutu küptür.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-hediye-kup-kutu"
+          },
+          "alternatifCevaplar": [
+            "Küp"
+          ]
+        },
+        {
+          "id": "g2m-a23",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Pil hangi geometrik cisme benzer?",
+          "dogruCevap": "silindir",
+          "ipucu": "Pil yuvarlak gövdelidir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-pil"
+          }
+        },
+        {
+          "id": "g2m-a24",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Kitap hangi geometrik cisme benzer?",
+          "dogruCevap": "dikdörtgen prizma",
+          "ipucu": "Kitap köşeli ve ince bir kutudur.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kitap"
+          },
+          "alternatifCevaplar": [
+            "Dikdörtgen prizma"
+          ]
+        },
+        {
+          "id": "g2m-a25",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "yazili",
+          "soru": "Elanaz parkta üçgen prizmaya benzeyen bir şey gördü. Çadır mı, top mu görmüştür?",
+          "dogruCevap": "çadır",
+          "ipucu": "Çadırın çatısı üçgen prizmaya benzer; top küreye benzer.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-cadir-top"
+          },
+          "alternatifCevaplar": [
+            "Çadır"
+          ]
+        }
+      ],
+      "test": [
+        {
+          "id": "g2m-t1",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Zar hangi geometrik cisme benzer?",
+          "dogruCevap": "Küp",
+          "secenekler": [
+            "Üçgen prizma",
+            "Küp",
+            "Küre",
+            "Silindir"
+          ],
+          "ipucu": "Zarın her yüzü karedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-zar-mavi"
+          },
+          "secenekIkonlari": {
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Üçgen prizma": {
+              "tip": "model",
+              "anahtar": "ucgen-prizma"
+            }
+          }
+        },
+        {
+          "id": "g2m-t2",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi silindire benzer?",
+          "dogruCevap": "Konserve kutusu",
+          "secenekler": [
+            "Zar",
+            "Kitap",
+            "Futbol topu",
+            "Konserve kutusu"
+          ],
+          "ipucu": "Silindirin yuvarlak gövdesi vardır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-konserve"
+          },
+          "secenekIkonlari": {
+            "Konserve kutusu": {
+              "tip": "nesne",
+              "anahtar": "konserve"
+            },
+            "Zar": {
+              "tip": "nesne",
+              "anahtar": "zar"
+            },
+            "Futbol topu": {
+              "tip": "nesne",
+              "anahtar": "futbol-topu"
+            },
+            "Kitap": {
+              "tip": "nesne",
+              "anahtar": "kitap"
+            }
+          }
+        },
+        {
+          "id": "g2m-t3",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Futbol topu hangi geometrik cisme benzer?",
+          "dogruCevap": "Küre",
+          "secenekler": [
+            "Küp",
+            "Küre",
+            "Kare prizma",
+            "Silindir"
+          ],
+          "ipucu": "Top her yönden yuvarlaktır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-futbol-topu"
+          },
+          "secenekIkonlari": {
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Kare prizma": {
+              "tip": "model",
+              "anahtar": "kare-prizma"
+            }
+          }
+        },
+        {
+          "id": "g2m-t4",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi küreye benzer?",
+          "dogruCevap": "Misket",
+          "secenekler": [
+            "Süt kutusu",
+            "Çadır",
+            "Kibrit kutusu",
+            "Misket"
+          ],
+          "ipucu": "Küre her yönden yuvarlaktır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-misket"
+          },
+          "secenekIkonlari": {
+            "Süt kutusu": {
+              "tip": "nesne",
+              "anahtar": "sut-kutusu"
+            },
+            "Misket": {
+              "tip": "nesne",
+              "anahtar": "misket"
+            },
+            "Çadır": {
+              "tip": "nesne",
+              "anahtar": "cadir"
+            },
+            "Kibrit kutusu": {
+              "tip": "nesne",
+              "anahtar": "kibrit-kutusu"
+            }
+          }
+        },
+        {
+          "id": "g2m-t5",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elanaz'ın kamp çadırı hangi cisme benzer?",
+          "dogruCevap": "Üçgen prizma",
+          "secenekler": [
+            "Silindir",
+            "Küp",
+            "Üçgen prizma",
+            "Küre"
+          ],
+          "ipucu": "Çadırın çatısı üçgen şeklindedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-cadir-turuncu"
+          },
+          "secenekIkonlari": {
+            "Üçgen prizma": {
+              "tip": "model",
+              "anahtar": "ucgen-prizma"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            }
+          }
+        },
+        {
+          "id": "g2m-t6",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hangisi KÜP'e benzeMEZ?",
+          "dogruCevap": "Konserve kutusu",
+          "secenekler": [
+            "Zekâ küpü",
+            "Zar",
+            "Küp şeker",
+            "Konserve kutusu"
+          ],
+          "ipucu": "\"BenzeMEZ\" diyor — küp OLMAYANI arıyoruz!",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-zar"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Zar": {
+              "tip": "nesne",
+              "anahtar": "zar"
+            },
+            "Küp şeker": {
+              "tip": "nesne",
+              "anahtar": "kup-seker"
+            },
+            "Zekâ küpü": {
+              "tip": "nesne",
+              "anahtar": "zeka-kupu"
+            },
+            "Konserve kutusu": {
+              "tip": "nesne",
+              "anahtar": "konserve"
+            }
+          }
+        },
+        {
+          "id": "g2m-t7",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ayakkabı kutusu hangi geometrik cisme benzer?",
+          "dogruCevap": "Dikdörtgen prizma",
+          "secenekler": [
+            "Üçgen prizma",
+            "Dikdörtgen prizma",
+            "Silindir",
+            "Küre"
+          ],
+          "ipucu": "Ayakkabı kutusu köşeli ve uzundur.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-ayakkabi-kutusu"
+          },
+          "secenekIkonlari": {
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Dikdörtgen prizma": {
+              "tip": "model",
+              "anahtar": "dikdortgen-prizma"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Üçgen prizma": {
+              "tip": "model",
+              "anahtar": "ucgen-prizma"
+            }
+          }
+        },
+        {
+          "id": "g2m-t8",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi dikdörtgen prizmaya benzer?",
+          "dogruCevap": "Kitap",
+          "secenekler": [
+            "Pil",
+            "Kitap",
+            "Portakal",
+            "Top"
+          ],
+          "ipucu": "Kitap köşeli ve ince bir kutudur.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kitap"
+          },
+          "secenekIkonlari": {
+            "Top": {
+              "tip": "nesne",
+              "anahtar": "top"
+            },
+            "Portakal": {
+              "tip": "nesne",
+              "anahtar": "portakal"
+            },
+            "Kitap": {
+              "tip": "nesne",
+              "anahtar": "kitap"
+            },
+            "Pil": {
+              "tip": "nesne",
+              "anahtar": "pil"
+            }
+          }
+        },
+        {
+          "id": "g2m-t9",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Teneke kutu ve pil hangi cisme benzer?",
+          "dogruCevap": "İkisi de silindire",
+          "secenekler": [
+            "Biri küre, biri küp",
+            "İkisi de küpe",
+            "İkisi de silindire",
+            "İkisi de üçgen prizmaya"
+          ],
+          "ipucu": "Teneke ve pil yuvarlak gövdelidir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-teneke-pil"
+          }
+        },
+        {
+          "id": "g2m-t10",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya'mız hangi geometrik cisme benzer?",
+          "dogruCevap": "Küre",
+          "secenekler": [
+            "Küp",
+            "Küre",
+            "Silindir",
+            "Dikdörtgen prizma"
+          ],
+          "ipucu": "Dünya her yönden yuvarlaktır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-dunya"
+          },
+          "secenekIkonlari": {
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            },
+            "Dikdörtgen prizma": {
+              "tip": "model",
+              "anahtar": "dikdortgen-prizma"
+            }
+          }
+        },
+        {
+          "id": "g2m-t11",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Elanaz \"Her yüzü kare olan bir kutum var.\" dedi. Elanaz'ın kutusu hangi cisme benzer?",
+          "dogruCevap": "Küp",
+          "secenekler": [
+            "Küp",
+            "Küre",
+            "Silindir",
+            "Dikdörtgen prizma"
+          ],
+          "ipucu": "HER yüzü kare olan özel kutunun adı nedir?",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-her-yuzu-kare-kutu"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Dikdörtgen prizma": {
+              "tip": "model",
+              "anahtar": "dikdortgen-prizma"
+            },
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            }
+          }
+        },
+        {
+          "id": "g2m-t12",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Evlerin üçgen çatısı hangi cisme benzer?",
+          "dogruCevap": "Üçgen prizma",
+          "secenekler": [
+            "Küp",
+            "Üçgen prizma",
+            "Silindir",
+            "Küre"
+          ],
+          "ipucu": "Üçgen çatılar üçgen prizmaya benzer.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-ucgen-catili-ev"
+          },
+          "secenekIkonlari": {
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Üçgen prizma": {
+              "tip": "model",
+              "anahtar": "ucgen-prizma"
+            },
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            }
+          }
+        },
+        {
+          "id": "g2m-t13",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi küreye benzeyen nesnelerdir?",
+          "dogruCevap": "Top - Misket",
+          "secenekler": [
+            "Çadır - Çatı",
+            "Zar - Kutu",
+            "Pil - Konserve",
+            "Top - Misket"
+          ],
+          "ipucu": "Top ve misket yuvarlaktır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-top"
+          },
+          "secenekIkonlari": {
+            "Top - Misket": {
+              "tip": "cift",
+              "sol": "top",
+              "sag": "misket"
+            },
+            "Zar - Kutu": {
+              "tip": "cift",
+              "sol": "zar",
+              "sag": "ayakkabi-kutusu"
+            },
+            "Pil - Konserve": {
+              "tip": "cift",
+              "sol": "pil",
+              "sag": "konserve"
+            },
+            "Çadır - Çatı": {
+              "tip": "cift",
+              "sol": "cadir",
+              "sag": "ucgen-catili-ev"
+            }
+          }
+        },
+        {
+          "id": "g2m-t14",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kale kulesi hangi geometrik cisme benzer?",
+          "dogruCevap": "Silindir",
+          "secenekler": [
+            "Küre",
+            "Kare prizma",
+            "Küp",
+            "Silindir"
+          ],
+          "ipucu": "Kuleler genelde yuvarlak gövdelidir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kale-kulesi"
+          },
+          "secenekIkonlari": {
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Kare prizma": {
+              "tip": "model",
+              "anahtar": "kare-prizma"
+            }
+          }
+        },
+        {
+          "id": "g2m-t15",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elanaz markette süt kutusu aldı. Süt kutusu hangi cisme benzer?",
+          "dogruCevap": "Dikdörtgen prizma",
+          "secenekler": [
+            "Üçgen prizma",
+            "Silindir",
+            "Dikdörtgen prizma",
+            "Küre"
+          ],
+          "ipucu": "Süt kutusu köşeli bir kutudur.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-sut-kutusu"
+          },
+          "secenekIkonlari": {
+            "Dikdörtgen prizma": {
+              "tip": "model",
+              "anahtar": "dikdortgen-prizma"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Üçgen prizma": {
+              "tip": "model",
+              "anahtar": "ucgen-prizma"
+            }
+          }
+        },
+        {
+          "id": "g2m-t16",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hangisi SİLİNDİRE benzeMEZ?",
+          "dogruCevap": "Zar",
+          "secenekler": [
+            "Pil",
+            "Tuvalet kâğıdı rulosu",
+            "Zar",
+            "Konserve kutusu"
+          ],
+          "ipucu": "Silindirin yuvarlak gövdesi vardır — köşeli olan hangisi?",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-pil"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Pil": {
+              "tip": "nesne",
+              "anahtar": "pil"
+            },
+            "Konserve kutusu": {
+              "tip": "nesne",
+              "anahtar": "konserve"
+            },
+            "Tuvalet kâğıdı rulosu": {
+              "tip": "nesne",
+              "anahtar": "kagit-rulosu"
+            },
+            "Zar": {
+              "tip": "nesne",
+              "anahtar": "zar"
+            }
+          }
+        },
+        {
+          "id": "g2m-t17",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kibrit kutusu hangi geometrik cisme benzer?",
+          "dogruCevap": "Dikdörtgen prizma",
+          "secenekler": [
+            "Dikdörtgen prizma",
+            "Silindir",
+            "Küre",
+            "Küp"
+          ],
+          "ipucu": "Kibrit kutusu köşeli bir kutudur.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kibrit-kutusu"
+          },
+          "secenekIkonlari": {
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            },
+            "Dikdörtgen prizma": {
+              "tip": "model",
+              "anahtar": "dikdortgen-prizma"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            }
+          }
+        },
+        {
+          "id": "g2m-t18",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi üçgen prizmaya benzer?",
+          "dogruCevap": "Çadır",
+          "secenekler": [
+            "Konserve",
+            "Çadır",
+            "Misket",
+            "Top"
+          ],
+          "ipucu": "Çadırın çatısı üçgen şeklindedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-cadir"
+          },
+          "secenekIkonlari": {
+            "Çadır": {
+              "tip": "nesne",
+              "anahtar": "cadir"
+            },
+            "Top": {
+              "tip": "nesne",
+              "anahtar": "top"
+            },
+            "Konserve": {
+              "tip": "nesne",
+              "anahtar": "konserve"
+            },
+            "Misket": {
+              "tip": "nesne",
+              "anahtar": "misket"
+            }
+          }
+        },
+        {
+          "id": "g2m-t19",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elanaz'ın kalem kutusu uzun ve kare tabanlı bir kutudur. Hangi cisme benzer?",
+          "dogruCevap": "Kare prizma",
+          "secenekler": [
+            "Üçgen prizma",
+            "Kare prizma",
+            "Silindir",
+            "Küre"
+          ],
+          "ipucu": "Kare tabanlı uzun kutular kare prizmaya benzer.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-kalem-kutusu"
+          },
+          "secenekIkonlari": {
+            "Kare prizma": {
+              "tip": "model",
+              "anahtar": "kare-prizma"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Üçgen prizma": {
+              "tip": "model",
+              "anahtar": "ucgen-prizma"
+            }
+          }
+        },
+        {
+          "id": "g2m-t20",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Portakal ve karpuz hangi cisme benzer?",
+          "dogruCevap": "Küreye",
+          "secenekler": [
+            "Küpe",
+            "Üçgen prizmaya",
+            "Küreye",
+            "Silindire"
+          ],
+          "ipucu": "Portakal ve karpuz yuvarlaktır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-portakal-karpuz"
+          }
+        },
+        {
+          "id": "g2m-t21",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Kutudaki süt bitince Elanaz kutuyu geri dönüşüme attı. Boş kutu hangi cisme benzer?",
+          "dogruCevap": "Dikdörtgen prizma",
+          "secenekler": [
+            "Dikdörtgen prizma",
+            "Hiçbirine — boş kutu cisim değildir",
+            "Küre",
+            "Silindir"
+          ],
+          "ipucu": "Kutu boş da olsa dolu da olsa biçimi DEĞİŞMEZ!",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-geri-donusum-sut"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Dikdörtgen prizma": {
+              "tip": "model",
+              "anahtar": "dikdortgen-prizma"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Hiçbirine — boş kutu cisim değildir": {
+              "tip": "nesne",
+              "anahtar": "sut-kutusu"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            }
+          }
+        },
+        {
+          "id": "g2m-t22",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi küpe benzer?",
+          "dogruCevap": "Zar",
+          "secenekler": [
+            "Konserve",
+            "Zar",
+            "Top",
+            "Çadır"
+          ],
+          "ipucu": "Zar küp şeklindedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-zar"
+          },
+          "secenekIkonlari": {
+            "Zar": {
+              "tip": "nesne",
+              "anahtar": "zar"
+            },
+            "Top": {
+              "tip": "nesne",
+              "anahtar": "top"
+            },
+            "Konserve": {
+              "tip": "nesne",
+              "anahtar": "konserve"
+            },
+            "Çadır": {
+              "tip": "nesne",
+              "anahtar": "cadir"
+            }
+          }
+        },
+        {
+          "id": "g2m-t23",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bina hangi geometrik cisme benzer?",
+          "dogruCevap": "Dikdörtgen prizma",
+          "secenekler": [
+            "Dikdörtgen prizma",
+            "Silindir",
+            "Üçgen prizma",
+            "Küre"
+          ],
+          "ipucu": "Binalar köşeli ve uzun kutulardır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-bina"
+          },
+          "secenekIkonlari": {
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Dikdörtgen prizma": {
+              "tip": "model",
+              "anahtar": "dikdortgen-prizma"
+            },
+            "Üçgen prizma": {
+              "tip": "model",
+              "anahtar": "ucgen-prizma"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            }
+          }
+        },
+        {
+          "id": "g2m-t24",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Elanaz dondurma külahını bitirdi, elinde sadece YUVARLAK dondurma topu kaldı. Dondurma topu hangi cisme benzer?",
+          "dogruCevap": "Küre",
+          "secenekler": [
+            "Kare prizma",
+            "Küp",
+            "Silindir",
+            "Küre"
+          ],
+          "ipucu": "Külah gitti — elimizde kalan TOP neye benzer?",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-dondurma-topu"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            },
+            "Silindir": {
+              "tip": "model",
+              "anahtar": "silindir"
+            },
+            "Küp": {
+              "tip": "model",
+              "anahtar": "kup"
+            },
+            "Kare prizma": {
+              "tip": "model",
+              "anahtar": "kare-prizma"
+            }
+          }
+        },
+        {
+          "id": "g2m-t25",
+          "kazanimKodu": "MAT.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi doğru eşleşmedir?",
+          "dogruCevap": "Konserve → Silindir",
+          "secenekler": [
+            "Zar → Küre",
+            "Konserve → Silindir",
+            "Çadır → Küp",
+            "Top → Silindir"
+          ],
+          "ipucu": "Her nesneyi doğru geometrik cisme eşleştir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g2m-konserve"
+          },
+          "secenekIkonlari": {
+            "Zar → Küre": {
+              "tip": "eslestirme",
+              "nesne": "zar",
+              "model": "kure"
+            },
+            "Top → Silindir": {
+              "tip": "eslestirme",
+              "nesne": "top",
+              "model": "silindir"
+            },
+            "Konserve → Silindir": {
+              "tip": "eslestirme",
+              "nesne": "konserve",
+              "model": "silindir"
+            },
+            "Çadır → Küp": {
+              "tip": "eslestirme",
+              "nesne": "cadir",
+              "model": "kup"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "geometrik-sekil-modelleri",
+      "baslik": "Geometrik Şekil Modelleri",
+      "kazanimKodu": "MAT.2.1.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Cisimlerin adlarını öğrendik. Şimdi sıra ŞEKİLLERDE! Şekiller, kâğıda çizebildiğimiz düz biçimlerdir.",
+            "gorsel": {
+              "tur": "nesne",
+              "sahne": "g3m-anlatim-1"
+            }
+          },
+          {
+            "metin": "KARE'nin dört kenarı da eşittir. DİKDÖRTGEN karenin uzamış hâlidir. ÜÇGEN'in üç köşesi vardır.",
+            "gorsel": {
+              "tur": "nesne",
+              "sahne": "g3m-anlatim-2"
+            }
+          },
+          {
+            "metin": "ÇEMBER yuvarlak bir çizgidir, içi BOŞTUR. Çemberin içini boyarsak DAİRE oluşur! Çember bir simit gibi, daire bir bisküvi gibidir.",
+            "gorsel": {
+              "tur": "nesne",
+              "sahne": "g3m-anlatim-3"
+            }
+          },
+          {
+            "metin": "Şekiller birleşince modeller oluşur! Bir ev çizelim: gövdesi KARE, çatısı ÜÇGEN, penceresi DİKDÖRTGEN, güneşi DAİRE olsun. Sen de şekillerle neler çizebilirsin?",
+            "gorsel": {
+              "tur": "nesne",
+              "sahne": "g3m-anlatim-4"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "g3m-a1",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Dört kenarı da eşit olan şeklin adı nedir?",
+          "dogruCevap": "kare",
+          "ipucu": "Dört kenarı eşit olan şekil…",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kare"
+          },
+          "alternatifCevaplar": [
+            "Kare"
+          ]
+        },
+        {
+          "id": "g3m-a2",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Üç köşesi olan şeklin adı nedir?",
+          "dogruCevap": "üçgen",
+          "ipucu": "Üç köşeli şekil…",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ucgen"
+          },
+          "alternatifCevaplar": [
+            "Üçgen"
+          ]
+        },
+        {
+          "id": "g3m-a3",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "İçi boş, yuvarlak çizgiye ne denir?",
+          "dogruCevap": "çember",
+          "ipucu": "İçi boş yuvarlak çizgi çemberdir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-cember-mavi"
+          },
+          "alternatifCevaplar": [
+            "Çember"
+          ]
+        },
+        {
+          "id": "g3m-a4",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Çemberin içini boyarsak hangi şekil oluşur?",
+          "dogruCevap": "daire",
+          "ipucu": "İçi boyalı yuvarlak şekil dairedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-cember-daire-donusum"
+          },
+          "alternatifCevaplar": [
+            "Daire"
+          ]
+        },
+        {
+          "id": "g3m-a5",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki şeklin adı nedir?",
+          "dogruCevap": "dikdörtgen",
+          "ipucu": "Uzun dikdörtgen şekil…",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-dikdortgen-mavi"
+          },
+          "alternatifCevaplar": [
+            "Dikdörtgen"
+          ]
+        },
+        {
+          "id": "g3m-a6",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Elanaz'ın çizdiği evin çatısı hangi şekildir?",
+          "dogruCevap": "üçgen",
+          "ipucu": "Çatılar üçgen şeklindedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ev-cati"
+          },
+          "alternatifCevaplar": [
+            "Üçgen"
+          ]
+        },
+        {
+          "id": "g3m-a7",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki evin gövdesi hangi şekildir?",
+          "dogruCevap": "kare",
+          "ipucu": "Ev gövdesi kare şeklindedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ev-govde"
+          },
+          "alternatifCevaplar": [
+            "Kare"
+          ]
+        },
+        {
+          "id": "g3m-a8",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "🎭 Resimdeki simit çembere mi, daireye mi benzer?",
+          "dogruCevap": "çember",
+          "ipucu": "Simitin ortası DELİK — içi boyalı değil!",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-simit"
+          },
+          "sasirtma": true,
+          "alternatifCevaplar": [
+            "Çember"
+          ]
+        },
+        {
+          "id": "g3m-a9",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki trafik levhası hangi şekildir?",
+          "dogruCevap": "üçgen",
+          "ipucu": "Uyarı levhaları üçgendir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-uyari-levha"
+          },
+          "alternatifCevaplar": [
+            "Üçgen"
+          ]
+        },
+        {
+          "id": "g3m-a10",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki kapı hangi şekle benzer?",
+          "dogruCevap": "dikdörtgen",
+          "ipucu": "Kapı dikdörtgen şeklindedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kapi"
+          },
+          "alternatifCevaplar": [
+            "Dikdörtgen"
+          ]
+        },
+        {
+          "id": "g3m-a11",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki tekerleğin dış çizgisi hangi şekildir?",
+          "dogruCevap": "çember",
+          "ipucu": "Tekerleğin dış çizgisi içi boş çemberdir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-tekerlek"
+          },
+          "alternatifCevaplar": [
+            "Çember"
+          ]
+        },
+        {
+          "id": "g3m-a12",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki balonun şekli nedir?",
+          "dogruCevap": "daire",
+          "ipucu": "Balon içi dolu yuvarlaktır — daire.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-balon"
+          },
+          "alternatifCevaplar": [
+            "Daire"
+          ]
+        },
+        {
+          "id": "g3m-a13",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Elanaz'ın resmindeki güneş hangi şekildir?",
+          "dogruCevap": "daire",
+          "ipucu": "Güneş içi dolu yuvarlaktır.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-gunes"
+          },
+          "alternatifCevaplar": [
+            "Daire"
+          ]
+        },
+        {
+          "id": "g3m-a14",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki robotun kaç tane kare parçası vardır?",
+          "dogruCevap": "2",
+          "ipucu": "Kafa ve gövde karedir.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-robot"
+          }
+        },
+        {
+          "id": "g3m-a15",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "🎭 Resimdeki pencere karedir. Elanaz pencereyi yana doğru UZATARAK çizdi. Yeni şekil ne oldu?",
+          "dogruCevap": "dikdörtgen",
+          "ipucu": "Karenin uzamış hâline ne diyorduk?",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-pencere-donusum"
+          },
+          "sasirtma": true,
+          "alternatifCevaplar": [
+            "Dikdörtgen"
+          ]
+        },
+        {
+          "id": "g3m-a16",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki trendeki vagonlar hangi şekildir?",
+          "dogruCevap": "dikdörtgen",
+          "ipucu": "Vagonlar dikdörtgendir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-tren"
+          },
+          "alternatifCevaplar": [
+            "Dikdörtgen"
+          ]
+        },
+        {
+          "id": "g3m-a17",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki trenin tekerlekleri hangi şekildir?",
+          "dogruCevap": "çember",
+          "ipucu": "Tekerlekler içi boş çemberdir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-tren-tekerlek"
+          },
+          "alternatifCevaplar": [
+            "Çember"
+          ]
+        },
+        {
+          "id": "g3m-a18",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki dondurma külahı hangi şekle benzer?",
+          "dogruCevap": "üçgen",
+          "ipucu": "Külah ters üçgen şeklindedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kulah-dondurma"
+          },
+          "alternatifCevaplar": [
+            "Üçgen"
+          ]
+        },
+        {
+          "id": "g3m-a19",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki kuş yuvası modelinde çatı hangi şekildir?",
+          "dogruCevap": "üçgen",
+          "ipucu": "Çatı üçgendir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kus-yuvasi"
+          },
+          "alternatifCevaplar": [
+            "Üçgen"
+          ]
+        },
+        {
+          "id": "g3m-a20",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuş yuvasının giriş deliği hangi şekildir?",
+          "dogruCevap": "daire",
+          "ipucu": "Giriş deliği içi dolu yuvarlaktır.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kus-yuvasi-delik"
+          },
+          "alternatifCevaplar": [
+            "Daire"
+          ]
+        },
+        {
+          "id": "g3m-a21",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "🎭 Resimdeki saat çember midir, daire midir?",
+          "dogruCevap": "daire",
+          "ipucu": "Saatin içi dolu mu boş mu? Rakamların olduğu yüzeyi var!",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-saat"
+          },
+          "sasirtma": true,
+          "alternatifCevaplar": [
+            "Daire"
+          ]
+        },
+        {
+          "id": "g3m-a22",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki evde kaç tane üçgen vardır?",
+          "dogruCevap": "1",
+          "ipucu": "Bir üçgen çatı vardır.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ev-sayim"
+          }
+        },
+        {
+          "id": "g3m-a23",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Aynı evde kaç tane dikdörtgen vardır?",
+          "dogruCevap": "2",
+          "ipucu": "İki pencere dikdörtgendir.",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ev-pencere"
+          }
+        },
+        {
+          "id": "g3m-a24",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Resimdeki kelebeğin kanatları hangi şekildir?",
+          "dogruCevap": "üçgen",
+          "ipucu": "Kanatlar üçgen şeklindedir.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kelebek"
+          },
+          "alternatifCevaplar": [
+            "Üçgen"
+          ]
+        },
+        {
+          "id": "g3m-a25",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "yazili",
+          "soru": "Elanaz şekillerle bir çiçek yaptı: ortası daire, yaprakları üçgen. Çiçeğin ortası hangi şekildir?",
+          "dogruCevap": "daire",
+          "ipucu": "Çiçeğin ortası içi dolu yuvarlaktır.",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-cicek"
+          },
+          "alternatifCevaplar": [
+            "Daire"
+          ]
+        }
+      ],
+      "test": [
+        {
+          "id": "g3m-t1",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki şekil hangisidir?",
+          "dogruCevap": "Üçgen",
+          "secenekler": [
+            "Dikdörtgen",
+            "Üçgen",
+            "Daire",
+            "Kare"
+          ],
+          "ipucu": "Üç köşeli şekil…",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ucgen-buyuk"
+          },
+          "secenekIkonlari": {
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t2",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Dört kenarı eşit olan şekil hangisidir?",
+          "dogruCevap": "Kare",
+          "secenekler": [
+            "Çember",
+            "Dikdörtgen",
+            "Üçgen",
+            "Kare"
+          ],
+          "ipucu": "Dört kenarı da eşit…",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kare"
+          },
+          "secenekIkonlari": {
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            }
+          }
+        },
+        {
+          "id": "g3m-t3",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki şekil hangisidir?",
+          "dogruCevap": "Çember",
+          "secenekler": [
+            "Daire",
+            "Üçgen",
+            "Çember",
+            "Kare"
+          ],
+          "ipucu": "İçi boş yuvarlak çizgi…",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-cember-mor"
+          },
+          "secenekIkonlari": {
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t4",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Resimdeki şekil hangisidir?",
+          "dogruCevap": "Daire",
+          "secenekler": [
+            "Daire",
+            "Kare",
+            "Üçgen",
+            "Çember"
+          ],
+          "ipucu": "İçi DOLU mu BOŞ mu? Boyalıysa adı değişir!",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-daire-mor"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t5",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi üçgene benzer?",
+          "dogruCevap": "Dondurma külahı",
+          "secenekler": [
+            "Dondurma külahı",
+            "Kapı",
+            "Tekerlek",
+            "Pencere"
+          ],
+          "ipucu": "Külah ters üçgen şeklindedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kulah-dondurma"
+          },
+          "secenekIkonlari": {
+            "Kapı": {
+              "tip": "sekil-nesne",
+              "anahtar": "kapi"
+            },
+            "Dondurma külahı": {
+              "tip": "sekil-nesne",
+              "anahtar": "dondurma-kulahi"
+            },
+            "Tekerlek": {
+              "tip": "sekil-nesne",
+              "anahtar": "tekerlek"
+            },
+            "Pencere": {
+              "tip": "sekil-nesne",
+              "anahtar": "pencere-kare"
+            }
+          }
+        },
+        {
+          "id": "g3m-t6",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kapı hangi şekle benzer?",
+          "dogruCevap": "Dikdörtgen",
+          "secenekler": [
+            "Daire",
+            "Üçgen",
+            "Çember",
+            "Dikdörtgen"
+          ],
+          "ipucu": "Kapı köşeli ve uzundur.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kapi"
+          },
+          "secenekIkonlari": {
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            },
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            }
+          }
+        },
+        {
+          "id": "g3m-t7",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki evin çatısı hangi şekildir?",
+          "dogruCevap": "Üçgen",
+          "secenekler": [
+            "Kare",
+            "Daire",
+            "Dikdörtgen",
+            "Üçgen"
+          ],
+          "ipucu": "Çatı üçgen şeklindedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ev-cati"
+          },
+          "secenekIkonlari": {
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t8",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki trende kaç tane çember vardır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "3",
+            "1",
+            "4",
+            "2"
+          ],
+          "ipucu": "Her vagonda 2 tekerlek, 2 vagon = 4 çember.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-tren-2vagon"
+          }
+        },
+        {
+          "id": "g3m-t9",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş hangi şekle benzer?",
+          "dogruCevap": "Daire",
+          "secenekler": [
+            "Üçgen",
+            "Dikdörtgen",
+            "Kare",
+            "Daire"
+          ],
+          "ipucu": "Güneş içi dolu yuvarlaktır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-gunes"
+          },
+          "secenekIkonlari": {
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t10",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hangisi KÖŞELİ bir şekil DEĞİLDİR?",
+          "dogruCevap": "Daire",
+          "secenekler": [
+            "Üçgen",
+            "Daire",
+            "Dikdörtgen",
+            "Kare"
+          ],
+          "ipucu": "\"DEĞİLDİR\" — köşesi OLMAYAN şekli arıyoruz!",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kare"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            }
+          }
+        },
+        {
+          "id": "g3m-t11",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki robotun gözleri hangi şekildir?",
+          "dogruCevap": "Daire",
+          "secenekler": [
+            "Üçgen",
+            "Kare",
+            "Dikdörtgen",
+            "Daire"
+          ],
+          "ipucu": "Gözler içi dolu yuvarlaktır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-robot-goz"
+          },
+          "secenekIkonlari": {
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t12",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki modelde kaç tane kare vardır?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "3",
+            "2",
+            "4",
+            "1"
+          ],
+          "ipucu": "Kafa ve gövde karedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-robot"
+          }
+        },
+        {
+          "id": "g3m-t13",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Simit hangi şekle benzer?",
+          "dogruCevap": "Çember",
+          "secenekler": [
+            "Kare",
+            "Dikdörtgen",
+            "Çember",
+            "Üçgen"
+          ],
+          "ipucu": "Simitin ortası delik — içi boş çember.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-simit"
+          },
+          "secenekIkonlari": {
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t14",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Elanaz'ın çizdiği balık modelinde kuyruk hangi şekildir?",
+          "dogruCevap": "Üçgen",
+          "secenekler": [
+            "Kare",
+            "Üçgen",
+            "Daire",
+            "Çember"
+          ],
+          "ipucu": "Kuyruk üçgen şeklindedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-balik"
+          },
+          "secenekIkonlari": {
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            }
+          }
+        },
+        {
+          "id": "g3m-t15",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Aynı balığın gövdesi hangi şekildir?",
+          "dogruCevap": "Daire",
+          "secenekler": [
+            "Kare",
+            "Daire",
+            "Dikdörtgen",
+            "Üçgen"
+          ],
+          "ipucu": "Gövde içi dolu yuvarlaktır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-balik-govde"
+          },
+          "secenekIkonlari": {
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t16",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Karenin bir kenarını tutup yana doğru uzatırsak hangi şekil oluşur?",
+          "dogruCevap": "Dikdörtgen",
+          "secenekler": [
+            "Üçgen",
+            "Daire",
+            "Çember",
+            "Dikdörtgen"
+          ],
+          "ipucu": "Karenin uzamış hâli dikdörtgendir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kare-dikdortgen-donusum"
+          },
+          "secenekIkonlari": {
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            }
+          }
+        },
+        {
+          "id": "g3m-t17",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Trafikteki DUR levhası gibi üç köşeli levhalar hangi şekildir?",
+          "dogruCevap": "Üçgen",
+          "secenekler": [
+            "Dikdörtgen",
+            "Üçgen",
+            "Kare",
+            "Daire"
+          ],
+          "ipucu": "Uyarı levhaları üçgendir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-uyari-levha"
+          },
+          "secenekIkonlari": {
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t18",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki çiçek modelinde yapraklar hangi şekildir?",
+          "dogruCevap": "Üçgen",
+          "secenekler": [
+            "Kare",
+            "Çember",
+            "Dikdörtgen",
+            "Üçgen"
+          ],
+          "ipucu": "Yapraklar üçgen şeklindedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-cicek"
+          },
+          "secenekIkonlari": {
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            },
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            }
+          }
+        },
+        {
+          "id": "g3m-t19",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki evde toplam kaç pencere vardır ve hangi şekildir?",
+          "dogruCevap": "2 kare",
+          "secenekler": [
+            "1 dikdörtgen",
+            "2 kare",
+            "3 üçgen",
+            "2 daire"
+          ],
+          "ipucu": "İki kare pencere vardır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ev-2pencere"
+          }
+        },
+        {
+          "id": "g3m-t20",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Pizza dilimi hangi şekle benzer?",
+          "dogruCevap": "Üçgen",
+          "secenekler": [
+            "Kare",
+            "Çember",
+            "Üçgen",
+            "Dikdörtgen"
+          ],
+          "ipucu": "Pizza dilimi üçgen şeklindedir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-pizza-dilimi"
+          },
+          "secenekIkonlari": {
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            },
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            }
+          }
+        },
+        {
+          "id": "g3m-t21",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Elanaz çemberin içini sarıya boyadı. Şeklin YENİ adı nedir?",
+          "dogruCevap": "Daire",
+          "secenekler": [
+            "Çember",
+            "Daire",
+            "Boyalı çember",
+            "Kare"
+          ],
+          "ipucu": "Kitabımız ne diyordu — çemberin içini boyayınca ne oluşur?",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-boyama-ani"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Boyalı çember": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            }
+          }
+        },
+        {
+          "id": "g3m-t22",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kitabın ön yüzü hangi şekle benzer?",
+          "dogruCevap": "Dikdörtgen",
+          "secenekler": [
+            "Daire",
+            "Dikdörtgen",
+            "Üçgen",
+            "Çember"
+          ],
+          "ipucu": "Kitap kapağı dikdörtgendir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kitap-on"
+          },
+          "secenekIkonlari": {
+            "Dikdörtgen": {
+              "tip": "sekil",
+              "anahtar": "dikdortgen"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Üçgen": {
+              "tip": "sekil",
+              "anahtar": "ucgen"
+            },
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            }
+          }
+        },
+        {
+          "id": "g3m-t23",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Resimdeki kelebek modelinde kaç üçgen vardır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "4",
+            "2",
+            "3",
+            "1"
+          ],
+          "ipucu": "Dört üçgen kanat vardır.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-kelebek-4"
+          }
+        },
+        {
+          "id": "g3m-t24",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Madeni para hangi şekle benzer?",
+          "dogruCevap": "Daire",
+          "secenekler": [
+            "Küre",
+            "Daire",
+            "Çember",
+            "Kare"
+          ],
+          "ipucu": "Paranın içi dolu! Ve dikkat — küre bir CİSİMDİ, şekil değil!",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-para"
+          },
+          "sasirtma": true,
+          "secenekIkonlari": {
+            "Çember": {
+              "tip": "sekil",
+              "anahtar": "cember"
+            },
+            "Daire": {
+              "tip": "sekil",
+              "anahtar": "daire"
+            },
+            "Kare": {
+              "tip": "sekil",
+              "anahtar": "kare"
+            },
+            "Küre": {
+              "tip": "model",
+              "anahtar": "kure"
+            }
+          }
+        },
+        {
+          "id": "g3m-t25",
+          "kazanimKodu": "MAT.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi doğru eşleşmedir?",
+          "dogruCevap": "Çatı → Üçgen",
+          "secenekler": [
+            "Tekerlek → Dikdörtgen",
+            "Güneş → Kare",
+            "Çatı → Üçgen",
+            "Kapı → Daire"
+          ],
+          "ipucu": "Her nesneyi doğru şekle eşleştir.",
+          "gorsel": {
+            "tur": "nesne",
+            "sahne": "g3m-ev"
+          },
+          "secenekIkonlari": {
+            "Güneş → Kare": {
+              "tip": "eslestirme-sekil",
+              "nesne": "gunes",
+              "sekil": "kare"
+            },
+            "Çatı → Üçgen": {
+              "tip": "eslestirme-sekil",
+              "nesne": "cati",
+              "sekil": "ucgen"
+            },
+            "Kapı → Daire": {
+              "tip": "eslestirme-sekil",
+              "nesne": "kapi",
+              "sekil": "daire"
+            },
+            "Tekerlek → Dikdörtgen": {
+              "tip": "eslestirme-sekil",
+              "nesne": "tekerlek",
+              "sekil": "dikdortgen"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

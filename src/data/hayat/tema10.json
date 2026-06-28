@@ -1,0 +1,1864 @@
+{
+  "id": "tema-10",
+  "baslik": "Hayat Bilgisi — Tema 10 — Yaşam Becerileri",
+  "konular": [
+    {
+      "id": "yasam-becerileri",
+      "baslik": "Yaşam Becerileri",
+      "kazanimKodu": "HB.2.3.4",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Her meslek toplumun birer çarkıdır. Fırıncılar ekmek yapar, terziler kıyafet diker. Herkes işini sevgiyle yaparsa dünya güzel olur!",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "mc-anlatim-1"
+            }
+          },
+          {
+            "metin": "Mühendisler bina çizer, pilotlar insanları taşır, çiftçiler buğday yetiştirir. Toplumdaki her meslek sahibi gizli kahramanımızdır.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "mc-anlatim-2"
+            }
+          },
+          {
+            "metin": "Eve gelince dinlenir, sonra çalışma planına bakarız. Ödevleri son dakikaya bırakmayız. Planlı çalışmak başarı kapısının anahtarıdır!",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "mc-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "yb-a1",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Öğrencilere bilgi öğreten meslek hangisidir?",
+          "dogruCevap": "Öğretmen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ogretmen",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a2",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Ekmek pişiren meslek sahibine ne denir?",
+          "dogruCevap": "Fırıncı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "firinci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a3",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Tarımla uğraşan meslek hangisidir?",
+          "dogruCevap": "Çiftçi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ciftci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a4",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Restoranda yemek pişiren meslek?",
+          "dogruCevap": "Aşçı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "asci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a5",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Doktora yardım eden meslek?",
+          "dogruCevap": "Hemşire",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "hemsire",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a6",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Güvenliği sağlayan meslek?",
+          "dogruCevap": "Polis",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "polis",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a7",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Arabaları tamir eden meslek?",
+          "dogruCevap": "Oto tamircisi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oto-tamircisi",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a8",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Elbise diken meslek?",
+          "dogruCevap": "Terzi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "terzi",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a9",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Bina projeleri çizen meslek?",
+          "dogruCevap": "Mühendis",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "muhendis",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a10",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Saç kesen meslek?",
+          "dogruCevap": "Berber / Kuaför",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "berber",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a11",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Uçak kullanan meslek?",
+          "dogruCevap": "Pilot",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "pilot",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a12",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Tren kullanan meslek?",
+          "dogruCevap": "Makinist",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "makinist",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a13",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Manav ne satar?",
+          "dogruCevap": "Taze sebze ve meyve",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "manav",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a14",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Tablo yapan sanatçı mesleği?",
+          "dogruCevap": "Ressam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ressam",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a15",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Müzik yapan meslek?",
+          "dogruCevap": "Şarkıcı / Müzisyen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "muzisyen",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a16",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Dişlerle ilgilenen meslek?",
+          "dogruCevap": "Diş hekimi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "dis-hekimi",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a17",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Hayvan doktoru?",
+          "dogruCevap": "Veteriner",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "veteriner",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a18",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Mahkemede hakları savunan meslek?",
+          "dogruCevap": "Avukat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "avukat",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a19",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Uygulama geliştiren meslek?",
+          "dogruCevap": "Yazılımcı / Bilgisayar Programcısı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "yazilimci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a20",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Kütüphanedeki kitapları düzenleyen?",
+          "dogruCevap": "Kütüphaneci",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kutuphaneci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a21",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Başarılı öğrenci olmak için ne yapmalıyız?",
+          "dogruCevap": "Planlı çalışmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "calisma-plani",
+            "vurgu": "plan"
+          }
+        },
+        {
+          "id": "yb-a22",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Ev inşaatı yapan meslek?",
+          "dogruCevap": "İnşaat ustası / Duvarcı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "insaat-ustasi",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a23",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Mektup ve paket getiren meslek?",
+          "dogruCevap": "Postacı / Kurye",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "postaci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a24",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Sokakları temizleyen meslek?",
+          "dogruCevap": "Temizlik görevlisi / Belediye işçisi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "temizlik-gorevlisi",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a25",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "yazili",
+          "soru": "Uzaya giden meslek?",
+          "dogruCevap": "Astronot",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "astronot",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-a26",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Yer kabuğunun sallanmasıyla oluşan doğa olayına ......... denir.",
+          "dogruCevap": "deprem",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "deprem"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a27",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Acil ihtiyaçlar için önceden hazırladığımız çantaya ......... çantası denir.",
+          "dogruCevap": "deprem",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "deprem-cantasi"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a28",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Deprem çantasında içme suyu, el feneri ve ......... bulunmalıdır.",
+          "dogruCevap": "düdük",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "duduk"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a29",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Depremde sağlam eşyanın yanında \"Çök, ........., Tutun\" yapmalıyız.",
+          "dogruCevap": "Kapan",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cok-kapan-tutun"
+          },
+          "alternatifCevaplar": [
+            "kapan"
+          ],
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a30",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Depremde pencerelerden ve camlardan uzak durmak önemlidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "pencere"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a31",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Deprem anında asansörü kullanmak doğru değildir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "asansor"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a32",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Yağmurların suları çok artırarak çevreyi doldurmasına ......... denir.",
+          "dogruCevap": "sel",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sel"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a33",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Çok ......... dikmek sel ve heyelanda güvende kalmamızı sağlar.",
+          "dogruCevap": "ağaç",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a34",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Ateş, çakmak veya kibritle oynamamak evde güvende kalmayı sağlar.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kibrit"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a35",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Ormanda piknik bittikten sonra yaktığımız ateşi tamamen ......... .",
+          "dogruCevap": "söndürmeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kamp-atesi"
+          },
+          "alternatifCevaplar": [
+            "söndürürüz"
+          ],
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a36",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Acil durumlar için aramamız gereken numara .........'dir.",
+          "dogruCevap": "112",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "112"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a37",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Yangın gördüğümüzde 112'yi arayıp itfaiye istemeliyiz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "itfaiye"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a38",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Hastalanan biri için 112'yi arayarak ambulans çağırırız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ambulans"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a39",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Dağlardaki kar kütlelerinin aşağı hareket etmesine ......... denir.",
+          "dogruCevap": "çığ",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cig"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a40",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Çığ ihtimali olan dağlarda yüksek sesle bağırmamalıyız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "dagci"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a41",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "112'yi aradığımızda sakin kalıp adresimizi söylemeliyiz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "telefon"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a42",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "112'yi şaka yapmak için aramak doğru bir davranıştır.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cocuk"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a43",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Toprağın dağdan aşağı kaymasına heyelan (......... kayması) denir.",
+          "dogruCevap": "toprak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "heyelan"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a44",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Depremde koşmadan sakin kalarak güvenli yerimizde beklemek en doğrusudur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cok-kapan-tutun"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a45",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Evimizdeki ağır dolapları duvara ......... .",
+          "dogruCevap": "sabitlemeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "dolap"
+          },
+          "alternatifCevaplar": [
+            "sabitlemek"
+          ],
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a46",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Islak ellerle elektrik prizlerine dokunmamak çok güvenlidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "priz"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a47",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Deprem sarsıntısı bittikten sonra ......... toplanma alanına gitmeliyiz.",
+          "dogruCevap": "acil",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "toplanma-alani"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a48",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Deprem çantamıza evcil hayvanlar için ......... koyabiliriz.",
+          "dogruCevap": "mama",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kedi"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a49",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Evleri dere kenarlarına değil güvenli yüksek alanlara yapmalıyız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ev"
+          },
+          "kazanim": "HB.2.3.3"
+        },
+        {
+          "id": "yb-a50",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "yazili",
+          "soru": "Acil durumlarda telaşlanmak yerine ......... kalarak büyüklerimizin sözünü dinlemeliyiz.",
+          "dogruCevap": "sakin",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "nefes"
+          },
+          "kazanim": "HB.2.3.3"
+        }
+      ],
+      "test": [
+        {
+          "id": "yb-t1",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yangınları söndüren meslek hangisidir?",
+          "dogruCevap": "İtfaiyeci",
+          "secenekler": [
+            "İtfaiyeci",
+            "Fırıncı",
+            "Terzi",
+            "Manav"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "itfaiyeci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t2",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ayşe hayvanları sevdiği için onları iyileştirmek istiyor. Hangi mesleği seçmeli?",
+          "dogruCevap": "Veteriner",
+          "secenekler": [
+            "Avukat",
+            "Pilot",
+            "Çiftçi",
+            "Veteriner"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "veteriner",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t3",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Mehmet \"Temizlik görevlisi önemsiz bir meslek\" dedi. Bu fikir için ne doğrudur?",
+          "dogruCevap": "Yanılıyor; olmasaydı şehirler mikrop basardı, her meslek hayati önem taşır",
+          "secenekler": [
+            "Çöpler kendi yok olur",
+            "Sadece okumayanlar yapar",
+            "Çok haklı",
+            "Yanılıyor; olmasaydı şehirler mikrop basardı, her meslek hayati önem taşır"
+          ],
+          "ipucu": "Her meslek toplum için önemlidir!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "temizlik-gorevlisi",
+            "vurgu": "meslek"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yb-t4",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Mesleğinde başarılı olmak için okul yıllarında ne yapılmalıdır?",
+          "dogruCevap": "Planlı çalışmak ve kitap okumak",
+          "secenekler": [
+            "Sadece oyun oynamak",
+            "Planlı çalışmak ve kitap okumak",
+            "Sınıfta uyumak",
+            "Ödevleri ertelemek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "calisma-plani",
+            "vurgu": "plan"
+          }
+        },
+        {
+          "id": "yb-t5",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Haberleri bize aktaran meslek hangisidir?",
+          "dogruCevap": "Gazeteci / Muhabir",
+          "secenekler": [
+            "Mühendis",
+            "Aşçı",
+            "Gazeteci / Muhabir",
+            "Şoför"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "gazeteci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t6",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Berk \"Mühendis olacağım ama şimdi çalışmam gerekmez\" diyor. Ne söylemeliyiz?",
+          "dogruCevap": "Mesleğinin temelini bugün öğreniyorsun, planlı çalışmazsan hayallerine ulaşamazsın",
+          "secenekler": [
+            "Ders sadece öğretmenler için",
+            "Sadece matematik yeter",
+            "Çok haklısın",
+            "Mesleğinin temelini bugün öğreniyorsun, planlı çalışmazsan hayallerine ulaşamazsın"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "muhendis",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t7",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Fatma'nın ayakkabısı açıldı. Kime gitmelidir?",
+          "dogruCevap": "Ayakkabı tamircisine",
+          "secenekler": [
+            "Kasaba",
+            "Berbere",
+            "Ayakkabı tamircisine",
+            "Terziye"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ayakkabi-tamircisi",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t8",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Etleri hazırlayan meslek sahibi kimdir?",
+          "dogruCevap": "Kasap",
+          "secenekler": [
+            "Kasap",
+            "Fırıncı",
+            "Manav",
+            "Balıkçı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kasap",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t9",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Can her gün saatlerce TV izliyor, ödevi gece yapıyor. Temel sorunu nedir?",
+          "dogruCevap": "Zamanını planlamaması",
+          "secenekler": [
+            "TV çok büyük",
+            "Ödevler çok kolay",
+            "Okul uzak",
+            "Zamanını planlamaması"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "tv-odev",
+            "ozellik": "plansizlik"
+          }
+        },
+        {
+          "id": "yb-t10",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi doğrudan sağlığımızı korumak için çalışır?",
+          "dogruCevap": "Doktor",
+          "secenekler": [
+            "Polis",
+            "Doktor",
+            "Pilot",
+            "Çiftçi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "doktor",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t11",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "İnsanları taşıyan meslek hangisidir?",
+          "dogruCevap": "Şoför",
+          "secenekler": [
+            "Pilot",
+            "Makinist",
+            "Şoför",
+            "Kaptan"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sofor",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t12",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Selin okul malzemesi almak için nereye gitmelidir?",
+          "dogruCevap": "Kırtasiyeye",
+          "secenekler": [
+            "Eczaneye",
+            "Pastaneye",
+            "Kırtasiyeye",
+            "Manava"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kirtasiye",
+            "vurgu": "alisveris"
+          }
+        },
+        {
+          "id": "yb-t13",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Denizde gemi kullanan meslek?",
+          "dogruCevap": "Kaptan",
+          "secenekler": [
+            "Şoför",
+            "Kaptan",
+            "Pilot",
+            "Makinist"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kaptan",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t14",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Yusuf \"Hiç çalışmayacağım, sadece dondurma yiyeceğim\" dedi. Bu plan için ne söylenir?",
+          "dogruCevap": "Çalışmayan hem kendine hem topluma fayda sağlayamaz",
+          "secenekler": [
+            "Dondurma dahi yapar",
+            "Sadece birinciler yer",
+            "Çalışmayan hem kendine hem topluma fayda sağlayamaz",
+            "En mutlu insan olur"
+          ],
+          "ipucu": "Çalışmak hem bize hem topluma fayda sağlar!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "calisma",
+            "ozellik": "sorumluluk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yb-t15",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Tüm mesleklerin ortak amacı nedir?",
+          "dogruCevap": "İnsanların hayatını kolaylaştırmak",
+          "secenekler": [
+            "Kavga etmek",
+            "İnsanların hayatını kolaylaştırmak",
+            "Daha zengin olmak",
+            "Hiç dinlenmemek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "ogretmen",
+              "doktor",
+              "ciftci"
+            ],
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t16",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "İlaç geliştiren araştırmacı mesleği nedir?",
+          "dogruCevap": "Bilim İnsanı / Araştırmacı",
+          "secenekler": [
+            "Bilim İnsanı / Araştırmacı",
+            "Gazeteci",
+            "Ressam",
+            "Kütüphaneci"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "bilim-insani",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t17",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Gece nöbeti tutan koruyucu meslek hangisidir?",
+          "dogruCevap": "Bekçi / Polis",
+          "secenekler": [
+            "Çiftçi",
+            "Bekçi / Polis",
+            "Aşçı",
+            "Öğretmen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "polis",
+            "vurgu": "nobet"
+          }
+        },
+        {
+          "id": "yb-t18",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf her akşam ertesi günü planlıyor. Bu ne gösterir?",
+          "dogruCevap": "Sorumluluk sahibi ve planlı öğrencidir",
+          "secenekler": [
+            "Çantaları seviyor",
+            "Unutkanlık",
+            "Sorumluluk sahibi ve planlı öğrencidir",
+            "Uyumaktan korkuyor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "calisma-plani",
+            "vurgu": "plan"
+          }
+        },
+        {
+          "id": "yb-t19",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ahşap mobilya yapan meslek?",
+          "dogruCevap": "Marangoz",
+          "secenekler": [
+            "Marangoz",
+            "Demirci",
+            "Duvarcı",
+            "Terzi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "marangoz",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t20",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Meslek seçiminde en çok neye dikkat etmeli?",
+          "dogruCevap": "Kendi yeteneğine ve severek yapacağı işe",
+          "secenekler": [
+            "En kolay olana",
+            "Arkadaşının seçtiğine",
+            "En çok para kazandırana",
+            "Kendi yeteneğine ve severek yapacağı işe"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "meslek-secimi",
+            "ozellik": "yetenek"
+          }
+        },
+        {
+          "id": "yb-t21",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Para hesabı tutan meslek?",
+          "dogruCevap": "Muhasebeci / Bankacı",
+          "secenekler": [
+            "Ressam",
+            "Aşçı",
+            "Pilot",
+            "Muhasebeci / Bankacı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "bankaci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t22",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Çiftçiler olmasaydı fabrikalar bisküvi yapabilir miydi?",
+          "dogruCevap": "Hayır, buğdayı çiftçiler üretir",
+          "secenekler": [
+            "Hayır, buğdayı çiftçiler üretir",
+            "Çiftçi çiçek yetiştirir",
+            "Çakıldan yapar",
+            "Evet, bağımsız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ciftci",
+            "vurgu": "bugday"
+          }
+        },
+        {
+          "id": "yb-t23",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Zeynep \"Dans ve tiyatro meslek değil\" dedi. Bu fikir için ne doğrudur?",
+          "dogruCevap": "Sanat dalları da yıllarca eğitim gerektiren saygın mesleklerdir",
+          "secenekler": [
+            "Dansçılar para kazanamaz",
+            "Çok haklı",
+            "Sanat dalları da yıllarca eğitim gerektiren saygın mesleklerdir",
+            "Sessiz işler meslektir"
+          ],
+          "ipucu": "Sanat meslekleri de saygın ve önemlidir!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "muzisyen",
+            "vurgu": "sanat"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yb-t24",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Okul müdürünün görevi nedir?",
+          "dogruCevap": "Okulun düzenini, temizliğini ve eğitim kalitesini yönetmek",
+          "secenekler": [
+            "Çikolata yemek",
+            "Top oynamak",
+            "Sıralarda zıplamak",
+            "Okulun düzenini, temizliğini ve eğitim kalitesini yönetmek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "okul-muduru",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "yb-t25",
+          "kazanimKodu": "HB.2.2.3",
+          "tip": "coktanSecmeli",
+          "soru": "Planlı çalışan çocukların mutlu yetişkinler olması için en önemli yer neresidir?",
+          "dogruCevap": "Okul ve sınıf hayatımız",
+          "secenekler": [
+            "Okul ve sınıf hayatımız",
+            "Bilgisayar oyunları",
+            "Lunapark",
+            "Alışveriş merkezleri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "mc-anlatim-3"
+          }
+        },
+        {
+          "id": "yb-t26",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yeryüzünün sarsılması olayına ne denir?",
+          "dogruCevap": "Deprem",
+          "secenekler": [
+            "Çığ",
+            "Rüzgar",
+            "Sel",
+            "Deprem"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "deprem"
+          }
+        },
+        {
+          "id": "yb-t27",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Acil durumlar için hazırladığımız çantanın adı nedir?",
+          "dogruCevap": "Deprem Çantası",
+          "secenekler": [
+            "Gezi Çantası",
+            "Beslenme Çantası",
+            "Deprem Çantası",
+            "Okul Çantası"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "deprem-cantasi"
+          }
+        },
+        {
+          "id": "yb-t28",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Deprem çantasına hangisine gerek yoktur?",
+          "dogruCevap": "Oyuncak tren seti",
+          "secenekler": [
+            "El feneri ve düdük",
+            "Bisküvi ve yara bandı",
+            "Küçük şişelerde su",
+            "Oyuncak tren seti"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "deprem-cantasi"
+          }
+        },
+        {
+          "id": "yb-t29",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Depremde kendimizi korumak için hangi hareketi yapmalıyız?",
+          "dogruCevap": "Çök - Kapan - Tutun",
+          "secenekler": [
+            "Otur - Şarkı Söyle - Bekle",
+            "Çök - Kapan - Tutun",
+            "Camdan bak - El salla",
+            "Zıpla - Koş - Saklan"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cok-kapan-tutun"
+          }
+        },
+        {
+          "id": "yb-t30",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Depremde çok katlı binada nereyi KULLANMAMALIYIZ?",
+          "dogruCevap": "Asansörü",
+          "secenekler": [
+            "Güvenli alanları",
+            "Asansörü",
+            "Çök-Kapan-Tutun hareketi",
+            "Sağlam masaların yanını"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "asansor"
+          }
+        },
+        {
+          "id": "yb-t31",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Aşırı yağmurla oluşan doğa olayı nedir?",
+          "dogruCevap": "Sel",
+          "secenekler": [
+            "Sel",
+            "Heyelan",
+            "Güneş Tutulması",
+            "Deprem"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sel"
+          }
+        },
+        {
+          "id": "yb-t32",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sel ve heyelandan koruyan doğa dostu davranış nedir?",
+          "dogruCevap": "Bol bol fidan dikmek",
+          "secenekler": [
+            "Her yere beton dökmek",
+            "Bol bol fidan dikmek",
+            "Ormana çöp atmak",
+            "Ağaçları koparmak"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "yb-t33",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Evde kibrit ve çakmakla oynamak hangi kazaya neden olabilir?",
+          "dogruCevap": "Yangın",
+          "secenekler": [
+            "Sel",
+            "Çığ",
+            "Yangın",
+            "Deprem"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kibrit"
+          }
+        },
+        {
+          "id": "yb-t34",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Acil yardım numarası hangisidir?",
+          "dogruCevap": "112",
+          "secenekler": [
+            "155",
+            "110",
+            "112",
+            "123"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "112"
+          }
+        },
+        {
+          "id": "yb-t35",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yangında 112'yi arayarak kimi çağırırız?",
+          "dogruCevap": "İtfaiye",
+          "secenekler": [
+            "İtfaiye",
+            "Orman görevlisi",
+            "Polis",
+            "Sağlık ekipleri"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "itfaiye"
+          }
+        },
+        {
+          "id": "yb-t36",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kar kütlelerinin aşağı yuvarlanmasıyla oluşan olay nedir?",
+          "dogruCevap": "Çığ",
+          "secenekler": [
+            "Çığ",
+            "Heyelan",
+            "Deprem",
+            "Sel"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cig"
+          }
+        },
+        {
+          "id": "yb-t37",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ağır dolapları duvara sabitleme hangi afette korur?",
+          "dogruCevap": "Deprem",
+          "secenekler": [
+            "Deprem",
+            "Rüzgar",
+            "Çığ",
+            "Sel"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "dolap"
+          }
+        },
+        {
+          "id": "yb-t38",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Depremde nerelerden uzak durmalıyız?",
+          "dogruCevap": "Pencerelerden ve camlardan",
+          "secenekler": [
+            "Sağlam masaların yanından",
+            "Pencerelerden ve camlardan",
+            "Koltuk kenarlarından",
+            "İç duvar köşelerinden"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "pencere"
+          }
+        },
+        {
+          "id": "yb-t39",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Toprağın dağdan aşağı kaymasına ne denir?",
+          "dogruCevap": "Heyelan",
+          "secenekler": [
+            "Heyelan",
+            "Deprem",
+            "Fırtına",
+            "Çığ"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "heyelan"
+          }
+        },
+        {
+          "id": "yb-t40",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "112'yi aradığımızda ne söylemeliyiz?",
+          "dogruCevap": "Adresimizi ve neden yardım gerektiğini",
+          "secenekler": [
+            "Yaşımızı",
+            "Adresimizi ve neden yardım gerektiğini",
+            "Arkadaşımızın adını",
+            "En sevdiğimiz şarkıyı"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "telefon"
+          }
+        },
+        {
+          "id": "yb-t41",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "112'yi aramak DOĞRU DEĞİLDİR:",
+          "dogruCevap": "Canımız sıkılıp sohbet için",
+          "secenekler": [
+            "Canımız sıkılıp sohbet için",
+            "Yolda yardım gerekince",
+            "Evde acil durum olduğunda",
+            "Biri fenalaşınca"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "yb-t42",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Acil şifaya ihtiyaç için 112'den kimi çağırırız?",
+          "dogruCevap": "Ambulans",
+          "secenekler": [
+            "Öğretmen",
+            "Postacı",
+            "İtfaiye",
+            "Ambulans"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ambulans"
+          }
+        },
+        {
+          "id": "yb-t43",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Tatile çıkarken evimizi güvende tutmak için ne yapmalıyız?",
+          "dogruCevap": "Su vanalarını ve fişleri kapat",
+          "secenekler": [
+            "Pencereleri aç",
+            "Muslukları açık bırak",
+            "Tüm ışıkları açık bırak",
+            "Su vanalarını ve fişleri kapat"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "musluk"
+          }
+        },
+        {
+          "id": "yb-t44",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Depremde en güvenli davranış nedir?",
+          "dogruCevap": "Sakin kalıp başı koruyarak sağlam eşyanın yanına çökmek",
+          "secenekler": [
+            "Sakin kalıp başı koruyarak sağlam eşyanın yanına çökmek",
+            "Telaşla koşmak",
+            "Balkona çıkmak",
+            "Merdivene gitmek"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cok-kapan-tutun"
+          }
+        },
+        {
+          "id": "yb-t45",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Piknikten sonra doğamızı korumak için ne yapmalıyız?",
+          "dogruCevap": "Ateşi suyla tamamen söndürmek",
+          "secenekler": [
+            "Ateşi suyla tamamen söndürmek",
+            "Çöpleri ormanda bırakmak",
+            "Ateşi öylece bırakıp gitmek",
+            "Dalları kırmak"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kamp-atesi"
+          }
+        },
+        {
+          "id": "yb-t46",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Deprem çantasında hangi sağlık malzemesi bulunmalıdır?",
+          "dogruCevap": "Yara bandı",
+          "secenekler": [
+            "Renkli kalemler",
+            "Tarak ve saç tokası",
+            "Yara bandı",
+            "Boya fırçaları"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ilk-yardim"
+          }
+        },
+        {
+          "id": "yb-t47",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Deprem sarsıntısı bittikten sonra nereye gitmeliyiz?",
+          "dogruCevap": "Acil Toplanma Alanı'na",
+          "secenekler": [
+            "Binanın en üst katına",
+            "Asansör boşluğuna",
+            "Acil Toplanma Alanı'na",
+            "Parktaki salıncaklara"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "toplanma-alani"
+          }
+        },
+        {
+          "id": "yb-t48",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Selden korunmak için evler nereye yapılmalıdır?",
+          "dogruCevap": "Güvenli yüksek alanlara",
+          "secenekler": [
+            "Kumların üzerine",
+            "Nehir yataklarının içine",
+            "Çukur yerlere",
+            "Güvenli yüksek alanlara"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ev"
+          }
+        },
+        {
+          "id": "yb-t49",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Elektrikli aletleri kullanırken neye dikkat etmeliyiz?",
+          "dogruCevap": "Islak ellerle prizlere dokunmamaya",
+          "secenekler": [
+            "Prizlere kalem sokmaya",
+            "Islak ellerle prizlere dokunmamaya",
+            "Açık kablolarla oynamaya",
+            "Kabloları bükmeye"
+          ],
+          "ipucu": "",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "priz"
+          }
+        },
+        {
+          "id": "yb-t50",
+          "kazanimKodu": "HB.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Depremde ne yapmalıyız?",
+          "dogruCevap": "Sağlam yerin altına gireriz",
+          "secenekler": [
+            "Koşarız",
+            "Pencereden atlarız",
+            "Sağlam yerin altına gireriz",
+            "Bağırırız"
+          ],
+          "ipucu": "Depremde çök-kapan-tutun!",
+          "kazanim": "HB.2.3.3",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "duduk"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

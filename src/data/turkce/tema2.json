@@ -1,0 +1,2203 @@
+{
+  "id": "tema-2",
+  "baslik": "Türkçe — Tema 2 — Ses Bilgisi ve Hece",
+  "konular": [
+    {
+      "id": "ses-bilgisi",
+      "baslik": "Ses Bilgisi",
+      "kazanimKodu": "TUR.2.1.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Türkçede 29 harf vardır. 8 tanesi sesli (a, e, ı, i, o, ö, u, ü), 21 tanesi sessiz harftir. Sesli harfler tek başına ses çıkarır!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sh-anlatim-1"
+            }
+          },
+          {
+            "metin": "Hece, içinde en az bir sesli harf bulunan ses topluluğudur. \"araba\" kelimesi 3 heceli: a-ra-ba. Her hecede bir sesli harf vardır!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sh-anlatim-2"
+            }
+          },
+          {
+            "metin": "Kelimeyi hecelere bölerken sesli harfleri sayarız — kaç sesli harf varsa o kadar hece vardır! \"okul\" → o-kul (2 sesli = 2 hece).",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sh-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "sb-a1",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"elma\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "2 (e, a)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "elma",
+            "nesne": "elma",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-a2",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"araba\" kelimesi kaç heceli?",
+          "dogruCevap": "3 (a-ra-ba)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "araba",
+            "heceler": [
+              "a",
+              "ra",
+              "ba"
+            ],
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "sb-a3",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"okul\" kelimesini hecele",
+          "dogruCevap": "o-kul",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "okul",
+            "heceler": [
+              "o",
+              "kul"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-a4",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"kedi\" kelimesinde kaç sessiz harf var?",
+          "dogruCevap": "2 (k, d)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kedi",
+            "nesne": "kedi",
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "sb-a5",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"çiçek\" kaç heceli?",
+          "dogruCevap": "2 (çi-çek)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "çiçek",
+            "heceler": [
+              "çi",
+              "çek"
+            ],
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "sb-a6",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "Sesli harfleri say: \"kitap\"",
+          "dogruCevap": "2 (i, a)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kitap",
+            "nesne": "kitap",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-a7",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"defter\" kelimesini hecele",
+          "dogruCevap": "def-ter",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "defter",
+            "heceler": [
+              "def",
+              "ter"
+            ],
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "sb-a8",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"anne\" kaç heceli?",
+          "dogruCevap": "2 (an-ne)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "anne",
+            "heceler": [
+              "an",
+              "ne"
+            ],
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "sb-a9",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"kalem\" kelimesinde kaç sesli harf?",
+          "dogruCevap": "2 (a, e)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kalem",
+            "nesne": "kalem",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-a10",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"sincap\" kelimesini hecele",
+          "dogruCevap": "sin-cap",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "sincap",
+            "heceler": [
+              "sin",
+              "cap"
+            ],
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "sb-a11",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"tavşan\" kaç heceli?",
+          "dogruCevap": "2 (tav-şan)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "tavşan",
+            "heceler": [
+              "tav",
+              "şan"
+            ],
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "sb-a12",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"uçak\" kelimesinde sesli harfler hangileri?",
+          "dogruCevap": "u, a",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "uçak",
+            "nesne": "ucak",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-a13",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"köpek\" kelimesini hecele",
+          "dogruCevap": "kö-pek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "köpek",
+            "heceler": [
+              "kö",
+              "pek"
+            ],
+            "nesne": "kopek"
+          }
+        },
+        {
+          "id": "sb-a14",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"merdiven\" kaç heceli?",
+          "dogruCevap": "3 (mer-di-ven)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "merdiven",
+            "heceler": [
+              "mer",
+              "di",
+              "ven"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-a15",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"balkon\" kelimesinde kaç sesli harf?",
+          "dogruCevap": "2 (a, o)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "balkon",
+            "nesne": "balkon",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-a16",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"pencere\" kelimesini hecele",
+          "dogruCevap": "pen-ce-re",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "pencere",
+            "heceler": [
+              "pen",
+              "ce",
+              "re"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-a17",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"çanta\" kaç heceli?",
+          "dogruCevap": "2 (çan-ta)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "çanta",
+            "heceler": [
+              "çan",
+              "ta"
+            ],
+            "nesne": "canta"
+          }
+        },
+        {
+          "id": "sb-a18",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "Türkçede kaç sesli harf vardır?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "e",
+              "ı",
+              "i",
+              "o",
+              "ö",
+              "u",
+              "ü"
+            ]
+          }
+        },
+        {
+          "id": "sb-a19",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"televizyon\" kaç heceli?",
+          "dogruCevap": "4 (te-le-viz-yon)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "televizyon",
+            "heceler": [
+              "te",
+              "le",
+              "viz",
+              "yon"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-a20",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"masa\" kelimesini hecele",
+          "dogruCevap": "ma-sa",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "masa",
+            "heceler": [
+              "ma",
+              "sa"
+            ],
+            "nesne": "masa"
+          }
+        },
+        {
+          "id": "sb-a21",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"ördek\" kelimesinde sesli harfler hangileri?",
+          "dogruCevap": "ö, e",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "ördek",
+            "nesne": "ordek",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-a22",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"bilgisayar\" kaç heceli?",
+          "dogruCevap": "4 (bil-gi-sa-yar)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "bilgisayar",
+            "heceler": [
+              "bil",
+              "gi",
+              "sa",
+              "yar"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-a23",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"ev\" kelimesi kaç heceli?",
+          "dogruCevap": "1 (tek hece)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "ev",
+            "heceler": [
+              "ev"
+            ],
+            "nesne": "ev"
+          }
+        },
+        {
+          "id": "sb-a24",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"kuş\" kaç heceli?",
+          "dogruCevap": "1",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "kuş",
+            "heceler": [
+              "kuş"
+            ],
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "sb-a25",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"çikolata\" kelimesini hecele",
+          "dogruCevap": "çi-ko-la-ta",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "çikolata",
+            "heceler": [
+              "çi",
+              "ko",
+              "la",
+              "ta"
+            ],
+            "nesne": "cikolata"
+          }
+        },
+        {
+          "id": "sb-a26",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"domates\" kelimesini hecele",
+          "dogruCevap": "do-ma-tes",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "domates",
+            "heceler": [
+              "do",
+              "ma",
+              "tes"
+            ],
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sb-a27",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"portakal\" kelimesini hecele",
+          "dogruCevap": "por-ta-kal",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "portakal",
+            "heceler": [
+              "por",
+              "ta",
+              "kal"
+            ],
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sb-a28",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"muz\" kelimesini hecele",
+          "dogruCevap": "muz",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "muz",
+            "heceler": [
+              "muz"
+            ],
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sb-a29",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"karpuz\" kelimesini hecele",
+          "dogruCevap": "kar-puz",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "karpuz",
+            "heceler": [
+              "kar",
+              "puz"
+            ],
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sb-a30",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"salata\" kelimesini hecele",
+          "dogruCevap": "sa-la-ta",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "salata",
+            "heceler": [
+              "sa",
+              "la",
+              "ta"
+            ],
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sb-a31",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"yumurta\" kelimesini hecele",
+          "dogruCevap": "yu-mur-ta",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "yumurta",
+            "heceler": [
+              "yu",
+              "mur",
+              "ta"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a32",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"peynir\" kelimesini hecele",
+          "dogruCevap": "pey-nir",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "peynir",
+            "heceler": [
+              "pey",
+              "nir"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a33",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"ekmek\" kelimesini hecele",
+          "dogruCevap": "ek-mek",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "ekmek",
+            "heceler": [
+              "ek",
+              "mek"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a34",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"çorba\" kelimesini hecele",
+          "dogruCevap": "çor-ba",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "çorba",
+            "heceler": [
+              "çor",
+              "ba"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a35",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"biber\" kelimesini hecele",
+          "dogruCevap": "bi-ber",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "biber",
+            "heceler": [
+              "bi",
+              "ber"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a36",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"havuç\" kelimesini hecele",
+          "dogruCevap": "ha-vuç",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "havuç",
+            "heceler": [
+              "ha",
+              "vuç"
+            ],
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sb-a37",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"soğan\" kelimesini hecele",
+          "dogruCevap": "so-ğan",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "soğan",
+            "heceler": [
+              "so",
+              "ğan"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a38",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"patates\" kelimesini hecele",
+          "dogruCevap": "pa-ta-tes",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "patates",
+            "heceler": [
+              "pa",
+              "ta",
+              "tes"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a39",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"makarna\" kelimesini hecele",
+          "dogruCevap": "ma-kar-na",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "makarna",
+            "heceler": [
+              "ma",
+              "kar",
+              "na"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a40",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"balık\" kelimesini hecele",
+          "dogruCevap": "ba-lık",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "balık",
+            "heceler": [
+              "ba",
+              "lık"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a41",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"tavuk\" kelimesini hecele",
+          "dogruCevap": "ta-vuk",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "tavuk",
+            "heceler": [
+              "ta",
+              "vuk"
+            ],
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "sb-a42",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"süt\" kelimesini hecele",
+          "dogruCevap": "süt",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "süt",
+            "heceler": [
+              "süt"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a43",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"ayran\" kelimesini hecele",
+          "dogruCevap": "ay-ran",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "ayran",
+            "heceler": [
+              "ay",
+              "ran"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a44",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"reçel\" kelimesini hecele",
+          "dogruCevap": "re-çel",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "reçel",
+            "heceler": [
+              "re",
+              "çel"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a45",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"bal\" kelimesini hecele",
+          "dogruCevap": "bal",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "bal",
+            "heceler": [
+              "bal"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a46",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"fındık\" kelimesini hecele",
+          "dogruCevap": "fın-dık",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "fındık",
+            "heceler": [
+              "fın",
+              "dık"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a47",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"ceviz\" kelimesini hecele",
+          "dogruCevap": "ce-viz",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "ceviz",
+            "heceler": [
+              "ce",
+              "viz"
+            ],
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "sb-a48",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"üzüm\" kelimesini hecele",
+          "dogruCevap": "ü-züm",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "üzüm",
+            "heceler": [
+              "ü",
+              "züm"
+            ],
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sb-a49",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"kiraz\" kelimesini hecele",
+          "dogruCevap": "ki-raz",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "kiraz",
+            "heceler": [
+              "ki",
+              "raz"
+            ],
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sb-a50",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "yazili",
+          "soru": "\"armut\" kelimesini hecele",
+          "dogruCevap": "ar-mut",
+          "ipucu": "Sesli harf sayısı = hece sayısı",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "armut",
+            "heceler": [
+              "ar",
+              "mut"
+            ],
+            "nesne": "meyve"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "sb-t1",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçede kaç sesli harf vardır?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "7",
+            "10",
+            "6",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "e",
+              "ı",
+              "i",
+              "o",
+              "ö",
+              "u",
+              "ü"
+            ]
+          }
+        },
+        {
+          "id": "sb-t2",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"elma\" kelimesi kaç heceli?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "4",
+            "1",
+            "2",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "elma",
+            "heceler": [
+              "el",
+              "ma"
+            ],
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "sb-t3",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi sesli harftir?",
+          "dogruCevap": "ö",
+          "secenekler": [
+            "k",
+            "s",
+            "ö",
+            "t"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "k",
+              "t",
+              "ö",
+              "s"
+            ]
+          }
+        },
+        {
+          "id": "sb-t4",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"defter\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "def-ter",
+          "secenekler": [
+            "de-ft-er",
+            "d-ef-ter",
+            "def-ter",
+            "deft-er"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "defter",
+            "heceler": [
+              "def",
+              "ter"
+            ],
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "sb-t5",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"araba\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "2",
+            "1",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "araba",
+            "nesne": "araba",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-t6",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kaç heceli olduğunu bul: \"merdiven\"",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "merdiven",
+            "heceler": [
+              "mer",
+              "di",
+              "ven"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-t7",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"kuş\" kelimesi kaç heceli?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "3",
+            "4",
+            "1",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "kuş",
+            "heceler": [
+              "kuş"
+            ],
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "sb-t8",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kelimede sessiz harf sayısı sesli harf sayısından fazladır?",
+          "dogruCevap": "kitap",
+          "secenekler": [
+            "ev",
+            "araba",
+            "anne",
+            "kitap"
+          ],
+          "ipucu": "kitap → k,t,p=3 sessiz, i,a=2 sesli",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kitap",
+            "nesne": "kitap",
+            "vurgu": "sessiz"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sb-t9",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"pencere\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "pen-ce-re",
+          "secenekler": [
+            "pen-ce-re",
+            "p-en-cere",
+            "penc-e-re",
+            "pe-nce-re"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "pencere",
+            "heceler": [
+              "pen",
+              "ce",
+              "re"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-t10",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki kelimelerden hangisi 1 heceli?",
+          "dogruCevap": "ev",
+          "secenekler": [
+            "elma",
+            "ev",
+            "masa",
+            "kedi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "elma",
+            "heceler": [
+              "el",
+              "ma"
+            ],
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "sb-t11",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"çikolata\" kaç heceli?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "5",
+            "2",
+            "4",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "çikolata",
+            "heceler": [
+              "çi",
+              "ko",
+              "la",
+              "ta"
+            ],
+            "nesne": "cikolata"
+          }
+        },
+        {
+          "id": "sb-t12",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki kelimelerden hangisi 4 heceli?",
+          "dogruCevap": "televizyon",
+          "secenekler": [
+            "televizyon",
+            "defter",
+            "kalem",
+            "araba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "elma",
+            "heceler": [
+              "el",
+              "ma"
+            ],
+            "nesne": "elma"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sb-t13",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi sessiz harftir?",
+          "dogruCevap": "m",
+          "secenekler": [
+            "m",
+            "e",
+            "a",
+            "i"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "k",
+              "t",
+              "ö",
+              "s"
+            ]
+          }
+        },
+        {
+          "id": "sb-t14",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"okul\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "o-kul",
+          "secenekler": [
+            "oku-l",
+            "o-ku-l",
+            "o-kul",
+            "ok-ul"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "okul",
+            "heceler": [
+              "o",
+              "kul"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-t15",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"anne\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "3",
+            "1",
+            "2",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "anne",
+            "nesne": "anne",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-t16",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kelimede her hece bir harften oluşur?",
+          "dogruCevap": "u-çu-yor",
+          "secenekler": [
+            "elma",
+            "a-ra-ba",
+            "u-çu-yor",
+            "araba"
+          ],
+          "ipucu": "u, ça, yor — hayır! a-ra-ba her hece 1-2 harf",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "uçuyor",
+            "heceler": [
+              "u",
+              "çu",
+              "yor"
+            ],
+            "nesne": "ucak"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sb-t17",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"tavşan\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "tav-şan",
+          "secenekler": [
+            "tavş-an",
+            "ta-vşan",
+            "t-avşan",
+            "tav-şan"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "tavşan",
+            "heceler": [
+              "tav",
+              "şan"
+            ],
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "sb-t18",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kaç sesli harf var: \"köpek\"",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "1",
+            "3",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "köpek",
+            "nesne": "kopek",
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "sb-t19",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kelime 3 heceli?",
+          "dogruCevap": "merdiven",
+          "secenekler": [
+            "masa",
+            "ev",
+            "kalem",
+            "merdiven"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "elma",
+            "heceler": [
+              "el",
+              "ma"
+            ],
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "sb-t20",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"bilgisayar\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "3",
+            "4",
+            "2",
+            "5"
+          ],
+          "ipucu": "bil-gi-sa-yar → i, i, a, a = 4 sesli",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "bilgisayar",
+            "nesne": "okul",
+            "vurgu": "sesli"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sb-t21",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"uçak\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "uç-ak",
+          "secenekler": [
+            "u-çak",
+            "uç-ak",
+            "u-ça-k",
+            "uça-k"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "uçak",
+            "heceler": [
+              "uç",
+              "ak"
+            ],
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "sb-t22",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki sesli harflerden hangisi Türkçede yoktur?",
+          "dogruCevap": "w",
+          "secenekler": [
+            "ı",
+            "ö",
+            "ü",
+            "w"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "k",
+              "t",
+              "ö",
+              "s"
+            ]
+          }
+        },
+        {
+          "id": "sb-t23",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"çanta\" kaç heceli?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "3",
+            "2",
+            "1",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "çanta",
+            "heceler": [
+              "çan",
+              "ta"
+            ],
+            "nesne": "canta"
+          }
+        },
+        {
+          "id": "sb-t24",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bir kelimede 3 sesli harf varsa kaç heceli olur?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "1",
+            "4",
+            "3",
+            "2"
+          ],
+          "ipucu": "Sesli harf sayısı = hece sayısı!",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "e",
+              "ı",
+              "i",
+              "o",
+              "ö",
+              "u",
+              "ü"
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sb-t25",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"çikolata\" kelimesinde sessiz harf sayısı kaçtır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "3  B: 5",
+            "4",
+            "2"
+          ],
+          "ipucu": "ç,k,l,t = 4 sessiz harf",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "çikolata",
+            "heceler": [
+              "çi",
+              "ko",
+              "la",
+              "ta"
+            ],
+            "nesne": "cikolata"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sb-t26",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"domates\" kaç heceli?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "1",
+            "4",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "domates",
+            "heceler": [
+              "do",
+              "ma",
+              "tes"
+            ],
+            "nesne": "meyve"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t27",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"portakal\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "por-ta-kal",
+          "secenekler": [
+            "p-or-ta-kal",
+            "por-ta-kal",
+            "por-tak-al",
+            "porta-kal"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "portakal",
+            "heceler": [
+              "por",
+              "ta",
+              "kal"
+            ],
+            "nesne": "meyve"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t28",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"muz\" kelimesi kaç heceli?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "1",
+            "3",
+            "4",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "muz",
+            "heceler": [
+              "muz"
+            ],
+            "nesne": "meyve"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t29",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"karpuz\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "kar-puz",
+          "secenekler": [
+            "karp-uz",
+            "ka-rpuz",
+            "kar-puz",
+            "karpu-z"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "karpuz",
+            "heceler": [
+              "kar",
+              "puz"
+            ],
+            "nesne": "meyve"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t30",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"yumurta\" kaç heceli?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "2",
+            "5",
+            "4",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "yumurta",
+            "heceler": [
+              "yu",
+              "mur",
+              "ta"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t31",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"ekmek\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "ekmek",
+            "nesne": "default",
+            "vurgu": "sesli"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t32",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"çorba\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "çor-ba",
+          "secenekler": [
+            "çorb-a",
+            "ç-or-ba",
+            "ço-rba",
+            "çor-ba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "çorba",
+            "heceler": [
+              "çor",
+              "ba"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t33",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"patates\" kaç heceli?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "4",
+            "3",
+            "5",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "patates",
+            "heceler": [
+              "pa",
+              "ta",
+              "tes"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t34",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"balık\" kelimesi kaç heceli?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "balık",
+            "heceler": [
+              "ba",
+              "lık"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t35",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"süt\" kelimesi kaç heceli?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "3",
+            "1",
+            "2",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "süt",
+            "heceler": [
+              "süt"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t36",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"üzüm\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "üzüm",
+            "nesne": "meyve",
+            "vurgu": "sesli"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t37",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"kiraz\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "ki-raz",
+          "secenekler": [
+            "kir-az",
+            "kira-z",
+            "ki-raz",
+            "k-iraz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "kiraz",
+            "heceler": [
+              "ki",
+              "raz"
+            ],
+            "nesne": "meyve"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t38",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"armut\" kaç heceli?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "3",
+            "1",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "armut",
+            "heceler": [
+              "ar",
+              "mut"
+            ],
+            "nesne": "meyve"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t39",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"makarna\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "5",
+            "2",
+            "3",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "makarna",
+            "heceler": [
+              "ma",
+              "kar",
+              "na"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t40",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"fındık\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "fın-dık",
+          "secenekler": [
+            "find-ık",
+            "fınd-ık",
+            "fı-ndık",
+            "fın-dık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "fındık",
+            "heceler": [
+              "fın",
+              "dık"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t41",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"ceviz\" kelimesinde kaç sessiz harf var?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "4",
+            "1",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "ceviz",
+            "nesne": "default",
+            "vurgu": "sessiz"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t42",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"reçel\" kaç heceli?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "4",
+            "3",
+            "1",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "reçel",
+            "heceler": [
+              "re",
+              "çel"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t43",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"ayran\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "4",
+            "2",
+            "3",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "ayran",
+            "nesne": "default",
+            "vurgu": "sesli"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t44",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"soğan\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "so-ğan",
+          "secenekler": [
+            "so-ğan",
+            "soğ-an",
+            "sog-an",
+            "s-o-ğan"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "soğan",
+            "heceler": [
+              "so",
+              "ğan"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t45",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"havuç\" kaç heceli?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "4",
+            "1",
+            "2",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "havuç",
+            "heceler": [
+              "ha",
+              "vuç"
+            ],
+            "nesne": "meyve"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t46",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"biber\" kelimesinde kaç sesli harf var?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "1",
+            "3",
+            "2",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "biber",
+            "nesne": "default",
+            "vurgu": "sesli"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t47",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"salata\" kaç heceli?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "5",
+            "2",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "salata",
+            "heceler": [
+              "sa",
+              "la",
+              "ta"
+            ],
+            "nesne": "meyve"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t48",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"peynir\" kelimesini doğru heceleyen hangisi?",
+          "dogruCevap": "pey-nir",
+          "secenekler": [
+            "pe-ynir",
+            "p-eynir",
+            "pey-nir",
+            "peyn-ir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "peynir",
+            "heceler": [
+              "pey",
+              "nir"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t49",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"tavuk\" kelimesinde kaç sessiz harf var?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "1",
+            "4",
+            "2",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "tavuk",
+            "heceler": [
+              "ta",
+              "vuk"
+            ],
+            "nesne": "kus"
+          },
+          "sasirtma": false
+        },
+        {
+          "id": "sb-t50",
+          "kazanimKodu": "TUR.2.1.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 \"bal\" kelimesi kaç heceli?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "1",
+            "4",
+            "3",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "hece",
+            "kelime": "bal",
+            "heceler": [
+              "bal"
+            ],
+            "nesne": "default"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

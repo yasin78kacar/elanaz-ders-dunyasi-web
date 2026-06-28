@@ -1,0 +1,1763 @@
+{
+  "id": "tema-1",
+  "baslik": "Hayat Bilgisi — Tema 1 — Aile",
+  "konular": [
+    {
+      "id": "aile",
+      "baslik": "Aile",
+      "kazanimKodu": "HB.2.1.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Her insanın mutluluk, üzüntü, kızgınlık, korku ve sevinç gibi duyguları vardır. Ailemizde bu duyguları paylaşmak bizi daha mutlu ve güvende hissettirir.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "ad-anlatim-1"
+            }
+          },
+          {
+            "metin": "Üzüldüğümüzde veya korktuğumuzda annemiz ve babamız bizi dinler, sarılır. Duygularımızı kelimelerle ifade etmek çok önemlidir.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "ad-anlatim-2"
+            }
+          },
+          {
+            "metin": "Empati, başkalarının duygularını anlamaya çalışmaktır. Ailemizde sevgi, saygı ve empati en değerli duygulardır.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "ad-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ad-a1",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Mutlu olduğumuzda yüzümüzde hangi ifade olur?",
+          "dogruCevap": "Gülümseme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-a2",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Üzgün olduğumuzda ne hissedebiliriz?",
+          "dogruCevap": "Gözlerimiz dolabilir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "uzuntu"
+          }
+        },
+        {
+          "id": "ad-a3",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde duygularımızı paylaşmak doğru mudur?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "paylasim"
+          }
+        },
+        {
+          "id": "ad-a4",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Kızgın olduğumuzda ne yapmalıyız?",
+          "dogruCevap": "Sakinleşip konuşmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kizginlik"
+          }
+        },
+        {
+          "id": "ad-a5",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Annemize sarılmak hangi duyguyu gösterir?",
+          "dogruCevap": "Sevgi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sevgi"
+          }
+        },
+        {
+          "id": "ad-a6",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Kardeşimiz ağlıyorsa ne yapmalıyız?",
+          "dogruCevap": "Yanında olup teselli etmeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadas-destek",
+            "ozellik": "empati"
+          }
+        },
+        {
+          "id": "ad-a7",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Korktuğumuzda kime güvenebiliriz?",
+          "dogruCevap": "Ailemize",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "korku"
+          }
+        },
+        {
+          "id": "ad-a8",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Babamız bizi sevdiğini nasıl gösterir?",
+          "dogruCevap": "Bizi korur, ilgilenir ve zaman ayırır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "baba",
+            "vurgu": "sevgi"
+          }
+        },
+        {
+          "id": "ad-a9",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Heyecanlı olduğumuzda kalbimiz nasıl atar?",
+          "dogruCevap": "Daha hızlı atar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "heyecan"
+          }
+        },
+        {
+          "id": "ad-a10",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Duygularımızı saklamak her zaman iyi midir?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "ad-a11",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Empati ne demektir?",
+          "dogruCevap": "Başkalarının duygularını anlamaya çalışmak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "empati"
+          }
+        },
+        {
+          "id": "ad-a12",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde kavga çıktığında ne yapmalıyız?",
+          "dogruCevap": "Sakin konuşarak çözüm bulmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "ad-a13",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Mutlu bir anı paylaşmak aileyi nasıl etkiler?",
+          "dogruCevap": "Herkesi mutlu eder, bağları güçlendirir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-a14",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Özür dilediğimizde hangi duyguyu gösteririz?",
+          "dogruCevap": "Pişmanlık ve saygı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "ad-a15",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Dedemiz bizi kucakladığında ne hissederiz?",
+          "dogruCevap": "Sevgi ve güven",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "dede",
+              "cocuk"
+            ],
+            "vurgu": "sevgi"
+          }
+        },
+        {
+          "id": "ad-a16",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Kıskançlık hangi duygudur?",
+          "dogruCevap": "Olumsuz bir duygu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "kiskanclik-yok"
+          }
+        },
+        {
+          "id": "ad-a17",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde birbirimize \"seni seviyorum\" demek güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sevgi"
+          }
+        },
+        {
+          "id": "ad-a18",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Üzüldüğümüzde annemiz bizi nasıl rahatlatır?",
+          "dogruCevap": "Sarılarak, dinleyerek ve anlayarak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "teselli"
+          }
+        },
+        {
+          "id": "ad-a19",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Temel duygulardan üçünü yaz",
+          "dogruCevap": "Mutluluk, üzüntü, kızgınlık",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "duygu-kartlari"
+          }
+        },
+        {
+          "id": "ad-a20",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde sevgi neden önemlidir?",
+          "dogruCevap": "Bizi güvende ve mutlu hissettirir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "sevgi"
+          }
+        },
+        {
+          "id": "ad-a21",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Korktuğumuzda bağırmak yerine ne yapmalıyız?",
+          "dogruCevap": "Ailemize söylemeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "korku"
+          }
+        },
+        {
+          "id": "ad-a22",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Kardeşimizle oyuncak paylaşırken hangi duygu önemlidir?",
+          "dogruCevap": "Cömertlik ve sevgi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ad-a23",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Mutlu olduğumuzda ailemizle ne yapabiliriz?",
+          "dogruCevap": "Birlikte oynayabilir veya anlatabiliriz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "birlikte-oyun",
+            "ozellik": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-a24",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Sinirlendiğimizde eşyalara vurmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kizginlik"
+          }
+        },
+        {
+          "id": "ad-a25",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde güven duygusu nasıl oluşur?",
+          "dogruCevap": "Dürüst ve sevgi dolu davranarak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "guven",
+            "ozellik": "aile"
+          }
+        },
+        {
+          "id": "ad-a26",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Şaşırdığımızda yüzümüzde ne olur?",
+          "dogruCevap": "Gözlerimiz büyür, ağzımız açılır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "saskinlik"
+          }
+        },
+        {
+          "id": "ad-a27",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ninemiz bize masal anlatınca ne hissederiz?",
+          "dogruCevap": "Mutluluk ve huzur",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "nine",
+            "vurgu": "masal"
+          }
+        },
+        {
+          "id": "ad-a28",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde herkesin duygularına saygı göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "saygi"
+          }
+        },
+        {
+          "id": "ad-a29",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Üzüntüyü paylaşmak bizi rahatlatır mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadas-destek",
+            "ozellik": "empati"
+          }
+        },
+        {
+          "id": "ad-a30",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Babamız işten yorgun gelince ne yapabiliriz?",
+          "dogruCevap": "Sessiz olup ona zaman tanıyabiliriz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "baba",
+            "vurgu": "yorgun"
+          }
+        },
+        {
+          "id": "ad-a31",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Sevinç duygusu ne zaman ortaya çıkar?",
+          "dogruCevap": "Güzel bir haber aldığımızda",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-a32",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde dürüst olmak güveni artırır mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "durustluk",
+            "ozellik": "guven"
+          }
+        },
+        {
+          "id": "ad-a33",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Kardeşimiz başarılı olunca kıskanmak yerine ne yapmalıyız?",
+          "dogruCevap": "Onu tebrik etmeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "tebrik"
+          }
+        },
+        {
+          "id": "ad-a34",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Yalnız hissettiğimizde ailemiz ne yapar?",
+          "dogruCevap": "Yanımızda olur ve bizi dinler",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "destek"
+          }
+        },
+        {
+          "id": "ad-a35",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Öfke kontrolü neden önemlidir?",
+          "dogruCevap": "Başkalarını incitmemek ve sağlıklı iletişim için",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kizginlik"
+          }
+        },
+        {
+          "id": "ad-a36",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailecek film izlemek hangi duyguyu artırır?",
+          "dogruCevap": "Birliktelik ve mutluluk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "birlikte"
+          }
+        },
+        {
+          "id": "ad-a37",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Hasta olduğumuzda annemizin ilgisi bize ne hissettirir?",
+          "dogruCevap": "Sevildiğimizi ve önemsendiğimizi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "ilgi"
+          }
+        },
+        {
+          "id": "ad-a38",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Duygularımızı kelimelerle ifade etmek neden önemlidir?",
+          "dogruCevap": "Başkaları bizi daha iyi anlar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "ifade"
+          }
+        },
+        {
+          "id": "ad-a39",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde gülümsemek bulaşıcı mıdır?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-a40",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Korktuğumuzda annemiz veya babamız bizi nasıl rahatlatır?",
+          "dogruCevap": "Sarılarak ve güvende olduğumuzu söyleyerek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "guven"
+          }
+        },
+        {
+          "id": "ad-a41",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Aile büyüklerimizin duygularına saygı göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "dede",
+              "nine"
+            ],
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ad-a42",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Mutlu bir ailede en çok hangi duygu vardır?",
+          "dogruCevap": "Sevgi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "ad-a43",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Üzüntümüzü gizlemek yerine annemize anlatmak doğru mudur?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "paylasim"
+          }
+        },
+        {
+          "id": "ad-a44",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Kardeşimizle kavga ettikten sonra ne yapmalıyız?",
+          "dogruCevap": "Özür dileyip barışmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "baris"
+          }
+        },
+        {
+          "id": "ad-a45",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde sevgi göstermenin yollarından ikisini yaz",
+          "dogruCevap": "Sarılmak, teşekkür etmek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sevgi"
+          }
+        },
+        {
+          "id": "ad-a46",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Heyecanlı olduğumuzda nefes almak bizi sakinleştirir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "nefes"
+          }
+        },
+        {
+          "id": "ad-a47",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemizde herkesin duygusu değerli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "deger"
+          }
+        },
+        {
+          "id": "ad-a48",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Kızgınken yüksek sesle bağırmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kizginlik"
+          }
+        },
+        {
+          "id": "ad-a49",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Ailemiz bizi her halimizle sever mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "ad-a50",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "yazili",
+          "soru": "Duygularımızı tanımak neden önemlidir?",
+          "dogruCevap": "Kendimizi ve başkalarını daha iyi anlarız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "duygu-kartlari"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ad-t1",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Mutlu olduğumuzda yüzümüzde ne olur?",
+          "dogruCevap": "Gülümseriz",
+          "secenekler": [
+            "Gülümseriz",
+            "Ağlarız",
+            "Kaşlarımızı çatarız",
+            "Uyuruz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-t2",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Üzgün olduğumuzda ne hissedebiliriz?",
+          "dogruCevap": "Gözlerimiz dolabilir",
+          "secenekler": [
+            "Gözlerimiz dolabilir",
+            "Güleriz",
+            "Çok enerjik oluruz",
+            "Koşmak isteriz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "uzuntu"
+          }
+        },
+        {
+          "id": "ad-t3",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde duygularımızı paylaşmak doğru mudur?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hiç paylaşmayız",
+            "Sadece üzüntüyü",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "paylasim"
+          }
+        },
+        {
+          "id": "ad-t4",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Kızgın olduğumuzda ne yapmalıyız?",
+          "dogruCevap": "Sakinleşip konuşmalıyız",
+          "secenekler": [
+            "Kaçmalıyız",
+            "Sakinleşip konuşmalıyız",
+            "Bağırmalıyız",
+            "Eşyalara vurmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kizginlik"
+          }
+        },
+        {
+          "id": "ad-t5",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Annemize sarılmak hangi duyguyu gösterir?",
+          "dogruCevap": "Sevgi",
+          "secenekler": [
+            "Sevgi",
+            "Üzüntü",
+            "Korku",
+            "Kızgınlık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sevgi"
+          }
+        },
+        {
+          "id": "ad-t6",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Kardeşimiz ağlıyorsa ne yapmalıyız?",
+          "dogruCevap": "Yanında olup teselli etmeliyiz",
+          "secenekler": [
+            "Gülmeliyiz",
+            "Uzaklaşmalıyız",
+            "Bağırmalıyız",
+            "Yanında olup teselli etmeliyiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadas-destek",
+            "ozellik": "empati"
+          }
+        },
+        {
+          "id": "ad-t7",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Korktuğumuzda kime güvenebiliriz?",
+          "dogruCevap": "Ailemize",
+          "secenekler": [
+            "Kimseye",
+            "Sadece arkadaşlara",
+            "Ailemize",
+            "Yabancılara"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "korku"
+          }
+        },
+        {
+          "id": "ad-t8",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Duygularımızı hiç paylaşmamak sağlıklı mıdır?",
+          "dogruCevap": "Hayır, paylaşmak önemlidir",
+          "secenekler": [
+            "Fark etmez",
+            "Sadece mutluluğu paylaşırız",
+            "Evet, hep saklamalıyız",
+            "Hayır, paylaşmak önemlidir"
+          ],
+          "ipucu": "Duygularımızı ailemizle konuşmak bizi rahatlatır!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ad-t9",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Empati ne demektir?",
+          "dogruCevap": "Başkalarının duygularını anlamaya çalışmak",
+          "secenekler": [
+            "Başkalarının duygularını anlamaya çalışmak",
+            "Oyun oynamak",
+            "Sadece kendini düşünmek",
+            "Çok konuşmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "empati"
+          }
+        },
+        {
+          "id": "ad-t10",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde kavga çıktığında ne yapmalıyız?",
+          "dogruCevap": "Sakin konuşarak çözüm bulmalıyız",
+          "secenekler": [
+            "Kaçmalıyız",
+            "Sakin konuşarak çözüm bulmalıyız",
+            "Daha çok bağırmalıyız",
+            "Susmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "konusma"
+          }
+        },
+        {
+          "id": "ad-t11",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Özür dilediğimizde hangi duyguyu gösteririz?",
+          "dogruCevap": "Pişmanlık ve saygı",
+          "secenekler": [
+            "Kızgınlık",
+            "Korku",
+            "Sevinç",
+            "Pişmanlık ve saygı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "ozur"
+          }
+        },
+        {
+          "id": "ad-t12",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Kıskançlık hangi tür duygudur?",
+          "dogruCevap": "Olumsuz",
+          "secenekler": [
+            "Olumsuz",
+            "Gerekli",
+            "Olumlu",
+            "Nötr"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "kiskanclik-yok"
+          }
+        },
+        {
+          "id": "ad-t13",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde \"seni seviyorum\" demek güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece bayramda",
+            "Hayır",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sevgi"
+          }
+        },
+        {
+          "id": "ad-t14",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Üzüldüğümüzde annemiz bizi nasıl rahatlatır?",
+          "dogruCevap": "Sarılarak ve dinleyerek",
+          "secenekler": [
+            "Bağırmakla",
+            "Görmezden gelerek",
+            "Sarılarak ve dinleyerek",
+            "Cezalandırarak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "teselli"
+          }
+        },
+        {
+          "id": "ad-t15",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Sinirlendiğimizde eşyalara vurmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Bazen",
+            "Hayır",
+            "Evet",
+            "Her zaman"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kizginlik"
+          }
+        },
+        {
+          "id": "ad-t16",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Sadece mutlu duyguları paylaşmak yeterli midir?",
+          "dogruCevap": "Hayır, tüm duygularımızı paylaşabiliriz",
+          "secenekler": [
+            "Hayır, tüm duygularımızı paylaşabiliriz",
+            "Sadece kızgınlık",
+            "Hiç paylaşmayız",
+            "Evet, sadece mutluluk"
+          ],
+          "ipucu": "Üzüntü ve korkuyu da paylaşmak önemlidir!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "paylasim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ad-t17",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde güven duygusu nasıl oluşur?",
+          "dogruCevap": "Dürüst ve sevgi dolu davranarak",
+          "secenekler": [
+            "Kavga ederek",
+            "Susarak",
+            "Dürüst ve sevgi dolu davranarak",
+            "Yalan söyleyerek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "guven",
+            "ozellik": "aile"
+          }
+        },
+        {
+          "id": "ad-t18",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Kardeşimiz başarılı olunca ne yapmalıyız?",
+          "dogruCevap": "Onu tebrik etmeliyiz",
+          "secenekler": [
+            "Onu tebrik etmeliyiz",
+            "Eleştirmeliyiz",
+            "Uzaklaşmalıyız",
+            "Kıskanmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadaslik",
+            "ozellik": "tebrik"
+          }
+        },
+        {
+          "id": "ad-t19",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Yalnız hissettiğimizde ailemiz ne yapar?",
+          "dogruCevap": "Yanımızda olur",
+          "secenekler": [
+            "Görmezden gelir",
+            "Bağırmaya başlar",
+            "Bizi yalnız bırakır",
+            "Yanımızda olur"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "destek"
+          }
+        },
+        {
+          "id": "ad-t20",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailecek birlikte vakit geçirmek ne sağlar?",
+          "dogruCevap": "Birliktelik ve mutluluk",
+          "secenekler": [
+            "Yalnızlık",
+            "Korku",
+            "Birliktelik ve mutluluk",
+            "Kavga"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "birlikte"
+          }
+        },
+        {
+          "id": "ad-t21",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Duygularımızı kelimelerle ifade etmek neden önemlidir?",
+          "dogruCevap": "Başkaları bizi daha iyi anlar",
+          "secenekler": [
+            "Sadece yazı için",
+            "Başkaları bizi daha iyi anlar",
+            "Gereksizdir",
+            "Kimse anlamaz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "ifade"
+          }
+        },
+        {
+          "id": "ad-t22",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Korktuğumuzda annemiz bizi nasıl rahatlatır?",
+          "dogruCevap": "Sarılarak güvende olduğumuzu söyler",
+          "secenekler": [
+            "Sarılarak güvende olduğumuzu söyler",
+            "Cezalandırır",
+            "Görmezden gelir",
+            "Bağırmaya devam eder"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "guven"
+          }
+        },
+        {
+          "id": "ad-t23",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Aile büyüklerimize saygı göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Gereksiz",
+            "Sadece bayramda"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "dede",
+              "nine"
+            ],
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ad-t24",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Mutlu bir ailede en çok hangi duygu vardır?",
+          "dogruCevap": "Sevgi",
+          "secenekler": [
+            "Sevgi",
+            "Korku",
+            "Kızgınlık",
+            "Kıskançlık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          }
+        },
+        {
+          "id": "ad-t25",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ailemiz bizi sadece başarılı olduğumuzda mı sever?",
+          "dogruCevap": "Hayır, her halimizle sever",
+          "secenekler": [
+            "Hiç sevmez",
+            "Sadece mutlu olduğumuzda",
+            "Hayır, her halimizle sever",
+            "Evet, sadece başarılıyken"
+          ],
+          "ipucu": "Aile sevgisi koşulsuzdur!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "aile"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ad-t26",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Heyecanlı olduğumuzda kalbimiz nasıl atar?",
+          "dogruCevap": "Daha hızlı",
+          "secenekler": [
+            "Yavaşlar",
+            "Durur",
+            "Fark etmez",
+            "Daha hızlı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "heyecan"
+          }
+        },
+        {
+          "id": "ad-t27",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Üzüntüyü paylaşmak bizi rahatlatır mı?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Daha kötü yapar",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "arkadas-destek",
+            "ozellik": "empati"
+          }
+        },
+        {
+          "id": "ad-t28",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Kardeşimizle kavga ettikten sonra ne yapmalıyız?",
+          "dogruCevap": "Özür dileyip barışmalıyız",
+          "secenekler": [
+            "Kaçmalıyız",
+            "Daha çok kavga etmeliyiz",
+            "Özür dileyip barışmalıyız",
+            "Asla konuşmamalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "ozur-dileme",
+            "ozellik": "baris"
+          }
+        },
+        {
+          "id": "ad-t29",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde dürüst olmak güveni artırır mı?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Güveni azaltır",
+            "Evet",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "durustluk",
+            "ozellik": "guven"
+          }
+        },
+        {
+          "id": "ad-t30",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Kızgınken yüksek sesle bağırmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Bazen olur",
+            "Her zaman"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kizginlik"
+          }
+        },
+        {
+          "id": "ad-t31",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Şaşırdığımızda yüzümüzde ne olur?",
+          "dogruCevap": "Gözlerimiz büyür",
+          "secenekler": [
+            "Ağlarız",
+            "Gözlerimiz büyür",
+            "Uyuruz",
+            "Koşarız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "saskinlik"
+          }
+        },
+        {
+          "id": "ad-t32",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Hasta olduğumuzda annemizin ilgisi bize ne hissettirir?",
+          "dogruCevap": "Sevildiğimizi",
+          "secenekler": [
+            "Cezalandırıldığımızı",
+            "Sevildiğimizi",
+            "Kızdığımızı",
+            "Yalnız olduğumuzu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "anne",
+            "vurgu": "ilgi"
+          }
+        },
+        {
+          "id": "ad-t33",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde herkesin duygusuna saygı göstermeli miyiz?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece büyüklerin",
+            "Hiç gerekmez",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "saygi"
+          }
+        },
+        {
+          "id": "ad-t34",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Kızgınken hemen karar vermek doğru mudur?",
+          "dogruCevap": "Hayır, önce sakinleşmeliyiz",
+          "secenekler": [
+            "Evet, hemen bağırmalıyız",
+            "Kaçmalıyız",
+            "Hayır, önce sakinleşmeliyiz",
+            "Eşyalara vurmalıyız"
+          ],
+          "ipucu": "Sakinleşince daha iyi karar veririz!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "nefes"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ad-t35",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Sevinç duygusu ne zaman ortaya çıkar?",
+          "dogruCevap": "Güzel bir haber aldığımızda",
+          "secenekler": [
+            "Güzel bir haber aldığımızda",
+            "Uyurken",
+            "Korktuğumuzda",
+            "Üzüldüğümüzde"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-t36",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Babamız bizi sevdiğini nasıl gösterir?",
+          "dogruCevap": "Bizi korur ve ilgilenir",
+          "secenekler": [
+            "Bağırmakla",
+            "Cezalandırmakla",
+            "Bizi korur ve ilgilenir",
+            "Görmezden gelmekle"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "baba",
+            "vurgu": "sevgi"
+          }
+        },
+        {
+          "id": "ad-t37",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde gülümsemek bulaşıcı mıdır?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Sadece çocuklarda",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-t38",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Duygularımızı tanımak neden önemlidir?",
+          "dogruCevap": "Kendimizi daha iyi anlarız",
+          "secenekler": [
+            "Gereksizdir",
+            "Sadece büyükler için",
+            "Kimse anlamaz",
+            "Kendimizi daha iyi anlarız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "duygu-kartlari"
+          }
+        },
+        {
+          "id": "ad-t39",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ninemiz bize masal anlatınca ne hissederiz?",
+          "dogruCevap": "Mutluluk ve huzur",
+          "secenekler": [
+            "Üzüntü",
+            "Korku",
+            "Kızgınlık",
+            "Mutluluk ve huzur"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "nine",
+            "vurgu": "masal"
+          }
+        },
+        {
+          "id": "ad-t40",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Kardeşimizle oyuncak paylaşırken hangi duygu önemlidir?",
+          "dogruCevap": "Cömertlik",
+          "secenekler": [
+            "Cömertlik",
+            "Kızgınlık",
+            "Kıskançlık",
+            "Korku"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "oyuncak",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "ad-t41",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Üzüntümüzü annemize anlatmak doğru mudur?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gizlemeliyiz",
+            "Hayır",
+            "Sadece babaya"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-iletisim",
+            "ozellik": "paylasim"
+          }
+        },
+        {
+          "id": "ad-t42",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde herkesin duygusu değerli midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece büyüklerin",
+            "Evet",
+            "Fark etmez",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "deger"
+          }
+        },
+        {
+          "id": "ad-t43",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Erkek çocuklar üzüntü hissetmez mi?",
+          "dogruCevap": "Hayır, herkes her duyguyu hisseder",
+          "secenekler": [
+            "Duygu yoktur",
+            "Erkekler ağlamaz",
+            "Hayır, herkes her duyguyu hisseder",
+            "Evet, sadece kızlar üzülür"
+          ],
+          "ipucu": "Tüm duygular herkes için doğaldır!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "duygu-kartlari"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ad-t44",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Öfke kontrolü neden önemlidir?",
+          "dogruCevap": "Başkalarını incitmemek için",
+          "secenekler": [
+            "Başkalarını incitmemek için",
+            "Daha çok bağırmak için",
+            "Gereksizdir",
+            "Sadece okulda"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kizginlik"
+          }
+        },
+        {
+          "id": "ad-t45",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Mutlu bir anı paylaşmak aileyi nasıl etkiler?",
+          "dogruCevap": "Herkesi mutlu eder",
+          "secenekler": [
+            "Üzer",
+            "Fark etmez",
+            "Kavga çıkarır",
+            "Herkesi mutlu eder"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "aile-sevgisi",
+            "ozellik": "mutluluk"
+          }
+        },
+        {
+          "id": "ad-t46",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Heyecanlı olduğumuzda nefes almak bizi sakinleştirir mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Daha heyecanlı yapar",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "nefes"
+          }
+        },
+        {
+          "id": "ad-t47",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ailemizde sevgi göstermenin bir yolu hangisidir?",
+          "dogruCevap": "Sarılmak",
+          "secenekler": [
+            "Susmak",
+            "Sarılmak",
+            "Kavga etmek",
+            "Bağırmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sevgi"
+          }
+        },
+        {
+          "id": "ad-t48",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Korktuğumuzda bağırmak yerine ne yapmalıyız?",
+          "dogruCevap": "Ailemize söylemeliyiz",
+          "secenekler": [
+            "Gizlemeliyiz",
+            "Kaçmalıyız",
+            "Ailemize söylemeliyiz",
+            "Daha çok bağırmalıyız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "korku"
+          }
+        },
+        {
+          "id": "ad-t49",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "Temel duygulardan biri hangisidir?",
+          "dogruCevap": "Mutluluk",
+          "secenekler": [
+            "Masa",
+            "Kalem",
+            "Mutluluk",
+            "Araba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "duygu-kartlari"
+          }
+        },
+        {
+          "id": "ad-t50",
+          "kazanimKodu": "HB.2.1.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Aile ve duygularda en önemli değer hangisidir?",
+          "dogruCevap": "Sevgi ve empati",
+          "secenekler": [
+            "Sevgi ve empati",
+            "Kaba davranış",
+            "Yalan söylemek",
+            "Kıskançlık"
+          ],
+          "ipucu": "Sevgi ve empati aileyi güçlendirir!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "ad-anlatim-3"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

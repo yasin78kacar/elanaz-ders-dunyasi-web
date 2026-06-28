@@ -1,0 +1,2116 @@
+{
+  "id": "tema-1",
+  "baslik": "Türkçe — Tema 1 — Harfler",
+  "konular": [
+    {
+      "id": "harfler",
+      "baslik": "Harfler",
+      "kazanimKodu": "TUR.2.1.0",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Türkçe alfabede 29 harf vardır: a, b, c, ç, d, e, f, g, ğ, h, ı, i, j, k, l, m, n, o, ö, p, r, s, ş, t, u, ü, v, y, z. 8 tanesi sesli, 21 tanesi sessiz harftir.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "hr-anlatim-1"
+            }
+          },
+          {
+            "metin": "Sesli harfler: a, e, ı, i, o, ö, u, ü. Cümleler ve özel isimler büyük harfle başlar. Türkçeye özgü harfler: ç, ğ, ı, ö, ş, ü.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "hr-anlatim-2"
+            }
+          },
+          {
+            "metin": "Her harfin büyük ve küçük yazılışı vardır. Alfabetik sırayı bilmek sözlükte kelime aramayı kolaylaştırır. w, x, q harfleri Türkçe alfabede yoktur.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "hr-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "hr-a1",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçe alfabede kaç harf vardır?",
+          "dogruCevap": "29",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "b",
+              "c",
+              "ç",
+              "d",
+              "e",
+              "f",
+              "g",
+              "ğ",
+              "h",
+              "ı",
+              "i",
+              "j",
+              "k",
+              "l",
+              "m",
+              "n",
+              "o",
+              "ö",
+              "p",
+              "r",
+              "s",
+              "ş",
+              "t",
+              "u",
+              "ü",
+              "v",
+              "y",
+              "z"
+            ]
+          }
+        },
+        {
+          "id": "hr-a2",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçede kaç sesli harf vardır?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "e",
+              "ı",
+              "i",
+              "o",
+              "ö",
+              "u",
+              "ü"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-a3",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçede kaç sessiz harf vardır?",
+          "dogruCevap": "21",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "b",
+              "c",
+              "ç",
+              "d",
+              "f",
+              "g",
+              "ğ",
+              "h",
+              "j",
+              "k",
+              "l",
+              "m",
+              "n",
+              "p",
+              "r",
+              "s",
+              "ş",
+              "t",
+              "v",
+              "y",
+              "z"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-a4",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"a\" harfi sesli midir sessiz midir?",
+          "dogruCevap": "sesli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-a5",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"k\" harfi sesli midir sessiz midir?",
+          "dogruCevap": "sessiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "k"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-a6",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçe alfabenin ilk harfi hangisidir?",
+          "dogruCevap": "a",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "b",
+              "c"
+            ]
+          }
+        },
+        {
+          "id": "hr-a7",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçe alfabenin son harfi hangisidir?",
+          "dogruCevap": "z",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "x",
+              "y",
+              "z"
+            ]
+          }
+        },
+        {
+          "id": "hr-a8",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"ç\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "d",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ç",
+              "d",
+              "e"
+            ]
+          }
+        },
+        {
+          "id": "hr-a9",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"ğ\" harfinden önce hangi harf gelir?",
+          "dogruCevap": "g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "f",
+              "g",
+              "ğ"
+            ]
+          }
+        },
+        {
+          "id": "hr-a10",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçeye özgü harflerden biri hangisidir?",
+          "dogruCevap": "ş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ç",
+              "ğ",
+              "ı",
+              "ö",
+              "ş",
+              "ü"
+            ]
+          }
+        },
+        {
+          "id": "hr-a11",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"elma\" kelimesinin ilk harfi nedir?",
+          "dogruCevap": "e",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "elma",
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "hr-a12",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"kedi\" kelimesinin son harfi nedir?",
+          "dogruCevap": "i",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kedi",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "hr-a13",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"okul\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "okul",
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "hr-a14",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Büyük harfle yazılan \"A\" küçük harfi nedir?",
+          "dogruCevap": "a",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "harf",
+            "sahne": "buyuk-kucuk",
+            "harfler": [
+              "A",
+              "a"
+            ]
+          }
+        },
+        {
+          "id": "hr-a15",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Büyük harfle yazılan \"İ\" küçük harfi nedir?",
+          "dogruCevap": "i",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "harf",
+            "sahne": "buyuk-kucuk",
+            "harfler": [
+              "İ",
+              "i"
+            ]
+          }
+        },
+        {
+          "id": "hr-a16",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Sesli harfleri yaz (virgülle ayır)",
+          "dogruCevap": "a, e, ı, i, o, ö, u, ü",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "e",
+              "ı",
+              "i",
+              "o",
+              "ö",
+              "u",
+              "ü"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-a17",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"ö\" harfi hangi gruba girer?",
+          "dogruCevap": "sesli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ö"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-a18",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"ş\" harfi hangi gruba girer?",
+          "dogruCevap": "sessiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ş"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-a19",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Alfabede \"m\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "n",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "l",
+              "m",
+              "n"
+            ]
+          }
+        },
+        {
+          "id": "hr-a20",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Alfabede \"r\" harfinden önce hangi harf gelir?",
+          "dogruCevap": "p",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "p",
+              "r",
+              "s"
+            ]
+          }
+        },
+        {
+          "id": "hr-a21",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"araba\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "5",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "araba",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "hr-a22",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"çiçek\" kelimesinin ilk harfi nedir?",
+          "dogruCevap": "ç",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "çiçek",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "hr-a23",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçe alfabede olmayan harf hangisidir?",
+          "dogruCevap": "w",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "v",
+              "w",
+              "y"
+            ]
+          }
+        },
+        {
+          "id": "hr-a24",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçe alfabede olmayan harf hangisidir?",
+          "dogruCevap": "x",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "v",
+              "x",
+              "z"
+            ]
+          }
+        },
+        {
+          "id": "hr-a25",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"ı\" harfi sesli midir?",
+          "dogruCevap": "evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ı"
+            ],
+            "vurgu": "sesli"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet"
+          ]
+        },
+        {
+          "id": "hr-a26",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"defter\" kelimesinin son harfi nedir?",
+          "dogruCevap": "r",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "defter",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "hr-a27",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"uçak\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "uçak",
+            "nesne": "ucak"
+          }
+        },
+        {
+          "id": "hr-a28",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Özel isimler hangi harfle başlar?",
+          "dogruCevap": "büyük",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "anlatim",
+            "sahne": "hr-anlatim-2"
+          }
+        },
+        {
+          "id": "hr-a29",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Cümle hangi harfle başlar?",
+          "dogruCevap": "büyük",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "anlatim",
+            "sahne": "hr-anlatim-2"
+          }
+        },
+        {
+          "id": "hr-a30",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"ğ\" harfi tek başına hece olabilir mi?",
+          "dogruCevap": "hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ğ"
+            ],
+            "vurgu": "sessiz"
+          },
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır"
+          ]
+        },
+        {
+          "id": "hr-a31",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"anne\" kelimesinin ilk harfi nedir?",
+          "dogruCevap": "a",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "anne",
+            "nesne": "anne"
+          }
+        },
+        {
+          "id": "hr-a32",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"köpek\" kelimesinin son harfi nedir?",
+          "dogruCevap": "k",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "köpek",
+            "nesne": "kopek"
+          }
+        },
+        {
+          "id": "hr-a33",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Alfabede \"f\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "g",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "e",
+              "f",
+              "g"
+            ]
+          }
+        },
+        {
+          "id": "hr-a34",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"ü\" harfi sesli midir sessiz midir?",
+          "dogruCevap": "sesli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ü"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-a35",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"j\" harfi sesli midir sessiz midir?",
+          "dogruCevap": "sessiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "j"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-a36",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"masa\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "masa",
+            "nesne": "masa"
+          }
+        },
+        {
+          "id": "hr-a37",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçeye özgü harf sayısı kaçtır?",
+          "dogruCevap": "6",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ç",
+              "ğ",
+              "ı",
+              "ö",
+              "ş",
+              "ü"
+            ]
+          }
+        },
+        {
+          "id": "hr-a38",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"kitap\" kelimesinin ilk harfi nedir?",
+          "dogruCevap": "k",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kitap",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "hr-a39",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"gül\" kelimesinin son harfi nedir?",
+          "dogruCevap": "l",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "gül",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "hr-a40",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Alfabede \"t\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "u",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "s",
+              "t",
+              "u"
+            ]
+          }
+        },
+        {
+          "id": "hr-a41",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"çanta\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "5",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "çanta",
+            "nesne": "canta"
+          }
+        },
+        {
+          "id": "hr-a42",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"b\" harfi hangi gruba girer?",
+          "dogruCevap": "sessiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "b"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-a43",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"o\" harfi hangi gruba girer?",
+          "dogruCevap": "sesli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "o"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-a44",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"pencere\" kelimesinin ilk harfi nedir?",
+          "dogruCevap": "p",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "pencere",
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "hr-a45",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"sincap\" kelimesinin son harfi nedir?",
+          "dogruCevap": "p",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "sincap",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "hr-a46",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Türkçe alfabede \"q\" harfi var mıdır?",
+          "dogruCevap": "hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "k",
+              "q",
+              "r"
+            ]
+          },
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır"
+          ]
+        },
+        {
+          "id": "hr-a47",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"ev\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "ev",
+            "nesne": "ev"
+          }
+        },
+        {
+          "id": "hr-a48",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "Alfabede \"h\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "ı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ğ",
+              "h",
+              "ı"
+            ]
+          }
+        },
+        {
+          "id": "hr-a49",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"tavşan\" kelimesinin ilk harfi nedir?",
+          "dogruCevap": "t",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "tavşan",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "hr-a50",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "yazili",
+          "soru": "\"bilgisayar\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "10",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "bilgisayar",
+            "nesne": "okul"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "hr-t1",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçe alfabede kaç harf vardır?",
+          "dogruCevap": "29",
+          "secenekler": [
+            "26",
+            "30",
+            "28",
+            "29"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "b",
+              "c",
+              "ç",
+              "d",
+              "e",
+              "f",
+              "g",
+              "ğ",
+              "h",
+              "ı",
+              "i",
+              "j",
+              "k",
+              "l",
+              "m",
+              "n",
+              "o",
+              "ö",
+              "p",
+              "r",
+              "s",
+              "ş",
+              "t",
+              "u",
+              "ü",
+              "v",
+              "y",
+              "z"
+            ]
+          }
+        },
+        {
+          "id": "hr-t2",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçede kaç sesli harf vardır?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "8",
+            "6",
+            "10",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "e",
+              "ı",
+              "i",
+              "o",
+              "ö",
+              "u",
+              "ü"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-t3",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi sesli harftir?",
+          "dogruCevap": "ü",
+          "secenekler": [
+            "s",
+            "t",
+            "ü",
+            "k"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "k",
+              "t",
+              "ü",
+              "s"
+            ]
+          }
+        },
+        {
+          "id": "hr-t4",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi sessiz harftir?",
+          "dogruCevap": "m",
+          "secenekler": [
+            "ı",
+            "a",
+            "m",
+            "e"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "e",
+              "m",
+              "ı"
+            ]
+          }
+        },
+        {
+          "id": "hr-t5",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçe alfabenin ilk harfi hangisidir?",
+          "dogruCevap": "a",
+          "secenekler": [
+            "b",
+            "ı",
+            "a",
+            "e"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "b",
+              "c"
+            ]
+          }
+        },
+        {
+          "id": "hr-t6",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçe alfabenin son harfi hangisidir?",
+          "dogruCevap": "z",
+          "secenekler": [
+            "y",
+            "z",
+            "w",
+            "x"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "x",
+              "y",
+              "z"
+            ]
+          }
+        },
+        {
+          "id": "hr-t7",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçeye özgü harflerden hangisi doğrudur?",
+          "dogruCevap": "ğ",
+          "secenekler": [
+            "x",
+            "ğ",
+            "w",
+            "q"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ç",
+              "ğ",
+              "ı",
+              "ö",
+              "ş",
+              "ü"
+            ]
+          }
+        },
+        {
+          "id": "hr-t8",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"ç\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "d",
+          "secenekler": [
+            "c",
+            "d",
+            "e",
+            "b"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ç",
+              "d",
+              "e"
+            ]
+          }
+        },
+        {
+          "id": "hr-t9",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"elma\" kelimesinin ilk harfi hangisidir?",
+          "dogruCevap": "e",
+          "secenekler": [
+            "m",
+            "a",
+            "l",
+            "e"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "elma",
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "hr-t10",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"kedi\" kelimesinin son harfi hangisidir?",
+          "dogruCevap": "i",
+          "secenekler": [
+            "e",
+            "d",
+            "i",
+            "k"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kedi",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "hr-t11",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçe alfabede olmayan harf hangisidir?",
+          "dogruCevap": "w",
+          "secenekler": [
+            "v",
+            "w",
+            "z",
+            "y"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "v",
+              "w",
+              "y"
+            ]
+          }
+        },
+        {
+          "id": "hr-t12",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçe alfabede olmayan harf hangisidir?",
+          "dogruCevap": "x",
+          "secenekler": [
+            "ş",
+            "x",
+            "z",
+            "ç"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "v",
+              "x",
+              "z"
+            ]
+          }
+        },
+        {
+          "id": "hr-t13",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"okul\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "6",
+            "4",
+            "3",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "okul",
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "hr-t14",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Alfabede \"m\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "n",
+          "secenekler": [
+            "l",
+            "o",
+            "n",
+            "m"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "l",
+              "m",
+              "n"
+            ]
+          }
+        },
+        {
+          "id": "hr-t15",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Büyük \"A\" harfinin küçük hali hangisidir?",
+          "dogruCevap": "a",
+          "secenekler": [
+            "i",
+            "e",
+            "ı",
+            "a"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "harf",
+            "sahne": "buyuk-kucuk",
+            "harfler": [
+              "A",
+              "a"
+            ]
+          }
+        },
+        {
+          "id": "hr-t16",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"ö\" harfi hangi gruba girer?",
+          "dogruCevap": "sesli",
+          "secenekler": [
+            "yok",
+            "sesli",
+            "sessiz",
+            "özel"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ö"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-t17",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"ş\" harfi hangi gruba girer?",
+          "dogruCevap": "sessiz",
+          "secenekler": [
+            "sessiz",
+            "sesli",
+            "yok",
+            "özel"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ş"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-t18",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"araba\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "7",
+            "5",
+            "4",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "araba",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "hr-t19",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Cümleler hangi harfle başlar?",
+          "dogruCevap": "büyük",
+          "secenekler": [
+            "büyük",
+            "sesli",
+            "küçük",
+            "sessiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "anlatim",
+            "sahne": "hr-anlatim-2"
+          }
+        },
+        {
+          "id": "hr-t20",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Özel isimler hangi harfle yazılır?",
+          "dogruCevap": "büyük",
+          "secenekler": [
+            "büyük",
+            "sessiz",
+            "küçük",
+            "sesli"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "anlatim",
+            "sahne": "hr-anlatim-2"
+          }
+        },
+        {
+          "id": "hr-t21",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"ı\" harfi sesli midir?",
+          "dogruCevap": "evet",
+          "secenekler": [
+            "evet",
+            "bilinmez",
+            "hayır",
+            "bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ı"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-t22",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"ğ\" harfi tek başına hece olabilir mi?",
+          "dogruCevap": "hayır",
+          "secenekler": [
+            "hayır",
+            "bazen",
+            "evet",
+            "her zaman"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ğ"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-t23",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Alfabede \"r\" harfinden önce hangi harf gelir?",
+          "dogruCevap": "p",
+          "secenekler": [
+            "s",
+            "r",
+            "p",
+            "o"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "p",
+              "r",
+              "s"
+            ]
+          }
+        },
+        {
+          "id": "hr-t24",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"çiçek\" kelimesinin ilk harfi hangisidir?",
+          "dogruCevap": "ç",
+          "secenekler": [
+            "i",
+            "c",
+            "ç",
+            "e"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "çiçek",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "hr-t25",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçeye özgü harf sayısı kaçtır?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "8",
+            "6",
+            "5",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ç",
+              "ğ",
+              "ı",
+              "ö",
+              "ş",
+              "ü"
+            ]
+          }
+        },
+        {
+          "id": "hr-t26",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"defter\" kelimesinin son harfi hangisidir?",
+          "dogruCevap": "r",
+          "secenekler": [
+            "e",
+            "t",
+            "f",
+            "r"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "defter",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "hr-t27",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"uçak\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "3",
+            "6",
+            "5",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "uçak",
+            "nesne": "ucak"
+          }
+        },
+        {
+          "id": "hr-t28",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Alfabede \"f\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "g",
+          "secenekler": [
+            "ğ",
+            "f",
+            "e",
+            "g"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "e",
+              "f",
+              "g"
+            ]
+          }
+        },
+        {
+          "id": "hr-t29",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"anne\" kelimesinin ilk harfi hangisidir?",
+          "dogruCevap": "a",
+          "secenekler": [
+            "i",
+            "a",
+            "e",
+            "n"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "anne",
+            "nesne": "anne"
+          }
+        },
+        {
+          "id": "hr-t30",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"köpek\" kelimesinin son harfi hangisidir?",
+          "dogruCevap": "k",
+          "secenekler": [
+            "p",
+            "e",
+            "ö",
+            "k"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "köpek",
+            "nesne": "kopek"
+          }
+        },
+        {
+          "id": "hr-t31",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"j\" harfi hangi gruba girer?",
+          "dogruCevap": "sessiz",
+          "secenekler": [
+            "özel",
+            "sessiz",
+            "yabancı",
+            "sesli"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "j"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-t32",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"o\" harfi hangi gruba girer?",
+          "dogruCevap": "sesli",
+          "secenekler": [
+            "sesli",
+            "özel",
+            "yabancı",
+            "sessiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "o"
+            ],
+            "vurgu": "sesli"
+          }
+        },
+        {
+          "id": "hr-t33",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"masa\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "6",
+            "4",
+            "3",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "masa",
+            "nesne": "masa"
+          }
+        },
+        {
+          "id": "hr-t34",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Alfabede \"t\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "u",
+          "secenekler": [
+            "ü",
+            "t",
+            "ş",
+            "u"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "s",
+              "t",
+              "u"
+            ]
+          }
+        },
+        {
+          "id": "hr-t35",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"kitap\" kelimesinin ilk harfi hangisidir?",
+          "dogruCevap": "k",
+          "secenekler": [
+            "i",
+            "a",
+            "t",
+            "k"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kitap",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "hr-t36",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçe alfabede \"q\" harfi var mıdır?",
+          "dogruCevap": "hayır",
+          "secenekler": [
+            "hayır",
+            "sadece yabancı kelimelerde",
+            "evet",
+            "bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "k",
+              "q",
+              "r"
+            ]
+          }
+        },
+        {
+          "id": "hr-t37",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"ev\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "3",
+            "1",
+            "2",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "ev",
+            "nesne": "ev"
+          }
+        },
+        {
+          "id": "hr-t38",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Alfabede \"h\" harfinden sonra hangi harf gelir?",
+          "dogruCevap": "ı",
+          "secenekler": [
+            "h",
+            "ğ",
+            "i",
+            "ı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ğ",
+              "h",
+              "ı"
+            ]
+          }
+        },
+        {
+          "id": "hr-t39",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"çanta\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "7",
+            "6",
+            "4",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "çanta",
+            "nesne": "canta"
+          }
+        },
+        {
+          "id": "hr-t40",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"b\" harfi hangi gruba girer?",
+          "dogruCevap": "sessiz",
+          "secenekler": [
+            "özel",
+            "sesli",
+            "nötr",
+            "sessiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "b"
+            ],
+            "vurgu": "sessiz"
+          }
+        },
+        {
+          "id": "hr-t41",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"pencere\" kelimesinin ilk harfi hangisidir?",
+          "dogruCevap": "p",
+          "secenekler": [
+            "e",
+            "p",
+            "c",
+            "n"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "pencere",
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "hr-t42",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"sincap\" kelimesinin son harfi hangisidir?",
+          "dogruCevap": "p",
+          "secenekler": [
+            "n",
+            "p",
+            "a",
+            "s"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "sincap",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "hr-t43",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"tavşan\" kelimesinin ilk harfi hangisidir?",
+          "dogruCevap": "t",
+          "secenekler": [
+            "t",
+            "a",
+            "v",
+            "ş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "tavşan",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "hr-t44",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"bilgisayar\" kelimesinde kaç harf vardır?",
+          "dogruCevap": "10",
+          "secenekler": [
+            "8",
+            "10",
+            "9",
+            "11"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "bilgisayar",
+            "nesne": "okul"
+          }
+        },
+        {
+          "id": "hr-t45",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki harflerden hangisi Türkçeye özgüdür?",
+          "dogruCevap": "ı",
+          "secenekler": [
+            "d",
+            "a",
+            "ı",
+            "b"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ç",
+              "ğ",
+              "ı",
+              "ö",
+              "ş",
+              "ü"
+            ]
+          }
+        },
+        {
+          "id": "hr-t46",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Sesli harf sayısı ile sessiz harf sayısının toplamı kaçtır?",
+          "dogruCevap": "29",
+          "secenekler": [
+            "27",
+            "8",
+            "21",
+            "29"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "b",
+              "c",
+              "ç",
+              "d",
+              "e",
+              "f",
+              "g",
+              "ğ",
+              "h",
+              "ı",
+              "i",
+              "j",
+              "k",
+              "l",
+              "m",
+              "n",
+              "o",
+              "ö",
+              "p",
+              "r",
+              "s",
+              "ş",
+              "t",
+              "u",
+              "ü",
+              "v",
+              "y",
+              "z"
+            ]
+          }
+        },
+        {
+          "id": "hr-t47",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "\"gül\" kelimesinin son harfi hangisidir?",
+          "dogruCevap": "l",
+          "secenekler": [
+            "u",
+            "ü",
+            "g",
+            "l"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "gül",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "hr-t48",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Alfabede \"ğ\" harfinden önce hangi harf gelir?",
+          "dogruCevap": "g",
+          "secenekler": [
+            "g",
+            "h",
+            "f",
+            "ğ"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "f",
+              "g",
+              "ğ"
+            ]
+          }
+        },
+        {
+          "id": "hr-t49",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi harf hem sesli hem sessiz değildir — yani sessiz harftir?",
+          "dogruCevap": "r",
+          "secenekler": [
+            "r",
+            "ı",
+            "e",
+            "a"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "a",
+              "e",
+              "r",
+              "ı"
+            ]
+          }
+        },
+        {
+          "id": "hr-t50",
+          "kazanimKodu": "TUR.2.1.0",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçe alfabede kaç sessiz harf vardır?",
+          "dogruCevap": "21",
+          "secenekler": [
+            "21",
+            "19",
+            "20",
+            "22"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "b",
+              "c",
+              "ç",
+              "d",
+              "f",
+              "g",
+              "ğ",
+              "h",
+              "j",
+              "k",
+              "l",
+              "m",
+              "n",
+              "p",
+              "r",
+              "s",
+              "ş",
+              "t",
+              "v",
+              "y",
+              "z"
+            ],
+            "vurgu": "sessiz"
+          }
+        }
+      ]
+    }
+  ]
+}

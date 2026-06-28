@@ -1,0 +1,1933 @@
+{
+  "id": "tema-9",
+  "baslik": "Fen Bilimleri — Tema 9 — Kuvvet ve Hareket",
+  "konular": [
+    {
+      "id": "kuvvet-ve-hareket",
+      "baslik": "Kuvvet ve Hareket",
+      "kazanimKodu": "FEN.2.2.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "İleriye hareket için itme, kendimize doğru hareket için çekme kuvveti uygularız. Oyuncak kamyonu itince ilerler, çekince bize doğru gelir.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "kh-anlatim-1"
+            }
+          },
+          {
+            "metin": "Bisikletin pedallarını çevirdikçe hızlanır. Fren yapınca yavaşlar ve durur. Kuvvet hareketlileri de yavaşlatıp durdurabilir!",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "kh-anlatim-2"
+            }
+          },
+          {
+            "metin": "Topa yan dokununca yön değiştirir. Hareket eden cisme kuvvet uyguladığımızda yönünü değiştirebiliriz.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "kh-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "kv-a1",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Market arabasını ileri hareket ettirmek için ......... kuvveti uygularız.",
+          "dogruCevap": "itme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "market-arabasi"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a2",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Çekmeceyi açmak için ......... kuvveti kullanırız.",
+          "dogruCevap": "çekme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cekmece"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a3",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Bisikleti durdurmak için frene bastığımızda bisiklet ......... yapar.",
+          "dogruCevap": "yavaşlama",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bisiklet"
+          },
+          "alternatifCevaplar": [
+            "durma",
+            "yavaşlar",
+            "durur",
+            "yavaşlama/durma"
+          ],
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a4",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Salıncağı ileriye göndermek için arkasından itme kuvveti uygularız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "salincak"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a5",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Halat çekme oyununda çocuklar halatı ileri doğru iterler.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "halat"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a6",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Pinpon topuna raketimizle vurduğumuzda topun ......... değiştiririz.",
+          "dogruCevap": "yönünü",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "raket"
+          },
+          "alternatifCevaplar": [
+            "yön"
+          ],
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a7",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Lunaparktaki dönme dolabın yaptığı hareket ......... hareketidir.",
+          "dogruCevap": "dönme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "donme-dolap"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a8",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Bebek arabasını kendimize doğru yaklaştırmak istiyorsak onu ......... .",
+          "dogruCevap": "çekeriz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bebek-arabasi"
+          },
+          "alternatifCevaplar": [
+            "çekme"
+          ],
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a9",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Rüzgar, rüzgargülüne çarparak ona dönme hareketi yaptırır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a10",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Yerde duran bir top biz kuvvet uygulamadan kendi kendine zıplayabilir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "top"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a11",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Yokuş aşağı serbest bırakılan oyuncak araba gittikçe ......... .",
+          "dogruCevap": "hızlanır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "araba"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a12",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Zile basarken düğmeye ......... kuvveti uygularız.",
+          "dogruCevap": "itme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "zil"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a13",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Fişi prizden çıkarmak için ......... kuvveti uygularız.",
+          "dogruCevap": "çekme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fis"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a14",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Okul otobüsü okula yaklaştığında hızlanma hareketi yapar.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "otobus"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a15",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Uçurtmanın ipini kendimize doğru ......... .",
+          "dogruCevap": "çekeriz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ucurtma"
+          },
+          "alternatifCevaplar": [
+            "çekme"
+          ],
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a16",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Çekiçle çivi çakarken çiviye itme kuvveti uygularız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cekic"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a17",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Çorabımızı giyerken onu yukarıya doğru ......... .",
+          "dogruCevap": "çekeriz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "corap"
+          },
+          "alternatifCevaplar": [
+            "çekme"
+          ],
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a18",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Mıknatıs demir ataşlara ......... kuvveti uygular.",
+          "dogruCevap": "çekme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "miknatis"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a19",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Gelen topu karşıya gönderen çocuk topa ......... kuvveti uygulamıştır.",
+          "dogruCevap": "itme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "voleybol"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a20",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Duvara çarpıp geri gelen top ......... değiştirmiştir.",
+          "dogruCevap": "yön",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "top"
+          },
+          "alternatifCevaplar": [
+            "yönünü"
+          ],
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a21",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Duvar saatindeki yelkovan ve akrep sürekli ......... hareketi yapar.",
+          "dogruCevap": "dönme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "saat"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a22",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Gözlüğü takarken yüzümüze doğru itme kuvvetiyle yerleştiririz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gozluk"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a23",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Tekerlekli valizi arkamızdan götürürken ona ......... kuvveti uygularız.",
+          "dogruCevap": "çekme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "valiz"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a24",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Fırıldağa üflediğimizde fırıldak yavaşlar.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "firildak"
+          },
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a25",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Trafik lambası yeşil yandığında arabalar ......... yapmaya başlar.",
+          "dogruCevap": "hızlanma",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "trafik-isigi"
+          },
+          "alternatifCevaplar": [
+            "hızlanır"
+          ],
+          "kazanim": "FEN.2.2.2"
+        },
+        {
+          "id": "kv-a26",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "İtme kuvveti nesneyi uzağa götürür.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "market-arabasi"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a27",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Çekme kuvveti nesneyi kendimize doğru getirir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "halat"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a28",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Fren yapmak yavaşlatma kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bisiklet"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a29",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Topa vurmak yön değiştirir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "top"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a30",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Mıknatıs demir çekmek için kuvvet uygular.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "miknatis"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a31",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Salıncağı itince hareket eder.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "salincak"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a32",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Uçurtmayı rüzgar iter.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ucurtma"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a33",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Çekiç çivi çakmak için kuvvet kullanır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cekic"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a34",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Otobüs motoru itme kuvveti uygular.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "otobus"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a35",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Raketle topa vurmak kuvvet uygular.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "raket"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a36",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Bebek arabasını itmek itme kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bebek-arabasi"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a37",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Çekmeceyi çekmek çekme kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cekmece"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a38",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Kuvvet hareketi başlatabilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-1"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a39",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Kuvvet hareketi durdurabilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-2"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a40",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Kuvvet yön değiştirebilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-3"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a41",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Dönme dolap dönerken kuvvet uygulanır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "donme-dolap"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a42",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Rüzgargülü rüzgar kuvvetiyle döner.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a43",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Fişi çekmek çekme kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fis"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a44",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Kapıyı itmek itme kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "demir-kapi"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a45",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Bisiklet pedalı çevirmek kuvvet uygular.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bisiklet"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a46",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Top yuvarlanırken sürtünme etkiler.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "top"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a47",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Kuvvet olmadan hareket başlamaz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-1"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a48",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Yerçekimi bizi aşağı çeker.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a49",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Kuvvet günlük hayatta sık kullanılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-1"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "kv-a50",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "yazili",
+          "soru": "Ağır kutuyu kaldırmak kuvvet gerektirir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kutu"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        }
+      ],
+      "test": [
+        {
+          "id": "kv-t1",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ayşe sepeti kendinden uzaklaştırarak hareket ettirdi. Hangi kuvveti uyguladı?",
+          "dogruCevap": "İtme",
+          "secenekler": [
+            "İtme",
+            "Döndürme",
+            "Yavaşlatma",
+            "Çekme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "market-arabasi"
+          }
+        },
+        {
+          "id": "kv-t2",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf fişi prizden çıkardı. Hangi kuvveti uyguladı?",
+          "dogruCevap": "Çekme",
+          "secenekler": [
+            "Dönme",
+            "Hızlandırma",
+            "İtme",
+            "Çekme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fis"
+          }
+        },
+        {
+          "id": "kv-t3",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yokuş aşağı giden bisiklet kendi kendine hangi hareketi yapar?",
+          "dogruCevap": "Hızlanma",
+          "secenekler": [
+            "Durma",
+            "Yavaşlama",
+            "Hızlanma",
+            "Dönme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bisiklet"
+          }
+        },
+        {
+          "id": "kv-t4",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şoför frenine basarak hangi hareketi yaptı?",
+          "dogruCevap": "Yavaşlama ve durma",
+          "secenekler": [
+            "Hızlanma",
+            "Yön değiştirme",
+            "Yavaşlama ve durma",
+            "Dönme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "kv-t5",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Can'ın topu çembere çarpıp geri döndü. Çemberle çarpışınca ne oldu?",
+          "dogruCevap": "Yön değiştirdi",
+          "secenekler": [
+            "Yavaşladı",
+            "Yön değiştirdi",
+            "Hızlandı",
+            "Döndü"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "basketbol"
+          }
+        },
+        {
+          "id": "kv-t6",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Masadaki kitabı kendimize yaklaştırmak için ne yapmalıyız?",
+          "dogruCevap": "Çekmeliyiz",
+          "secenekler": [
+            "İtmeliyiz",
+            "Çekmeliyiz",
+            "Döndürmeliyiz",
+            "Durdurmalıyız"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "kv-t7",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hande salıncağı ileriye gönderiyor. Ne uyguluyor?",
+          "dogruCevap": "İtme kuvveti",
+          "secenekler": [
+            "Çekme kuvveti",
+            "Durdurucu kuvvet",
+            "Döndürme kuvveti",
+            "İtme kuvveti"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "salincak"
+          }
+        },
+        {
+          "id": "kv-t8",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ali uçurtmanın uçmaması için ipe hangi kuvveti uyguluyor?",
+          "dogruCevap": "Çekme",
+          "secenekler": [
+            "Döndürme",
+            "İtme",
+            "Yavaşlatma",
+            "Çekme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ucurtma"
+          }
+        },
+        {
+          "id": "kv-t9",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Virajlı yolda okul servisi ne yapmak zorundadır?",
+          "dogruCevap": "Yön değiştirme",
+          "secenekler": [
+            "Çekme",
+            "Yön değiştirme",
+            "Dönme",
+            "Hızlanma"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "otobus"
+          }
+        },
+        {
+          "id": "kv-t10",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Direksiyonu sağa sola çevirdiğimizde direksiyonun hareketi nedir?",
+          "dogruCevap": "Dönme",
+          "secenekler": [
+            "Çekme",
+            "İtme",
+            "Hızlanma",
+            "Dönme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "direksiyon"
+          }
+        },
+        {
+          "id": "kv-t11",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Top havaya fırlatılınca en tepeye ulaşana kadar nasıl hareket eder?",
+          "dogruCevap": "Giderek yavaşlar",
+          "secenekler": [
+            "Yön değiştirir",
+            "Döner",
+            "Giderek hızlanır",
+            "Giderek yavaşlar"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "top"
+          }
+        },
+        {
+          "id": "kv-t12",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kaleci Mehmet topu elleriyle tuttu. Topun hareketini ne yaptı?",
+          "dogruCevap": "Durdurdu",
+          "secenekler": [
+            "Hızlandırdı",
+            "Yön değiştirdi",
+            "Döndürdü",
+            "Durdurdu"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kaleci"
+          }
+        },
+        {
+          "id": "kv-t13",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Rüzgargülünün hareketi nedir?",
+          "dogruCevap": "Dönme",
+          "secenekler": [
+            "Dönme",
+            "Çekme",
+            "Yavaşlama",
+            "Hızlanma"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          }
+        },
+        {
+          "id": "kv-t14",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Montumuzun fermuarını kapatmak için yukarı doğru ne yaparız?",
+          "dogruCevap": "Çekeriz",
+          "secenekler": [
+            "İteriz",
+            "Çekeriz",
+            "Döndürürüz",
+            "Sıkıştırırız"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "mont"
+          }
+        },
+        {
+          "id": "kv-t15",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Fatma buzdolabı kapağını açtı. Kapağa hangi kuvveti uyguladı?",
+          "dogruCevap": "Çekme",
+          "secenekler": [
+            "İtme",
+            "Dönme",
+            "Çekme",
+            "Yavaşlatma"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "buzdolabi"
+          }
+        },
+        {
+          "id": "kv-t16",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Limona sıkarken hangi kuvveti uygularız?",
+          "dogruCevap": "İtme (Bastırma)",
+          "secenekler": [
+            "Döndürme",
+            "İtme (Bastırma)",
+            "Hızlandırma",
+            "Çekme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "limon"
+          }
+        },
+        {
+          "id": "kv-t17",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şemsiyeyi açarken sapı yukarı iteriz. Hangi kuvveti kullanırız?",
+          "dogruCevap": "İtme",
+          "secenekler": [
+            "İtme",
+            "Çekme",
+            "Durdurma",
+            "Yavaşlatma"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "semsiye"
+          }
+        },
+        {
+          "id": "kv-t18",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Dalından kopan yaprak yere inerken hangi hareketi yapar?",
+          "dogruCevap": "Hızlanma",
+          "secenekler": [
+            "Hızlanma",
+            "Yukarı yön değiştirme",
+            "Çekme",
+            "Durma"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yaprak"
+          }
+        },
+        {
+          "id": "kv-t19",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ali masayı duvara doğru uzaklaştırmak için ne uygular?",
+          "dogruCevap": "İtme",
+          "secenekler": [
+            "İtme",
+            "Çekme",
+            "Dönme",
+            "Sallama"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "masa"
+          }
+        },
+        {
+          "id": "kv-t20",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Süpürgeyi hem ileri ... hem geri ... . Boşluklara ne gelir?",
+          "dogruCevap": "İter - Çeker",
+          "secenekler": [
+            "İter - Çeker",
+            "Çeker - İter",
+            "İter - Döndürür",
+            "Döndürür - İter"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "supurge"
+          }
+        },
+        {
+          "id": "kv-t21",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bağcıkları sıkıca bağlamak için ipleri kendimize doğru ne yaparız?",
+          "dogruCevap": "Çekeriz",
+          "secenekler": [
+            "Yavaşlatırız",
+            "Çekeriz",
+            "Döndürürüz",
+            "İteriz"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ayakkabi"
+          }
+        },
+        {
+          "id": "kv-t22",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Pili biten treni hareket ettirmek için parmağımızla hangi kuvveti uygularız?",
+          "dogruCevap": "İtme",
+          "secenekler": [
+            "İtme",
+            "Durdurma",
+            "Dönme",
+            "Çekme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "tren"
+          }
+        },
+        {
+          "id": "kv-t23",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Masa tenisinde top masaya çarptığında ne yapar?",
+          "dogruCevap": "Yön değiştirir",
+          "secenekler": [
+            "Durur",
+            "Yavaşlar",
+            "Yön değiştirir",
+            "Döner"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "masa-tenisi"
+          }
+        },
+        {
+          "id": "kv-t24",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Küreği toprağa batıran Zeynep, küreğe ayağıyla hangi kuvveti uygular?",
+          "dogruCevap": "İtme",
+          "secenekler": [
+            "Yavaşlatma",
+            "Döndürme",
+            "İtme",
+            "Çekme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kurek"
+          }
+        },
+        {
+          "id": "kv-t25",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Marangoz testereyi ileri iter ve kendine çeker. Hangi kuvvetleri kullanmış olur?",
+          "dogruCevap": "İtme ve çekme",
+          "secenekler": [
+            "Sadece itme",
+            "Yalnızca döndürme",
+            "İtme ve çekme",
+            "Sadece çekme"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.2.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "testere"
+          }
+        },
+        {
+          "id": "kv-t26",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "İtme kuvveti nesneyi uzağa götürür.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "market-arabasi"
+          }
+        },
+        {
+          "id": "kv-t27",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çekme kuvveti nesneyi kendimize doğru getirir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "halat"
+          }
+        },
+        {
+          "id": "kv-t28",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Fren yapmak yavaşlatma kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bisiklet"
+          }
+        },
+        {
+          "id": "kv-t29",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Topa vurmak yön değiştirir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "top"
+          }
+        },
+        {
+          "id": "kv-t30",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Mıknatıs demir çekmek için kuvvet uygular.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Yanlış",
+            "Bazen",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "miknatis"
+          }
+        },
+        {
+          "id": "kv-t31",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Salıncağı itince hareket eder.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "salincak"
+          }
+        },
+        {
+          "id": "kv-t32",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Uçurtmayı rüzgar iter.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ucurtma"
+          }
+        },
+        {
+          "id": "kv-t33",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çekiç çivi çakmak için kuvvet kullanır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Hiçbiri",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cekic"
+          }
+        },
+        {
+          "id": "kv-t34",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Otobüs motoru itme kuvveti uygular.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Yanlış",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "otobus"
+          }
+        },
+        {
+          "id": "kv-t35",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Raketle topa vurmak kuvvet uygular.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "raket"
+          }
+        },
+        {
+          "id": "kv-t36",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bebek arabasını itmek itme kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bebek-arabasi"
+          }
+        },
+        {
+          "id": "kv-t37",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çekmeceyi çekmek çekme kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cekmece"
+          }
+        },
+        {
+          "id": "kv-t38",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kuvvet hareketi başlatabilir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Bazen",
+            "Yanlış",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-1"
+          }
+        },
+        {
+          "id": "kv-t39",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kuvvet hareketi durdurabilir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Yanlış",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-2"
+          }
+        },
+        {
+          "id": "kv-t40",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kuvvet yön değiştirebilir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-3"
+          }
+        },
+        {
+          "id": "kv-t41",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Dönme dolap dönerken kuvvet uygulanır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hiçbiri",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "donme-dolap"
+          }
+        },
+        {
+          "id": "kv-t42",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Rüzgargülü rüzgar kuvvetiyle döner.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Hiçbiri",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          }
+        },
+        {
+          "id": "kv-t43",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Fişi çekmek çekme kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fis"
+          }
+        },
+        {
+          "id": "kv-t44",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kapıyı itmek itme kuvvetidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "demir-kapi"
+          }
+        },
+        {
+          "id": "kv-t45",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bisiklet pedalı çevirmek kuvvet uygular.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bisiklet"
+          }
+        },
+        {
+          "id": "kv-t46",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Top yuvarlanırken sürtünme etkiler.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "top"
+          }
+        },
+        {
+          "id": "kv-t47",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kuvvet olmadan hareket başlamaz.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-1"
+          }
+        },
+        {
+          "id": "kv-t48",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yerçekimi bizi aşağı çeker.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          }
+        },
+        {
+          "id": "kv-t49",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kuvvet günlük hayatta sık kullanılır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "kh-anlatim-1"
+          }
+        },
+        {
+          "id": "kv-t50",
+          "kazanimKodu": "FEN.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Kuvvet olmadan top kendiliğinden hareket eder mi?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Sadece rüzgarda",
+            "Evet",
+            "Hayır",
+            "Her zaman"
+          ],
+          "ipucu": "Hareket başlatmak için kuvvet gerekir!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kutu"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

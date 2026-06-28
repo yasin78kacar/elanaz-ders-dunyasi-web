@@ -1,0 +1,1868 @@
+{
+  "id": "tema-3",
+  "baslik": "Türkçe — Tema 3 — Kelime Yazma",
+  "konular": [
+    {
+      "id": "kelime-yazma",
+      "baslik": "Kelime Yazma",
+      "kazanimKodu": "TUR.2.1.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Yazmak düşüncelerimizi başkalarıyla paylaşmanın harika bir yoludur! İyi bir cümle kurmak için özne + yüklem gerekir. \"Ali koştu.\" → Kısa ama tam!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "yz-anlatim-1"
+            }
+          },
+          {
+            "metin": "PARAGRAF, aynı konuyu anlatan cümleler topluluğudur. Her paragraf bir ana fikir içerir. Paragraf girintili başlar!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "yz-anlatim-2"
+            }
+          },
+          {
+            "metin": "Yaratıcı yazmada hayal gücümüzü kullanırız! Hikâye yazarken: Kim? Nerede? Ne yaptı? Ne oldu? sorularını cevaplarız.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "yz-anlatim-3"
+            }
+          },
+          {
+            "metin": "İSİM: Varlıkların adıdır. Canlı (insan, hayvan, bitki) ve cansız (masa, kalem, taş) her şeyin ismi vardır. Özel isimler büyük harfle, cins isimler küçük harfle yazılır.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sdb-anlatim-1"
+            }
+          },
+          {
+            "metin": "SIFAT: İsimleri niteleyen veya belirten sözcüklerdir. \"Büyük ev, kırmızı araba, üç kalem\" — büyük, kırmızı, üç birer sıfattır. FİİL: İş, oluş ve durumu bildiren sözcüklerdir. \"koşmak, uyumak, düşünmek\"",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sdb-anlatim-2"
+            }
+          },
+          {
+            "metin": "ZAMİR: İsimlerin yerini tutan sözcüklerdir. Ben, sen, o, biz, siz, onlar — kişi zamirleridir. \"Ali geldi. O çok mutluydu.\" — O = Ali",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sdb-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ky-a1",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "\"Kedi\" sözcüğüyle bir cümle kur.",
+          "dogruCevap": "Kedi uyuyor. / Kedi süt içti.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kedi",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "ky-a2",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "\"Bahçe, çiçek, güzel\" sözcüklerini kullanarak cümle kur.",
+          "dogruCevap": "Bahçedeki çiçekler çok güzel.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cicekli-bahce",
+            "nesne": "bahce"
+          }
+        },
+        {
+          "id": "ky-a3",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Şu cümleyi tamamla: \"Sabah uyandığımda ___\"",
+          "dogruCevap": "Sabah uyandığımda güneş parlıyordu.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sabah",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "ky-a4",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "İki cümleyi birleştir: \"Hava soğuktu. Palto giydim.\"",
+          "dogruCevap": "Hava soğuk olduğu için palto giydim.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "palto-giyen-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a5",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "\"Mutlu\" sözcüğüyle bir cümle kur.",
+          "dogruCevap": "Bugün çok mutluyum.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gulen-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a6",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Paragraf mı, cümle mi? \"Bugün okula gittim.\"",
+          "dogruCevap": "Cümle",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Bugün okula gittim.",
+            "cumleTuru": "Cümle"
+          }
+        },
+        {
+          "id": "ky-a7",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Şu cümleyi genişlet: \"Köpek koştu.\"",
+          "dogruCevap": "Küçük köpek bahçede hızla koştu.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kosen-kopek",
+            "nesne": "kopek"
+          }
+        },
+        {
+          "id": "ky-a8",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Resmi tarif eden bir cümle yaz:",
+          "dogruCevap": "Yağmurda şemsiye tutan çocuk ıslanmıyor.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yagmurda-semsiye",
+            "nesne": "yagmur"
+          }
+        },
+        {
+          "id": "ky-a9",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "\"Çünkü\" bağlacını kullanarak cümle kur.",
+          "dogruCevap": "Uyudum çünkü çok yorgundum.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "uyuyan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a10",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Şu paragrafın ana fikrini bul: \"Kitaplar çok yararlıdır. Yeni şeyler öğretirir. Hayal dünyamızı genişletir.\"",
+          "dogruCevap": "Kitapların yararları",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kitap-yigini",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "ky-a11",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Eksik kelimeyi ekle: \"Ayşe ___ bahçede oynadı.\"",
+          "dogruCevap": "Ayşe arkadaşıyla bahçede oynadı.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "oynayan-cocuklar",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a12",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "\"Ama\" bağlacını kullanarak iki cümle birleştir: \"Yağmur yağıyordu. Dışarı çıktım.\"",
+          "dogruCevap": "Yağmur yağıyordu ama dışarı çıktım.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yagmurda-cocuk",
+            "nesne": "yagmur"
+          }
+        },
+        {
+          "id": "ky-a13",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Sıfat ekle: \"Araba geçti.\"",
+          "dogruCevap": "Kırmızı araba hızla geçti.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "araba",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "ky-a14",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Hikâyenin başlangıcını yaz: \"Bir gün ormanda ___\"",
+          "dogruCevap": "Bir gün ormanda küçük bir tilki yolunu kaybetti.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "orman",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ky-a15",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "\"Önce, sonra, en son\" kelimelerini kullanarak sıralı cümleler kur.",
+          "dogruCevap": "Önce uyandım, sonra yıkandım, en son kahvaltı yaptım.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sabah-rutini",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a16",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Paragrafın hangi cümlesi ana fikirdir? \"Sağlıklı olmak önemlidir. Her gün spor yapmalıyız. Sebze yemek de gerekir.\"",
+          "dogruCevap": "Sağlıklı olmak önemlidir.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "saglikli-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a17",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Resmi anlatan 2 cümle yaz:",
+          "dogruCevap": "Çocuklar denizde oynuyor. Dalgalar onlara vuruyor.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "denizde-oyun",
+            "nesne": "deniz"
+          }
+        },
+        {
+          "id": "ky-a18",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Zıt anlamlı sözcük kullanarak cümle çifti oluştur.",
+          "dogruCevap": "Hava bugün sıcak. / Hava dün soğuktu.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sicak-soguk",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "ky-a19",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "\"Ve\" bağlacıyla iki cümle birleştir: \"Güneş parladı. Çiçekler açtı.\"",
+          "dogruCevap": "Güneş parladı ve çiçekler açtı.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gunesli-cicek",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "ky-a20",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Hikâyeye uygun bir başlık bul: \"Küçük kedi yolunu kaybetti. Onu bir çocuk buldu ve eve götürdü.\"",
+          "dogruCevap": "\"Kayıp Kedi\" veya \"İyi Kalpli Çocuk\"",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kedi-cocuk",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "ky-a21",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Eksik özneyi ekle: \"___ parkta oyun oynuyor.\"",
+          "dogruCevap": "Çocuklar parkta oyun oynuyor.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "park",
+            "nesne": "park"
+          }
+        },
+        {
+          "id": "ky-a22",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "\"Güzel bir gün\" konusunda 2 cümle yaz.",
+          "dogruCevap": "Bugün hava çok güzel. Güneş parlıyor, kuşlar ötüyor.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "guzel-gun",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "ky-a23",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Cümleyi soru haline getir: \"Ali okula gitti.\"",
+          "dogruCevap": "Ali okula gitti mi?",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "cumle",
+            "metin": "Ali okula gitti mi?",
+            "cumleTuru": "Soru"
+          }
+        },
+        {
+          "id": "ky-a24",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Hikâyenin sonunu tamamla: \"Mehmet parkta bir cüzdan buldu. İçinde para vardı. Mehmet ___\"",
+          "dogruCevap": "Mehmet cüzdanı karakola götürdü.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cuzdan-bulan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a25",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "yazili",
+          "soru": "Sevdiğin bir şey hakkında 3 cümle yaz.",
+          "dogruCevap": "Kitapları seviyorum. Her gün okuyorum. Harika maceralar yaşıyorum.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sevilen-seyler",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "ky-a26",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Kalem\" hangi tür sözcüktür?",
+          "dogruCevap": "İsim",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kalem",
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "ky-a27",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Büyük\" hangi tür sözcüktür?",
+          "dogruCevap": "Sıfat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "buyuk-kucuk-karsilastirma",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "ky-a28",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Koşmak\" hangi tür sözcüktür?",
+          "dogruCevap": "Fiil",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kosen-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a29",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Ben\" hangi tür sözcüktür?",
+          "dogruCevap": "Zamir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kendini-gosteren-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a30",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Kırmızı araba\" cümlesinde sıfat hangisi?",
+          "dogruCevap": "Kırmızı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "araba",
+            "nesne": "araba",
+            "vurgu": "kirmizi"
+          }
+        },
+        {
+          "id": "ky-a31",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "Cümlede fiili bul: \"Ayşe hızla koştu.\"",
+          "dogruCevap": "koştu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kosen-kiz",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a32",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Ankara\" özel isim mi cins isim mi?",
+          "dogruCevap": "Özel isim",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "Ankara",
+            "nesne": "ankara"
+          }
+        },
+        {
+          "id": "ky-a33",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"masa\" özel isim mi cins isim mi?",
+          "dogruCevap": "Cins isim",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "masa",
+            "nesne": "masa"
+          }
+        },
+        {
+          "id": "ky-a34",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"O çok akıllı.\" cümlesinde \"O\" neyin yerini tutuyor?",
+          "dogruCevap": "Bir kişinin (ismin)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "zamir-gosterimi",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a35",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Üç kedi\" cümlesinde sıfat hangisi?",
+          "dogruCevap": "Üç",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kedi",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "ky-a36",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "Fiil bul: \"Çocuklar bahçede oynadı.\"",
+          "dogruCevap": "oynadı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "oynayan-cocuklar",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a37",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Biz\" hangi tür sözcüktür?",
+          "dogruCevap": "Zamir (kişi zamiri)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "grup-gosteren-zamir",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a38",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Küçük sarı çiçek\" cümlesinde kaç sıfat var?",
+          "dogruCevap": "2 (küçük, sarı)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "çiçek",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "ky-a39",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Ali\" özel isim mi?",
+          "dogruCevap": "Evet, büyük harfle yazılır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ali"
+            ]
+          }
+        },
+        {
+          "id": "ky-a40",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "Cümledeki isimleri bul: \"Kedi bahçede uyudu.\"",
+          "dogruCevap": "Kedi, bahçe",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kedi",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "ky-a41",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Güzel\" hangi tür sözcük?",
+          "dogruCevap": "Sıfat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "guzel-manzara",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "ky-a42",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Onlar okula gitti.\" cümlesinde zamir hangisi?",
+          "dogruCevap": "Onlar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "okula-giden-cocuklar",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a43",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "Fiil bul: \"Güneş battı.\"",
+          "dogruCevap": "battı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gunbatimi",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "ky-a44",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Siz nereye gidiyorsunuz?\" cümlesinde zamir hangisi?",
+          "dogruCevap": "Siz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "soru-soran-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a45",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Mavi defter\" cümlesinde isim ve sıfat hangisi?",
+          "dogruCevap": "İsim: defter, Sıfat: mavi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "defter",
+            "nesne": "kitap",
+            "vurgu": "mavi"
+          }
+        },
+        {
+          "id": "ky-a46",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"İstanbul\" özel isim mi cins isim mi?",
+          "dogruCevap": "Özel isim",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "İstanbul",
+            "nesne": "istanbul"
+          }
+        },
+        {
+          "id": "ky-a47",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "Cümleyi fiille tamamla: \"Çocuklar parkta ___\"",
+          "dogruCevap": "oynadı / koştu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "park",
+            "nesne": "park"
+          }
+        },
+        {
+          "id": "ky-a48",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Ben eve gidiyorum.\" cümlesinde \"ben\" nedir?",
+          "dogruCevap": "Kişi zamiri",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "eve-giden-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-a49",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "Sıfat ekle: \"___ kitap okudum.\"",
+          "dogruCevap": "Kalın bir kitap okudum. / İnce kırmızı kitap okudum.",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kitap",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "ky-a50",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "yazili",
+          "soru": "\"Kedi, köpek ve kuş\" listesinde sözcüklerin türü nedir?",
+          "dogruCevap": "Hepsi isim",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "uc-hayvan",
+            "nesne": "kedi"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ky-t1",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi tam bir cümledir?",
+          "dogruCevap": "Ali okula gitti",
+          "secenekler": [
+            "Ali okula gitti",
+            "Hızlı koşan",
+            "Mavi gökyüzü",
+            "Güzel çiçek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          }
+        },
+        {
+          "id": "ky-t2",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Kedi süt içti. Kedi mutlu oldu.\" cümlelerini \"ve\" ile birleştir.",
+          "dogruCevap": "Kedi süt içti ve mutlu oldu",
+          "secenekler": [
+            "Kedi süt içti, mutlu oldu",
+            "Kedi mutlu süt içti",
+            "Kedi ve süt içti",
+            "Kedi süt içti ve mutlu oldu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sut-icen-kedi",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "ky-t3",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Paragraf hangi özelliği taşır?",
+          "dogruCevap": "Aynı konudaki cümleler topluluğudur",
+          "secenekler": [
+            "Aynı konudaki cümleler topluluğudur",
+            "Her zaman 5 cümle içerir",
+            "Tek cümleden oluşur",
+            "Şiir gibi yazılır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "paragraf-yapisi",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "ky-t4",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi bağlaç neden-sonuç ilişkisi kurar?",
+          "dogruCevap": "çünkü",
+          "secenekler": [
+            "ile",
+            "çünkü",
+            "ve",
+            "ama"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "ve",
+              "ama",
+              "çünkü",
+              "ile"
+            ]
+          }
+        },
+        {
+          "id": "ky-t5",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Hava soğuktu ___ palto giydim.\" Boşluğa hangi bağlaç gelir?",
+          "dogruCevap": "çünkü",
+          "secenekler": [
+            "veya",
+            "ama",
+            "ve",
+            "çünkü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "palto-giyen-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-t6",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hikâye yazarken hangi sorular sorulur?",
+          "dogruCevap": "Kim, nerede, ne yaptı",
+          "secenekler": [
+            "Neden, nasıl, kim",
+            "Kim, nerede, ne yaptı",
+            "Ne zaman, nerede, nasıl",
+            "Kaç, ne kadar, hangi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "hikaye-soru-kartlari",
+            "nesne": "hikaye"
+          }
+        },
+        {
+          "id": "ky-t7",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Şu paragrafın ana fikri nedir? \"Ağaçlar çok önemlidir. Hava temizler, gölge yapar, hayvanlar barınak bulur.\"",
+          "dogruCevap": "Ağaçlar çok önemlidir",
+          "secenekler": [
+            "Ağaçlar gölge yapar",
+            "Hayvanlar ağaçlarda yaşar",
+            "Ağaçlar çok önemlidir",
+            "Ağaçlar güzeldir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "agac-onemi",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ky-t8",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ali koştu ama yorulmadı.\" cümlesinde \"ama\" ne işlevi görür?",
+          "dogruCevap": "Zıtlık",
+          "secenekler": [
+            "Ekleme",
+            "Sıralama",
+            "Neden-sonuç",
+            "Zıtlık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kosen-cocuk",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t9",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Cümleye sıfat eklemek ne işe yarar?",
+          "dogruCevap": "Anlamı zenginleştirir",
+          "secenekler": [
+            "Yüklemi kaldırır",
+            "Özneyi değiştirir",
+            "Anlamı zenginleştirir",
+            "Cümleyi kısaltır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sifat-ornegi",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "ky-t10",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi paragrafın ilk cümlesi için doğrudur?",
+          "dogruCevap": "Ana fikri içerir",
+          "secenekler": [
+            "Ana fikri içerir",
+            "Girintisiz başlar",
+            "En kısa cümledir",
+            "Her zaman soru cümlesidir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "paragraf-yapisi",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "ky-t11",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Önce dişlerimi fırçaladım, ___ yatağa girdim.\" Boşluğa ne gelir?",
+          "dogruCevap": "sonra",
+          "secenekler": [
+            "ile",
+            "ama",
+            "sonra",
+            "çünkü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yatma-rutini",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-t12",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle daha açıklayıcıdır?",
+          "dogruCevap": "Kırmızı spor araba hızla geçti",
+          "secenekler": [
+            "Geçti araba",
+            "Kırmızı spor araba hızla geçti",
+            "Araba hızlı",
+            "Araba geçti"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "araba-karsilastirma",
+            "nesne": "araba"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t13",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hikâyenin başlangıcına ne yazılır?",
+          "dogruCevap": "Kahraman ve yer tanıtımı",
+          "secenekler": [
+            "Olay çözümü",
+            "Sonuç",
+            "Kahraman ve yer tanıtımı",
+            "Ders"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "hikaye-baslangici",
+            "nesne": "hikaye"
+          }
+        },
+        {
+          "id": "ky-t14",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Mehmet kitap okudu. Mehmet çok şey öğrendi.\" Bu iki cümleyi birleştir.",
+          "dogruCevap": "Mehmet kitap okuyarak çok şey öğrendi",
+          "secenekler": [
+            "Mehmet kitap okudu çünkü çok şey öğrendi",
+            "Mehmet okuyunca şey öğrendi",
+            "Mehmet ve kitap okudu",
+            "Mehmet kitap okuyarak çok şey öğrendi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kitap-okuyan-cocuk",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "ky-t15",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yazarken en önemli şey nedir?",
+          "dogruCevap": "Düşünceleri açık ve anlaşılır ifade etmek",
+          "secenekler": [
+            "Güzel el yazısı",
+            "Uzun yazmak",
+            "Düşünceleri açık ve anlaşılır ifade etmek",
+            "Çok noktalama kullanmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yazan-cocuk",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t16",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Hava güneşli ___ dışarı çıktım.\" Boşluğa ne gelir?",
+          "dogruCevap": "ve",
+          "secenekler": [
+            "ile",
+            "ama",
+            "ve",
+            "çünkü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gunesli-gun",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "ky-t17",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Paragrafta kaç ana fikir olur?",
+          "dogruCevap": "Bir",
+          "secenekler": [
+            "Üç",
+            "Beş",
+            "İki",
+            "Bir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "paragraf-yapisi",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "ky-t18",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle zıtlık bildiren bağlaç içerir?",
+          "dogruCevap": "Hava soğuktu ama dışarı çıktım",
+          "secenekler": [
+            "Önce geldi sonra gitti",
+            "Hava soğuktu ama dışarı çıktım",
+            "Ali geldi ve gitti",
+            "Ali ile Ayşe geldi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "zitlik-baglaci",
+            "nesne": "default"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t19",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Resmi anlatırken ne yapılır?",
+          "dogruCevap": "Resimdeki varlıkları ve olayları cümlelerle anlatırız",
+          "secenekler": [
+            "Resimdeki varlıkları ve olayları cümlelerle anlatırız",
+            "Resmi kesip yapıştırırız",
+            "Resmin renklerini sayarız",
+            "Resmi kopyalarız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "resim-anlatan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-t20",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Fatma ___ çünkü hava yağmurluydu.\" Boşluğa ne gelebilir?",
+          "dogruCevap": "şemsiye aldı",
+          "secenekler": [
+            "yüzdü",
+            "güneşlendi",
+            "şemsiye aldı",
+            "güldü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yagmurlu-hava",
+            "nesne": "yagmur"
+          }
+        },
+        {
+          "id": "ky-t21",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "İyi bir hikâyede ne olmaz?",
+          "dogruCevap": "Anlamsız cümleler",
+          "secenekler": [
+            "Yer",
+            "Anlamsız cümleler",
+            "Olay",
+            "Kahraman"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "hikaye-unsurlari",
+            "nesne": "hikaye"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t22",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Cümleye hangi ekleme onu daha ilgi çekici yapar?",
+          "dogruCevap": "Sıfat ve zarf ekleme",
+          "secenekler": [
+            "Özneyi silme",
+            "Yüklemi öne alma",
+            "Daha fazla nokta",
+            "Sıfat ve zarf ekleme"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cumle-zenginlestirme",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "ky-t23",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Bir gün ormanda bir ayı gördüm.\" Bu cümle hikâyenin neresine uyar?",
+          "dogruCevap": "Başlangıç",
+          "secenekler": [
+            "Sonuç",
+            "Başlangıç",
+            "Orta",
+            "Her yerine"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "orman",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ky-t24",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Paragraf girintili neden başlar?",
+          "dogruCevap": "Yeni bir konuya geçildiğini göstermek için",
+          "secenekler": [
+            "Kural böyle olmadığı için",
+            "Yeni bir konuya geçildiğini göstermek için",
+            "Güzel göründüğü için",
+            "Öğretmen istediği için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "girintili-paragraf",
+            "nesne": "kitap"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t25",
+          "kazanimKodu": "TUR.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi başlık aşağıdaki hikâyeye en uygun düşer? \"Küçük kedi kayboldu. Onu iyi kalpli bir çocuk buldu ve eve götürdü.\"",
+          "dogruCevap": "Kayıp Kedi",
+          "secenekler": [
+            "Büyük Köpek",
+            "Orman Macerası",
+            "Kayıp Kedi",
+            "Yağmurlu Gün"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kedi-cocuk-sahnesi",
+            "nesne": "kedi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t26",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Kalem\" hangi sözcük türüdür?",
+          "dogruCevap": "İsim",
+          "secenekler": [
+            "Fiil",
+            "İsim",
+            "Zamir",
+            "Sıfat"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kalem",
+            "nesne": "kalem"
+          }
+        },
+        {
+          "id": "ky-t27",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Kırmızı\" hangi sözcük türüdür?",
+          "dogruCevap": "Sıfat",
+          "secenekler": [
+            "İsim",
+            "Fiil",
+            "Zamir",
+            "Sıfat"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Kırmızı"
+            ]
+          }
+        },
+        {
+          "id": "ky-t28",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Uyumak\" hangi sözcük türüdür?",
+          "dogruCevap": "Fiil",
+          "secenekler": [
+            "İsim",
+            "Zamir",
+            "Fiil",
+            "Sıfat"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "uyuyan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-t29",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ben\" hangi sözcük türüdür?",
+          "dogruCevap": "Zamir",
+          "secenekler": [
+            "Sıfat",
+            "Zamir",
+            "İsim",
+            "Fiil"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kendini-gosteren-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-t30",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Büyük ev\" cümlesinde sıfat hangisidir?",
+          "dogruCevap": "büyük",
+          "secenekler": [
+            "ikisi de değil",
+            "büyük",
+            "ikisi de",
+            "ev"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "buyuk-ev",
+            "nesne": "ev"
+          }
+        },
+        {
+          "id": "ky-t31",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ayşe koştu.\" cümlesinde fiil hangisidir?",
+          "dogruCevap": "koştu",
+          "secenekler": [
+            "ikisi de değil",
+            "Ayşe",
+            "koştu",
+            "ikisi de"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kosen-kiz",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-t32",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi sözcük özel isimdir?",
+          "dogruCevap": "Ankara",
+          "secenekler": [
+            "kalem",
+            "çiçek",
+            "Ankara",
+            "masa"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "masa",
+              "kalem",
+              "Ankara",
+              "çiçek"
+            ]
+          }
+        },
+        {
+          "id": "ky-t33",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ali geldi. O çok mutluydu.\" cümlesinde \"O\" kimin yerini tutuyor?",
+          "dogruCevap": "Ali",
+          "secenekler": [
+            "Ali",
+            "Bir nesne",
+            "Bir hayvan",
+            "Bir yer"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "zamir-gosterimi",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t34",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Üç kırmızı elma\" cümlesinde kaç sıfat var?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "0",
+            "2",
+            "3",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "elma",
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "ky-t35",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi sözcük fiildir?",
+          "dogruCevap": "koşmak",
+          "secenekler": [
+            "masa",
+            "güzel",
+            "koşmak",
+            "ben"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "koşmak"
+            ]
+          }
+        },
+        {
+          "id": "ky-t36",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Biz parka gittik.\" cümlesinde \"biz\" nedir?",
+          "dogruCevap": "Zamir",
+          "secenekler": [
+            "Zamir",
+            "İsim",
+            "Sıfat",
+            "Fiil"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "parka-giden-grup",
+            "nesne": "park"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t37",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle sıfat içerir?",
+          "dogruCevap": "Mavi araba geçti",
+          "secenekler": [
+            "Ali koştu",
+            "Güneş battı",
+            "Mavi araba geçti",
+            "Kedi uyudu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ali koştu",
+              "Kedi uyudu",
+              "Mavi araba geçti",
+              "Güneş battı"
+            ]
+          }
+        },
+        {
+          "id": "ky-t38",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"İstanbul\" neden büyük harfle yazılır?",
+          "dogruCevap": "Özel isim olduğu için",
+          "secenekler": [
+            "Güzel bir sözcük olduğu için",
+            "Uzun kelime olduğu için",
+            "Cins isim olduğu için",
+            "Özel isim olduğu için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "İstanbul",
+            "nesne": "istanbul"
+          }
+        },
+        {
+          "id": "ky-t39",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Cümledeki isimleri bul: \"Küçük kedi bahçede uyudu.\"",
+          "dogruCevap": "kedi, bahçe",
+          "secenekler": [
+            "kedi, uyudu",
+            "kedi, bahçe",
+            "küçük, bahçe",
+            "küçük, uyudu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kedi",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "ky-t40",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi sözcük hem isim hem sıfat olabilir?",
+          "dogruCevap": "güzel",
+          "secenekler": [
+            "koşmak",
+            "ben",
+            "güzel",
+            "ve"
+          ],
+          "ipucu": "İpucu: \"Güzel bir kız\" → sıfat, \"Güzel her yerde\" → isim gibi",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cift-anlam-gosterimi",
+            "nesne": "default"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t41",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Onlar okula gitti.\" cümlesinde zamir hangisidir?",
+          "dogruCevap": "Onlar",
+          "secenekler": [
+            "okula",
+            "gitti",
+            "Yok",
+            "Onlar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "okula-giden-grup",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "ky-t42",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Fiil hangi soruya cevap verir?",
+          "dogruCevap": "Ne yaptı/oluyor?",
+          "secenekler": [
+            "Nasıl?",
+            "Ne?",
+            "Ne yaptı/oluyor?",
+            "Kaç tane?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ne yaptı/oluyor?"
+            ]
+          }
+        },
+        {
+          "id": "ky-t43",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Siz nereye gidiyorsunuz?\" cümlesinde \"siz\" nedir?",
+          "dogruCevap": "Zamir",
+          "secenekler": [
+            "Fiil",
+            "Sıfat",
+            "İsim",
+            "Zamir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "soru-soran-cocuk",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t44",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sıfat hangi soruya cevap verir?",
+          "dogruCevap": "Nasıl/Kaç tane?",
+          "secenekler": [
+            "Ne yaptı?",
+            "Nerede?",
+            "Nasıl/Kaç tane?",
+            "Kim?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Nasıl/Kaç tane?"
+            ]
+          }
+        },
+        {
+          "id": "ky-t45",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Küçük, şirin, sarı kedi uyudu.\" cümlesinde kaç sıfat var?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "4",
+            "2",
+            "3",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "nesne",
+            "kelime": "kedi",
+            "nesne": "kedi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t46",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi sözcük cins isimdir?",
+          "dogruCevap": "masa",
+          "secenekler": [
+            "İstanbul",
+            "Ayşe",
+            "masa",
+            "Türkiye"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ayşe",
+              "İstanbul",
+              "masa",
+              "Türkiye"
+            ]
+          }
+        },
+        {
+          "id": "ky-t47",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ben, sen, o, biz, siz, onlar\" sözcükleri hangi grupta yer alır?",
+          "dogruCevap": "Zamirler",
+          "secenekler": [
+            "Fiiller",
+            "Sıfatlar",
+            "İsimler",
+            "Zamirler"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Ben",
+              "sen",
+              "o",
+              "biz",
+              "siz",
+              "onlar"
+            ]
+          }
+        },
+        {
+          "id": "ky-t48",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Güneş battı.\" cümlesinde sözcük türleri nelerdir?",
+          "dogruCevap": "İsim + Fiil",
+          "secenekler": [
+            "İsim + Fiil",
+            "Sıfat + Fiil",
+            "Zamir + Fiil",
+            "İsim + İsim"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gunbatimi-cumle-analizi",
+            "nesne": "gunes"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ky-t49",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle zamir içerir?",
+          "dogruCevap": "O eve gitti",
+          "secenekler": [
+            "O eve gitti",
+            "Çiçek açtı",
+            "Güneş battı",
+            "Kedi uyudu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "Kedi uyudu",
+              "Güneş battı",
+              "O eve gitti",
+              "Çiçek açtı"
+            ]
+          }
+        },
+        {
+          "id": "ky-t50",
+          "kazanimKodu": "TUR.2.3.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ali kitap okuyor. O çok mutlu.\" İkinci cümlede \"O\" kimin yerini tutar?",
+          "dogruCevap": "Ali'nin",
+          "secenekler": [
+            "Kitabın",
+            "Ali'nin",
+            "Okumanın",
+            "Mutluluğun"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "zamir-gosterimi",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

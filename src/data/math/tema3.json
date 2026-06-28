@@ -1,0 +1,2180 @@
+{
+  "id": "tema-3",
+  "baslik": "Matematik — Tema 3 — Çıkarma (2-20)",
+  "konular": [
+    {
+      "id": "cikarma-2-20",
+      "baslik": "Çıkarma (2-20)",
+      "kazanimKodu": "MAT.2.3.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Elimde 5 elma vardı, 2 tanesini yedim. Kaç elma kaldı? 5 - 2 = 3! Buna ÇIKARMA deriz.",
+            "gorsel": {
+              "tur": "islem",
+              "mod": "anlatim",
+              "sahne": "ci-anlatim-1"
+            }
+          },
+          {
+            "metin": "Çıkarma işaretimiz eksi (-) işaretidir. Büyük sayıdan küçük sayıyı çıkarırız. 7 - 3 = 4.",
+            "gorsel": {
+              "tur": "islem",
+              "mod": "anlatim",
+              "sahne": "ci-anlatim-2"
+            }
+          },
+          {
+            "metin": "Bir sayıdan kendisini çıkarırsak 0 kalır! 5 - 5 = 0. Bir sayıdan 0 çıkarırsak sayı değişmez! 5 - 0 = 5. 2 ile 20 arasındaki sayılarla çıkarma yaparak pratik yapacağız.",
+            "gorsel": {
+              "tur": "islem",
+              "mod": "anlatim",
+              "sahne": "ci-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "t3-a1",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "5 - 2 = ?",
+          "dogruCevap": "3",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 5,
+            "b": 2,
+            "sonuc": 3,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a2",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "4 - 1 = ?",
+          "dogruCevap": "3",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 4,
+            "b": 1,
+            "sonuc": 3,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a3",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "6 - 3 = ?",
+          "dogruCevap": "3",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 6,
+            "b": 3,
+            "sonuc": 3,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a4",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "7 - 2 = ?",
+          "dogruCevap": "5",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 7,
+            "b": 2,
+            "sonuc": 5,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a5",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "8 - 4 = ?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 8,
+            "b": 4,
+            "sonuc": 4,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a6",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "9 - 3 = ?",
+          "dogruCevap": "6",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 9,
+            "b": 3,
+            "sonuc": 6,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "t3-a7",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "10 - 5 = ?",
+          "dogruCevap": "5",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 10,
+            "b": 5,
+            "sonuc": 5,
+            "nesne": "cicek",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a8",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "6 - 6 = ?",
+          "dogruCevap": "0",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 6,
+            "b": 6,
+            "sonuc": 0,
+            "nesne": "kup",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a9",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "8 - 0 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 8,
+            "b": 0,
+            "sonuc": 8,
+            "nesne": "kalem",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a10",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "10 - 3 = ?",
+          "dogruCevap": "7",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 10,
+            "b": 3,
+            "sonuc": 7,
+            "nesne": "armut",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "t3-a11",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "11 - 4 = ?",
+          "dogruCevap": "7",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 11,
+            "b": 4,
+            "sonuc": 7,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a12",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "12 - 5 = ?",
+          "dogruCevap": "7",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 12,
+            "b": 5,
+            "sonuc": 7,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a13",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "13 - 6 = ?",
+          "dogruCevap": "7",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 13,
+            "b": 6,
+            "sonuc": 7,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a14",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "14 - 7 = ?",
+          "dogruCevap": "7",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 14,
+            "b": 7,
+            "sonuc": 7,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a15",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "15 - 8 = ?",
+          "dogruCevap": "7",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 15,
+            "b": 8,
+            "sonuc": 7,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a16",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "16 - 9 = ?",
+          "dogruCevap": "7",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 16,
+            "b": 9,
+            "sonuc": 7,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "t3-a17",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "18 - 9 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 18,
+            "b": 9,
+            "sonuc": 9,
+            "nesne": "cicek",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a18",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "20 - 10 = ?",
+          "dogruCevap": "10",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 20,
+            "b": 10,
+            "sonuc": 10,
+            "nesne": "kup",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a19",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "15 - 5 = ?",
+          "dogruCevap": "10",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 15,
+            "b": 5,
+            "sonuc": 10,
+            "nesne": "kalem",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a20",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "20 - 5 = ?",
+          "dogruCevap": "15",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 20,
+            "b": 5,
+            "sonuc": 15,
+            "nesne": "armut",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "t3-a21",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "17 - 8 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 17,
+            "b": 8,
+            "sonuc": 9,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a22",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "19 - 10 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 19,
+            "b": 10,
+            "sonuc": 9,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a23",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "16 - 7 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 16,
+            "b": 7,
+            "sonuc": 9,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a24",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "20 - 8 = ?",
+          "dogruCevap": "12",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 20,
+            "b": 8,
+            "sonuc": 12,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a25",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "20 - 3 = ?",
+          "dogruCevap": "17",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 20,
+            "b": 3,
+            "sonuc": 17,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a26",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "3 - 1 = ?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 3,
+            "b": 1,
+            "sonuc": 2,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "t3-a27",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "5 - 3 = ?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 5,
+            "b": 3,
+            "sonuc": 2,
+            "nesne": "cicek",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a28",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "7 - 4 = ?",
+          "dogruCevap": "3",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 7,
+            "b": 4,
+            "sonuc": 3,
+            "nesne": "kup",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a29",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "9 - 5 = ?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 9,
+            "b": 5,
+            "sonuc": 4,
+            "nesne": "kalem",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a30",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "10 - 2 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 10,
+            "b": 2,
+            "sonuc": 8,
+            "nesne": "armut",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "t3-a31",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "11 - 2 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 11,
+            "b": 2,
+            "sonuc": 9,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a32",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "12 - 3 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 12,
+            "b": 3,
+            "sonuc": 9,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a33",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "13 - 5 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 13,
+            "b": 5,
+            "sonuc": 8,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a34",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "14 - 6 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 14,
+            "b": 6,
+            "sonuc": 8,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a35",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "15 - 6 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 15,
+            "b": 6,
+            "sonuc": 9,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a36",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "16 - 8 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 16,
+            "b": 8,
+            "sonuc": 8,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "t3-a37",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "17 - 9 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 17,
+            "b": 9,
+            "sonuc": 8,
+            "nesne": "cicek",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a38",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "18 - 10 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 18,
+            "b": 10,
+            "sonuc": 8,
+            "nesne": "kup",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a39",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "19 - 9 = ?",
+          "dogruCevap": "10",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 19,
+            "b": 9,
+            "sonuc": 10,
+            "nesne": "kalem",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a40",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "20 - 4 = ?",
+          "dogruCevap": "16",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 20,
+            "b": 4,
+            "sonuc": 16,
+            "nesne": "armut",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "t3-a41",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "19 - 8 = ?",
+          "dogruCevap": "11",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 19,
+            "b": 8,
+            "sonuc": 11,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a42",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "18 - 8 = ?",
+          "dogruCevap": "10",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 18,
+            "b": 8,
+            "sonuc": 10,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a43",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "17 - 7 = ?",
+          "dogruCevap": "10",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 17,
+            "b": 7,
+            "sonuc": 10,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-a44",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "16 - 6 = ?",
+          "dogruCevap": "10",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 16,
+            "b": 6,
+            "sonuc": 10,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a45",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "15 - 7 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 15,
+            "b": 7,
+            "sonuc": 8,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a46",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "14 - 5 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 14,
+            "b": 5,
+            "sonuc": 9,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "t3-a47",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "13 - 4 = ?",
+          "dogruCevap": "9",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 13,
+            "b": 4,
+            "sonuc": 9,
+            "nesne": "cicek",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a48",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "12 - 4 = ?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 12,
+            "b": 4,
+            "sonuc": 8,
+            "nesne": "kup",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-a49",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "11 - 5 = ?",
+          "dogruCevap": "6",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 11,
+            "b": 5,
+            "sonuc": 6,
+            "nesne": "kalem",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-a50",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "yazili",
+          "soru": "10 - 4 = ?",
+          "dogruCevap": "6",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 10,
+            "b": 4,
+            "sonuc": 6,
+            "nesne": "armut",
+            "renk1": "yesil"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "t3-t1",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "6 - 2 = ?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "4",
+            "2",
+            "3",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 6,
+            "b": 2,
+            "sonuc": 4,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t2",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "9 - 4 = ?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 9,
+            "b": 4,
+            "sonuc": 5,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t3",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "10 - 6 = ?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 10,
+            "b": 6,
+            "sonuc": 4,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t4",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "7 - 7 = ?",
+          "dogruCevap": "0",
+          "secenekler": [
+            "2",
+            "1",
+            "0",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 7,
+            "b": 7,
+            "sonuc": 0,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t5",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "11 - 3 = ?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "9",
+            "7",
+            "8",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 11,
+            "b": 3,
+            "sonuc": 8,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-t6",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "14 - 6 = ?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "9",
+            "6",
+            "7",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 14,
+            "b": 6,
+            "sonuc": 8,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "t3-t7",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "15 - 7 = ?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "7",
+            "8",
+            "9",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 15,
+            "b": 7,
+            "sonuc": 8,
+            "nesne": "cicek",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t8",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "18 - 9 = ?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "9",
+            "10",
+            "7",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 18,
+            "b": 9,
+            "sonuc": 9,
+            "nesne": "kup",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-t9",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "20 - 7 = ?",
+          "dogruCevap": "13",
+          "secenekler": [
+            "13",
+            "11",
+            "14",
+            "12"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 20,
+            "b": 7,
+            "sonuc": 13,
+            "nesne": "kalem",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t10",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "20 - 11 = ?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "9",
+            "8",
+            "10",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 20,
+            "b": 11,
+            "sonuc": 9,
+            "nesne": "armut",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "t3-t11",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "8 - 3 = ?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "6",
+            "3",
+            "4",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 8,
+            "b": 3,
+            "sonuc": 5,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t12",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "12 - 5 = ?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "6",
+            "7",
+            "5",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 12,
+            "b": 5,
+            "sonuc": 7,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t13",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "13 - 8 = ?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "3",
+            "5",
+            "4",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 13,
+            "b": 8,
+            "sonuc": 5,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t14",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "16 - 9 = ?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 16,
+            "b": 9,
+            "sonuc": 7,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t15",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "19 - 10 = ?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "10",
+            "8",
+            "9",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 19,
+            "b": 10,
+            "sonuc": 9,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-t16",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "17 - 6 = ?",
+          "dogruCevap": "11",
+          "secenekler": [
+            "12",
+            "9",
+            "10",
+            "11"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 17,
+            "b": 6,
+            "sonuc": 11,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "t3-t17",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "15 - 9 = ?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "4",
+            "7",
+            "5",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 15,
+            "b": 9,
+            "sonuc": 6,
+            "nesne": "cicek",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t18",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "14 - 8 = ?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "7",
+            "6",
+            "5",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 14,
+            "b": 8,
+            "sonuc": 6,
+            "nesne": "kup",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-t19",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "13 - 7 = ?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "4",
+            "6",
+            "5",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 13,
+            "b": 7,
+            "sonuc": 6,
+            "nesne": "kalem",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t20",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "12 - 6 = ?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "4",
+            "6",
+            "7",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 12,
+            "b": 6,
+            "sonuc": 6,
+            "nesne": "armut",
+            "renk1": "yesil"
+          }
+        },
+        {
+          "id": "t3-t21",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "11 - 8 = ?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "4",
+            "2",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 11,
+            "b": 8,
+            "sonuc": 3,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t22",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "10 - 7 = ?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "2",
+            "1",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 10,
+            "b": 7,
+            "sonuc": 3,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t23",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "9 - 6 = ?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 9,
+            "b": 6,
+            "sonuc": 3,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t24",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "8 - 5 = ?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "1",
+            "3",
+            "4",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 8,
+            "b": 5,
+            "sonuc": 3,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t25",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "7 - 4 = ?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 7,
+            "b": 4,
+            "sonuc": 3,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-t26",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Masada 8 elma vardı, 3 tanesi yendi. Kaç elma kaldı?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "7",
+            "4",
+            "5",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "problem",
+            "sahne": "masa-elma"
+          }
+        },
+        {
+          "id": "t3-t27",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bahçede 12 kuş vardı, 5 tanesi uçtu. Kaç kuş kaldı?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "6",
+            "8",
+            "9",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "problem",
+            "sahne": "bahce-kus"
+          }
+        },
+        {
+          "id": "t3-t28",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "□ - 4 = 6. Kutudaki sayı kaçtır?",
+          "dogruCevap": "10",
+          "secenekler": [
+            "11",
+            "10",
+            "8",
+            "9"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "bilinmeyen",
+            "bilinmeyen": "a",
+            "a": 4,
+            "b": 6,
+            "sonuc": 10,
+            "nesne": "top"
+          }
+        },
+        {
+          "id": "t3-t29",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "12 - □ = 7. Kutudaki sayı nedir?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "4",
+            "6",
+            "5",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "bilinmeyen",
+            "bilinmeyen": "b",
+            "a": 12,
+            "b": 7,
+            "sonuc": 12,
+            "nesne": "top"
+          }
+        },
+        {
+          "id": "t3-t30",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi işlemin sonucu 5'tir?",
+          "dogruCevap": "10 - 5",
+          "secenekler": [
+            "8 - 2",
+            "9 - 3",
+            "7 - 3",
+            "10 - 5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma",
+            "islemler": [
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 9,
+                "b": 3,
+                "sonuc": 6,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 8,
+                "b": 2,
+                "sonuc": 6,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 10,
+                "b": 5,
+                "sonuc": 5,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 7,
+                "b": 3,
+                "sonuc": 4,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              }
+            ]
+          }
+        },
+        {
+          "id": "t3-t31",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kutuda 16 top vardı, 9 tanesi alındı. Kaç top kaldı?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "7",
+            "6",
+            "5",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "problem",
+            "sahne": "kutu-top-aliniyor"
+          }
+        },
+        {
+          "id": "t3-t32",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi yanlıştır?",
+          "dogruCevap": "9 - 4 = 4",
+          "secenekler": [
+            "8 - 4 = 4",
+            "10 - 5 = 5",
+            "9 - 4 = 4",
+            "6 - 3 = 3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma",
+            "islemler": [
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 10,
+                "b": 5,
+                "sonuc": 5,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 8,
+                "b": 4,
+                "sonuc": 4,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 6,
+                "b": 3,
+                "sonuc": 3,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 9,
+                "b": 4,
+                "sonuc": 5,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              }
+            ]
+          }
+        },
+        {
+          "id": "t3-t33",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elanaz'ın 15 boyası vardı, 6 tanesini Elif'e verdi. Kaç boyası kaldı?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "9",
+            "7",
+            "10",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "problem",
+            "sahne": "elanaz-boya-veriyor"
+          }
+        },
+        {
+          "id": "t3-t34",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfta 20 kalem vardı, 14 tanesi dağıtıldı. Kaç kalem kaldı?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "4",
+            "6",
+            "5",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "problem",
+            "sahne": "kalem-kutusu-dagitim"
+          }
+        },
+        {
+          "id": "t3-t35",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "□ - 6 = 8. Kutudaki sayı nedir?",
+          "dogruCevap": "14",
+          "secenekler": [
+            "14",
+            "13",
+            "12",
+            "15"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "bilinmeyen",
+            "bilinmeyen": "a",
+            "a": 6,
+            "b": 8,
+            "sonuc": 14,
+            "nesne": "top"
+          }
+        },
+        {
+          "id": "t3-t36",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Bir sayıdan 0 çıkarırsak ne olur?",
+          "dogruCevap": "Sayı değişmez",
+          "secenekler": [
+            "Sayı değişmez",
+            "Sayı 0 olur",
+            "Sayı 2 azalır",
+            "Sayı 1 azalır"
+          ],
+          "ipucu": "0 hiç demek!",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 7,
+            "b": 0,
+            "sonuc": 7,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "t3-t37",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 13 - 8 = ?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "4",
+            "6",
+            "5",
+            "3"
+          ],
+          "ipucu": "8'den 13'e kaç adım?",
+          "gorsel": {
+            "tur": "sayi-seridi",
+            "baslangic": 8,
+            "adim": 1,
+            "adimSayisi": 6,
+            "vurgulananlar": [
+              8,
+              13
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "t3-t38",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 17 - 9 = ?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "7",
+            "9",
+            "8",
+            "6"
+          ],
+          "ipucu": "17 = 10 + 7, önce 10'dan 9 çıkar!",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "adimlar",
+            "adimlar": [
+              {
+                "deger": 17
+              },
+              {
+                "deger": 10
+              },
+              {
+                "deger": 8
+              }
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "t3-t39",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hangisi en küçük sonucu verir?",
+          "dogruCevap": "11 - 9",
+          "secenekler": [
+            "12 - 8",
+            "10 - 7",
+            "11 - 9",
+            "15 - 9"
+          ],
+          "ipucu": "Her birini hesapla, en küçüğü bul!",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "karsilastirma",
+            "islemler": [
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 15,
+                "b": 9,
+                "sonuc": 6,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 12,
+                "b": 8,
+                "sonuc": 4,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 10,
+                "b": 7,
+                "sonuc": 3,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              },
+              {
+                "tur": "islem",
+                "mod": "cikarma-grup",
+                "a": 11,
+                "b": 9,
+                "sonuc": 2,
+                "nesne": "top",
+                "renk1": "kirmizi"
+              }
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "t3-t40",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Elanaz'ın 20 çikolatası var. Elanaz, Elif'e 7, Alya'ya 5 çikolata verdi. Elanaz'da kaç çikolata kaldı?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "6",
+            "7",
+            "9",
+            "8"
+          ],
+          "ipucu": "Önce verdiği toplam: 7 + 5 = 12, sonra 20 - 12 = ?",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "problem",
+            "sahne": "elanaz-cikolata-paylasim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "t3-t41",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "5 - 1 = ?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "2",
+            "5",
+            "4",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 5,
+            "b": 1,
+            "sonuc": 4,
+            "nesne": "top",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t42",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "7 - 3 = ?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "5",
+            "3",
+            "4",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 7,
+            "b": 3,
+            "sonuc": 4,
+            "nesne": "elma",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t43",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "9 - 2 = ?",
+          "dogruCevap": "7",
+          "secenekler": [
+            "8",
+            "7",
+            "5",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 9,
+            "b": 2,
+            "sonuc": 7,
+            "nesne": "cilek",
+            "renk1": "kirmizi"
+          }
+        },
+        {
+          "id": "t3-t44",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "10 - 4 = ?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "5",
+            "4",
+            "6",
+            "7"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 10,
+            "b": 4,
+            "sonuc": 6,
+            "nesne": "yildiz",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t45",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "11 - 6 = ?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 11,
+            "b": 6,
+            "sonuc": 5,
+            "nesne": "balon",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-t46",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "12 - 7 = ?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "5",
+            "4",
+            "3",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 12,
+            "b": 7,
+            "sonuc": 5,
+            "nesne": "kelebek",
+            "renk1": "mor"
+          }
+        },
+        {
+          "id": "t3-t47",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "13 - 9 = ?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "2",
+            "5",
+            "4",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 13,
+            "b": 9,
+            "sonuc": 4,
+            "nesne": "cicek",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t48",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "14 - 5 = ?",
+          "dogruCevap": "9",
+          "secenekler": [
+            "8",
+            "9",
+            "7",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 14,
+            "b": 5,
+            "sonuc": 9,
+            "nesne": "kup",
+            "renk1": "mavi"
+          }
+        },
+        {
+          "id": "t3-t49",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "16 - 4 = ?",
+          "dogruCevap": "12",
+          "secenekler": [
+            "11",
+            "13",
+            "12",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 16,
+            "b": 4,
+            "sonuc": 12,
+            "nesne": "kalem",
+            "renk1": "sari"
+          }
+        },
+        {
+          "id": "t3-t50",
+          "kazanimKodu": "MAT.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "18 - 7 = ?",
+          "dogruCevap": "11",
+          "secenekler": [
+            "10",
+            "9",
+            "12",
+            "11"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "islem",
+            "mod": "cikarma-grup",
+            "a": 18,
+            "b": 7,
+            "sonuc": 11,
+            "nesne": "armut",
+            "renk1": "yesil"
+          }
+        }
+      ]
+    }
+  ]
+}

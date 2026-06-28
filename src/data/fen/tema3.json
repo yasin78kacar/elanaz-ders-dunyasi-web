@@ -1,0 +1,1799 @@
+{
+  "id": "tema-3",
+  "baslik": "Fen Bilimleri — Tema 3 — Hayvanlar",
+  "konular": [
+    {
+      "id": "hayvanlar",
+      "baslik": "Hayvanlar",
+      "kazanimKodu": "FEN.2.1.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Hayvanlar farklı gruplara ayrılır: Memeliler (kedi, inek), kuşlar (ördek, serçe), balıklar ve böcekler (arı, kelebek).",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hv-anlatim-1"
+            }
+          },
+          {
+            "metin": "Hayvanlar farklı ortamlarda yaşar. Kimi karada (kedi), kimi suda (balık), kimi de havada (kuş) yaşar.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hv-anlatim-2"
+            }
+          },
+          {
+            "metin": "Hayvanların vücut örtüleri farklıdır: Kuşlarda tüy, balıklarda pul, memelilerde deri ve tüy bulunur. Hayvanlar yürür, uçar, yüzer veya sürünerek hareket eder.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hv-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "hv-a1",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedinin vücut örtüsü nedir?",
+          "dogruCevap": "Deri ve tüy",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "deri"
+          }
+        },
+        {
+          "id": "hv-a2",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuşun vücut örtüsü nedir?",
+          "dogruCevap": "Tüy",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "tuy"
+          }
+        },
+        {
+          "id": "hv-a3",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balığın vücut örtüsü nedir?",
+          "dogruCevap": "Pul",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "pul"
+          }
+        },
+        {
+          "id": "hv-a4",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedi nerede yaşar?",
+          "dogruCevap": "Kara",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "kara"
+          }
+        },
+        {
+          "id": "hv-a5",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balık nerede yaşar?",
+          "dogruCevap": "Su",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-a6",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuş en çok hangi ortamda hareket eder?",
+          "dogruCevap": "Hava",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "hava"
+          }
+        },
+        {
+          "id": "hv-a7",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedi nasıl hareket eder?",
+          "dogruCevap": "Yürür",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "yurur"
+          }
+        },
+        {
+          "id": "hv-a8",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuş nasıl hareket eder?",
+          "dogruCevap": "Uçar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "ucar"
+          }
+        },
+        {
+          "id": "hv-a9",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balık nasıl hareket eder?",
+          "dogruCevap": "Yüzer",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "yuzer"
+          }
+        },
+        {
+          "id": "hv-a10",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Yavrusunu sütle besleyen hayvanlara ne denir?",
+          "dogruCevap": "Memeli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a11",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedi memeli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a12",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuş hangi gruptadır?",
+          "dogruCevap": "Kuş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "hv-a13",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balık hangi gruptadır?",
+          "dogruCevap": "Balık",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "balik"
+          }
+        },
+        {
+          "id": "hv-a14",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Arı hangi gruptadır?",
+          "dogruCevap": "Böcek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ari",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-a15",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kelebek böcek midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kelebek",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-a16",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "İnek memeli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a17",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Ördek kuş mudur?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ordek",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "hv-a18",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kurbağa hangi ortamlarda yaşar?",
+          "dogruCevap": "Kara ve su",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kurbağa",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-a19",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Yılan nasıl hareket eder?",
+          "dogruCevap": "Sürünür",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "yilan",
+            "ozellik": "surunur"
+          }
+        },
+        {
+          "id": "hv-a20",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kaplumbağa nasıl hareket eder?",
+          "dogruCevap": "Yürür",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kaplumbaga",
+            "ozellik": "yurur"
+          }
+        },
+        {
+          "id": "hv-a21",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Tüy örtüsü olan hayvan hangisidir?",
+          "dogruCevap": "Kuş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "tuy"
+          }
+        },
+        {
+          "id": "hv-a22",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Pul örtüsü olan hayvan hangisidir?",
+          "dogruCevap": "Balık",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "pul"
+          }
+        },
+        {
+          "id": "hv-a23",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Deri örtüsü olan hayvan hangisidir?",
+          "dogruCevap": "Kedi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "deri"
+          }
+        },
+        {
+          "id": "hv-a24",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Hayvanlar beslenir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "hv-a25",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Hayvan gruplarından üçünü yaz",
+          "dogruCevap": "Memeli, kuş, balık",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "hv-anlatim-1"
+          }
+        },
+        {
+          "id": "hv-a26",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Yün keçisi hangi gruptadır?",
+          "dogruCevap": "Memeli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a27",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Serçe hangi gruptadır?",
+          "dogruCevap": "Kuş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "hv-a28",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Yun balığı hangi gruptadır?",
+          "dogruCevap": "Balık",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "balik"
+          }
+        },
+        {
+          "id": "hv-a29",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Sinek hangi gruptadır?",
+          "dogruCevap": "Böcek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kelebek",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-a30",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kaplumbağa karada yaşar mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kaplumbaga",
+            "ozellik": "kara"
+          }
+        },
+        {
+          "id": "hv-a31",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Yılan nasıl hareket eder?",
+          "dogruCevap": "Sürünerek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "yilan",
+            "ozellik": "surunur"
+          }
+        },
+        {
+          "id": "hv-a32",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Ördek hem karada hem suda yaşayabilir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ordek",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-a33",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Arılar ne üretir?",
+          "dogruCevap": "Bal",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ari",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-a34",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Köpek sadık bir hayvan mıdır?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kopek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a35",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kelebek hangi gruptadır?",
+          "dogruCevap": "Böcek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kelebek",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-a36",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balıklar solungaçla mı nefes alır?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-a37",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuşlar yumurtlayarak mı ürer?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "hv-a38",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Memeliler yavrularını nasıl besler?",
+          "dogruCevap": "Sütle",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a39",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kurbağa hem karada hem suda yaşar mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kurbağa",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-a40",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "İnek otla beslenir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a41",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kedi etçil midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "yurur"
+          }
+        },
+        {
+          "id": "hv-a42",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Balıklar pullu mudur?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "pul"
+          }
+        },
+        {
+          "id": "hv-a43",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kuşların kanatları vardır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "ucar"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "hv-a44",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Arı çiçeklerden ne toplar?",
+          "dogruCevap": "Polen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ari",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-a45",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Köpek havlar mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kopek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a46",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Yılan sürüngen midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "yilan",
+            "ozellik": "surunur"
+          }
+        },
+        {
+          "id": "hv-a47",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Ördek yüzer mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ordek",
+            "ozellik": "yuzer"
+          }
+        },
+        {
+          "id": "hv-a48",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Kelebek uçar mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kelebek",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-a49",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "İnek memeli midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-a50",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "yazili",
+          "soru": "Hayvanlar beslenir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "hv-anlatim-1"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "hv-t1",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedinin vücut örtüsü hangisidir?",
+          "dogruCevap": "Deri",
+          "secenekler": [
+            "Pul",
+            "Tüy",
+            "Deri",
+            "Taş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "deri"
+          }
+        },
+        {
+          "id": "hv-t2",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuşun vücut örtüsü hangisidir?",
+          "dogruCevap": "Tüy",
+          "secenekler": [
+            "Deri",
+            "Pul",
+            "Tüy",
+            "Kaya"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "tuy"
+          }
+        },
+        {
+          "id": "hv-t3",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Balığın vücut örtüsü hangisidir?",
+          "dogruCevap": "Pul",
+          "secenekler": [
+            "Deri",
+            "Kürk",
+            "Pul",
+            "Tüy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "pul"
+          }
+        },
+        {
+          "id": "hv-t4",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedi hangi ortamda yaşar?",
+          "dogruCevap": "Kara",
+          "secenekler": [
+            "Kara",
+            "Hava",
+            "Uzay",
+            "Su"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "kara"
+          }
+        },
+        {
+          "id": "hv-t5",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Balık hangi ortamda yaşar?",
+          "dogruCevap": "Su",
+          "secenekler": [
+            "Hava",
+            "Kara",
+            "Toprak",
+            "Su"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-t6",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuş en çok hangi ortamda hareket eder?",
+          "dogruCevap": "Hava",
+          "secenekler": [
+            "Hava",
+            "Toprak",
+            "Mağara",
+            "Su"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "hava"
+          }
+        },
+        {
+          "id": "hv-t7",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedi nasıl hareket eder?",
+          "dogruCevap": "Yürür",
+          "secenekler": [
+            "Uçar",
+            "Sürünür",
+            "Yüzer",
+            "Yürür"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "yurur"
+          }
+        },
+        {
+          "id": "hv-t8",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Yürüyen her hayvan memeli midir?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Sadece kediler",
+            "Evet",
+            "Sadece köpekler",
+            "Hayır"
+          ],
+          "ipucu": "Kaplumbağa da yürür ama memeli değildir!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kaplumbaga",
+            "ozellik": "yurur"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "hv-t9",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuş nasıl hareket eder?",
+          "dogruCevap": "Uçar",
+          "secenekler": [
+            "Yüzer",
+            "Uçar",
+            "Zıplar",
+            "Sürünür"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "ucar"
+          }
+        },
+        {
+          "id": "hv-t10",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Balık nasıl hareket eder?",
+          "dogruCevap": "Yüzer",
+          "secenekler": [
+            "Uçar",
+            "Yürür",
+            "Tırmanır",
+            "Yüzer"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "yuzer"
+          }
+        },
+        {
+          "id": "hv-t11",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedi hangi hayvan grubundadır?",
+          "dogruCevap": "Memeli",
+          "secenekler": [
+            "Böcek",
+            "Kuş",
+            "Memeli",
+            "Balık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-t12",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ördek hangi hayvan grubundadır?",
+          "dogruCevap": "Kuş",
+          "secenekler": [
+            "Memeli",
+            "Balık",
+            "Kuş",
+            "Böcek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ordek",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "hv-t13",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Arı hangi hayvan grubundadır?",
+          "dogruCevap": "Böcek",
+          "secenekler": [
+            "Balık",
+            "Memeli",
+            "Böcek",
+            "Kuş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ari",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-t14",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "İnek hangi hayvan grubundadır?",
+          "dogruCevap": "Memeli",
+          "secenekler": [
+            "Kuş",
+            "Böcek",
+            "Memeli",
+            "Balık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-t15",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yılan nasıl hareket eder?",
+          "dogruCevap": "Sürünür",
+          "secenekler": [
+            "Koşar",
+            "Uçar",
+            "Sürünür",
+            "Yüzer"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "yilan",
+            "ozellik": "surunur"
+          }
+        },
+        {
+          "id": "hv-t16",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Tüy örtüsü olan hayvan hangisidir?",
+          "dogruCevap": "Kuş",
+          "secenekler": [
+            "Kedi",
+            "Kurbağa",
+            "Balık",
+            "Kuş"
+          ],
+          "ipucu": "Kuşların vücudu tüyle kaplıdır!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "tuy"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "hv-t17",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Pul örtüsü olan hayvan hangisidir?",
+          "dogruCevap": "Balık",
+          "secenekler": [
+            "Balık",
+            "Arı",
+            "Kuş",
+            "Kedi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "pul"
+          }
+        },
+        {
+          "id": "hv-t18",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Deri örtüsü olan hayvan hangisidir?",
+          "dogruCevap": "Kedi",
+          "secenekler": [
+            "Kedi",
+            "Kuş",
+            "Balık",
+            "Kelebek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "deri"
+          }
+        },
+        {
+          "id": "hv-t19",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kelebek hangi hayvan grubundadır?",
+          "dogruCevap": "Böcek",
+          "secenekler": [
+            "Balık",
+            "Böcek",
+            "Memeli",
+            "Kuş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kelebek",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-t20",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Balık karada mı yaşar?",
+          "dogruCevap": "Hayır, suda yaşar",
+          "secenekler": [
+            "Hayır, suda yaşar",
+            "Hem karada hem havada",
+            "Toprakta",
+            "Evet, karada"
+          ],
+          "ipucu": "Balıklar solungaçlarıyla suda yaşar!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "su"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "hv-t21",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kaplumbağa nasıl hareket eder?",
+          "dogruCevap": "Yürür",
+          "secenekler": [
+            "Yürür",
+            "Uçar",
+            "Yüzer",
+            "Sürünür"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kaplumbaga",
+            "ozellik": "yurur"
+          }
+        },
+        {
+          "id": "hv-t22",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kurbağa hangi ortamlarda yaşayabilir?",
+          "dogruCevap": "Kara ve su",
+          "secenekler": [
+            "Sadece su",
+            "Sadece kara",
+            "Sadece hava",
+            "Kara ve su"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kurbağa",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-t23",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hayvanlar beslenir mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece bitkiler",
+            "Sadece taşlar",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kedi"
+          }
+        },
+        {
+          "id": "hv-t24",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ördek hem yüzer hem uçar. Hangi gruptadır?",
+          "dogruCevap": "Kuş",
+          "secenekler": [
+            "Kuş",
+            "Böcek",
+            "Memeli",
+            "Balık"
+          ],
+          "ipucu": "Ördek bir kuştur!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ordek",
+            "ozellik": "kus"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "hv-t25",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Kedinin vücudu tüyle kaplıdır. Bu doğru mu?",
+          "dogruCevap": "Evet, memelilerde tüy veya kıl olabilir",
+          "secenekler": [
+            "Evet, memelilerde tüy veya kıl olabilir",
+            "Sadece balıklarda tüy var",
+            "Sadece kuşlarda tüy var",
+            "Hayır, hiç tüy yok"
+          ],
+          "ipucu": "Kedi memelidir, vücudunda tüy bulunur!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "tuy"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "hv-t26",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yün keçisi hangi gruptadır?",
+          "dogruCevap": "Memeli",
+          "secenekler": [
+            "Böcek",
+            "Memeli",
+            "Kuş",
+            "Balık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-t27",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Serçe hangi gruptadır?",
+          "dogruCevap": "Kuş",
+          "secenekler": [
+            "Sürüngen",
+            "Memeli",
+            "Balık",
+            "Kuş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "hv-t28",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yun balığı hangi gruptadır?",
+          "dogruCevap": "Balık",
+          "secenekler": [
+            "Kuş",
+            "Balık",
+            "Böcek",
+            "Memeli"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "balik"
+          }
+        },
+        {
+          "id": "hv-t29",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kaplumbağa nerede yaşar?",
+          "dogruCevap": "Kara ve su",
+          "secenekler": [
+            "Uzay",
+            "Sadece hava",
+            "Kara ve su",
+            "Sadece su"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kaplumbaga",
+            "ozellik": "kara"
+          }
+        },
+        {
+          "id": "hv-t30",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Arılar ne üretir?",
+          "dogruCevap": "Bal",
+          "secenekler": [
+            "Süt",
+            "Bal",
+            "Yumurta",
+            "Taş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ari",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-t31",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Köpek sadık bir hayvan mıdır?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Bazen",
+            "Sadece kışın",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kopek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-t32",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Balıklar nefes almak için ne kullanır?",
+          "dogruCevap": "Solungaç",
+          "secenekler": [
+            "Burun",
+            "Akciğer",
+            "Solungaç",
+            "Kulak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-t33",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Memeliler yavrularını nasıl besler?",
+          "dogruCevap": "Sütle",
+          "secenekler": [
+            "Suyla",
+            "Yaprakla",
+            "Sütle",
+            "Taşla"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-t34",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kelebek hangi gruptadır?",
+          "dogruCevap": "Böcek",
+          "secenekler": [
+            "Kuş",
+            "Memeli",
+            "Böcek",
+            "Balık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kelebek",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-t35",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "İnek neyle beslenir?",
+          "dogruCevap": "Ot",
+          "secenekler": [
+            "Balık",
+            "Et",
+            "Taş",
+            "Ot"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-t36",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuşlar nasıl hareket eder?",
+          "dogruCevap": "Uçarak",
+          "secenekler": [
+            "Yürüyerek",
+            "Uçarak",
+            "Sürünerek",
+            "Yüzerek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "ucar"
+          }
+        },
+        {
+          "id": "hv-t37",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yılan hangi gruptadır?",
+          "dogruCevap": "Sürüngen",
+          "secenekler": [
+            "Sürüngen",
+            "Kuş",
+            "Balık",
+            "Memeli"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "yilan",
+            "ozellik": "surunur"
+          }
+        },
+        {
+          "id": "hv-t38",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ördek yüzer mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece yürür",
+            "Hayır",
+            "Evet",
+            "Sadece uçar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ordek",
+            "ozellik": "yuzer"
+          }
+        },
+        {
+          "id": "hv-t39",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kurbağa hangi ortamlarda yaşar?",
+          "dogruCevap": "Kara ve su",
+          "secenekler": [
+            "Sadece hava",
+            "Kara ve su",
+            "Sadece kara",
+            "Uzay"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kurbağa",
+            "ozellik": "su"
+          }
+        },
+        {
+          "id": "hv-t40",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kedi etçil midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Sadece ot yer",
+            "Hiç yemez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kedi",
+            "ozellik": "yurur"
+          }
+        },
+        {
+          "id": "hv-t41",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Balıkların vücut örtüsü nedir?",
+          "dogruCevap": "Pul",
+          "secenekler": [
+            "Deri",
+            "Taş",
+            "Tüy",
+            "Pul"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "pul"
+          }
+        },
+        {
+          "id": "hv-t42",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuşların yumurtası vardır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış",
+            "Sadece yazın"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kus",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "hv-t43",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Arı çiçeklerden ne toplar?",
+          "dogruCevap": "Polen",
+          "secenekler": [
+            "Su",
+            "Taş",
+            "Kum",
+            "Polen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ari",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-t44",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "İnek memeli midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Balık",
+            "Evet",
+            "Hayır",
+            "Kuş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "inek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-t45",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hayvanlar beslenir mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Sadece bitkiler",
+            "Hayır",
+            "Evet",
+            "Sadece insanlar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "hv-anlatim-1"
+          }
+        },
+        {
+          "id": "hv-t46",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Köpek havlar mı?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Yüzer",
+            "Hayır",
+            "Uçar",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kopek",
+            "ozellik": "memeli"
+          }
+        },
+        {
+          "id": "hv-t47",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kelebek uçar mı?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Yüzer",
+            "Evet",
+            "Sürünür",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "kelebek",
+            "ozellik": "bocek"
+          }
+        },
+        {
+          "id": "hv-t48",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ördek hangi gruptadır?",
+          "dogruCevap": "Kuş",
+          "secenekler": [
+            "Balık",
+            "Kuş",
+            "Böcek",
+            "Memeli"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "ordek",
+            "ozellik": "kus"
+          }
+        },
+        {
+          "id": "hv-t49",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yılan nasıl hareket eder?",
+          "dogruCevap": "Sürünerek",
+          "secenekler": [
+            "Sürünerek",
+            "Uçarak",
+            "Yüzerek",
+            "Zıplayarak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "yilan",
+            "ozellik": "surunur"
+          }
+        },
+        {
+          "id": "hv-t50",
+          "kazanimKodu": "FEN.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Balık karada mı yaşar?",
+          "dogruCevap": "Hayır, suda yaşar",
+          "secenekler": [
+            "Evet, karada",
+            "Hayır, suda yaşar",
+            "Toprakta",
+            "Hem karada hem havada"
+          ],
+          "ipucu": "Balıklar solungaçlarıyla suda yaşar!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "hayvan",
+            "nesne": "balik",
+            "ozellik": "su"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

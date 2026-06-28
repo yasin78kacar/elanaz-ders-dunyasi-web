@@ -1,0 +1,1843 @@
+{
+  "id": "tema-4",
+  "baslik": "İngilizce — Tema 4",
+  "konular": [
+    {
+      "id": "renkler",
+      "baslik": "Colors",
+      "kazanimKodu": "ING.2.4.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Berk elinde rengarenk bir boya kutusuyla okula geldi. Kırmızı Red, mavi Blue, sarı Yellow, yeşil Green, turuncu Orange ve pembe Pink! Sınıfları İngilizce renklerle açan harika bir gökkuşağına dönüştü.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "rk-anlatim-1"
+            }
+          },
+          {
+            "metin": "Ali, Ayşe ve Berk öğrendikleri renkleri birleştirerek oyun oynadılar. \"Red apple!\", \"Blue sky!\", \"Yellow sun!\" Siyah Black, beyaz White ve mor Purple renkleri de oyunlarına kattılar.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "rk-anlatim-2"
+            }
+          },
+          {
+            "metin": "Öğretmenleri tahtaya bir gökkuşağı çizdi. \"Colors are beautiful!\" dedi. Çocuklar renkleri İngilizce söyleyerek sınıfı renkli bir dünyaya çevirdiler.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "rk-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "rk-a1",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Kırmızı rengin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "red",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-elma"
+          }
+        },
+        {
+          "id": "rk-a2",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Mavi rengin İngilizce karşılığı ......... kelimesidir.",
+          "dogruCevap": "blue",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mavi-gokyuzu"
+          }
+        },
+        {
+          "id": "rk-a3",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Sarı renk İngilizcede \"Yellow\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-gunes"
+          }
+        },
+        {
+          "id": "rk-a4",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Yeşil rengin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "green",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yesil-yaprak"
+          }
+        },
+        {
+          "id": "rk-a5",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Turuncu renk İngilizcede \"Orange\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turuncu-portakal"
+          }
+        },
+        {
+          "id": "rk-a6",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Pembe rengin İngilizce yazılışı ......... kelimesidir.",
+          "dogruCevap": "pink",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pembe-pamuk-seker"
+          }
+        },
+        {
+          "id": "rk-a7",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Mor renk İngilizcede \"Purple\" olarak yazılır ve okunur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mor-uzum"
+          }
+        },
+        {
+          "id": "rk-a8",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Siyah rengin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "black",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "siyah-kedi"
+          }
+        },
+        {
+          "id": "rk-a9",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Beyaz renk İngilizcede \"White\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "beyaz-kar"
+          }
+        },
+        {
+          "id": "rk-a10",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Kahverengi kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "brown",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kahverengi-ayi"
+          }
+        },
+        {
+          "id": "rk-a11",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Renkler kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "colors",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "boya-kalemleri"
+          }
+        },
+        {
+          "id": "rk-a12",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "İngilizcede kırmızı \"Red\", mavi ise \"Green\" demektir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-gul"
+          }
+        },
+        {
+          "id": "rk-a13",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "\"Yellow\" kelimesi Türkçe olarak ......... rengini anlatır.",
+          "dogruCevap": "sarı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-limon"
+          }
+        },
+        {
+          "id": "rk-a14",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "\"Blue\" kelimesi Türkçe olarak mavi anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mavi-deniz"
+          }
+        },
+        {
+          "id": "rk-a15",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "\"Pink\" kelimesi siyah rengi ifade eder.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pembe-cicek"
+          }
+        },
+        {
+          "id": "rk-a16",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Kurbağanın rengi olan yeşil İngilizcede ......... olarak adlandırılır.",
+          "dogruCevap": "green",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yesil-kurbaga"
+          }
+        },
+        {
+          "id": "rk-a17",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "\"Black\" kelimesi beyaz anlamına gelir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "siyah-sapka"
+          }
+        },
+        {
+          "id": "rk-a18",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Gökyüzündeki beyaz bulutlar İngilizcede \".........\" renktedir.",
+          "dogruCevap": "white",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "beyaz-bulut"
+          }
+        },
+        {
+          "id": "rk-a19",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "\"Purple\" kelimesi Türkçe olarak ......... rengidir.",
+          "dogruCevap": "mor",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mor-balon"
+          }
+        },
+        {
+          "id": "rk-a20",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "\"Orange\" kelimesi hem meyve olan portakal hem de turuncu renk için kullanılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turuncu-top"
+          }
+        },
+        {
+          "id": "rk-a21",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Ağacın gövdesi İngilizcede \".........\" renktedir.",
+          "dogruCevap": "brown",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kahverengi-agac"
+          }
+        },
+        {
+          "id": "rk-a22",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "\"Gray\" kelimesi gri rengi ifade eder.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gri-fil"
+          }
+        },
+        {
+          "id": "rk-a23",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Çileğin rengi İngilizcede ......... kelimesidir.",
+          "dogruCevap": "red",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-cilek"
+          }
+        },
+        {
+          "id": "rk-a24",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Limonun rengi İngilizcede ......... kelimesidir.",
+          "dogruCevap": "yellow",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-limon"
+          }
+        },
+        {
+          "id": "rk-a25",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "yazili",
+          "soru": "Renkler İngilizcede \"Colors\" olarak adlandırılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "renkli-boya-kutusu"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "rk-t1",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ayşe'nin elindeki elmanın rengi İngilizcede nasıl söylenir?",
+          "dogruCevap": "Red",
+          "secenekler": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-elma"
+          }
+        },
+        {
+          "id": "rk-t2",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Denizin ve gökyüzünün rengi olan mavi, İngilizcede nedir?",
+          "dogruCevap": "Blue",
+          "secenekler": [
+            "Blue",
+            "Orange",
+            "Pink",
+            "Black"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mavi-deniz"
+          }
+        },
+        {
+          "id": "rk-t3",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Berk'in çizdiği güneşin rengi İngilizcede hangi kelimeyle ifade edilir?",
+          "dogruCevap": "Yellow",
+          "secenekler": [
+            "Purple",
+            "Yellow",
+            "Red",
+            "White"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-gunes"
+          }
+        },
+        {
+          "id": "rk-t4",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaçların ve yaprakların rengi olan \"yeşil\" kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Green",
+          "secenekler": [
+            "Brown",
+            "Green",
+            "Blue",
+            "Orange"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yesil-orman"
+          }
+        },
+        {
+          "id": "rk-t5",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ali'nin çok sevdiği basketbol topunun rengi (turuncu) İngilizcede nedir?",
+          "dogruCevap": "Orange",
+          "secenekler": [
+            "Black",
+            "Orange",
+            "Pink",
+            "Yellow"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turuncu-basketbol"
+          }
+        },
+        {
+          "id": "rk-t6",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Gökyüzünde süzülen pembe uçurtmanın rengi İngilizcede nasıl söylenir?",
+          "dogruCevap": "Pink",
+          "secenekler": [
+            "White",
+            "Purple",
+            "Green",
+            "Pink"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pembe-ucurtma"
+          }
+        },
+        {
+          "id": "rk-t7",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Minik siyah kedinin rengi İngilizcede hangi kelimedir?",
+          "dogruCevap": "Black",
+          "secenekler": [
+            "Brown",
+            "Red",
+            "Black",
+            "White"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "siyah-kedi"
+          }
+        },
+        {
+          "id": "rk-t8",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Karlar üstünde zıplayan bembeyaz tavşanın rengi İngilizcede nedir?",
+          "dogruCevap": "White",
+          "secenekler": [
+            "Yellow",
+            "Black",
+            "Blue",
+            "White"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "beyaz-tavsan"
+          }
+        },
+        {
+          "id": "rk-t9",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Fatma'nın çok sevdiği mor üzümlerin rengi İngilizcede nasıl yazılır?",
+          "dogruCevap": "Purple",
+          "secenekler": [
+            "Orange",
+            "Purple",
+            "Pink",
+            "Green"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mor-uzum-salkimi"
+          }
+        },
+        {
+          "id": "rk-t10",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Brown\" kelimesinin Türkçedeki anlamı hangi renktir?",
+          "dogruCevap": "Kahverengi",
+          "secenekler": [
+            "Sarı",
+            "Kahverengi",
+            "Kırmızı",
+            "Mavi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kahverengi-cikolata"
+          }
+        },
+        {
+          "id": "rk-t11",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "İngilizcede \"Renkler\" kelimesinin karşılığı aşağıdakilerden hangisidir?",
+          "dogruCevap": "Colors",
+          "secenekler": [
+            "Animals",
+            "Colors",
+            "Numbers",
+            "Books"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "renkli-boya-kutusu"
+          }
+        },
+        {
+          "id": "rk-t12",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "İngilizcede \"Green\" ve \"Red\" kelimeleri sırasıyla hangi renklerdir?",
+          "dogruCevap": "Yeşil ve Kırmızı",
+          "secenekler": [
+            "Mavi ve Sarı",
+            "Yeşil ve Kırmızı",
+            "Sarı ve Turuncu",
+            "Mor ve Pembe"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yesil-kirmizi-elma"
+          }
+        },
+        {
+          "id": "rk-t13",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Blue car\" ifadesi Türkçede ne anlama gelir?",
+          "dogruCevap": "Mavi araba",
+          "secenekler": [
+            "Mavi araba",
+            "Yeşil araba",
+            "Sarı araba",
+            "Kırmızı araba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mavi-araba"
+          }
+        },
+        {
+          "id": "rk-t14",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Yellow\" kelimesi hangi hayvanın rengini çok güzel anlatır?",
+          "dogruCevap": "Civciv",
+          "secenekler": [
+            "Timsah",
+            "Civciv",
+            "Fil",
+            "Karga"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-civciv"
+          }
+        },
+        {
+          "id": "rk-t15",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Piyanonun tuşları hangi iki renktedir?",
+          "dogruCevap": "Black and White",
+          "secenekler": [
+            "Black and White",
+            "Red and Blue",
+            "Green and Yellow",
+            "Pink and Purple"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "piyano-tuslari"
+          }
+        },
+        {
+          "id": "rk-t16",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hem bir meyve adı hem de bir renk adı olan İngilizce kelime hangisidir?",
+          "dogruCevap": "Orange",
+          "secenekler": [
+            "Apple",
+            "Orange",
+            "Banana",
+            "Melon"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "portakal-resmi"
+          }
+        },
+        {
+          "id": "rk-t17",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi seçenekteki eşleştirme YANLIŞTIR?",
+          "dogruCevap": "Green = Sarı",
+          "secenekler": [
+            "Pink = Pembe",
+            "Green = Sarı",
+            "Red = Kırmızı",
+            "Blue = Mavi"
+          ],
+          "ipucu": "Green yeşil demektir!",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "renk-paleti"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "rk-t18",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çiftlikteki kahverengi atın rengi İngilizce hangi kelimeyle ifade edilir?",
+          "dogruCevap": "Brown",
+          "secenekler": [
+            "Brown",
+            "White",
+            "Black",
+            "Purple"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kahverengi-at"
+          }
+        },
+        {
+          "id": "rk-t19",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Purple\" kelimesinin Türkçe anlamı nedir?",
+          "dogruCevap": "Mor",
+          "secenekler": [
+            "Siyah",
+            "Mor",
+            "Pembe",
+            "Kırmızı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mor-menekse"
+          }
+        },
+        {
+          "id": "rk-t20",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Berk'in takımının renkleri \"Yellow and Blue\"dur. Bunlar hangi renklerdir?",
+          "dogruCevap": "Sarı ve Mavi",
+          "secenekler": [
+            "Siyah ve Beyaz",
+            "Yeşil ve Turuncu",
+            "Sarı ve Mavi",
+            "Kırmızı ve Beyaz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-mavi-forma"
+          }
+        },
+        {
+          "id": "rk-t21",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "\"Blue sky, white clouds\" cümlesinde geçen renkler sırasıyla hangileridir?",
+          "dogruCevap": "Mavi ve Beyaz",
+          "secenekler": [
+            "Mor ve Pembe",
+            "Mavi ve Beyaz",
+            "Siyah ve Yeşil",
+            "Sarı ve Kırmızı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mavi-gokyuzu-bulut"
+          }
+        },
+        {
+          "id": "rk-t22",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdaki renklerden hangisi bir gökkuşağında bulunmaz?",
+          "dogruCevap": "Black",
+          "secenekler": [
+            "Black",
+            "Red",
+            "Yellow",
+            "Blue"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gokkusagi"
+          }
+        },
+        {
+          "id": "rk-t23",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çileğin rengi İngilizcede hangi kelimedir?",
+          "dogruCevap": "Red",
+          "secenekler": [
+            "Red",
+            "Yellow",
+            "Green",
+            "Blue"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-cilek"
+          }
+        },
+        {
+          "id": "rk-t24",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Limonun rengi İngilizcede nedir?",
+          "dogruCevap": "Yellow",
+          "secenekler": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-limon"
+          }
+        },
+        {
+          "id": "rk-t25",
+          "kazanimKodu": "ING.2.4.1",
+          "tip": "coktanSecmeli",
+          "soru": "Pembe rengin İngilizcesi nedir?",
+          "dogruCevap": "Pink",
+          "secenekler": [
+            "Pink",
+            "Orange",
+            "Red",
+            "Purple"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pembe-cicek"
+          }
+        }
+      ]
+    },
+    {
+      "id": "duygular",
+      "baslik": "Feelings",
+      "kazanimKodu": "ING.2.4.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Sınıfta duygu kartları vardı. Öğretmen \"Happy, sad, angry, scared!\" dedi. Elanaz gülümsedi: \"I am happy!\" Berk biraz üzgündü: \"I am sad.\" Her çocuk kendi duygusunu İngilizce söylemeyi öğrendi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "dg-anlatim-1"
+            }
+          },
+          {
+            "metin": "Öğretmen sordu: \"How are you?\" Çocuklar sırayla cevap verdi: \"I am fine!\", \"I am tired!\", \"I am excited!\" Duygularını paylaşmak sınıfı daha sıcak bir yer yaptı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "dg-anlatim-2"
+            }
+          },
+          {
+            "metin": "Parkta oynarken Berk korktu: \"I am scared!\" Annesi ona sarıldı. Elanaz heyecanlandı: \"I am surprised!\" Duygularımızı İngilizce söylemek çok kolaydı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "dg-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "dg-a1",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Mutlu kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "happy",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mutlu-yuz"
+          }
+        },
+        {
+          "id": "dg-a2",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Üzgün kelimesinin İngilizce karşılığı ......... kelimesidir.",
+          "dogruCevap": "sad",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "uzgun-yuz"
+          }
+        },
+        {
+          "id": "dg-a3",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Happy\" kelimesi mutlu anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mutlu-cocuk"
+          }
+        },
+        {
+          "id": "dg-a4",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Kızgın kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "angry",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kizgin-yuz"
+          }
+        },
+        {
+          "id": "dg-a5",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Sad\" kelimesi üzgün demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "uzgun-cocuk"
+          }
+        },
+        {
+          "id": "dg-a6",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Korkmuş kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "scared",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "korkmus-yuz"
+          },
+          "alternatifCevaplar": [
+            "afraid"
+          ]
+        },
+        {
+          "id": "dg-a7",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Yorgun kelimesinin İngilizce karşılığı ......... kelimesidir.",
+          "dogruCevap": "tired",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yorgun-cocuk"
+          }
+        },
+        {
+          "id": "dg-a8",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Surprised\" kelimesi şaşırmış anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sasirmis-yuz"
+          }
+        },
+        {
+          "id": "dg-a9",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Heyecanlı kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "excited",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "heyecanli-cocuk"
+          }
+        },
+        {
+          "id": "dg-a10",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Duygular kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "feelings",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "duygu-kartlari"
+          }
+        },
+        {
+          "id": "dg-a11",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Angry\" kelimesi mutlu anlamına gelir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kizgin-yuz"
+          }
+        },
+        {
+          "id": "dg-a12",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Aç kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "hungry",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ac-cocuk"
+          }
+        },
+        {
+          "id": "dg-a13",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Susamış kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "thirsty",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "susuz-cocuk"
+          }
+        },
+        {
+          "id": "dg-a14",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Tired\" kelimesi yorgun demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yorgun-cocuk"
+          }
+        },
+        {
+          "id": "dg-a15",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Sıkılmış kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "bored",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sikilmis-cocuk"
+          }
+        },
+        {
+          "id": "dg-a16",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Scared\" kelimesi korkmuş anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "korkmus-cocuk"
+          }
+        },
+        {
+          "id": "dg-a17",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"How are you?\" sorusuna \"I am .........\" (iyiyim) diyebiliriz.",
+          "dogruCevap": "fine",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "iyiyim-isareti"
+          },
+          "alternatifCevaplar": [
+            "good",
+            "well"
+          ]
+        },
+        {
+          "id": "dg-a18",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Excited\" kelimesi heyecanlı demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "heyecanli-cocuk"
+          }
+        },
+        {
+          "id": "dg-a19",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Gülümsemek İngilizcede \".........\" kelimesidir.",
+          "dogruCevap": "smile",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gulumseyen-yuz"
+          }
+        },
+        {
+          "id": "dg-a20",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Bored\" kelimesi sıkılmış anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sikilmis-cocuk"
+          }
+        },
+        {
+          "id": "dg-a21",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Ağlamak İngilizcede \".........\" kelimesidir.",
+          "dogruCevap": "cry",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aglayan-cocuk"
+          }
+        },
+        {
+          "id": "dg-a22",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Hungry\" kelimesi aç demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ac-cocuk"
+          }
+        },
+        {
+          "id": "dg-a23",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Sevinç kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "joy",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sevincli-cocuk"
+          }
+        },
+        {
+          "id": "dg-a24",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Thirsty\" kelimesi susamış anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "susuz-cocuk"
+          }
+        },
+        {
+          "id": "dg-a25",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"I feel happy\" cümlesi Türkçede \"Mutlu hissediyorum\" demektir.",
+          "dogruCevap": "Mutlu hissediyorum",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mutlu-cocuk"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "dg-t1",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Mutlu kelimesinin İngilizcesi hangisidir?",
+          "dogruCevap": "Happy",
+          "secenekler": [
+            "Angry",
+            "Sad",
+            "Tired",
+            "Happy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mutlu-yuz"
+          }
+        },
+        {
+          "id": "dg-t2",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Üzgün kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Sad",
+          "secenekler": [
+            "Happy",
+            "Hungry",
+            "Sad",
+            "Excited"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "uzgun-yuz"
+          }
+        },
+        {
+          "id": "dg-t3",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kızgın kelimesinin İngilizcesi hangisidir?",
+          "dogruCevap": "Angry",
+          "secenekler": [
+            "Bored",
+            "Happy",
+            "Tired",
+            "Angry"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kizgin-yuz"
+          }
+        },
+        {
+          "id": "dg-t4",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Korkmuş kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Scared",
+          "secenekler": [
+            "Excited",
+            "Scared",
+            "Happy",
+            "Hungry"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "korkmus-yuz"
+          }
+        },
+        {
+          "id": "dg-t5",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yorgun kelimesinin İngilizcesi hangisidir?",
+          "dogruCevap": "Tired",
+          "secenekler": [
+            "Tired",
+            "Excited",
+            "Angry",
+            "Happy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yorgun-cocuk"
+          }
+        },
+        {
+          "id": "dg-t6",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şaşırmış kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Surprised",
+          "secenekler": [
+            "Sad",
+            "Bored",
+            "Thirsty",
+            "Surprised"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sasirmis-yuz"
+          }
+        },
+        {
+          "id": "dg-t7",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Heyecanlı kelimesinin İngilizcesi hangisidir?",
+          "dogruCevap": "Excited",
+          "secenekler": [
+            "Tired",
+            "Excited",
+            "Angry",
+            "Sad"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "heyecanli-cocuk"
+          }
+        },
+        {
+          "id": "dg-t8",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aç kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Hungry",
+          "secenekler": [
+            "Thirsty",
+            "Hungry",
+            "Happy",
+            "Tired"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ac-cocuk"
+          }
+        },
+        {
+          "id": "dg-t9",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Susamış kelimesinin İngilizcesi hangisidir?",
+          "dogruCevap": "Thirsty",
+          "secenekler": [
+            "Sad",
+            "Hungry",
+            "Happy",
+            "Thirsty"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "susuz-cocuk"
+          }
+        },
+        {
+          "id": "dg-t10",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Sıkılmış kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Bored",
+          "secenekler": [
+            "Happy",
+            "Surprised",
+            "Excited",
+            "Bored"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sikilmis-cocuk"
+          }
+        },
+        {
+          "id": "dg-t11",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"How are you?\" sorusunun Türkçe anlamı nedir?",
+          "dogruCevap": "Nasılsın?",
+          "secenekler": [
+            "Görüşürüz",
+            "Merhaba",
+            "Nasılsın?",
+            "Hoşça kal"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "nasilsin-sorusu"
+          }
+        },
+        {
+          "id": "dg-t12",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"I am fine\" ifadesi ne anlama gelir?",
+          "dogruCevap": "İyiyim",
+          "secenekler": [
+            "Kızgınım",
+            "İyiyim",
+            "Yorgunum",
+            "Üzgünüm"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "iyiyim-isareti"
+          }
+        },
+        {
+          "id": "dg-t13",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Duygular kelimesinin İngilizcesi hangisidir?",
+          "dogruCevap": "Feelings",
+          "secenekler": [
+            "Colors",
+            "Numbers",
+            "Family",
+            "Feelings"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "duygu-kartlari"
+          }
+        },
+        {
+          "id": "dg-t14",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Gülümsemek İngilizcede nasıl söylenir?",
+          "dogruCevap": "Smile",
+          "secenekler": [
+            "Run",
+            "Cry",
+            "Smile",
+            "Sleep"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gulumseyen-yuz"
+          }
+        },
+        {
+          "id": "dg-t15",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ağlamak İngilizcede hangi kelimedir?",
+          "dogruCevap": "Cry",
+          "secenekler": [
+            "Smile",
+            "Sing",
+            "Jump",
+            "Cry"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aglayan-cocuk"
+          }
+        },
+        {
+          "id": "dg-t16",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Parkta oynayan neşeli çocuğun duygusu hangisidir?",
+          "dogruCevap": "Happy",
+          "secenekler": [
+            "Angry",
+            "Sad",
+            "Scared",
+            "Happy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "parkta-oynayan"
+          }
+        },
+        {
+          "id": "dg-t17",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kaybolan oyuncağı için ağlayan çocuk hangi duyguyu hisseder?",
+          "dogruCevap": "Sad",
+          "secenekler": [
+            "Happy",
+            "Excited",
+            "Hungry",
+            "Sad"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aglayan-cocuk"
+          }
+        },
+        {
+          "id": "dg-t18",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Karanlıkta korkan çocuk hangi duyguyu hisseder?",
+          "dogruCevap": "Scared",
+          "secenekler": [
+            "Scared",
+            "Bored",
+            "Happy",
+            "Excited"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "korkmus-cocuk"
+          }
+        },
+        {
+          "id": "dg-t19",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun yürüyüşten sonra çocuk hangi duyguyu hisseder?",
+          "dogruCevap": "Tired",
+          "secenekler": [
+            "Angry",
+            "Tired",
+            "Surprised",
+            "Excited"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yorgun-cocuk"
+          }
+        },
+        {
+          "id": "dg-t20",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Doğum günü sürprizinde çocuk hangi duyguyu hisseder?",
+          "dogruCevap": "Surprised",
+          "secenekler": [
+            "Sad",
+            "Thirsty",
+            "Surprised",
+            "Bored"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sasirmis-cocuk"
+          }
+        },
+        {
+          "id": "dg-t21",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Öğle yemeği vakti gelince çocuk hangi duyguyu hisseder?",
+          "dogruCevap": "Hungry",
+          "secenekler": [
+            "Happy",
+            "Hungry",
+            "Tired",
+            "Thirsty"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ac-cocuk"
+          }
+        },
+        {
+          "id": "dg-t22",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Sıcak günde su içmek isteyen çocuk hangi duyguyu hisseder?",
+          "dogruCevap": "Thirsty",
+          "secenekler": [
+            "Angry",
+            "Hungry",
+            "Sad",
+            "Thirsty"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "susuz-cocuk"
+          }
+        },
+        {
+          "id": "dg-t23",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"I feel excited\" cümlesi ne anlama gelir?",
+          "dogruCevap": "Heyecanlı hissediyorum",
+          "secenekler": [
+            "Heyecanlı hissediyorum",
+            "Korkuyorum",
+            "Yorgunum",
+            "Üzgünüm"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "heyecanli-cocuk"
+          }
+        },
+        {
+          "id": "dg-t24",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşı oyuncağını alınca çocuk hangi duyguyu hisseder?",
+          "dogruCevap": "Angry",
+          "secenekler": [
+            "Angry",
+            "Bored",
+            "Happy",
+            "Excited"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kizgin-cocuk"
+          }
+        },
+        {
+          "id": "dg-t25",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun süre bekleyen çocuk hangi duyguyu hisseder?",
+          "dogruCevap": "Bored",
+          "secenekler": [
+            "Surprised",
+            "Excited",
+            "Bored",
+            "Happy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sikilmis-cocuk"
+          }
+        }
+      ]
+    }
+  ]
+}

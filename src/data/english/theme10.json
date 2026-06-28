@@ -1,0 +1,1914 @@
+{
+  "id": "tema-10",
+  "baslik": "İngilizce — Tema 10",
+  "konular": [
+    {
+      "id": "ulkeler",
+      "baslik": "Countries",
+      "kazanimKodu": "ING.2.10.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Elanaz ve Berk sınıfta dünya haritasına baktılar. Türkiye Turkey, İngiltere England! Her ülkenin bayrağı farklı ve güzeldi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ul-anlatim-1"
+            }
+          },
+          {
+            "metin": "Öğretmen Fransa France, Almanya Germany ve İspanya Spain ülkelerini gösterdi. \"Country\" kelimesi ülke demektir. Haritada yeni yerler keşfetmek çok heyecanlıydı!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ul-anlatim-2"
+            }
+          },
+          {
+            "metin": "Japonya Japan, Çin China ve Mısır Egypt haritada uzak ülkelerdi. Elanaz \"I love my country Turkey!\" dedi. Ülkeleri İngilizce öğrenmek dünyayı tanımak gibiydi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ul-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ul-a1",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "Türkiye kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "Turkey",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turkiye-bayrak"
+          }
+        },
+        {
+          "id": "ul-a2",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "İngiltere İngilizcede \"England\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ingiltere-bayrak"
+          }
+        },
+        {
+          "id": "ul-a3",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "Amerika Birleşik Devletleri İngilizcede ......... olarak yazılır.",
+          "dogruCevap": "USA",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "abd-bayrak"
+          }
+        },
+        {
+          "id": "ul-a4",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "Fransa kelimesinin İngilizcesi \"France\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "fransa-bayrak"
+          }
+        },
+        {
+          "id": "ul-a5",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "Almanya kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "Germany",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "almanya-bayrak"
+          }
+        },
+        {
+          "id": "ul-a6",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "İtalya İngilizcede \"Italy\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "italya-bayrak"
+          }
+        },
+        {
+          "id": "ul-a7",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "İspanya kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "Spain",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ispanya-bayrak"
+          }
+        },
+        {
+          "id": "ul-a8",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "\"Japan\" kelimesi Japonya anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "japonya-bayrak"
+          }
+        },
+        {
+          "id": "ul-a9",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "Çin kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "China",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cin-bayrak"
+          }
+        },
+        {
+          "id": "ul-a10",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "Mısır İngilizcede \"Egypt\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "misir-bayrak"
+          }
+        },
+        {
+          "id": "ul-a11",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "Ülke kelimesinin İngilizcesi \".........\" kelimesidir.",
+          "dogruCevap": "country",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dunya-haritasi"
+          }
+        },
+        {
+          "id": "ul-a12",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "\"Brazil\" kelimesi Brezilya demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "brezilya-bayrak"
+          }
+        },
+        {
+          "id": "ul-a13",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "yazili",
+          "soru": "Avustralya kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "Australia",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "avustralya-bayrak"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ul-t1",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Türkiye'nin İngilizce adı nedir?",
+          "dogruCevap": "Turkey",
+          "secenekler": [
+            "England",
+            "Turkey",
+            "France",
+            "Japan"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turkiye-bayrak"
+          }
+        },
+        {
+          "id": "ul-t2",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "İngiltere'nin İngilizce adı hangisidir?",
+          "dogruCevap": "England",
+          "secenekler": [
+            "Spain",
+            "England",
+            "Germany",
+            "China"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ingiltere-bayrak"
+          }
+        },
+        {
+          "id": "ul-t3",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Amerika'nın kısa İngilizce adı nedir?",
+          "dogruCevap": "USA",
+          "secenekler": [
+            "UN",
+            "USA",
+            "EU",
+            "UK"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "abd-bayrak"
+          }
+        },
+        {
+          "id": "ul-t4",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Fransa'nın İngilizce adı nedir?",
+          "dogruCevap": "France",
+          "secenekler": [
+            "Greece",
+            "Italy",
+            "France",
+            "Spain"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "fransa-bayrak"
+          }
+        },
+        {
+          "id": "ul-t5",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Almanya'nın İngilizce adı hangisidir?",
+          "dogruCevap": "Germany",
+          "secenekler": [
+            "Greece",
+            "Brazil",
+            "Germany",
+            "India"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "almanya-bayrak"
+          }
+        },
+        {
+          "id": "ul-t6",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "İtalya'nın İngilizce adı nedir?",
+          "dogruCevap": "Italy",
+          "secenekler": [
+            "Mexico",
+            "Italy",
+            "Egypt",
+            "India"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "italya-bayrak"
+          }
+        },
+        {
+          "id": "ul-t7",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "İspanya'nın İngilizce adı nedir?",
+          "dogruCevap": "Spain",
+          "secenekler": [
+            "Russia",
+            "China",
+            "Spain",
+            "France"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ispanya-bayrak"
+          }
+        },
+        {
+          "id": "ul-t8",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Japonya'nın İngilizce adı hangisidir?",
+          "dogruCevap": "Japan",
+          "secenekler": [
+            "Japan",
+            "India",
+            "China",
+            "Brazil"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "japonya-bayrak"
+          }
+        },
+        {
+          "id": "ul-t9",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çin'in İngilizce adı nedir?",
+          "dogruCevap": "China",
+          "secenekler": [
+            "Japan",
+            "India",
+            "China",
+            "Korea"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cin-bayrak"
+          }
+        },
+        {
+          "id": "ul-t10",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Mısır'ın İngilizce adı nedir?",
+          "dogruCevap": "Egypt",
+          "secenekler": [
+            "Egypt",
+            "Canada",
+            "Greece",
+            "Mexico"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "misir-bayrak"
+          }
+        },
+        {
+          "id": "ul-t11",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ülke kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Country",
+          "secenekler": [
+            "Fruit",
+            "Country",
+            "School",
+            "City"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dunya-haritasi"
+          }
+        },
+        {
+          "id": "ul-t12",
+          "kazanimKodu": "ING.2.10.1",
+          "tip": "coktanSecmeli",
+          "soru": "Brezilya'nın İngilizce adı nedir?",
+          "dogruCevap": "Brazil",
+          "secenekler": [
+            "Canada",
+            "Australia",
+            "Brazil",
+            "Russia"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "brezilya-bayrak"
+          }
+        }
+      ]
+    },
+    {
+      "id": "meyveler",
+      "baslik": "Fruits",
+      "kazanimKodu": "ING.2.10.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Elanaz pazara gitti. Tezgahta kırmızı elmalar, sarı muzlar ve turuncu portakallar vardı. Apple, banana, orange! Meyveler renkli ve lezzetliydi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "my-anlatim-1"
+            }
+          },
+          {
+            "metin": "Berk mor üzüm salkımını gösterdi. \"Grape!\" dedi. Karpuz watermelon, çilek strawberry, kiraz cherry! \"Fruit\" kelimesi meyve demektir.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "my-anlatim-2"
+            }
+          },
+          {
+            "metin": "Öğretmen ananas pineapple, mango, kivi kiwi ve erik plum kelimelerini öğretti. Elanaz \"I love fruits!\" dedi. Meyveler sağlıklı beslenmenin anahtarıydı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "my-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "my-a1",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Elma kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "apple",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-elma"
+          }
+        },
+        {
+          "id": "my-a2",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Muz İngilizcede \"banana\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-muz"
+          }
+        },
+        {
+          "id": "my-a3",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Portakal kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "orange",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "portakal-resmi"
+          }
+        },
+        {
+          "id": "my-a4",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Üzüm İngilizcede \"grape\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mor-uzum"
+          }
+        },
+        {
+          "id": "my-a5",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Karpuz kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "watermelon",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "karpuz-dilim"
+          }
+        },
+        {
+          "id": "my-a6",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Çilek İngilizcede \"strawberry\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cilek-sepet"
+          }
+        },
+        {
+          "id": "my-a7",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Kiraz kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "cherry",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kiraz-dallari"
+          }
+        },
+        {
+          "id": "my-a8",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Şeftali İngilizcede \"peach\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "seftali-meyve"
+          }
+        },
+        {
+          "id": "my-a9",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Armut kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "pear",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "armut-yesil"
+          }
+        },
+        {
+          "id": "my-a10",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Kavun İngilizcede \"melon\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kavun-dilim"
+          }
+        },
+        {
+          "id": "my-a11",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Limon kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "lemon",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-limon"
+          }
+        },
+        {
+          "id": "my-a12",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Ananas İngilizcede \"pineapple\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ananas-meyve"
+          }
+        },
+        {
+          "id": "my-a13",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "yazili",
+          "soru": "Mango kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "mango",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mango-meyve"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "my-t1",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elmanın İngilizce adı nedir?",
+          "dogruCevap": "Apple",
+          "secenekler": [
+            "Orange",
+            "Grape",
+            "Banana",
+            "Apple"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-elma"
+          }
+        },
+        {
+          "id": "my-t2",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Muzun İngilizce adı hangisidir?",
+          "dogruCevap": "Banana",
+          "secenekler": [
+            "Pear",
+            "Banana",
+            "Melon",
+            "Lemon"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-muz"
+          }
+        },
+        {
+          "id": "my-t3",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Portakalın İngilizce adı nedir?",
+          "dogruCevap": "Orange",
+          "secenekler": [
+            "Apple",
+            "Plum",
+            "Cherry",
+            "Orange"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "portakal-resmi"
+          }
+        },
+        {
+          "id": "my-t4",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Üzümün İngilizce adı nedir?",
+          "dogruCevap": "Grape",
+          "secenekler": [
+            "Peach",
+            "Kiwi",
+            "Mango",
+            "Grape"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mor-uzum"
+          }
+        },
+        {
+          "id": "my-t5",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Karpuzun İngilizce adı hangisidir?",
+          "dogruCevap": "Watermelon",
+          "secenekler": [
+            "Lemon",
+            "Pear",
+            "Melon",
+            "Watermelon"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "karpuz-dilim"
+          }
+        },
+        {
+          "id": "my-t6",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çileğin İngilizce adı nedir?",
+          "dogruCevap": "Strawberry",
+          "secenekler": [
+            "Peach",
+            "Strawberry",
+            "Plum",
+            "Cherry"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cilek-sepet"
+          }
+        },
+        {
+          "id": "my-t7",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kirazın İngilizce adı nedir?",
+          "dogruCevap": "Cherry",
+          "secenekler": [
+            "Pear",
+            "Grape",
+            "Cherry",
+            "Kiwi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kiraz-dallari"
+          }
+        },
+        {
+          "id": "my-t8",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şeftalinin İngilizce adı hangisidir?",
+          "dogruCevap": "Peach",
+          "secenekler": [
+            "Plum",
+            "Mango",
+            "Peach",
+            "Melon"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "seftali-meyve"
+          }
+        },
+        {
+          "id": "my-t9",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Armutun İngilizce adı nedir?",
+          "dogruCevap": "Pear",
+          "secenekler": [
+            "Banana",
+            "Orange",
+            "Pear",
+            "Apple"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "armut-yesil"
+          }
+        },
+        {
+          "id": "my-t10",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kavunun İngilizce adı nedir?",
+          "dogruCevap": "Melon",
+          "secenekler": [
+            "Melon",
+            "Kiwi",
+            "Watermelon",
+            "Mango"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kavun-dilim"
+          }
+        },
+        {
+          "id": "my-t11",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Limonun İngilizce adı nedir?",
+          "dogruCevap": "Lemon",
+          "secenekler": [
+            "Orange",
+            "Cherry",
+            "Lemon",
+            "Plum"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sari-limon"
+          }
+        },
+        {
+          "id": "my-t12",
+          "kazanimKodu": "ING.2.10.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ananasın İngilizce adı hangisidir?",
+          "dogruCevap": "Pineapple",
+          "secenekler": [
+            "Peach",
+            "Banana",
+            "Grape",
+            "Pineapple"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ananas-meyve"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yonler",
+      "baslik": "Directions",
+      "kazanimKodu": "ING.2.10.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Elanaz pusulaya baktı. Kuzey north, güney south, doğu east, batı west! Dört yön haritada farklı yerlere işaret ediyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "yn-anlatim-1"
+            }
+          },
+          {
+            "metin": "Berk yön tabelasını gösterdi. Sol left, sağ right! \"Go straight\" düz git demekti. \"Turn left\" sola dön, \"Turn right\" sağa dön!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "yn-anlatim-2"
+            }
+          },
+          {
+            "metin": "Öğretmen güneşin doğu east yönünden doğduğunu, batı west yönünden battığını anlattı. Yukarı up, aşağı down! Yönleri bilmek kaybolmamak demekti.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "yn-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "yn-a1",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Kuzey kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "north",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pusula-kuzey"
+          }
+        },
+        {
+          "id": "yn-a2",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Güney İngilizcede \"south\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pusula-guney"
+          }
+        },
+        {
+          "id": "yn-a3",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Doğu kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "east",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pusula-dogu"
+          }
+        },
+        {
+          "id": "yn-a4",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Batı İngilizcede \"west\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pusula-bati"
+          }
+        },
+        {
+          "id": "yn-a5",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Sol kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "left",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sol-ok"
+          }
+        },
+        {
+          "id": "yn-a6",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Sağ İngilizcede \"right\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sag-ok"
+          }
+        },
+        {
+          "id": "yn-a7",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Yukarı kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "up",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yukari-ok"
+          }
+        },
+        {
+          "id": "yn-a8",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Aşağı İngilizcede \"down\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "asagi-ok"
+          }
+        },
+        {
+          "id": "yn-a9",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Düz git ifadesinin İngilizcesi \"Go .........\" kelimesidir.",
+          "dogruCevap": "straight",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "duz-git"
+          }
+        },
+        {
+          "id": "yn-a10",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Sola dön İngilizcede \"Turn left\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sola-don"
+          }
+        },
+        {
+          "id": "yn-a11",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Sağa dön ifadesinin İngilizcesi \"Turn .........\" kelimesidir.",
+          "dogruCevap": "right",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "saga-don"
+          }
+        },
+        {
+          "id": "yn-a12",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Yön tabelası İngilizcede \"direction sign\" olarak adlandırılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yon-tabelasi"
+          }
+        },
+        {
+          "id": "yn-a13",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "yazili",
+          "soru": "Güneş doğudan doğar. Doğu kelimesi ......... kelimesidir.",
+          "dogruCevap": "east",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dogu-gunes"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "yn-t1",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kuzeyin İngilizce adı nedir?",
+          "dogruCevap": "North",
+          "secenekler": [
+            "South",
+            "North",
+            "East",
+            "West"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pusula-kuzey"
+          }
+        },
+        {
+          "id": "yn-t2",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Güneyin İngilizce adı hangisidir?",
+          "dogruCevap": "South",
+          "secenekler": [
+            "Left",
+            "North",
+            "East",
+            "South"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pusula-guney"
+          }
+        },
+        {
+          "id": "yn-t3",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Doğunun İngilizce adı nedir?",
+          "dogruCevap": "East",
+          "secenekler": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pusula-dogu"
+          }
+        },
+        {
+          "id": "yn-t4",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Batının İngilizce adı nedir?",
+          "dogruCevap": "West",
+          "secenekler": [
+            "West",
+            "East",
+            "Up",
+            "Down"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pusula-bati"
+          }
+        },
+        {
+          "id": "yn-t5",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Solun İngilizce adı hangisidir?",
+          "dogruCevap": "Left",
+          "secenekler": [
+            "Left",
+            "Down",
+            "Right",
+            "Up"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sol-ok"
+          }
+        },
+        {
+          "id": "yn-t6",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sağın İngilizce adı nedir?",
+          "dogruCevap": "Right",
+          "secenekler": [
+            "Left",
+            "North",
+            "Right",
+            "South"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sag-ok"
+          }
+        },
+        {
+          "id": "yn-t7",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yukarının İngilizce adı nedir?",
+          "dogruCevap": "Up",
+          "secenekler": [
+            "Up",
+            "Right",
+            "Down",
+            "Left"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yukari-ok"
+          }
+        },
+        {
+          "id": "yn-t8",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağının İngilizce adı hangisidir?",
+          "dogruCevap": "Down",
+          "secenekler": [
+            "West",
+            "East",
+            "Down",
+            "Up"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "asagi-ok"
+          }
+        },
+        {
+          "id": "yn-t9",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Düz git ifadesinin İngilizcesi nedir?",
+          "dogruCevap": "Go straight",
+          "secenekler": [
+            "Go down",
+            "Go straight",
+            "Turn right",
+            "Turn left"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "duz-git"
+          }
+        },
+        {
+          "id": "yn-t10",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sola dön ifadesinin İngilizcesi nedir?",
+          "dogruCevap": "Turn left",
+          "secenekler": [
+            "Go down",
+            "Turn right",
+            "Go up",
+            "Turn left"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sola-don"
+          }
+        },
+        {
+          "id": "yn-t11",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sağa dön ifadesinin İngilizcesi nedir?",
+          "dogruCevap": "Turn right",
+          "secenekler": [
+            "Go up",
+            "Turn right",
+            "Go straight",
+            "Turn left"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "saga-don"
+          }
+        },
+        {
+          "id": "yn-t12",
+          "kazanimKodu": "ING.2.10.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yön kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Direction",
+          "secenekler": [
+            "Number",
+            "Fruit",
+            "Direction",
+            "Country"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yon-tabelasi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "siraSayilari",
+      "baslik": "Ordinal Numbers",
+      "kazanimKodu": "ING.2.10.4",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Okul yarışması başladı! Birinci first altın madalya kazandı. İkinci second gümüş, üçüncü third bronz madalya aldı. Sıra sayıları yarışlarda çok önemliydi!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ss-anlatim-1"
+            }
+          },
+          {
+            "metin": "Öğretmen tahtaya first, second, third, fourth, fifth yazdı. Dördüncü fourth, beşinci fifth, altıncı sixth! Sıra sayıları ordinal numbers olarak adlandırılır.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ss-anlatim-2"
+            }
+          },
+          {
+            "metin": "Yedinci seventh, sekizinci eighth, dokuzuncu ninth, onuncu tenth! Elanaz \"I am first!\" dedi. Sıra sayılarını bilmek sıralamada yerini bulmak demekti.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "ss-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ss-a1",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Birinci kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "first",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "birinci-madalya"
+          }
+        },
+        {
+          "id": "ss-a2",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "İkinci İngilizcede \"second\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ikinci-madalya"
+          }
+        },
+        {
+          "id": "ss-a3",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Üçüncü kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "third",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucuncu-podyum"
+          }
+        },
+        {
+          "id": "ss-a4",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Dördüncü İngilizcede \"fourth\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dorduncu-sira"
+          }
+        },
+        {
+          "id": "ss-a5",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Beşinci kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "fifth",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "besinci-sira"
+          }
+        },
+        {
+          "id": "ss-a6",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Altıncı İngilizcede \"sixth\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "altinci-sira"
+          }
+        },
+        {
+          "id": "ss-a7",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Yedinci kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "seventh",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yedinci-sira"
+          }
+        },
+        {
+          "id": "ss-a8",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Sekizinci İngilizcede \"eighth\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sekizinci-sira"
+          }
+        },
+        {
+          "id": "ss-a9",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Dokuzuncu kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "ninth",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dokuzuncu-sira"
+          }
+        },
+        {
+          "id": "ss-a10",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Onuncu İngilizcede \"tenth\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "onuncu-sira"
+          }
+        },
+        {
+          "id": "ss-a11",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Sıra sayıları İngilizcede \"ordinal .........\" olarak adlandırılır.",
+          "dogruCevap": "numbers",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sira-sayilari-pano"
+          }
+        },
+        {
+          "id": "ss-a12",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Yarışta birinci olan altın madalya kazanır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yaris-birinci"
+          }
+        },
+        {
+          "id": "ss-a13",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "yazili",
+          "soru": "Podyumda üçüncü olan bronz madalya alır. Üçüncü ......... kelimesidir.",
+          "dogruCevap": "third",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucuncu-madalya"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ss-t1",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Birincinin İngilizce adı nedir?",
+          "dogruCevap": "First",
+          "secenekler": [
+            "Second",
+            "Fourth",
+            "First",
+            "Third"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "birinci-madalya"
+          }
+        },
+        {
+          "id": "ss-t2",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "İkincinin İngilizce adı hangisidir?",
+          "dogruCevap": "Second",
+          "secenekler": [
+            "Fifth",
+            "Third",
+            "First",
+            "Second"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ikinci-madalya"
+          }
+        },
+        {
+          "id": "ss-t3",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Üçüncünün İngilizce adı nedir?",
+          "dogruCevap": "Third",
+          "secenekler": [
+            "Fourth",
+            "Sixth",
+            "Third",
+            "Second"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ucuncu-podyum"
+          }
+        },
+        {
+          "id": "ss-t4",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dördüncünün İngilizce adı nedir?",
+          "dogruCevap": "Fourth",
+          "secenekler": [
+            "Fourth",
+            "Second",
+            "Fifth",
+            "Third"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dorduncu-sira"
+          }
+        },
+        {
+          "id": "ss-t5",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Beşincinin İngilizce adı hangisidir?",
+          "dogruCevap": "Fifth",
+          "secenekler": [
+            "Fourth",
+            "Sixth",
+            "Fifth",
+            "First"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "besinci-sira"
+          }
+        },
+        {
+          "id": "ss-t6",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Altıncının İngilizce adı nedir?",
+          "dogruCevap": "Sixth",
+          "secenekler": [
+            "Seventh",
+            "Eighth",
+            "Sixth",
+            "Fifth"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "altinci-sira"
+          }
+        },
+        {
+          "id": "ss-t7",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Yedincinin İngilizce adı nedir?",
+          "dogruCevap": "Seventh",
+          "secenekler": [
+            "Ninth",
+            "Seventh",
+            "Sixth",
+            "Eighth"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yedinci-sira"
+          }
+        },
+        {
+          "id": "ss-t8",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Sekizincinin İngilizce adı hangisidir?",
+          "dogruCevap": "Eighth",
+          "secenekler": [
+            "Eighth",
+            "Tenth",
+            "Seventh",
+            "Ninth"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sekizinci-sira"
+          }
+        },
+        {
+          "id": "ss-t9",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dokuzuncunun İngilizce adı nedir?",
+          "dogruCevap": "Ninth",
+          "secenekler": [
+            "Tenth",
+            "Ninth",
+            "Eighth",
+            "Seventh"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dokuzuncu-sira"
+          }
+        },
+        {
+          "id": "ss-t10",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Onuncunun İngilizce adı nedir?",
+          "dogruCevap": "Tenth",
+          "secenekler": [
+            "Tenth",
+            "Eighth",
+            "First",
+            "Ninth"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "onuncu-sira"
+          }
+        },
+        {
+          "id": "ss-t11",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Sıra sayılarının İngilizce adı nedir?",
+          "dogruCevap": "Ordinal numbers",
+          "secenekler": [
+            "Cardinal numbers",
+            "Directions",
+            "Ordinal numbers",
+            "Countries"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sira-sayilari-pano"
+          }
+        },
+        {
+          "id": "ss-t12",
+          "kazanimKodu": "ING.2.10.4",
+          "tip": "coktanSecmeli",
+          "soru": "Yarışta birinci olan ne kazanır?",
+          "dogruCevap": "Gold medal",
+          "secenekler": [
+            "Bronze medal",
+            "Gold medal",
+            "No medal",
+            "Silver medal"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yaris-birinci"
+          }
+        }
+      ]
+    }
+  ]
+}

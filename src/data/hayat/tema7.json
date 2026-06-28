@@ -1,0 +1,1748 @@
+{
+  "id": "tema-7",
+  "baslik": "Hayat Bilgisi — Tema 7 — Çevre",
+  "konular": [
+    {
+      "id": "cevre",
+      "baslik": "Çevre",
+      "kazanimKodu": "HB.2.2.4",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Toplumda farklı meslekler vardır: Doktor hastaları tedavi eder, polis güvenliği sağlar, itfaiyeci yangın söndürür.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "tc-anlatim-1"
+            }
+          },
+          {
+            "metin": "Komşularımıza saygılı olur, selam veririz. Çevremizi temiz tutar, çöpleri çöp kutusuna atarız.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "tc-anlatim-2"
+            }
+          },
+          {
+            "metin": "Geri dönüşüm atıkları yeniden kullanmaktır. Trafik kurallarına uyar, kamu kurallarına saygı gösteririz. Temiz çevre sağlıklı yaşam demektir.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "tc-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ce-a1",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Hastaları tedavi eden meslek hangisidir?",
+          "dogruCevap": "Doktor",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "doktor"
+          }
+        },
+        {
+          "id": "ce-a2",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Güvenliğimizi sağlayan meslek hangisidir?",
+          "dogruCevap": "Polis",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "polis"
+          }
+        },
+        {
+          "id": "ce-a3",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Yangın söndüren meslek hangisidir?",
+          "dogruCevap": "İtfaiyeci",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "itfaiyeci"
+          }
+        },
+        {
+          "id": "ce-a4",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Komşularımıza nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "komsu",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ce-a5",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Çevremizi temiz tutmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-cevre",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ce-a6",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Çöpleri yere atmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ce-a7",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Geri dönüşüm nedir?",
+          "dogruCevap": "Atıkları yeniden kullanmak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          }
+        },
+        {
+          "id": "ce-a8",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Kırmızı ışıkta ne yapmalıyız?",
+          "dogruCevap": "Durmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "trafik-isigi",
+            "vurgu": "kirmizi"
+          }
+        },
+        {
+          "id": "ce-a9",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Yeşil ışıkta yaya ne yapabilir?",
+          "dogruCevap": "Geçebilir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "trafik-isigi",
+            "vurgu": "yesil"
+          }
+        },
+        {
+          "id": "ce-a10",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Parkları temiz tutmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "park",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ce-a11",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Ağaçları korumalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac",
+            "vurgu": "koruma"
+          }
+        },
+        {
+          "id": "ce-a12",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Kamu kurallarına uymalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "kamu-kurallari",
+            "ozellik": "kural"
+          }
+        },
+        {
+          "id": "ce-a13",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Plastik şişeleri geri dönüşüme atmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum",
+            "vurgu": "plastik"
+          }
+        },
+        {
+          "id": "ce-a14",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Komşumuza selam vermek güzel midir?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "komsu",
+            "vurgu": "selam"
+          }
+        },
+        {
+          "id": "ce-a15",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Sokakları kirletmek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-sokak",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ce-a16",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Doktor ne iş yapar?",
+          "dogruCevap": "Hastaları tedavi eder",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "doktor",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "ce-a17",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Polis ne iş yapar?",
+          "dogruCevap": "Güvenliği sağlar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "polis",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "ce-a18",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "İtfaiyeci ne iş yapar?",
+          "dogruCevap": "Yangın söndürür",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "itfaiyeci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "ce-a19",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Çevreyi korumak neden önemlidir?",
+          "dogruCevap": "Sağlıklı yaşamak için",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-cevre",
+            "ozellik": "koruma"
+          }
+        },
+        {
+          "id": "ce-a20",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Trafik kurallarına uymak gerekir mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "trafik-isigi"
+          }
+        },
+        {
+          "id": "ce-a21",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Kağıtları geri dönüşüme atmalı mıyız?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum",
+            "vurgu": "kagit"
+          }
+        },
+        {
+          "id": "ce-a22",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Toplumda yaşayan mesleklerden üçünü yaz",
+          "dogruCevap": "Doktor, polis, itfaiyeci",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "doktor",
+              "polis",
+              "itfaiyeci"
+            ]
+          }
+        },
+        {
+          "id": "ce-a23",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Yaya geçidinde ne yapmalıyız?",
+          "dogruCevap": "Dikkatli geçmeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yaya-gecidi",
+            "ozellik": "guvenlik"
+          }
+        },
+        {
+          "id": "ce-a24",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Çiçekleri koparmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cicek",
+            "vurgu": "koruma"
+          }
+        },
+        {
+          "id": "ce-a25",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "yazili",
+          "soru": "Temiz bir çevre için ne yapmalıyız?",
+          "dogruCevap": "Çöpleri kutuya atmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-cevre",
+            "ozellik": "cop"
+          }
+        },
+        {
+          "id": "ce-a26",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Ağaç dikmek çevreyi korur.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "ce-a27",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Çöpleri yere atmamalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ce-a28",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Geri dönüşüm yapmak önemlidir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          }
+        },
+        {
+          "id": "ce-a29",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Su tasarrufu yapmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "musluk"
+          }
+        },
+        {
+          "id": "ce-a30",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Enerji tasarrufu çevreyi korur.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "lamba",
+            "vurgu": "tasarruf"
+          }
+        },
+        {
+          "id": "ce-a31",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Hayvanları korumalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ce-a32",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Parkları temiz tutmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "park"
+          }
+        },
+        {
+          "id": "ce-a33",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Plastik kullanımını azaltmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          }
+        },
+        {
+          "id": "ce-a34",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Doğayı kirletmemeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ce-a35",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Kuşlara yem vermek güzeldir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "ce-a36",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Denizleri kirletmemeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "deniz",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ce-a37",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Çiçekleri koparmamalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "ce-a38",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Gürültü kirliliği yapmayız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sessizlik",
+            "ozellik": "cevre"
+          }
+        },
+        {
+          "id": "ce-a39",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Doğayı sevmeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ce-a40",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Çevre temizliği herkesin görevidir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "temizlik"
+          }
+        },
+        {
+          "id": "ce-a41",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Atıkları ayrıştırarak geri dönüştürürüz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          }
+        },
+        {
+          "id": "ce-a42",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Ormanları korumalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ce-a43",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Hava kirliliğini azaltmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-hava",
+            "ozellik": "cevre"
+          }
+        },
+        {
+          "id": "ce-a44",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Doğal kaynakları israf etmemeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "musluk"
+          }
+        },
+        {
+          "id": "ce-a45",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Çevre bilinci önemlidir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "tc-anlatim-2"
+          }
+        },
+        {
+          "id": "ce-a46",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Bitkilere su vermek onları büyütür.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "ce-a47",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Çevreyi temiz tutmak sağlıklıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "temizlik"
+          }
+        },
+        {
+          "id": "ce-a48",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Doğada çöp bırakmayız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ce-a49",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Enerji tasarrufu yaparız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "lamba",
+            "vurgu": "tasarruf"
+          }
+        },
+        {
+          "id": "ce-a50",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "yazili",
+          "soru": "Çevremizi korumak geleceğimiz içindir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ce-t1",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hastaları tedavi eden meslek hangisidir?",
+          "dogruCevap": "Doktor",
+          "secenekler": [
+            "İtfaiyeci",
+            "Doktor",
+            "Öğretmen",
+            "Polis"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "doktor"
+          }
+        },
+        {
+          "id": "ce-t2",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Güvenliğimizi sağlayan meslek hangisidir?",
+          "dogruCevap": "Polis",
+          "secenekler": [
+            "Doktor",
+            "Polis",
+            "Aşçı",
+            "İtfaiyeci"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "polis"
+          }
+        },
+        {
+          "id": "ce-t3",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yangın söndüren meslek hangisidir?",
+          "dogruCevap": "İtfaiyeci",
+          "secenekler": [
+            "Polis",
+            "Doktor",
+            "İtfaiyeci",
+            "Berber"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "itfaiyeci"
+          }
+        },
+        {
+          "id": "ce-t4",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Komşularımıza nasıl davranmalıyız?",
+          "dogruCevap": "Saygılı",
+          "secenekler": [
+            "Saygılı",
+            "Kaba",
+            "Bağırarak",
+            "Umursamaz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "komsu",
+            "vurgu": "saygi"
+          }
+        },
+        {
+          "id": "ce-t5",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Çevremizi temiz tutmalı mıyız?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Sadece evde",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-cevre",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ce-t6",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Çöpleri nereye atmalıyız?",
+          "dogruCevap": "Çöp kutusuna",
+          "secenekler": [
+            "Yere",
+            "Çöp kutusuna",
+            "Sokağa",
+            "Denize"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ce-t7",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Geri dönüşüm ne demektir?",
+          "dogruCevap": "Atıkları yeniden kullanmak",
+          "secenekler": [
+            "Çöpleri yere atmak",
+            "Suyu kirletmek",
+            "Ağaç kesmek",
+            "Atıkları yeniden kullanmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          }
+        },
+        {
+          "id": "ce-t8",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Kırmızı ışıkta koşarak geçmek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Kimse yoksa evet",
+            "Hayır",
+            "Evet",
+            "Acelemiz varsa evet"
+          ],
+          "ipucu": "Kırmızı ışıkta durmalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "trafik-isigi",
+            "vurgu": "kirmizi"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ce-t9",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yeşil ışıkta yaya ne yapabilir?",
+          "dogruCevap": "Geçebilir",
+          "secenekler": [
+            "Uyumalı",
+            "Geçebilir",
+            "Durmalı",
+            "Koşmalı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "trafik-isigi",
+            "vurgu": "yesil"
+          }
+        },
+        {
+          "id": "ce-t10",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Parkları temiz tutmalı mıyız?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Evet",
+            "Sadece yazın"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "park",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ce-t11",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaçları korumalı mıyız?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Kesebiliriz",
+            "Evet",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac",
+            "vurgu": "koruma"
+          }
+        },
+        {
+          "id": "ce-t12",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kamu kurallarına uymalı mıyız?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hiç gerekmez",
+            "Sadece okulda",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "kamu-kurallari",
+            "ozellik": "kural"
+          }
+        },
+        {
+          "id": "ce-t13",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Plastik şişeleri nereye atmalıyız?",
+          "dogruCevap": "Geri dönüşüme",
+          "secenekler": [
+            "Yere",
+            "Denize",
+            "Sokağa",
+            "Geri dönüşüme"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum",
+            "vurgu": "plastik"
+          }
+        },
+        {
+          "id": "ce-t14",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Komşumuza selam vermek güzel midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Evet",
+            "Sadece bayramda",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "komsu",
+            "vurgu": "selam"
+          }
+        },
+        {
+          "id": "ce-t15",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sokakları kirletmek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Kimse görmezse",
+            "Hayır",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-sokak",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ce-t16",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Doktor sadece çocuklara mı bakar?",
+          "dogruCevap": "Hayır, herkese bakar",
+          "secenekler": [
+            "Evet, sadece çocuklara",
+            "Hayır, herkese bakar",
+            "Hiç kimseye bakmaz",
+            "Sadece kedilere"
+          ],
+          "ipucu": "Doktor tüm hastalara yardım eder!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "doktor",
+            "vurgu": "meslek"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ce-t17",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Polis ne iş yapar?",
+          "dogruCevap": "Güvenliği sağlar",
+          "secenekler": [
+            "Yemek yapar",
+            "Güvenliği sağlar",
+            "Ders anlatır",
+            "Ağaç diker"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "polis",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "ce-t18",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "İtfaiyeci ne iş yapar?",
+          "dogruCevap": "Yangın söndürür",
+          "secenekler": [
+            "Hasta tedavi eder",
+            "Trafik yönetir",
+            "Yangın söndürür",
+            "Kitap satar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "itfaiyeci",
+            "vurgu": "meslek"
+          }
+        },
+        {
+          "id": "ce-t19",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Çevreyi korumak neden önemlidir?",
+          "dogruCevap": "Sağlıklı yaşamak için",
+          "secenekler": [
+            "Sadece öğretmen istedi",
+            "Çirkin görünür diye",
+            "Hiç önemli değil",
+            "Sağlıklı yaşamak için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-cevre",
+            "ozellik": "koruma"
+          }
+        },
+        {
+          "id": "ce-t20",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Geri dönüşüm sadece cam için midir?",
+          "dogruCevap": "Hayır, plastik ve kağıt da geri dönüşür",
+          "secenekler": [
+            "Evet, sadece cam",
+            "Hayır, plastik ve kağıt da geri dönüşür",
+            "Sadece metal",
+            "Hiçbir şey geri dönüşmez"
+          ],
+          "ipucu": "Birçok atık geri dönüştürülebilir!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ce-t21",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Trafik kurallarına uymak gerekir mi?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Hiç gerekmez",
+            "Sadece arabalar için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "trafik-isigi"
+          }
+        },
+        {
+          "id": "ce-t22",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Kağıtları nereye atmalıyız?",
+          "dogruCevap": "Geri dönüşüme",
+          "secenekler": [
+            "Yere",
+            "Sokağa",
+            "Denize",
+            "Geri dönüşüme"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum",
+            "vurgu": "kagit"
+          }
+        },
+        {
+          "id": "ce-t23",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yaya geçidinde ne yapmalıyız?",
+          "dogruCevap": "Dikkatli geçmeliyiz",
+          "secenekler": [
+            "Beklemeden geçmeliyiz",
+            "Dikkatli geçmeliyiz",
+            "Koşarak geçmeliyiz",
+            "Göz kapalı geçmeliyiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yaya-gecidi",
+            "ozellik": "guvenlik"
+          }
+        },
+        {
+          "id": "ce-t24",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Parkta çiçekleri koparmak serbest midir?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Güzel görünüyorsa evet",
+            "Kimse görmezse"
+          ],
+          "ipucu": "Doğayı ve çiçekleri korumalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cicek",
+            "vurgu": "koruma"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ce-t25",
+          "kazanimKodu": "HB.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Temiz çevre sadece evimizde mi önemlidir?",
+          "dogruCevap": "Hayır, her yerde önemlidir",
+          "secenekler": [
+            "Sadece okulda",
+            "Evet, sadece evde",
+            "Hayır, her yerde önemlidir",
+            "Hiç önemli değil"
+          ],
+          "ipucu": "Okul, park ve sokak da temiz olmalı!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "tc-anlatim-3"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ce-t26",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaç dikmek çevreyi korur.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "ce-t27",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Çöpleri yere atmamalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ce-t28",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Geri dönüşüm yapmak önemlidir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          }
+        },
+        {
+          "id": "ce-t29",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Su tasarrufu yapmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "musluk"
+          }
+        },
+        {
+          "id": "ce-t30",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Enerji tasarrufu çevreyi korur.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Gereksiz",
+            "Evet",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "lamba",
+            "vurgu": "tasarruf"
+          }
+        },
+        {
+          "id": "ce-t31",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Hayvanları korumalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Hayır",
+            "Evet",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ce-t32",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Parkları temiz tutmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gereksiz",
+            "Fark etmez",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "park"
+          }
+        },
+        {
+          "id": "ce-t33",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Plastik kullanımını azaltmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          }
+        },
+        {
+          "id": "ce-t34",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Doğayı kirletmemeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ce-t35",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Kuşlara yem vermek güzeldir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "ce-t36",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Denizleri kirletmemeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "deniz",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "ce-t37",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Çiçekleri koparmamalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Evet",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "ce-t38",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Gürültü kirliliği yapmayız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Hayır",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sessizlik",
+            "ozellik": "cevre"
+          }
+        },
+        {
+          "id": "ce-t39",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Doğayı sevmeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ce-t40",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Çevre temizliği herkesin görevidir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "temizlik"
+          }
+        },
+        {
+          "id": "ce-t41",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Atıkları ayrıştırarak geri dönüştürürüz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "geri-donusum"
+          }
+        },
+        {
+          "id": "ce-t42",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ormanları korumalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Hayır",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          }
+        },
+        {
+          "id": "ce-t43",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Hava kirliliğini azaltmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-hava",
+            "ozellik": "cevre"
+          }
+        },
+        {
+          "id": "ce-t44",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Doğal kaynakları israf etmemeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Evet",
+            "Fark etmez",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "musluk"
+          }
+        },
+        {
+          "id": "ce-t45",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Çevre bilinci önemlidir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "tc-anlatim-2"
+          }
+        },
+        {
+          "id": "ce-t46",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkilere su vermek onları büyütür.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "fidan"
+          }
+        },
+        {
+          "id": "ce-t47",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Çevreyi temiz tutmak sağlıklıdır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "temizlik"
+          }
+        },
+        {
+          "id": "ce-t48",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Doğada çöp bırakmayız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "cop-kutusu"
+          }
+        },
+        {
+          "id": "ce-t49",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "Enerji tasarrufu yaparız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "lamba",
+            "vurgu": "tasarruf"
+          }
+        },
+        {
+          "id": "ce-t50",
+          "kazanimKodu": "HB.2.2.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Çöpleri yere atmak doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Parkta olur",
+            "Hayır",
+            "Evet",
+            "Bazen"
+          ],
+          "ipucu": "Çöpleri kutuya atmalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "agac"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

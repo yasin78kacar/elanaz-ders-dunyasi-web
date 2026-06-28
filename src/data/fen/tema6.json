@@ -1,0 +1,1952 @@
+{
+  "id": "tema-6",
+  "baslik": "Fen Bilimleri — Tema 6 — Enerji",
+  "konular": [
+    {
+      "id": "enerji",
+      "baslik": "Enerji",
+      "kazanimKodu": "FEN.2.3.4",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Ayşe ve Yusuf pencereden baktı. Masmavi gökyüzü! Ama radyo \"öğleden sonra yağmur\" dedi. Hava durumu sürekli değişiyor — güneşli, bulutlu, yağmurlu, karlı olabilir! Dışarı çıkmadan havaya bakmak önemli.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hm-anlatim-1"
+            }
+          },
+          {
+            "metin": "Selin ve Mehmet sarı yaprakları topladı. Sonbahar geldi! 4 mevsim: İlkbahar (doğa uyanır), Yaz (sıcak, deniz), Sonbahar (yapraklar döküler), Kış (kar, soğuk). Dünya Güneş etrafında dönerken mevsimler oluşur.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hm-anlatim-2"
+            }
+          },
+          {
+            "metin": "Fatma kışın kalın mont, atkı, bere ve eldiven giydi. Can ince tişörtle çıkmak istedi. Annesi uyardı: \"Üşütürsün!\" Can sıcak giydi, kardan adam yaptılar. Havaya göre giyinmek sağlığı korur.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "hm-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "en-a1",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Günlük hava olaylarına hava ......... denir.",
+          "dogruCevap": "durumu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "gunes",
+              "bulut"
+            ],
+            "vurgu": "bulut"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a2",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Yağmur yağıyorsa yanımıza ......... almalıyız.",
+          "dogruCevap": "şemsiye",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "semsiye"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a3",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Bir yılda ......... tane mevsim vardır.",
+          "dogruCevap": "dört",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dort-mevsim"
+          },
+          "alternatifCevaplar": [
+            "4"
+          ],
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a4",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Yılın en soğuk mevsimi ......... .",
+          "dogruCevap": "Kış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kis"
+          },
+          "alternatifCevaplar": [
+            "kış"
+          ],
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a5",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "İlkbahar mevsiminde doğa uyanır, ağaçlar çiçek açar.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ilkbahar"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a6",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Yaz mevsiminde havalar çok soğur, kalın montlar giyeriz.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yaz"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a7",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Yaprakların sararıp döküldüğü mevsim ......... .",
+          "dogruCevap": "Sonbahar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sonbahar"
+          },
+          "alternatifCevaplar": [
+            "sonbahar"
+          ],
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a8",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Hava güneşliyse gökyüzünde güneş görürüz ve hava sıcaktır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunduz"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a9",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Kışın dışarı çıkarken ince tişört giymeliyiz.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kis-kiyafet"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a10",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Yaz aylarında güneşten korunmak için şapka ve güneş gözlüğü kullanmalıyız.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sapka"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a11",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Havanın yer değiştirmesiyle oluşan esintiye ......... denir.",
+          "dogruCevap": "rüzgar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a12",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Gökyüzünü gri bulutlar kapladığında hava ......... olduğunu anlarız.",
+          "dogruCevap": "bulutlu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bulut"
+          },
+          "alternatifCevaplar": [
+            "yağmurlu"
+          ],
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a13",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Bir tam yılda ......... ay bulunur.",
+          "dogruCevap": "12",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "takvim"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a14",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Eylül, Ekim ve Kasım Sonbahar mevsiminin aylarıdır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sonbahar"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a15",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Kardan adam yapmak Yaz mevsiminin oyunlarındandır.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kardan-adam"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a16",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Yazın terlememek için ......... kıyafetler giymeliyiz.",
+          "dogruCevap": "ince",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yaz-kiyafet"
+          },
+          "alternatifCevaplar": [
+            "pamuklu"
+          ],
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a17",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Kışın dışarı çıkarken boynumuza atkı, başımıza ......... takarız.",
+          "dogruCevap": "bere",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bere"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a18",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Televizyonda yarınki havayı anlatan haberlere \"Hava Durumu\" denir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "hava-durumu"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a19",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Yağmurlu günlerde ayaklarımız ıslanmasın diye ......... giymeliyiz.",
+          "dogruCevap": "çizme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yagmur-cizme"
+          },
+          "alternatifCevaplar": [
+            "bot"
+          ],
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a20",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Fırtınalı havalarda gökyüzünde ......... çakabilir.",
+          "dogruCevap": "şimşek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "simsek"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a21",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Mart, Nisan ve Mayıs ......... mevsiminin aylarıdır.",
+          "dogruCevap": "İlkbahar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "papatya"
+          },
+          "alternatifCevaplar": [
+            "ilkbahar"
+          ],
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a22",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Hava durumu haritasında Güneş, bulut ve kar tanesi semboller kullanılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "hava-sembol"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a23",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Yağmur yağdığında toprak yollar çamur olabilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "su-birikintisi"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a24",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Rüzgarlı havalarda dışarıda ......... uçurmak çok eğlencelidir.",
+          "dogruCevap": "uçurtma",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ucurtma"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a25",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "yazili",
+          "soru": "Kışın ıslak saçla dışarı çıkmak bizi daha sağlıklı yapar.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "islak-sac"
+          },
+          "kazanim": "FEN.2.3.2"
+        },
+        {
+          "id": "en-a26",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Güneş bir enerji kaynağıdır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a27",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Rüzgar türbinleri elektrik üretir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a28",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Pil taşınabilir enerji kaynağıdır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "pil"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a29",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Güneş panelleri güneş enerjisini elektriğe çevirir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-paneli"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a30",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Yiyecekler vücudumuza enerji verir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "elma"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a31",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Benzin araçlara enerji sağlar.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "araba"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a32",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Odun yakıldığında ısı enerjisi oluşur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ates"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a33",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Mum yandığında ışık ve ısı enerjisi verir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "mum"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a34",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Bitkiler güneş enerjisini kullanır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a35",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Elektrikli lambalar yapay ışık verir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ampul"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a36",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Enerji tasarrufu önemlidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ampul"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a37",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Güneş en büyük doğal enerji kaynağıdır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a38",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Rüzgar enerjisi yenilenebilir bir enerjidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a39",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Piller bitince yenisiyle değiştirilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "pil"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a40",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Enerji olmadan ışık yanmaz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ampul"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a41",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Yemek yemek bize enerji verir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "corba"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a42",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Güneş enerjisi temiz bir enerjidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-paneli"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a43",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Elektrik fişe takılınca çalışır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fis"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a44",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Isı enerjisi bizi ısıtır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ates"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a45",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Güneşten gelen enerji bitmez.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a46",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Enerji hareket ettirmek için kullanılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bisiklet"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a47",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Enerji günlük yaşamımız için gereklidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "hm-anlatim-1"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a48",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Rüzgar uçurtmayı hareket ettirir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ucurtma"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a49",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Yiyecekleri pişirmek ısı enerjisi kullanır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ocak"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "en-a50",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "yazili",
+          "soru": "Enerji kaynakları günlük hayatta kullanılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fis"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        }
+      ],
+      "test": [
+        {
+          "id": "en-t1",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bir yılda kaç mevsim vardır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "5",
+            "2",
+            "3",
+            "4"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dort-mevsim"
+          }
+        },
+        {
+          "id": "en-t2",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi mevsimde kar yağar ve kardan adam yaparız?",
+          "dogruCevap": "Kış",
+          "secenekler": [
+            "İlkbahar",
+            "Yaz",
+            "Kış",
+            "Sonbahar"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kardan-adam"
+          }
+        },
+        {
+          "id": "en-t3",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yağmurlu havada yanımıza ne almalıyız?",
+          "dogruCevap": "Şemsiye",
+          "secenekler": [
+            "Güneş gözlüğü",
+            "İnce tişört",
+            "Şemsiye",
+            "Deniz paleti"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "semsiye"
+          }
+        },
+        {
+          "id": "en-t4",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çiçeklerin açtığı, havaların ısındığı mevsim hangisidir?",
+          "dogruCevap": "İlkbahar",
+          "secenekler": [
+            "Kış",
+            "İlkbahar",
+            "Aralık",
+            "Sonbahar"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ilkbahar"
+          }
+        },
+        {
+          "id": "en-t5",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Denize girdiğimiz, çok sıcak mevsim nedir?",
+          "dogruCevap": "Yaz",
+          "secenekler": [
+            "Sonbahar",
+            "Kış",
+            "İlkbahar",
+            "Yaz"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yaz"
+          }
+        },
+        {
+          "id": "en-t6",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yaprakların döküldüğü mevsim hangisidir?",
+          "dogruCevap": "Sonbahar",
+          "secenekler": [
+            "Kış",
+            "Sonbahar",
+            "İlkbahar",
+            "Yaz"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sonbahar"
+          }
+        },
+        {
+          "id": "en-t7",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aralık, Ocak ve Şubat hangi mevsimin aylarıdır?",
+          "dogruCevap": "Kış",
+          "secenekler": [
+            "Kış",
+            "Yaz",
+            "İlkbahar",
+            "Sonbahar"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "takvim"
+          }
+        },
+        {
+          "id": "en-t8",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kışın hangisini GİYMEMELİYİZ?",
+          "dogruCevap": "Şort ve yazlık terlik",
+          "secenekler": [
+            "Şort ve yazlık terlik",
+            "Atkı",
+            "Kalın mont",
+            "Bere ve eldiven"
+          ],
+          "ipucu": "Kışın sıcak tutan kıyafetler giymeliyiz!",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kis-kiyafet"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "en-t9",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Sıcak yaz günlerinde nasıl giyinmeliyiz?",
+          "dogruCevap": "İnce, pamuklu, açık renkli",
+          "secenekler": [
+            "Kalın yünlü kazak",
+            "Siyah ve kalın mont",
+            "Kat kat kıyafet",
+            "İnce, pamuklu, açık renkli"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yaz-kiyafet"
+          }
+        },
+        {
+          "id": "en-t10",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hava durumunda gülen Güneş sembolü görünce hava nasıl?",
+          "dogruCevap": "Güneşli",
+          "secenekler": [
+            "Karlı",
+            "Güneşli",
+            "Rüzgarlı",
+            "Yağmurlu"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "hava-sembol"
+          }
+        },
+        {
+          "id": "en-t11",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ağaç dalları sallanıp yapraklar uçuşuyorsa hava nasıldır?",
+          "dogruCevap": "Rüzgarlı",
+          "secenekler": [
+            "Güneşli",
+            "Rüzgarlı",
+            "Karlı",
+            "Sisli"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          }
+        },
+        {
+          "id": "en-t12",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hava durumunu dinlemenin faydası nedir?",
+          "dogruCevap": "Havaya uygun kıyafet seçmek",
+          "secenekler": [
+            "Hiçbir faydası yok",
+            "Havaya uygun kıyafet seçmek",
+            "Çizgi film öğrenmek",
+            "Yemek öğrenmek"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "hava-durumu"
+          }
+        },
+        {
+          "id": "en-t13",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Güneşli yaz gününde ne kullanmalıyız?",
+          "dogruCevap": "Şapka ve güneş gözlüğü",
+          "secenekler": [
+            "Kalın eldiven",
+            "Şapka ve güneş gözlüğü",
+            "Kalın atkı",
+            "Kar botu"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sapka"
+          }
+        },
+        {
+          "id": "en-t14",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Rüzgarlı bahar gününde en eğlenceli etkinlik nedir?",
+          "dogruCevap": "Uçurtma uçurmak",
+          "secenekler": [
+            "Denize girmek",
+            "Karda yatmak",
+            "Uçurtma uçurmak",
+            "Kardan adam yapmak"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ucurtma"
+          }
+        },
+        {
+          "id": "en-t15",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Göz gözü görmeyecek kadar yoğun pus varsa bu hava nedir?",
+          "dogruCevap": "Sis",
+          "secenekler": [
+            "Yağmur",
+            "Kar",
+            "Sis",
+            "Dolu"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sis"
+          }
+        },
+        {
+          "id": "en-t16",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Haziran, Temmuz ve Ağustos hangi mevsimin ayları?",
+          "dogruCevap": "Yaz",
+          "secenekler": [
+            "Yaz",
+            "İlkbahar",
+            "Kış",
+            "Sonbahar"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "takvim"
+          }
+        },
+        {
+          "id": "en-t17",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yağmur damlalarının buz topları şeklinde düşmesine ne denir?",
+          "dogruCevap": "Dolu",
+          "secenekler": [
+            "Dolu",
+            "Güneş",
+            "Rüzgar",
+            "Sis"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dolu"
+          }
+        },
+        {
+          "id": "en-t18",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "İlkbaharda hangisini GÖZLEMLEYEMEYİZ?",
+          "dogruCevap": "Her yer bembeyaz karla kaplanır",
+          "secenekler": [
+            "Havalar ısınır",
+            "Kelebekler uçuşur",
+            "Her yer bembeyaz karla kaplanır",
+            "Ağaçlar çiçek açar"
+          ],
+          "ipucu": "Kar kış mevsimine aittir!",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ilkbahar"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "en-t19",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Gök gürültüsü ve şimşek hangi havada görülür?",
+          "dogruCevap": "Fırtınalı ve yağmurlu",
+          "secenekler": [
+            "Karlı",
+            "Fırtınalı ve yağmurlu",
+            "Güneşli",
+            "Sisli"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "simsek"
+          }
+        },
+        {
+          "id": "en-t20",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ali bere ve eldiven taktı. Hangi mevsim?",
+          "dogruCevap": "Kış",
+          "secenekler": [
+            "İlkbahar",
+            "Kış",
+            "Yaz",
+            "Sonbahar"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bere"
+          }
+        },
+        {
+          "id": "en-t21",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi eşleştirme yanlıştır?",
+          "dogruCevap": "Yaz → Yaprak dökülmesi",
+          "secenekler": [
+            "Yaz → Yaprak dökülmesi",
+            "Sonbahar → Yağmur",
+            "Kış → Kar",
+            "İlkbahar → Çiçekler"
+          ],
+          "ipucu": "Yaprak dökülmesi sonbaharda olur!",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dort-mevsim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "en-t22",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Gri su dolu bulutlar görünce ne bekleriz?",
+          "dogruCevap": "Yağmur",
+          "secenekler": [
+            "Kar erimesi",
+            "Güneş",
+            "Havanın ısınması",
+            "Yağmur"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bulut"
+          }
+        },
+        {
+          "id": "en-t23",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kıyafetlerimizi neye göre seçmeliyiz?",
+          "dogruCevap": "Hava durumuna",
+          "secenekler": [
+            "Modaya",
+            "Sadece sevdiğimiz renge",
+            "Oyuncaklarımıza",
+            "Hava durumuna"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kis-kiyafet"
+          }
+        },
+        {
+          "id": "en-t24",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Havanın sıcaklığını ölçmek için ne kullanırız?",
+          "dogruCevap": "Termometre",
+          "secenekler": [
+            "Termometre",
+            "Pusula",
+            "Dürbün",
+            "Büyüteç"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "termometre"
+          }
+        },
+        {
+          "id": "en-t25",
+          "kazanimKodu": "FEN.2.3.2",
+          "tip": "coktanSecmeli",
+          "soru": "Mevsimlerin ve farklı hava durumlarının yaşanması doğa için nasıldır?",
+          "dogruCevap": "Çok faydalı ve gerekli",
+          "secenekler": [
+            "Tehlikeli",
+            "Çok faydalı ve gerekli",
+            "Doğaya zararlı",
+            "Kötü"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.2",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dort-mevsim"
+          }
+        },
+        {
+          "id": "en-t26",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş bir enerji kaynağıdır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "en-t27",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Rüzgar türbinleri elektrik üretir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          }
+        },
+        {
+          "id": "en-t28",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Pil taşınabilir enerji kaynağıdır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Yanlış",
+            "Bazen",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "pil"
+          }
+        },
+        {
+          "id": "en-t29",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş panelleri güneş enerjisini elektriğe çevirir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-paneli"
+          }
+        },
+        {
+          "id": "en-t30",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Yiyecekler vücudumuza enerji verir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "en-t31",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Benzin araçlara enerji sağlar.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "en-t32",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Odun yakıldığında ısı enerjisi oluşur.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Bazen",
+            "Doğru",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ates"
+          }
+        },
+        {
+          "id": "en-t33",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Mum yandığında ışık ve ısı enerjisi verir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "mum"
+          }
+        },
+        {
+          "id": "en-t34",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkiler güneş enerjisini kullanır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Bazen",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "en-t35",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Elektrikli lambalar yapay ışık verir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ampul"
+          }
+        },
+        {
+          "id": "en-t36",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Enerji tasarrufu önemlidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ampul"
+          }
+        },
+        {
+          "id": "en-t37",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş en büyük doğal enerji kaynağıdır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "en-t38",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Rüzgar enerjisi yenilenebilir bir enerjidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Bazen",
+            "Doğru",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ruzgar-gulu"
+          }
+        },
+        {
+          "id": "en-t39",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Piller bitince yenisiyle değiştirilir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Bazen",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "pil"
+          }
+        },
+        {
+          "id": "en-t40",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Enerji olmadan ışık yanmaz.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ampul"
+          }
+        },
+        {
+          "id": "en-t41",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Yemek yemek bize enerji verir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "corba"
+          }
+        },
+        {
+          "id": "en-t42",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş enerjisi temiz bir enerjidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Doğru",
+            "Bazen",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-paneli"
+          }
+        },
+        {
+          "id": "en-t43",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Elektrik fişe takılınca çalışır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fis"
+          }
+        },
+        {
+          "id": "en-t44",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Isı enerjisi bizi ısıtır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ates"
+          }
+        },
+        {
+          "id": "en-t45",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Güneşten gelen enerji bitmez.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "en-t46",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Enerji hareket ettirmek için kullanılır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "bisiklet"
+          }
+        },
+        {
+          "id": "en-t47",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Enerji günlük yaşamımız için gereklidir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "hm-anlatim-1"
+          }
+        },
+        {
+          "id": "en-t48",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Rüzgar uçurtmayı hareket ettirir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Hiçbiri",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ucurtma"
+          }
+        },
+        {
+          "id": "en-t49",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "Yiyecekleri pişirmek ısı enerjisi kullanır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ocak"
+          }
+        },
+        {
+          "id": "en-t50",
+          "kazanimKodu": "FEN.2.3.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Güneş enerjisi bir gün biter mi?",
+          "dogruCevap": "Hayır, yenilenebilir",
+          "secenekler": [
+            "Pillerle biter",
+            "Evet, biter",
+            "Sadece yazın",
+            "Hayır, yenilenebilir"
+          ],
+          "ipucu": "Güneş sürekli enerji verir!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "fis"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

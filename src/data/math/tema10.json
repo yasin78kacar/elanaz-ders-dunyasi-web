@@ -1,0 +1,1924 @@
+{
+  "id": "tema-10",
+  "baslik": "Matematik — Tema 10 — Zaman",
+  "konular": [
+    {
+      "id": "zaman-tema10",
+      "baslik": "Zaman",
+      "kazanimKodu": "MAT.2.5.4",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Zamanı saatle ölçeriz! Saatin kısa kolu saati, uzun kolu dakikayı gösterir. 1 saat = 60 dakika.",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "zm-anlatim-1"
+            }
+          },
+          {
+            "metin": "Tam saat: uzun kol 12'de, kısa kol saati gösterir. \"Saat 3\" → kısa kol 3'te, uzun kol 12'de.",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "zm-anlatim-2"
+            }
+          },
+          {
+            "metin": "Buçuk: uzun kol 6'da. \"Saat 4 buçuk\" → kısa kol 4 ile 5 arasında, uzun kol 6'da.",
+            "gorsel": {
+              "tur": "olcme",
+              "mod": "anlatim",
+              "sahne": "zm-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "zm-a1",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 2'de. Saat kaç?",
+          "dogruCevap": "Saat 2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 2,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a2",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 7'de. Saat kaç?",
+          "dogruCevap": "Saat 7",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 7,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a3",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 3 ile 4 arasında. Saat kaç?",
+          "dogruCevap": "Saat 3 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 3,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-a4",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 05:00. Kaç tam saat?",
+          "dogruCevap": "Saat 5",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 5,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a5",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 9'da. Saat kaç?",
+          "dogruCevap": "Saat 9",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 9,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a6",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 6 ile 7 arasında. Saat kaç?",
+          "dogruCevap": "Saat 6 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 6,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-a7",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 10:30.",
+          "dogruCevap": "Saat 10 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 10,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-a8",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 12'de. Saat kaç?",
+          "dogruCevap": "Saat 12",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 12,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a9",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Okul 08:00'de başlıyor. Hangi saatte?",
+          "dogruCevap": "Saat 8",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-okul-saat"
+          }
+        },
+        {
+          "id": "zm-a10",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 9 ile 10 arasında. Saat kaç?",
+          "dogruCevap": "Saat 9 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 9,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-a11",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "1 saat kaç dakikadır?",
+          "dogruCevap": "60 dakika",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-60-dakika"
+          }
+        },
+        {
+          "id": "zm-a12",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 01:00. Kaç tam saat?",
+          "dogruCevap": "Saat 1",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 1,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a13",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Sabah 7'de uyandı, 8'de okula gitti. Kaç saat geçti?",
+          "dogruCevap": "1 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 7,
+            "dakika": 0,
+            "saat2": 8,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm-a14",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 12 ile 1 arasında. Saat kaç?",
+          "dogruCevap": "Saat 12 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 12,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-a15",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Film saat 3'te başladı, 5'te bitti. Kaç saat sürdü?",
+          "dogruCevap": "2 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 3,
+            "dakika": 0,
+            "saat2": 5,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm-a16",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 08:30. Analog saatte uzun kol nerede?",
+          "dogruCevap": "6'da",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 8,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-a17",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Saat 4'te uyku, saat 8'de uyanış. Kaç saat uyudu?",
+          "dogruCevap": "4 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-uyku-cocuk"
+          }
+        },
+        {
+          "id": "zm-a18",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 11'de. Saat kaç?",
+          "dogruCevap": "Saat 11",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 11,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a19",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "1 günde kaç saat var?",
+          "dogruCevap": "24 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-gun-dongusu"
+          }
+        },
+        {
+          "id": "zm-a20",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 2 ile 3 arasında. Saat kaç?",
+          "dogruCevap": "Saat 2 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 2,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-a21",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Ders saat 9'da başladı, 10'da bitti. Ders kaç dakika sürdü?",
+          "dogruCevap": "60 dakika",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 9,
+            "dakika": 0,
+            "saat2": 10,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm-a22",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 07:00. Saat kaç?",
+          "dogruCevap": "Saat 7",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 7,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a23",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Saat 6 buçukta kahvaltı, saat 8'de okul. Aralarında kaç saat?",
+          "dogruCevap": "1,5 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 6,
+            "dakika": 30,
+            "saat2": 8,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm-a24",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 4'te. Saat kaç?",
+          "dogruCevap": "Saat 4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 4,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-a25",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Berk saat 3'te parka gitti, saat 5 buçukta döndü. Kaç saat parkta kaldı?",
+          "dogruCevap": "2,5 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 3,
+            "dakika": 0,
+            "saat2": 5,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm2-a1",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 1'de. Saat kaç?",
+          "dogruCevap": "Saat 1",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 1,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a2",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 4 ile 5 arasında. Saat kaç?",
+          "dogruCevap": "Saat 4 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 4,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-a3",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 03:30. Saat kaç?",
+          "dogruCevap": "Saat 3 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 3,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-a4",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Öğle yemeği saat 12'de. Hangi saat?",
+          "dogruCevap": "Saat 12",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 12,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a5",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 5'te. Saat kaç?",
+          "dogruCevap": "Saat 5",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 5,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a6",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 7 ile 8 arasında. Saat kaç?",
+          "dogruCevap": "Saat 7 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 7,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-a7",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 02:00. Saat kaç?",
+          "dogruCevap": "Saat 2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 2,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a8",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Akşam yemeği saat 7'de. Saat kaç?",
+          "dogruCevap": "Saat 7",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 7,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a9",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 10 ile 11 arasında. Saat kaç?",
+          "dogruCevap": "Saat 10 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 10,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-a10",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Yarım saat kaç dakikadır?",
+          "dogruCevap": "30 dakika",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-yarim-saat"
+          }
+        },
+        {
+          "id": "zm2-a11",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Ders saat 10'da başladı, 11'de bitti. Kaç saat sürdü?",
+          "dogruCevap": "1 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 10,
+            "dakika": 0,
+            "saat2": 11,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm2-a12",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 8'de. Saat kaç?",
+          "dogruCevap": "Saat 8",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 8,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a13",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 06:30. Saat kaç?",
+          "dogruCevap": "Saat 6 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 6,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-a14",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Sabah 6'da kalktım, 7 buçukta okula gittim. Kaç saat geçti?",
+          "dogruCevap": "1,5 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 6,
+            "dakika": 0,
+            "saat2": 7,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm2-a15",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 11 ile 12 arasında. Saat kaç?",
+          "dogruCevap": "Saat 11 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 11,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-a16",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "2 saat kaç dakikadır?",
+          "dogruCevap": "120 dakika",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-120-dakika"
+          }
+        },
+        {
+          "id": "zm2-a17",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Film saat 2'de başladı, 4 buçukta bitti. Kaç saat sürdü?",
+          "dogruCevap": "2,5 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 2,
+            "dakika": 0,
+            "saat2": 4,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm2-a18",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 12'de, kısa kol 3'te. Saat kaç?",
+          "dogruCevap": "Saat 3",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 3,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a19",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 04:00. Saat kaç?",
+          "dogruCevap": "Saat 4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 4,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a20",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Elanaz saat 5'te parka gitti, saat 6'da döndü. Kaç saat kaldı?",
+          "dogruCevap": "1 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 5,
+            "dakika": 0,
+            "saat2": 6,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm2-a21",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Uzun kol 6'da, kısa kol 1 ile 2 arasında. Saat kaç?",
+          "dogruCevap": "Saat 1 buçuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 1,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-a22",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Öğle arası saat 12 buçukta. Uzun kol nerede?",
+          "dogruCevap": "6'da",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 12,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-a23",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Ders saat 1'de başladı, 2 saat sürdü. Hangi saatte bitti?",
+          "dogruCevap": "Saat 3",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 1,
+            "dakika": 0,
+            "saat2": 3,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm2-a24",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Dijital saat 09:00. Saat kaç?",
+          "dogruCevap": "Saat 9",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 9,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-a25",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "yazili",
+          "soru": "Gece saat 10'da yattım, sabah 6'da kalktım. Kaç saat uyudum?",
+          "dogruCevap": "8 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 22,
+            "dakika": 0,
+            "saat2": 6,
+            "dakika2": 0
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "zm-t1",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 12'de, kısa kol 6'da. Saat kaç?",
+          "dogruCevap": "Saat 6",
+          "secenekler": [
+            "Saat 6",
+            "Saat 3",
+            "Saat 12",
+            "Saat 9"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 6,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-t2",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Saatin kısa kolu neyi gösterir?",
+          "dogruCevap": "Saati",
+          "secenekler": [
+            "Saniye",
+            "Dakika",
+            "Günü",
+            "Saati"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-kisa-kol-vurgu"
+          }
+        },
+        {
+          "id": "zm-t3",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dijital saat 09:30. Hangi analog saatle eşleşir?",
+          "dogruCevap": "Uzun kol 6, kısa kol 9-10 arası",
+          "secenekler": [
+            "Uzun kol 3, kısa kol 9",
+            "Uzun kol 6, kısa kol 9-10 arası",
+            "Uzun kol 9, kısa kol 6",
+            "Uzun kol 12, kısa kol 9"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 9,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-t4",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "1 saat kaç dakikadır?",
+          "dogruCevap": "60",
+          "secenekler": [
+            "30",
+            "100",
+            "24",
+            "60"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-60-dakika"
+          }
+        },
+        {
+          "id": "zm-t5",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 6'da, kısa kol 5 ile 6 arasında. Saat kaç?",
+          "dogruCevap": "Saat 5 buçuk",
+          "secenekler": [
+            "Saat 6 buçuk",
+            "Saat 5",
+            "Saat 5 buçuk",
+            "Saat 6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 5,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-t6",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Okul saat 8'de başladı, saat 12'de bitti. Kaç saat sürdü?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 8,
+            "dakika": 0,
+            "saat2": 12,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm-t7",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi dijital saat \"saat 7 buçuk\"u gösterir?",
+          "dogruCevap": "07:30",
+          "secenekler": [
+            "07:30",
+            "07:15",
+            "17:30",
+            "07:00"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-dijital-secenekler"
+          }
+        },
+        {
+          "id": "zm-t8",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ayşe saat 3'te uyudu, 3 saat uyudu. Hangi saatte uyandı?",
+          "dogruCevap": "Saat 6",
+          "secenekler": [
+            "Saat 5",
+            "Saat 4",
+            "Saat 6",
+            "Saat 7"
+          ],
+          "ipucu": "3 + 3 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 3,
+            "dakika": 0,
+            "saat2": 6,
+            "dakika2": 0
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "zm-t9",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 12'de, kısa kol 10'da. Saat kaç?",
+          "dogruCevap": "Saat 10",
+          "secenekler": [
+            "Saat 10",
+            "Saat 2",
+            "Saat 1",
+            "Saat 12"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 10,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-t10",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "1 günde kaç saat vardır?",
+          "dogruCevap": "24",
+          "secenekler": [
+            "30",
+            "60",
+            "12",
+            "24"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-gun-dongusu"
+          }
+        },
+        {
+          "id": "zm-t11",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Film saat 4 buçukta başladı, 2 saat sürdü. Hangi saatte bitti?",
+          "dogruCevap": "Saat 6 buçuk",
+          "secenekler": [
+            "Saat 6 buçuk",
+            "Saat 7",
+            "Saat 6",
+            "Saat 5 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 4,
+            "dakika": 30,
+            "saat2": 6,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm-t12",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Saat kaçta olduğunu söyle: Uzun kol tam 6'da, kısa kol tam 8 ile 9'un ortasında.",
+          "dogruCevap": "Saat 8 buçuk",
+          "secenekler": [
+            "Saat 9 buçuk",
+            "Saat 8 buçuk",
+            "Saat 8",
+            "Saat 9"
+          ],
+          "ipucu": "Buçukta uzun kol 6'dadır!",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 8,
+            "dakika": 30
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "zm-t13",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Mehmet saat 7'de uyandı. 1,5 saat sonra okula gitti. Hangi saatte okula gitti?",
+          "dogruCevap": "Saat 8 buçuk",
+          "secenekler": [
+            "Saat 9",
+            "Saat 8",
+            "Saat 8 buçuk",
+            "Saat 7 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 7,
+            "dakika": 0,
+            "saat2": 8,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm-t14",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi saat \"tam saat\" gösterir?",
+          "dogruCevap": "Uzun kol 12'de",
+          "secenekler": [
+            "Uzun kol 9'da",
+            "Uzun kol 6'da",
+            "Uzun kol 12'de",
+            "Uzun kol 3'te"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-tam-saat-secenekler"
+          }
+        },
+        {
+          "id": "zm-t15",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Selin saat 9'da derse girdi, 60 dakika ders işledi. Ders hangi saatte bitti?",
+          "dogruCevap": "Saat 10",
+          "secenekler": [
+            "Saat 9",
+            "Saat 10",
+            "Saat 9 buçuk",
+            "Saat 11"
+          ],
+          "ipucu": "60 dakika = 1 saat",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 9,
+            "dakika": 0,
+            "saat2": 10,
+            "dakika2": 0
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "zm-t16",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dijital saat 11:00. Analog saatte kısa kol nerede?",
+          "dogruCevap": "11'de",
+          "secenekler": [
+            "10'da",
+            "12'de",
+            "11'de",
+            "1'de"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 11,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-t17",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Sabah kahvaltısı saat 7 buçukta, akşam yemeği saat 7'de. Aralarında kaç saat var?",
+          "dogruCevap": "11 buçuk",
+          "secenekler": [
+            "11 buçuk",
+            "12",
+            "12 buçuk",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 7,
+            "dakika": 30,
+            "saat2": 19,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm-t18",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Can saat 2'de parka gitti. 2,5 saat oynadı. Hangi saatte eve döndü?",
+          "dogruCevap": "Saat 4 buçuk",
+          "secenekler": [
+            "Saat 4",
+            "Saat 5",
+            "Saat 4 buçuk",
+            "Saat 3 buçuk"
+          ],
+          "ipucu": "2 + 2,5 = 4,5 = saat 4 buçuk",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 2,
+            "dakika": 0,
+            "saat2": 4,
+            "dakika2": 30
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "zm-t19",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 6'da, kısa kol 1 ile 2 arasında. Saat kaç?",
+          "dogruCevap": "Saat 1 buçuk",
+          "secenekler": [
+            "Saat 2",
+            "Saat 1",
+            "Saat 1 buçuk",
+            "Saat 2 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 1,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm-t20",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi dijital saat \"saat 11 buçuk\"u gösterir?",
+          "dogruCevap": "11:30",
+          "secenekler": [
+            "11:00",
+            "01:30",
+            "11:30",
+            "11:15"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-dijital-secenekler"
+          }
+        },
+        {
+          "id": "zm-t21",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hande sabah 7'de uyandı. 8 saat sonra ne zaman olur?",
+          "dogruCevap": "Saat 15",
+          "secenekler": [
+            "Saat 15",
+            "Saat 16",
+            "Saat 14",
+            "Saat 13"
+          ],
+          "ipucu": "7 + 8 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 7,
+            "dakika": 0,
+            "saat2": 15,
+            "dakika2": 0
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "zm-t22",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ders saat 10'da başladı. 1 saat 30 dakika sonra bitti. Hangi saatte?",
+          "dogruCevap": "Saat 11 buçuk",
+          "secenekler": [
+            "Saat 10 buçuk",
+            "Saat 11",
+            "Saat 12",
+            "Saat 11 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 10,
+            "dakika": 0,
+            "saat2": 11,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm-t23",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 12'de, kısa kol 8'de. Saat kaç?",
+          "dogruCevap": "Saat 8",
+          "secenekler": [
+            "Saat 4",
+            "Saat 8",
+            "Saat 12",
+            "Saat 6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 8,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm-t24",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Yusuf her gün 8 saat uyuyor. Haftada kaç saat uyur?",
+          "dogruCevap": "56",
+          "secenekler": [
+            "56",
+            "40",
+            "64",
+            "48"
+          ],
+          "ipucu": "8 × 7 = ?",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-haftalik-uyku"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "zm-t25",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Saat 3 buçukta başlayan film 2 saat sürdü. Hangi saatte bitti?",
+          "dogruCevap": "Saat 5 buçuk",
+          "secenekler": [
+            "Saat 4 buçuk",
+            "Saat 5",
+            "Saat 6",
+            "Saat 5 buçuk"
+          ],
+          "ipucu": "3,5 + 2 = 5,5 = saat 5 buçuk",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 3,
+            "dakika": 30,
+            "saat2": 5,
+            "dakika2": 30
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "zm2-t1",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 12'de, kısa kol 1'de. Saat kaç?",
+          "dogruCevap": "Saat 1",
+          "secenekler": [
+            "Saat 6",
+            "Saat 11",
+            "Saat 1",
+            "Saat 12"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 1,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-t2",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 6'da, kısa kol 4-5 arası. Saat kaç?",
+          "dogruCevap": "Saat 4 buçuk",
+          "secenekler": [
+            "Saat 4",
+            "Saat 4 buçuk",
+            "Saat 5",
+            "Saat 5 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 4,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-t3",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dijital saat 03:30 hangi saati gösterir?",
+          "dogruCevap": "Saat 3 buçuk",
+          "secenekler": [
+            "Saat 3 buçuk",
+            "Saat 3",
+            "Saat 4",
+            "Saat 2 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 3,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-t4",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Yarım saat kaç dakikadır?",
+          "dogruCevap": "30",
+          "secenekler": [
+            "30",
+            "60",
+            "15",
+            "45"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-yarim-saat"
+          }
+        },
+        {
+          "id": "zm2-t5",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Okul 08:30'da başlıyor. Bu saat nasıl okunur?",
+          "dogruCevap": "Saat 8 buçuk",
+          "secenekler": [
+            "Saat 7 buçuk",
+            "Saat 9",
+            "Saat 8",
+            "Saat 8 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 8,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-t6",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ders saat 11'de başladı, 12'de bitti. Kaç saat sürdü?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "0,5",
+            "3",
+            "2",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 11,
+            "dakika": 0,
+            "saat2": 12,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm2-t7",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 12'de, kısa kol 8'de. Saat kaç?",
+          "dogruCevap": "Saat 8",
+          "secenekler": [
+            "Saat 2",
+            "Saat 12",
+            "Saat 4",
+            "Saat 8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 8,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-t8",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "2 saat kaç dakikadır?",
+          "dogruCevap": "120",
+          "secenekler": [
+            "180",
+            "60",
+            "120",
+            "90"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-120-dakika"
+          }
+        },
+        {
+          "id": "zm2-t9",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Film saat 2'de başladı, 3 buçukta bitti. Kaç saat sürdü?",
+          "dogruCevap": "1,5",
+          "secenekler": [
+            "2,5",
+            "1",
+            "2",
+            "1,5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 2,
+            "dakika": 0,
+            "saat2": 3,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm2-t10",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dijital saat 06:00. Saat kaç?",
+          "dogruCevap": "Saat 6",
+          "secenekler": [
+            "Saat 7",
+            "Saat 5",
+            "Saat 6",
+            "Saat 12"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 6,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-t11",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 6'da, kısa kol 10-11 arası. Saat kaç?",
+          "dogruCevap": "Saat 10 buçuk",
+          "secenekler": [
+            "Saat 11",
+            "Saat 9 buçuk",
+            "Saat 10",
+            "Saat 10 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 10,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-t12",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Elanaz saat 4'te parka gitti, saat 5 buçukta döndü. Kaç saat kaldı?",
+          "dogruCevap": "1,5",
+          "secenekler": [
+            "2",
+            "1,5",
+            "1",
+            "0,5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 4,
+            "dakika": 0,
+            "saat2": 5,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm2-t13",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Öğle yemeği saat 12'de. Uzun kol nerede?",
+          "dogruCevap": "12'de",
+          "secenekler": [
+            "12'de",
+            "3'te",
+            "9'da",
+            "6'da"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 12,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-t14",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dijital saat 01:30. Saat kaç?",
+          "dogruCevap": "Saat 1 buçuk",
+          "secenekler": [
+            "Saat 1",
+            "Saat 12 buçuk",
+            "Saat 2",
+            "Saat 1 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 1,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-t15",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Sabah 7'de kalktım, 8 buçukta okula gittim. Kaç saat geçti?",
+          "dogruCevap": "1,5",
+          "secenekler": [
+            "0,5",
+            "2",
+            "1",
+            "1,5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 7,
+            "dakika": 0,
+            "saat2": 8,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm2-t16",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 12'de, kısa kol 3'te. Saat kaç?",
+          "dogruCevap": "Saat 3",
+          "secenekler": [
+            "Saat 12",
+            "Saat 9",
+            "Saat 6",
+            "Saat 3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 3,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-t17",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Buçukta uzun kol nerededir?",
+          "dogruCevap": "6'da",
+          "secenekler": [
+            "12'de",
+            "9'da",
+            "6'da",
+            "3'te"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 5,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-t18",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Ders saat 9 buçukta başladı, 1 saat sürdü. Hangi saatte bitti?",
+          "dogruCevap": "Saat 10 buçuk",
+          "secenekler": [
+            "Saat 9",
+            "Saat 10",
+            "Saat 11",
+            "Saat 10 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 9,
+            "dakika": 30,
+            "saat2": 10,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm2-t19",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dijital saat 05:30. Saat kaç?",
+          "dogruCevap": "Saat 5 buçuk",
+          "secenekler": [
+            "Saat 5 buçuk",
+            "Saat 4 buçuk",
+            "Saat 5",
+            "Saat 6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 5,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-t20",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Gece 9'da yattım, sabah 7'de kalktım. Kaç saat uyudum?",
+          "dogruCevap": "10",
+          "secenekler": [
+            "11",
+            "9",
+            "8",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 21,
+            "dakika": 0,
+            "saat2": 7,
+            "dakika2": 0
+          }
+        },
+        {
+          "id": "zm2-t21",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Uzun kol 6'da, kısa kol 7-8 arası. Saat kaç?",
+          "dogruCevap": "Saat 7 buçuk",
+          "secenekler": [
+            "Saat 7 buçuk",
+            "Saat 8",
+            "Saat 7",
+            "Saat 6 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 7,
+            "dakika": 30
+          }
+        },
+        {
+          "id": "zm2-t22",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Akşam yemeği saat 7'de. Saat kaç?",
+          "dogruCevap": "Saat 7",
+          "secenekler": [
+            "Saat 5",
+            "Saat 7",
+            "Saat 6",
+            "Saat 8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "analog",
+            "saat": 7,
+            "dakika": 0
+          }
+        },
+        {
+          "id": "zm2-t23",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "3 saat kaç dakikadır?",
+          "dogruCevap": "180",
+          "secenekler": [
+            "120",
+            "180",
+            "200",
+            "150"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "anlatim",
+            "sahne": "zm-180-dakika"
+          }
+        },
+        {
+          "id": "zm2-t24",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Film saat 3 buçukta başladı, 2 saat sürdü. Hangi saatte bitti?",
+          "dogruCevap": "Saat 5 buçuk",
+          "secenekler": [
+            "Saat 5",
+            "Saat 4 buçuk",
+            "Saat 5 buçuk",
+            "Saat 6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "iki-saat",
+            "saat": 3,
+            "dakika": 30,
+            "saat2": 5,
+            "dakika2": 30
+          }
+        },
+        {
+          "id": "zm2-t25",
+          "kazanimKodu": "MAT.2.5.4",
+          "tip": "coktanSecmeli",
+          "soru": "Dijital saat 12:30. Saat kaç?",
+          "dogruCevap": "Saat 12 buçuk",
+          "secenekler": [
+            "Saat 1",
+            "Saat 11 buçuk",
+            "Saat 12",
+            "Saat 12 buçuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "olcme",
+            "mod": "zaman",
+            "sahne": "dijital",
+            "saat": 12,
+            "dakika": 30
+          }
+        }
+      ]
+    }
+  ]
+}

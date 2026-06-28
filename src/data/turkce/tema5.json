@@ -1,0 +1,1929 @@
+{
+  "id": "tema-5",
+  "baslik": "Türkçe — Tema 5 — Anlam",
+  "konular": [
+    {
+      "id": "anlam",
+      "baslik": "Anlam",
+      "kazanimKodu": "TUR.2.1.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "EŞ ANLAMLI KELİMELER: Yazılışları farklı ama anlamları aynı olan kelimelerdir. \"güzel = hoş\", \"hızlı = çabuk\", \"büyük = iri\".",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "kb-anlatim-1"
+            }
+          },
+          {
+            "metin": "ZIT ANLAMLI KELİMELER: Anlamları birbirinin tersi olan kelimelerdir. \"büyük ↔ küçük\", \"sıcak ↔ soğuk\", \"açık ↔ kapalı\".",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "kb-anlatim-2"
+            }
+          },
+          {
+            "metin": "EŞ SESLİ KELİMELER: Yazılış ve okunuşları aynı ama anlamları farklı kelimelerdir. \"yüz\" → hem sayı (100), hem vücudun bir parçası!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "kb-anlatim-3"
+            }
+          },
+          {
+            "metin": "Deyim, birden fazla kelimenin bir araya gelerek farklı bir anlam oluşturmasıdır. \"Kulak vermek\" gerçek anlamıyla kulağını vermez — \"dikkatle dinlemek\" demektir!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "ka-anlatim-1"
+            }
+          },
+          {
+            "metin": "Atasözleri uzun deneyimlerden doğmuş kısa ve özlü sözlerdir. \"Damlaya damlaya göl olur\" — küçük şeyler birikerek büyük sonuçlar doğurur!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "ka-anlatim-2"
+            }
+          },
+          {
+            "metin": "Mecaz anlam bir kelimenin gerçek anlamı dışında kullanılmasıdır. \"Aslan gibi savaştı\" — gerçek aslan değil, güçlü ve cesur demek!",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "ka-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "an-a1",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"güzel\" kelimesinin eş anlamlısı nedir?",
+          "dogruCevap": "hoş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "guzel-cicek",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "an-a2",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"büyük\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "küçük",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-a3",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"hızlı\" kelimesinin eş anlamlısı nedir?",
+          "dogruCevap": "çabuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kosan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a4",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"sıcak\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "soğuk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "kar (yağış)",
+              "kar (kazanç)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-a5",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"mutlu\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "mutsuz/üzgün",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "yüz (sayı)",
+              "yüz (vücut)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-a6",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"yüz\" kelimesinin iki farklı anlamı nedir?",
+          "dogruCevap": "100 sayısı ve insan yüzü",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "yüz (sayı)",
+              "yüz (vücut)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-a7",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"açık\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "kapalı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "acik-kapali",
+            "nesne": "ev"
+          }
+        },
+        {
+          "id": "an-a8",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"kolay\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "zor",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "gece",
+              "gündüz"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-a9",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"şişman\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "zayıf/ince",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-a10",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"ev\" anlamına gelen başka bir kelime nedir?",
+          "dogruCevap": "konut, yuva",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ev",
+            "nesne": "ev"
+          }
+        },
+        {
+          "id": "an-a11",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"kar\" kelimesinin iki farklı anlamı nedir?",
+          "dogruCevap": "beyaz yağış ve kazanç",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "kar (yağış)",
+              "kar (kazanç)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-a12",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"temiz\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "kirli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-a13",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"şehir\" kelimesinin eş anlamlısı nedir?",
+          "dogruCevap": "kent",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sehir",
+            "nesne": "istanbul"
+          }
+        },
+        {
+          "id": "an-a14",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"gece\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "gündüz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-a15",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"çocuk\" kelimesinin eş anlamlısı nedir?",
+          "dogruCevap": "evlat, yavru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kelime",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-a16",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"uzun\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "kısa",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kelime",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-a17",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"ben\" kelimesinin iki anlamı var mı?",
+          "dogruCevap": "Evet: \"ben\" (1. tekil kişi) ve \"ben\" (cilt lekesi)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kelime",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-a18",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"eski\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "yeni",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "eski-yeni",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "an-a19",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"yardım etmek\" kelimesinin eş anlamlısı nedir?",
+          "dogruCevap": "destek olmak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kelime",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-a20",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"aydınlık\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "karanlık",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "kar (yağış)",
+              "kar (kazanç)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-a21",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"kır\" kelimesinin iki farklı anlamı nedir?",
+          "dogruCevap": "doğa/tarla ve (bir şeyi) kırmak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kelime",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-a22",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"çirkin\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "güzel",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-a23",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"hata\" kelimesinin eş anlamlısı nedir?",
+          "dogruCevap": "yanlış, yanılgı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "hata-dogru",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-a24",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"dolu\" kelimesinin zıt anlamlısı nedir?",
+          "dogruCevap": "boş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dolu-bos",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-a25",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "yazili",
+          "soru": "\"gül\" kelimesinin iki farklı anlamı nedir?",
+          "dogruCevap": "çiçek türü ve gülmek eylemi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "yüz (sayı)",
+              "yüz (vücut)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-a26",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Kulak vermek\" deyimi ne anlama gelir?",
+          "dogruCevap": "Dikkatle dinlemek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dinleyen-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a27",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"El ele vermek\" ne demektir?",
+          "dogruCevap": "Birlikte çalışmak, yardımlaşmak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "el-ele",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a28",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Damlaya damlaya göl olur\" atasözü ne öğretir?",
+          "dogruCevap": "Küçük birikimler büyük sonuçlar doğurur",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "damla",
+            "nesne": "deniz"
+          }
+        },
+        {
+          "id": "an-a29",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Bugün işini yarına bırakma\" atasözünün anlamı nedir?",
+          "dogruCevap": "İşleri ertelemeden yapmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "calisan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a30",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Aslan gibi cesur\" ifadesinde aslan gerçek midir?",
+          "dogruCevap": "Hayır, mecaz anlam — çok cesur demek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cesur-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a31",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Gönül koydu\" deyimi ne demektir?",
+          "dogruCevap": "Küstü, darıldı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kusan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a32",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Ağzı sıkı\" ne anlama gelir?",
+          "dogruCevap": "Sır saklayan, çok konuşmayan",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "agzi-siki",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a33",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Bir elin nesi var, iki elin sesi var\" atasözü ne demek?",
+          "dogruCevap": "Birlikte çalışmak daha güçlüdür",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "birlikte-calisma",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a34",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Bal gibi tatlı\" ifadesinde mecaz nedir?",
+          "dogruCevap": "Çok tatlı anlamında bal kullanılmış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bal",
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "an-a35",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Dil dökmek\" deyiminin anlamı?",
+          "dogruCevap": "Birini ikna etmek için güzel konuşmak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "konusan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a36",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Saçma sapan konuşmak\" ne demektir?",
+          "dogruCevap": "Anlamsız, mantıksız şeyler söylemek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kafasi-karisi",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a37",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Körle yatan şaşı kalkar\" atasözü ne öğretir?",
+          "dogruCevap": "Kötü arkadaş kötü alışkanlıklar kazandırır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "arkadas-secimi",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a38",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Güneş gibi parlak\" ifadesinde ne var?",
+          "dogruCevap": "Mecaz anlam — çok zeki ve başarılı demek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "parlak-ogrenci",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a39",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Baş vurmak\" deyimi ne anlama gelir?",
+          "dogruCevap": "Yardım istemek, başvurmak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yardim-isteyen",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a40",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Taş gibi uyudu\" ifadesini açıkla.",
+          "dogruCevap": "Çok derin ve rahat uyudu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "derin-uyku",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a41",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Bir taşla iki kuş vurmak\" deyimi ne demektir?",
+          "dogruCevap": "Tek hareketle iki işi birden halletmek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "iki-is",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a42",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Ağzı var dili yok\" deyiminin anlamı?",
+          "dogruCevap": "Çok sessiz, konuşmayan, çekingen biri",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sessiz-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a43",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Sakla samanı, gelir zamanı\" atasözü ne öğretir?",
+          "dogruCevap": "Her şeyi ileride lazım olur diye saklamalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "tasarruf",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a44",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Buz gibi soğuk\" ifadesinde mecaz nedir?",
+          "dogruCevap": "Çok soğuk demek için buz kullanılmış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "buz",
+            "nesne": "kar"
+          }
+        },
+        {
+          "id": "an-a45",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Kör olası para\" ifadesi nasıl bir kullanımdır?",
+          "dogruCevap": "Deyimsel, paranın sorun çıkardığını anlatır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "para",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-a46",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"İki yakasını bir araya getirememek\" ne demektir?",
+          "dogruCevap": "Geçim sıkıntısı, para yetiştirememe",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gecim-sikintisi",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a47",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Dağ gibi adam\" ifadesindeki mecaz nedir?",
+          "dogruCevap": "Çok iri, güçlü adam demek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "guclu-adam",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a48",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Bin düşün bir söyle\" atasözü ne öğütler?",
+          "dogruCevap": "Konuşmadan önce iyice düşünmeli",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dusunen-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a49",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Gözden düştü\" deyiminin anlamı?",
+          "dogruCevap": "Değerini, itibarını kaybetti",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "uzgun-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-a50",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Akıl akıldan üstündür\" atasözü ne demektir?",
+          "dogruCevap": "Herkesin fikri değerlidir, birbirinden öğrenilir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "birlikte-dusunen",
+            "nesne": "cocuk"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "an-t1",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"güzel\" kelimesinin eş anlamlısı hangisidir?",
+          "dogruCevap": "hoş",
+          "secenekler": [
+            "uzun",
+            "büyük",
+            "çirkin",
+            "hoş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "guzel-cicek",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "an-t2",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"sıcak\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "soğuk",
+          "secenekler": [
+            "soğuk",
+            "serin",
+            "ılık",
+            "donuk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-t3",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"hızlı\" kelimesinin eş anlamlısı hangisidir?",
+          "dogruCevap": "çabuk",
+          "secenekler": [
+            "çabuk",
+            "yavaş",
+            "sakin",
+            "ağır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kosan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t4",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"gece\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "gündüz",
+          "secenekler": [
+            "sabah",
+            "akşam",
+            "gündüz",
+            "öğle"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "sıcak",
+              "soğuk"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-t5",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"yüz\" kelimesi aşağıdaki hangi iki anlamda kullanılır?",
+          "dogruCevap": "Sayı ve vücut parçası",
+          "secenekler": [
+            "Renk ve ses",
+            "Yiyecek ve içecek",
+            "Sayı ve vücut parçası",
+            "Hayvan ve bitki"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "yüz (sayı)",
+              "yüz (vücut)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-t6",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"açık\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "kapalı",
+          "secenekler": [
+            "kapalı",
+            "aydınlık",
+            "net",
+            "geniş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "acik-kapali",
+            "nesne": "ev"
+          }
+        },
+        {
+          "id": "an-t7",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"şehir\" kelimesinin eş anlamlısı hangisidir?",
+          "dogruCevap": "kent",
+          "secenekler": [
+            "ülke",
+            "mahalle",
+            "kent",
+            "köy"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sehir",
+            "nesne": "istanbul"
+          }
+        },
+        {
+          "id": "an-t8",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"kar\" kelimesi hangi cümlede \"kazanç\" anlamında kullanılmıştır?",
+          "dogruCevap": "Bu işten kar etti",
+          "secenekler": [
+            "Kar yağdı",
+            "Kar beyazdır",
+            "Kardan adam yaptık",
+            "Bu işten kar etti"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "kar (yağış)",
+              "kar (kazanç)"
+            ],
+            "iliski": "esSeslilik"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t9",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"temiz\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "kirli",
+          "secenekler": [
+            "tertipli",
+            "pırıl pırıl",
+            "kirli",
+            "düzgün"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-t10",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"büyük\" kelimesinin eş anlamlısı hangisidir?",
+          "dogruCevap": "iri",
+          "secenekler": [
+            "uzun",
+            "geniş",
+            "iri",
+            "küçük"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "buyuk-fil",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-t11",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"mutlu\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "üzgün",
+          "secenekler": [
+            "neşeli",
+            "üzgün",
+            "sevinçli",
+            "heyecanlı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "yüz (sayı)",
+              "yüz (vücut)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-t12",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"gül\" kelimesi hangi cümlede \"çiçek\" anlamında kullanılmıştır?",
+          "dogruCevap": "Bahçede güller açmış",
+          "secenekler": [
+            "Çok güldü",
+            "Gülmekten ağladı",
+            "Gülünç bir şey söyledi",
+            "Bahçede güller açmış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "yüz (sayı)",
+              "yüz (vücut)"
+            ],
+            "iliski": "esSeslilik"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t13",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"eski\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "yeni",
+          "secenekler": [
+            "pahalı",
+            "bozuk",
+            "yeni",
+            "kullanılmış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "eski-yeni",
+            "nesne": "araba"
+          }
+        },
+        {
+          "id": "an-t14",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"kolay\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "zor",
+          "secenekler": [
+            "karmaşık",
+            "zor",
+            "sıradan",
+            "basit"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "gece",
+              "gündüz"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-t15",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Eş anlamlı kelime çifti hangisidir?",
+          "dogruCevap": "hızlı - çabuk",
+          "secenekler": [
+            "güzel - çirkin",
+            "açık - kapalı",
+            "hızlı - çabuk",
+            "büyük - küçük"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "güzel",
+              "hoş"
+            ],
+            "iliski": "esAnlam"
+          }
+        },
+        {
+          "id": "an-t16",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"kır\" kelimesi hangi cümlede \"doğa\" anlamında kullanılmıştır?",
+          "dogruCevap": "Kırda piknik yaptık",
+          "secenekler": [
+            "Kırık bir şey vardı",
+            "Kalemi kırdı",
+            "Camı kırma",
+            "Kırda piknik yaptık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "kır (doğa)",
+              "kır (kırmak)"
+            ],
+            "iliski": "esSeslilik"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t17",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"uzun\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "kısa",
+          "secenekler": [
+            "kısa",
+            "ince",
+            "dar",
+            "küçük"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kelime",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-t18",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Zıt anlamlı kelime çifti hangisidir?",
+          "dogruCevap": "dolu - boş",
+          "secenekler": [
+            "hızlı - çabuk",
+            "dolu - boş",
+            "güzel - hoş",
+            "ev - konut"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "güzel",
+              "hoş"
+            ],
+            "iliski": "esAnlam"
+          }
+        },
+        {
+          "id": "an-t19",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"aydınlık\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "karanlık",
+          "secenekler": [
+            "loş",
+            "gölgeli",
+            "soluk",
+            "karanlık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "kar (yağış)",
+              "kar (kazanç)"
+            ],
+            "iliski": "esSeslilik"
+          }
+        },
+        {
+          "id": "an-t20",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi eş sesli kelimedir?",
+          "dogruCevap": "ben (kişi - cilt lekesi)",
+          "secenekler": [
+            "güzel - hoş",
+            "ben (kişi - cilt lekesi)",
+            "ev - konut",
+            "büyük - küçük"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kelime",
+            "nesne": "default"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t21",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"çirkin\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "güzel",
+          "secenekler": [
+            "sıradan",
+            "soluk",
+            "düz",
+            "güzel"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "zit"
+          }
+        },
+        {
+          "id": "an-t22",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"dolu\" kelimesinin zıt anlamlısı hangisidir?",
+          "dogruCevap": "boş",
+          "secenekler": [
+            "hafif",
+            "az",
+            "boş",
+            "yarım"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dolu-bos",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-t23",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"yüz\" kelimesinin eş sesli olduğu iki anlam hangisidir?",
+          "dogruCevap": "Sayı (100) ve vücut parçası",
+          "secenekler": [
+            "Yiyecek ve içecek",
+            "Hayvan ve bitki",
+            "Sayı (100) ve vücut parçası",
+            "Renk ve boyut"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "yüz (sayı)",
+              "yüz (vücut)"
+            ],
+            "iliski": "esSeslilik"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t24",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"hata\" kelimesinin eş anlamlısı hangisidir?",
+          "dogruCevap": "yanlış",
+          "secenekler": [
+            "doğru",
+            "yanlış",
+            "güzel",
+            "başarı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "hata-dogru",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-t25",
+          "kazanimKodu": "TUR.2.1.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi hem eş anlamlı hem zıt anlamlı kelime içermektedir?",
+          "dogruCevap": "\"güzel - hoş, büyük - küçük\"",
+          "secenekler": [
+            "\"hızlı - çabuk, şehir - kent\"",
+            "\"sıcak - soğuk, açık - kapalı\"",
+            "\"ev - konut, gece - gündüz\"",
+            "\"güzel - hoş, büyük - küçük\""
+          ],
+          "ipucu": "eş anlamlı + zıt anlamlı çifti birlikte veren seçenek",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "karsilastir",
+            "kelimeler": [
+              "güzel",
+              "hoş",
+              "büyük",
+              "küçük"
+            ],
+            "iliski": "es-zit"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t26",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Kulak vermek\" deyiminin anlamı nedir?",
+          "dogruCevap": "Dikkatle dinlemek",
+          "secenekler": [
+            "Dikkatle dinlemek",
+            "Kulak takmak",
+            "Kulağını vermek",
+            "Kulağı ağrımak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dinleyen-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t27",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Damlaya damlaya göl olur\" atasözü ne öğretir?",
+          "dogruCevap": "Küçük birikimler büyük sonuçlar doğurur",
+          "secenekler": [
+            "Göller yağmurdan oluşur",
+            "Yağmur yağınca göl oluşur",
+            "Su tasarrufu yapmalıyız",
+            "Küçük birikimler büyük sonuçlar doğurur"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "damla-gol",
+            "nesne": "deniz"
+          }
+        },
+        {
+          "id": "an-t28",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Aslan gibi cesur savaştı\" cümlesinde \"aslan\" nasıl kullanılmıştır?",
+          "dogruCevap": "Mecaz anlamında",
+          "secenekler": [
+            "Mecaz anlamında",
+            "Atasözü olarak",
+            "Deyim olarak",
+            "Gerçek anlamında"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "cesur-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t29",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"El ele vermek\" deyimi ne anlama gelir?",
+          "dogruCevap": "Yardımlaşmak",
+          "secenekler": [
+            "El vermek",
+            "El sıkışmak",
+            "Yardımlaşmak",
+            "Tokatlamak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "el-ele",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t30",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi cümle atasözü içerir?",
+          "dogruCevap": "Damlaya damlaya göl olur",
+          "secenekler": [
+            "Bugün hava güzel",
+            "Ali okula gitti",
+            "Kedi miyavladı",
+            "Damlaya damlaya göl olur"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          }
+        },
+        {
+          "id": "an-t31",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ağzı sıkı\" deyiminin anlamı nedir?",
+          "dogruCevap": "Sır saklayan",
+          "secenekler": [
+            "Ağzı küçük",
+            "Az konuşan",
+            "Çok yemek yiyen",
+            "Sır saklayan"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sir-saklayan",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t32",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Bal gibi tatlı\" ifadesinde bal gerçek anlamında mı kullanılmıştır?",
+          "dogruCevap": "Hayır, mecaz anlam",
+          "secenekler": [
+            "Evet, bal var",
+            "Hayır, mecaz anlam",
+            "Bazen",
+            "Her zaman gerçek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bal",
+            "nesne": "meyve"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t33",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Bir taşla iki kuş vurmak\" deyimi ne demektir?",
+          "dogruCevap": "Tek seferde iki işi bitirmek",
+          "secenekler": [
+            "Taş atmak",
+            "Çok çalışmak",
+            "İki kuş avlamak",
+            "Tek seferde iki işi bitirmek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "iki-is",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t34",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Bin düşün bir söyle\" atasözü ne öğütler?",
+          "dogruCevap": "Konuşmadan önce iyice düşün",
+          "secenekler": [
+            "Konuşmadan önce iyice düşün",
+            "Çok konuş",
+            "Yavaş konuş",
+            "Söz söyleme"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dusunen-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t35",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Taş gibi uyudu\" ifadesindeki mecaz nedir?",
+          "dogruCevap": "Çok derin uyudu",
+          "secenekler": [
+            "Taş gibi sert yattı",
+            "Çok derin uyudu",
+            "Uyumadı",
+            "Taş üzerinde uyudu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "derin-uyku",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t36",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Deyim hangi seçenektir?",
+          "dogruCevap": "Gönül koydu",
+          "secenekler": [
+            "Koştu",
+            "Hava güzel",
+            "Gönül koydu",
+            "Gülümsedi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          }
+        },
+        {
+          "id": "an-t37",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Baş vurmak\" deyiminin anlamı nedir?",
+          "dogruCevap": "Yardım istemek, başvurmak",
+          "secenekler": [
+            "Baş ağrısı",
+            "Koşmak",
+            "Yardım istemek, başvurmak",
+            "Başını vurmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "yardim-isteyen",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t38",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Dağ gibi adam\" ifadesinde \"dağ\" ne anlama gelir?",
+          "dogruCevap": "İri ve güçlü",
+          "secenekler": [
+            "İri ve güçlü",
+            "Yürüyen dağ",
+            "Dağda yaşayan",
+            "Dağcı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "guclu-adam",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t39",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Atasözü hangisidir?",
+          "dogruCevap": "Bir elin nesi var, iki elin sesi var",
+          "secenekler": [
+            "Güneş doğdu",
+            "Yağmur yağdı",
+            "Ali top oynadı",
+            "Bir elin nesi var, iki elin sesi var"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          }
+        },
+        {
+          "id": "an-t40",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Ağzı var dili yok\" deyimi kimi anlatır?",
+          "dogruCevap": "Çok sessiz, çekingen biri",
+          "secenekler": [
+            "Dilsiz biri",
+            "Çok sessiz, çekingen biri",
+            "Yabancı biri",
+            "Çok konuşan biri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sessiz-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t41",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Gözden düştü\" deyimi ne anlatır?",
+          "dogruCevap": "İtibarını kaybetti",
+          "secenekler": [
+            "İtibarını kaybetti",
+            "Ağladı",
+            "Yere düştü",
+            "Gözleri düştü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "deger-kaybi",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t42",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Buz gibi soğuk\" ifadesi nasıl bir kullanımdır?",
+          "dogruCevap": "Mecaz anlam",
+          "secenekler": [
+            "Atasözü",
+            "Deyim",
+            "Mecaz anlam",
+            "Gerçek anlam"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "buz",
+            "nesne": "kar"
+          }
+        },
+        {
+          "id": "an-t43",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Dil dökmek\" deyiminin anlamı nedir?",
+          "dogruCevap": "İkna etmek için güzel konuşmak",
+          "secenekler": [
+            "Dili tutulmak",
+            "Dili düşmek",
+            "İkna etmek için güzel konuşmak",
+            "Dilini çıkarmak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ikna-eden",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t44",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Mecaz anlam içeren cümle hangisidir?",
+          "dogruCevap": "Yüreği dayanmadı",
+          "secenekler": [
+            "Güneş battı",
+            "Yüreği dayanmadı",
+            "Kedi miyavladı",
+            "Top yuvarlandı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "kart",
+            "harfler": [
+              "A",
+              "B",
+              "C",
+              "D"
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t45",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Sakla samanı gelir zamanı\" atasözü ne öğütler?",
+          "dogruCevap": "Tasarruflu ol, bir gün işe yarar",
+          "secenekler": [
+            "Her şeyi harca",
+            "Saman topla",
+            "Tasarruflu ol, bir gün işe yarar",
+            "Zamanı iyi kullan"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "tasarruf",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t46",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Deyim ne demektir?",
+          "dogruCevap": "Birkaç kelimenin farklı anlam oluşturması",
+          "secenekler": [
+            "Birkaç kelimenin farklı anlam oluşturması",
+            "Yabancı kelime",
+            "Kısa ve özlü söz",
+            "Şiirsel söz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "deyim-tanimi",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-t47",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Akıl akıldan üstündür\" atasözünün anlamı nedir?",
+          "dogruCevap": "Her aklın bir değeri var, birbirinden öğrenilir",
+          "secenekler": [
+            "Akıllı olmak iyidir",
+            "Herkes aptal",
+            "Her aklın bir değeri var, birbirinden öğrenilir",
+            "Çok akıllı olmak kötüdür"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "birlikte-dusunen",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "an-t48",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Atasözü ile deyim arasındaki fark nedir?",
+          "dogruCevap": "Atasözü öğüt verir, deyim farklı anlam taşır",
+          "secenekler": [
+            "Atasözü öğüt verir, deyim farklı anlam taşır",
+            "İkisi de şiirdir",
+            "Fark yok",
+            "Atasözü daha kısadır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "karsilastirma",
+            "nesne": "default"
+          }
+        },
+        {
+          "id": "an-t49",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"İki yakasını bir araya getirememek\" ne demektir?",
+          "dogruCevap": "Geçim sıkıntısı çekmek",
+          "secenekler": [
+            "Geçim sıkıntısı çekmek",
+            "Elbisesi dar gelmek",
+            "Çok kısa boylu olmak",
+            "Ceket dikememek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gecim-sikintisi",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "an-t50",
+          "kazanimKodu": "TUR.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Güneş gibi parlak bir öğrenci\" cümlesinde mecaz nedir?",
+          "dogruCevap": "Öğrenci çok başarılı",
+          "secenekler": [
+            "Öğrenci çok başarılı",
+            "Güneş var sınıfta",
+            "Güneş okula girmiş",
+            "Öğrenci ışık saçıyor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "basarili-ogrenci",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

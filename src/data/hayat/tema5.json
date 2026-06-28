@@ -1,0 +1,1808 @@
+{
+  "id": "tema-5",
+  "baslik": "Hayat Bilgisi — Tema 5 — Sağlık",
+  "konular": [
+    {
+      "id": "saglik",
+      "baslik": "Sağlık",
+      "kazanimKodu": "HB.2.2.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Vücudumuz en değerli giysimizdir. Mikroplar ellerimizde saklanır. Ellerimizi bol sabunla yıkamalı, hapşırırken mendil veya dirseğimizi kullanmalıyız. Kişisel bakım bizi mikroplara karşı güçlü yapar!",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "st-anlatim-1"
+            }
+          },
+          {
+            "metin": "Ali her sabah yumurta ve süt yerdi. Yeşil sebzeler ve meyveler vitaminleriyle bizi güçlü kılar. Abur cuburlardan uzak durmak sağlığın altın kuralıdır.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "st-anlatim-2"
+            }
+          },
+          {
+            "metin": "Hastalanınca doktor ve hemşireye gideriz. Diş hekimine düzenli kontrole gideriz. Aşılarımızı yaptırmak sağlıklı büyümemizi sağlar.",
+            "gorsel": {
+              "tur": "hb",
+              "mod": "anlatim",
+              "sahne": "st-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "sg-a1",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Dişlerimizi günde kaç defa fırçalamalıyız?",
+          "dogruCevap": "Günde en az iki defa, sabah ve akşam, ikişer dakika",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "dis-fircasi",
+            "vurgu": "fircalama"
+          }
+        },
+        {
+          "id": "sg-a2",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Sağlıklı çocuk kaç saat uyumalıdır?",
+          "dogruCevap": "7-8 yaşında 9-10 saat",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "uyku",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-a3",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Burnumuzu temizlemek için ne kullanmalıyız?",
+          "dogruCevap": "Kağıt mendil, işimiz bitince çöpe atmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mendil",
+            "vurgu": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a4",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Meyveleri yemeden önce ne yapmalıyız?",
+          "dogruCevap": "Bol suyla iyice yıkamalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "meyve-yikama",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a5",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Tırnaklarımızı ne sıklıkla kesmeliyiz?",
+          "dogruCevap": "Haftada bir kez düzenli kesmeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "tirnak-makasi"
+          }
+        },
+        {
+          "id": "sg-a6",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Günde kaç bardak su içmeliyiz?",
+          "dogruCevap": "En az 5-6 bardak",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "su-icme",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-a7",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Kışın kıyafet seçimini neye göre yapmalıyız?",
+          "dogruCevap": "Hava durumuna göre, mevsime uygun kalın kıyafetler seçmeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mont",
+            "vurgu": "mevsim"
+          }
+        },
+        {
+          "id": "sg-a8",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Son kullanma tarihi geçmiş yiyecekleri yersek ne olur?",
+          "dogruCevap": "Zehilenebilir ve midemiz hastalanabilir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "yiyecek",
+            "vurgu": "tarih"
+          }
+        },
+        {
+          "id": "sg-a9",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "İlaçları nerede satın alırız?",
+          "dogruCevap": "Eczanede",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "eczane"
+          }
+        },
+        {
+          "id": "sg-a10",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Düzenli spor vücudumuza ne kazandırır?",
+          "dogruCevap": "Kaslar ve kemikler güçlenir, zinde kalırız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "spor",
+            "ozellik": "egzersiz"
+          }
+        },
+        {
+          "id": "sg-a11",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Fazla tuz ve şeker sağlığı nasıl etkiler?",
+          "dogruCevap": "Kalbe, böbreklere zarar verir ve dişleri çürütür",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "tuz",
+              "seker"
+            ],
+            "vurgu": "zarar"
+          }
+        },
+        {
+          "id": "sg-a12",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Junk food neden sağlıksızdır?",
+          "dogruCevap": "Vitamin yoktur, yağlı ve şekerli olduğu için zararlıdır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "hamburger",
+              "gazoz"
+            ],
+            "vurgu": "zararli"
+          }
+        },
+        {
+          "id": "sg-a13",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Kıyafet temizliği kişisel temizliğe girer mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "corap",
+            "vurgu": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a14",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Haftada kaç kez banyo yapmalıyız?",
+          "dogruCevap": "En az iki kez",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "banyo",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a15",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Ağrı olmasa da neden diş hekimine gitmeliyiz?",
+          "dogruCevap": "Çürümeleri erkenden önlemek için",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "dis-hekimi",
+            "vurgu": "kontrol"
+          }
+        },
+        {
+          "id": "sg-a16",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Bu besinler büyümemize nasıl yardımcı olur?",
+          "dogruCevap": "Protein kaynağı olarak kas büyümesini ve boy uzamasını sağlar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "et",
+              "sut",
+              "yumurta"
+            ],
+            "vurgu": "protein"
+          }
+        },
+        {
+          "id": "sg-a17",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Yere düşen yiyeceği üfleyip yemek doğru mu?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "dusen-yiyecek",
+            "ozellik": "mikrop"
+          }
+        },
+        {
+          "id": "sg-a18",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Bitki çayları kışın bizi nasıl korur?",
+          "dogruCevap": "Vücut direncini artırır, vitaminleri doldurur",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "bitki-cayi",
+            "vurgu": "saglik"
+          }
+        },
+        {
+          "id": "sg-a19",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Kulak çubuğunu içeriye sokmamak neden önemlidir?",
+          "dogruCevap": "Kulak zarına zarar verebilir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "kulak-cubugu",
+            "vurgu": "guvenlik"
+          }
+        },
+        {
+          "id": "sg-a20",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Aşı bizi nasıl korur?",
+          "dogruCevap": "Mikropları tanımayı öğretir ve o hastalıklara karşı korur",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "asi",
+            "vurgu": "koruma"
+          }
+        },
+        {
+          "id": "sg-a21",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Yemekte üstümüzün kirlenmemesi için ne yapmalıyız?",
+          "dogruCevap": "Peçete sermeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "pecete",
+            "vurgu": "yemek"
+          }
+        },
+        {
+          "id": "sg-a22",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Sınıf havasının temiz kalması için ne yapmalıyız?",
+          "dogruCevap": "Teneffüslerde pencereleri açarak havalandırmalıyız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sinif-havalandirma",
+            "ozellik": "hava"
+          }
+        },
+        {
+          "id": "sg-a23",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Yaz mevsiminde hangi meyveler su ihtiyacını karşılar?",
+          "dogruCevap": "Karpuz, kavun, şeftali gibi sulu meyveler",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "karpuz",
+            "vurgu": "yaz"
+          }
+        },
+        {
+          "id": "sg-a24",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Herkesin kendi havlusu olması neden gereklidir?",
+          "dogruCevap": "Göz ve cilt hastalıklarının yayılmasını önlemek için",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "havlu",
+            "vurgu": "kisisel"
+          }
+        },
+        {
+          "id": "sg-a25",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Yemekten sonra sofrayı hazırlayan büyüğümüze ne söylemeliyiz?",
+          "dogruCevap": "\"Eline sağlık\" diyerek teşekkür etmeliyiz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "yemek-sonrasi",
+            "ozellik": "tesekkur"
+          }
+        },
+        {
+          "id": "sg-a26",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Ellerimizi sabunla yıkamalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sabun"
+          }
+        },
+        {
+          "id": "sg-a27",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Dişlerimizi günde iki kez fırçalarız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "disFircasi"
+          }
+        },
+        {
+          "id": "sg-a28",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Sağlıklı beslenmek önemlidir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "meyve",
+              "sebze"
+            ]
+          }
+        },
+        {
+          "id": "sg-a29",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Bol su içmeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "su-icme",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-a30",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Düzenli uyumak sağlıklıdır.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "uyku",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-a31",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Spor yapmak vücudumuzu güçlendirir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "spor"
+          }
+        },
+        {
+          "id": "sg-a32",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Hasta olduğumuzda dinlenmeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "hasta",
+            "ozellik": "dinlenme"
+          }
+        },
+        {
+          "id": "sg-a33",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Tırnaklarımızı temiz tutmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "tirnak-makasi"
+          }
+        },
+        {
+          "id": "sg-a34",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Saçlarımızı düzenli yıkamalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sac-bakimi",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a35",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Güneşte şapka takmak korur.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sapka",
+            "vurgu": "gunes"
+          }
+        },
+        {
+          "id": "sg-a36",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Vitamin almak bağışıklığı destekler.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "vitamin"
+          }
+        },
+        {
+          "id": "sg-a37",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Cildimizi temiz tutmalıyız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sabun"
+          }
+        },
+        {
+          "id": "sg-a38",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Aşı olmak koruyucudur.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "asi",
+            "vurgu": "koruma"
+          }
+        },
+        {
+          "id": "sg-a39",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Sağlıklı atıştırmalıklar tercih ederiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sg-a40",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Hijyen sağlığımızı korur.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "hijyen",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a41",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Doktora düzenli kontrole gideriz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "doktor"
+          }
+        },
+        {
+          "id": "sg-a42",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Temiz kıyafet giymek önemlidir.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "corap",
+            "vurgu": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a43",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Burnumuzu mendille temizleriz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mendil",
+            "vurgu": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a44",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Sağlıklı yaşam alışkanlıkları ediniriz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "saglikli-yasam",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-a45",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Yemekten önce ellerimizi yıkarız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sabun"
+          }
+        },
+        {
+          "id": "sg-a46",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Sağlıklı olmak için spor yaparız.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "spor"
+          }
+        },
+        {
+          "id": "sg-a47",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Şekerli yiyecekleri az tüketiriz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "tuz",
+              "seker"
+            ],
+            "vurgu": "zarar"
+          }
+        },
+        {
+          "id": "sg-a48",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Banyo yapmak temizlik sağlar.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "banyo",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-a49",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Sağlıklı uyku büyümemize yardım eder.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "uyku",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-a50",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "yazili",
+          "soru": "Sağlığımıza dikkat etmeliyiz.",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "st-anlatim-1"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "sg-t1",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi en faydalı besindir?",
+          "dogruCevap": "Mercimek çorbası",
+          "secenekler": [
+            "Mercimek çorbası",
+            "Jelibon",
+            "Çikolatalı gofret",
+            "Patates cipsi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "corba",
+              "salata",
+              "yogurt"
+            ],
+            "vurgu": "saglikli"
+          }
+        },
+        {
+          "id": "sg-t2",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ayşe ellerini yıkamadan peynir yedi, karnı ağrıdı. Sebebi nedir?",
+          "dogruCevap": "Mikroplar midesine gitti",
+          "secenekler": [
+            "Mikroplar midesine gitti",
+            "Peynir çok beyaz",
+            "Ekmek taze",
+            "Oyunda kaybetti"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "el-yikama",
+            "ozellik": "mikrop"
+          }
+        },
+        {
+          "id": "sg-t3",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Mehmet muzu kabuğuyla yedi. Bu davranış için ne söylenir?",
+          "dogruCevap": "Kabuktaki mikropları yutarak sağlığını riske attı",
+          "secenekler": [
+            "Akıllıca beslenme",
+            "Daha lezzetlidir",
+            "Dişleri beyazlatır",
+            "Kabuktaki mikropları yutarak sağlığını riske attı"
+          ],
+          "ipucu": "Meyveleri yemeden önce yıkamalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "muz",
+            "vurgu": "kabuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sg-t4",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Vücudu mikroplardan koruyan A, B, C harfleriyle anılan maddeye ne denir?",
+          "dogruCevap": "Vitamin",
+          "secenekler": [
+            "Vitamin",
+            "Şeker",
+            "Tuz",
+            "Mikrop"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "vitamin-a",
+              "vitamin-b",
+              "vitamin-c"
+            ],
+            "vurgu": "vitamin"
+          }
+        },
+        {
+          "id": "sg-t5",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ali çok macun kullandı. Bu davranış için ne doğrudur?",
+          "dogruCevap": "Mercimek kadar koymak yeterlidir",
+          "secenekler": [
+            "Tasarrufludur",
+            "Mercimek kadar koymak yeterlidir",
+            "Daha hızlı temizler",
+            "Daha çok parlak yapar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "dis-fircasi",
+            "vurgu": "macun"
+          }
+        },
+        {
+          "id": "sg-t6",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Berk her gün asitli içecek içiyor. Ona ne söylemeliyiz?",
+          "dogruCevap": "Midene ve dişlerine zarar verir, su iç",
+          "secenekler": [
+            "Şeker at",
+            "Sadece gece iç",
+            "Boyun uzar",
+            "Midene ve dişlerine zarar verir, su iç"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "asitli-icecek",
+            "vurgu": "zarar"
+          }
+        },
+        {
+          "id": "sg-t7",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Fatma ıslak saçla balkona çıktı. Ertesi gün ne olması beklenir?",
+          "dogruCevap": "Üşütüp hastalanır",
+          "secenekler": [
+            "Göz rengi değişir",
+            "Üşütüp hastalanır",
+            "Saçlar uzar",
+            "Boyu uzar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "islak-sac",
+            "ozellik": "usume"
+          }
+        },
+        {
+          "id": "sg-t8",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hapşırırken ne yapmalıyız?",
+          "dogruCevap": "Mendil veya dirseğiyle kapatmalıdır",
+          "secenekler": [
+            "Bağırmalıyız",
+            "Arkadaşa üflemeli",
+            "Mendil veya dirseğiyle kapatmalıdır",
+            "Sıranın altına saklanmalı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "hapsirma",
+            "ozellik": "mendil"
+          }
+        },
+        {
+          "id": "sg-t9",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Can süt alırken pakette neye bakmalıdır?",
+          "dogruCevap": "Son Kullanma Tarihi",
+          "secenekler": [
+            "Son Kullanma Tarihi",
+            "Paketin büyüklüğü",
+            "Şirket amblemi",
+            "Paketin rengi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sut",
+            "vurgu": "tarih"
+          }
+        },
+        {
+          "id": "sg-t10",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi kişisel bakım aracı DEĞİLDİR?",
+          "dogruCevap": "Bulaşık süngeri",
+          "secenekler": [
+            "Diş fırçası",
+            "Saç tarağı",
+            "Bulaşık süngeri",
+            "Tırnak makası"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "tirnak-makasi",
+              "dis-fircasi",
+              "sac-taragi"
+            ],
+            "vurgu": "bakim"
+          }
+        },
+        {
+          "id": "sg-t11",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sargı bezi ve yara bandı olan çantaya ne denir?",
+          "dogruCevap": "İlk Yardım Çantası",
+          "secenekler": [
+            "Oyun çantası",
+            "İlk Yardım Çantası",
+            "Matematik kutusu",
+            "Resim çantası"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ilk-yardim-cantasi"
+          }
+        },
+        {
+          "id": "sg-t12",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Selin tahtayı göremiyorsa hangi doktora gitmelidir?",
+          "dogruCevap": "Göz doktoru",
+          "secenekler": [
+            "Göz doktoru",
+            "Hemşire",
+            "Diş hekimi",
+            "Eczacı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "goz-doktoru"
+          }
+        },
+        {
+          "id": "sg-t13",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Zeynep her gün sadece patates yiyor. Bu davranış için ne söylenir?",
+          "dogruCevap": "Tek yönlü beslendiği için vücudu güçsüz kalır",
+          "secenekler": [
+            "Dengeli besleniyor",
+            "Atletik olur",
+            "Tek yönlü beslendiği için vücudu güçsüz kalır",
+            "Hasta etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "patates",
+            "vurgu": "tek-yonlu"
+          }
+        },
+        {
+          "id": "sg-t14",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hande aşıdan kaçtı. Bu karar için ne doğrudur?",
+          "dogruCevap": "Hata yaptı, aşılar mikroplardan koruyan kalkandır",
+          "secenekler": [
+            "Akıllı çocuklar yaptırmaz",
+            "Aşılar sadece bebekler için",
+            "Korkusuz ve cesur",
+            "Hata yaptı, aşılar mikroplardan koruyan kalkandır"
+          ],
+          "ipucu": "Aşılarımızı düzenli yaptırmalıyız!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "asi",
+            "vurgu": "koruma"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sg-t15",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yemeklerden önce ve sonra yapılması gereken temizlik nedir?",
+          "dogruCevap": "Elleri sabunla yıkamak",
+          "secenekler": [
+            "Şarkı söylemek",
+            "Saç taramak",
+            "Elleri sabunla yıkamak",
+            "Ayakkabı silmek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "el-yikama",
+            "ozellik": "sabun"
+          }
+        },
+        {
+          "id": "sg-t16",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hastalanınca hangisi YANLIŞTIR?",
+          "dogruCevap": "Bilmediğimiz otları kaynatıp içmek",
+          "secenekler": [
+            "İlaçları içmek",
+            "Bilmediğimiz otları kaynatıp içmek",
+            "Meyve suyu içmek",
+            "Dinlenmek"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "hasta-yatak",
+            "ozellik": "dinlenme"
+          }
+        },
+        {
+          "id": "sg-t17",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi hayvansal besindir ve kemikleri güçlendirir?",
+          "dogruCevap": "Süt ve peynir",
+          "secenekler": [
+            "Ekmek ve makarna",
+            "Zeytin ve marul",
+            "Süt ve peynir",
+            "Elma ve armut"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "sut",
+              "peynir"
+            ],
+            "vurgu": "kalsiyum"
+          }
+        },
+        {
+          "id": "sg-t18",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yusuf diş fırçalarken musluğu açık bırakıyor. Hangi kavramı unuttu?",
+          "dogruCevap": "Tasarrufu ve kaynakları korumayı",
+          "secenekler": [
+            "Temizliği",
+            "Ödev yapmayı",
+            "Spor yapmayı",
+            "Tasarrufu ve kaynakları korumayı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "dis-fircalama",
+            "ozellik": "tasarruf"
+          }
+        },
+        {
+          "id": "sg-t19",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Spor dersleri sağlığa nasıl katkı sağlar?",
+          "dogruCevap": "Vücudu esnek, güçlü ve sağlıklı tutar",
+          "secenekler": [
+            "Boy kısaltır",
+            "Dersleri sıkıcı yapar",
+            "Uyku getirir",
+            "Vücudu esnek, güçlü ve sağlıklı tutar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "spor",
+            "ozellik": "egzersiz"
+          }
+        },
+        {
+          "id": "sg-t20",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kişisel temizliğine dikkat eden çocuk için hangisi SÖYLENEMEZ?",
+          "dogruCevap": "Sık mikrop kaparak yatar",
+          "secenekler": [
+            "Tırnakları temizdir",
+            "Arkadaşları oynar",
+            "Sık mikrop kaparak yatar",
+            "Temizlik kokusu yayar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "kisisel-bakim",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-t21",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sokakta açık satılan yiyecekler neden tehlikelidir?",
+          "dogruCevap": "Havadan mikrop bulaşma ihtimali yüksek",
+          "secenekler": [
+            "Çok şekerli",
+            "Havadan mikrop bulaşma ihtimali yüksek",
+            "Çok pahalı",
+            "Rengi güzel değil"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "seyyar-tezgah",
+            "ozellik": "tehlike"
+          }
+        },
+        {
+          "id": "sg-t22",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dişlerin çürümesini önlemek için ne kullanmalıyız?",
+          "dogruCevap": "Diş ipi ve fırça",
+          "secenekler": [
+            "Kağıt havlu",
+            "Kürdan",
+            "Diş ipi ve fırça",
+            "Çatal ucu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "dis-fircasi",
+              "dis-ipi"
+            ],
+            "vurgu": "dis-bakimi"
+          }
+        },
+        {
+          "id": "sg-t23",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Yusuf gece tablet oynuyor, okulda uyuyor. Bu davranış için ne doğrudur?",
+          "dogruCevap": "Gece uykusu büyüme için şarttır, okulda uyumak yerini tutmaz",
+          "secenekler": [
+            "Zamanı iyi yönetiyor",
+            "Gece uykusu büyüme için şarttır, okulda uyumak yerini tutmaz",
+            "Sadece yaşlılar uyur",
+            "Tablet zinde tutar"
+          ],
+          "ipucu": "Sağlıklı çocuk 9-10 saat uyumalıdır!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "gece-tablet",
+            "ozellik": "uyku"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sg-t24",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sağlıklı yaşam için evimizi nasıl tutmalıyız?",
+          "dogruCevap": "Temiz, düzenli ve havalandırılmış",
+          "secenekler": [
+            "Pencereleri kapalı",
+            "Tozlu ve dağınık",
+            "Temiz, düzenli ve havalandırılmış",
+            "Oyuncaklarla kaplı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "temiz-ev",
+            "ozellik": "havalandirma"
+          }
+        },
+        {
+          "id": "sg-t25",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Acil sağlık için hangi numarayı aramalıyız?",
+          "dogruCevap": "112",
+          "secenekler": [
+            "177",
+            "112",
+            "110",
+            "155"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "ambulans"
+          }
+        },
+        {
+          "id": "sg-t26",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ellerimizi sabunla yıkamalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Gereksiz",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sabun"
+          }
+        },
+        {
+          "id": "sg-t27",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dişlerimizi günde iki kez fırçalarız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "disFircasi"
+          }
+        },
+        {
+          "id": "sg-t28",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sağlıklı beslenmek önemlidir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Gereksiz",
+            "Evet",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "meyve",
+              "sebze"
+            ]
+          }
+        },
+        {
+          "id": "sg-t29",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bol su içmeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Evet",
+            "Fark etmez",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "su-icme",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-t30",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Düzenli uyumak sağlıklıdır.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "uyku",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-t31",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Spor yapmak vücudumuzu güçlendirir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "spor"
+          }
+        },
+        {
+          "id": "sg-t32",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hasta olduğumuzda dinlenmeliyiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Evet",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "hasta",
+            "ozellik": "dinlenme"
+          }
+        },
+        {
+          "id": "sg-t33",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Tırnaklarımızı temiz tutmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Hayır",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "tirnak-makasi"
+          }
+        },
+        {
+          "id": "sg-t34",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Saçlarımızı düzenli yıkamalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Hayır",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "sac-bakimi",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-t35",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Güneşte şapka takmak korur.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Fark etmez",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sapka",
+            "vurgu": "gunes"
+          }
+        },
+        {
+          "id": "sg-t36",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Vitamin almak bağışıklığı destekler.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "vitamin"
+          }
+        },
+        {
+          "id": "sg-t37",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Cildimizi temiz tutmalıyız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sabun"
+          }
+        },
+        {
+          "id": "sg-t38",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Aşı olmak koruyucudur.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Evet",
+            "Hayır",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "asi",
+            "vurgu": "koruma"
+          }
+        },
+        {
+          "id": "sg-t39",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sağlıklı atıştırmalıklar tercih ederiz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "meyve"
+          }
+        },
+        {
+          "id": "sg-t40",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hijyen sağlığımızı korur.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Fark etmez",
+            "Hayır",
+            "Gereksiz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "hijyen",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-t41",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Doktora düzenli kontrole gideriz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Fark etmez",
+            "Gereksiz",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "doktor"
+          }
+        },
+        {
+          "id": "sg-t42",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Temiz kıyafet giymek önemlidir.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "corap",
+            "vurgu": "temizlik"
+          }
+        },
+        {
+          "id": "sg-t43",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Burnumuzu mendille temizleriz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Fark etmez",
+            "Gereksiz",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "mendil",
+            "vurgu": "temizlik"
+          }
+        },
+        {
+          "id": "sg-t44",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sağlıklı yaşam alışkanlıkları ediniriz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Fark etmez",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "saglikli-yasam",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-t45",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yemekten önce ellerimizi yıkarız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Gereksiz",
+            "Fark etmez",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "sabun"
+          }
+        },
+        {
+          "id": "sg-t46",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sağlıklı olmak için spor yaparız.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Fark etmez",
+            "Hayır",
+            "Evet"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "nesne",
+            "nesne": "spor"
+          }
+        },
+        {
+          "id": "sg-t47",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Şekerli yiyecekleri az tüketiriz.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Evet",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "grup",
+            "nesneler": [
+              "tuz",
+              "seker"
+            ],
+            "vurgu": "zarar"
+          }
+        },
+        {
+          "id": "sg-t48",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Banyo yapmak temizlik sağlar.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Gereksiz",
+            "Evet",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "banyo",
+            "ozellik": "temizlik"
+          }
+        },
+        {
+          "id": "sg-t49",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sağlıklı uyku büyümemize yardım eder.",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Hayır",
+            "Evet",
+            "Gereksiz",
+            "Fark etmez"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "sahne",
+            "sahne": "uyku",
+            "ozellik": "saglik"
+          }
+        },
+        {
+          "id": "sg-t50",
+          "kazanimKodu": "HB.2.2.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ellerimizi yıkamadan yemek yemek doğru mudur?",
+          "dogruCevap": "Hayır",
+          "secenekler": [
+            "Evet",
+            "Bazen",
+            "Hayır",
+            "Fark etmez"
+          ],
+          "ipucu": "Temiz eller sağlığımızı korur!",
+          "gorsel": {
+            "tur": "hb",
+            "mod": "anlatim",
+            "sahne": "st-anlatim-1"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2982 @@
+{
+  "id": "tema-6",
+  "baslik": "Matematik — Tema 6 — Kesirler",
+  "konular": [
+    {
+      "id": "esit-parcalara-bolme",
+      "baslik": "Eşit Parçalara Bölme",
+      "kazanimKodu": "MAT.2.6.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Bir nesneyi eşit parçalara bölebiliriz! Pizza, elma, kâğıt... Eşit parça demek her parçanın aynı büyüklükte olması demektir.",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "ep-anlatim-1"
+            }
+          },
+          {
+            "metin": "2 eşit parça → ikiye bölünmüş. 3 eşit parça → üçe bölünmüş. 4 eşit parça → dörde bölünmüş.",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "ep-anlatim-2"
+            }
+          },
+          {
+            "metin": "DİKKAT: Eşit olmayan bölme, eşit parça sayılmaz!",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "ep-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "ep-a1",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Bir elma ikiye bölündü. Her parça eşit mi?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 2,
+            "nesne": "elma",
+            "esit": true
+          }
+        },
+        {
+          "id": "ep-a2",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Pizza 4 eşit parçaya bölündü. Kaç parça var?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 4,
+            "nesne": "pizza"
+          }
+        },
+        {
+          "id": "ep-a3",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Kâğıt 2 eşit parçaya bölündü. Her parça kaçta bir?",
+          "dogruCevap": "2'de 1",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 2,
+            "nesne": "kagit"
+          }
+        },
+        {
+          "id": "ep-a4",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Çikolata 3 eşit parçaya bölündü. Kaç parça var?",
+          "dogruCevap": "3",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 3,
+            "nesne": "cikolata"
+          }
+        },
+        {
+          "id": "ep-a5",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Hangi bölme eşittir? A) Büyük-küçük B) Aynı büyüklükte",
+          "dogruCevap": "Aynı büyüklükte",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              {
+                "esit": false
+              },
+              {
+                "esit": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "ep-a6",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Karpuz 8 eşit parçaya bölündü. Her parça kaçta bir?",
+          "dogruCevap": "8'de 1",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 8,
+            "nesne": "karpuz"
+          }
+        },
+        {
+          "id": "ep-a7",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Dikdörtgen 4 eşit parçaya bölündü. Kaç parça var?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 4
+          }
+        },
+        {
+          "id": "ep-a8",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Bir pasta ikiye bölündü ama parçalar eşit değil. Bu doğru mu?",
+          "dogruCevap": "Hayır",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 2,
+            "nesne": "pasta",
+            "esit": false
+          }
+        },
+        {
+          "id": "ep-a9",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Kare 2 eşit üçgene bölündü. Kaç parça var?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "kare",
+            "parca": 2,
+            "bolme": "ucgen"
+          }
+        },
+        {
+          "id": "ep-a10",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Elma 4 eşit parçaya bölündü, 1 parça yendi. Kaç parça kaldı?",
+          "dogruCevap": "3",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 4,
+            "nesne": "elma",
+            "yenilen": 1
+          }
+        },
+        {
+          "id": "ep-a11",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Pizza 6 eşit parçaya bölündü. Her parça kaçta bir?",
+          "dogruCevap": "6'da 1",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 6,
+            "nesne": "pizza"
+          }
+        },
+        {
+          "id": "ep-a12",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Dikdörtgen kaç farklı şekilde 2 eşit parçaya bölünebilir?",
+          "dogruCevap": "2 (yatay ve dikey)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-iki-bolme-yontemi"
+          }
+        },
+        {
+          "id": "ep-a13",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Çikolata 6 eşit parçaya bölündü, 2 parça yendi. Kaç parça kaldı?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 6,
+            "nesne": "cikolata",
+            "yenilen": 2
+          }
+        },
+        {
+          "id": "ep-a14",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Kâğıt 4 eşit parçaya bölündü. Her parça toplamın kaçta biri?",
+          "dogruCevap": "4'te 1",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 4,
+            "nesne": "kagit"
+          }
+        },
+        {
+          "id": "ep-a15",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "8 eşit parçaya bölünmüş pizzadan 3 parça yendi. Kaç parça kaldı?",
+          "dogruCevap": "5",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 8,
+            "nesne": "pizza",
+            "yenilen": 3
+          }
+        },
+        {
+          "id": "ep-a16",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Hangi şekil 3 eşit parçaya bölünmüştür?",
+          "dogruCevap": "Her parça aynı büyüklükte olan",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              {
+                "parca": 3,
+                "esit": true
+              },
+              {
+                "parca": 3,
+                "esit": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "ep-a17",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Kare 4 eşit küçük kareye bölündü. Her parça toplamın kaçta biri?",
+          "dogruCevap": "4'te 1",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "kare",
+            "parca": 4,
+            "bolme": "grid"
+          }
+        },
+        {
+          "id": "ep-a18",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "12 eşit parçaya bölünmüş çikolata. 4 parça yendi. Kaç parça kaldı?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 12,
+            "nesne": "cikolata",
+            "yenilen": 4
+          }
+        },
+        {
+          "id": "ep-a19",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Bir pasta 5 kişiye eşit bölünecek. Kaç eşit parçaya bölünmeli?",
+          "dogruCevap": "5",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 5,
+            "nesne": "pasta"
+          }
+        },
+        {
+          "id": "ep-a20",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Eşit bölme için ne şart?",
+          "dogruCevap": "Her parça aynı büyüklükte olmalı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-esit-kural"
+          }
+        },
+        {
+          "id": "ep-a21",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "10 eşit parçalı pizzadan 6 parça yendi. Kaç parça kaldı?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 10,
+            "nesne": "pizza",
+            "yenilen": 6
+          }
+        },
+        {
+          "id": "ep-a22",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Dikdörtgen 6 eşit parçaya bölündü. Her parça kaçta bir?",
+          "dogruCevap": "6'da 1",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 6
+          }
+        },
+        {
+          "id": "ep-a23",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "4 arkadaş pastayı eşit paylaşacak. Kaç eşit parçaya bölünmeli?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "paylasim",
+            "parca": 4,
+            "kisi": 4,
+            "alinan": 1
+          }
+        },
+        {
+          "id": "ep-a24",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "Kâğıt önce ikiye, sonra tekrar ikiye bölündü. Kaç eşit parça oldu?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-katlanma"
+          }
+        },
+        {
+          "id": "ep-a25",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "yazili",
+          "soru": "3 arkadaş çikolatayı eşit paylaştı. Her biri kaç parça aldı? Çikolata 9 parçalı",
+          "dogruCevap": "3",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "paylasim",
+            "parca": 9,
+            "kisi": 3,
+            "alinan": 3
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "ep-t1",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Pizza 4 eşit parçaya bölündü. Her parça toplamın kaçta biridir?",
+          "dogruCevap": "4'te 1",
+          "secenekler": [
+            "8'de 1",
+            "3'te 1",
+            "2'de 1",
+            "4'te 1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 4,
+            "nesne": "pizza"
+          }
+        },
+        {
+          "id": "ep-t2",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi bölme EŞİT değildir?",
+          "dogruCevap": "Pasta büyük-küçük iki parçaya",
+          "secenekler": [
+            "Kâğıt dört eşit parçaya",
+            "Pizza iki eşit yarıya",
+            "Elma dört eşit parçaya",
+            "Pasta büyük-küçük iki parçaya"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              {
+                "esit": true
+              },
+              {
+                "esit": true
+              },
+              {
+                "esit": false
+              },
+              {
+                "esit": true
+              }
+            ]
+          }
+        },
+        {
+          "id": "ep-t3",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "8 parçalı pizzadan 3 parça yendi. Kaç parça kaldı?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "6",
+            "3",
+            "5",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 8,
+            "nesne": "pizza",
+            "yenilen": 3
+          }
+        },
+        {
+          "id": "ep-t4",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Çikolata 6 eşit parçaya bölündü. Her parça kaçta birdir?",
+          "dogruCevap": "6'da 1",
+          "secenekler": [
+            "3'te 1",
+            "2'de 1",
+            "6'da 1",
+            "4'te 1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 6,
+            "nesne": "cikolata"
+          }
+        },
+        {
+          "id": "ep-t5",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "5 çocuk pastayı eşit paylaşacak. Pasta kaç eşit parçaya bölünmeli?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "5",
+            "6",
+            "3",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "paylasim",
+            "parca": 5,
+            "kisi": 5,
+            "alinan": 1
+          }
+        },
+        {
+          "id": "ep-t6",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kâğıt önce ikiye, sonra tekrar ikiye katlandı ve kesildi. Kaç parça oldu?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "4",
+            "6",
+            "2",
+            "8"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-katlanma-adim"
+          }
+        },
+        {
+          "id": "ep-t7",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "12 parçalı çikolata. 4 parça Ali'ye, 4 parça Ayşe'ye verildi. Kaç parça kaldı?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "8",
+            "6",
+            "4",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 12,
+            "nesne": "cikolata",
+            "yenilen": 8
+          }
+        },
+        {
+          "id": "ep-t8",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hangi bölme DOĞRU eşit bölmedir?",
+          "dogruCevap": "4 eşit parça",
+          "secenekler": [
+            "4 eşit parça",
+            "2 farklı büyüklük",
+            "3 eşit + 1 büyük",
+            "Büyük + küçük"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              {
+                "esit": false
+              },
+              {
+                "esit": false
+              },
+              {
+                "esit": true
+              },
+              {
+                "esit": false
+              }
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ep-t9",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Pizza 8 eşit parçaya bölündü. Her parça toplamın kaçta biridir?",
+          "dogruCevap": "8'de 1",
+          "secenekler": [
+            "6'da 1",
+            "8'de 1",
+            "2'de 1",
+            "4'te 1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 8,
+            "nesne": "pizza"
+          }
+        },
+        {
+          "id": "ep-t10",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "10 parçalı pastadan 6 parça yendi. Kaç parça kaldı?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "5",
+            "6",
+            "3",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 10,
+            "nesne": "pasta",
+            "yenilen": 6
+          }
+        },
+        {
+          "id": "ep-t11",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Kare kaç eşit üçgene bölünebilir?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "1",
+            "3",
+            "2",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "kare",
+            "parca": 2,
+            "bolme": "ucgen"
+          }
+        },
+        {
+          "id": "ep-t12",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Dikdörtgen 3 eşit parçaya bölünüyor. Her parça kaçta birdir?",
+          "dogruCevap": "3'te 1",
+          "secenekler": [
+            "6'da 1",
+            "4'te 1",
+            "3'te 1",
+            "2'de 1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 3
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ep-t13",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "6 arkadaş pastayı eşit paylaşacak. Her biri kaç parça alır? Pasta 12 parçalı.",
+          "dogruCevap": "2",
+          "secenekler": [
+            "4",
+            "1",
+            "3",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "paylasim",
+            "parca": 12,
+            "kisi": 6,
+            "alinan": 2
+          }
+        },
+        {
+          "id": "ep-t14",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi nesne en kolay eşit parçalara bölünür?",
+          "dogruCevap": "Kâğıt",
+          "secenekler": [
+            "Bulut",
+            "Kâğıt",
+            "Taş",
+            "Su"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-nesne-secenek"
+          }
+        },
+        {
+          "id": "ep-t15",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Pizza 8 eşit parçaya bölündü. 2 parça Mehmet'e, 3 parça Fatma'ya verildi. Kaç parça kaldı?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "ipucu": "8-2-3=3",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 8,
+            "nesne": "pizza",
+            "yenilen": 5
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ep-t16",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Eşit bölmede her parça nasıl olmalıdır?",
+          "dogruCevap": "Aynı büyüklükte",
+          "secenekler": [
+            "Küçük olmalı",
+            "Farklı büyüklükte",
+            "Büyük olmalı",
+            "Aynı büyüklükte"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-esit-kural"
+          }
+        },
+        {
+          "id": "ep-t17",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "9 parçalı çikolata 3 arkadaşa eşit bölündü. Her biri kaç parça aldı?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "3",
+            "2",
+            "4",
+            "5"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "paylasim",
+            "parca": 9,
+            "kisi": 3,
+            "alinan": 3
+          }
+        },
+        {
+          "id": "ep-t18",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Bir kâğıt 3 kez ikiye katlanıp kesilirse kaç eşit parça olur?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "6",
+            "10",
+            "8",
+            "4"
+          ],
+          "ipucu": "2×2×2=8",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-katlanma-3kez"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ep-t19",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "16 parçalı pasta. 4 parça yendi. Kaçta kaçı kaldı?",
+          "dogruCevap": "4'te 3",
+          "secenekler": [
+            "2'de 1",
+            "8'de 3",
+            "4'te 3",
+            "4'te 1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 16,
+            "nesne": "pasta",
+            "yenilen": 4
+          }
+        },
+        {
+          "id": "ep-t20",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi şekil 4 eşit parçaya bölünmüştür?",
+          "dogruCevap": "4 eşit kare",
+          "secenekler": [
+            "4 farklı boyut",
+            "3 eşit + 1 büyük",
+            "2 büyük + 2 küçük",
+            "4 eşit kare"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              {
+                "esit": false
+              },
+              {
+                "esit": false
+              },
+              {
+                "esit": true
+              },
+              {
+                "esit": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "ep-t21",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 12 parçalı çikolata. Berk 3, Can 4, Selin 2 parça aldı. Kaç parça kaldı?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "5",
+            "3",
+            "2",
+            "4"
+          ],
+          "ipucu": "12-3-4-2=3",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "dikdortgen",
+            "parca": 12,
+            "nesne": "cikolata",
+            "yenilen": 9
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ep-t22",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Pizza 6 eşit parçaya bölündü. 2 parça yendi. Kaçta kaçı kaldı?",
+          "dogruCevap": "3'te 2",
+          "secenekler": [
+            "3'te 1",
+            "3'te 2",
+            "6'da 4",
+            "6'da 2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 6,
+            "nesne": "pizza",
+            "yenilen": 2
+          }
+        },
+        {
+          "id": "ep-t23",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "Eşit bölme neden önemlidir?",
+          "dogruCevap": "Herkes eşit pay alır",
+          "secenekler": [
+            "Güzel görünür",
+            "Daha hızlı kesilir",
+            "Daha büyük olur",
+            "Herkes eşit pay alır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-paylasim"
+          }
+        },
+        {
+          "id": "ep-t24",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Kare 4 eşit parçaya bölünebilir mi?",
+          "dogruCevap": "Evet, birden fazla yolla",
+          "secenekler": [
+            "Hayır",
+            "Yalnızca dikey",
+            "Evet, birden fazla yolla",
+            "Sadece üçgene"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "anlatim",
+            "sahne": "ep-kare-bolme-yollari"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "ep-t25",
+          "kazanimKodu": "MAT.2.6.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 20 parçalı pastayı 4 arkadaş eşit paylaşırsa, her biri kaçta kaç alır?",
+          "dogruCevap": "4'te 1",
+          "secenekler": [
+            "5'te 1",
+            "4'te 1",
+            "2'de 1",
+            "20'de 5 = 4'te 1"
+          ],
+          "ipucu": "Her biri 5 parça = 20'nin 4'te 1'i",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "paylasim",
+            "parca": 20,
+            "kisi": 4,
+            "alinan": 5
+          },
+          "sasirtma": true
+        }
+      ]
+    },
+    {
+      "id": "yarim-ve-ceyrek",
+      "baslik": "Yarım ve Çeyrek",
+      "kazanimKodu": "MAT.2.6.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Bir nesneyi 2 eşit parçaya böldüğümüzde her parçaya YARIM denir. Yarım = 2'de 1 = 1/2.",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "yc-anlatim-1"
+            }
+          },
+          {
+            "metin": "Bir nesneyi 4 eşit parçaya böldüğümüzde her parçaya ÇEYREK denir. Çeyrek = 4'te 1 = 1/4. 2 çeyrek = 1 yarım!",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "yc-anlatim-2"
+            }
+          },
+          {
+            "metin": "Yarım elma + yarım elma = 1 tam elma. Çeyrek + çeyrek + çeyrek + çeyrek = 1 tam.",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "yc-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "yc-a1",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Elma ikiye eşit bölündü. Her parça nedir?",
+          "dogruCevap": "Yarım",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "yarim",
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "yc-a2",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Pizza dörde eşit bölündü. Her parça nedir?",
+          "dogruCevap": "Çeyrek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "pizza",
+            "etiket": "çeyrek"
+          }
+        },
+        {
+          "id": "yc-a3",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "1/2 ne demektir?",
+          "dogruCevap": "Yarım, 2 eşit parçadan 1'i",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 2,
+            "renkli": 1,
+            "nesne": "dikdortgen"
+          }
+        },
+        {
+          "id": "yc-a4",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "1/4 ne demektir?",
+          "dogruCevap": "Çeyrek, 4 eşit parçadan 1'i",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "kare",
+            "etiket": "çeyrek"
+          }
+        },
+        {
+          "id": "yc-a5",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "2 yarım = kaç tam?",
+          "dogruCevap": "1 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 2
+          }
+        },
+        {
+          "id": "yc-a6",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "4 çeyrek = kaç tam?",
+          "dogruCevap": "1 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 4
+          }
+        },
+        {
+          "id": "yc-a7",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "2 çeyrek = kaç yarım?",
+          "dogruCevap": "1 yarım",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 2
+          }
+        },
+        {
+          "id": "yc-a8",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Pastanın yarısı yendi. Kaçta kaçı kaldı?",
+          "dogruCevap": "1/2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 2,
+            "renkli": 1,
+            "nesne": "pasta",
+            "yenilen": 1
+          }
+        },
+        {
+          "id": "yc-a9",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Portakal 4 eşit parçaya bölündü. 1 parça yendi. Kaçta kaçı kaldı?",
+          "dogruCevap": "3/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 3,
+            "nesne": "portakal",
+            "yenilen": 1
+          }
+        },
+        {
+          "id": "yc-a10",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Elmanın çeyreği kaç parçadır?",
+          "dogruCevap": "1 parça (4'te 1'i)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "yc-a11",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "1/2 elma ile 1/2 elma toplamı kaç?",
+          "dogruCevap": "1 tam elma",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 2
+          }
+        },
+        {
+          "id": "yc-a12",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Pastanın 3 çeyreği yendi. Kaç çeyrek kaldı?",
+          "dogruCevap": "1 çeyrek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "pasta",
+            "yenilen": 3
+          }
+        },
+        {
+          "id": "yc-a13",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "1 tam pizzadan 1/4 yenildi. Kaçta kaçı kaldı?",
+          "dogruCevap": "3/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 3,
+            "nesne": "pizza",
+            "yenilen": 1
+          }
+        },
+        {
+          "id": "yc-a14",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Yarım ile çeyrek hangisi büyüktür?",
+          "dogruCevap": "Yarım",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "yc-a15",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "8 çeyrek kaç tama eşittir?",
+          "dogruCevap": "2 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 8
+          }
+        },
+        {
+          "id": "yc-a16",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Pastanın yarısı 3 dilimse, tam pasta kaç dilimdir?",
+          "dogruCevap": "6 dilim",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 6,
+            "nesne": "pasta",
+            "vurgu": "yarim"
+          }
+        },
+        {
+          "id": "yc-a17",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "1/4 + 1/4 = ?",
+          "dogruCevap": "2/4 = 1/2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 2
+          }
+        },
+        {
+          "id": "yc-a18",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "3 çeyrek + 1 çeyrek = ?",
+          "dogruCevap": "1 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 4
+          }
+        },
+        {
+          "id": "yc-a19",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Pastanın çeyreği 4 dilimse, tam pasta kaç dilim?",
+          "dogruCevap": "16 dilim",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 16,
+            "nesne": "pasta",
+            "vurgu": "ceyrek"
+          }
+        },
+        {
+          "id": "yc-a20",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "1/2 > 1/4 mı?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "yc-a21",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Elmanın 3/4'ü yenildi. Kaçta kaçı kaldı?",
+          "dogruCevap": "1/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "elma",
+            "yenilen": 3
+          }
+        },
+        {
+          "id": "yc-a22",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "4 yarım = kaç tam?",
+          "dogruCevap": "2 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 4
+          }
+        },
+        {
+          "id": "yc-a23",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "Pastanın yarısı Ali'ye, çeyreği Ayşe'ye verildi. Toplam kaçta kaçı verildi?",
+          "dogruCevap": "3/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 3,
+            "nesne": "pasta",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "yc-a24",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "6 çeyrek kaç tam ve kaç çeyrek?",
+          "dogruCevap": "1 tam 2 çeyrek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 6
+          }
+        },
+        {
+          "id": "yc-a25",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "yazili",
+          "soru": "1/2 + 1/4 + 1/4 = ?",
+          "dogruCevap": "1 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 4
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "yc-t1",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elma ikiye eşit bölündü. Her parçanın adı nedir?",
+          "dogruCevap": "Yarım",
+          "secenekler": [
+            "Üçte bir",
+            "Yarım",
+            "Çeyrek",
+            "Tam"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "yarim",
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "yc-t2",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "1/4 ne anlama gelir?",
+          "dogruCevap": "Dörde bölünmüş, bir parça",
+          "secenekler": [
+            "Beşe bölünmüş",
+            "Dörde bölünmüş, bir parça",
+            "İkiye bölünmüş",
+            "Üçe bölünmüş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "kare"
+          }
+        },
+        {
+          "id": "yc-t3",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "2 çeyrek kaç yarime eşittir?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "4",
+            "1",
+            "3",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 2
+          }
+        },
+        {
+          "id": "yc-t4",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Pastanın yarısı yendi. Ne kadar kaldı?",
+          "dogruCevap": "1/2",
+          "secenekler": [
+            "1/3",
+            "3/4",
+            "1/2",
+            "1/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 2,
+            "renkli": 1,
+            "nesne": "pasta",
+            "yenilen": 1
+          }
+        },
+        {
+          "id": "yc-t5",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "4 çeyrek kaç tama eşittir?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "4",
+            "3",
+            "2",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 4
+          }
+        },
+        {
+          "id": "yc-t6",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangisi daha büyüktür?",
+          "dogruCevap": "1/2",
+          "secenekler": [
+            "1/2",
+            "Eşit",
+            "Belli değil",
+            "1/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "yc-t7",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Pizzanın 3/4'ü yendi. Kaç çeyrek kaldı?",
+          "dogruCevap": "1",
+          "secenekler": [
+            "1",
+            "4",
+            "3",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "pizza",
+            "yenilen": 3
+          }
+        },
+        {
+          "id": "yc-t8",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Pastanın yarısı 4 dilimse, çeyreği kaç dilimdir?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "4",
+            "3",
+            "1"
+          ],
+          "ipucu": "Yarım = 4 dilim → Tam = 8 dilim → Çeyrek = 2 dilim",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 8,
+            "nesne": "pasta"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yc-t9",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "1/2 + 1/2 = ?",
+          "dogruCevap": "1 tam",
+          "secenekler": [
+            "1/2",
+            "1/4",
+            "1 tam",
+            "2 tam"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 2
+          }
+        },
+        {
+          "id": "yc-t10",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elmadan Ali 1/4, Ayşe 1/4 aldı. Toplam ne kadar aldılar?",
+          "dogruCevap": "1/2",
+          "secenekler": [
+            "1/4",
+            "1 tam",
+            "1/2",
+            "3/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 2,
+            "nesne": "elma",
+            "yenilen": 2
+          }
+        },
+        {
+          "id": "yc-t11",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "6 yarım kaç tama eşittir?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "6",
+            "2",
+            "4",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 6
+          }
+        },
+        {
+          "id": "yc-t12",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Pastadan 1/4 Mehmet'e, 1/2 Fatma'ya verildi. Toplam kaçta kaçı verildi?",
+          "dogruCevap": "3/4",
+          "secenekler": [
+            "3/4",
+            "1/4",
+            "1",
+            "1/2"
+          ],
+          "ipucu": "1/4 + 2/4 = 3/4",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 3,
+            "nesne": "pasta",
+            "vurgu": "paylasim"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yc-t13",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çeyrek kaç parçadan kaç parçadır?",
+          "dogruCevap": "4'te 1",
+          "secenekler": [
+            "8'de 1",
+            "4'te 1",
+            "2'de 1",
+            "3'te 1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "etiket": "çeyrek"
+          }
+        },
+        {
+          "id": "yc-t14",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 8 çeyrek kaç tama eşittir?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "4",
+            "3",
+            "1"
+          ],
+          "ipucu": "4 çeyrek = 1 tam, 8 çeyrek = ?",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 8
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yc-t15",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Elmadan 3/4 yendi. Kaçta kaçı kaldı?",
+          "dogruCevap": "1/4",
+          "secenekler": [
+            "1/2",
+            "3/4",
+            "2/4",
+            "1/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "elma",
+            "yenilen": 3
+          }
+        },
+        {
+          "id": "yc-t16",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Pastanın çeyreği 3 dilimse, yarısı kaç dilimdir?",
+          "dogruCevap": "6",
+          "secenekler": [
+            "3",
+            "8",
+            "4",
+            "6"
+          ],
+          "ipucu": "Çeyrek=3 → Tam=12 → Yarım=6",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "bolme",
+            "sekil": "daire",
+            "parca": 12,
+            "nesne": "pasta"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yc-t17",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "1/4 + 1/4 + 1/4 + 1/4 = ?",
+          "dogruCevap": "1 tam",
+          "secenekler": [
+            "3/4",
+            "1/2",
+            "1 tam",
+            "2/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 4
+          }
+        },
+        {
+          "id": "yc-t18",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi ifade doğrudur?",
+          "dogruCevap": "1/2 > 1/4",
+          "secenekler": [
+            "1/4 > 1/2",
+            "1/4 = 1/2",
+            "1/2 = 1/4",
+            "1/2 > 1/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "yc-t19",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ali bir pastayı 4 eşit parçaya böldü ve 2 parça yedi. Kaçta kaçını yedi?",
+          "dogruCevap": "1/2",
+          "secenekler": [
+            "1/2",
+            "3/4",
+            "2/4 = 1/2",
+            "1/4"
+          ],
+          "ipucu": "2 parça = 2/4 = 1/2",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 2,
+            "nesne": "pasta",
+            "yenilen": 2
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yc-t20",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "3 yarım + 1 yarım = ?",
+          "dogruCevap": "2 tam",
+          "secenekler": [
+            "1 tam",
+            "3 tam",
+            "2 tam",
+            "4 tam"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 4
+          }
+        },
+        {
+          "id": "yc-t21",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Pastanın yarısını 2 kişi eşit paylaştı. Her biri kaçta kaç aldı?",
+          "dogruCevap": "1/4",
+          "secenekler": [
+            "1/4",
+            "2/4",
+            "1/3",
+            "1/2"
+          ],
+          "ipucu": "1/2 ÷ 2 = 1/4",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "paylasim",
+            "parca": 2,
+            "kisi": 2,
+            "alinan": 1
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yc-t22",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bir elmanın 1/4'ü 50 g ise, tam elma kaç gramdır?",
+          "dogruCevap": "200 g",
+          "secenekler": [
+            "250 g",
+            "200 g",
+            "150 g",
+            "100 g"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "elma",
+            "etiket": "50g"
+          }
+        },
+        {
+          "id": "yc-t23",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "1/2 = kaç çeyrek?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "1",
+            "4",
+            "2",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 2
+          }
+        },
+        {
+          "id": "yc-t24",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Pastadan Berk 1/4, Can 1/4, Selin 1/2 aldı. Pastanın tamamı yendi mi?",
+          "dogruCevap": "Evet, tamamı yendi",
+          "secenekler": [
+            "Evet ama fazla var",
+            "Hayır, 1/2 kaldı",
+            "Hayır, 1/4 kaldı",
+            "Evet, tamamı yendi"
+          ],
+          "ipucu": "1/4 + 1/4 + 1/2 = 1/4 + 1/4 + 2/4 = 4/4 = 1 tam",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 4,
+            "nesne": "pasta",
+            "yenilen": 4
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "yc-t25",
+          "kazanimKodu": "MAT.2.6.2",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 4 elmanın yarısı kaç elmadır?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "1",
+            "4",
+            "3"
+          ],
+          "ipucu": "4'ün yarısı = 2",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 2,
+            "renkli": 1,
+            "nesne": "elma",
+            "adet": 4
+          },
+          "sasirtma": true
+        }
+      ]
+    },
+    {
+      "id": "basit-kesirler",
+      "baslik": "Basit Kesirler",
+      "kazanimKodu": "MAT.2.6.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Kesir, bir bütünün eşit parçalarından birini gösterir. Kesrin altındaki sayı (payda) kaç eşit parçaya bölündüğünü, üstündeki sayı (pay) kaç parça alındığını gösterir.",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "bk-anlatim-1"
+            }
+          },
+          {
+            "metin": "1/2 = Yarım (2 eşit parçadan 1'i). 1/3 = Üçte bir (3 eşit parçadan 1'i). 1/4 = Çeyrek (4 eşit parçadan 1'i).",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "bk-anlatim-2"
+            }
+          },
+          {
+            "metin": "Hangi kesir daha büyük? Payda küçüldükçe her parça BÜYÜR! 1/2 > 1/3 > 1/4.",
+            "gorsel": {
+              "tur": "kesir",
+              "mod": "anlatim",
+              "sahne": "bk-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "bk-a1",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Dikdörtgen 2 eşit parçaya bölündü, 1 parça renkli. Kesri nedir?",
+          "dogruCevap": "1/2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 2,
+            "renkli": 1,
+            "nesne": "dikdortgen"
+          }
+        },
+        {
+          "id": "bk-a2",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Pizza 3 eşit parçaya bölündü, 1 parça yendi. Kesri nedir?",
+          "dogruCevap": "1/3",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 3,
+            "renkli": 1,
+            "nesne": "pizza",
+            "yenilen": 1
+          }
+        },
+        {
+          "id": "bk-a3",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Kare 4 eşit parçaya bölündü, 1 parça renkli. Kesri nedir?",
+          "dogruCevap": "1/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "kare"
+          }
+        },
+        {
+          "id": "bk-a4",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "1/2'de payda kaçtır?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 2,
+            "renkli": 1,
+            "vurgu": "payda"
+          }
+        },
+        {
+          "id": "bk-a5",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "1/3'te pay kaçtır?",
+          "dogruCevap": "1",
+          "ipucu": "",
+          "cevapTipi": "sayi",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 3,
+            "renkli": 1,
+            "vurgu": "pay"
+          }
+        },
+        {
+          "id": "bk-a6",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "1/2, 1/3, 1/4'ü büyükten küçüğe sırala",
+          "dogruCevap": "1/2, 1/3, 1/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "bk-a7",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Hangi kesir daha büyük: 1/2 mi 1/3 mü?",
+          "dogruCevap": "1/2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/3"
+            ]
+          }
+        },
+        {
+          "id": "bk-a8",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Hangi kesir daha küçük: 1/3 mü 1/4 mü?",
+          "dogruCevap": "1/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/3",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "bk-a9",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Pizza 2 eşit parçaya bölündü. Her parça kaçta birdir?",
+          "dogruCevap": "1/2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 2,
+            "renkli": 1,
+            "nesne": "pizza"
+          }
+        },
+        {
+          "id": "bk-a10",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Elma 3 eşit parçaya bölündü. Her parça kaçta birdir?",
+          "dogruCevap": "1/3",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 3,
+            "renkli": 1,
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "bk-a11",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Çikolata 4 eşit parçaya bölündü. Her parça kaçta birdir?",
+          "dogruCevap": "1/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "cikolata"
+          }
+        },
+        {
+          "id": "bk-a12",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "3 tane 1/3 = kaç tam?",
+          "dogruCevap": "1 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 3,
+            "adet": 3
+          }
+        },
+        {
+          "id": "bk-a13",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "2 tane 1/2 = kaç tam?",
+          "dogruCevap": "1 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 2
+          }
+        },
+        {
+          "id": "bk-a14",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "4 tane 1/4 = kaç tam?",
+          "dogruCevap": "1 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 4
+          }
+        },
+        {
+          "id": "bk-a15",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "1/2 ile 1/4 toplamı nedir?",
+          "dogruCevap": "3/4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 3,
+            "nesne": "pasta",
+            "vurgu": "toplam"
+          }
+        },
+        {
+          "id": "bk-a16",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Pastanın 1/3'ü yendi. Kaç parça kaldı? Pasta 3 parçalı",
+          "dogruCevap": "2 parça",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 3,
+            "renkli": 2,
+            "nesne": "pasta",
+            "yenilen": 1
+          }
+        },
+        {
+          "id": "bk-a17",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "6 parçalı pizzanın 1/2'si kaç parçadır?",
+          "dogruCevap": "3 parça",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 6,
+            "renkli": 3,
+            "nesne": "pizza",
+            "vurgu": "yarim"
+          }
+        },
+        {
+          "id": "bk-a18",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "12 parçalı pastanın 1/4'ü kaç parçadır?",
+          "dogruCevap": "3 parça",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 12,
+            "renkli": 3,
+            "nesne": "pasta",
+            "vurgu": "ceyrek"
+          }
+        },
+        {
+          "id": "bk-a19",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "9 parçalı çikolatanın 1/3'ü kaç parçadır?",
+          "dogruCevap": "3 parça",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 9,
+            "renkli": 3,
+            "nesne": "cikolata",
+            "vurgu": "uctebir"
+          }
+        },
+        {
+          "id": "bk-a20",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "1/4 < 1/3 mü?",
+          "dogruCevap": "Evet",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/4",
+              "1/3"
+            ]
+          }
+        },
+        {
+          "id": "bk-a21",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Dikdörtgeni 3 eşit parçaya böl ve 1 parçayı renklendir. Bu kaçta birdir?",
+          "dogruCevap": "1/3",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 3,
+            "renkli": 1,
+            "nesne": "dikdortgen"
+          }
+        },
+        {
+          "id": "bk-a22",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "8 parçalı pizzanın 1/2'si kaç parçadır?",
+          "dogruCevap": "4 parça",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 8,
+            "renkli": 4,
+            "nesne": "pizza",
+            "vurgu": "yarim"
+          }
+        },
+        {
+          "id": "bk-a23",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "1/2 + 1/2 + 1/2 = kaç tam?",
+          "dogruCevap": "1 tam + 1/2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 3
+          }
+        },
+        {
+          "id": "bk-a24",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "Hangi kesrin paydası en büyük: 1/2, 1/3, 1/4?",
+          "dogruCevap": "1/4 (payda 4)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "bk-a25",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "yazili",
+          "soru": "1/3 + 1/3 + 1/3 = ?",
+          "dogruCevap": "1 tam",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 3,
+            "adet": 3
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "bk-t1",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "Dikdörtgen 3 eşit parçaya bölündü, 1 tanesi renkli. Bu kesir nedir?",
+          "dogruCevap": "1/3",
+          "secenekler": [
+            "1/4",
+            "1/2",
+            "1/3",
+            "2/3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 3,
+            "renkli": 1,
+            "nesne": "dikdortgen"
+          }
+        },
+        {
+          "id": "bk-t2",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kesir en büyüktür?",
+          "dogruCevap": "1/2",
+          "secenekler": [
+            "1/4",
+            "1/2",
+            "Hepsi eşit",
+            "1/3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "bk-t3",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "1/4'te payda kaçtır?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "4",
+            "1",
+            "3",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "vurgu": "payda"
+          }
+        },
+        {
+          "id": "bk-t4",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "Pizza 4 eşit parçaya bölündü, 1 parça yendi. Ne kadar yendi?",
+          "dogruCevap": "1/4",
+          "secenekler": [
+            "3/4",
+            "1/3",
+            "1/4",
+            "1/2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 1,
+            "nesne": "pizza",
+            "yenilen": 1
+          }
+        },
+        {
+          "id": "bk-t5",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kesir en küçüktür?",
+          "dogruCevap": "1/4",
+          "secenekler": [
+            "1/2",
+            "1/3",
+            "Hepsi eşit",
+            "1/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "bk-t6",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "6 parçalı pizzanın 1/3'ü kaç parçadır?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 6,
+            "renkli": 2,
+            "nesne": "pizza",
+            "vurgu": "uctebir"
+          }
+        },
+        {
+          "id": "bk-t7",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "1/2 + 1/2 = ?",
+          "dogruCevap": "1 tam",
+          "secenekler": [
+            "1/2",
+            "1/4",
+            "1 tam",
+            "2/2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 2,
+            "adet": 2
+          }
+        },
+        {
+          "id": "bk-t8",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Hangi kesirde payda en küçüktür?",
+          "dogruCevap": "1/2",
+          "secenekler": [
+            "1/4",
+            "1/3",
+            "1/2",
+            "Hepsi eşit"
+          ],
+          "ipucu": "1/2'nin paydası 2, en küçük!",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "bk-t9",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "12 parçalı pastanın 1/4'ü kaç parçadır?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "4",
+            "2",
+            "6",
+            "3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 12,
+            "renkli": 3,
+            "nesne": "pasta",
+            "vurgu": "ceyrek"
+          }
+        },
+        {
+          "id": "bk-t10",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "1/3 < 1/2 midir?",
+          "dogruCevap": "Evet",
+          "secenekler": [
+            "Evet",
+            "Belli değil",
+            "Eşit",
+            "Hayır"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/3",
+              "1/2"
+            ]
+          }
+        },
+        {
+          "id": "bk-t11",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "Elma 2 eşit parçaya bölündü. Her parçanın kesri nedir?",
+          "dogruCevap": "1/2",
+          "secenekler": [
+            "1/4",
+            "1/3",
+            "1/2",
+            "2/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 2,
+            "renkli": 1,
+            "nesne": "elma"
+          }
+        },
+        {
+          "id": "bk-t12",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 9 parçalı çikolatanın 1/3'ü kaç parçadır?",
+          "dogruCevap": "3",
+          "secenekler": [
+            "2",
+            "4",
+            "3",
+            "6"
+          ],
+          "ipucu": "9 ÷ 3 = ?",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 9,
+            "renkli": 3,
+            "nesne": "cikolata",
+            "vurgu": "uctebir"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "bk-t13",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi ifade doğrudur?",
+          "dogruCevap": "1/2 > 1/3 > 1/4",
+          "secenekler": [
+            "1/4 > 1/3",
+            "1/2 > 1/3 > 1/4",
+            "1/3 > 1/2",
+            "1/4 = 1/3"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "bk-t14",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "Pastanın 1/2'si Ali'ye, 1/4'ü Ayşe'ye verildi. Toplam kaçta kaçı verildi?",
+          "dogruCevap": "3/4",
+          "secenekler": [
+            "1/4",
+            "1/2",
+            "1",
+            "3/4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 3,
+            "nesne": "pasta",
+            "vurgu": "paylasim"
+          }
+        },
+        {
+          "id": "bk-t15",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 8 parçalı pizzanın 1/4'ü kaç parçadır?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "3",
+            "1",
+            "4"
+          ],
+          "ipucu": "8 ÷ 4 = ?",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 8,
+            "renkli": 2,
+            "nesne": "pizza",
+            "vurgu": "ceyrek"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "bk-t16",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "1/3 + 1/3 + 1/3 = ?",
+          "dogruCevap": "1 tam",
+          "secenekler": [
+            "2/3",
+            "1/3",
+            "3/3 = 1 tam",
+            "1 tam"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 3,
+            "adet": 3
+          }
+        },
+        {
+          "id": "bk-t17",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi kesir daha büyüktür: 1/3 mü 1/4 mü?",
+          "dogruCevap": "1/3",
+          "secenekler": [
+            "Belli değil",
+            "1/3",
+            "1/4",
+            "Eşit"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/3",
+              "1/4"
+            ]
+          }
+        },
+        {
+          "id": "bk-t18",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Pastadan Berk 1/4, Can 1/4 aldı. Kalan kaçta kaçtır?",
+          "dogruCevap": "1/2",
+          "secenekler": [
+            "1 tam",
+            "3/4",
+            "1/2",
+            "1/4"
+          ],
+          "ipucu": "1 - 1/4 - 1/4 = 2/4 = 1/2",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 4,
+            "renkli": 2,
+            "nesne": "pasta",
+            "yenilen": 2
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "bk-t19",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "1/2 kaç tane 1/4'e eşittir?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "3",
+            "4",
+            "2",
+            "1"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "birlesim",
+            "parca": 4,
+            "adet": 2
+          }
+        },
+        {
+          "id": "bk-t20",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Paydası büyük olan kesir neden küçüktür?",
+          "dogruCevap": "Her parça küçük olur",
+          "secenekler": [
+            "Her parça küçük olur",
+            "Hiçbiri",
+            "Sayı büyük olur",
+            "Parça sayısı az olur"
+          ],
+          "ipucu": "4 parçaya bölününce her parça 2 parçaya göre daha küçük!",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/2",
+              "1/4"
+            ]
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "bk-t21",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "10 parçalı pastanın 1/2'si kaç parçadır?",
+          "dogruCevap": "5",
+          "secenekler": [
+            "3",
+            "5",
+            "4",
+            "6"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 10,
+            "renkli": 5,
+            "nesne": "pasta",
+            "vurgu": "yarim"
+          }
+        },
+        {
+          "id": "bk-t22",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Mehmet 1/3, Fatma 1/3, Zeynep 1/3 pasta aldı. Pasta bitti mi?",
+          "dogruCevap": "Evet, tamamı yendi",
+          "secenekler": [
+            "Evet ama fazla var",
+            "Hayır, 1/3 kaldı",
+            "Evet, tamamı yendi",
+            "Hayır, 1/2 kaldı"
+          ],
+          "ipucu": "1/3 + 1/3 + 1/3 = 3/3 = 1 tam",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 3,
+            "renkli": 3,
+            "nesne": "pasta",
+            "yenilen": 3
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "bk-t23",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "1/4 kaç tane 1/2'nin kaçta biridir?",
+          "dogruCevap": "Yarısı",
+          "secenekler": [
+            "Üç katı",
+            "Yarısı",
+            "Eşit",
+            "İki katı"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "karsilastir",
+            "kesirler": [
+              "1/4",
+              "1/2"
+            ]
+          }
+        },
+        {
+          "id": "bk-t24",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 12 parçalı pastanın 1/3'ü Hande'ye, 1/4'ü Yusuf'a verildi. Hande kaç parça aldı?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "6",
+            "4",
+            "3",
+            "5"
+          ],
+          "ipucu": "12 × 1/3 = 12 ÷ 3 = 4",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "kesir",
+            "parca": 12,
+            "renkli": 4,
+            "nesne": "pasta",
+            "vurgu": "hande"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "bk-t25",
+          "kazanimKodu": "MAT.2.6.3",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Selin bir pastanın 1/2'sini yedi, kalan 1/2'yi 2 arkadaşıyla eşit paylaştı. Her arkadaş kaçta kaç aldı?",
+          "dogruCevap": "1/4",
+          "secenekler": [
+            "1/2",
+            "2/4",
+            "1/3",
+            "1/4"
+          ],
+          "ipucu": "1/2 ÷ 2 = 1/4",
+          "gorsel": {
+            "tur": "kesir",
+            "mod": "paylasim",
+            "parca": 4,
+            "kisi": 2,
+            "alinan": 1
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1888 @@
+{
+  "id": "tema-9",
+  "baslik": "Türkçe — Tema 9 — Şiir",
+  "konular": [
+    {
+      "id": "siir-yazisi",
+      "baslik": "Şiir",
+      "kazanimKodu": "TUR.2.5.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Şiir, duygu ve düşünceleri dizelerle anlatan bir yazı türüdür. Şiirde ses uyumu, ritim ve imgeler anlatımı güçlendirir.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "yts-anlatim-1"
+            }
+          },
+          {
+            "metin": "Şiirlerde dizeler kıtaları oluşturur. Şair bazen benzetme ve kişileştirme kullanarak anlatımı daha canlı ve etkileyici hale getirir.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "yts-anlatim-2"
+            }
+          },
+          {
+            "metin": "Bir şiiri okurken ana duyguya odaklanırız: Şiir bize ne hissettiriyor? Neşe, huzur, özlem ya da heyecan gibi duyguları sezmek şiiri anlamayı kolaylaştırır.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "yts-anlatim-3"
+            }
+          },
+          {
+            "metin": "ŞİİR, duygu ve düşünceleri ahenkli, ritmik bir şekilde anlatan yazıdır. Şiirde dizeler (satırlar) vardır. Dizeler kıtalar oluşturur.",
+            "gorsel": {
+              "tur": "turkce",
+              "mod": "anlatim",
+              "sahne": "sr-anlatim-1"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "sr-a1",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Bu şiirde anlatılan mevsim hangisidir?",
+          "dogruCevap": "Bahar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bahar-sahnesi",
+            "nesne": "cicek"
+          },
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır."
+        },
+        {
+          "id": "sr-a2",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde kuşlar nereden dönüyor?",
+          "dogruCevap": "Uzaklardan",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gocmen-kuslar",
+            "nesne": "kus"
+          },
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır."
+        },
+        {
+          "id": "sr-a3",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde kaç kıta vardır?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kita-sayimi",
+            "nesne": "siir"
+          },
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır."
+        },
+        {
+          "id": "sr-a4",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "\"Kalbim olur kıpır kıpır\" ifadesi hangi duyguyu anlatır?",
+          "dogruCevap": "Heyecan ve mutluluk",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "mutlu-cocuk",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır."
+        },
+        {
+          "id": "sr-a5",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirin ana duygusu nedir?",
+          "dogruCevap": "Canlılık ve sevinç",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bahar-mutlulugu",
+            "nesne": "cicek"
+          },
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır."
+        },
+        {
+          "id": "sr-a6",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "\"Toprak kokar usul usul\" dizesi neyi çağrıştırır?",
+          "dogruCevap": "Yağmur sonrası bahar havasını",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "toprak-kokusu",
+            "nesne": "yagmur"
+          },
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır."
+        },
+        {
+          "id": "sr-a7",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Bu şiirde dizeler nasıl bir anlatım kuruyor?",
+          "dogruCevap": "Ritmik ve duygulu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ritimli-dizeler",
+            "nesne": "siir"
+          },
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır."
+        },
+        {
+          "id": "sr-a8",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiir türü olarak bu metin nedir?",
+          "dogruCevap": "Şiir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-kitabi",
+            "nesne": "kitap"
+          },
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır."
+        },
+        {
+          "id": "sr-a9",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde gökyüzü nasıl tanımlanmış?",
+          "dogruCevap": "Lacivert",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gece-gokyuzu",
+            "nesne": "gece"
+          },
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden."
+        },
+        {
+          "id": "sr-a10",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Ay neye benzetilmiş?",
+          "dogruCevap": "Fenere",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ay-fener",
+            "nesne": "gece"
+          },
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden."
+        },
+        {
+          "id": "sr-a11",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde çocuk ne yaptı?",
+          "dogruCevap": "Dilek tuttu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dilek-tutan-cocuk",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden."
+        },
+        {
+          "id": "sr-a12",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Bu şiirdeki ana atmosfer nedir?",
+          "dogruCevap": "Sakin ve huzurlu gece",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sessiz-gece",
+            "nesne": "gece"
+          },
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden."
+        },
+        {
+          "id": "sr-a13",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde kaç kıta vardır?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kita-sayimi",
+            "nesne": "siir"
+          },
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden."
+        },
+        {
+          "id": "sr-a14",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "\"Sır sakladı kalbimden\" dizesi ne anlatır?",
+          "dogruCevap": "İçten bir duygunun gizli kalmasını",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kalpte-sir",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden."
+        },
+        {
+          "id": "sr-a15",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde zaman dilimi hangisidir?",
+          "dogruCevap": "Gece",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gece-zamani",
+            "nesne": "gece"
+          },
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden."
+        },
+        {
+          "id": "sr-a16",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Bu şiirin duygusu daha çok nasıldır?",
+          "dogruCevap": "Dingin",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dingin-gece",
+            "nesne": "gece"
+          },
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden."
+        },
+        {
+          "id": "sr-a17",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde hangi doğa olayı anlatılıyor?",
+          "dogruCevap": "Kar yağışı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kar-yagisi",
+            "nesne": "kar"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a18",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Çocuk dışarı çıkmadan önce ne giyiyor?",
+          "dogruCevap": "Eldiven ve atkı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kis-hazirlik",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a19",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "\"Ayak izim ilk ben olayım\" dizesi neyi gösterir?",
+          "dogruCevap": "Çocuğun heyecanını",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ilk-ayak-izi",
+            "nesne": "kar"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a20",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde soğuk hava nasıl karşılanıyor?",
+          "dogruCevap": "Neşeyle",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "karda-neşe",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a21",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Bu şiirde kaç dize vardır?",
+          "dogruCevap": "8",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dize-sayimi",
+            "nesne": "siir"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a22",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirin ana duygusu nedir?",
+          "dogruCevap": "Kış sevincidir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kis-mutlulugu",
+            "nesne": "kar"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a23",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirdeki \"dans ediyor\" sözü ne tür anlatıma örnektir?",
+          "dogruCevap": "Kişileştirme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kisilestirme",
+            "nesne": "siir"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a24",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde geçen \"sokak beni çağırıyor\" ifadesi ne anlatır?",
+          "dogruCevap": "Dışarı çıkma isteğini",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "disari-cagri",
+            "nesne": "cocuk"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a25",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Bu metnin türü nedir?",
+          "dogruCevap": "Şiir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-kitabi",
+            "nesne": "kitap"
+          },
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim."
+        },
+        {
+          "id": "sr-a26",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Bu şiirde kaç kıta var?",
+          "dogruCevap": "2",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "yaz-tatili-kita"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a27",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Şiirde anlatılan mevsim hangisi?",
+          "dogruCevap": "Yaz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "yaz-tatili"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a28",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Dalgalar bekliyordu\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Deniz hazır, hemen gidildi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dalgalı-deniz"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a29",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Şair kumda ne yaptı?",
+          "dogruCevap": "Kale yaptı",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "kumda-kale"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a30",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Eve dönerken nasıl hissediyordu?",
+          "dogruCevap": "Yorgun ama mutlu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "yorgun-mutlu"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a31",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Güneş yaktı ensemi\" ifadesinde ne anlatılıyor?",
+          "dogruCevap": "Güneşin çok sıcak olduğu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sicak-gunes"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a32",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Şiirde kafiyeli dizeler var mı?",
+          "dogruCevap": "Evet: \"geldi/işte\" tam değil, \"ensemi/gerçekten\" de tam kafiye değil — öğretici tartışma",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "kafiye-analizi"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a33",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Bu şiirin ana duygusu nedir?",
+          "dogruCevap": "Tatil mutluluğu",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "mutlu-deniz"
+          },
+          "okumaMetni": "Okul bitti, yaz geldi,\nTatil başladı işte.\nDenize koştum hemen,\nDalgalar bekliyordu.\n\nKumda kale yaptım ben,\nGüneş yaktı ensemi.\nAkşam eve döndüm yorgun,\nMutluydum ama gerçekten."
+        },
+        {
+          "id": "sr-a34",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Bu şiirde hangi mevsim anlatılıyor?",
+          "dogruCevap": "Sonbahar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sonbahar"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a35",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Rüzgâr söylüyor türkü\" ne anlama geliyor?",
+          "dogruCevap": "Rüzgâr güzel esiyor (kişileştirme)",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "ruzgar"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a36",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "\"Ağaçlar dans ediyor\" gerçek mi?",
+          "dogruCevap": "Hayır, benzetme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sallanan-agaclar"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a37",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Yapraklar nasıl anlatılıyor?",
+          "dogruCevap": "Sararmış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sari-yapraklar"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a38",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "yazili",
+          "soru": "Şiirde kaç dize var?",
+          "dogruCevap": "4",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dize-sayimi"
+          },
+          "okumaMetni": "Yapraklar sarardı,\nRüzgâr söylüyor türkü.\nAğaçlar dans ediyor,\nSonbahar geldi işte."
+        },
+        {
+          "id": "sr-a39",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde satırlara ne denir?",
+          "dogruCevap": "Dize",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dize-sayimi",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-a40",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Dizelerin bir araya gelmesiyle ne oluşur?",
+          "dogruCevap": "Kıta",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kita-sayimi",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-a41",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde ses uyumuna ne denir?",
+          "dogruCevap": "Kafiye",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ritimli-dizeler",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-a42",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirde duyguyu güçlendiren söyleyişe ne denir?",
+          "dogruCevap": "Benzetme",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siirde-anlatim",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-a43",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiirin ana duygusunu bulmak ne işe yarar?",
+          "dogruCevap": "Şiiri daha iyi anlamamızı sağlar",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ana-duygu",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-a44",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "yazili",
+          "soru": "Şiir türü olarak bu metin nedir?",
+          "dogruCevap": "Şiir",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-kitabi",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "sr-a45",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bahar Şarkısı şiirinde hangi mevsim anlatılır?",
+          "dogruCevap": "Bahar",
+          "secenekler": [
+            "Sonbahar",
+            "Kış",
+            "Yaz",
+            "Bahar"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bahar-sahnesi",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "sr-a46",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Kuşlar döner uzaklardan\" dizesi neyi anlatır?",
+          "dogruCevap": "Baharla birlikte dönüşü",
+          "secenekler": [
+            "Rüzgarı",
+            "Geceyi",
+            "Baharla birlikte dönüşü",
+            "Kuşların kaybolduğunu"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gocmen-kuslar",
+            "nesne": "kus"
+          }
+        },
+        {
+          "id": "sr-a47",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bahar Şarkısı kaç kıtadan oluşur?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "3",
+            "1",
+            "4",
+            "2"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kita-sayimi",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-a48",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Kalbim olur kıpır kıpır\" cümlesi hangi duyguyu verir?",
+          "dogruCevap": "Heyecan",
+          "secenekler": [
+            "Yorgunluk",
+            "Korku",
+            "Öfke",
+            "Heyecan"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "mutlu-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "sr-a49",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin ana teması nedir?",
+          "dogruCevap": "Baharın getirdiği canlılık",
+          "secenekler": [
+            "Kışın zorluğu",
+            "Okul hayatı",
+            "Gece sessizliği",
+            "Baharın getirdiği canlılık"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "bahar-mutlulugu",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "sr-a50",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Gece Yıldız şiirinde gökyüzü nasıl betimlenir?",
+          "dogruCevap": "Lacivert",
+          "secenekler": [
+            "Açık mavi",
+            "Mor",
+            "Lacivert",
+            "Gri"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gece-gokyuzu",
+            "nesne": "gece"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "sr-t1",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Ay neye benzetilir?",
+          "dogruCevap": "Fenere",
+          "secenekler": [
+            "Muma",
+            "Fenere",
+            "Aynaya",
+            "Topa"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ay-fener",
+            "nesne": "gece"
+          }
+        },
+        {
+          "id": "sr-t2",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde çocuk ne yapar?",
+          "dogruCevap": "Dilek tutar",
+          "secenekler": [
+            "Şarkı söyler",
+            "Koşar",
+            "Dilek tutar",
+            "Uyur"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dilek-tutan-cocuk",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "sr-t3",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin duygu tonu nasıldır?",
+          "dogruCevap": "Sakin ve huzurlu",
+          "secenekler": [
+            "Sakin ve huzurlu",
+            "Telaşlı",
+            "Komik",
+            "Öfkeli"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "sessiz-gece",
+            "nesne": "gece"
+          }
+        },
+        {
+          "id": "sr-t4",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Sır sakladı kalbimden\" dizesi neyi gösterir?",
+          "dogruCevap": "İç dünyadaki duyguları",
+          "secenekler": [
+            "Bir oyuncağı sakladığını",
+            "İç dünyadaki duyguları",
+            "Arkadaşını beklediğini",
+            "Kalbin hastalandığını"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kalpte-sir",
+            "nesne": "cocuk"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sr-t5",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kış Sevinci şiirinde sabah pencere nasıl görünür?",
+          "dogruCevap": "Bembeyaz",
+          "secenekler": [
+            "Karanlık",
+            "Islak",
+            "Tozlu",
+            "Bembeyaz"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "karli-cam",
+            "nesne": "kar"
+          }
+        },
+        {
+          "id": "sr-t6",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çocuk dışarı çıkmadan önce neyi hazırlar?",
+          "dogruCevap": "Eldiven ve atkısını",
+          "secenekler": [
+            "Defterini",
+            "Eldiven ve atkısını",
+            "Çantasını",
+            "Şemsiyesini"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kis-hazirlik",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "sr-t7",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Kar taneleri dans ediyor\" ifadesi hangi sanatlı söyleyişe örnektir?",
+          "dogruCevap": "Kişileştirme",
+          "secenekler": [
+            "Kişileştirme",
+            "Karşılaştırma",
+            "Soru cümlesi",
+            "Abartma"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kisilestirme",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t8",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde çocuk soğuğa rağmen nasıl hisseder?",
+          "dogruCevap": "Neşeli",
+          "secenekler": [
+            "Üzgün",
+            "Neşeli",
+            "Korkulu",
+            "Uykulu"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "karda-neşe",
+            "nesne": "cocuk"
+          }
+        },
+        {
+          "id": "sr-t9",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kış Sevinci şiiri kaç dizeden oluşur?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "8",
+            "6",
+            "10",
+            "4"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "dize-sayimi",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t10",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde kıta nedir?",
+          "dogruCevap": "Bir grup dizedir",
+          "secenekler": [
+            "Başlıktır",
+            "Noktadır",
+            "Uzun cümledir",
+            "Bir grup dizedir"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kita-sayimi",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t11",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi şiirin özelliğidir?",
+          "dogruCevap": "Dizeler ve ritim içerir",
+          "secenekler": [
+            "Tablo içerir",
+            "Sadece bilgi verir",
+            "Dizeler ve ritim içerir",
+            "Maddelerden oluşur"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-ozellik",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t12",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde duyguyu artırmak için ne kullanılır?",
+          "dogruCevap": "Benzetme ve imgeler",
+          "secenekler": [
+            "Benzetme ve imgeler",
+            "Grafikler",
+            "Sayısal veriler",
+            "Dipnotlar"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siirde-anlatim",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t13",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi seçenek bir şiir başlığına uygundur?",
+          "dogruCevap": "Gece Yıldız",
+          "secenekler": [
+            "Gece Yıldız",
+            "Hava Durumu Raporu",
+            "Sınıf Listesi",
+            "Matematik Soruları"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-kitabi",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "sr-t14",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Toprak kokar usul usul\" dizesi hangi duyuya seslenir?",
+          "dogruCevap": "Koku duyusuna",
+          "secenekler": [
+            "İşitme duyusuna",
+            "Dokunma duyusuna",
+            "Tat duyusuna",
+            "Koku duyusuna"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "toprak-kokusu",
+            "nesne": "yagmur"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sr-t15",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde tekrar eden ses uyumu ne sağlar?",
+          "dogruCevap": "Ahenk",
+          "secenekler": [
+            "Ahenk",
+            "Kural",
+            "Hız",
+            "Uzunluk"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ritimli-dizeler",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t16",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi şiirde zaman ifadesidir?",
+          "dogruCevap": "Gece oldu",
+          "secenekler": [
+            "Sır sakladı",
+            "Gece oldu",
+            "Yıldızlar tek tek",
+            "Camdan baktım"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "gece-zamani",
+            "nesne": "gece"
+          }
+        },
+        {
+          "id": "sr-t17",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiir türünde anlatım genellikle nasıldır?",
+          "dogruCevap": "Kısa, yoğun ve duyguludur",
+          "secenekler": [
+            "Uzun ve açıklayıcıdır",
+            "Kurallı listelerdir",
+            "Kısa, yoğun ve duyguludur",
+            "Sadece resmi dildir"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Sabah kalktım, cam bembeyaz,\nKar taneleri dans ediyor.\nEldivenim, atkım hazır,\nSokak beni çağırıyor.\n\nAyak izim ilk ben olayım,\nKardan kalbe yol çizeyim.\nSoğuk olsa ne fark eder,\nNeşeyle günü süsleyeyim.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-turu",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "sr-t18",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi şiirin ana duygusunu verir?",
+          "dogruCevap": "Metnin bize hissettirdiği temel duygu",
+          "secenekler": [
+            "Metnin yazıldığı gün",
+            "Yazarın yaşı",
+            "Kaç harf olduğu",
+            "Metnin bize hissettirdiği temel duygu"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Gece oldu, gök lacivert,\nYıldızlar dizildi tek tek.\nAy bir fener gibi parlak,\nSokak sustu yavaş yavaş.\n\nCamdan baktım uzun uzun,\nBir dilek tuttum içimden.\nSessiz gece arkadaşım,\nSır sakladı kalbimden.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ana-duygu",
+            "nesne": "siir"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sr-t19",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu üç metnin ortak türü hangisidir?",
+          "dogruCevap": "Şiir",
+          "secenekler": [
+            "Şiir",
+            "Hikâye",
+            "Mektup",
+            "Bilgi metni"
+          ],
+          "ipucu": "",
+          "okumaMetni": "Penceremde ince yağmur,\nToprak kokar usul usul.\nKuşlar döner uzaklardan,\nBahar der ki: \"Uyan, koşul!\"\n\nYeşil olur parkın yolu,\nTomurcuklar açar bir bir.\nGülen yüzle okula gider,\nKalbim olur kıpır kıpır.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-kitabi",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "sr-t20",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirde kaç kıta vardır?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "2",
+            "3",
+            "1",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "kar-kita"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t21",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Dünya pamuk olur\" ifadesi ne anlama gelir?",
+          "dogruCevap": "Her yer bembeyaz kar kaplanıyor",
+          "secenekler": [
+            "Pamuk yağıyor",
+            "Her yer bembeyaz kar kaplanıyor",
+            "Pamuk satılıyor",
+            "Yumuşak bir his var"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "karli-manzara"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t22",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çocuklar ne yapıyor?",
+          "dogruCevap": "Dışarı fırlıyor",
+          "secenekler": [
+            "Dışarı fırlıyor",
+            "Uyuyor",
+            "Evde kalıyor",
+            "Okula gidiyor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "karda-oynayan"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t23",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Eller üşür, yüz güler\" ne anlama geliyor?",
+          "dogruCevap": "Soğukta üşüseler de mutlular",
+          "secenekler": [
+            "Elleri acıyor, ağlıyorlar",
+            "Eve giriyorlar",
+            "Eldiven takıyorlar",
+            "Soğukta üşüseler de mutlular"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "usuyen-gulen"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t24",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin ana duygusu nedir?",
+          "dogruCevap": "Kış neşesi",
+          "secenekler": [
+            "Üzüntü",
+            "Soğuktan şikâyet",
+            "Kış neşesi",
+            "Kış korkusu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "karda-mutlu"
+          },
+          "okumaMetni": "Beyaz beyaz kar yağar,\nDünya pamuk olur.\nÇocuklar dışarı fırlar,\nKardan adam kurulur.\n\nEller üşür, yüz güler,\nKış mevsimi böyledir.\nSoğuk gelir, neşe getirir,\nHer çocuk bilir bunu."
+        },
+        {
+          "id": "sr-t25",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şair okul açılınca ne yaptı?",
+          "dogruCevap": "Sınıfa koştu",
+          "secenekler": [
+            "Yavaş yürüdü",
+            "Bekledi",
+            "Sınıfa koştu",
+            "Eve döndü"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "okula-kosan"
+          },
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t26",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Her gün biraz daha büyüdüm\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Her gün yeni şeyler öğrendi",
+          "secenekler": [
+            "Kilosu arttı",
+            "Yaşlandı",
+            "Boyu uzadı",
+            "Her gün yeni şeyler öğrendi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "buyuyen-cocuk"
+          },
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t27",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Okul böyle işte, dolu dolu\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Okul çok şey öğretiyor, zengin bir yer",
+          "secenekler": [
+            "Okul çok şey öğretiyor, zengin bir yer",
+            "Okul kalabalık",
+            "Sınıf dolu",
+            "Ödev çok"
+          ],
+          "ipucu": "Okul dolu dolu = öğrenmekle dolu.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dolu-okul"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t28",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde kaç dize var?",
+          "dogruCevap": "8",
+          "secenekler": [
+            "6",
+            "4",
+            "8",
+            "10"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dize-sayimi"
+          },
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t29",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin ana fikri nedir?",
+          "dogruCevap": "Okul öğrenme ve büyüme yeridir",
+          "secenekler": [
+            "Öğretmenler çok anlatır",
+            "Okul sıkıcıdır",
+            "Okul öğrenme ve büyüme yeridir",
+            "Zil güzel çalar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "mutlu-okul"
+          },
+          "okumaMetni": "Okul açıldı, zil çaldı,\nKoştum sınıfa hemen.\nDefterim, kalemim hazır,\nÖğrenmek istiyorum ben.\n\nÖğretmenim anlattı güzel,\nBen de dinledim onu.\nHer gün biraz daha büyüdüm,\nOkul böyle işte, dolu dolu."
+        },
+        {
+          "id": "sr-t30",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirde hangi mevsim anlatılıyor?",
+          "dogruCevap": "Bahar",
+          "secenekler": [
+            "Kış",
+            "Sonbahar",
+            "Bahar",
+            "Yaz"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "bahar"
+          },
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t31",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Tohumlar uyandı topraktan\" ne anlama geliyor?",
+          "dogruCevap": "Tohumlar filizleniyor",
+          "secenekler": [
+            "Tohumlar filizleniyor",
+            "Tohumlar konuşuyor",
+            "Tohumlar dışarı çıkıyor",
+            "Tohumlar ısınıyor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "filizlenen-tohum"
+          },
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t32",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Her yer güldü\" ifadesinde ne kullanılmıştır?",
+          "dogruCevap": "Kişileştirme",
+          "secenekler": [
+            "Kişileştirme",
+            "Kafiye",
+            "Gerçek anlatım",
+            "Karşıtlık"
+          ],
+          "ipucu": "Her yer gülmez; doğa insana benzetilmiş.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "kisilestirme"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t33",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Son dizede ne söyleniyor?",
+          "dogruCevap": "Kışın karı gitti",
+          "secenekler": [
+            "Kar devam ediyor",
+            "Kışın karı gitti",
+            "Kış geri döndü",
+            "Bahar bitti"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "eriyen-kar"
+          },
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t34",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde kaç kıta var?",
+          "dogruCevap": "2",
+          "secenekler": [
+            "1",
+            "4",
+            "3",
+            "2"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "bahar-kita"
+          },
+          "okumaMetni": "Karlar eridi, seller aktı,\nTohumlar uyandı topraktan.\nÇiçekler açtı renk renk,\nBahar geldi uzaktan.\n\nKuşlar döndü yuvaya,\nArılar toplar balı.\nHer yer güldü, her yer şakıdı,\nGitti kışın karı."
+        },
+        {
+          "id": "sr-t35",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiir kime yazılmış?",
+          "dogruCevap": "Anneye",
+          "secenekler": [
+            "Öğretmene",
+            "Anneye",
+            "Büyükanneye",
+            "Arkadaşa"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "anne-cocuk"
+          },
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t36",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Elleri sıcak\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Annenin şefkatli ve sevecen olduğu",
+          "secenekler": [
+            "Ateşi var",
+            "Elleri gerçekten sıcak",
+            "Eldiven takıyor",
+            "Annenin şefkatli ve sevecen olduğu"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "anne-el-ele"
+          },
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t37",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Gülüşü bana güç verir\" ifadesi ne anlama geliyor?",
+          "dogruCevap": "Annenin gülüşü çocuğa enerji ve destek verir",
+          "secenekler": [
+            "Güç sporu yapıyor",
+            "Gülmek güçlüdür",
+            "Annesini güçlendiriyor",
+            "Annenin gülüşü çocuğa enerji ve destek verir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "gulen-anne"
+          },
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t38",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirde kaç dize var?",
+          "dogruCevap": "4",
+          "secenekler": [
+            "5",
+            "3",
+            "6",
+            "4"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "dize-sayimi"
+          },
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t39",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin duygusal tonu nedir?",
+          "dogruCevap": "Sevgi dolu",
+          "secenekler": [
+            "Üzgün",
+            "Heyecanlı",
+            "Korkulu",
+            "Sevgi dolu"
+          ],
+          "ipucu": "Annemi çok seviyorum...",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "sevgi"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Annemi çok seviyorum,\nElleri sıcak, gözleri nur.\nYorulunca yanımda olur,\nGülüşü bana güç verir."
+        },
+        {
+          "id": "sr-t40",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Deniz nasıl tarif ediliyor?",
+          "dogruCevap": "Büyük ve derin",
+          "secenekler": [
+            "Durgun ve sakin",
+            "Büyük ve derin",
+            "Küçük ve sığ",
+            "Soğuk ve karanlık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "genis-deniz"
+          },
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t41",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Dalgalar oynar benimle\" ifadesi ne tür bir anlatım?",
+          "dogruCevap": "Kişileştirme",
+          "secenekler": [
+            "Zıtlık",
+            "Gerçek",
+            "Kafiye",
+            "Kişileştirme"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "oynayan-dalgalar"
+          },
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t42",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Güneş gülümser geride\" ifadesinde ne var?",
+          "dogruCevap": "Kişileştirme",
+          "secenekler": [
+            "Kişileştirme",
+            "Kafiye",
+            "Karşıtlık",
+            "Gerçek bir olay"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "gulen-gunes"
+          },
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t43",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Denize her bakışımda mutluluk doluyorum\" ne anlama geliyor?",
+          "dogruCevap": "Denizi görünce çok mutlu oluyor",
+          "secenekler": [
+            "Denizi görünce çok mutlu oluyor",
+            "Yüzmek istiyor",
+            "Deniz suyu içiyor",
+            "Deniz onu doldurdu"
+          ],
+          "ipucu": "Bakışımda mutluluk doluyorum = görünce seviniyorum.",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "denize-bakan"
+          },
+          "sasirtma": true,
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t44",
+          "kazanimKodu": "TUR.2.2.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bu şiirin ana duygusu nedir?",
+          "dogruCevap": "Denizden duyulan mutluluk",
+          "secenekler": [
+            "Yorgunluk",
+            "Deniz korkusu",
+            "Denizden duyulan mutluluk",
+            "Yalnızlık"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "siir",
+            "sahne": "denizde-mutlu"
+          },
+          "okumaMetni": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum."
+        },
+        {
+          "id": "sr-t45",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde kıta nedir?",
+          "dogruCevap": "Bir grup dizedir",
+          "secenekler": [
+            "Noktadır",
+            "Bir grup dizedir",
+            "Başlıktır",
+            "Uzun cümledir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "kita-sayimi",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t46",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Aşağıdakilerden hangisi şiirin özelliğidir?",
+          "dogruCevap": "Dizeler ve ritim içerir",
+          "secenekler": [
+            "Sadece bilgi verir",
+            "Dizeler ve ritim içerir",
+            "Maddelerden oluşur",
+            "Tablo içerir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-ozellik",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t47",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde duyguyu artırmak için ne kullanılır?",
+          "dogruCevap": "Benzetme ve imgeler",
+          "secenekler": [
+            "Grafikler",
+            "Sayısal veriler",
+            "Dipnotlar",
+            "Benzetme ve imgeler"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siirde-anlatim",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t48",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Hangi seçenek bir şiir başlığına uygundur?",
+          "dogruCevap": "Gece Yıldız",
+          "secenekler": [
+            "Matematik Soruları",
+            "Hava Durumu Raporu",
+            "Sınıf Listesi",
+            "Gece Yıldız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-kitabi",
+            "nesne": "kitap"
+          }
+        },
+        {
+          "id": "sr-t49",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiirde tekrar eden ses uyumu ne sağlar?",
+          "dogruCevap": "Ahenk",
+          "secenekler": [
+            "Uzunluk",
+            "Kural",
+            "Ahenk",
+            "Hız"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "ritimli-dizeler",
+            "nesne": "siir"
+          }
+        },
+        {
+          "id": "sr-t50",
+          "kazanimKodu": "TUR.2.5.2",
+          "tip": "coktanSecmeli",
+          "soru": "Şiir türünde anlatım genellikle nasıldır?",
+          "dogruCevap": "Kısa, yoğun ve duyguludur",
+          "secenekler": [
+            "Kısa, yoğun ve duyguludur",
+            "Kurallı listelerdir",
+            "Uzun ve açıklayıcıdır",
+            "Sadece resmi dildir"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "turkce",
+            "mod": "sahne",
+            "sahne": "siir-turu",
+            "nesne": "kitap"
+          }
+        }
+      ]
+    }
+  ]
+}

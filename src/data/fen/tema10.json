@@ -1,0 +1,1962 @@
+{
+  "id": "tema-10",
+  "baslik": "Fen Bilimleri — Tema 10 — Yer ve Uzay",
+  "konular": [
+    {
+      "id": "yer-ve-uzay",
+      "baslik": "Yer ve Uzay",
+      "kazanimKodu": "FEN.2.3.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Ali ve Zeynep sınıftaki küreye baktı. Dünyamız bir topa benziyor — mavi yerler denizler, yeşil-kahverengi yerler karalar! Dünyamız uzayda dönüp duruyor. Şekli küre!",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "de-anlatim-1"
+            }
+          },
+          {
+            "metin": "Berk ve Fatma bahçede oturdu. Güneş kocaman bir yıldız — ısı ve ışık kaynağımız! Güneş'e çıplak gözle bakılmaz. Güneş olmasaydı Dünya buz gibi soğuk olurdu.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "de-anlatim-2"
+            }
+          },
+          {
+            "metin": "Can ve Hande gece gökyüzüne baktı. Dünya kendi etrafında döner — güneş gören taraf gündüz, karanlık taraf gece! Ay kendi ışığı olmayan, Güneş'i yansıtan bir ayna.",
+            "gorsel": {
+              "tur": "fen",
+              "mod": "anlatim",
+              "sahne": "de-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "yu-a1",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Üzerinde yaşadığımız gezegenimizin adı ......... .",
+          "dogruCevap": "Dünya",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a2",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamızı ısıtan ve aydınlatan yıldızın adı ......... .",
+          "dogruCevap": "Güneş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          },
+          "alternatifCevaplar": [
+            "güneş"
+          ],
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a3",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Ay kendi başına ışık üreten bir yıldızdır.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a4",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamız şekil olarak ......... benzer.",
+          "dogruCevap": "küreye",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kure"
+          },
+          "alternatifCevaplar": [
+            "topa",
+            "küre",
+            "top"
+          ],
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a5",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamızın Güneş ışığı alan tarafında ......... yaşanır.",
+          "dogruCevap": "gündüz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunduz"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a6",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamızın karanlık tarafında ......... yaşanır.",
+          "dogruCevap": "gece",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gece"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a7",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamız kendi etrafında dönerek gece ve gündüzü oluşturur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "donen-dunya"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a8",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Güneş'e çıplak gözle doğrudan bakmak gözlerimiz için faydalıdır.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-gozlugu"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a9",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Geceleri gökyüzünde gördüğümüz parlak noktalara ......... denir.",
+          "dogruCevap": "yıldız",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yildiz"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a10",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Ay, Güneş'ten aldığı ışığı bize yansıtır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "ay",
+              "gunes"
+            ],
+            "vurgu": "ay"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a11",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamızdaki mavi alanlar ......... gösterir.",
+          "dogruCevap": "suları",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "mavi-deniz"
+          },
+          "alternatifCevaplar": [
+            "okyanusları",
+            "denizleri"
+          ],
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a12",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamızın yüzeyindeki karalar sulara göre daha fazladır.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a13",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamızın, Güneş'in ve yıldızların bulunduğu devasa boşluğa ......... denir.",
+          "dogruCevap": "uzay",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "uzay"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a14",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Eski zamanlarda insanlar Dünya'nın düz tepsi gibi olduğunu sanıyorlardı.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "eski-harita"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a15",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Güneş'in zararlı ışınlarından korunmak için ......... takarız.",
+          "dogruCevap": "güneş gözlüğü",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-gozlugu"
+          },
+          "alternatifCevaplar": [
+            "güneş gözlüğü takarız"
+          ],
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a16",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamız kendi etrafında tıpkı bir ......... gibi döner.",
+          "dogruCevap": "topaç",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "topac"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a17",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Güneş olmasaydı Dünyamız sıcacık ve aydınlık olurdu.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "karanlik-dunya"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a18",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Ufuktan yaklaşan geminin önce ......... görürüz.",
+          "dogruCevap": "direğini",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gemi"
+          },
+          "alternatifCevaplar": [
+            "dumanını",
+            "direğini/dumanını"
+          ],
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a19",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Ay'ın şekli gökyüzünde hiç değişmez.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay-evreleri"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a20",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Uzaya giden kişilere ......... denir.",
+          "dogruCevap": "astronot",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "astronot"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a21",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Güneş'in doğmasıyla birlikte ......... başlar.",
+          "dogruCevap": "gündüz",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sabah-gunesi"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a22",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünyamızın karanlık tarafında insanlar uyanık okula giderler.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gece"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a23",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Bitkilerin büyüyüp gelişmesi için ......... ışığına ihtiyaçları vardır.",
+          "dogruCevap": "Güneş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cicek"
+          },
+          "alternatifCevaplar": [
+            "güneş"
+          ],
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a24",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Ay'ı yuvarlak gördüğümüz evreye ......... denir.",
+          "dogruCevap": "dolunay",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dolunay"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a25",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya, Güneş etrafında dolanarak mevsimlerin oluşmasını sağlar.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-sistemi"
+          },
+          "kazanim": "FEN.2.3.1"
+        },
+        {
+          "id": "yu-a26",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya küre şeklindedir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a27",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Ay Dünya'nın uydusudur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a28",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Güneş bir yıldızdır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a29",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Gece gökyüzünde yıldızlar görünür.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yildiz"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a30",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya Güneş etrafında döner.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "donen-dunya"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a31",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Uzayda gezegenler vardır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "uzay"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a32",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya'da gece ve gündüz oluşur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunduz"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a33",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Astronotlar uzaya gider.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "astronot"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a34",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Roket uzaya fırlatılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "roket"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a35",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya'nın yüzeyinde su ve kara vardır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "mavi-deniz"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a36",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Ay'da hava yoktur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a37",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Güneş Dünya'yı ısıtır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a38",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya kendi etrafında döner.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "topac"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a39",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Yıldızlar uzaktan parlar.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yildiz"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a40",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Uzay boşluğu derin ve geniştir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "uzay"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a41",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Teleskop uzaktaki cisimleri gösterir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "teleskop"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a42",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya mavi gezegen olarak bilinir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a43",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Gece karanlıktır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gece"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a44",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Gündüz aydınlıktır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunduz"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a45",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Uzayda yerçekimi farklı olabilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "astronot"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a46",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya ve uzay birbirine bağlıdır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "de-anlatim-1"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a47",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Güneş sistemi birçok gezegenden oluşur.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-sistemi"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a48",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Ay'ın şekli değişir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay-evreleri"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a49",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Gezegenler Güneş etrafında döner.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-sistemi"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        },
+        {
+          "id": "yu-a50",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "yazili",
+          "soru": "Dünya üzerinde yaşadığımız gezegendir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          },
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ]
+        }
+      ],
+      "test": [
+        {
+          "id": "yu-t1",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Üzerinde yaşadığımız gezegenin adı nedir?",
+          "dogruCevap": "Dünya",
+          "secenekler": [
+            "Dünya",
+            "Yıldız",
+            "Ay",
+            "Güneş"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          }
+        },
+        {
+          "id": "yu-t2",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünyamızın şekli hangisine benzer?",
+          "dogruCevap": "Küre",
+          "secenekler": [
+            "Küp",
+            "Silindir",
+            "Küre",
+            "Kare"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "top",
+              "kure"
+            ],
+            "vurgu": "kure"
+          }
+        },
+        {
+          "id": "yu-t3",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünyamızı ısıtan ve aydınlatan kaynak nedir?",
+          "dogruCevap": "Güneş",
+          "secenekler": [
+            "Güneş",
+            "Dünya",
+            "Ay",
+            "Yıldızlar"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "yu-t4",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Gece ve gündüzü ne oluşturur?",
+          "dogruCevap": "Dünya'nın kendi etrafında dönmesi",
+          "secenekler": [
+            "Bulutlar",
+            "Ay'ın uzaklaşması",
+            "Güneş'in uyuması",
+            "Dünya'nın kendi etrafında dönmesi"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gece-gunduz"
+          }
+        },
+        {
+          "id": "yu-t5",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ay hakkında hangisi doğrudur?",
+          "dogruCevap": "Dünya'nın doğal uydusu, Güneş'i yansıtır",
+          "secenekler": [
+            "Dünya'nın doğal uydusu, Güneş'i yansıtır",
+            "Kare şekilli",
+            "Güneş'ten büyük",
+            "Kendisi ısı kaynağı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay"
+          }
+        },
+        {
+          "id": "yu-t6",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Modeldeki mavi renkler neyi gösterir?",
+          "dogruCevap": "Okyanus ve denizleri",
+          "secenekler": [
+            "Çölleri",
+            "Dağları",
+            "Okyanus ve denizleri",
+            "Ormanları"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          }
+        },
+        {
+          "id": "yu-t7",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Gözlerimizi korumak için ne kullanmalıyız?",
+          "dogruCevap": "Güneş gözlüğü",
+          "secenekler": [
+            "Dürbün",
+            "Mikroskop",
+            "Büyüteç",
+            "Güneş gözlüğü"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-gozlugu"
+          }
+        },
+        {
+          "id": "yu-t8",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Eski zamanlarda Dünya'nın şekli neye benzetilirdi?",
+          "dogruCevap": "Düz tepsi",
+          "secenekler": [
+            "Düz tepsi",
+            "Küre",
+            "Üçgen",
+            "Yuvarlak top"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "eski-harita"
+          }
+        },
+        {
+          "id": "yu-t9",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya dönünce Güneş'i gören tarafta ne yaşanır?",
+          "dogruCevap": "Gündüz",
+          "secenekler": [
+            "Kış",
+            "Gece",
+            "Gündüz",
+            "Kar"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "topac"
+          }
+        },
+        {
+          "id": "yu-t10",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ay neden bazen yay, bazen yuvarlak görünür?",
+          "dogruCevap": "Ay'ın şeklinin değişir gibi görünmesi",
+          "secenekler": [
+            "Ay'ın şeklinin değişir gibi görünmesi",
+            "Parçaları kopuyor",
+            "Bulutlar boyuyor",
+            "Güneş'i yutuyor"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay-evreleri"
+          }
+        },
+        {
+          "id": "yu-t11",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yıldızların ve gezegenlerin bulunduğu boşluğa ne denir?",
+          "dogruCevap": "Uzay",
+          "secenekler": [
+            "Uzay",
+            "Okyanus",
+            "Gökyüzü",
+            "Bulut"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "uzay"
+          }
+        },
+        {
+          "id": "yu-t12",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Bitkilerin büyümesi için neye ihtiyaç vardır?",
+          "dogruCevap": "Güneş ışığına",
+          "secenekler": [
+            "Güneş ışığına",
+            "Ay ışığına",
+            "Karanlığa",
+            "Sadece rüzgara"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "cicek"
+          }
+        },
+        {
+          "id": "yu-t13",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ufuktan gelen geminin önce neresini görürüz?",
+          "dogruCevap": "Direğin en üstü",
+          "secenekler": [
+            "Deniz altı",
+            "Arka taraf",
+            "Direğin en üstü",
+            "Sadece gövdesi"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gemi"
+          }
+        },
+        {
+          "id": "yu-t14",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Büyükten küçüğe sıralama hangisidir?",
+          "dogruCevap": "Güneş - Dünya - Ay",
+          "secenekler": [
+            "Güneş - Dünya - Ay",
+            "Ay - Dünya - Güneş",
+            "Dünya - Ay - Güneş",
+            "Dünya - Güneş - Ay"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "gunes",
+              "dunya",
+              "ay"
+            ],
+            "vurgu": [
+              "gunes",
+              "dunya",
+              "ay"
+            ]
+          }
+        },
+        {
+          "id": "yu-t15",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya Güneş etrafında dönerken ne oluşur?",
+          "dogruCevap": "Mevsimler",
+          "secenekler": [
+            "Sadece gündüz",
+            "Sadece gece",
+            "Mevsimler",
+            "Saatler"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-sistemi"
+          }
+        },
+        {
+          "id": "yu-t16",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Sular ve karalar nasıldır?",
+          "dogruCevap": "Sular daha fazla",
+          "secenekler": [
+            "Hiç su yok",
+            "Karalar daha fazla",
+            "Eşit",
+            "Sular daha fazla"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          }
+        },
+        {
+          "id": "yu-t17",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Geceleri parlayan küçük ışıklara ne denir?",
+          "dogruCevap": "Yıldız",
+          "secenekler": [
+            "Gökkuşağı",
+            "Bulut",
+            "Yıldız",
+            "Ay"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yildiz"
+          }
+        },
+        {
+          "id": "yu-t18",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Plajda cildimizi korumak için ne süreriz?",
+          "dogruCevap": "Güneş kremi",
+          "secenekler": [
+            "Sabun",
+            "Güneş kremi",
+            "Şampuan",
+            "Kolonya"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-kremi"
+          }
+        },
+        {
+          "id": "yu-t19",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünyamız ortadan biraz şişkin, hafif basık bir ......... benzer.",
+          "dogruCevap": "Küreye",
+          "secenekler": [
+            "Silindire",
+            "Kareye",
+            "Konie",
+            "Küreye"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "kure"
+          }
+        },
+        {
+          "id": "yu-t20",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Canlılar dinlenmek için hangi zaman dilimini tercih eder?",
+          "dogruCevap": "Gece",
+          "secenekler": [
+            "Öğle",
+            "Gece",
+            "İkindi",
+            "Gündüz"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "uyuyan-cocuk"
+          }
+        },
+        {
+          "id": "yu-t21",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Uzayı yakından görmek için ne kullanılır?",
+          "dogruCevap": "Teleskop",
+          "secenekler": [
+            "Teleskop",
+            "Büyüteç",
+            "Gözlük",
+            "Ayna"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "teleskop"
+          }
+        },
+        {
+          "id": "yu-t22",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş hangi yönden doğar?",
+          "dogruCevap": "Doğu",
+          "secenekler": [
+            "Batı",
+            "Kuzey",
+            "Güney",
+            "Doğu"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "sabah-gunesi"
+          }
+        },
+        {
+          "id": "yu-t23",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Uzaya çıkan kişiye ne denir?",
+          "dogruCevap": "Astronot",
+          "secenekler": [
+            "Dalgıç",
+            "Şoför",
+            "Pilot",
+            "Astronot"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "astronot"
+          }
+        },
+        {
+          "id": "yu-t24",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Uzaydan bakıldığında Dünya'da hangi renk öne çıkar?",
+          "dogruCevap": "Mavi",
+          "secenekler": [
+            "Siyah",
+            "Mavi",
+            "Sarı",
+            "Kırmızı"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          }
+        },
+        {
+          "id": "yu-t25",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya'yı diğer gezegenlerden özel kılan nedir?",
+          "dogruCevap": "Üzerinde canlıların yaşaması",
+          "secenekler": [
+            "Çok sıcak olması",
+            "Güneş'ten büyük olması",
+            "Hiç dönmemesi",
+            "Üzerinde canlıların yaşaması"
+          ],
+          "ipucu": "",
+          "kazanim": "FEN.2.3.1",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "grup",
+            "nesneler": [
+              "dunya",
+              "gunes"
+            ],
+            "vurgu": "dunya"
+          }
+        },
+        {
+          "id": "yu-t26",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya küre şeklindedir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          }
+        },
+        {
+          "id": "yu-t27",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ay Dünya'nın uydusudur.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay"
+          }
+        },
+        {
+          "id": "yu-t28",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş bir yıldızdır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hiçbiri",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "yu-t29",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Gece gökyüzünde yıldızlar görünür.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yildiz"
+          }
+        },
+        {
+          "id": "yu-t30",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya Güneş etrafında döner.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "donen-dunya"
+          }
+        },
+        {
+          "id": "yu-t31",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Uzayda gezegenler vardır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Yanlış",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "uzay"
+          }
+        },
+        {
+          "id": "yu-t32",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya'da gece ve gündüz oluşur.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Doğru",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunduz"
+          }
+        },
+        {
+          "id": "yu-t33",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Astronotlar uzaya gider.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Yanlış",
+            "Bazen",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "astronot"
+          }
+        },
+        {
+          "id": "yu-t34",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Roket uzaya fırlatılır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "roket"
+          }
+        },
+        {
+          "id": "yu-t35",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya'nın yüzeyinde su ve kara vardır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "mavi-deniz"
+          }
+        },
+        {
+          "id": "yu-t36",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ay'da hava yoktur.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Doğru",
+            "Hiçbiri",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay"
+          }
+        },
+        {
+          "id": "yu-t37",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş Dünya'yı ısıtır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes"
+          }
+        },
+        {
+          "id": "yu-t38",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya kendi etrafında döner.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Yanlış",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "topac"
+          }
+        },
+        {
+          "id": "yu-t39",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yıldızlar uzaktan parlar.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "yildiz"
+          }
+        },
+        {
+          "id": "yu-t40",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Uzay boşluğu derin ve geniştir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Hiçbiri",
+            "Yanlış",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "uzay"
+          }
+        },
+        {
+          "id": "yu-t41",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Teleskop uzaktaki cisimleri gösterir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Hiçbiri",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "teleskop"
+          }
+        },
+        {
+          "id": "yu-t42",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya mavi gezegen olarak bilinir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Bazen",
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          }
+        },
+        {
+          "id": "yu-t43",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Gece karanlıktır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Hiçbiri",
+            "Doğru",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gece"
+          }
+        },
+        {
+          "id": "yu-t44",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Gündüz aydınlıktır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hiçbiri",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunduz"
+          }
+        },
+        {
+          "id": "yu-t45",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Uzayda yerçekimi farklı olabilir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Yanlış",
+            "Bazen",
+            "Hiçbiri",
+            "Doğru"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "astronot"
+          }
+        },
+        {
+          "id": "yu-t46",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Dünya ve uzay birbirine bağlıdır.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Bazen",
+            "Doğru",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "anlatim",
+            "sahne": "de-anlatim-1"
+          }
+        },
+        {
+          "id": "yu-t47",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Güneş sistemi birçok gezegenden oluşur.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Hiçbiri",
+            "Doğru",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-sistemi"
+          }
+        },
+        {
+          "id": "yu-t48",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Ay'ın şekli değişir.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Hiçbiri",
+            "Bazen",
+            "Yanlış"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "ay-evreleri"
+          }
+        },
+        {
+          "id": "yu-t49",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "Gezegenler Güneş etrafında döner.",
+          "dogruCevap": "Doğru",
+          "secenekler": [
+            "Doğru",
+            "Yanlış",
+            "Hiçbiri",
+            "Bazen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "gunes-sistemi"
+          }
+        },
+        {
+          "id": "yu-t50",
+          "kazanimKodu": "FEN.2.3.1",
+          "tip": "coktanSecmeli",
+          "soru": "🎭 Ay kendi ışığını üretir mi?",
+          "dogruCevap": "Hayır, Güneş yansıtır",
+          "secenekler": [
+            "Hayır, Güneş yansıtır",
+            "Her gece",
+            "Yıldız gibidir",
+            "Evet"
+          ],
+          "ipucu": "Ay Güneş ışığını yansıtır!",
+          "gorsel": {
+            "tur": "fen",
+            "mod": "nesne",
+            "nesne": "dunya"
+          },
+          "sasirtma": true
+        }
+      ]
+    }
+  ]
+}

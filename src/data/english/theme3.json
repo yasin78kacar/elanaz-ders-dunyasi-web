@@ -1,0 +1,1881 @@
+{
+  "id": "tema-3",
+  "baslik": "İngilizce — Tema 3",
+  "konular": [
+    {
+      "id": "selamlasma-ve-aile",
+      "baslik": "Greetings and Family",
+      "kazanimKodu": "ING.2.1.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Mehmet okula yürürken Fatma'yı gördü. \"Hello Fatma!\" dedi. Fatma \"Hi Mehmet!\" diye cevap verdi. Yusuf gelince \"Good morning!\" dedi. Öğleden sonra \"Good afternoon\" diyorlardı. Küçük İngilizce selamlaşmalar günlerini daha neşeli yapıyordu.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sa-anlatim-1"
+            }
+          },
+          {
+            "metin": "Selin aile ağacı hazırlıyordu. Annesinin altına Mother, babasının altına Father, erkek kardeşinin altına Brother, ablasının altına Sister yazdı. \"My Family\" panosu renkli ve sevgi dolu tamamlandı!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sa-anlatim-2"
+            }
+          },
+          {
+            "metin": "Yusuf uyku vakti gelince annesine ve babasına \"Good night!\" dedi. Sabah okula giderken \"Goodbye!\" veya \"Bye bye!\" diyordu. Parkta ayrılırken \"See you!\" diyerek neşeyle evlerine dağılıyorlardı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sa-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "sa-a1",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "İngilizcede arkadaşımıza merhaba demek için \".........\" kelimesini kullanırız.",
+          "dogruCevap": "Hello",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "el-sallayan"
+          }
+        },
+        {
+          "id": "sa-a2",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "\"Hi\" kelimesi İngilizcede merhaba (selam) anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "merhaba-cocuklar"
+          }
+        },
+        {
+          "id": "sa-a3",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Sabah uyandığımızda ailemize İngilizce olarak \"Good .........\" deriz.",
+          "dogruCevap": "morning",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sabah-gunes"
+          }
+        },
+        {
+          "id": "sa-a4",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Öğleden sonra karşılaştığımız kişilere \"Good afternoon\" deriz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ogle-vakti"
+          }
+        },
+        {
+          "id": "sa-a5",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Aile kelimesinin İngilizcesi \".........\" kelimesidir.",
+          "dogruCevap": "family",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aile-foto"
+          }
+        },
+        {
+          "id": "sa-a6",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Anne kelimesi İngilizcede \"Mother\" olarak yazılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "anne-resmi"
+          }
+        },
+        {
+          "id": "sa-a7",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Babamıza İngilizcede \".........\" diyebiliriz.",
+          "dogruCevap": "father",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "baba-resmi"
+          },
+          "alternatifCevaplar": [
+            "Father"
+          ]
+        },
+        {
+          "id": "sa-a8",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "\"Sister\" kelimesi Türkçede erkek kardeş demektir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kiz-kardes"
+          }
+        },
+        {
+          "id": "sa-a9",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Erkek kardeşin İngilizcesi \".........\" kelimesidir.",
+          "dogruCevap": "brother",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "erkek-kardes"
+          }
+        },
+        {
+          "id": "sa-a10",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Gece uyumadan önce ailemize \"Good night\" deriz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gece-uyku"
+          }
+        },
+        {
+          "id": "sa-a11",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Akşam saatlerinde birine iyi akşamlar demek için \"Good .........\" deriz.",
+          "dogruCevap": "evening",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aksam-yemegi"
+          }
+        },
+        {
+          "id": "sa-a12",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Evden çıkarken hoşça kal demek için \"Goodbye\" deriz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "vedalasan"
+          }
+        },
+        {
+          "id": "sa-a13",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Kısa ve samimi bir hoşça kal demek için \".........\" diyebiliriz.",
+          "dogruCevap": "bye",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bye-bye"
+          },
+          "alternatifCevaplar": [
+            "bye bye",
+            "Bye",
+            "Bye bye"
+          ]
+        },
+        {
+          "id": "sa-a14",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Görüşürüz demek için İngilizcede \"See you\" kullanılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "park-ayrilma"
+          }
+        },
+        {
+          "id": "sa-a15",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Büyükannemize (ninemize) İngilizcede \"Grand.........\" deriz.",
+          "dogruCevap": "mother",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "buyukanne"
+          }
+        },
+        {
+          "id": "sa-a16",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Büyükbabamıza (dedemize) \"Grandfather\" denir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "buyukbaba"
+          }
+        },
+        {
+          "id": "sa-a17",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "\"Good morning\" iyi geceler anlamına gelir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gunduz-gunes"
+          }
+        },
+        {
+          "id": "sa-a18",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "\"Mother\" kelimesi annemizi ifade eder.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "neseli-anne"
+          }
+        },
+        {
+          "id": "sa-a19",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Ailemize katılan küçük bebeğe (bebek kardeşe) İngilizcede \".........\" diyebiliriz.",
+          "dogruCevap": "baby",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bebek-kardes"
+          }
+        },
+        {
+          "id": "sa-a20",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "\"Father and son\" ifadesinde geçen \"Father\", baba demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "baba-ogul"
+          }
+        },
+        {
+          "id": "sa-a21",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "\"Sister and brother\" ifadesi ......... ve erkek kardeş demektir.",
+          "dogruCevap": "kız kardeş",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kardesler"
+          }
+        },
+        {
+          "id": "sa-a22",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "\"My family\" Türkçede \"Benim ailem\" anlamına gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aile-tablosu"
+          }
+        },
+        {
+          "id": "sa-a23",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Birine \"Hello\" dediğimizde o kişi bize \".........\" (selam) diye cevap verebilir.",
+          "dogruCevap": "Hi",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "merhaba-kiz"
+          },
+          "alternatifCevaplar": [
+            "Hello",
+            "hi",
+            "hello"
+          ]
+        },
+        {
+          "id": "sa-a24",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Güneş batarken ve hava kararmaya başlarken \"Good evening\" deriz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aksam-gunes"
+          }
+        },
+        {
+          "id": "sa-a25",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "yazili",
+          "soru": "Yıldızların çıktığı gece vaktinde uykuya dalarken \"Good .........\" (İyi geceler) deriz.",
+          "dogruCevap": "night",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gece-ay"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "sa-t1",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sabah okulda arkadaşımızla karşılaştığımızda ona ne söyleriz?",
+          "dogruCevap": "Hello / Good morning",
+          "secenekler": [
+            "Good night",
+            "Goodbye",
+            "See you",
+            "Hello / Good morning"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "okul-karsilasma"
+          }
+        },
+        {
+          "id": "sa-t2",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sabah uyandığımızda İngilizce günaydın demek için hangi ifadeyi kullanırız?",
+          "dogruCevap": "Good morning",
+          "secenekler": [
+            "Good night",
+            "Good morning",
+            "Goodbye",
+            "Good evening"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gunes-dogusu"
+          }
+        },
+        {
+          "id": "sa-t3",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Anne\" kelimesinin İngilizcesi aşağıdakilerden hangisidir?",
+          "dogruCevap": "Mother",
+          "secenekler": [
+            "Father",
+            "Mother",
+            "Sister",
+            "Brother"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "anne-portre"
+          }
+        },
+        {
+          "id": "sa-t4",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "İngilizcede \"Baba\" kelimesi nasıl yazılır?",
+          "dogruCevap": "Father",
+          "secenekler": [
+            "Mother",
+            "Father",
+            "Sister",
+            "Brother"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "baba-portre"
+          }
+        },
+        {
+          "id": "sa-t5",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ailenin kız çocuklarına, yani kız kardeşe İngilizcede ne ad verilir?",
+          "dogruCevap": "Sister",
+          "secenekler": [
+            "Brother",
+            "Uncle",
+            "Father",
+            "Sister"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kiz-kardes-abla"
+          }
+        },
+        {
+          "id": "sa-t6",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ali'nin küçük bir erkek kardeşi var. Erkek kardeş kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Brother",
+          "secenekler": [
+            "Brother",
+            "Sister",
+            "Mother",
+            "Grandfather"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "erkek-kardes-ali"
+          }
+        },
+        {
+          "id": "sa-t7",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Anne, baba ve çocuklardan oluşan topluluğa (Aile) İngilizcede ne denir?",
+          "dogruCevap": "Family",
+          "secenekler": [
+            "Family",
+            "Numbers",
+            "Classroom",
+            "Colors"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aile-foto-test"
+          }
+        },
+        {
+          "id": "sa-t8",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımızdan ayrılırken \"Hoşça kal\" demek için İngilizce hangi kelimeyi söyleriz?",
+          "dogruCevap": "Goodbye",
+          "secenekler": [
+            "Good morning",
+            "Hi",
+            "Hello",
+            "Goodbye"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "okul-ayrilma"
+          }
+        },
+        {
+          "id": "sa-t9",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Uyumadan önce ailemize İngilizce \"İyi geceler\" demek için ne söyleriz?",
+          "dogruCevap": "Good night",
+          "secenekler": [
+            "Hello",
+            "Good morning",
+            "Good afternoon",
+            "Good night"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gece-yatak"
+          }
+        },
+        {
+          "id": "sa-t10",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşımıza kısaca \"Selam\" demek için İngilizce hangi küçük kelimeyi kullanırız?",
+          "dogruCevap": "Hi",
+          "secenekler": [
+            "Good",
+            "Hi",
+            "Bye",
+            "See"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hi-selam"
+          }
+        },
+        {
+          "id": "sa-t11",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Öğleden sonra saatlerinde (Tünaydın demek için) İngilizce hangi ifade kullanılır?",
+          "dogruCevap": "Good afternoon",
+          "secenekler": [
+            "Good night",
+            "Good afternoon",
+            "Goodbye",
+            "Good morning"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ogleden-sonra-park"
+          }
+        },
+        {
+          "id": "sa-t12",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Görüşürüz\" kelimesinin İngilizcesi aşağıdakilerden hangisidir?",
+          "dogruCevap": "See you",
+          "secenekler": [
+            "Hi",
+            "Good morning",
+            "See you",
+            "Hello"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gorusuruz"
+          }
+        },
+        {
+          "id": "sa-t13",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Grandmother\" kelimesinin Türkçedeki anlamı nedir?",
+          "dogruCevap": "Büyükanne (Nine)",
+          "secenekler": [
+            "Erkek kardeş",
+            "Büyükanne (Nine)",
+            "Baba",
+            "Kız kardeş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "buyukanne-resim"
+          }
+        },
+        {
+          "id": "sa-t14",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Dedemize (büyükbabamıza) İngilizce ne deriz?",
+          "dogruCevap": "Grandfather",
+          "secenekler": [
+            "Grandfather",
+            "Father",
+            "Brother",
+            "Sister"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "buyukbaba-resim"
+          }
+        },
+        {
+          "id": "sa-t15",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Evin en küçüğü olan bebeğe İngilizcede ne ad verilir?",
+          "dogruCevap": "Baby",
+          "secenekler": [
+            "Baby",
+            "Grandfather",
+            "Mother",
+            "Teacher"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "neseli-bebek"
+          }
+        },
+        {
+          "id": "sa-t16",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Akşam vakti karşılaştığımız kişilere \"İyi akşamlar\" demek için ne söyleriz?",
+          "dogruCevap": "Good evening",
+          "secenekler": [
+            "Good night",
+            "Good afternoon",
+            "Good morning",
+            "Good evening"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aksam-yemegi-aile"
+          }
+        },
+        {
+          "id": "sa-t17",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"My family\" ifadesi Türkçede ne anlama gelir?",
+          "dogruCevap": "Benim ailem",
+          "secenekler": [
+            "Benim okulum",
+            "Benim sınıfım",
+            "Benim arkadaşlarım",
+            "Benim ailem"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "aile-uyeleri"
+          }
+        },
+        {
+          "id": "sa-t18",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Brother and Sister\" kelimeleri Türkçeye nasıl çevrilir?",
+          "dogruCevap": "Erkek kardeş ve Kız kardeş",
+          "secenekler": [
+            "Büyükanne ve Büyükbaba",
+            "Erkek kardeş ve Kız kardeş",
+            "Öğretmen ve Öğrenci",
+            "Anne ve Baba"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kardes-oyun"
+          }
+        },
+        {
+          "id": "sa-t19",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Bye bye\" ne zaman söylenir?",
+          "dogruCevap": "Birisinden ayrılırken (Hoşça kal derken)",
+          "secenekler": [
+            "Birisinden ayrılırken (Hoşça kal derken)",
+            "Sabah uyanınca",
+            "Birisiyle karşılaşıldığında (Merhaba derken)",
+            "Gece uyurken"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "el-sallayan-kiz"
+          },
+          "sasirtma": true
+        },
+        {
+          "id": "sa-t20",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Mother and Father\" ifadesinin Türkçe karşılığı hangisidir?",
+          "dogruCevap": "Anne ve Baba",
+          "secenekler": [
+            "Teyze ve Amca",
+            "Anne ve Baba",
+            "Dede ve Nine",
+            "Kız kardeş ve Erkek kardeş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "anne-baba"
+          }
+        },
+        {
+          "id": "sa-t21",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sabah kalktığımızda odamıza giren annemize ilk olarak İngilizce ne söyleriz?",
+          "dogruCevap": "Good morning",
+          "secenekler": [
+            "Goodbye",
+            "Good afternoon",
+            "Good night",
+            "Good morning"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gunaydin-cocuk"
+          }
+        },
+        {
+          "id": "sa-t22",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıfa yeni katılan bir arkadaşımıza kendimizi tanıtırken sıcak bir başlangıç için ne demeliyiz?",
+          "dogruCevap": "Hello",
+          "secenekler": [
+            "Bye bye",
+            "See you",
+            "Hello",
+            "Good night"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yeni-ogrenci"
+          }
+        },
+        {
+          "id": "sa-t23",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"I love my family\" cümlesi İngilizcede neyi ifade eder?",
+          "dogruCevap": "Ailemi seviyorum",
+          "secenekler": [
+            "Okulumu seviyorum",
+            "Yemekleri seviyorum",
+            "Ailemi seviyorum",
+            "Renkleri seviyorum"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sarilan-aile"
+          }
+        },
+        {
+          "id": "sa-t24",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Uykudan önce \"Good night\" diyen birisine biz nasıl cevap veririz?",
+          "dogruCevap": "Good night",
+          "secenekler": [
+            "Hello",
+            "Good night",
+            "Good morning",
+            "Good afternoon"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "uyku-kardes"
+          }
+        },
+        {
+          "id": "sa-t25",
+          "kazanimKodu": "ING.2.1.3",
+          "tip": "coktanSecmeli",
+          "soru": "Okul servisine binip annesinden ayrılan çocuk annesine ne der?",
+          "dogruCevap": "Goodbye",
+          "secenekler": [
+            "Good morning",
+            "Goodbye",
+            "Hi",
+            "Hello"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "otobus-cocuk"
+          }
+        }
+      ]
+    },
+    {
+      "id": "basit-diyaloglar",
+      "baslik": "Simple Dialogues",
+      "kazanimKodu": "ING.2.4.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Selin ve Yusuf parkta karşılaştılar. Selin: \"Hello Yusuf! How are you?\" (Nasılsın?). Yusuf: \"I am fine, thank you. And you?\" (Ben iyiyim, ya sen?). Selin: \"I am good, let's play!\" (İyiyim, hadi oynayalım!).",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "bd-anlatim-1"
+            }
+          },
+          {
+            "metin": "Mehmet: \"Can I have an apple, please?\" (Bir elma alabilir miyim?). Bakkal: \"Here you are!\" (Buyurun!). Mehmet: \"Thank you!\" (Teşekkür ederim).",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "bd-anlatim-2"
+            }
+          },
+          {
+            "metin": "Ali: \"May I come in?\" (İçeri girebilir miyim?). Öğretmen: \"Yes, you may.\" (Evet). Öğretmen: \"Stand up!\" (Ayağa kalk). Öğretmen: \"Sit down!\" (Otur).",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "bd-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "bd-a1",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Karşılıklı konuşmalara İngilizcede \".........\" (Dialogue) denir.",
+          "dogruCevap": "diyalog",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "konusma-balonlari"
+          },
+          "alternatifCevaplar": [
+            "dialogue"
+          ]
+        },
+        {
+          "id": "bd-a2",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımıza \"How are you?\" diye sorduğumuzda \"Nasılsın?\" demiş oluruz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "el-sallayan-cocuk"
+          }
+        },
+        {
+          "id": "bd-a3",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"I am fine\" cümlesi Türkçede \"Ben .........\" demektir.",
+          "dogruCevap": "iyiyim",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gulen-cocuk"
+          }
+        },
+        {
+          "id": "bd-a4",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Birisi bize yardım ettiğinde ona mutlaka \"Thank .........\" deriz.",
+          "dogruCevap": "you",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tesekkur-eden"
+          }
+        },
+        {
+          "id": "bd-a5",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "İngilizcede \"Lütfen\" kelimesinin karşılığı \"Please\" kelimesidir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "rica-eden"
+          }
+        },
+        {
+          "id": "bd-a6",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Arkadaşımıza \"Let's play!\" dediğimizde \"Hadi .........!\" demiş oluruz.",
+          "dogruCevap": "oynayalım",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "top-oynayan-ikili"
+          },
+          "alternatifCevaplar": [
+            "oynayalim"
+          ]
+        },
+        {
+          "id": "bd-a7",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Bir eşyayı verirken \"Buyurun\" demek için \"Here you are\" deriz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "elma-uzatan-bakkal"
+          }
+        },
+        {
+          "id": "bd-a8",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Sınıfa girmek için izin isterken \"May I come .........?\" diye sorarız.",
+          "dogruCevap": "in",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kapi-calan-ogrenci"
+          }
+        },
+        {
+          "id": "bd-a9",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Öğretmenimiz \"Stand up!\" dediğinde sıralarımıza otururuz.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ayaga-kalkan-sinif"
+          }
+        },
+        {
+          "id": "bd-a10",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Sıramıza oturmamız söylendiğinde İngilizce \"Sit .........\" kelimesi kullanılır.",
+          "dogruCevap": "down",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "oturan-ogrenci"
+          }
+        },
+        {
+          "id": "bd-a11",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Bize teşekkür eden birisine \"Rica ederim\" demek için \"You are .........\" deriz.",
+          "dogruCevap": "welcome",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hediye-alan-kiz"
+          }
+        },
+        {
+          "id": "bd-a12",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "İngilizce diyalog kurmak İngilizce konuşmayı öğrenmemizi sağlar.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "neseli-iki-arkadas"
+          }
+        },
+        {
+          "id": "bd-a13",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Diyaloglar genellikle \".........\" veya \"Hi\" (Merhaba) diyerek başlar.",
+          "dogruCevap": "Hello",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hello-diyen"
+          },
+          "alternatifCevaplar": [
+            "hello",
+            "Hi",
+            "hi"
+          ]
+        },
+        {
+          "id": "bd-a14",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Konuşmayı bitirip ayrılırken birbirimize \"Goodbye\" deriz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "goodbye-yazisi"
+          }
+        },
+        {
+          "id": "bd-a15",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"I am fine\" kelimesi \"Hastayım\" anlamına gelir.",
+          "dogruCevap": "Yanlış",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Hayır",
+            "hayır",
+            "yanlış"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "uzgun-yuz"
+          }
+        },
+        {
+          "id": "bd-a16",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "İstemek ve rica etmek için kullandığımız nazik kelime \".........\" (Lütfen)'dir.",
+          "dogruCevap": "please",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "please-kelimesi"
+          }
+        },
+        {
+          "id": "bd-a17",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Catch the ball\" ifadesi \"Topu .........\" anlamına gelir.",
+          "dogruCevap": "yakala",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "top-firlatilan"
+          }
+        },
+        {
+          "id": "bd-a18",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Kapıdan içeri girmeden önce kapıyı çalmak güzel bir nezaket kuralıdır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kapi-resmi"
+          }
+        },
+        {
+          "id": "bd-a19",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Can I have an apple?\" sorusu \"Bir elma alabilir miyim?\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kirmizi-elma-diyalog"
+          }
+        },
+        {
+          "id": "bd-a20",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Karşılıklı konuşmalarda sırayla konuşmak ve birbirimizi ......... (dinlemek) önemlidir.",
+          "dogruCevap": "dinlemek",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "iki-konusan-cocuk"
+          }
+        },
+        {
+          "id": "bd-a21",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"Stand up\" ve \"......... down\" birbirinin tersi (zıt) hareketlerdir.",
+          "dogruCevap": "Sit",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "otur-kalk-oklar"
+          }
+        },
+        {
+          "id": "bd-a22",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Öğretmenimiz \"Yes, you may\" diyerek bize izin verdiğini söyler.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gulumsen-ogretmen"
+          }
+        },
+        {
+          "id": "bd-a23",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "\"How are you?\" sorusuna vereceğimiz en güzel cevap \"I am .........\" (İyiyim) olur.",
+          "dogruCevap": "fine",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "iyiyim-isareti"
+          },
+          "alternatifCevaplar": [
+            "fine",
+            "good",
+            "Fine",
+            "Good"
+          ]
+        },
+        {
+          "id": "bd-a24",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "İngilizce konuşurken gülümsemek karşımızdakini çok mutlu eder.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "goz-kirpan"
+          }
+        },
+        {
+          "id": "bd-a25",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "yazili",
+          "soru": "Küçük ve basit konuşmalara İngilizcede \"Simple .........\" (Dialogues) denir.",
+          "dogruCevap": "Dialogues",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "konusma-balonu"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "bd-t1",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Parkta karşılaştığınız arkadaşınız size \"How are you?\" diye sorarsa ne cevap verirsiniz?",
+          "dogruCevap": "I am fine, thank you.",
+          "secenekler": [
+            "Open the door.",
+            "Goodbye.",
+            "It is an apple.",
+            "I am fine, thank you."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "karsilasan-arkadaslar"
+          }
+        },
+        {
+          "id": "bd-t2",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"How are you?\" sorusunun Türkçe anlamı nedir?",
+          "dogruCevap": "Nasılsın?",
+          "secenekler": [
+            "Nasılsın?",
+            "Kaç yaşındasın?",
+            "Neredesin?",
+            "Adın ne?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "soru-isareti"
+          }
+        },
+        {
+          "id": "bd-t3",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Size kalemini ödünç veren arkadaşınıza İngilizce ne söylersiniz?",
+          "dogruCevap": "Thank you!",
+          "secenekler": [
+            "Stand up!",
+            "Thank you!",
+            "Sit down!",
+            "May I come in?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tesekkur-eden"
+          }
+        },
+        {
+          "id": "bd-t4",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Thank you\" diyen birine \"Rica ederim\" diye cevap vermek için hangisi söylenir?",
+          "dogruCevap": "You are welcome!",
+          "secenekler": [
+            "You are welcome!",
+            "Let's play!",
+            "See you!",
+            "Goodbye!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "rica-eden-kiz"
+          }
+        },
+        {
+          "id": "bd-t5",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "İngilizcede \"Lütfen\" kelimesinin karşılığı hangisidir?",
+          "dogruCevap": "Please",
+          "secenekler": [
+            "Thank you",
+            "Please",
+            "Hello",
+            "Sorry"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "lutfen-diyen"
+          }
+        },
+        {
+          "id": "bd-t6",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Bakkaldan elma isterken \"Can I have an apple, .........?\" cümlesindeki boşluğa hangi nazik kelime gelmelidir?",
+          "dogruCevap": "Please",
+          "secenekler": [
+            "Goodbye",
+            "Please",
+            "Up",
+            "Down"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bakkal-elma"
+          }
+        },
+        {
+          "id": "bd-t7",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Size istenilen bir şeyi (örneğin elmayı) uzatırken \"Buyurun\" demek için İngilizce ne denir?",
+          "dogruCevap": "Here you are!",
+          "secenekler": [
+            "Catch the ball!",
+            "Here you are!",
+            "Sit down!",
+            "May I come in!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "esya-uzatan"
+          }
+        },
+        {
+          "id": "bd-t8",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Derse geç kaldığınızda kapıyı çalıp \"İçeri girebilir miyim?\" demek için hangi soruyu sorarsınız?",
+          "dogruCevap": "May I come in?",
+          "secenekler": [
+            "Let's play?",
+            "How are you?",
+            "What is this?",
+            "May I come in?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kapi-calan"
+          }
+        },
+        {
+          "id": "bd-t9",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Öğretmen sınıfa girdiğinde saygı için \"Ayağa kalk\" demek istediğinde ne söyler?",
+          "dogruCevap": "Stand up!",
+          "secenekler": [
+            "Sit down!",
+            "Eat!",
+            "Stand up!",
+            "Sleep!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ayaga-kalkan-sinif"
+          }
+        },
+        {
+          "id": "bd-t10",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Sit down\" kelimesinin Türkçedeki komut anlamı nedir?",
+          "dogruCevap": "Otur",
+          "secenekler": [
+            "Ayağa kalk",
+            "Otur",
+            "Zıpla",
+            "Koş"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sandalyeye-oturan"
+          }
+        },
+        {
+          "id": "bd-t11",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arkadaşınıza \"Hadi oynayalım!\" demek için İngilizce ne söylersiniz?",
+          "dogruCevap": "Let's play!",
+          "secenekler": [
+            "Let's sleep!",
+            "Let's read!",
+            "Let's write!",
+            "Let's play!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "top-oynayan-ikili"
+          }
+        },
+        {
+          "id": "bd-t12",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Oyunda arkadaşınıza \"Topu yakala!\" demek isterseniz hangi cümleyi kurarsınız?",
+          "dogruCevap": "Catch the ball!",
+          "secenekler": [
+            "Catch the ball!",
+            "Open the door!",
+            "Drink water!",
+            "Read the book!"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "top-firlatilan"
+          }
+        },
+        {
+          "id": "bd-t13",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"I am fine\" cümlesinin Türkçe çevirisi nedir?",
+          "dogruCevap": "Ben iyiyim",
+          "secenekler": [
+            "Ben yorgunum",
+            "Ben iyiyim",
+            "Ben uyuyorum",
+            "Ben kötüyüm"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gulumseyen-yuz"
+          }
+        },
+        {
+          "id": "bd-t14",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Konuşmayı bitirip vedalaşırken söylenen \"Goodbye\" kelimesi ne demektir?",
+          "dogruCevap": "Hoşça kal",
+          "secenekler": [
+            "Hoşça kal",
+            "Merhaba",
+            "Günaydın",
+            "Lütfen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "okul-kapisindan-cikan"
+          }
+        },
+        {
+          "id": "bd-t15",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Karşılıklı iki kişinin konuşmasına İngilizcede ne ad verilir?",
+          "dogruCevap": "Dialogue",
+          "secenekler": [
+            "Dialogue",
+            "Color",
+            "Animal",
+            "Number"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "konusma-balonu-dialogue"
+          }
+        },
+        {
+          "id": "bd-t16",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"I am fine, thank you. And you?\" cümlesindeki \"And you?\" ne anlama gelir?",
+          "dogruCevap": "Ya sen (nasılsın)?",
+          "secenekler": [
+            "Sen kimsin?",
+            "Saat kaç?",
+            "Benim adım ne?",
+            "Ya sen (nasılsın)?"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "and-you-sorusu"
+          }
+        },
+        {
+          "id": "bd-t17",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Biriyle konuşurken (Diyalog kurarken) nereye bakmalıyız?",
+          "dogruCevap": "Karşımızdaki kişinin gözlerine",
+          "secenekler": [
+            "Karşımızdaki kişinin gözlerine",
+            "Yere",
+            "Havaya",
+            "Arkamıza"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "goz-temasi"
+          }
+        },
+        {
+          "id": "bd-t18",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "İnsanlara \"Please\" ve \"Thank you\" demek bizi nasıl biri yapar?",
+          "dogruCevap": "Nazik ve saygılı biri yapar",
+          "secenekler": [
+            "Komik biri yapar",
+            "Nazik ve saygılı biri yapar",
+            "Şaşkın biri yapar",
+            "Kaba biri yapar"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "neseli-arkadas"
+          }
+        },
+        {
+          "id": "bd-t19",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Can I have a toy, please?\" cümlesinde çocuk ne rica etmektedir?",
+          "dogruCevap": "Bir oyuncak",
+          "secenekler": [
+            "Bir kitap",
+            "Bir elma",
+            "Bir kalem",
+            "Bir oyuncak"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "oyuncak-ayi"
+          }
+        },
+        {
+          "id": "bd-t20",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Yes, you may.\" cümlesi Türkçede ne anlama gelir?",
+          "dogruCevap": "Evet, yapabilirsin (İzin veriyorum).",
+          "secenekler": [
+            "Bilmiyorum.",
+            "Evet, yapabilirsin (İzin veriyorum).",
+            "Belki.",
+            "Hayır, yapamazsın."
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "izin-veren-ogretmen"
+          }
+        },
+        {
+          "id": "bd-t21",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Stand up\" cümlesindeki \"Up\" kelimesi hangi yönü belirtir?",
+          "dogruCevap": "Yukarı",
+          "secenekler": [
+            "Yukarı",
+            "Aşağı",
+            "Sağ",
+            "Sol"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yukari-ok"
+          }
+        },
+        {
+          "id": "bd-t22",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Sit down\" cümlesindeki \"Down\" kelimesi hangi yönü belirtir?",
+          "dogruCevap": "Aşağı",
+          "secenekler": [
+            "Yukarı",
+            "Aşağı",
+            "Geri",
+            "İleri"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "asagi-ok"
+          }
+        },
+        {
+          "id": "bd-t23",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "İngilizce bir konuşma (diyalog) genellikle hangi kelimeyle başlar?",
+          "dogruCevap": "Hello / Hi",
+          "secenekler": [
+            "Goodbye",
+            "Please",
+            "Thank you",
+            "Hello / Hi"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hello-yazisi"
+          }
+        },
+        {
+          "id": "bd-t24",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "Sınıf içinde kurallara uymak ve nazik olmak neden çok önemlidir?",
+          "dogruCevap": "Derslerin eğlenceli ve huzurlu geçmesi için",
+          "secenekler": [
+            "Hiç önemli değildir",
+            "Derslerin eğlenceli ve huzurlu geçmesi için",
+            "Çabuk yorulmak için",
+            "Sadece öğretmenden korktuğumuz için"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ogretmen-masasi-diyalog"
+          }
+        },
+        {
+          "id": "bd-t25",
+          "kazanimKodu": "ING.2.4.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Simple Dialogues\" Türkçede ne anlama gelir?",
+          "dogruCevap": "Basit karşılıklı konuşmalar",
+          "secenekler": [
+            "Zor şarkılar",
+            "Basit karşılıklı konuşmalar",
+            "Uzun şiirler",
+            "Renkli resimler"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mutlu-konusan"
+          }
+        }
+      ]
+    }
+  ]
+}

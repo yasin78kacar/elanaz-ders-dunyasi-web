@@ -1,0 +1,1914 @@
+{
+  "id": "tema-9",
+  "baslik": "İngilizce — Tema 9",
+  "konular": [
+    {
+      "id": "tatiller",
+      "baslik": "Holidays",
+      "kazanimKodu": "ING.2.9.1",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Noel yaklaşıyordu. Sınıfı süslediler. \"Merry Christmas!\" dediler birbirlerine. Tatiller hep sevinç getirirdi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "tt-anlatim-1"
+            }
+          },
+          {
+            "metin": "Elanaz'ın doğum günüydü. \"Happy Birthday!\" diye şarkı söylediler. Pasta ve balonlar vardı. Kutlamak çok eğlenceliydi!",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "tt-anlatim-2"
+            }
+          },
+          {
+            "metin": "Yaz tatili başladı. \"Summer holiday is here!\" dedi Berk. Denize gittiler. Tatil dinlenmek için güzeldi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "tt-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "tt-a1",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Tatil kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "holiday",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tatil-plaj"
+          }
+        },
+        {
+          "id": "tt-a2",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Noel İngilizcede \"Christmas\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "noel-agaci"
+          }
+        },
+        {
+          "id": "tt-a3",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Doğum günü kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "birthday",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dogum-gunu-pasta"
+          }
+        },
+        {
+          "id": "tt-a4",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Yeni Yıl İngilizcede \"New Year\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yeni-yil"
+          }
+        },
+        {
+          "id": "tt-a5",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Bayram kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "festival",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "bayram-kutlama"
+          }
+        },
+        {
+          "id": "tt-a6",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Paskalya İngilizcede \"Easter\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "paskalya-yumurtasi"
+          }
+        },
+        {
+          "id": "tt-a7",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Hediye kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "gift",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hediye-paketi"
+          }
+        },
+        {
+          "id": "tt-a8",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Doğum gününde pasta kesilir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dogum-gunu-pasta"
+          }
+        },
+        {
+          "id": "tt-a9",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Kutlama kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "celebration",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kutlama-partisi"
+          }
+        },
+        {
+          "id": "tt-a10",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Cadılar Bayramı İngilizcede \"Halloween\" denir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cadilar-bayrami"
+          }
+        },
+        {
+          "id": "tt-a11",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Sevgililer Günü İngilizcede \".........\" Day olarak söylenir.",
+          "dogruCevap": "Valentine",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sevgililer-gunu"
+          }
+        },
+        {
+          "id": "tt-a12",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Yaz tatili \"Summer holiday\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yaz-tatili"
+          }
+        },
+        {
+          "id": "tt-a13",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "yazili",
+          "soru": "Balon kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "balloon",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dogum-gunu-balon"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "tt-t1",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Tatil kelimesinin İngilizcesi nedir?",
+          "dogruCevap": "Holiday",
+          "secenekler": [
+            "Work",
+            "School",
+            "Holiday",
+            "Sport"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "tatil-plaj"
+          }
+        },
+        {
+          "id": "tt-t2",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Noelin İngilizcesi nedir?",
+          "dogruCevap": "Christmas",
+          "secenekler": [
+            "Easter",
+            "Halloween",
+            "Christmas",
+            "Birthday"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "noel-agaci"
+          }
+        },
+        {
+          "id": "tt-t3",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Doğum gününün İngilizcesi nedir?",
+          "dogruCevap": "Birthday",
+          "secenekler": [
+            "Holiday",
+            "Party",
+            "Festival",
+            "Birthday"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dogum-gunu-pasta"
+          }
+        },
+        {
+          "id": "tt-t4",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yeni Yılın İngilizcesi nedir?",
+          "dogruCevap": "New Year",
+          "secenekler": [
+            "Summer",
+            "Christmas",
+            "New Year",
+            "Easter"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yeni-yil"
+          }
+        },
+        {
+          "id": "tt-t5",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Hediyenin İngilizcesi nedir?",
+          "dogruCevap": "Gift",
+          "secenekler": [
+            "Tree",
+            "Balloon",
+            "Candle",
+            "Gift"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hediye-paketi"
+          }
+        },
+        {
+          "id": "tt-t6",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Paskalyanın İngilizcesi nedir?",
+          "dogruCevap": "Easter",
+          "secenekler": [
+            "Christmas",
+            "Valentine",
+            "Halloween",
+            "Easter"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "paskalya-yumurtasi"
+          }
+        },
+        {
+          "id": "tt-t7",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Cadılar Bayramının İngilizcesi nedir?",
+          "dogruCevap": "Halloween",
+          "secenekler": [
+            "Christmas",
+            "Halloween",
+            "Birthday",
+            "Easter"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "cadilar-bayrami"
+          }
+        },
+        {
+          "id": "tt-t8",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Partinin İngilizcesi nedir?",
+          "dogruCevap": "Party",
+          "secenekler": [
+            "Sport",
+            "School",
+            "Party",
+            "Work"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kutlama-partisi"
+          }
+        },
+        {
+          "id": "tt-t9",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Noel Babanın İngilizcesi nedir?",
+          "dogruCevap": "Santa Claus",
+          "secenekler": [
+            "Teacher",
+            "Pilot",
+            "Santa Claus",
+            "Doctor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "noel-baba"
+          }
+        },
+        {
+          "id": "tt-t10",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Yaz tatilinin İngilizcesi nedir?",
+          "dogruCevap": "Summer holiday",
+          "secenekler": [
+            "Summer holiday",
+            "Work day",
+            "School day",
+            "Winter holiday"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yaz-tatili"
+          }
+        },
+        {
+          "id": "tt-t11",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Balonun İngilizcesi nedir?",
+          "dogruCevap": "Balloon",
+          "secenekler": [
+            "Candle",
+            "Balloon",
+            "Cake",
+            "Gift"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "dogum-gunu-balon"
+          }
+        },
+        {
+          "id": "tt-t12",
+          "kazanimKodu": "ING.2.9.1",
+          "tip": "coktanSecmeli",
+          "soru": "Mumun İngilizcesi nedir?",
+          "dogruCevap": "Candle",
+          "secenekler": [
+            "Pen",
+            "Book",
+            "Candle",
+            "Ball"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "pasta-mumlari"
+          }
+        }
+      ]
+    },
+    {
+      "id": "odalar",
+      "baslik": "Rooms",
+      "kazanimKodu": "ING.2.9.2",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Elanaz evini tanıttı. \"This is my bedroom. This is the kitchen.\" Her odanın bir adı vardı. Ev çok sıcaktı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "od-anlatim-1"
+            }
+          },
+          {
+            "metin": "Banyoda dişlerini fırçaladı. Oturma odasında ailesiyle TV izledi. \"I love my house!\" dedi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "od-anlatim-2"
+            }
+          },
+          {
+            "metin": "Bahçede oynadılar. \"The garden is beautiful!\" dedi Berk. Evin her odası farklıydı ve hepsi güzeldi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "od-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "od-a1",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Yatak odası kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "bedroom",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yatak-odasi"
+          }
+        },
+        {
+          "id": "od-a2",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Mutfak İngilizcede \"Kitchen\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mutfak"
+          }
+        },
+        {
+          "id": "od-a3",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Banyo kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "bathroom",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "banyo"
+          }
+        },
+        {
+          "id": "od-a4",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Oturma odası İngilizcede \"Living room\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "oturma-odasi"
+          }
+        },
+        {
+          "id": "od-a5",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Oda kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "room",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ev-odalari"
+          }
+        },
+        {
+          "id": "od-a6",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Yemek odasında yemek yenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yemek-odasi"
+          }
+        },
+        {
+          "id": "od-a7",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Balkon kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "balcony",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "balkon"
+          }
+        },
+        {
+          "id": "od-a8",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Garaj arabaların park ettiği yerdir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "garaj"
+          }
+        },
+        {
+          "id": "od-a9",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Merdiven kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "stairs",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "merdiven"
+          }
+        },
+        {
+          "id": "od-a10",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Koridor İngilizcede \"Hallway\" denir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "koridor"
+          }
+        },
+        {
+          "id": "od-a11",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Çalışma odası İngilizcede \".........\" room kelimesidir.",
+          "dogruCevap": "study",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "calisma-odasi"
+          }
+        },
+        {
+          "id": "od-a12",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Yatak odasında uyuruz.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yatak-odasi"
+          }
+        },
+        {
+          "id": "od-a13",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "yazili",
+          "soru": "Kapı kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "door",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kapi"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "od-t1",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Uyuduğumuz odanın İngilizcesi nedir?",
+          "dogruCevap": "Bedroom",
+          "secenekler": [
+            "Garage",
+            "Bathroom",
+            "Kitchen",
+            "Bedroom"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yatak-odasi"
+          }
+        },
+        {
+          "id": "od-t2",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yemek pişirilen odanın İngilizcesi nedir?",
+          "dogruCevap": "Kitchen",
+          "secenekler": [
+            "Garage",
+            "Kitchen",
+            "Garden",
+            "Bedroom"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "mutfak"
+          }
+        },
+        {
+          "id": "od-t3",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Duş aldığımız odanın İngilizcesi nedir?",
+          "dogruCevap": "Bathroom",
+          "secenekler": [
+            "Kitchen",
+            "Balcony",
+            "Bedroom",
+            "Bathroom"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "banyo"
+          }
+        },
+        {
+          "id": "od-t4",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "TV izlediğimiz odanın İngilizcesi nedir?",
+          "dogruCevap": "Living room",
+          "secenekler": [
+            "Garden",
+            "Kitchen",
+            "Living room",
+            "Garage"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "oturma-odasi"
+          }
+        },
+        {
+          "id": "od-t5",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "\"Room\" kelimesinin anlamı nedir?",
+          "dogruCevap": "Oda",
+          "secenekler": [
+            "Ev",
+            "Pencere",
+            "Kapı",
+            "Oda"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ev-odalari"
+          }
+        },
+        {
+          "id": "od-t6",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Yemek yenilen odanın İngilizcesi nedir?",
+          "dogruCevap": "Dining room",
+          "secenekler": [
+            "Garage",
+            "Bathroom",
+            "Bedroom",
+            "Dining room"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yemek-odasi"
+          }
+        },
+        {
+          "id": "od-t7",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Balkonun İngilizcesi nedir?",
+          "dogruCevap": "Balcony",
+          "secenekler": [
+            "Balcony",
+            "Stairs",
+            "Bedroom",
+            "Kitchen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "balkon"
+          }
+        },
+        {
+          "id": "od-t8",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Arabanın park ettiği yerin İngilizcesi nedir?",
+          "dogruCevap": "Garage",
+          "secenekler": [
+            "Bedroom",
+            "Garage",
+            "Garden",
+            "Kitchen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "garaj"
+          }
+        },
+        {
+          "id": "od-t9",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Merdivenin İngilizcesi nedir?",
+          "dogruCevap": "Stairs",
+          "secenekler": [
+            "Window",
+            "Stairs",
+            "Balcony",
+            "Door"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "merdiven"
+          }
+        },
+        {
+          "id": "od-t10",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Koridorun İngilizcesi nedir?",
+          "dogruCevap": "Hallway",
+          "secenekler": [
+            "Garden",
+            "Hallway",
+            "Kitchen",
+            "Garage"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "koridor"
+          }
+        },
+        {
+          "id": "od-t11",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Çalışma odasının İngilizcesi nedir?",
+          "dogruCevap": "Study room",
+          "secenekler": [
+            "Study room",
+            "Balcony",
+            "Bathroom",
+            "Garage"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "calisma-odasi"
+          }
+        },
+        {
+          "id": "od-t12",
+          "kazanimKodu": "ING.2.9.2",
+          "tip": "coktanSecmeli",
+          "soru": "Kapının İngilizcesi nedir?",
+          "dogruCevap": "Door",
+          "secenekler": [
+            "Wall",
+            "Window",
+            "Floor",
+            "Door"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "kapi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dersler",
+      "baslik": "School Subjects",
+      "kazanimKodu": "ING.2.9.3",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Ders programına baktılar. \"Math, Science, English, Art!\" dedi Elanaz. Her gün farklı dersler vardı. Okul çok eğlenceliydi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "dr-anlatim-1"
+            }
+          },
+          {
+            "metin": "Müzik dersinde şarkı söylediler. Resim dersinde boyadılar. \"I love Art class!\" dedi Berk. Her ders farklıydı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "dr-anlatim-2"
+            }
+          },
+          {
+            "metin": "Beden eğitiminde koştular. Fen dersinde deney yaptılar. \"School subjects are fun!\" dediler.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "dr-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "dr-a1",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Matematik dersinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "math",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "matematik-dersi"
+          }
+        },
+        {
+          "id": "dr-a2",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Fen bilimleri İngilizcede \"Science\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "fen-dersi"
+          }
+        },
+        {
+          "id": "dr-a3",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Türkçe dersinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "Turkish",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turkce-dersi"
+          }
+        },
+        {
+          "id": "dr-a4",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "İngilizce dersi \"English\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ingilizce-dersi"
+          }
+        },
+        {
+          "id": "dr-a5",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Müzik dersinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "music",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "muzik-dersi"
+          }
+        },
+        {
+          "id": "dr-a6",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Resim dersi İngilizcede \"Art\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "resim-dersi"
+          }
+        },
+        {
+          "id": "dr-a7",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Beden eğitimi İngilizcede \"PE\" veya \".........\" education kelimesidir.",
+          "dogruCevap": "physical",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "beden-egitimi"
+          }
+        },
+        {
+          "id": "dr-a8",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Sosyal bilgiler İngilizcede \"Social studies\" denir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sosyal-dersi"
+          }
+        },
+        {
+          "id": "dr-a9",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Ders kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "lesson",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ders-programi"
+          }
+        },
+        {
+          "id": "dr-a10",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Hayat bilgisi dersi okulda işlenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "hayat-dersi"
+          }
+        },
+        {
+          "id": "dr-a11",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Ders programı İngilizcede \".........\" table kelimesidir.",
+          "dogruCevap": "timetable",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ders-programi"
+          }
+        },
+        {
+          "id": "dr-a12",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Görsel sanatlar İngilizcede \"Visual arts\" denir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "gorsel-sanatlar-ders"
+          }
+        },
+        {
+          "id": "dr-a13",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "yazili",
+          "soru": "Okuma dersinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "reading",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "okuma-dersi"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "dr-t1",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sayıların öğrenildiği dersin İngilizcesi nedir?",
+          "dogruCevap": "Math",
+          "secenekler": [
+            "Music",
+            "Art",
+            "Math",
+            "PE"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "matematik-dersi"
+          }
+        },
+        {
+          "id": "dr-t2",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Deneylerin yapıldığı dersin İngilizcesi nedir?",
+          "dogruCevap": "Science",
+          "secenekler": [
+            "Math",
+            "Art",
+            "Science",
+            "Music"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "fen-dersi"
+          }
+        },
+        {
+          "id": "dr-t3",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Türkçe dersinin İngilizcesi nedir?",
+          "dogruCevap": "Turkish",
+          "secenekler": [
+            "Turkish",
+            "English",
+            "Math",
+            "Art"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "turkce-dersi"
+          }
+        },
+        {
+          "id": "dr-t4",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yabancı dil dersinin İngilizcesi nedir?",
+          "dogruCevap": "English",
+          "secenekler": [
+            "Science",
+            "Math",
+            "English",
+            "Turkish"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ingilizce-dersi"
+          }
+        },
+        {
+          "id": "dr-t5",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Şarkı söylenen dersin İngilizcesi nedir?",
+          "dogruCevap": "Music",
+          "secenekler": [
+            "Math",
+            "Music",
+            "Science",
+            "PE"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "muzik-dersi"
+          }
+        },
+        {
+          "id": "dr-t6",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Boyama yapılan dersin İngilizcesi nedir?",
+          "dogruCevap": "Art",
+          "secenekler": [
+            "Art",
+            "Science",
+            "Math",
+            "PE"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "resim-dersi"
+          }
+        },
+        {
+          "id": "dr-t7",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Spor yapılan dersin İngilizcesi nedir?",
+          "dogruCevap": "PE",
+          "secenekler": [
+            "Art",
+            "Music",
+            "Math",
+            "PE"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "beden-egitimi"
+          }
+        },
+        {
+          "id": "dr-t8",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "\"Subjects\" kelimesinin anlamı nedir?",
+          "dogruCevap": "Dersler",
+          "secenekler": [
+            "Okul",
+            "Dersler",
+            "Ev",
+            "Spor"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ders-panosu"
+          }
+        },
+        {
+          "id": "dr-t9",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Ders programının İngilizcesi nedir?",
+          "dogruCevap": "Timetable",
+          "secenekler": [
+            "Blackboard",
+            "Chair",
+            "Timetable",
+            "Window"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "ders-programi"
+          }
+        },
+        {
+          "id": "dr-t10",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Okuma dersinin İngilizcesi nedir?",
+          "dogruCevap": "Reading",
+          "secenekler": [
+            "Art",
+            "Writing",
+            "Math",
+            "Reading"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "okuma-dersi"
+          }
+        },
+        {
+          "id": "dr-t11",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Yazma dersinin İngilizcesi nedir?",
+          "dogruCevap": "Writing",
+          "secenekler": [
+            "Reading",
+            "PE",
+            "Writing",
+            "Math"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "yazma-dersi"
+          }
+        },
+        {
+          "id": "dr-t12",
+          "kazanimKodu": "ING.2.9.3",
+          "tip": "coktanSecmeli",
+          "soru": "Sosyal bilgilerin İngilizcesi nedir?",
+          "dogruCevap": "Social studies",
+          "secenekler": [
+            "Science",
+            "Math",
+            "Social studies",
+            "Art"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sosyal-dersi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sayilar-11-20",
+      "baslik": "Numbers 11-20",
+      "kazanimKodu": "ING.2.9.4",
+      "anlatim": {
+        "ekranlar": [
+          {
+            "metin": "Sınıfta sayıları öğreniyorlardı. \"Eleven, twelve, thirteen!\" diye saydılar. 11'den 20'ye kadar her sayının İngilizce adı vardı.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sy-anlatim-1"
+            }
+          },
+          {
+            "metin": "Tahtada sayılar yazılıydı. \"Fourteen, fifteen, sixteen!\" Berk de saydı. Saymak İngilizcede de eğlenceliydi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sy-anlatim-2"
+            }
+          },
+          {
+            "metin": "17, 18, 19, 20! Son sayıya ulaştılar. \"We can count to twenty in English!\" dediler. Sayılar her yerdeydi.",
+            "gorsel": {
+              "tur": "ingilizce",
+              "mod": "anlatim",
+              "sahne": "sy-anlatim-3"
+            }
+          }
+        ]
+      },
+      "alistirma": [
+        {
+          "id": "sy-a1",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On bir kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "eleven",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-11"
+          }
+        },
+        {
+          "id": "sy-a2",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On iki İngilizcede \"Twelve\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-12"
+          }
+        },
+        {
+          "id": "sy-a3",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On üç kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "thirteen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-13"
+          }
+        },
+        {
+          "id": "sy-a4",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On dört İngilizcede \"Fourteen\" olarak söylenir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-14"
+          }
+        },
+        {
+          "id": "sy-a5",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On beş kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "fifteen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-15"
+          }
+        },
+        {
+          "id": "sy-a6",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On altı İngilizcede \"Sixteen\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-16"
+          }
+        },
+        {
+          "id": "sy-a7",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On yedi kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "seventeen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-17"
+          }
+        },
+        {
+          "id": "sy-a8",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On sekiz İngilizcede \"Eighteen\" olarak yazılır.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-18"
+          }
+        },
+        {
+          "id": "sy-a9",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On dokuz kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "nineteen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-19"
+          }
+        },
+        {
+          "id": "sy-a10",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "Yirmi İngilizcede \"Twenty\" demektir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-20"
+          }
+        },
+        {
+          "id": "sy-a11",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "Sayı kelimesinin İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "number",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayilar-1-20"
+          }
+        },
+        {
+          "id": "sy-a12",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "11'den sonra 12 gelir.",
+          "dogruCevap": "Doğru",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "alternatifCevaplar": [
+            "Evet",
+            "evet",
+            "doğru"
+          ],
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-12"
+          }
+        },
+        {
+          "id": "sy-a13",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "yazili",
+          "soru": "On beşten sonra on altı gelir. İngilizcesi ......... kelimesidir.",
+          "dogruCevap": "sixteen",
+          "ipucu": "",
+          "cevapTipi": "metin",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-16"
+          }
+        }
+      ],
+      "test": [
+        {
+          "id": "sy-t1",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "11 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Eleven",
+          "secenekler": [
+            "Twelve",
+            "Eleven",
+            "Ten",
+            "Thirteen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-11"
+          }
+        },
+        {
+          "id": "sy-t2",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "12 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Twelve",
+          "secenekler": [
+            "Fourteen",
+            "Twelve",
+            "Eleven",
+            "Thirteen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-12"
+          }
+        },
+        {
+          "id": "sy-t3",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "13 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Thirteen",
+          "secenekler": [
+            "Fifteen",
+            "Twelve",
+            "Thirteen",
+            "Fourteen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-13"
+          }
+        },
+        {
+          "id": "sy-t4",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "14 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Fourteen",
+          "secenekler": [
+            "Fourteen",
+            "Thirteen",
+            "Fifteen",
+            "Sixteen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-14"
+          }
+        },
+        {
+          "id": "sy-t5",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "15 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Fifteen",
+          "secenekler": [
+            "Fifteen",
+            "Sixteen",
+            "Seventeen",
+            "Fourteen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-15"
+          }
+        },
+        {
+          "id": "sy-t6",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "16 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Sixteen",
+          "secenekler": [
+            "Fifteen",
+            "Seventeen",
+            "Sixteen",
+            "Eighteen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-16"
+          }
+        },
+        {
+          "id": "sy-t7",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "17 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Seventeen",
+          "secenekler": [
+            "Nineteen",
+            "Seventeen",
+            "Sixteen",
+            "Eighteen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-17"
+          }
+        },
+        {
+          "id": "sy-t8",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "18 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Eighteen",
+          "secenekler": [
+            "Nineteen",
+            "Eighteen",
+            "Seventeen",
+            "Twenty"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-18"
+          }
+        },
+        {
+          "id": "sy-t9",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "19 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Nineteen",
+          "secenekler": [
+            "Eighteen",
+            "Eleven",
+            "Nineteen",
+            "Twenty"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-19"
+          }
+        },
+        {
+          "id": "sy-t10",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "20 sayısının İngilizcesi nedir?",
+          "dogruCevap": "Twenty",
+          "secenekler": [
+            "Nineteen",
+            "Ten",
+            "Twenty",
+            "Fifteen"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-20"
+          }
+        },
+        {
+          "id": "sy-t11",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "\"Number\" kelimesinin anlamı nedir?",
+          "dogruCevap": "Sayı",
+          "secenekler": [
+            "Yemek",
+            "Sayı",
+            "Hayvan",
+            "Renk"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayilar-1-20"
+          }
+        },
+        {
+          "id": "sy-t12",
+          "kazanimKodu": "ING.2.9.4",
+          "tip": "coktanSecmeli",
+          "soru": "10'dan sonra hangi sayı gelir?",
+          "dogruCevap": "Eleven",
+          "secenekler": [
+            "Eleven",
+            "Twenty",
+            "Nine",
+            "Ten"
+          ],
+          "ipucu": "",
+          "gorsel": {
+            "tur": "ingilizce",
+            "mod": "nesne",
+            "nesne": "sayi-11"
+          }
+        }
+      ]
+    }
+  ]
+}
