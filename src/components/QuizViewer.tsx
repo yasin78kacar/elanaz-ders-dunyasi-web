@@ -14,7 +14,6 @@ interface Question {
 const QuizViewer: React.FC = () => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState('Matematik');
-  const [selectedTheme] = useState('');
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [loading, setLoading] = useState(true);
@@ -24,16 +23,14 @@ const QuizViewer: React.FC = () => {
 
   useEffect(() => {
     loadQuestions();
-  }, [selectedSubject, selectedTheme]);
+  }, [selectedSubject]);
 
   const loadQuestions = async () => {
     try {
       setLoading(true);
       setError(null);
       
-      const dataPath = selectedTheme 
-        ? `/data/${selectedSubject.toLowerCase()}/${selectedTheme}.json`
-        : `/data/${selectedSubject.toLowerCase()}/tema1.json
+      const dataPath = `/data/${selectedSubject.toLowerCase()}/tema1.json`;
       
       const response = await fetch(dataPath);
       
