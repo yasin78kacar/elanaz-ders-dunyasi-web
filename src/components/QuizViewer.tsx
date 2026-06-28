@@ -32,6 +32,7 @@ const QuizViewer: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [quizFinished, setQuizFinished] = useState(false);
   const [showStats, setShowStats] = useState(false);
+  const [timeLeft, setTimeLeft] = useState(30);
 
   const subjects = ['Matematik', 'Türkçe', 'Fen Bilimleri', 'Hayat Bilgisi', 'İngilizce'];
   const themes = ['Tema 1', 'Tema 2', 'Tema 3', 'Tema 4', 'Tema 5'];
@@ -39,6 +40,28 @@ const QuizViewer: React.FC = () => {
   useEffect(() => {
     loadQuestions();
   }, [selectedSubject, selectedTheme, difficulty]);
+
+  // Timer logic
+  useEffect(() => {
+    if (quizFinished || questions.length === 0) return;
+
+    const timer = setInterval(() => {
+      setTimeLeft((prev) => {
+        if (prev <= 1) {
+          handleAnswer(-1); // Otomatik yanlış cevap
+          return 30;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, [currentQuestionIndex, quizFinished, questions.length]);
+
+  // Yeni soru gelince timer sıfırla
+  useEffect(() => {
+    setTimeLeft(30);
+  }, [currentQuestionIndex]);
 
   const loadQuestions = async () => {
     try {
@@ -71,6 +94,7 @@ const QuizViewer: React.FC = () => {
       setCurrentQuestionIndex(0);
       setScore(0);
       setQuizFinished(false);
+      setTimeLeft(30);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Unknown error');
       setQuestions([]);
@@ -125,6 +149,12 @@ const QuizViewer: React.FC = () => {
     const percentage = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
 
     return { totalQuestions, correctCount, percentage };
+  };
+
+  const getTimerColor = () => {
+    if (timeLeft > 10) return '#4CAF50';
+    if (timeLeft > 5) return '#FFC107';
+    return '#FF6B6B';
   };
 
   if (showStats) {
@@ -275,8 +305,16 @@ const QuizViewer: React.FC = () => {
 
       {/* Quiz Content */}
       <div className="quiz-content">
-        <div className="progress">
-          Soru {currentQuestionIndex + 1} / {questions.length}
+        <div className="progress-row">
+          <div className="progress">
+            Soru {currentQuestionIndex + 1} / {questions.length}
+          </div>
+          <div 
+            className="timer"
+            style={{ color: getTimerColor() }}
+          >
+            ⏱️ {timeLeft}s
+          </div>
         </div>
         
         <div className="question-section">

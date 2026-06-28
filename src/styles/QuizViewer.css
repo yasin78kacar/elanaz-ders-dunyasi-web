@@ -475,3 +475,36 @@
   width: 100%;
   margin-top: 20px;
 }
+
+/* Timer Styling */
+.progress-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 20px;
+}
+
+.progress {
+  flex: 1;
+  text-align: left;
+  font-size: 16px;
+  color: #aaa;
+  font-weight: 500;
+}
+
+.timer {
+  padding: 8px 16px;
+  background: rgba(255, 107, 107, 0.1);
+  border: 2px solid currentColor;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+  min-width: 100px;
+  text-align: center;
+  transition: all 0.3s;
+}
+
+.timer:hover {
+  transform: scale(1.05);
+}
