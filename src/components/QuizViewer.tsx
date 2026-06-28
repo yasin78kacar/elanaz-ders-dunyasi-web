@@ -30,7 +30,16 @@ const QuizViewer: React.FC = () => {
       setLoading(true);
       setError(null);
       
-      const dataPath = `/data/${selectedSubject.toLowerCase()}/tema1.json`;
+      const subjectMap: { [key: string]: string } = {
+        'Matematik': 'math',
+        'Türkçe': 'turkce',
+        'Fen Bilimleri': 'fen',
+        'Hayat Bilgisi': 'hayat',
+        'İngilizce': 'ingilizce'
+      };
+      
+      const folder = subjectMap[selectedSubject] || 'math';
+      const dataPath = `./data/${folder}/tema1.json`;
       
       const response = await fetch(dataPath);
       
@@ -51,102 +60,82 @@ const QuizViewer: React.FC = () => {
   };
 
   const handleAnswer = (optionIndex: number) => {
-    if (questions.length === 0) return;
-    
-    const currentQuestion = questions[currentQuestionIndex];
-    if (optionIndex === currentQuestion.correctAnswer) {
-      setScore(score + 1);
-    }
-
-    if (currentQuestionIndex < questions.length - 1) {
-      setCurrentQuestionIndex(currentQuestionIndex + 1);
-    } else {
-      alert(`Quiz Bitti! Puanınız: ${score + (optionIndex === currentQuestion.correctAnswer ? 1 : 0)}/${questions.length}`);
-      setCurrentQuestionIndex(0);
-      setScore(0);
+    if (currentQuestionIndex < questions.length) {
+      const currentQuestion = questions[currentQuestionIndex];
+      if (optionIndex === currentQuestion.correctAnswer) {
+        setScore(score + 1);
+      }
+      
+      if (currentQuestionIndex < questions.length - 1) {
+        setCurrentQuestionIndex(currentQuestionIndex + 1);
+      } else {
+        alert(`Quiz tamamlandı! Skor: ${score + (optionIndex === currentQuestion.correctAnswer ? 1 : 0)}/${questions.length}`);
+        setCurrentQuestionIndex(0);
+        setScore(0);
+      }
     }
   };
 
   if (loading) {
-    return (
-      <div className="quiz-container">
-        <div className="quiz-header">
-          <h1>Elanaz'ın Ders Dünyası</h1>
-          <p>Web Sürümü</p>
-        </div>
-        <div className="loading">Sorular yükleniyor...</div>
-      </div>
-    );
+    return <div className="quiz-container"><p>Sorular yükleniyor...</p></div>;
   }
 
   if (error) {
-    return (
-      <div className="quiz-container">
-        <div className="quiz-header">
-          <h1>Elanaz'ın Ders Dünyası</h1>
-        </div>
-        <div className="error">⚠️ Hata: {error}</div>
-      </div>
-    );
+    return <div className="quiz-container"><p style={{color: 'red'}}>Hata: {error}</p></div>;
   }
 
   if (questions.length === 0) {
-    return (
-      <div className="quiz-container">
-        <div className="quiz-header">
-          <h1>Elanaz'ın Ders Dünyası</h1>
-        </div>
-        <div className="subject-selector">
-          <h2>Bir Konu Seç:</h2>
-          <div className="subject-buttons">
-            {subjects.map(subject => (
-              <button
-                key={subject}
-                className={`subject-btn ${selectedSubject === subject ? 'active' : ''}`}
-                onClick={() => setSelectedSubject(subject)}
-              >
-                {subject}
-              </button>
-            ))}
-          </div>
-          <p>Seçilen: {selectedSubject}</p>
-          <p className="info">Data klasöründen sorular yüklenmek için...</p>
-        </div>
-      </div>
-    );
+    return <div className="quiz-container"><p>Soru bulunamadı.</p></div>;
   }
 
   const currentQuestion = questions[currentQuestionIndex];
 
   return (
     <div className="quiz-container">
-      <div className="quiz-header">
-        <h1>Elanaz'ın Ders Dünyası</h1>
-        <div className="quiz-info">
-          <span>Konu: {selectedSubject}</span>
-          <span>Soru: {currentQuestionIndex + 1}/{questions.length}</span>
-          <span>Puan: {score}</span>
+      <h1>Elanaz'ın Ders Dünyası</h1>
+      
+      <div className="subject-selector">
+        <h2>Bir Dersi Seç:</h2>
+        <div className="subject-buttons">
+          {subjects.map((subject) => (
+            <button
+              key={subject}
+              className={`subject-btn ${selectedSubject === subject ? 'active' : ''}`}
+              onClick={() => setSelectedSubject(subject)}
+            >
+              {subject}
+            </button>
+          ))}
         </div>
       </div>
 
       <div className="quiz-content">
+        <div className="question-header">
+          <h2>{selectedSubject}</h2>
+          <p>Soru {currentQuestionIndex + 1}/{questions.length}</p>
+        </div>
+
         <div className="question-box">
           <h3>{currentQuestion.question}</h3>
           {currentQuestion.image && (
-            <img src={currentQuestion.image} alt="Question visual" className="question-image" />
+            <img src={currentQuestion.image} alt="Soru görseli" className="question-image" />
           )}
         </div>
 
-        <div className="options-box">
+        <div className="options">
           {currentQuestion.options.map((option, index) => (
             <button
               key={index}
               className="option-btn"
               onClick={() => handleAnswer(index)}
             >
-              {String.fromCharCode(65 + index)}) {option}
+              {option}
             </button>
           ))}
+        </div>
+
+        <div className="score-display">
+          Doğru Cevap: {score}/{currentQuestionIndex}
         </div>
       </div>
     </div>
