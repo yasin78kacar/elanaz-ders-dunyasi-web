@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "hay-q1",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 1",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hay-q2",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 2",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hay-q3",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 3",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hay-q4",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 4",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hay-q5",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 5",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hay-q6",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 6",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hay-q7",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 7",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hay-q8",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 8",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hay-q9",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 9",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hay-q10",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hayat Soru 10",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    }
+  ]
+}
