@@ -33,7 +33,7 @@ const QuizViewer: React.FC = () => {
       
       const dataPath = selectedTheme 
         ? `/data/${selectedSubject.toLowerCase()}/${selectedTheme}.json`
-        : `/data/${selectedSubject.toLowerCase()}/sample.json`;
+        : `/data/${selectedSubject.toLowerCase()}/tema1.json
       
       const response = await fetch(dataPath);
       
