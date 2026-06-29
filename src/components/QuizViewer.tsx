@@ -78,9 +78,9 @@ const QuizViewer: React.FC = () => {
       };
       
       const folder = subjectMap[selectedSubject] || 'math';
-      const dataPath = `/data/${folder}_50.json`;
-      const response = await fetch(dataPath);
+      const dataPath = `./data/${folder}_50.json`;
       
+      const response = await fetch(dataPath);
       if (!response.ok) {
         throw new Error(`Failed to load questions from ${dataPath}`);
       }
