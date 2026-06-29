@@ -1,55 +1,737 @@
 {
   "questions": [
-    {"id": "fen-t1-q1", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Nesnelerin kokusunu hangi duyu organımızla algılarız?", "options": ["Göz", "Kulak", "Burun", "Dil"], "correctAnswer": 2, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?nose,smell"},
-    {"id": "fen-t1-q2", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Pürüzlü yüzeyleri algılamamızı sağlayan duyu organımız hangisidir?", "options": ["Deri", "Göz", "Kulak", "Dil"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?skin,touch"},
-    {"id": "fen-t1-q3", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Renkleri ayırt etmemizi sağlayan duyu organımız hangisidir?", "options": ["Kulak", "Deri", "Göz", "Burun"], "correctAnswer": 2, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?eye,vision"},
-    {"id": "fen-t1-q4", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Yiyeceklerin tadını hangi duyu organımızla alırız?", "options": ["Dil", "Burun", "Göz", "Deri"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?tongue,taste"},
-    {"id": "fen-t1-q5", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Çevredeki sesleri hangi duyu organımızla işitiriz?", "options": ["Deri", "Kulak", "Göz", "Dil"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?ear,hearing"},
-    {"id": "fen-t1-q6", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Keskin kokuları hangi duyu organımızla ayırt ederiz?", "options": ["Dil", "Göz", "Burun", "Kulak"], "correctAnswer": 2, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?scent,flower"},
-    {"id": "fen-t1-q7", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Sıcak bir nesneye dokunduğumuzda ne ile hissederiz?", "options": ["Deri", "Göz", "Kulak", "Burun"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?hot,warm"},
-    {"id": "fen-t1-q8", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Duyu organlarımızın sağlığını korumak için ne yapmalıyız?", "options": ["Temiz tutmalıyız", "Kirletmeliyiz", "Hiç yıkamamalıyız", "Güneşe çıplak gözle bakmalıyız"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?hygiene,health"},
-    {"id": "fen-t1-q9", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Göz sağlığımızı korumak için ne yapılmamalıdır?", "options": ["Okuma yaparken uygun ışık kullanmak", "Güneşe doğrudan bakmak", "Gözleri temiz tutmak", "Yeterli uyumak"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?sunglasses,protection"},
-    {"id": "fen-t1-q10", "subject": "Fen Bilimleri", "theme": "Tema 1: Beş Duyumuz", "question": "Hangisi bir duyu organı değildir?", "options": ["Burun", "Kalp", "Dil", "Kulak"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?heart,organ"},
-    {"id": "fen-t2-q1", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Bitkilerin yaşaması için neye ihtiyacı yoktur?", "options": ["Su", "Güneş", "Televizyon", "Toprak"], "correctAnswer": 2, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?plant,green"},
-    {"id": "fen-t2-q2", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Hangi hayvan evde beslenebilir?", "options": ["Aslan", "Kedi", "Fil", "Zürafa"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?cat,pet"},
-    {"id": "fen-t2-q3", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Bitkiler besinini nasıl yapar?", "options": ["Dışarıdan alır", "Kendi üretir", "Yemek yer", "Hiç beslenmez"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?photosynthesis,plant"},
-    {"id": "fen-t2-q4", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Hangisi bir meyvedir?", "options": ["Papatya", "Elma", "Çam ağacı", "Çimen"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?apple,fruit"},
-    {"id": "fen-t2-q5", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Kuşların vücudu ne ile kaplıdır?", "options": ["Tüy", "Kürk", "Pullar", "Deri"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?bird,feathers"},
-    {"id": "fen-t2-q6", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Hangisi çiftlik hayvanıdır?", "options": ["İnek", "Zebra", "Maymun", "Ayı"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?cow,farm"},
-    {"id": "fen-t2-q7", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Bitkilerin toprağa tutunmasını sağlayan bölüm hangisidir?", "options": ["Yaprak", "Çiçek", "Kök", "Gövde"], "correctAnswer": 2, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?roots,plant"},
-    {"id": "fen-t2-q8", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Hangi hayvan hem karada hem suda yaşar?", "options": ["Kurbağa", "Kuş", "İnek", "Tavşan"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?frog,amphibian"},
-    {"id": "fen-t2-q9", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Bitkiler için güneş ışığı neden önemlidir?", "options": ["Isınmak için", "Yemek yapmak için", "Dolaşmak için", "Uyuyamamak için"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?sun,light"},
-    {"id": "fen-t2-q10", "subject": "Fen Bilimleri", "theme": "Tema 2: Bitkiler ve Hayvanlar", "question": "Suda yaşayan hayvanlara ne denir?", "options": ["Sürüngen", "Balık", "Memeli", "Kuş"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?fish,water"},
-    {"id": "fen-t3-q1", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Hangisi maddenin hallerinden biridir?", "options": ["Sıvı", "Sert", "Kırılgan", "Pürüzlü"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?liquid,water"},
-    {"id": "fen-t3-q2", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Aşağıdakilerden hangisi bir katıdır?", "options": ["Su", "Taş", "Hava", "Süt"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?rock,solid"},
-    {"id": "fen-t3-q3", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Aşağıdakilerden hangisi bir sıvıdır?", "options": ["Masa", "Kalem", "Meyve suyu", "Kitap"], "correctAnswer": 2, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?juice,liquid"},
-    {"id": "fen-t3-q4", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Gazların belirgin bir şekli var mıdır?", "options": ["Evet", "Hayır", "Sadece yuvarlak", "Bazen"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?gas,air"},
-    {"id": "fen-t3-q5", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Maddelerin hangi özelliği ile onları ayırt edemeyiz?", "options": ["Koku", "Renk", "Tat", "Boy"], "correctAnswer": 3, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?objects,colorful"},
-    {"id": "fen-t3-q6", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Hangi madde mıknatıs tarafından çekilir?", "options": ["Demir", "Plastik", "Tahta", "Cam"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?magnet,iron"},
-    {"id": "fen-t3-q7", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Sıvı maddeler nasıl hareket eder?", "options": ["Akışkandır", "Sabit durur", "Uçar", "Sıçrar"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?flow,water"},
-    {"id": "fen-t3-q8", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Hangisi esnek bir maddedir?", "options": ["Taş", "Demir", "Oyun hamuru", "Cam"], "correctAnswer": 2, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?playdough,flexible"},
-    {"id": "fen-t3-q9", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Maddeleri niteleyen özelliklerden biri hangisidir?", "options": ["Sertlik", "Boy", "Kilo", "Hız"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?hard,solid"},
-    {"id": "fen-t3-q10", "subject": "Fen Bilimleri", "theme": "Tema 3: Maddeyi Tanıyalım", "question": "Hangi maddeyi göremeyiz?", "options": ["Kitap", "Hava", "Taş", "Süt"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?air,invisible"},
-    {"id": "fen-t4-q1", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "En büyük ışık kaynağımız nedir?", "options": ["Lamba", "Güneş", "Ay", "Mum"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?sun,light"},
-    {"id": "fen-t4-q2", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Ay bir ışık kaynağı mıdır?", "options": ["Evet", "Hayır", "Bazen", "Sadece gece"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?moon,night"},
-    {"id": "fen-t4-q3", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Sesin şiddetini artırmak için ne kullanılır?", "options": ["Megafon", "Kulaklık", "Sessiz oda", "Yastık"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?megaphone,sound"},
-    {"id": "fen-t4-q4", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Işık nasıl yayılır?", "options": ["Doğrusal", "Daire şeklinde", "Zikzak", "Yavaşça"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?light,beam"},
-    {"id": "fen-t4-q5", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Çevremizdeki sesler nelerle işitilir?", "options": ["Göz", "Kulak", "Deri", "Dil"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?sound,wave"},
-    {"id": "fen-t4-q6", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Gürültü nedir?", "options": ["Hoş ses", "Rahatsız edici ses", "Müzik", "Kuş sesi"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?noise,loud"},
-    {"id": "fen-t4-q7", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Hangisi yapay ışık kaynağıdır?", "options": ["Güneş", "Yıldız", "El feneri", "Şimşek"], "correctAnswer": 2, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?flashlight,torch"},
-    {"id": "fen-t4-q8", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Işık kirliliği nelere zarar verebilir?", "options": ["Sadece insanlara", "Sadece kuşlara", "Tüm canlılara", "Eşyalara"], "correctAnswer": 2, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?pollution,city"},
-    {"id": "fen-t4-q9", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Ses kirliliğinden korunmak için ne yapılmalıdır?", "options": ["Çok bağırmalı", "Kulaklık kullanmalı", "Gürültülü yerlerde yaşamalı", "Sessizliği korumalı"], "correctAnswer": 3, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?quiet,silence"},
-    {"id": "fen-t4-q10", "subject": "Fen Bilimleri", "theme": "Tema 4: Çevremizdeki Işık ve Sesler", "question": "Karanlıkta bir yeri nasıl aydınlatırız?", "options": ["Gözleri kapatarak", "Işık açarak", "Kulakları kapatarak", "Uyumak"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?lamp,light"},
-    {"id": "fen-t5-q1", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Elektrikli araçlar ne ile çalışır?", "options": ["Pil veya priz", "Benzin", "Rüzgar", "Güç"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?electricity,power"},
-    {"id": "fen-t5-q2", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Elektrikli araçları kullanırken nelere dikkat etmeliyiz?", "options": ["Suyla oynamamalıyız", "Prize dokunmamalıyız", "Kabloları çekmemeliyiz", "Hepsi"], "correctAnswer": 3, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?safety,electrical"},
-    {"id": "fen-t5-q3", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Hangisi elektrikle çalışır?", "options": ["Buzdolabı", "Kamyon", "Bisiklet", "Top"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?refrigerator,appliance"},
-    {"id": "fen-t5-q4", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Piller bittiğinde ne yapılmalıdır?", "options": ["Yere atmalı", "Çöp kutusuna atmalı", "Geri dönüşüm kutusuna atmalı", "Biriktirmeli"], "correctAnswer": 2, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?battery,recycling"},
-    {"id": "fen-t5-q5", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Elektrik tasarrufu için ne yapılmalıdır?", "options": ["Lambaları açık bırakmalı", "Gereksiz ışıkları kapatmalı", "Prizle oynamalı", "Televizyonu 24 saat açık tutmalı"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?energy,save"},
-    {"id": "fen-t5-q6", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Elektrik çarpmalarından nasıl korunuruz?", "options": ["Prize dokunmayarak", "Prize çivi sokarak", "Islak elle dokunarak", "Kabloları keserek"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?safety,caution"},
-    {"id": "fen-t5-q7", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Hangisi pille çalışır?", "options": ["Çamaşır makinesi", "El feneri", "Fırın", "Buzdolabı"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?flashlight,battery"},
-    {"id": "fen-t5-q8", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Elektrik kaynakları nelerdir?", "options": ["Piller", "Şehir elektriği", "Bataryalar", "Hepsi"], "correctAnswer": 3, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?power,source"},
-    {"id": "fen-t5-q9", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Elektriğin amacı nedir?", "options": ["Hayatı kolaylaştırmak", "Zorlaştırmak", "Sadece yemek yapmak", "Hiçbir şey"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?technology,convenience"},
-    {"id": "fen-t5-q10", "subject": "Fen Bilimleri", "theme": "Tema 5: Elektrikli Araçlar", "question": "Elektrikli cihazlar arızalandığında ne yapılmalıdır?", "options": ["Kendimiz tamir etmeliyiz", "Uzmanına göstermeliyiz", "Açık bırakmalıyız", "Çöpe atmalıyız"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?repair,technician"}
+    {
+      "id": "fen-t1-q1",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Nesnelerin kokusunu hangi duyu organımızla algılarız?",
+      "options": [
+        "Göz",
+        "Kulak",
+        "Burun",
+        "Dil"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t1-q2",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Pürüzlü yüzeyleri algılamamızı sağlayan duyu organımız hangisidir?",
+      "options": [
+        "Deri",
+        "Göz",
+        "Kulak",
+        "Dil"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t1-q3",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Renkleri ayırt etmemizi sağlayan duyu organımız hangisidir?",
+      "options": [
+        "Kulak",
+        "Deri",
+        "Göz",
+        "Burun"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t1-q4",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Yiyeceklerin tadını hangi duyu organımızla alırız?",
+      "options": [
+        "Dil",
+        "Burun",
+        "Göz",
+        "Deri"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t1-q5",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Çevredeki sesleri hangi duyu organımızla işitiriz?",
+      "options": [
+        "Deri",
+        "Kulak",
+        "Göz",
+        "Dil"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t1-q6",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Keskin kokuları hangi duyu organımızla ayırt ederiz?",
+      "options": [
+        "Dil",
+        "Göz",
+        "Burun",
+        "Kulak"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t1-q7",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Sıcak bir nesneye dokunduğumuzda ne ile hissederiz?",
+      "options": [
+        "Deri",
+        "Göz",
+        "Kulak",
+        "Burun"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t1-q8",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Duyu organlarımızın sağlığını korumak için ne yapmalıyız?",
+      "options": [
+        "Temiz tutmalıyız",
+        "Kirletmeliyiz",
+        "Hiç yıkamamalıyız",
+        "Güneşe çıplak gözle bakmalıyız"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "fen-t1-q9",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Göz sağlığımızı korumak için ne yapılmamalıdır?",
+      "options": [
+        "Okuma yaparken uygun ışık kullanmak",
+        "Güneşe doğrudan bakmak",
+        "Gözleri temiz tutmak",
+        "Yeterli uyumak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t1-q10",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Hangisi bir duyu organı değildir?",
+      "options": [
+        "Burun",
+        "Kalp",
+        "Dil",
+        "Kulak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "👂"
+    },
+    {
+      "id": "fen-t2-q1",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Bitkilerin yaşaması için neye ihtiyacı yoktur?",
+      "options": [
+        "Su",
+        "Güneş",
+        "Televizyon",
+        "Toprak"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta",
+      "image": "☀️"
+    },
+    {
+      "id": "fen-t2-q2",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Hangi hayvan evde beslenebilir?",
+      "options": [
+        "Aslan",
+        "Kedi",
+        "Fil",
+        "Zürafa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor",
+      "image": "🐱"
+    },
+    {
+      "id": "fen-t2-q3",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Bitkiler besinini nasıl yapar?",
+      "options": [
+        "Dışarıdan alır",
+        "Kendi üretir",
+        "Yemek yer",
+        "Hiç beslenmez"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "fen-t2-q4",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Hangisi bir meyvedir?",
+      "options": [
+        "Papatya",
+        "Elma",
+        "Çam ağacı",
+        "Çimen"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta",
+      "image": "🍎"
+    },
+    {
+      "id": "fen-t2-q5",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Kuşların vücudu ne ile kaplıdır?",
+      "options": [
+        "Tüy",
+        "Kürk",
+        "Pullar",
+        "Deri"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "fen-t2-q6",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Hangisi çiftlik hayvanıdır?",
+      "options": [
+        "İnek",
+        "Zebra",
+        "Maymun",
+        "Ayı"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "fen-t2-q7",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Bitkilerin toprağa tutunmasını sağlayan bölüm hangisidir?",
+      "options": [
+        "Yaprak",
+        "Çiçek",
+        "Kök",
+        "Gövde"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta",
+      "image": "🌸"
+    },
+    {
+      "id": "fen-t2-q8",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Hangi hayvan hem karada hem suda yaşar?",
+      "options": [
+        "Kurbağa",
+        "Kuş",
+        "İnek",
+        "Tavşan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor",
+      "image": "🐦"
+    },
+    {
+      "id": "fen-t2-q9",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Bitkiler için güneş ışığı neden önemlidir?",
+      "options": [
+        "Isınmak için",
+        "Yemek yapmak için",
+        "Dolaşmak için",
+        "Uyuyamamak için"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "☀️"
+    },
+    {
+      "id": "fen-t2-q10",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2: Bitkiler ve Hayvanlar",
+      "question": "Suda yaşayan hayvanlara ne denir?",
+      "options": [
+        "Sürüngen",
+        "Balık",
+        "Memeli",
+        "Kuş"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta",
+      "image": "🐦"
+    },
+    {
+      "id": "fen-t3-q1",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Hangisi maddenin hallerinden biridir?",
+      "options": [
+        "Sıvı",
+        "Sert",
+        "Kırılgan",
+        "Pürüzlü"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "fen-t3-q2",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi bir katıdır?",
+      "options": [
+        "Su",
+        "Taş",
+        "Hava",
+        "Süt"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "💧"
+    },
+    {
+      "id": "fen-t3-q3",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi bir sıvıdır?",
+      "options": [
+        "Masa",
+        "Kalem",
+        "Meyve suyu",
+        "Kitap"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta",
+      "image": "📖"
+    },
+    {
+      "id": "fen-t3-q4",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Gazların belirgin bir şekli var mıdır?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Sadece yuvarlak",
+        "Bazen"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "fen-t3-q5",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Maddelerin hangi özelliği ile onları ayırt edemeyiz?",
+      "options": [
+        "Koku",
+        "Renk",
+        "Tat",
+        "Boy"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "fen-t3-q6",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Hangi madde mıknatıs tarafından çekilir?",
+      "options": [
+        "Demir",
+        "Plastik",
+        "Tahta",
+        "Cam"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "fen-t3-q7",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Sıvı maddeler nasıl hareket eder?",
+      "options": [
+        "Akışkandır",
+        "Sabit durur",
+        "Uçar",
+        "Sıçrar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "fen-t3-q8",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Hangisi esnek bir maddedir?",
+      "options": [
+        "Taş",
+        "Demir",
+        "Oyun hamuru",
+        "Cam"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "fen-t3-q9",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Maddeleri niteleyen özelliklerden biri hangisidir?",
+      "options": [
+        "Sertlik",
+        "Boy",
+        "Kilo",
+        "Hız"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "fen-t3-q10",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Hangi maddeyi göremeyiz?",
+      "options": [
+        "Kitap",
+        "Hava",
+        "Taş",
+        "Süt"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor",
+      "image": "📖"
+    },
+    {
+      "id": "fen-t4-q1",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "En büyük ışık kaynağımız nedir?",
+      "options": [
+        "Lamba",
+        "Güneş",
+        "Ay",
+        "Mum"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "☀️"
+    },
+    {
+      "id": "fen-t4-q2",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Ay bir ışık kaynağı mıdır?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Bazen",
+        "Sadece gece"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta",
+      "image": "🌙"
+    },
+    {
+      "id": "fen-t4-q3",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Sesin şiddetini artırmak için ne kullanılır?",
+      "options": [
+        "Megafon",
+        "Kulaklık",
+        "Sessiz oda",
+        "Yastık"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "fen-t4-q4",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Işık nasıl yayılır?",
+      "options": [
+        "Doğrusal",
+        "Daire şeklinde",
+        "Zikzak",
+        "Yavaşça"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay",
+      "image": "💡"
+    },
+    {
+      "id": "fen-t4-q5",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Çevremizdeki sesler nelerle işitilir?",
+      "options": [
+        "Göz",
+        "Kulak",
+        "Deri",
+        "Dil"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta",
+      "image": "👁️"
+    },
+    {
+      "id": "fen-t4-q6",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Gürültü nedir?",
+      "options": [
+        "Hoş ses",
+        "Rahatsız edici ses",
+        "Müzik",
+        "Kuş sesi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor",
+      "image": "🐦"
+    },
+    {
+      "id": "fen-t4-q7",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Hangisi yapay ışık kaynağıdır?",
+      "options": [
+        "Güneş",
+        "Yıldız",
+        "El feneri",
+        "Şimşek"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay",
+      "image": "☀️"
+    },
+    {
+      "id": "fen-t4-q8",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Işık kirliliği nelere zarar verebilir?",
+      "options": [
+        "Sadece insanlara",
+        "Sadece kuşlara",
+        "Tüm canlılara",
+        "Eşyalara"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta",
+      "image": "💡"
+    },
+    {
+      "id": "fen-t4-q9",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Ses kirliliğinden korunmak için ne yapılmalıdır?",
+      "options": [
+        "Çok bağırmalı",
+        "Kulaklık kullanmalı",
+        "Gürültülü yerlerde yaşamalı",
+        "Sessizliği korumalı"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Zor",
+      "image": "🎵"
+    },
+    {
+      "id": "fen-t4-q10",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Karanlıkta bir yeri nasıl aydınlatırız?",
+      "options": [
+        "Gözleri kapatarak",
+        "Işık açarak",
+        "Kulakları kapatarak",
+        "Uyumak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "💡"
+    },
+    {
+      "id": "fen-t5-q1",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrikli araçlar ne ile çalışır?",
+      "options": [
+        "Pil veya priz",
+        "Benzin",
+        "Rüzgar",
+        "Güç"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta",
+      "image": "🔋"
+    },
+    {
+      "id": "fen-t5-q2",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrikli araçları kullanırken nelere dikkat etmeliyiz?",
+      "options": [
+        "Suyla oynamamalıyız",
+        "Prize dokunmamalıyız",
+        "Kabloları çekmemeliyiz",
+        "Hepsi"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "fen-t5-q3",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Hangisi elektrikle çalışır?",
+      "options": [
+        "Buzdolabı",
+        "Kamyon",
+        "Bisiklet",
+        "Top"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "fen-t5-q4",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Piller bittiğinde ne yapılmalıdır?",
+      "options": [
+        "Yere atmalı",
+        "Çöp kutusuna atmalı",
+        "Geri dönüşüm kutusuna atmalı",
+        "Biriktirmeli"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "fen-t5-q5",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrik tasarrufu için ne yapılmalıdır?",
+      "options": [
+        "Lambaları açık bırakmalı",
+        "Gereksiz ışıkları kapatmalı",
+        "Prizle oynamalı",
+        "Televizyonu 24 saat açık tutmalı"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor",
+      "image": "🔋"
+    },
+    {
+      "id": "fen-t5-q6",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrik çarpmalarından nasıl korunuruz?",
+      "options": [
+        "Prize dokunmayarak",
+        "Prize çivi sokarak",
+        "Islak elle dokunarak",
+        "Kabloları keserek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay",
+      "image": "🔋"
+    },
+    {
+      "id": "fen-t5-q7",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Hangisi pille çalışır?",
+      "options": [
+        "Çamaşır makinesi",
+        "El feneri",
+        "Fırın",
+        "Buzdolabı"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta",
+      "image": "✋"
+    },
+    {
+      "id": "fen-t5-q8",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrik kaynakları nelerdir?",
+      "options": [
+        "Piller",
+        "Şehir elektriği",
+        "Bataryalar",
+        "Hepsi"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Zor",
+      "image": "🔋"
+    },
+    {
+      "id": "fen-t5-q9",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektriğin amacı nedir?",
+      "options": [
+        "Hayatı kolaylaştırmak",
+        "Zorlaştırmak",
+        "Sadece yemek yapmak",
+        "Hiçbir şey"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "fen-t5-q10",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrikli cihazlar arızalandığında ne yapılmalıdır?",
+      "options": [
+        "Kendimiz tamir etmeliyiz",
+        "Uzmanına göstermeliyiz",
+        "Açık bırakmalıyız",
+        "Çöpe atmalıyız"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    }
   ]
 }
-

@@ -605,3 +605,14 @@
     line-height: 1.2 !important;
   }
 }
+
+/* Soru emoji görseli */
+.question-emoji {
+  font-size: 80px;
+  line-height: 1;
+  text-align: center;
+  margin: 12px 0 20px;
+}
+@media (max-width: 768px) {
+  .question-emoji { font-size: 96px; }
+}

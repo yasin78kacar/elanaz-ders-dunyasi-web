@@ -1,54 +1,717 @@
 {
   "questions": [
-    {"id": "hayat-t1-q1", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Okulda kurallara uymak niçin önemlidir?", "options": ["Öğretmen kızmasın diye", "Düzenli ve güvenli bir ortam için", "Sadece ödev yapmak için", "Daha fazla oyun oynamak için"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?school,rules"},
-    {"id": "hayat-t1-q2", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Sınıfta söz hakkı almak için ne yapmalıyız?", "options": ["Bağırmalıyız", "Parmağımızı kaldırmalıyız", "Yerimizden kalkmalıyız", "Arkadaşımıza söylemeliyiz"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?classroom,hand"},
-    {"id": "hayat-t1-q3", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Arkadaşımızla sorun yaşadığımızda ne yapmalıyız?", "options": ["Kavga etmeliyiz", "Küsmeliyiz", "Konuşarak çözüm bulmalıyız", "Ağlamalıyız"], "correctAnswer": 2, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?friendship,talk"},
-    {"id": "hayat-t1-q4", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Okul kuralları kimin güvenliği için konulmuştur?", "options": ["Sadece öğretmenlerin", "Sadece müdürün", "Öğrencilerin ve herkesin", "Hiç kimsenin"], "correctAnswer": 2, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?safety,school"},
-    {"id": "hayat-t1-q5", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Okulda arkadaşımıza nasıl davranmalıyız?", "options": ["Kaba", "Nazik ve saygılı", "Kavgalı", "Umursamaz"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?kindness,children"},
-    {"id": "hayat-t1-q6", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Okulda eşyalarımızı nasıl kullanmalıyız?", "options": ["Kırarak", "Kayıp ederek", "Özenli ve temiz", "Başkasına vererek"], "correctAnswer": 2, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?care,objects"},
-    {"id": "hayat-t1-q7", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Ders çalışırken nasıl bir ortam olmalıdır?", "options": ["Gürültülü", "Karanlık", "Düzenli ve sessiz", "Çok eşyalı"], "correctAnswer": 2, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?study,quiet"},
-    {"id": "hayat-t1-q8", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Okul eşyalarından hangisi ortak kullanım alanındadır?", "options": ["Silgi", "Çanta", "Sıra", "Kalem"], "correctAnswer": 2, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?desk,shared"},
-    {"id": "hayat-t1-q9", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Okula zamanında gitmenin yararı nedir?", "options": ["Dersleri kaçırmayız", "Daha çok uyuruz", "Daha çok oyun oynarız", "Öğretmeni kızdırırız"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?clock,time"},
-    {"id": "hayat-t1-q10", "subject": "Hayat Bilgisi", "theme": "Tema 1: Okul Heyecanım", "question": "Okulda hangi alanlarda oyun oynanır?", "options": ["Sınıfta", "Bahçede", "Koridorda", "Tuvalette"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?playground,play"},
-    {"id": "hayat-t2-q1", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Evimizin adresini neden bilmeliyiz?", "options": ["Sadece ezberlemek için", "Kaybolduğumuzda bulabilmek için", "Ödev olduğu için", "Hiç gerek yok"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?home,address"},
-    {"id": "hayat-t2-q2", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Evdeki kurallar neden önemlidir?", "options": ["Mutluluk ve düzen için", "Kısıtlama için", "Hata yapmamak için", "Anne kızmasın diye"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?family,home"},
-    {"id": "hayat-t2-q3", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Aile içinde sorumluluklar nasıl paylaşılmalıdır?", "options": ["Bir kişi yapmalı", "Herkes yardımlaşmalı", "Sadece baba yapmalı", "Kimse yapmamalı"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?family,together"},
-    {"id": "hayat-t2-q4", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Evde hangi işlere yardımcı olabiliriz?", "options": ["Kabloyu tamir etmek", "Odamızı toplamak", "Bulaşık makinesini kurmak", "Hepsi"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?chores,cleaning"},
-    {"id": "hayat-t2-q5", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Evde tasarruf etmek için ne yapılabilir?", "options": ["Suyu açık bırakmak", "Işıkları gereksiz yakmamak", "Elektronik cihazları açık unutmak", "Isıtıcıyı sona getirmek"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?save,energy"},
-    {"id": "hayat-t2-q6", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Evdeki yardımlaşma neyi artırır?", "options": ["Saygıyı ve sevgiyi", "Kavgayı", "Gürültüyü", "Dargınlığı"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?love,family"},
-    {"id": "hayat-t2-q7", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Misafir geldiğinde nasıl davranmalıyız?", "options": ["Görmezden gelmeliyiz", "Kibarca karşılamalıyız", "Odadan çıkmamalıyız", "Sessizce kaçmalıyız"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?welcome,guest"},
-    {"id": "hayat-t2-q8", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Ev eşyalarını kullanırken nelere dikkat etmeliyiz?", "options": ["Kırmadan", "Dikkatli", "Temiz tutarak", "Hepsi"], "correctAnswer": 3, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?care,furniture"},
-    {"id": "hayat-t2-q9", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Ailemizle vakit geçirmek bizi nasıl hissettirir?", "options": ["Mutlu", "Üzgün", "Sıkılmış", "Kızgın"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?happy,family"},
-    {"id": "hayat-t2-q10", "subject": "Hayat Bilgisi", "theme": "Tema 2: Evimizde Hayat", "question": "Evde güvenliği sağlamak için ne yapılmalıdır?", "options": ["Prize dokunmamalı", "Kesici aletlerle oynamamalı", "Kibritle oynamamalı", "Hepsi"], "correctAnswer": 3, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?safety,home"},
-    {"id": "hayat-t3-q1", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Sağlıklı beslenmek için ne yapılmalıdır?", "options": ["Çok tatlı yemek", "Meyve ve sebze tüketmek", "Sürekli abur cubur yemek", "Hiç yemek yememek"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?healthy,food"},
-    {"id": "hayat-t3-q2", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Kişisel bakımımız için ne önemlidir?", "options": ["Diş fırçalamak", "Banyo yapmak", "Elleri yıkamak", "Hepsi"], "correctAnswer": 3, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?hygiene,clean"},
-    {"id": "hayat-t3-q3", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Mevsimine uygun beslenmek niçin önemlidir?", "options": ["Daha lezzetlidir", "Daha sağlıklıdır", "Daha pahalıdır", "Önemsizdir"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?seasonal,fruits"},
-    {"id": "hayat-t3-q4", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Hastalandığımızda ne yapmalıyız?", "options": ["Okula gitmeliyiz", "Doktora gitmeliyiz", "Hiçbir şey yapmamalıyız", "Sokakta oynamalıyız"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?doctor,health"},
-    {"id": "hayat-t3-q5", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Düzenli uyumak sağlığımızı nasıl etkiler?", "options": ["Bizi dinç tutar", "Bizi yorar", "Hiçbir etkisi yok", "Bizi üşütür"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?sleep,rest"},
-    {"id": "hayat-t3-q6", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Spor yapmak vücudumuzu nasıl etkiler?", "options": ["Geliştirir", "Zayıflatır", "Yavaşlatır", "Kötü etkiler"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?exercise,sport"},
-    {"id": "hayat-t3-q7", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Temizlik sağlığımızı korur mu?", "options": ["Hayır", "Evet", "Sadece biraz", "Asla"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?clean,washing"},
-    {"id": "hayat-t3-q8", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Hangi içecek sağlıklıdır?", "options": ["Kola", "Su", "Enerji içeceği", "Gazoz"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?water,drink"},
-    {"id": "hayat-t3-q9", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Aşı olmak ne içindir?", "options": ["Hastalıklardan korunmak", "Hasta olmak", "İlaç içmemek", "Büyümek"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?vaccine,health"},
-    {"id": "hayat-t3-q10", "subject": "Hayat Bilgisi", "theme": "Tema 3: Sağlıklı Hayat", "question": "Sağlıklı bir yaşam için hangisi yapılmamalıdır?", "options": ["Erken yatmak", "Sigara dumanlı ortamda bulunmak", "Elleri yıkamak", "Sebze yemek"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?no,smoking"},
-    {"id": "hayat-t4-q1", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Trafikte karşıdan karşıya geçerken nereyi kullanmalıyız?", "options": ["Yaya geçidi", "Yolun ortası", "Araba altı", "Duvar dibi"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?crossing,safe"},
-    {"id": "hayat-t4-q2", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Acil durumda kimi aramalıyız?", "options": ["112", "Polis", "Okul", "Arkadaş"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?emergency,ambulance"},
-    {"id": "hayat-t4-q3", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Bisiklet kullanırken ne takmalıyız?", "options": ["Kask", "Gözlük", "Eldiven", "Şapka"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?helmet,bike"},
-    {"id": "hayat-t4-q4", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Tanımadığımız kişilerden hediye aldığımızda ne yapmalıyız?", "options": ["Almalıyız", "Teşekkür edip almalıyız", "Kesinlikle almamalıyız", "Sormadan almalıyız"], "correctAnswer": 2, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?stranger,caution"},
-    {"id": "hayat-t4-q5", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Oyun oynarken en güvenli yer neresidir?", "options": ["Parklar", "Caddeler", "Otoyol", "Köprüler"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?park,safe"},
-    {"id": "hayat-t4-q6", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Arabada emniyet kemeri neden önemlidir?", "options": ["Güvenliğimiz için", "Polis kızmasın diye", "Kemer sevdiğimiz için", "Yasaktır"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?seatbelt,safety"},
-    {"id": "hayat-t4-q7", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Doğal afetlerde ne yapmalıyız?", "options": ["Kaçmalıyız", "Sakin kalıp önlem almalıyız", "Ağlamalıyız", "Bağırmalıyız"], "correctAnswer": 1, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?disaster,safety"},
-    {"id": "hayat-t4-q8", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Hangi nesnelerle oynamak tehlikelidir?", "options": ["Kesici aletler", "Oyuncak arabalar", "Peluş oyuncaklar", "Boyama kalemleri"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?danger,knife"},
-    {"id": "hayat-t4-q9", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Okul servisinde nasıl davranmalıyız?", "options": ["Bağırarak", "Sakin ve kemer bağlı", "Ayakta gezerek", "Şoförü rahatsız ederek"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?bus,safe"},
-    {"id": "hayat-t4-q10", "subject": "Hayat Bilgisi", "theme": "Tema 4: Güvenli Hayat", "question": "Evdeki ilaçlara nasıl yaklaşmalıyız?", "options": ["Dokunmamalıyız", "İçmeliyiz", "Oynamalıyız", "Arkadaşımıza vermeliyiz"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?medicine,danger"},
-    {"id": "hayat-t5-q1", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Ülkemizin başkenti neresidir?", "options": ["İstanbul", "Ankara", "İzmir", "Bursa"], "correctAnswer": 1, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?ankara,capital"},
-    {"id": "hayat-t5-q2", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Bayrağımızın rengi nedir?", "options": ["Mavi-Beyaz", "Kırmızı-Beyaz", "Sarı-Yeşil", "Siyah-Beyaz"], "correctAnswer": 1, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?flag,turkey"},
-    {"id": "hayat-t5-q3", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Atatürk nerede doğmuştur?", "options": ["Ankara", "İstanbul", "Selanik", "Samsun"], "correctAnswer": 2, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?history,monument"},
-    {"id": "hayat-t5-q4", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Kurtuluş Savaşı'nı kim başlatmıştır?", "options": ["Atatürk", "Mehmet Akif", "Fatih Sultan Mehmet", "Mimar Sinan"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?independence,war"},
-    {"id": "hayat-t5-q5", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Ülkemizde kaç mevsim yaşanır?", "options": ["2", "3", "4", "5"], "correctAnswer": 2, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?seasons,nature"},
-    {"id": "hayat-t5-q6", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Hangi bayram ulusal egemenlik bayramıdır?", "options": ["23 Nisan", "29 Ekim", "30 Ağustos", "19 Mayıs"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?celebration,flag"},
-    {"id": "hayat-t5-q7", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Kültürel değerlerimiz nelerdir?", "options": ["Düğünlerimiz", "Yemeklerimiz", "Halk oyunlarımız", "Hepsi"], "correctAnswer": 3, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?culture,traditional"},
-    {"id": "hayat-t5-q8", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Ülkemizde en çok hangi tarım ürünü yetişir?", "options": ["Çay", "Muz", "Ananas", "Kivi"], "correctAnswer": 0, "difficulty": "Kolay", "image": "https://source.unsplash.com/400x300/?tea,harvest"},
-    {"id": "hayat-t5-q9", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Yurdumuzu korumak görevimiz midir?", "options": ["Evet", "Hayır", "Bazen", "Önemli değil"], "correctAnswer": 0, "difficulty": "Orta", "image": "https://source.unsplash.com/400x300/?protect,country"},
-    {"id": "hayat-t5-q10", "subject": "Hayat Bilgisi", "theme": "Tema 5: Ülkemizde Hayat", "question": "Ülkemizi kim kurmuştur?", "options": ["Atatürk", "Padişah", "Kral", "Yabancılar"], "correctAnswer": 0, "difficulty": "Zor", "image": "https://source.unsplash.com/400x300/?founder,nation"}
+    {
+      "id": "hayat-t1-q1",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Okulda kurallara uymak niçin önemlidir?",
+      "options": [
+        "Öğretmen kızmasın diye",
+        "Düzenli ve güvenli bir ortam için",
+        "Sadece ödev yapmak için",
+        "Daha fazla oyun oynamak için"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hayat-t1-q2",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Sınıfta söz hakkı almak için ne yapmalıyız?",
+      "options": [
+        "Bağırmalıyız",
+        "Parmağımızı kaldırmalıyız",
+        "Yerimizden kalkmalıyız",
+        "Arkadaşımıza söylemeliyiz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t1-q3",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Arkadaşımızla sorun yaşadığımızda ne yapmalıyız?",
+      "options": [
+        "Kavga etmeliyiz",
+        "Küsmeliyiz",
+        "Konuşarak çözüm bulmalıyız",
+        "Ağlamalıyız"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t1-q4",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Okul kuralları kimin güvenliği için konulmuştur?",
+      "options": [
+        "Sadece öğretmenlerin",
+        "Sadece müdürün",
+        "Öğrencilerin ve herkesin",
+        "Hiç kimsenin"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay",
+      "image": "🏫"
+    },
+    {
+      "id": "hayat-t1-q5",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Okulda arkadaşımıza nasıl davranmalıyız?",
+      "options": [
+        "Kaba",
+        "Nazik ve saygılı",
+        "Kavgalı",
+        "Umursamaz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t1-q6",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Okulda eşyalarımızı nasıl kullanmalıyız?",
+      "options": [
+        "Kırarak",
+        "Kayıp ederek",
+        "Özenli ve temiz",
+        "Başkasına vererek"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t1-q7",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Ders çalışırken nasıl bir ortam olmalıdır?",
+      "options": [
+        "Gürültülü",
+        "Karanlık",
+        "Düzenli ve sessiz",
+        "Çok eşyalı"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hayat-t1-q8",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Okul eşyalarından hangisi ortak kullanım alanındadır?",
+      "options": [
+        "Silgi",
+        "Çanta",
+        "Sıra",
+        "Kalem"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta",
+      "image": "✏️"
+    },
+    {
+      "id": "hayat-t1-q9",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Okula zamanında gitmenin yararı nedir?",
+      "options": [
+        "Dersleri kaçırmayız",
+        "Daha çok uyuruz",
+        "Daha çok oyun oynarız",
+        "Öğretmeni kızdırırız"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t1-q10",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1: Okul Heyecanım",
+      "question": "Okulda hangi alanlarda oyun oynanır?",
+      "options": [
+        "Sınıfta",
+        "Bahçede",
+        "Koridorda",
+        "Tuvalette"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hayat-t2-q1",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Evimizin adresini neden bilmeliyiz?",
+      "options": [
+        "Sadece ezberlemek için",
+        "Kaybolduğumuzda bulabilmek için",
+        "Ödev olduğu için",
+        "Hiç gerek yok"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t2-q2",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Evdeki kurallar neden önemlidir?",
+      "options": [
+        "Mutluluk ve düzen için",
+        "Kısıtlama için",
+        "Hata yapmamak için",
+        "Anne kızmasın diye"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor",
+      "image": "👩"
+    },
+    {
+      "id": "hayat-t2-q3",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Aile içinde sorumluluklar nasıl paylaşılmalıdır?",
+      "options": [
+        "Bir kişi yapmalı",
+        "Herkes yardımlaşmalı",
+        "Sadece baba yapmalı",
+        "Kimse yapmamalı"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "hayat-t2-q4",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Evde hangi işlere yardımcı olabiliriz?",
+      "options": [
+        "Kabloyu tamir etmek",
+        "Odamızı toplamak",
+        "Bulaşık makinesini kurmak",
+        "Hepsi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t2-q5",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Evde tasarruf etmek için ne yapılabilir?",
+      "options": [
+        "Suyu açık bırakmak",
+        "Işıkları gereksiz yakmamak",
+        "Elektronik cihazları açık unutmak",
+        "Isıtıcıyı sona getirmek"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t2-q6",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Evdeki yardımlaşma neyi artırır?",
+      "options": [
+        "Saygıyı ve sevgiyi",
+        "Kavgayı",
+        "Gürültüyü",
+        "Dargınlığı"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hayat-t2-q7",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Misafir geldiğinde nasıl davranmalıyız?",
+      "options": [
+        "Görmezden gelmeliyiz",
+        "Kibarca karşılamalıyız",
+        "Odadan çıkmamalıyız",
+        "Sessizce kaçmalıyız"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t2-q8",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Ev eşyalarını kullanırken nelere dikkat etmeliyiz?",
+      "options": [
+        "Kırmadan",
+        "Dikkatli",
+        "Temiz tutarak",
+        "Hepsi"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Zor",
+      "image": "🏠"
+    },
+    {
+      "id": "hayat-t2-q9",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Ailemizle vakit geçirmek bizi nasıl hissettirir?",
+      "options": [
+        "Mutlu",
+        "Üzgün",
+        "Sıkılmış",
+        "Kızgın"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hayat-t2-q10",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2: Evimizde Hayat",
+      "question": "Evde güvenliği sağlamak için ne yapılmalıdır?",
+      "options": [
+        "Prize dokunmamalı",
+        "Kesici aletlerle oynamamalı",
+        "Kibritle oynamamalı",
+        "Hepsi"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t3-q1",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Sağlıklı beslenmek için ne yapılmalıdır?",
+      "options": [
+        "Çok tatlı yemek",
+        "Meyve ve sebze tüketmek",
+        "Sürekli abur cubur yemek",
+        "Hiç yemek yememek"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t3-q2",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Kişisel bakımımız için ne önemlidir?",
+      "options": [
+        "Diş fırçalamak",
+        "Banyo yapmak",
+        "Elleri yıkamak",
+        "Hepsi"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Kolay",
+      "image": "🦷"
+    },
+    {
+      "id": "hayat-t3-q3",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Mevsimine uygun beslenmek niçin önemlidir?",
+      "options": [
+        "Daha lezzetlidir",
+        "Daha sağlıklıdır",
+        "Daha pahalıdır",
+        "Önemsizdir"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t3-q4",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Hastalandığımızda ne yapmalıyız?",
+      "options": [
+        "Okula gitmeliyiz",
+        "Doktora gitmeliyiz",
+        "Hiçbir şey yapmamalıyız",
+        "Sokakta oynamalıyız"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t3-q5",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Düzenli uyumak sağlığımızı nasıl etkiler?",
+      "options": [
+        "Bizi dinç tutar",
+        "Bizi yorar",
+        "Hiçbir etkisi yok",
+        "Bizi üşütür"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hayat-t3-q6",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Spor yapmak vücudumuzu nasıl etkiler?",
+      "options": [
+        "Geliştirir",
+        "Zayıflatır",
+        "Yavaşlatır",
+        "Kötü etkiler"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta",
+      "image": "⚽"
+    },
+    {
+      "id": "hayat-t3-q7",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Temizlik sağlığımızı korur mu?",
+      "options": [
+        "Hayır",
+        "Evet",
+        "Sadece biraz",
+        "Asla"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t3-q8",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Hangi içecek sağlıklıdır?",
+      "options": [
+        "Kola",
+        "Su",
+        "Enerji içeceği",
+        "Gazoz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "💧"
+    },
+    {
+      "id": "hayat-t3-q9",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Aşı olmak ne içindir?",
+      "options": [
+        "Hastalıklardan korunmak",
+        "Hasta olmak",
+        "İlaç içmemek",
+        "Büyümek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t3-q10",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 3: Sağlıklı Hayat",
+      "question": "Sağlıklı bir yaşam için hangisi yapılmamalıdır?",
+      "options": [
+        "Erken yatmak",
+        "Sigara dumanlı ortamda bulunmak",
+        "Elleri yıkamak",
+        "Sebze yemek"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t4-q1",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafikte karşıdan karşıya geçerken nereyi kullanmalıyız?",
+      "options": [
+        "Yaya geçidi",
+        "Yolun ortası",
+        "Araba altı",
+        "Duvar dibi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t4-q2",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Acil durumda kimi aramalıyız?",
+      "options": [
+        "112",
+        "Polis",
+        "Okul",
+        "Arkadaş"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor",
+      "image": "🏫"
+    },
+    {
+      "id": "hayat-t4-q3",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Bisiklet kullanırken ne takmalıyız?",
+      "options": [
+        "Kask",
+        "Gözlük",
+        "Eldiven",
+        "Şapka"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hayat-t4-q4",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Tanımadığımız kişilerden hediye aldığımızda ne yapmalıyız?",
+      "options": [
+        "Almalıyız",
+        "Teşekkür edip almalıyız",
+        "Kesinlikle almamalıyız",
+        "Sormadan almalıyız"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t4-q5",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Oyun oynarken en güvenli yer neresidir?",
+      "options": [
+        "Parklar",
+        "Caddeler",
+        "Otoyol",
+        "Köprüler"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t4-q6",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Arabada emniyet kemeri neden önemlidir?",
+      "options": [
+        "Güvenliğimiz için",
+        "Polis kızmasın diye",
+        "Kemer sevdiğimiz için",
+        "Yasaktır"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "hayat-t4-q7",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Doğal afetlerde ne yapmalıyız?",
+      "options": [
+        "Kaçmalıyız",
+        "Sakin kalıp önlem almalıyız",
+        "Ağlamalıyız",
+        "Bağırmalıyız"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t4-q8",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Hangi nesnelerle oynamak tehlikelidir?",
+      "options": [
+        "Kesici aletler",
+        "Oyuncak arabalar",
+        "Peluş oyuncaklar",
+        "Boyama kalemleri"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t4-q9",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Okul servisinde nasıl davranmalıyız?",
+      "options": [
+        "Bağırarak",
+        "Sakin ve kemer bağlı",
+        "Ayakta gezerek",
+        "Şoförü rahatsız ederek"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "🏫"
+    },
+    {
+      "id": "hayat-t4-q10",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Evdeki ilaçlara nasıl yaklaşmalıyız?",
+      "options": [
+        "Dokunmamalıyız",
+        "İçmeliyiz",
+        "Oynamalıyız",
+        "Arkadaşımıza vermeliyiz"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t5-q1",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizin başkenti neresidir?",
+      "options": [
+        "İstanbul",
+        "Ankara",
+        "İzmir",
+        "Bursa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t5-q2",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Bayrağımızın rengi nedir?",
+      "options": [
+        "Mavi-Beyaz",
+        "Kırmızı-Beyaz",
+        "Sarı-Yeşil",
+        "Siyah-Beyaz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay",
+      "image": "🔴"
+    },
+    {
+      "id": "hayat-t5-q3",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk nerede doğmuştur?",
+      "options": [
+        "Ankara",
+        "İstanbul",
+        "Selanik",
+        "Samsun"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t5-q4",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Kurtuluş Savaşı'nı kim başlatmıştır?",
+      "options": [
+        "Atatürk",
+        "Mehmet Akif",
+        "Fatih Sultan Mehmet",
+        "Mimar Sinan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t5-q5",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizde kaç mevsim yaşanır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay",
+      "image": "🔢"
+    },
+    {
+      "id": "hayat-t5-q6",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Hangi bayram ulusal egemenlik bayramıdır?",
+      "options": [
+        "23 Nisan",
+        "29 Ekim",
+        "30 Ağustos",
+        "19 Mayıs"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t5-q7",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Kültürel değerlerimiz nelerdir?",
+      "options": [
+        "Düğünlerimiz",
+        "Yemeklerimiz",
+        "Halk oyunlarımız",
+        "Hepsi"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "hayat-t5-q8",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizde en çok hangi tarım ürünü yetişir?",
+      "options": [
+        "Çay",
+        "Muz",
+        "Ananas",
+        "Kivi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay",
+      "image": "🍌"
+    },
+    {
+      "id": "hayat-t5-q9",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Yurdumuzu korumak görevimiz midir?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Bazen",
+        "Önemli değil"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "hayat-t5-q10",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizi kim kurmuştur?",
+      "options": [
+        "Atatürk",
+        "Padişah",
+        "Kral",
+        "Yabancılar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    }
   ]
 }
