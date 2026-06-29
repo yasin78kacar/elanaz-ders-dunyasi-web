@@ -78,8 +78,7 @@ const QuizViewer: React.FC = () => {
       };
       
       const folder = subjectMap[selectedSubject] || 'math';
-      const temaNum = selectedTheme.replace('Tema ', '');
-      const dataPath = `./data/${folder}/tema${temaNum}.json`;
+      const dataPath = `./data/${folder}_50.json`;
       
       const response = await fetch(dataPath);
       
