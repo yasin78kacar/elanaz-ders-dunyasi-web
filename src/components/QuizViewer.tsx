@@ -56,6 +56,7 @@ const QuizViewer: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [quizFinished, setQuizFinished] = useState(false);
   const [showStats, setShowStats] = useState(false);
+  const [showLeaderboard, setShowLeaderboard] = useState(false);
   const [timeLeft, setTimeLeft] = useState(30);
 
   const subjects = ['Matematik', 'Türkçe', 'Fen Bilimleri', 'Hayat Bilgisi', 'İngilizce'];
@@ -176,6 +177,54 @@ const QuizViewer: React.FC = () => {
     return '#FF6B6B';
   };
 
+  if (showLeaderboard) {
+    const stats = getStats();
+    const ranked = [...stats]
+      .map((s) => ({ ...s, pct: s.total > 0 ? (s.score / s.total) * 100 : 0 }))
+      .sort((a, b) => b.pct - a.pct || b.score - a.score)
+      .slice(0, 10);
+    const medal = (i: number) => (i === 0 ? "🥇" : i === 1 ? "🥈" : i === 2 ? "🥉" : `${i + 1}.`);
+
+    return (
+      <div className="quiz-container">
+        <h1>🏆 Sıralama - En İyi 10</h1>
+
+        <button className="back-btn" onClick={() => setShowLeaderboard(false)}>
+          ← Geri Dön
+        </button>
+
+        <div className="stats-history">
+          {ranked.length === 0 ? (
+            <p>Henüz sınav yapılmamış.</p>
+          ) : (
+            <table className="stats-table">
+              <thead>
+                <tr>
+                  <th>Sıra</th>
+                  <th>Ders</th>
+                  <th>Tema</th>
+                  <th>Puan</th>
+                  <th>Başarı</th>
+                </tr>
+              </thead>
+              <tbody>
+                {ranked.map((s, idx) => (
+                  <tr key={idx}>
+                    <td>{medal(idx)}</td>
+                    <td>{s.subject}</td>
+                    <td>{s.theme}</td>
+                    <td>{s.score}/{s.total}</td>
+                    <td>{Math.round(s.pct)}%</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          )}
+        </div>
+      </div>
+    );
+  }
+
   if (showStats) {
     const stats = getStats();
     const overallStats = calculateOverallStats();
@@ -266,6 +315,12 @@ const QuizViewer: React.FC = () => {
               onClick={() => setShowStats(true)}
             >
               📊 İstatistikler
+            </button>
+            <button 
+              className="stats-btn"
+              onClick={() => setShowLeaderboard(true)}
+            >
+              🏆 Sıralama
             </button>
           </div>
         </div>
@@ -373,6 +428,12 @@ const QuizViewer: React.FC = () => {
           onClick={() => setShowStats(true)}
         >
           📊 İstatistikler
+        </button>
+        <button 
+          className="stats-btn-bottom"
+          onClick={() => setShowLeaderboard(true)}
+        >
+          🏆 Sıralama
         </button>
       </div>
     </div>
