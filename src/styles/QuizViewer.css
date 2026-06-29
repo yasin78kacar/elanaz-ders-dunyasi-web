@@ -557,3 +557,19 @@
   transform: scale(1.1);
   background-color: var(--bg-secondary);
 }
+
+/* Kontrast düzeltmesi - light/dark okunurluk */
+.quiz-container h1 {
+  color: var(--text-primary, #1a1a1a) !important;
+  opacity: 1 !important;
+}
+.question-section h2,
+.question-text {
+  color: var(--text-primary, #1a1a1a) !important;
+  opacity: 1 !important;
+}
+[data-theme="dark"] .quiz-container h1,
+[data-theme="dark"] .question-section h2,
+[data-theme="dark"] .question-text {
+  color: #ffffff !important;
+}
