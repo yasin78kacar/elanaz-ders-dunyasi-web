@@ -81,7 +81,9 @@ const QuizViewer: React.FC = () => {
       const folder = subjectMap[selectedSubject] || 'math';
       const data = dataMap[folder];
       const filteredQuestions = data.questions.filter(
-        (q: Question) => q.difficulty === difficulty
+        (q: Question) =>
+          q.difficulty === difficulty &&
+          q.theme.startsWith(selectedTheme)
       );
       setQuestions(filteredQuestions);
       setCurrentQuestionIndex(0);
