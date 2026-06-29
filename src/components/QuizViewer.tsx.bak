@@ -33,12 +33,6 @@ const QuizViewer: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [quizFinished, setQuizFinished] = useState(false);
   const [showStats, setShowStats] = useState(false);
-  const [isDarkMode, setIsDarkMode] = useState(() => localStorage.getItem("darkMode") === "true");
-
-  useEffect(() => {
-    localStorage.setItem("darkMode", isDarkMode.toString());
-    document.documentElement.setAttribute("data-theme", isDarkMode ? "dark" : "light");
-  }, [isDarkMode]);
   const [timeLeft, setTimeLeft] = useState(30);
 
   const subjects = ['Matematik', 'Türkçe', 'Fen Bilimleri', 'Hayat Bilgisi', 'İngilizce'];
@@ -270,13 +264,6 @@ const QuizViewer: React.FC = () => {
   return (
     <div className="quiz-container">
       <h1>Elanaz'ın Ders Dünyası - Web</h1>
-      <button
-        className="theme-toggle"
-        onClick={() => setIsDarkMode(!isDarkMode)}
-        title={isDarkMode ? "Light Mode" : "Dark Mode"}
-      >
-        {isDarkMode ? "☀️" : "🌙"}
-      </button>
       
       {/* Subject Selection */}
       <div className="subject-selector">
