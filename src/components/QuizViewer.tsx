@@ -315,7 +315,12 @@ const QuizViewer: React.FC = () => {
         <div className="question-section">
           <h2>{currentQuestion.question}</h2>
           {currentQuestion.image && (
-            <img src={currentQuestion.image} alt="Question" className="question-image" />
+            <img
+              src={currentQuestion.image}
+              alt=""
+              className="question-image"
+              onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = "none"; }}
+            />
           )}
         </div>
 
