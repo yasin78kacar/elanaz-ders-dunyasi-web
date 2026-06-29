@@ -508,3 +508,13 @@
 .timer:hover {
   transform: scale(1.05);
 }
+
+.question-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
