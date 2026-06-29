@@ -1,0 +1,677 @@
+[
+{
+"id": "tr_tema3_001",
+"question": "Aşağıdaki cümlelerin hangisi doğru yazılmıştır?",
+"options": ["ali okula gitti.", "Ali okula gitti.", "ali Okula Gitti.", "ALİ OKULA GİTTİ."],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_002",
+"question": "Cümlelerin sonuna hangi noktalama işareti konur?",
+"options": ["Virgül", "Nokta", "Ünlem", "Soru işareti"],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_003",
+"question": "kitap okudu Ayşe kelimeleriyle kurallı bir cümle oluşturursak hangisi doğru olur?",
+"options": ["Kitap Ayşe okudu.", "Ayşe kitap okudu.", "Okudu Ayşe kitap.", "Kitap okudu Ayşe."],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_004",
+"question": "Aşağıdakilerden hangisi bir özel isimdir?",
+"options": ["masa", "Mehmet", "defter", "ağaç"],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_005",
+"question": "Ali top cümlesi hangi kelime ile tamamlanırsa anlamlı olur?",
+"options": ["yedi", "oynadı", "yaz", "okudu"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_006",
+"question": "Aşağıdakilerden hangisi bir fiil değildir?",
+"options": ["oku", "yaz", "güzel", "oyna"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_007",
+"question": "Zeynep yazı yazdı cümlesinde boşluğa hangisi gelebilir?",
+"options": ["güzel", "git", "oyna", "oku"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_008",
+"question": "Büyük harf kullanımı ile ilgili hangisi doğrudur?",
+"options": ["Cümleye küçük harfle başlarız.", "Kişi adlarını küçük yazarız.", "Cümleye büyük harfle başlarız.", "Özel isimleri küçük yazarız."],
+"correctAnswer": 2,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_009",
+"question": "Mehmet eve cümlesi hangi fiille tamamlanır?",
+"options": ["yedi", "gitti", "büyük", "kırmızı"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_010",
+"question": "Ayşe kırmızı kalem aldı cümlesinde hangi sıfat vardır?",
+"options": ["yaz", "oku", "büyük", "kırmızı"],
+"correctAnswer": 3,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_011",
+"question": "hızlı koştu çocuk kelimeleriyle kurallı cümle hangisidir?",
+"options": ["Çocuk hızlı koştu.", "Koştu çocuk hızlı.", "Hızlı çocuk koştu.", "Çocuk koştu hızlı."],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_012",
+"question": "Aşağıdakilerden hangisi bir sıfattır?",
+"options": ["oyna", "yaz", "kırmızı", "Ali"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_013",
+"question": "Eyvah düştüm cümlesinde hangi noktalama işareti kullanılmıştır?",
+"options": ["Nokta", "Virgül", "Ünlem", "Soru işareti"],
+"correctAnswer": 2,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_014",
+"question": "Aşağıdaki cümlelerden hangisinde yazım yanlışı vardır?",
+"options": ["Ayşe resim yaptı.", "mehmet süt içti.", "Zeynep kitap okudu.", "Ali oyun oynadı."],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_015",
+"question": "ödevini yap cümlesinde boşluğa hangi isim gelmelidir?",
+"options": ["güzel", "Ali", "hızlı", "oku"],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_016",
+"question": "Cümle oluştururken kelimeler hangi sırada olmalıdır?",
+"options": ["Özne - Yüklem", "Yüklem - Özne", "Sırasız", "Rastgele"],
+"correctAnswer": 0,
+"difficulty": "Zor",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_017",
+"question": "Kırmızı elma yedi cümlesinde fiil hangisidir?",
+"options": ["Kırmızı", "elma", "yedi", "Ali"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_018",
+"question": "Zeynep çok bir kızdır boşluğa ne gelmelidir?",
+"options": ["oku", "yaz", "güzel", "git"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_019",
+"question": "Aşağıdaki cümlelerin hangisinde ünlem işareti kullanılmalıdır?",
+"options": ["Ali okula gitti", "Eyvah geç kaldım", "Kitap okudum", "Yemek yedim"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_020",
+"question": "hızlı koştu cümlesini kurallı yapmak için ne eklenmelidir?",
+"options": ["güzel", "Mehmet", "oku", "yaz"],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_021",
+"question": "Aşağıdakilerden hangisi cümledir?",
+"options": ["Ali ve Ayşe", "Eve gidiyorum.", "Güzel kırmızı", "Mehmet hızlı"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_022",
+"question": "oku kitap Zeynep kelimeleriyle kurallı cümle hangisidir?",
+"options": ["Zeynep kitap oku.", "Kitap Zeynep oku.", "Zeynep kitap okudu.", "Okudu Zeynep kitap."],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_023",
+"question": "büyük kelimesi hangisidir?",
+"options": ["Fiil", "İsim", "Sıfat", "Cümle"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_024",
+"question": "ali kelimesi nasıl yazılmalıdır?",
+"options": ["Ali", "aLi", "ALİ", "ali"],
+"correctAnswer": 0,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_025",
+"question": "Cümlelerde virgülden sonra ne yapılır?",
+"options": ["Büyük harfle başlanır.", "Küçük harfle devam edilir.", "Nokta konur.", "Cümle biter."],
+"correctAnswer": 1,
+"difficulty": "Zor",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_026",
+"question": "oyna cümlesini hangi kelimeyle tamamlarız?",
+"options": ["Mehmet", "kırmızı", "güzel", "hızlı"],
+"correctAnswer": 0,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_027",
+"question": "Aşağıdakilerden hangisi bir fiildir?",
+"options": ["büyük", "kırmızı", "yaz", "hızlı"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_028",
+"question": "Ayşe kırmızı elma yedi boşluğa hangisi gelebilir?",
+"options": ["güzel", "hızlı", "büyük", "oyna"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_029",
+"question": "yazı yazdı Mehmet kurallı cümle hangisidir?",
+"options": ["Mehmet yazı yazdı.", "Yazdı Mehmet yazı.", "Mehmet yazdı yazı.", "Yazı yazdı Mehmet."],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_030",
+"question": "hızlı kelimesi nedir?",
+"options": ["Fiil", "Özel isim", "Sıfat", "Yüklem"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_031",
+"question": "Aşağıdakilerden hangisinde özel isim büyük harfle başlamıştır?",
+"options": ["ali", "Ayşe", "Zeynep.", "mehmet"],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_032",
+"question": "Cümle bitti cümlesinin sonuna ne gelir?",
+"options": ["!", ",", ".", "?"],
+"correctAnswer": 2,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_033",
+"question": "kitap oku fiili hangisinde geçiyor?",
+"options": ["Mehmet kitap oku.", "Zeynep kitap okudu.", "Ayşe kitap.", "Ali."],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_034",
+"question": "Aşağıdakilerden hangisi bir özne olabilir?",
+"options": ["git", "yaz", "Zeynep", "güzel"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_035",
+"question": "okula gitti cümlesinde boşluğa hangisi gelebilir?",
+"options": ["hızlı", "büyük", "Mehmet", "oku"],
+"correctAnswer": 2,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_036",
+"question": "oyna kelimesi hangi türdür?",
+"options": ["İsim", "Sıfat", "Fiil", "Özel isim"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_037",
+"question": "Ali kırmızı topu aldı cümlesinde sıfat hangisidir?",
+"options": ["Ali", "kırmızı", "topu", "aldı"],
+"correctAnswer": 1,
+"difficulty": "Zor",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_038",
+"question": "yeme kelimesi nedir?",
+"options": ["İsim", "Fiil", "Sıfat", "Özel isim"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_039",
+"question": "Aşağıdakilerden hangisi doğru bir cümledir?",
+"options": ["Ayşe gitti.", "gitti Ayşe.", "Ayşe.", "gitti."],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_040",
+"question": "Zeynep büyük bir yedi boşluğa hangisi uygundur?",
+"options": ["oku", "yaz", "elma", "git"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_041",
+"question": "Cümlelerin başına nasıl harf konur?",
+"options": ["küçük", "büyük", "sayı", "hiçbiri"],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_042",
+"question": "Mehmet hızlı koştu cümlesinde yüklem hangisidir?",
+"options": ["Mehmet", "hızlı", "koştu", "Ali"],
+"correctAnswer": 2,
+"difficulty": "Zor",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_043",
+"question": "güzel kelimesi nedir?",
+"options": ["Fiil", "Sıfat", "İsim", "Özel isim"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_044",
+"question": "Aşağıdakilerden hangisi özel isim değildir?",
+"options": ["Mehmet", "Zeynep", "Ayşe", "masa"],
+"correctAnswer": 3,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_045",
+"question": "Ali yazdı cümlesinde boşluğa hangisi gelebilir?",
+"options": ["yazı", "git", "oyna", "oku"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_046",
+"question": "okudu kelimesi hangi türdür?",
+"options": ["İsim", "Fiil", "Sıfat", "Özel isim"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_047",
+"question": "Ayşe hızlı cümlesini en iyi tamamlayan fiil?",
+"options": ["yazdı", "elma", "güzel", "kırmızı"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_048",
+"question": "Aşağıdakilerden hangisinde hata vardır?",
+"options": ["Ali geldi.", "Zeynep okudu.", "Ayşe gitti.", "mehmet yazdı."],
+"correctAnswer": 3,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_049",
+"question": "kırmızı kelimesi ne bildirir?",
+"options": ["Renk/Sıfat", "İş/Fiil", "Kişi", "Yer"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_050",
+"question": "Mehmet eve gitti cümlesinde özne kimdir?",
+"options": ["Mehmet", "eve", "gitti", "Ali"],
+"correctAnswer": 0,
+"difficulty": "Zor",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_051",
+"question": "Cümle sonunda kullanılan işaret hangisidir?",
+"options": ["Nokta", "Virgül", "Ünlem", "Soru işareti"],
+"correctAnswer": 0,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_052",
+"question": "güzel resim yaptı boşluğa hangisi gelebilir?",
+"options": ["güzel", "hızlı", "Zeynep", "oku"],
+"correctAnswer": 2,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_053",
+"question": "Ali kırmızı elma yedi kaç kelimedir?",
+"options": ["3", "4", "5", "6"],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_054",
+"question": "yazı yaz ifadesi nedir?",
+"options": ["Fiil", "İsim", "Sıfat", "Özel isim"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_055",
+"question": "Ali hızlı boşluğa hangisi gelmelidir?",
+"options": ["koştu", "elma", "kırmızı", "güzel"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_056",
+"question": "Sıfatlar hangi kelimelerin önüne gelebilir?",
+"options": ["Fiil", "İsim", "Özel isim", "Hiçbiri"],
+"correctAnswer": 1,
+"difficulty": "Zor",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_057",
+"question": "Aşağıdaki cümlelerin hangisi doğrudur?",
+"options": ["Zeynep güzel yazı yazdı.", "güzel Zeynep yazı yazdı.", "Yazdı Zeynep yazı güzel.", "Yazı güzel Zeynep yazdı."],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_058",
+"question": "yemek yedi boşluğa hangisi gelebilir?",
+"options": ["hızlı", "güzel", "Ayşe", "oku"],
+"correctAnswer": 2,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_059",
+"question": "oku kelimesi nedir?",
+"options": ["İsim", "Sıfat", "Fiil", "Özel isim"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_060",
+"question": "Ali kelimesinin yazımı nasıldır?",
+"options": ["Büyük harfle başlar.", "Küçük harfle başlar.", "Sadece ortası büyük.", "Hepsi küçük."],
+"correctAnswer": 0,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_061",
+"question": "yaz kelimesi nedir?",
+"options": ["Sıfat", "Fiil", "İsim", "Yer"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_062",
+"question": "Mehmet oyna boşluğa hangisi gelebilir?",
+"options": ["hızlı", "top", "güzel", "kırmızı"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_063",
+"question": "kitap okudu boşluğa hangisi gelmelidir?",
+"options": ["güzel", "hızlı", "Ali", "yaz"],
+"correctAnswer": 2,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_064",
+"question": "Aşağıdakilerden hangisi bir sıfattır?",
+"options": ["git", "yedi", "güzel", "Ayşe"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_065",
+"question": "resim çizdi boşluğa hangisi gelebilir?",
+"options": ["Zeynep", "hızlı", "güzel", "oku"],
+"correctAnswer": 0,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_066",
+"question": "oynadı kelimesi hangi türdür?",
+"options": ["Fiil", "İsim", "Sıfat", "Özel isim"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_067",
+"question": "kırmızı nedir?",
+"options": ["İsim", "Fiil", "Sıfat", "Özel isim"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_068",
+"question": "Ali topu attı cümlesinde fiil hangisidir?",
+"options": ["Ali", "topu", "attı", "hızlı"],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_069",
+"question": "Cümleler ne ile başlar?",
+"options": ["Büyük harf", "Küçük harf", "Nokta", "Virgül"],
+"correctAnswer": 0,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_070",
+"question": "Mehmet yazdı boşluğa hangisi gelebilir?",
+"options": ["güzel", "git", "oyna", "oku"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_071",
+"question": "Ali okula cümlesini tamamla.",
+"options": ["gitti.", "elma.", "kırmızı.", "güzel."],
+"correctAnswer": 0,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_072",
+"question": "Ayşe nasıl yazılır?",
+"options": ["ayşe", "Ayşe", "AYŞE", "aYŞE"],
+"correctAnswer": 1,
+"difficulty": "Kolay",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_073",
+"question": "yazı nedir?",
+"options": ["Fiil", "İsim", "Sıfat", "Özel isim"],
+"correctAnswer": 1,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_074",
+"question": "Zeynep büyük boşluğa ne gelmelidir?",
+"options": ["elma", "oku", "hızlı", "yaz"],
+"correctAnswer": 0,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+},
+{
+"id": "tr_tema3_075",
+"question": "Aşağıdakilerden hangisi bir cümledir?",
+"options": ["Mehmet.", "güzel Ali.", "Ali koştu.", "hızlı."],
+"correctAnswer": 2,
+"difficulty": "Orta",
+"theme": "Tema 3: Yazı Yazma & Cümle Kurma",
+"subject": "turkce"
+}
+]
