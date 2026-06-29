@@ -1,5 +1,6 @@
 
 import { useState, useEffect } from 'react';
+import { dataMap } from '../data';
 import '../styles/QuizViewer.css';
 
 interface Question {
@@ -78,14 +79,7 @@ const QuizViewer: React.FC = () => {
       };
       
       const folder = subjectMap[selectedSubject] || 'math';
-      const dataPath = `./data/${folder}_50.json`;
-      
-      const response = await fetch(dataPath);
-      if (!response.ok) {
-        throw new Error(`Failed to load questions from ${dataPath}`);
-      }
-      
-      const data = await response.json();
+      const data = dataMap[folder];
       const filteredQuestions = data.questions.filter(
         (q: Question) => q.difficulty === difficulty
       );
