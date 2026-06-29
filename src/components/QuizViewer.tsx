@@ -23,6 +23,28 @@ interface QuizResult {
   date: string;
 }
 
+
+function playSound(correct: boolean) {
+  try {
+    const ctx = new (window.AudioContext || (window as any).webkitAudioContext)();
+    const notes = correct ? [523.25, 659.25, 783.99] : [220, 196];
+    let t = ctx.currentTime;
+    notes.forEach((freq) => {
+      const osc = ctx.createOscillator();
+      const gain = ctx.createGain();
+      osc.type = correct ? "sine" : "triangle";
+      osc.frequency.value = freq;
+      gain.gain.setValueAtTime(0.0001, t);
+      gain.gain.exponentialRampToValueAtTime(0.25, t + 0.02);
+      gain.gain.exponentialRampToValueAtTime(0.0001, t + 0.18);
+      osc.connect(gain).connect(ctx.destination);
+      osc.start(t);
+      osc.stop(t + 0.2);
+      t += 0.16;
+    });
+  } catch (e) { /* ses desteklenmiyorsa sessizce geç */ }
+}
+
 const QuizViewer: React.FC = () => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState('Matematik');
@@ -114,7 +136,9 @@ const QuizViewer: React.FC = () => {
   };
 
   const handleAnswer = (selectedIndex: number) => {
-    if (selectedIndex === questions[currentQuestionIndex].correctAnswer) {
+    const isCorrect = selectedIndex === questions[currentQuestionIndex].correctAnswer;
+    playSound(isCorrect);
+    if (isCorrect) {
       setScore(score + 1);
     }
     
