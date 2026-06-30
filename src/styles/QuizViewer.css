@@ -707,3 +707,43 @@
   border-color: #1D9E75 !important;
   font-weight: 700;
 }
+
+.aktif-ders {
+  font-size: 20px;
+  font-weight: 800;
+  color: #534AB7;
+  background: #EEEDFE;
+  border-radius: 20px;
+  padding: 8px 24px;
+  display: inline-block;
+  margin: 4px 0 16px;
+}
+
+/* === Şıklar: tüm ekranlarda ferah ve büyük (genel) === */
+.options-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  max-width: 480px;
+  margin: 20px auto;
+}
+.option-btn {
+  width: 100%;
+  min-height: 58px;
+  font-size: 19px;
+  font-weight: 600;
+  padding: 16px 20px;
+  border-radius: 14px;
+  border: 2px solid #e0e0e0;
+  background: #ffffff;
+  color: #2c2c2a;
+  cursor: pointer;
+  transition: transform 0.1s ease, background 0.15s ease;
+}
+.option-btn:hover {
+  background: #f5f3ff;
+  border-color: #7F77DD;
+}
+.option-btn:active {
+  transform: scale(0.97);
+}

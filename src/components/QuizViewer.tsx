@@ -51,7 +51,7 @@ const QuizViewer: React.FC = () => {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState('Türkçe');
   const [selectedTheme, setSelectedTheme] = useState('Tema 1');
-  const [difficulty, setDifficulty] = useState<'Kolay' | 'Orta' | 'Zor'>('Orta');
+  const difficulty = 'Orta';
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [loading, setLoading] = useState(true);
@@ -61,8 +61,6 @@ const QuizViewer: React.FC = () => {
   const [showLeaderboard, setShowLeaderboard] = useState(false);
   const [timeLeft, setTimeLeft] = useState(30);
 
-  const subjects = ['Matematik', 'Türkçe', 'Fen Bilimleri', 'Hayat Bilgisi', 'İngilizce'];
-  const themes = ['Tema 1', 'Tema 2', 'Tema 3', 'Tema 4', 'Tema 5'];
 
   useEffect(() => {
     loadQuestions();
@@ -383,50 +381,14 @@ const QuizViewer: React.FC = () => {
       <button className="back-btn" onClick={() => setScreen('home')}>← Ana Sayfa</button>
       <h1>Elanaz'ın Ders Dünyası - Web</h1>
       
-      {/* Subject Selection */}
-      <div className="subject-selector">
-        {subjects.map((subject) => (
-          <button
-            key={subject}
-            className={`subject-btn ${selectedSubject === subject ? 'active' : ''}`}
-            onClick={() => setSelectedSubject(subject)}
-          >
-            {subject}
-          </button>
-        ))}
-      </div>
-
-      {/* Theme Selection */}
-      <div className="theme-selector">
-        {themes.map((theme) => (
-          <button
-            key={theme}
-            className={`theme-btn ${selectedTheme === theme ? 'active' : ''}`}
-            onClick={() => setSelectedTheme(theme)}
-          >
-            {theme}
-          </button>
-        ))}
-      </div>
-
-      {/* Difficulty Selector */}
-      <div className="difficulty-selector">
-        {['Kolay', 'Orta', 'Zor'].map((level) => (
-          <button
-            key={level}
-            className={`difficulty-btn ${difficulty === level ? 'active' : ''}`}
-            onClick={() => setDifficulty(level as 'Kolay' | 'Orta' | 'Zor')}
-          >
-            {level}
-          </button>
-        ))}
-      </div>
+      {/* Aktif ders basligi */}
+      <div className="aktif-ders">{selectedSubject}</div>
 
       {/* Quiz Content */}
       <div className="quiz-content">
         {!currentQuestion ? (
           <div className="question-section">
-            <h2>Bu tema ve zorlukta soru yok. Lütfen başka bir tema veya zorluk seçin.</h2>
+            <h2>Bu derste henüz soru yok. Ana sayfadan başka bir ders seç.</h2>
           </div>
         ) : (
         <>
