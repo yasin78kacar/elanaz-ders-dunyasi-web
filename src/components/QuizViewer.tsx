@@ -47,7 +47,7 @@ function playSound(correct: boolean) {
 
 const QuizViewer: React.FC = () => {
   const [questions, setQuestions] = useState<Question[]>([]);
-  const [selectedSubject, setSelectedSubject] = useState('Matematik');
+  const [selectedSubject, setSelectedSubject] = useState('Türkçe');
   const [selectedTheme, setSelectedTheme] = useState('Tema 1');
   const [difficulty, setDifficulty] = useState<'Kolay' | 'Orta' | 'Zor'>('Orta');
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -103,8 +103,10 @@ const QuizViewer: React.FC = () => {
       
       const folder = subjectMap[selectedSubject] || 'math';
       const data = dataMap[folder];
-      const filteredQuestions = data.questions.filter(
+      const pool = Array.isArray(data) ? data : data.questions;
+      const filteredQuestions = pool.filter(
         (q: Question) =>
+          q.subject === selectedSubject &&
           q.difficulty === difficulty &&
           q.theme.startsWith(selectedTheme)
       );
@@ -330,9 +332,7 @@ const QuizViewer: React.FC = () => {
 
   if (loading) return <div className="quiz-container">Yükleniyor...</div>;
   if (error) return <div className="quiz-container error">{error}</div>;
-  if (questions.length === 0) return <div className="quiz-container">Soru bulunamadı.</div>;
-
-  const currentQuestion = questions[currentQuestionIndex];
+  const currentQuestion = questions.length > 0 ? questions[currentQuestionIndex] : null;
 
   return (
     <div className="quiz-container">
@@ -379,6 +379,12 @@ const QuizViewer: React.FC = () => {
 
       {/* Quiz Content */}
       <div className="quiz-content">
+        {!currentQuestion ? (
+          <div className="question-section">
+            <h2>Bu tema ve zorlukta soru yok. Lütfen başka bir tema veya zorluk seçin.</h2>
+          </div>
+        ) : (
+        <>
         <div className="progress-row">
           <div className="progress">
             Soru {currentQuestionIndex + 1} / {questions.length}
@@ -422,6 +428,8 @@ const QuizViewer: React.FC = () => {
         <div className="score-display">
           Puan: {score} / {questions.length}
         </div>
+        </>
+        )}
 
         <button 
           className="stats-btn-bottom"
