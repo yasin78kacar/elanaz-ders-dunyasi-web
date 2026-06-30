@@ -121,3 +121,54 @@
   color: #ffffff;
 }
 .dil-btn:active { transform: scale(0.96); }
+
+/* === Anladin mi? testi === */
+.test-ilerleme {
+  font-size: 14px;
+  color: #888780;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.test-secenekler {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 480px;
+  margin: 18px auto 0;
+}
+.test-secenek {
+  background: #ffffff;
+  border: 2px solid #e0e0e0;
+  border-radius: 14px;
+  padding: 16px 20px;
+  font-size: 17px;
+  font-weight: 600;
+  color: #2c2c2a;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+.test-secenek:active:not(:disabled) { transform: scale(0.97); }
+.test-secenek.dogru {
+  background: #E1F5EE;
+  border-color: #1D9E75;
+  color: #04342C;
+}
+.test-secenek.yanlis {
+  background: #FAECE7;
+  border-color: #D85A30;
+  color: #4A1B0C;
+}
+.test-btn {
+  background: #1D9E75 !important;
+  color: #fff !important;
+}
+.test-sonuc {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 32px 24px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  margin-top: 16px;
+}
+.test-sonuc-emoji { font-size: 56px; }
+.test-sonuc h2 { font-size: 26px; color: #1D9E75; margin: 8px 0; }
+.test-sonuc p { font-size: 16px; color: #888780; margin: 0 0 20px; }
