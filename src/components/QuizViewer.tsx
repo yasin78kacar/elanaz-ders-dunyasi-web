@@ -46,6 +46,7 @@ function playSound(correct: boolean) {
 }
 
 const QuizViewer: React.FC = () => {
+  const [screen, setScreen] = useState<'home' | 'quiz'>('home');
   const [questions, setQuestions] = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState('Türkçe');
   const [selectedTheme, setSelectedTheme] = useState('Tema 1');
@@ -330,12 +331,50 @@ const QuizViewer: React.FC = () => {
     );
   }
 
+  if (screen === 'home') {
+    const cards = [
+      { name: 'Matematik', emoji: '🔢', color: '#378ADD' },
+      { name: 'Türkçe', emoji: '📖', color: '#D4537E' },
+      { name: 'Fen Bilimleri', emoji: '🔬', color: '#1D9E75' },
+      { name: 'Hayat Bilgisi', emoji: '🌍', color: '#EF9F27' },
+      { name: 'İngilizce', emoji: '🔤', color: '#7F77DD' },
+    ];
+    return (
+      <div className="home-container">
+        <h1 className="home-title">🎈 Ders Dünyası</h1>
+        <p className="home-subtitle">Dokun ve oyna!</p>
+        <div className="home-grid">
+          {cards.map((c, i) => (
+            <button
+              key={c.name}
+              className={`home-card ${i === 4 ? 'home-card-wide' : ''}`}
+              style={{ background: c.color }}
+              onClick={() => {
+                setSelectedSubject(c.name);
+                setSelectedTheme('Tema 1');
+                setScreen('quiz');
+              }}
+            >
+              <span className="home-card-emoji">{c.emoji}</span>
+              <span className="home-card-name">{c.name}</span>
+            </button>
+          ))}
+        </div>
+        <div className="home-actions">
+          <button className="home-action-btn" onClick={() => setShowLeaderboard(true)}>🏆 Sıralama</button>
+          <button className="home-action-btn" onClick={() => setShowStats(true)}>📊 İlerlemem</button>
+        </div>
+      </div>
+    );
+  }
+
   if (loading) return <div className="quiz-container">Yükleniyor...</div>;
   if (error) return <div className="quiz-container error">{error}</div>;
   const currentQuestion = questions.length > 0 ? questions[currentQuestionIndex] : null;
 
   return (
     <div className="quiz-container">
+      <button className="back-btn" onClick={() => setScreen('home')}>← Ana Sayfa</button>
       <h1>Elanaz'ın Ders Dünyası - Web</h1>
       
       {/* Subject Selection */}

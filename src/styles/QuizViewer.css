@@ -616,3 +616,87 @@
 @media (max-width: 768px) {
   .question-emoji { font-size: 96px; }
 }
+
+/* ===== Giriş Ekranı ===== */
+.home-container {
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 32px 20px;
+  text-align: center;
+}
+.home-title {
+  font-size: 32px;
+  font-weight: 800;
+  margin: 0 0 4px;
+  color: #7F77DD;
+  text-shadow: 0 2px 8px rgba(127,119,221,0.3);
+}
+.home-subtitle {
+  font-size: 16px;
+  color: #888780;
+  margin: 0 0 28px;
+}
+.home-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+.home-card {
+  border: none;
+  border-radius: 22px;
+  padding: 32px 12px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  transition: transform 0.12s ease;
+  box-shadow: 0 4px 0 rgba(0,0,0,0.15);
+}
+.home-card:active {
+  transform: scale(0.96) translateY(2px);
+  box-shadow: 0 2px 0 rgba(0,0,0,0.15);
+}
+.home-card-wide {
+  grid-column: span 2;
+}
+.home-card-emoji {
+  font-size: 52px;
+}
+.home-card-name {
+  font-size: 20px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.home-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 22px;
+}
+.home-action-btn {
+  background: #ffffff;
+  border: 2px solid #e0e0e0;
+  border-radius: 24px;
+  padding: 10px 22px;
+  font-size: 15px;
+  color: #555;
+  cursor: pointer;
+}
+.home-action-btn:active {
+  transform: scale(0.96);
+}
+
+.back-btn {
+  background: #f0f0f0;
+  border: none;
+  border-radius: 20px;
+  padding: 8px 18px;
+  font-size: 14px;
+  color: #555;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+.back-btn:active {
+  transform: scale(0.96);
+}
