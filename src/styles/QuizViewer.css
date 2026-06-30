@@ -819,3 +819,33 @@
   0% { top: -20px; transform: rotate(0deg); opacity: 1; }
   100% { top: 100vh; transform: rotate(540deg); opacity: 0.8; }
 }
+
+/* === Yumusak yanlis/dogru geri bildirimi === */
+.option-btn.option-dogru {
+  background: #E1F5EE !important;
+  border-color: #1D9E75 !important;
+  color: #04342C !important;
+  font-weight: 700;
+}
+.option-btn.option-yanlis {
+  background: #FAECE7 !important;
+  border-color: #EF9F27 !important;
+  color: #7A4A1A !important;
+}
+.option-btn:disabled { cursor: default; }
+
+.yanlis-balon {
+  position: fixed;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #EF9F27;
+  color: #fff;
+  padding: 16px 32px;
+  border-radius: 22px;
+  font-size: 22px;
+  font-weight: 800;
+  box-shadow: 0 8px 26px rgba(239,159,39,0.4);
+  z-index: 9999;
+  animation: balon-zipla 0.5s ease;
+}

@@ -57,6 +57,8 @@ const QuizViewer: React.FC = () => {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [kutlama, setKutlama] = useState(false);
+  const [yanlisGeri, setYanlisGeri] = useState(false);
+  const [secilenSik, setSecilenSik] = useState<number | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [quizFinished, setQuizFinished] = useState(false);
@@ -149,14 +151,17 @@ const QuizViewer: React.FC = () => {
   };
 
   const handleAnswer = (selectedIndex: number) => {
+    if (secilenSik !== null) return; // cevap verildiyse tekrar tiklamayi engelle
     const isCorrect = selectedIndex === questions[currentQuestionIndex].correctAnswer;
     playSound(isCorrect);
+    setSecilenSik(selectedIndex);
     if (isCorrect) {
       setScore(score + 1);
       setKutlama(true);
-      setTimeout(() => { setKutlama(false); ilerle(); }, 900);
+      setTimeout(() => { setKutlama(false); setSecilenSik(null); ilerle(); }, 900);
     } else {
-      ilerle();
+      setYanlisGeri(true);
+      setTimeout(() => { setYanlisGeri(false); setSecilenSik(null); ilerle(); }, 1600);
     }
   };
 
@@ -388,6 +393,9 @@ const QuizViewer: React.FC = () => {
   return (
     <div className="quiz-container">
       <button className="back-btn" onClick={() => setScreen('home')}>← Ana Sayfa</button>
+      {yanlisGeri && (
+        <div className="yanlis-balon">💪 Olsun, tekrar dene!</div>
+      )}
       {kutlama && (
         <div className="kutlama-katman">
           <div className="kutlama-balon">
@@ -445,15 +453,23 @@ const QuizViewer: React.FC = () => {
         </div>
 
         <div className="options-grid">
-          {currentQuestion.options.map((option, index) => (
-            <button
-              key={index}
-              className="option-btn"
-              onClick={() => handleAnswer(index)}
-            >
-              {option}
-            </button>
-          ))}
+          {currentQuestion.options.map((option, index) => {
+            let cls = 'option-btn';
+            if (secilenSik !== null) {
+              if (index === currentQuestion.correctAnswer) cls += ' option-dogru';
+              else if (index === secilenSik) cls += ' option-yanlis';
+            }
+            return (
+              <button
+                key={index}
+                className={cls}
+                onClick={() => handleAnswer(index)}
+                disabled={secilenSik !== null}
+              >
+                {option}
+              </button>
+            );
+          })}
         </div>
 
         <div className="score-display">
