@@ -770,3 +770,52 @@
   color: #5C4A1A;
   text-align: left;
 }
+
+/* === Kutlama efekti === */
+.kutlama-katman {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  overflow: hidden;
+}
+.kutlama-balon {
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #1D9E75;
+  color: #fff;
+  padding: 20px 40px;
+  border-radius: 24px;
+  text-align: center;
+  box-shadow: 0 8px 30px rgba(29,158,117,0.4);
+  animation: balon-zipla 0.9s ease;
+}
+.kutlama-emoji { font-size: 52px; }
+.kutlama-yazi { font-size: 28px; font-weight: 800; margin-top: 4px; }
+@keyframes balon-zipla {
+  0% { transform: translate(-50%,-50%) scale(0.3); opacity: 0; }
+  40% { transform: translate(-50%,-50%) scale(1.15); opacity: 1; }
+  70% { transform: translate(-50%,-50%) scale(0.95); }
+  100% { transform: translate(-50%,-50%) scale(1); opacity: 1; }
+}
+.konfeti {
+  position: absolute;
+  top: -20px;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  animation: konfeti-dus 0.9s ease-in forwards;
+}
+.konfeti-0 { background: #F2546B; }
+.konfeti-1 { background: #378ADD; }
+.konfeti-2 { background: #FAC008; }
+.konfeti-3 { background: #1D9E75; }
+.konfeti-4 { background: #EF9F27; }
+.konfeti-5 { background: #7F77DD; }
+.konfeti-6 { background: #EC407A; }
+@keyframes konfeti-dus {
+  0% { top: -20px; transform: rotate(0deg); opacity: 1; }
+  100% { top: 100vh; transform: rotate(540deg); opacity: 0.8; }
+}

@@ -56,6 +56,7 @@ const QuizViewer: React.FC = () => {
   const difficulty = 'Orta';
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [score, setScore] = useState(0);
+  const [kutlama, setKutlama] = useState(false);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [quizFinished, setQuizFinished] = useState(false);
@@ -138,18 +139,24 @@ const QuizViewer: React.FC = () => {
     localStorage.setItem('quizStats', JSON.stringify(stats));
   };
 
-  const handleAnswer = (selectedIndex: number) => {
-    const isCorrect = selectedIndex === questions[currentQuestionIndex].correctAnswer;
-    playSound(isCorrect);
-    if (isCorrect) {
-      setScore(score + 1);
-    }
-    
+  const ilerle = () => {
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
     } else {
       saveResult();
       setQuizFinished(true);
+    }
+  };
+
+  const handleAnswer = (selectedIndex: number) => {
+    const isCorrect = selectedIndex === questions[currentQuestionIndex].correctAnswer;
+    playSound(isCorrect);
+    if (isCorrect) {
+      setScore(score + 1);
+      setKutlama(true);
+      setTimeout(() => { setKutlama(false); ilerle(); }, 900);
+    } else {
+      ilerle();
     }
   };
 
@@ -381,6 +388,17 @@ const QuizViewer: React.FC = () => {
   return (
     <div className="quiz-container">
       <button className="back-btn" onClick={() => setScreen('home')}>← Ana Sayfa</button>
+      {kutlama && (
+        <div className="kutlama-katman">
+          <div className="kutlama-balon">
+            <div className="kutlama-emoji">🎉</div>
+            <div className="kutlama-yazi">Aferin!</div>
+          </div>
+          {Array.from({ length: 14 }).map((_, i) => (
+            <span key={i} className={`konfeti konfeti-${i % 7}`} style={{ left: `${(i * 7) % 100}%` }} />
+          ))}
+        </div>
+      )}
       <h1>Elanaz'ın Ders Dünyası - Web</h1>
       
       {/* Aktif ders basligi */}
