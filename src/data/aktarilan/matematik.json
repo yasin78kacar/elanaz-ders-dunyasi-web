@@ -4312,20 +4312,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0309",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki şekil hangisidir?",
-  "options": [
-   "Daire",
-   "Kare",
-   "Dikdörtgen",
-   "Üçgen"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0310",
   "subject": "Matematik",
   "theme": "Geometrik Şekil Modelleri",
@@ -4337,34 +4323,6 @@
    "Çember"
   ],
   "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0311",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki şekil hangisidir?",
-  "options": [
-   "Kare",
-   "Çember",
-   "Daire",
-   "Üçgen"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0312",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "🎭 Resimdeki şekil hangisidir?",
-  "options": [
-   "Kare",
-   "Çember",
-   "Daire",
-   "Üçgen"
-  ],
-  "correctAnswer": 2,
   "difficulty": "Orta"
  },
  {
@@ -4396,34 +4354,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0315",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki evin çatısı hangi şekildir?",
-  "options": [
-   "Dikdörtgen",
-   "Daire",
-   "Kare",
-   "Üçgen"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0316",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki trende kaç tane çember vardır?",
-  "options": [
-   "2",
-   "1",
-   "4",
-   "3"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0317",
   "subject": "Matematik",
   "theme": "Geometrik Şekil Modelleri",
@@ -4449,34 +4379,6 @@
    "Dikdörtgen"
   ],
   "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0319",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki robotun gözleri hangi şekildir?",
-  "options": [
-   "Daire",
-   "Dikdörtgen",
-   "Üçgen",
-   "Kare"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0320",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki modelde kaç tane kare vardır?",
-  "options": [
-   "2",
-   "4",
-   "3",
-   "1"
-  ],
-  "correctAnswer": 0,
   "difficulty": "Orta"
  },
  {
@@ -4550,34 +4452,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0326",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki çiçek modelinde yapraklar hangi şekildir?",
-  "options": [
-   "Çember",
-   "Kare",
-   "Üçgen",
-   "Dikdörtgen"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0327",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki evde toplam kaç pencere vardır ve hangi şekildir?",
-  "options": [
-   "1 dikdörtgen",
-   "3 üçgen",
-   "2 kare",
-   "2 daire"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0328",
   "subject": "Matematik",
   "theme": "Geometrik Şekil Modelleri",
@@ -4617,20 +4491,6 @@
    "Daire"
   ],
   "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0331",
-  "subject": "Matematik",
-  "theme": "Geometrik Şekil Modelleri",
-  "question": "Resimdeki kelebek modelinde kaç üçgen vardır?",
-  "options": [
-   "4",
-   "2",
-   "1",
-   "3"
-  ],
-  "correctAnswer": 0,
   "difficulty": "Orta"
  },
  {
@@ -5012,20 +4872,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0359",
-  "subject": "Matematik",
-  "theme": "Onluk ve Birlik",
-  "question": "Resimdeki bloklarda kaç onluk var?",
-  "options": [
-   "4",
-   "50",
-   "5",
-   "6"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0360",
   "subject": "Matematik",
   "theme": "Onluk ve Birlik",
@@ -5054,20 +4900,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0362",
-  "subject": "Matematik",
-  "theme": "Onluk ve Birlik",
-  "question": "Resimde toplam kaç birlik var?",
-  "options": [
-   "64",
-   "40",
-   "6",
-   "4"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0363",
   "subject": "Matematik",
   "theme": "Onluk ve Birlik",
@@ -5079,20 +4911,6 @@
    "9"
   ],
   "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0364",
-  "subject": "Matematik",
-  "theme": "Onluk ve Birlik",
-  "question": "Resimdeki sayı kaçtır?",
-  "options": [
-   "2",
-   "42",
-   "24",
-   "40"
-  ],
-  "correctAnswer": 1,
   "difficulty": "Orta"
  },
  {
@@ -5124,20 +4942,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0367",
-  "subject": "Matematik",
-  "theme": "Onluk ve Birlik",
-  "question": "Resimde kaç onluk görüyorsun?",
-  "options": [
-   "38",
-   "2",
-   "3",
-   "8"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0368",
   "subject": "Matematik",
   "theme": "Onluk ve Birlik",
@@ -5166,20 +4970,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0370",
-  "subject": "Matematik",
-  "theme": "Onluk ve Birlik",
-  "question": "Resimdeki bloklar hangi sayıyı gösterir?",
-  "options": [
-   "20",
-   "29",
-   "9",
-   "92"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0371",
   "subject": "Matematik",
   "theme": "Onluk ve Birlik",
@@ -5205,20 +4995,6 @@
    "36"
   ],
   "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0373",
-  "subject": "Matematik",
-  "theme": "Onluk ve Birlik",
-  "question": "Resimde toplam kaç onluk var?",
-  "options": [
-   "9",
-   "7",
-   "72",
-   "2"
-  ],
-  "correctAnswer": 1,
   "difficulty": "Orta"
  },
  {
@@ -8680,216 +8456,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0621",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç elma vardır?",
-  "options": [
-   "8",
-   "7",
-   "5",
-   "6"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0622",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç top vardır?",
-  "options": [
-   "9",
-   "7",
-   "10",
-   "8"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0623",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç yıldız vardır?",
-  "options": [
-   "5",
-   "4",
-   "3",
-   "6"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0624",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç balon vardır?",
-  "options": [
-   "12",
-   "10",
-   "13",
-   "11"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0625",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç çiçek vardır?",
-  "options": [
-   "13",
-   "12",
-   "14",
-   "11"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0626",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç kelebek vardır?",
-  "options": [
-   "15",
-   "13",
-   "16",
-   "14"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0627",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç kalem vardır?",
-  "options": [
-   "18",
-   "16",
-   "17",
-   "15"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0628",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç çilek vardır?",
-  "options": [
-   "16",
-   "18",
-   "17",
-   "19"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0629",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç elma vardır?",
-  "options": [
-   "20",
-   "18",
-   "19",
-   "21"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0630",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç top vardır?",
-  "options": [
-   "2",
-   "3",
-   "4",
-   "1"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0631",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç yıldız vardır?",
-  "options": [
-   "15",
-   "12",
-   "13",
-   "14"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0632",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç balon vardır?",
-  "options": [
-   "14",
-   "17",
-   "16",
-   "15"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0633",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç çiçek vardır?",
-  "options": [
-   "13",
-   "12",
-   "11",
-   "10"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0634",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde kaç kelebek vardır?",
-  "options": [
-   "19",
-   "20",
-   "17",
-   "18"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0635",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Resimde hiç nesne yoksa kaç tane vardır?",
-  "options": [
-   "0",
-   "2",
-   "10",
-   "1"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0636",
   "subject": "Matematik",
   "theme": "Sayılar ve Sayma (1-20)",
@@ -9335,20 +8901,6 @@
    "6"
   ],
   "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0668",
-  "subject": "Matematik",
-  "theme": "Sayılar ve Sayma (1-20)",
-  "question": "🎭 Resimde 5 elma var. \"7 elma\" diyen doğru mu?",
-  "options": [
-   "Bazen",
-   "Evet",
-   "Hayır",
-   "Bilinemez"
-  ],
-  "correctAnswer": 2,
   "difficulty": "Orta"
  },
  {
@@ -10682,20 +10234,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0764",
-  "subject": "Matematik",
-  "theme": "Sıvı Ölçme",
-  "question": "1 büyük şişe kaç küçük şişeye eşit? Resimdeki şişeleri say.",
-  "options": [
-   "1",
-   "5",
-   "10",
-   "3"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0765",
   "subject": "Matematik",
   "theme": "Sıvı Ölçme",
@@ -10721,20 +10259,6 @@
    "Bidon"
   ],
   "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0767",
-  "subject": "Matematik",
-  "theme": "Sıvı Ölçme",
-  "question": "1 kova su 5 şişeyi doldurdu. Resimdeki 2 kova kaç şişeyi doldurur?",
-  "options": [
-   "7",
-   "3",
-   "5",
-   "10"
-  ],
-  "correctAnswer": 3,
   "difficulty": "Orta"
  },
  {
@@ -10780,20 +10304,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0771",
-  "subject": "Matematik",
-  "theme": "Sıvı Ölçme",
-  "question": "2 bidon gül suyu 6 şişeyi doldurdu. Resimdeki şişeleri iki gruba ayırınca 1 bidon kaç şişeyi doldurur?",
-  "options": [
-   "3",
-   "8",
-   "6",
-   "2"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0772",
   "subject": "Matematik",
   "theme": "Sıvı Ölçme",
@@ -10817,20 +10327,6 @@
    "Sürahi",
    "Şişe",
    "Bardak"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0774",
-  "subject": "Matematik",
-  "theme": "Sıvı Ölçme",
-  "question": "Elanaz 1 sürahi = 3 bardak olduğunu öğrendi. Resimdeki 3 sürahide kaç bardak su var? (Resimdeki bardakları say.)",
-  "options": [
-   "9",
-   "6",
-   "12",
-   "3"
   ],
   "correctAnswer": 0,
   "difficulty": "Orta"
@@ -10864,20 +10360,6 @@
   "difficulty": "Orta"
  },
  {
-  "id": "ma_0777",
-  "subject": "Matematik",
-  "theme": "Sıvı Ölçme",
-  "question": "Resimdeki 4 sürahide toplam kaç bardak su var? (Her sürahide 2 bardak su var.)",
-  "options": [
-   "10",
-   "8",
-   "6",
-   "4"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta"
- },
- {
   "id": "ma_0778",
   "subject": "Matematik",
   "theme": "Sıvı Ölçme",
@@ -10889,20 +10371,6 @@
    "Bardak, sürahi, kova"
   ],
   "correctAnswer": 3,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0779",
-  "subject": "Matematik",
-  "theme": "Sıvı Ölçme",
-  "question": "Elanaz 10 bardak suyu 2 sürahiye eşit doldurdu. Resimdeki bardakları iki gruba ayır: 1 sürahiye kaç bardak sığmış?",
-  "options": [
-   "10",
-   "5",
-   "2",
-   "8"
-  ],
-  "correctAnswer": 1,
   "difficulty": "Orta"
  },
  {
@@ -10943,20 +10411,6 @@
    "Hiçbir zaman",
    "Evet",
    "Bazen"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta"
- },
- {
-  "id": "ma_0783",
-  "subject": "Matematik",
-  "theme": "Sıvı Ölçme",
-  "question": "1 büyük bidon 8 şişeyi doldurdu. Resimdeki 2 bidona bakarak kaç şişe dolar?",
-  "options": [
-   "8",
-   "12",
-   "16",
-   "4"
   ],
   "correctAnswer": 2,
   "difficulty": "Orta"

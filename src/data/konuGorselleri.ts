@@ -85,6 +85,19 @@ export const konuGorselleri: { [konu: string]: string } = {
   'Shapes': 'Five_flat_geometric_shapes_in_202606120945.jpeg',
   'Numbers and Classroom': 'Eight_simple_school_objects_in_202606120943.jpeg',
   'School Subjects': 'Eight_simple_school_objects_in_202606120943.jpeg',
+
+  // GÖRSEL SANATLAR
+  'Renk Teorisi': 'Eight_color_swatches_with_labels_202606120943.jpeg',
+  'Form ve Çizgi': 'Five_flat_geometric_shapes_in_202606120945.jpeg',
+
+  // ZEKA-DİKKAT
+  'Şekil Örüntüleri': 'Three_rows_of_repeating_patterns_202606120944.jpeg',
+  'Renk Örüntüleri': 'Three_rows_of_repeating_patterns_202606120944.jpeg',
+  'Karma Örüntü': 'Three_incomplete_patterns_on_white_202606121018.jpeg',
+  'Sayı Örüntüleri (Artan)': 'Three_incomplete_patterns_on_white_202606121018.jpeg',
+  'Sayı Örüntüleri (Azalan)': 'Three_incomplete_patterns_on_white_202606121018.jpeg',
+  'Farklı Olanı Bulma — Şekil': 'Five_flat_geometric_shapes_in_202606120945.jpeg',
+  'İleri Zeka Bulmacaları': 'A_simple_maze_on_white_202606120943.jpeg',
 };
 
 export function gorselBul(theme: string): string | null {
