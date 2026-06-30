@@ -950,3 +950,53 @@
   color: #fff;
 }
 .profil-sinif-btn:active { transform: scale(0.97); }
+
+/* === Hakkinda ekrani === */
+.hakkinda-container {
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 24px 22px 48px;
+  text-align: left;
+}
+.hakkinda-emoji {
+  font-size: 56px;
+  text-align: center;
+  margin-top: 8px;
+}
+.hakkinda-baslik {
+  font-size: 28px;
+  font-weight: 800;
+  color: #7F77DD;
+  text-align: center;
+  margin: 4px 0 24px;
+}
+.hakkinda-giris {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #444;
+  background: #EEEDFE;
+  padding: 18px 22px;
+  border-radius: 16px;
+  margin-bottom: 22px;
+}
+.hakkinda-bolum {
+  margin-bottom: 20px;
+}
+.hakkinda-bolum h3 {
+  font-size: 19px;
+  color: #2c2c2a;
+  margin: 0 0 6px;
+}
+.hakkinda-bolum p {
+  font-size: 16px;
+  line-height: 1.65;
+  color: #555;
+  margin: 0;
+}
+.hakkinda-son {
+  background: #FFF9E6;
+  border-radius: 16px;
+  padding: 18px 22px;
+  border: 2px solid #FAC775;
+}
+.hakkinda-son h3 { margin-top: 0; }

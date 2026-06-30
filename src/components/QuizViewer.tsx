@@ -49,7 +49,7 @@ function playSound(correct: boolean) {
 }
 
 const QuizViewer: React.FC = () => {
-  const [screen, setScreen] = useState<'home' | 'quiz' | 'hikaye'>('home');
+  const [screen, setScreen] = useState<'home' | 'quiz' | 'hikaye' | 'hakkinda'>('home');
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem('aktifProfilAdi') || '');
   const [yeniAd, setYeniAd] = useState('');
   const [yeniSinif, setYeniSinif] = useState('');
@@ -363,6 +363,53 @@ const QuizViewer: React.FC = () => {
     );
   }
 
+  if (screen === 'hakkinda') {
+    return (
+      <div className="hakkinda-container">
+        <button className="back-btn" onClick={() => setScreen('home')}>← Ana Sayfa</button>
+        <div className="hakkinda-emoji">🎈</div>
+        <h1 className="hakkinda-baslik">Ders Dünyası Hakkında</h1>
+
+        <p className="hakkinda-giris">
+          Ders Dünyası, ilkokul çağındaki çocukların öğrenmesine küçük bir katkı sunmak için
+          hazırlanmış, tamamen ücretsiz bir eğitim uygulamasıdır. Hiçbir kâr amacı gütmez;
+          tek amacı çocukların eğlenerek ve kendi hızlarında öğrenmesidir.
+        </p>
+
+        <div className="hakkinda-bolum">
+          <h3>📚 Müfredata uygun</h3>
+          <p>Tüm sorular ve hikâyeler, MEB müfredatı göz önünde bulundurularak hazırlanmıştır.
+          Matematik, Türkçe, Fen Bilimleri, Hayat Bilgisi ve İngilizce başta olmak üzere geniş bir konu yelpazesini kapsar.</p>
+        </div>
+
+        <div className="hakkinda-bolum">
+          <h3>🛡️ Güvenli içerik</h3>
+          <p>İçerikler çocuklar için özenle hazırlanmıştır. Uygulamada argo, küfür, şiddet ya da
+          çocuklar için uygunsuz hiçbir ifade yer almaz. Her şey çocukların yaş seviyesine uygun bir dille yazılmıştır.</p>
+        </div>
+
+        <div className="hakkinda-bolum">
+          <h3>🔒 Gizliliğiniz güvende</h3>
+          <p>Çocuğunuzun takma adı, sınıfı ve oyun ilerlemesi yalnızca kullandığınız cihazda saklanır.
+          Bu bilgiler bize veya başka hiç kimseye gönderilmez, hiçbir sunucuda toplanmaz.
+          Cihazınızın tarayıcı verilerini temizlerseniz bu bilgiler de silinir — yani her şey tamamen sizin kontrolünüzdedir.</p>
+        </div>
+
+        <div className="hakkinda-bolum">
+          <h3>🌱 Sürekli gelişiyor</h3>
+          <p>Ders Dünyası güncellemeye açık, yaşayan bir projedir. Yeni sorular, hikâyeler ve
+          özellikler zamanla eklenmeye devam edecek. Amacımız, uygulamayı çocuklarla birlikte büyütmek.</p>
+        </div>
+
+        <div className="hakkinda-bolum hakkinda-son">
+          <h3>❤️ Sevgiyle yapıldı</h3>
+          <p>Bu uygulama, bir babanın kendi çocukları için başlattığı bir projeden doğdu.
+          Umuyoruz ki sizin çocuğunuzun da öğrenme yolculuğuna küçük bir ışık tutar.</p>
+        </div>
+      </div>
+    );
+  }
+
   if (screen === 'hikaye') {
     return <HikayeKosesi onClose={() => setScreen('home')} />;
   }
@@ -443,6 +490,7 @@ const QuizViewer: React.FC = () => {
           <button className="home-action-btn hikaye-action" onClick={() => setScreen('hikaye')}>📚 Hikaye Köşesi</button>
           <button className="home-action-btn" onClick={() => setShowLeaderboard(true)}>🏆 Sıralama</button>
           <button className="home-action-btn" onClick={() => setShowStats(true)}>📊 İlerlemem</button>
+          <button className="home-action-btn" onClick={() => setScreen('hakkinda')}>ℹ️ Hakkında</button>
         </div>
       </div>
     );
