@@ -50,6 +50,9 @@ function playSound(correct: boolean) {
 
 const QuizViewer: React.FC = () => {
   const [screen, setScreen] = useState<'home' | 'quiz' | 'hikaye'>('home');
+  const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem('aktifProfilAdi') || '');
+  const [yeniAd, setYeniAd] = useState('');
+  const [yeniYas, setYeniYas] = useState('');
   const [questions, setQuestions] = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState('Türkçe');
   const [selectedTheme, setSelectedTheme] = useState('Tema 1');
@@ -364,6 +367,42 @@ const QuizViewer: React.FC = () => {
     return <HikayeKosesi onClose={() => setScreen('home')} />;
   }
 
+  // Profil yoksa once isim/yas sor
+  if (!profilAdi) {
+    const profilOlustur = () => {
+      const ad = yeniAd.trim();
+      if (!ad) return;
+      localStorage.setItem('aktifProfilAdi', ad);
+      localStorage.setItem('aktifProfilYas', yeniYas);
+      setProfilAdi(ad);
+    };
+    return (
+      <div className="profil-container">
+        <div className="profil-emoji">👋</div>
+        <h1 className="profil-baslik">Hoş geldin!</h1>
+        <p className="profil-alt">Seni tanıyalım, sonra oyna!</p>
+        <input
+          className="profil-input"
+          placeholder="Adın ne?"
+          value={yeniAd}
+          onChange={(e) => setYeniAd(e.target.value)}
+          maxLength={20}
+        />
+        <input
+          className="profil-input"
+          placeholder="Kaç yaşındasın?"
+          value={yeniYas}
+          onChange={(e) => setYeniYas(e.target.value.replace(/[^0-9]/g, ''))}
+          maxLength={2}
+          inputMode="numeric"
+        />
+        <button className="profil-btn" onClick={profilOlustur} disabled={!yeniAd.trim()}>
+          Başla! 🎈
+        </button>
+      </div>
+    );
+  }
+
   if (screen === 'home') {
     const cards = [
       { name: 'Matematik', emoji: '🔢', color: '#378ADD' },
@@ -377,7 +416,7 @@ const QuizViewer: React.FC = () => {
     return (
       <div className="home-container">
         <h1 className="home-title">🎈 Ders Dünyası</h1>
-        <p className="home-subtitle">Dokun ve oyna!</p>
+        <p className="home-subtitle">Merhaba {profilAdi}! 👋 Dokun ve oyna!</p>
         <div className="home-grid">
           {cards.map((c, i) => (
             <button

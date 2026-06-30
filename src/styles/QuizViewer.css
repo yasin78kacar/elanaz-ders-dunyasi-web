@@ -869,3 +869,53 @@
   flex-shrink: 0;
 }
 .soru-dinle-btn:active { transform: scale(0.92); }
+
+/* === Profil ekrani === */
+.profil-container {
+  max-width: 380px;
+  margin: 0 auto;
+  padding: 48px 24px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.profil-emoji { font-size: 64px; margin-bottom: 8px; }
+.profil-baslik {
+  font-size: 30px;
+  font-weight: 800;
+  color: #7F77DD;
+  margin: 0 0 6px;
+}
+.profil-alt {
+  font-size: 16px;
+  color: #888780;
+  margin: 0 0 28px;
+}
+.profil-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 16px 20px;
+  font-size: 18px;
+  border: 2px solid #e0e0e0;
+  border-radius: 14px;
+  margin-bottom: 14px;
+  text-align: center;
+  outline: none;
+}
+.profil-input:focus { border-color: #7F77DD; }
+.profil-btn {
+  width: 100%;
+  padding: 16px;
+  font-size: 20px;
+  font-weight: 800;
+  color: #fff;
+  background: #1D9E75;
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  margin-top: 8px;
+  box-shadow: 0 4px 0 rgba(0,0,0,0.15);
+}
+.profil-btn:disabled { opacity: 0.4; cursor: default; box-shadow: none; }
+.profil-btn:active:not(:disabled) { transform: translateY(2px); box-shadow: 0 2px 0 rgba(0,0,0,0.15); }
