@@ -399,8 +399,6 @@ const QuizViewer: React.FC = () => {
           ))}
         </div>
       )}
-      <h1>Elanaz'ın Ders Dünyası - Web</h1>
-      
       {/* Aktif ders basligi */}
       <div className="aktif-ders">{selectedSubject}</div>
 
