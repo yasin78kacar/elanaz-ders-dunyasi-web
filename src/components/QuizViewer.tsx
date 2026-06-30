@@ -141,6 +141,24 @@ const QuizViewer: React.FC = () => {
     localStorage.setItem('quizStats', JSON.stringify(stats));
   };
 
+  const soruyuSeslendir = () => {
+    if (!currentQuestion) return;
+    window.speechSynthesis.cancel();
+    const metin = currentQuestion.question + '. ' + currentQuestion.options.join('. ');
+    const u = new SpeechSynthesisUtterance(metin);
+    u.lang = selectedSubject === 'İngilizce' ? 'en-US' : 'tr-TR';
+    u.rate = 0.9;
+    const sesler = window.speechSynthesis.getVoices();
+    if (selectedSubject === 'İngilizce') {
+      const s = sesler.find(v => v.name.includes('Samantha')) || sesler.find(v => v.lang === 'en-US');
+      if (s) u.voice = s;
+    } else {
+      const s = sesler.find(v => v.lang === 'tr-TR');
+      if (s) u.voice = s;
+    }
+    window.speechSynthesis.speak(u);
+  };
+
   const ilerle = () => {
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
@@ -437,7 +455,10 @@ const QuizViewer: React.FC = () => {
           {gorselBul(currentQuestion.theme) && (
             <img className="soru-gorsel" src={gorselBul(currentQuestion.theme)!} alt={currentQuestion.theme} />
           )}
-          <h2>{currentQuestion.question}</h2>
+          <div className="soru-satir">
+            <h2>{currentQuestion.question}</h2>
+            <button className="soru-dinle-btn" onClick={soruyuSeslendir} title="Dinle">🔊</button>
+          </div>
           {currentQuestion.image && (
             currentQuestion.image.startsWith("http") ? (
               <img
