@@ -110,7 +110,7 @@ const QuizViewer: React.FC = () => {
       const data = dataMap[folder];
       const pool = Array.isArray(data) ? data : data.questions;
       const dersSorulari = pool.filter((q: Question) => q.subject === selectedSubject);
-      const karistir = [...dersSorulari].sort(() => Math.random() - 0.5).slice(0, 20);
+      const karistir = [...dersSorulari].sort(() => Math.random() - 0.5).slice(0, 7);
       setQuestions(karistir);
       setCurrentQuestionIndex(0);
       setScore(0);
