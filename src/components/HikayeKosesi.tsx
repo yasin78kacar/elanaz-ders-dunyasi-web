@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { hikayeler } from '../data';
+import { hikayeler, ingilizceHikayeler } from '../data';
 import '../styles/HikayeKosesi.css';
 
 interface Props {
@@ -7,19 +7,41 @@ interface Props {
 }
 
 const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
+  const [dil, setDil] = useState<'tr' | 'en'>('tr');
   const [seciliHikaye, setSeciliHikaye] = useState<number | null>(null);
   const [sayfa, setSayfa] = useState(0);
   const [okunuyor, setOkunuyor] = useState(false);
 
-  // Bilesen kapanirken sesi durdur
+  const liste = dil === 'tr' ? hikayeler : ingilizceHikayeler;
+  const sesDili = dil === 'tr' ? 'tr-TR' : 'en-US';
+
   useEffect(() => {
+    // Sesleri onceden yukle (bazi tarayicilarda async gelir)
+    window.speechSynthesis.getVoices();
+    window.speechSynthesis.onvoiceschanged = () => { window.speechSynthesis.getVoices(); };
     return () => { window.speechSynthesis.cancel(); };
   }, []);
+
+  const enIyiSesiSec = (lang: string) => {
+    const sesler = window.speechSynthesis.getVoices();
+    if (lang.startsWith('en')) {
+      // Oncelik: kaliteli dogal sesler
+      const tercih = ['Samantha', 'Ava', 'Allison', 'Alex', 'Daniel', 'Google US English'];
+      for (const isim of tercih) {
+        const v = sesler.find(s => s.name.includes(isim));
+        if (v) return v;
+      }
+      return sesler.find(s => s.lang === 'en-US') || sesler.find(s => s.lang.startsWith('en'));
+    }
+    return sesler.find(s => s.lang === 'tr-TR') || sesler.find(s => s.lang.startsWith('tr'));
+  };
 
   const sesliOku = (metin: string) => {
     window.speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(metin);
-    u.lang = 'tr-TR';
+    u.lang = sesDili;
+    const ses = enIyiSesiSec(sesDili);
+    if (ses) u.voice = ses;
     u.rate = 0.9;
     u.onend = () => setOkunuyor(false);
     setOkunuyor(true);
@@ -31,6 +53,13 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
     setOkunuyor(false);
   };
 
+  const dilDegistir = (yeniDil: 'tr' | 'en') => {
+    sesiDurdur();
+    setDil(yeniDil);
+    setSeciliHikaye(null);
+    setSayfa(0);
+  };
+
   // HIKAYE LISTESI
   if (seciliHikaye === null) {
     return (
@@ -38,8 +67,12 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
         <button className="back-btn" onClick={onClose}>← Ana Sayfa</button>
         <h1 className="hikaye-baslik">📚 Hikaye Köşesi</h1>
         <p className="hikaye-alt">Bir hikaye seç, oku ya da dinle!</p>
+        <div className="hikaye-dil-sekme">
+          <button className={`dil-btn ${dil === 'tr' ? 'aktif' : ''}`} onClick={() => dilDegistir('tr')}>🇹🇷 Türkçe</button>
+          <button className={`dil-btn ${dil === 'en' ? 'aktif' : ''}`} onClick={() => dilDegistir('en')}>🇬🇧 İngilizce</button>
+        </div>
         <div className="hikaye-liste">
-          {hikayeler.map((h, i) => (
+          {liste.map((h, i) => (
             <button key={h.id} className="hikaye-kart" onClick={() => { setSeciliHikaye(i); setSayfa(0); }}>
               <span className="hikaye-emoji">📖</span>
               <span className="hikaye-kart-baslik">{h.baslik}</span>
@@ -51,7 +84,7 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   }
 
   // HIKAYE OKUMA
-  const h = hikayeler[seciliHikaye];
+  const h = liste[seciliHikaye];
   const sonSayfa = sayfa >= h.sayfalar.length - 1;
   const ilkSayfa = sayfa <= 0;
 

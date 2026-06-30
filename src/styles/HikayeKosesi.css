@@ -99,3 +99,25 @@
   color: #888780;
   font-weight: 700;
 }
+
+.hikaye-dil-sekme {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.dil-btn {
+  background: #f0f0f0;
+  border: 2px solid transparent;
+  border-radius: 22px;
+  padding: 10px 22px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #555;
+  cursor: pointer;
+}
+.dil-btn.aktif {
+  background: #1D9E75;
+  color: #ffffff;
+}
+.dil-btn:active { transform: scale(0.96); }
