@@ -29,6 +29,14 @@ export const konuGorselleri: { [konu: string]: string } = {
   'Geometrik Cisimler': 'Six_3D_geometric_shapes_in_202606120945.jpeg',
   'Geometrik Cisim ve Şekillerin Biçimsel Özellikleri': 'Five_flat_geometric_shapes_in_202606120945.jpeg',
   'Örüntü': 'Three_rows_of_repeating_patterns_202606120944.jpeg',
+
+  // TÜRKÇE
+  'Harfler': 'Turkish_alphabet_display_on_white_202606121037.jpeg',
+  'Yazı': 'Turkish_alphabet_display_on_white_202606121037.jpeg',
+  'Ses Bilgisi': 'Eight_Turkish_vowels_highlighted_on_202606121037.jpeg',
+  'Sesler ve Heceler': 'Simple_syllable_table_on_white_202606121036.jpeg',
+  'Noktalama': 'Six_punctuation_marks_on_white_202606121018.jpeg',
+  'Noktalama ve Yazım': 'Six_punctuation_marks_on_white_202606121018.jpeg',
 };
 
 export function gorselBul(theme: string): string | null {

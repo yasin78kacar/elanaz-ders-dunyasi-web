@@ -757,3 +757,16 @@
   box-shadow: 0 4px 14px rgba(0,0,0,0.1);
   object-fit: contain;
 }
+
+.okuma-metni {
+  background: #FFF9E6;
+  border: 2px solid #FAC775;
+  border-radius: 14px;
+  padding: 18px 22px;
+  margin: 0 auto 18px;
+  max-width: 540px;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #5C4A1A;
+  text-align: left;
+}

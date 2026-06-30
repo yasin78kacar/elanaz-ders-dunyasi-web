@@ -9,6 +9,7 @@ interface Question {
   id: string;
   subject: string;
   theme: string;
+  passage?: string;
   question: string;
   options: string[];
   correctAnswer: number;
@@ -406,6 +407,9 @@ const QuizViewer: React.FC = () => {
         </div>
         
         <div className="question-section">
+          {currentQuestion.passage && (
+            <div className="okuma-metni">{currentQuestion.passage}</div>
+          )}
           {gorselBul(currentQuestion.theme) && (
             <img className="soru-gorsel" src={gorselBul(currentQuestion.theme)!} alt={currentQuestion.theme} />
           )}
