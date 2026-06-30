@@ -747,3 +747,13 @@
 .option-btn:active {
   transform: scale(0.97);
 }
+
+.soru-gorsel {
+  display: block;
+  max-width: 280px;
+  max-height: 220px;
+  margin: 0 auto 18px;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+  object-fit: contain;
+}

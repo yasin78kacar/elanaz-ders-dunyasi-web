@@ -2,6 +2,7 @@
 import { useState, useEffect } from 'react';
 import { dataMap } from '../data';
 import HikayeKosesi from './HikayeKosesi';
+import { gorselBul } from '../data/konuGorselleri';
 import '../styles/QuizViewer.css';
 
 interface Question {
@@ -405,6 +406,9 @@ const QuizViewer: React.FC = () => {
         </div>
         
         <div className="question-section">
+          {gorselBul(currentQuestion.theme) && (
+            <img className="soru-gorsel" src={gorselBul(currentQuestion.theme)!} alt={currentQuestion.theme} />
+          )}
           <h2>{currentQuestion.question}</h2>
           {currentQuestion.image && (
             currentQuestion.image.startsWith("http") ? (
