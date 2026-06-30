@@ -52,7 +52,7 @@ const QuizViewer: React.FC = () => {
   const [screen, setScreen] = useState<'home' | 'quiz' | 'hikaye'>('home');
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem('aktifProfilAdi') || '');
   const [yeniAd, setYeniAd] = useState('');
-  const [yeniYas, setYeniYas] = useState('');
+  const [yeniSinif, setYeniSinif] = useState('');
   const [questions, setQuestions] = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState('Türkçe');
   const [selectedTheme, setSelectedTheme] = useState('Tema 1');
@@ -371,32 +371,37 @@ const QuizViewer: React.FC = () => {
   if (!profilAdi) {
     const profilOlustur = () => {
       const ad = yeniAd.trim();
-      if (!ad) return;
+      if (!ad || !yeniSinif) return;
       localStorage.setItem('aktifProfilAdi', ad);
-      localStorage.setItem('aktifProfilYas', yeniYas);
+      localStorage.setItem('aktifProfilSinif', yeniSinif);
       setProfilAdi(ad);
     };
+    const siniflar = ['1', '2', '3', '4'];
     return (
       <div className="profil-container">
-        <div className="profil-emoji">👋</div>
+        <div className="profil-emoji">🎮</div>
         <h1 className="profil-baslik">Hoş geldin!</h1>
-        <p className="profil-alt">Seni tanıyalım, sonra oyna!</p>
+        <p className="profil-alt">Kendine bir takma ad seç!</p>
         <input
           className="profil-input"
-          placeholder="Adın ne?"
+          placeholder="Takma adın (örn: Aslan, Yıldız)"
           value={yeniAd}
           onChange={(e) => setYeniAd(e.target.value)}
-          maxLength={20}
+          maxLength={16}
         />
-        <input
-          className="profil-input"
-          placeholder="Kaç yaşındasın?"
-          value={yeniYas}
-          onChange={(e) => setYeniYas(e.target.value.replace(/[^0-9]/g, ''))}
-          maxLength={2}
-          inputMode="numeric"
-        />
-        <button className="profil-btn" onClick={profilOlustur} disabled={!yeniAd.trim()}>
+        <p className="profil-soru">Kaçıncı sınıftasın?</p>
+        <div className="profil-sinif-grid">
+          {siniflar.map((s) => (
+            <button
+              key={s}
+              className={`profil-sinif-btn ${yeniSinif === s ? 'aktif' : ''}`}
+              onClick={() => setYeniSinif(s)}
+            >
+              {s}. Sınıf
+            </button>
+          ))}
+        </div>
+        <button className="profil-btn" onClick={profilOlustur} disabled={!yeniAd.trim() || !yeniSinif}>
           Başla! 🎈
         </button>
       </div>

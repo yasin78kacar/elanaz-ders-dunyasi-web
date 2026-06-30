@@ -919,3 +919,34 @@
 }
 .profil-btn:disabled { opacity: 0.4; cursor: default; box-shadow: none; }
 .profil-btn:active:not(:disabled) { transform: translateY(2px); box-shadow: 0 2px 0 rgba(0,0,0,0.15); }
+
+/* === Profil sinif secimi === */
+.profil-soru {
+  font-size: 16px;
+  font-weight: 700;
+  color: #555;
+  margin: 18px 0 10px;
+}
+.profil-sinif-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  width: 100%;
+  margin-bottom: 8px;
+}
+.profil-sinif-btn {
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 700;
+  border: 2px solid #e0e0e0;
+  border-radius: 14px;
+  background: #fff;
+  color: #555;
+  cursor: pointer;
+}
+.profil-sinif-btn.aktif {
+  background: #7F77DD;
+  border-color: #7F77DD;
+  color: #fff;
+}
+.profil-sinif-btn:active { transform: scale(0.97); }
