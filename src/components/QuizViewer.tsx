@@ -100,7 +100,9 @@ const QuizViewer: React.FC = () => {
         'Türkçe': 'turkce',
         'Fen Bilimleri': 'fen',
         'Hayat Bilgisi': 'hayat',
-        'İngilizce': 'ingilizce'
+        'İngilizce': 'ingilizce',
+        'Görsel Sanatlar': 'gorsel',
+        'Zeka-Dikkat': 'zeka'
       };
       
       const folder = subjectMap[selectedSubject] || 'math';
@@ -339,6 +341,8 @@ const QuizViewer: React.FC = () => {
       { name: 'Fen Bilimleri', emoji: '🔬', color: '#1D9E75' },
       { name: 'Hayat Bilgisi', emoji: '🌍', color: '#EF9F27' },
       { name: 'İngilizce', emoji: '🔤', color: '#7F77DD' },
+      { name: 'Görsel Sanatlar', emoji: '🎨', color: '#D85A30' },
+      { name: 'Zeka-Dikkat', emoji: '🧩', color: '#378ADD' },
     ];
     return (
       <div className="home-container">
