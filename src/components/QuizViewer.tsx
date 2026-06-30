@@ -105,13 +105,9 @@ const QuizViewer: React.FC = () => {
       const folder = subjectMap[selectedSubject] || 'math';
       const data = dataMap[folder];
       const pool = Array.isArray(data) ? data : data.questions;
-      const filteredQuestions = pool.filter(
-        (q: Question) =>
-          q.subject === selectedSubject &&
-          q.difficulty === difficulty &&
-          q.theme.startsWith(selectedTheme)
-      );
-      setQuestions(filteredQuestions);
+      const dersSorulari = pool.filter((q: Question) => q.subject === selectedSubject);
+      const karistir = [...dersSorulari].sort(() => Math.random() - 0.5).slice(0, 20);
+      setQuestions(karistir);
       setCurrentQuestionIndex(0);
       setScore(0);
       setQuizFinished(false);

@@ -1,32 +1,21 @@
-import turkce_tema3 from './data/turkce/turkce_tema3.json';
-import english_tema_1_2 from './data/english/english_tema_1_2.json';
-import all_questions from './data/all_questions.json';
+import matematik from './data/aktarilan/matematik.json';
+import turkce from './data/aktarilan/turkce.json';
+import fen from './data/aktarilan/fen.json';
+import hayat from './data/aktarilan/hayat.json';
+import ingilizce from './data/aktarilan/ingilizce.json';
 
-// Tüm soruları tek havuzda birleştir
-const base = (all_questions as any).questions || [];
-const extraTurkce = (turkce_tema3 as any[]) || [];
-const extraEnglish = (english_tema_1_2 as any[]) || [];
-
-// subject alanlarını normalize et (turkce -> Türkçe, ingilizce -> İngilizce)
-const normalizeSubject = (s: string) => {
-  const map: { [k: string]: string } = {
-    turkce: 'Türkçe', ingilizce: 'İngilizce',
-    fen: 'Fen Bilimleri', hayat: 'Hayat Bilgisi', math: 'Matematik'
-  };
-  return map[s] || s;
-};
-
-const normalized = [...extraTurkce, ...extraEnglish].map((q: any) => ({
-  ...q,
-  subject: normalizeSubject(q.subject)
-}));
-
-const allPool = [...base, ...normalized];
+const allPool = [
+  ...(matematik as any[]),
+  ...(turkce as any[]),
+  ...(fen as any[]),
+  ...(hayat as any[]),
+  ...(ingilizce as any[]),
+];
 
 export const dataMap: { [key: string]: any } = {
   turkce: { questions: allPool },
   fen: { questions: allPool },
   hayat: { questions: allPool },
   ingilizce: { questions: allPool },
-  math: { questions: allPool }
+  math: { questions: allPool },
 };
