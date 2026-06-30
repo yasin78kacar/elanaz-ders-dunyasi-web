@@ -700,3 +700,10 @@
 .back-btn:active {
   transform: scale(0.96);
 }
+
+.hikaye-action {
+  background: #1D9E75 !important;
+  color: #ffffff !important;
+  border-color: #1D9E75 !important;
+  font-weight: 700;
+}

@@ -1,3 +1,4 @@
+import hikayelerData from './data/aktarilan/hikayeler.json';
 import matematik from './data/aktarilan/matematik.json';
 import turkce from './data/aktarilan/turkce.json';
 import fen from './data/aktarilan/fen.json';
@@ -19,3 +20,5 @@ export const dataMap: { [key: string]: any } = {
   ingilizce: { questions: allPool },
   math: { questions: allPool },
 };
+
+export const hikayeler = hikayelerData as { id: string; baslik: string; seviye: number; sayfalar: string[] }[];

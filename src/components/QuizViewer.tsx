@@ -1,6 +1,7 @@
 
 import { useState, useEffect } from 'react';
 import { dataMap } from '../data';
+import HikayeKosesi from './HikayeKosesi';
 import '../styles/QuizViewer.css';
 
 interface Question {
@@ -46,7 +47,7 @@ function playSound(correct: boolean) {
 }
 
 const QuizViewer: React.FC = () => {
-  const [screen, setScreen] = useState<'home' | 'quiz'>('home');
+  const [screen, setScreen] = useState<'home' | 'quiz' | 'hikaye'>('home');
   const [questions, setQuestions] = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState('Türkçe');
   const [selectedTheme, setSelectedTheme] = useState('Tema 1');
@@ -327,6 +328,10 @@ const QuizViewer: React.FC = () => {
     );
   }
 
+  if (screen === 'hikaye') {
+    return <HikayeKosesi onClose={() => setScreen('home')} />;
+  }
+
   if (screen === 'home') {
     const cards = [
       { name: 'Matematik', emoji: '🔢', color: '#378ADD' },
@@ -357,6 +362,7 @@ const QuizViewer: React.FC = () => {
           ))}
         </div>
         <div className="home-actions">
+          <button className="home-action-btn hikaye-action" onClick={() => setScreen('hikaye')}>📚 Hikaye Köşesi</button>
           <button className="home-action-btn" onClick={() => setShowLeaderboard(true)}>🏆 Sıralama</button>
           <button className="home-action-btn" onClick={() => setShowStats(true)}>📊 İlerlemem</button>
         </div>
