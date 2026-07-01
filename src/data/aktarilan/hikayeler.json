@@ -6693,5 +6693,555 @@
     "correctAnswer": 2
    }
   ]
+ },
+ {
+  "id": "uzun-31",
+  "baslik": "KAHRAMAN ve Göldeki Ördek Ailesi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın evinin yakınında küçük bir park vardı. Parkın ortasında sazlıklarla çevrili güzel bir göl bulunuyordu. KAHRAMAN oraya gitmeyi çok severdi.",
+   "Bir ilkbahar sabahı KAHRAMAN gölün kenarında yürüyordu. Sazlıkların arasından vak vak sesleri geliyordu. Merakla yaklaştı.",
+   "Sazlıkların arasında bir anne ördek ve altı minik yavrusu vardı. Yavrular sapsarı ve pofuduktu. KAHRAMAN sessizce izledi.",
+   "Anne ördek yavrularını suya götürdü. Yavrular sıra halinde annelerini takip etti. Bir, iki, üç, dört, beş... Ama altıncı yavru yoktu!",
+   "KAHRAMAN etrafına bakındı. Minik bir vak sesi duydu. Ses, gölün kenarındaki bir mazgaldan geliyordu. Yavru ördek deliğe düşmüştü!",
+   "KAHRAMAN hemen eğilip baktı. Yavru aşağıda çırpınıyordu ama kendi başına çıkamıyordu. Delik dar ve derindi.",
+   "KAHRAMAN elini uzattı ama yetişemedi. Panik yapmadı, düşündü. 'Bir yetişkinden yardım istemeliyim,' dedi kendi kendine.",
+   "Park görevlisi Ahmet Amca'ya koştu. 'Bir yavru ördek mazgala düştü, yardım edin!' dedi. Ahmet Amca hemen aletlerini aldı.",
+   "Ahmet Amca mazgalın kapağını dikkatlice açtı. KAHRAMAN yumuşak bir bezle bekledi. Ahmet Amca uzanıp yavruyu nazikçe çıkardı.",
+   "Yavru ördek korkmuştu ama sağlıklıydı. KAHRAMAN onu yumuşak beze sardı. Minik kalbi hızlı hızlı atıyordu.",
+   "Anne ördek kenarda endişeyle vaklıyordu. KAHRAMAN yavruyu yavaşça suya bıraktı. Yavru hemen annesine yüzdü.",
+   "Anne ördek yavrusuna kavuştu. Bütün aile sevinçle vakladı. Sanki KAHRAMAN'a teşekkür ediyorlardı.",
+   "Ahmet Amca KAHRAMAN'ın omzuna elini koydu. 'Çok doğru davrandın,' dedi. 'Kendin uğraşmak yerine yardım istedin.'",
+   "'Bazen en cesur davranış, yardım istemektir,' diye ekledi. KAHRAMAN bu sözü aklına yazdı.",
+   "O günden sonra KAHRAMAN her hafta gölü ziyaret etti. Ördek ailesi onu tanır olmuştu. Yavrular büyüyordu.",
+   "KAHRAMAN onlara asla ekmek atmadı. Ahmet Amca öğretmişti: 'Ekmek ördeklere zararlıdır. Onlar göldeki bitkileri ve böcekleri yer.'",
+   "Yaz geldiğinde yavrular artık genç ördekler olmuştu. Tüyleri parlıyordu. Hepsi sağlıklı ve mutluydu.",
+   "Bir gün KAHRAMAN gölün kenarında otururken kurtardığı ördek yanına yüzdü. Sanki onu hatırlıyordu. KAHRAMAN gülümsedi.",
+   "Sonbaharda ördekler göç etmeye hazırlandı. KAHRAMAN onları uğurladı. 'İlkbaharda yine görüşürüz,' diye el salladı.",
+   "KAHRAMAN o yıl çok şey öğrenmişti: Hayvanları korumayı, doğru zamanda yardım istemeyi ve doğayı sevmeyi. Göl, onun en özel yeriydi artık."
+  ],
+  "sorular": [
+   {
+    "question": "Anne ördeğin kaç yavrusu vardı?",
+    "options": [
+     "Altı",
+     "Yedi",
+     "Dört",
+     "Beş"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Altıncı yavru nereye düşmüştü?",
+    "options": [
+     "Sazlığa",
+     "Mazgala",
+     "Göle",
+     "Çukura"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN yavruya yetişemeyince ne yaptı?",
+    "options": [
+     "Eve gitti",
+     "Deliğe girdi",
+     "Ağladı",
+     "Yetişkinden yardım istedi"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Yavruyu kim çıkardı?",
+    "options": [
+     "KAHRAMAN",
+     "Bir balıkçı",
+     "Park görevlisi Ahmet Amca",
+     "Anne ördek"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ahmet Amca'ya göre en cesur davranış nedir?",
+    "options": [
+     "Beklemek",
+     "Koşmak",
+     "Yardım istemek",
+     "Tek başına uğraşmak"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ördeklere neden ekmek atılmamalı?",
+    "options": [
+     "Göl kirlenmez",
+     "Ekmek onlara zararlıdır",
+     "Ördekler sevmez",
+     "Ekmek pahalıdır"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Ördekler sonbaharda ne yaptı?",
+    "options": [
+     "Yuvaya girdi",
+     "Uyudu",
+     "Kayboldu",
+     "Göç etmeye hazırlandı"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "KAHRAMAN o yıl neler öğrendi?",
+    "options": [
+     "Hayvanları korumayı ve doğru zamanda yardım istemeyi",
+     "Yüzmeyi",
+     "Balık tutmayı",
+     "Ekmek yapmayı"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-32",
+  "baslik": "KAHRAMAN ve Dört Mevsim Ağacı",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın okul yolunda kocaman, yaşlı bir çınar ağacı vardı. KAHRAMAN her gün onun altından geçerdi. Ağacı çok severdi.",
+   "Bir sonbahar günü KAHRAMAN ağacın altında durdu. Yapraklar sararmış, dökülüyordu. 'Ağaç hastalanıyor mu?' diye endişelendi.",
+   "Tam o sırada yaşlı bir bahçıvan yanına geldi. 'Merak etme evlat,' dedi gülümseyerek. 'Ağaç hasta değil, sadece kışa hazırlanıyor.'",
+   "Bahçıvanın adı Yusuf Dede'ydi. Bu ağaca elli yıldır bakıyordu. 'İstersen sana mevsimlerin sırrını anlatayım,' dedi.",
+   "'Sonbaharda ağaç yapraklarını döker,' diye başladı Yusuf Dede. 'Çünkü kışın suyu az bulur. Yapraklar su harcar. Ağaç tasarruf yapar.'",
+   "KAHRAMAN şaşırdı. 'Yani ağaç akıllıca davranıyor!' dedi. Yusuf Dede güldü. 'Aynen öyle. Doğa çok akıllıdır.'",
+   "Kış geldi. Ağacın dalları çıplaktı ve karla kaplandı. KAHRAMAN her sabah ağaca baktı. Ağaç uyuyor gibiydi.",
+   "Yusuf Dede anlattı: 'Ağaç şimdi dinleniyor. Ama içinde hayat devam ediyor. Kökleri toprağın altında çalışıyor.'",
+   "KAHRAMAN karlı dallara baktı. Bir serçe dala kondu. Ağaç, kışın bile kuşlara yuva oluyordu. Bu çok güzeldi.",
+   "Aylar geçti ve ilkbahar geldi. Bir sabah KAHRAMAN gözlerine inanamadı. Ağacın dallarında minik yeşil tomurcuklar vardı!",
+   "'Ağaç uyanıyor!' diye sevindi KAHRAMAN. Her gün tomurcukları izledi. Tomurcuklar açıldı, taze yapraklar çıktı.",
+   "Ağaç yemyeşil oldu. Kuşlar dallarına yuva yaptı. Arılar çiçeklerine kondu. Ağaç hayat doluydu.",
+   "Yusuf Dede, KAHRAMAN'a bir tohum verdi. 'Bu, bizim çınarın tohumu,' dedi. 'Onu dik. Senin ağacın olsun.'",
+   "KAHRAMAN tohumu okulun bahçesine dikti. Her gün suladı. Küçük bir fidan filizlendi. KAHRAMAN çok mutluydu.",
+   "Yaz geldi. Büyük çınar gölgesiyle herkesi serinletti. Çocuklar altında oyun oynadı. KAHRAMAN kitabını onun gölgesinde okudu.",
+   "'Ağaçlar yazın bize gölge verir, havayı temizler,' dedi Yusuf Dede. 'Onlar dünyanın akciğerleridir.'",
+   "KAHRAMAN'ın fidanı da büyüyordu. Artık dizine kadar gelmişti. 'Bir gün o da kocaman olacak,' dedi Yusuf Dede.",
+   "Sonbahar yeniden geldi. Büyük çınarın yaprakları yine sarardı. Ama KAHRAMAN artık endişelenmedi. Döngüyü biliyordu.",
+   "'Her mevsimin bir görevi var,' dedi KAHRAMAN. 'Sonbahar hazırlık, kış dinlenme, ilkbahar uyanış, yaz büyüme.' Yusuf Dede gururla başını salladı.",
+   "Yıllar sonra KAHRAMAN'ın diktiği fidan büyük bir ağaç oldu. Çocuklar onun gölgesinde oynadı. Ve KAHRAMAN, doğanın döngüsünü onlara anlattı. Tıpkı Yusuf Dede gibi."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN'ın okul yolundaki ağaç hangi ağaçtı?",
+    "options": [
+     "Çam",
+     "Kavak",
+     "Çınar",
+     "Elma"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ağaç sonbaharda neden yapraklarını döker?",
+    "options": [
+     "Yaşlandığı için",
+     "Rüzgardan",
+     "Hastalandığı için",
+     "Kışın su tasarrufu yapmak için"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Bahçıvanın adı neydi?",
+    "options": [
+     "Yusuf Dede",
+     "Ali Dede",
+     "Hasan Amca",
+     "Ahmet Amca"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Kışın ağacın kökleri ne yapıyordu?",
+    "options": [
+     "Toprağın altında çalışıyordu",
+     "Donuyordu",
+     "Ölüyordu",
+     "Uyuyordu"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "İlkbaharda ağaçta ne belirdi?",
+    "options": [
+     "Kuş yuvası",
+     "Meyveler",
+     "Yeşil tomurcuklar",
+     "Kar"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Yusuf Dede, KAHRAMAN'a ne verdi?",
+    "options": [
+     "Bir fidan",
+     "Bir kitap",
+     "Bir çiçek",
+     "Çınar tohumu"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Ağaçlar neden dünyanın akciğerleridir?",
+    "options": [
+     "Yeşil oldukları için",
+     "Havayı temizledikleri için",
+     "Büyük oldukları için",
+     "Gölge verdikleri için"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Her mevsimin görevi sırasıyla nedir?",
+    "options": [
+     "Uyku, oyun, yemek, koşu",
+     "Kar, yağmur, güneş, rüzgar",
+     "Soğuk, sıcak, ılık, serin",
+     "Hazırlık, dinlenme, uyanış, büyüme"
+    ],
+    "correctAnswer": 3
+   }
+  ]
+ },
+ {
+  "id": "uzun-33",
+  "baslik": "KAHRAMAN ve Rüzgarın Şarkısı",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN doğum gününde rengarenk bir uçurtma hediye almıştı. Uçurtma kırmızı, sarı ve maviydi. Kuyruğunda parlak kurdeleler vardı.",
+   "KAHRAMAN uçurtmayı uçurmak için sabırsızlanıyordu. Ama günlerdir hava durgundu. Rüzgar hiç esmiyordu.",
+   "Her sabah pencereden dışarı baktı. Ağaçların yaprakları kımıldamıyordu. 'Rüzgar nerede?' diye hayıflandı.",
+   "Babası güldü: 'Rüzgar da senin gibi bazen dinlenir. Sabret, yakında gelir.' KAHRAMAN beklemeye devam etti.",
+   "Nihayet bir cumartesi sabahı perdeler dalgalandı. Ağaçlar hışırdadı. Rüzgar gelmişti! KAHRAMAN sevinçle fırladı.",
+   "Babasıyla birlikte tepedeki çayıra gittiler. Burası uçurtma uçurmak için mükemmel bir yerdi. Açık ve genişti.",
+   "KAHRAMAN uçurtmayı havaya kaldırdı. İpi gevşetti. Rüzgar uçurtmayı yakaladı ve yukarı taşıdı. Uçurtma uçuyordu!",
+   "Uçurtma gökyüzünde süzülüyordu. Kurdeleleri dans ediyordu. KAHRAMAN ipi ustaca kontrol etti.",
+   "Babası öğretti: 'Rüzgar sertleşince ipi biraz bırak. Yumuşayınca çek. Rüzgarı dinlemeyi öğren.'",
+   "KAHRAMAN rüzgarı hissetmeye başladı. Yanaklarında, saçlarında... Rüzgar sanki bir şarkı söylüyordu.",
+   "Çayırda başka çocuklar da vardı. Bir çocuğun uçurtması ağaca takıldı. Çocuk üzgün görünüyordu.",
+   "KAHRAMAN kendi uçurtmasını babasına verdi. Çocuğa yardım etmeye gitti. Birlikte ipi dikkatlice çektiler.",
+   "Uçurtma yavaşça daldan kurtuldu. Yırtılmamıştı! Çocuk çok sevindi. 'Teşekkür ederim!' dedi. Adı Rüzgar'dı, ne tesadüf!",
+   "KAHRAMAN ve Rüzgar birlikte uçurtma uçurdular. İki uçurtma gökyüzünde yan yana dans etti. Çok eğlenceliydi.",
+   "Rüzgar (çocuk olan) uçurtma yarışması olduğunu söyledi. Gelecek hafta bu çayırda yapılacaktı. Birlikte katılmaya karar verdiler.",
+   "Bir hafta boyunca birlikte pratik yaptılar. Rüzgarı okumayı, ipi kontrol etmeyi öğrendiler. İyi bir takım olmuşlardı.",
+   "Yarışma günü geldi. Çayır uçurtmalarla doldu. Kırmızılar, maviler, ejderha şekilliler... Gökyüzü rengarenkti.",
+   "KAHRAMAN ve Rüzgar sırayla uçurdular. Uçurtmaları en yükseğe çıkanlardan biri oldu. Ama kazanmak umurlarında değildi.",
+   "Yarışmada üçüncü oldular ve küçük bir kupa aldılar. Ama en büyük ödül yeni dostluklarıydı. Gülerek kutladılar.",
+   "KAHRAMAN o gece uçurtmasına baktı. Rüzgarı beklemek sabır istemişti ama değmişti. Sabır, dostluk ve rüzgarın şarkısı... Ne güzel bir haftaydı."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN doğum gününde ne hediye aldı?",
+    "options": [
+     "Rengarenk bir uçurtma",
+     "Bir top",
+     "Bir bisiklet",
+     "Bir kitap"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN uçurtmayı neden uçuramıyordu?",
+    "options": [
+     "İp yoktu",
+     "Rüzgar esmiyordu",
+     "Yağmur yağıyordu",
+     "Uçurtma bozuktu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Uçurtma uçurmak için nereye gittiler?",
+    "options": [
+     "Deniz kenarına",
+     "Okul bahçesine",
+     "Tepedeki çayıra",
+     "Parka"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Babası rüzgar hakkında ne öğretti?",
+    "options": [
+     "Rüzgardan kaçmayı",
+     "İpi kesmeyi",
+     "Rüzgarı dinlemeyi öğrenmeyi",
+     "Hızlı koşmayı"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Uçurtması ağaca takılan çocuğa KAHRAMAN ne yaptı?",
+    "options": [
+     "Yardım etti",
+     "Güldü",
+     "Görmezden geldi",
+     "Kaçtı"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Yeni arkadaşının adı neydi?",
+    "options": [
+     "Kaya",
+     "Rüzgar",
+     "Bulut",
+     "Deniz"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Yarışmada kaçıncı oldular?",
+    "options": [
+     "Birinci",
+     "Sonuncu",
+     "İkinci",
+     "Üçüncü"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Onlar için en büyük ödül neydi?",
+    "options": [
+     "Kupa",
+     "Yeni uçurtma",
+     "Yeni dostlukları",
+     "Para"
+    ],
+    "correctAnswer": 2
+   }
+  ]
+ },
+ {
+  "id": "uzun-34",
+  "baslik": "KAHRAMAN ve Ay'ın Sırrı",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN geceleri pencereden Ay'ı izlemeyi severdi. Ay bazen kocaman ve yuvarlaktı. Bazen ince bir hilal gibiydi.",
+   "KAHRAMAN merak ediyordu: 'Ay neden şekil değiştiriyor? Birisi onu yiyor mu?' Bu soruyu babaannesine sordu.",
+   "Babaanne güldü. 'Kimse Ay'ı yemiyor yavrum,' dedi. 'Gel, sana Ay'ın sırrını gösterelim. Yarın bilim merkezine gidelim.'",
+   "Ertesi gün bilim merkezine gittiler. Orası harika bir yerdi. Gezegen maketleri, teleskoplar ve yıldız haritaları vardı.",
+   "Rehber Öğretmen Cem, çocuklara Ay'ı anlattı. Elinde bir top ve bir el feneri vardı. 'Şimdi Ay'ın sırrını göstereceğim,' dedi.",
+   "'Bu top Ay olsun, fener de Güneş,' dedi Cem Öğretmen. 'Ay kendi ışığını üretmez. Güneş'in ışığını yansıtır.'",
+   "Feneri topa tuttu. Topun yarısı aydınlandı, yarısı karanlıkta kaldı. 'İşte Ay da böyle,' dedi.",
+   "'Ay, Dünya'nın etrafında döner. Biz Ay'ın aydınlık yüzünün ne kadarını görüyorsak, o şekli görürüz.'",
+   "KAHRAMAN anladı: 'Yani Ay hep aynı ama biz farklı açılardan görüyoruz!' Cem Öğretmen alkışladı. 'Aynen öyle!'",
+   "'Dolunayda Ay'ın aydınlık yüzünün tamamını görürüz. Hilalde ise sadece küçük bir kısmını,' diye ekledi.",
+   "Sonra teleskop odasına geçtiler. Gece olmuştu. Kocaman teleskoptan sırayla Ay'a baktılar.",
+   "KAHRAMAN teleskopa gözünü dayadı. Ve nefesi kesildi. Ay o kadar yakın görünüyordu ki! Üzerindeki kraterler bile seçiliyordu.",
+   "'O çukurlara krater denir,' dedi Cem Öğretmen. 'Uzaydan gelen taşların çarpmasıyla oluşmuşlar. Ay'ın yüzü milyonlarca yıllık izlerle dolu.'",
+   "KAHRAMAN, Ay'da insan izi olduğunu öğrendi. 'Astronotlar Ay'a gitti ve yürüdü,' dedi Cem Öğretmen. 'İzleri hâlâ orada duruyor.'",
+   "'Ay'da rüzgar yok, bu yüzden izler silinmiyor,' diye ekledi. KAHRAMAN bunu çok ilginç buldu.",
+   "Babaanne torununa bir Ay takvimi hediye etti. Takvimde Ay'ın her gün alacağı şekil gösteriliyordu.",
+   "KAHRAMAN artık her gece Ay'ı takvimiyle karşılaştırdı. Hilal, ilk dördün, dolunay, son dördün... Hepsini öğrendi.",
+   "Okulda arkadaşlarına Ay'ın sırrını anlattı. Top ve fenerle aynı deneyi yaptı. Arkadaşları hayran kaldı.",
+   "Öğretmeni KAHRAMAN'ı kutladı. 'Öğrendiğini paylaşmak, en güzel davranıştır,' dedi. KAHRAMAN gururlandı.",
+   "O gece KAHRAMAN dolunaya baktı. Artık onun sırrını biliyordu. Merak etmek, sormak ve öğrenmek... Bilimin kapısı herkese açıktı."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN Ay hakkında neyi merak ediyordu?",
+    "options": [
+     "Neden beyaz olduğunu",
+     "Neden gece çıktığını",
+     "Neden şekil değiştirdiğini",
+     "Neden uzak olduğunu"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ay kendi ışığını üretir mi?",
+    "options": [
+     "Sadece dolunayda üretir",
+     "Hayır, Güneş'in ışığını yansıtır",
+     "Bazen üretir",
+     "Evet, üretir"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Deneyde top ve fener neyi temsil ediyordu?",
+    "options": [
+     "Top Dünya'yı, fener yıldızı",
+     "İkisi de gezegeni",
+     "Top Ay'ı, fener Güneş'i",
+     "Top Güneş'i, fener Ay'ı"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Dolunayda Ay'ın ne kadarını görürüz?",
+    "options": [
+     "Küçük bir kısmını",
+     "Aydınlık yüzünün tamamını",
+     "Yarısını",
+     "Hiçbirini"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Ay'daki çukurlara ne denir?",
+    "options": [
+     "Krater",
+     "Delik",
+     "Vadi",
+     "Göl"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Ay'daki astronot izleri neden silinmiyor?",
+    "options": [
+     "Ay'da rüzgar olmadığı için",
+     "Ay donmuş olduğu için",
+     "İzler derin olduğu için",
+     "Kimse gitmediği için"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Babaanne KAHRAMAN'a ne hediye etti?",
+    "options": [
+     "Ay takvimi",
+     "Teleskop",
+     "Kitap",
+     "Dürbün"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'ın öğretmeni hangi davranışı kutladı?",
+    "options": [
+     "Sessiz olmayı",
+     "Erken gelmeyi",
+     "Öğrendiğini paylaşmayı",
+     "Hızlı koşmayı"
+    ],
+    "correctAnswer": 2
+   }
+  ]
+ },
+ {
+  "id": "uzun-35",
+  "baslik": "KAHRAMAN ve Güneşin Armağanları",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN bir yaz sabahı erkenden uyandı. Güneş yeni doğuyordu. Gökyüzü turuncu ve pembe renklerle boyanmıştı.",
+   "KAHRAMAN balkona çıktı ve güneşin doğuşunu izledi. 'Güneş olmasaydı ne olurdu?' diye düşündü. Bu soru aklına takıldı.",
+   "Kahvaltıda sorusunu ablasına sordu. Ablası lise öğrencisiydi ve fen derslerini çok severdi. 'Harika bir soru!' dedi.",
+   "'Gel, bugün sana güneşin armağanlarını gösterelim,' dedi ablası. 'Bir güneş dedektifi olacaksın.' KAHRAMAN heyecanlandı.",
+   "İlk durak bahçeydi. Ablası domates fidelerini gösterdi. 'Bitkiler güneş ışığıyla besin üretir,' dedi. 'Buna fotosentez denir.'",
+   "'Güneş olmasa bitkiler büyüyemez. Bitkiler olmasa hayvanlar ve biz aç kalırız. Her yemeğin başlangıcı güneştir.'",
+   "KAHRAMAN elindeki domatese baktı. 'Yani bu domatesin içinde güneş var!' dedi. Ablası güldü. 'Bir bakıma evet!'",
+   "Sonra çamaşır ipine gittiler. Anneleri çamaşırları asmıştı. 'Güneş çamaşırları kurutur,' dedi ablası. 'Hem de mikropları öldürür.'",
+   "Öğlen olunca ablası bir deney yaptı. Siyah ve beyaz iki kağıdı güneşe koydu. Biraz sonra dokundular.",
+   "Siyah kağıt daha sıcaktı! 'Koyu renkler güneş ışığını emer, açık renkler yansıtır,' dedi ablası. 'O yüzden yazın açık renk giyeriz.'",
+   "KAHRAMAN bunu hiç bilmiyordu. Güneş dedektifliği çok eğlenceliydi. Not defterine öğrendiklerini yazdı.",
+   "Ablası çatıyı gösterdi. Komşunun çatısında parlak paneller vardı. 'Bunlar güneş panelleri,' dedi. 'Güneş ışığından elektrik üretirler.'",
+   "'Yani güneş, evleri bile aydınlatabilir!' diye şaşırdı KAHRAMAN. 'Evet, hem de doğayı kirletmeden,' dedi ablası.",
+   "Akşamüstü parka gittiler. Ablası güneşin bir yıldız olduğunu anlattı. 'Ama bize en yakın yıldız. O yüzden büyük görünür.'",
+   "'Güneş olmasa Dünya buz gibi ve karanlık olurdu. Hiçbir canlı yaşayamazdı.' KAHRAMAN güneşe minnetle baktı.",
+   "Ablası önemli bir uyarı da yaptı: 'Güneş dostumuzdur ama asla çıplak gözle ona bakma. Gözlerine zarar verir.'",
+   "'Ve öğlen saatlerinde çok güneşlenme. Şapka tak, su iç,' diye ekledi. KAHRAMAN bunları not etti.",
+   "Güneş batarken KAHRAMAN son notunu yazdı. Bir günde ne çok şey öğrenmişti! Güneş gerçekten cömert bir yıldızdı.",
+   "O akşam KAHRAMAN ailesine güneş dedektifliğini anlattı. Domates, çamaşır, paneller, renkler... Herkes ilgiyle dinledi.",
+   "KAHRAMAN yatarken düşündü: Doğadaki her şey birbirine bağlıydı. Ve hepsinin merkezinde güneş vardı. Yarın yeni keşifler onu bekliyordu."
+  ],
+  "sorular": [
+   {
+    "question": "Bitkilerin güneş ışığıyla besin üretmesine ne denir?",
+    "options": [
+     "Büyüme",
+     "Fotosentez",
+     "Solunum",
+     "Beslenme"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Ablasına göre her yemeğin başlangıcı nedir?",
+    "options": [
+     "Hava",
+     "Su",
+     "Güneş",
+     "Toprak"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Güneş çamaşırlara ne yapar?",
+    "options": [
+     "Kurutur ve mikropları öldürür",
+     "Islatır",
+     "Boyar",
+     "Yırtar"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Deneyde hangi kağıt daha sıcaktı?",
+    "options": [
+     "Siyah kağıt",
+     "İkisi de aynı",
+     "Beyaz kağıt",
+     "Hiçbiri"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Yazın neden açık renk giyeriz?",
+    "options": [
+     "Daha güzel olduğu için",
+     "Ucuz olduğu için",
+     "Açık renkler ışığı yansıttığı için",
+     "Moda olduğu için"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Güneş panelleri ne üretir?",
+    "options": [
+     "Rüzgar",
+     "Isı",
+     "Elektrik",
+     "Su"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Güneş aslında nedir?",
+    "options": [
+     "Bir bulut",
+     "Bir gezegen",
+     "Bize en yakın yıldız",
+     "Bir uydu"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Güneşle ilgili hangi uyarı yapıldı?",
+    "options": [
+     "Hep gölgede dur",
+     "Asla çıplak gözle bakma",
+     "Hiç dışarı çıkma",
+     "Gözlük takma"
+    ],
+    "correctAnswer": 1
+   }
+  ]
  }
 ]
