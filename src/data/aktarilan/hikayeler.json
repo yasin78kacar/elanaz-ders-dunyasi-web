@@ -7243,5 +7243,555 @@
     "correctAnswer": 1
    }
   ]
+ },
+ {
+  "id": "uzun-36",
+  "baslik": "KAHRAMAN ve Çöplerin İkinci Hayatı",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın okulunda bir duyuru yapıldı. Okullar arası 'Geri Dönüşüm Yarışması' düzenlenecekti. En çok atık toplayan sınıf kazanacaktı.",
+   "Öğretmen sınıfa sordu: 'Geri dönüşüm nedir bilen var mı?' KAHRAMAN parmak kaldırdı: 'Çöplerin yeniden kullanılması!' dedi.",
+   "'Aferin,' dedi öğretmen. 'Kağıt, plastik, cam ve metal... Bunlar çöp değil, hammaddedir. Yeniden işlenip yeni ürünler olabilir.'",
+   "Öğretmen şaşırtıcı bilgiler verdi: 'Bir ton kağıt geri dönüşürse, on yedi ağaç kurtulur. Bir cam şişe sonsuz kez dönüştürülebilir.'",
+   "KAHRAMAN çok etkilendi. Sınıfça plan yaptılar. Herkes evinden atıkları ayrıştırıp getirecekti. Dört kutu hazırladılar: kağıt, plastik, cam, metal.",
+   "KAHRAMAN eve gidince ailesine anlattı. Mutfağa ayrı kutular koydular. Artık her atık doğru kutuya gidiyordu.",
+   "İlk gün KAHRAMAN eski gazeteleri ve dergileri topladı. Babası biriken su şişelerini verdi. Annesi konserve kutularını ayırdı.",
+   "KAHRAMAN bir şey fark etti. Evdeki çöp poşeti neredeyse boş kalıyordu! Atıkların çoğu geri dönüştürülebilirdi.",
+   "Okulda kutular hızla doldu. Ama KAHRAMAN'ın aklına daha iyi bir fikir geldi: 'Neden mahalleyi de dahil etmiyoruz?'",
+   "Sınıfça el ilanları hazırladılar. 'Atıklarınızı bize getirin, doğayı birlikte koruyalım!' yazdılar. Mahalleye dağıttılar.",
+   "Mahalleli çok destek verdi. Bakkallar kolileri, komşular şişeleri getirdi. Okulun bahçesi ayrıştırılmış atıklarla doldu.",
+   "KAHRAMAN eski plastik şişelerden saksı yapmayı da öğrendi. Şişeleri kesip boyadılar. İçlerine çiçek diktiler.",
+   "Sınıf penceresi rengarenk saksılarla süslendi. 'Bakın,' dedi öğretmen. 'Çöp dediğimiz şeyler ne güzel oldu.'",
+   "Yarışma günü geldi. Kamyonlar okula geldi ve atıkları tarttı. KAHRAMAN'ın sınıfı tam 380 kilo atık toplamıştı!",
+   "Sonuçlar açıklandı: KAHRAMAN'ın sınıfı birinci olmuştu! Ödül olarak sınıfa yeni kitaplar ve bir gezi kazandılar.",
+   "Ama asıl ödül başkaydı. Belediye başkanı konuştu: 'Topladığınız atıklarla 45 ağaç kurtuldu. Hepiniz birer çevre kahramanısınız.'",
+   "KAHRAMAN 45 ağacı hayal etti. Koca bir koruluk! Küçük çabalar birleşince büyük fark yaratmıştı.",
+   "Gezi günü bir geri dönüşüm tesisini ziyaret ettiler. Plastiklerin nasıl eridiğini, kağıtların nasıl hamur olduğunu gördüler.",
+   "Tesiste eski şişelerden yapılmış bir kazak gördüler. KAHRAMAN şaşırdı: 'Şişeden kazak mı olur?' Rehber güldü: 'Olur, hem de çok sıcak tutar!'",
+   "KAHRAMAN o günden sonra hiçbir atığı gelişigüzel atmadı. Çünkü artık biliyordu: Doğru ayrıştırılan her atık, doğaya verilen bir hediyeydi."
+  ],
+  "sorular": [
+   {
+    "question": "Okulda hangi yarışma düzenlendi?",
+    "options": [
+     "Resim Yarışması",
+     "Geri Dönüşüm Yarışması",
+     "Koşu Yarışması",
+     "Bilgi Yarışması"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Bir ton kağıt geri dönüşürse kaç ağaç kurtulur?",
+    "options": [
+     "Yüz",
+     "On yedi",
+     "Beş",
+     "İki"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Kaç ayrı kutu hazırladılar?",
+    "options": [
+     "İki",
+     "Dört: kağıt, plastik, cam, metal",
+     "Üç",
+     "Beş"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN evde neyi fark etti?",
+    "options": [
+     "Çöp poşetinin neredeyse boş kaldığını",
+     "Atık olmadığını",
+     "Kutuların küçük olduğunu",
+     "Çöplerin arttığını"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'ın ek fikri neydi?",
+    "options": [
+     "Yarışmadan çekilmek",
+     "Daha az toplamak",
+     "Kutu satmak",
+     "Mahalleyi de dahil etmek"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Eski plastik şişelerden ne yaptılar?",
+    "options": [
+     "Oyuncak",
+     "Kalemlik",
+     "Vazo",
+     "Saksı"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Sınıfın topladığı atıklarla kaç ağaç kurtuldu?",
+    "options": [
+     "45",
+     "17",
+     "10",
+     "100"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Tesiste eski şişelerden yapılmış ne gördüler?",
+    "options": [
+     "Bir araba",
+     "Bir kazak",
+     "Bir masa",
+     "Bir ev"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-37",
+  "baslik": "KAHRAMAN ve Küskün Arkadaşlar",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın sınıfında Deniz ve Çınar adında iki yakın arkadaş vardı. İkisi her teneffüs birlikte oynar, sıralarını yan yana isterdi.",
+   "Bir gün teneffüste kötü bir şey oldu. Futbol oynarken Deniz'in attığı top yanlışlıkla Çınar'ın yeni suluğuna çarptı. Suluk yere düştü ve kırıldı.",
+   "Çınar çok kızdı. 'Bunu bilerek yaptın!' diye bağırdı. Deniz şaşırdı. 'Hayır, kazaydı!' dedi. Ama Çınar dinlemedi.",
+   "O günden sonra ikisi küstü. Artık konuşmuyorlardı. Deniz başka çocuklarla, Çınar tek başına oynuyordu.",
+   "KAHRAMAN iki arkadaşının da üzgün olduğunu görüyordu. Deniz teneffüslerde Çınar'a bakıyor ama yaklaşamıyordu. Çınar da mutsuzdu.",
+   "KAHRAMAN önce Deniz'le konuştu. 'Kaza olduğunu biliyorum,' dedi. Deniz içini döktü: 'Özür dilemek istiyorum ama beni dinlemiyor.'",
+   "Sonra Çınar'ın yanına gitti. Çınar hâlâ kırgındı. 'O benim en sevdiğim suluğumdu,' dedi. 'Babaannem hediye etmişti.'",
+   "KAHRAMAN anladı. Çınar suluğa değil, anısına üzülüyordu. Ve Deniz de gerçekten pişmandı. İkisi de aslında barışmak istiyordu.",
+   "KAHRAMAN bir plan yaptı. Deniz'e Çınar'ın neden bu kadar üzüldüğünü anlattı: 'Suluk babaannesinin hediyesiymiş.'",
+   "Deniz bunu bilmiyordu. 'Şimdi anlıyorum,' dedi üzülerek. 'Sıradan bir suluk sanmıştım. Onun için çok değerliymiş.'",
+   "Deniz harçlıklarını biriktirmeye karar verdi. İki hafta boyunca hiç harcamadı. Sonra Çınar'ınkine benzeyen bir suluk aldı.",
+   "KAHRAMAN ikisini okul bahçesindeki ağacın altında buluşturdu. Önce ikisi de sessiz kaldı. Sonra Deniz konuştu.",
+   "'Çınar, suluğunun babaannenin hediyesi olduğunu bilmiyordum,' dedi. 'Kaza olsa da senin kalbini kırdım. Çok özür dilerim.'",
+   "Deniz yeni suluğu uzattı. 'Bu eskisinin yerini tutmaz, biliyorum. Ama arkadaşlığımız her şeyden değerli.'",
+   "Çınar'ın gözleri doldu. 'Ben de sana bağırdığım için özür dilerim,' dedi. 'Kaza olduğunu biliyordum aslında. Sadece çok üzülmüştüm.'",
+   "İki arkadaş kucaklaştı. KAHRAMAN kenardan izliyordu ve gülümsüyordu. Barışmak, küs kalmaktan çok daha güzeldi.",
+   "Çınar itiraf etti: 'Bu iki hafta çok yalnızdım.' Deniz başını salladı: 'Ben de. Kimseyle oynamak seninle oynamak gibi değildi.'",
+   "Üçü birlikte futbol oynamaya gitti. Ama bu sefer topa daha dikkat ediyorlardı! Gülüşerek oynadılar.",
+   "Öğretmen durumu fark etti ve KAHRAMAN'ı yanına çağırdı. 'İki arkadaşı barıştırdın,' dedi. 'Bu, yapılabilecek en güzel iyiliklerden biridir.'",
+   "KAHRAMAN o gün önemli şeyler öğrendi: Kızgınlıkla söylenen sözler kalp kırar. Özür dilemek cesaret ister. Ve dinlemek, anlamanın ilk adımıdır."
+  ],
+  "sorular": [
+   {
+    "question": "Deniz ve Çınar neden küstü?",
+    "options": [
+     "Oyuncak paylaşamadıkları için",
+     "Yarışta kaybettikleri için",
+     "Top Çınar'ın suluğunu kırdığı için",
+     "Ders çalışmadıkları için"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Suluk Çınar için neden değerliydi?",
+    "options": [
+     "Çok pahalıydı",
+     "Yeniydi",
+     "Babaannesinin hediyesiydi",
+     "Renkliydi"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN ne yaptı?",
+    "options": [
+     "Kimseyle konuşmadı",
+     "İkisini de dinleyip barıştırmaya çalıştı",
+     "Öğretmene şikayet etti",
+     "Deniz'e kızdı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Deniz harçlıklarıyla ne yaptı?",
+    "options": [
+     "Oyuncak aldı",
+     "Yeni bir suluk aldı",
+     "Şeker aldı",
+     "Biriktirmedi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Deniz özür dilerken ne dedi?",
+    "options": [
+     "Arkadaşlığımız her şeyden değerli",
+     "Ben suçsuzum",
+     "Suluk önemli değil",
+     "Sen haksızsın"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Çınar neden özür diledi?",
+    "options": [
+     "Yalan söylediği için",
+     "Suluğu kırdığı için",
+     "Bağırdığı için",
+     "Geç kaldığı için"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Küs kaldıkları iki hafta ikisi de nasıl hissetti?",
+    "options": [
+     "Rahat",
+     "Yalnız ve mutsuz",
+     "Mutlu",
+     "Özgür"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Hikayeden çıkan derslerden biri hangisidir?",
+    "options": [
+     "Top oynamak yanlıştır",
+     "Küs kalmak iyidir",
+     "Suluklar önemsizdir",
+     "Özür dilemek cesaret ister"
+    ],
+    "correctAnswer": 3
+   }
+  ]
+ },
+ {
+  "id": "uzun-38",
+  "baslik": "KAHRAMAN ve Yeni Öğrenci",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "Bir pazartesi sabahı öğretmen sınıfa yeni bir öğrenciyle girdi. 'Çocuklar, bu Yağmur. Ailesiyle başka şehirden taşındılar,' dedi.",
+   "Yağmur kapının önünde duruyordu. Başı öne eğikti ve çok utangaç görünüyordu. Kimseyi tanımıyordu.",
+   "Öğretmen Yağmur'u KAHRAMAN'ın yanındaki boş sıraya oturttu. Yağmur sessizce oturdu. Elleri titriyordu.",
+   "KAHRAMAN yeni arkadaşına gülümsedi. 'Merhaba, hoş geldin,' dedi. Yağmur kısık bir sesle 'Teşekkürler,' diyebildi.",
+   "Teneffüste Yağmur köşede tek başına durdu. Diğer çocuklar kendi gruplarında oynuyordu. Kimse onu fark etmiyordu.",
+   "KAHRAMAN eski bir anısını hatırladı. Bir yaz kampında kimseyi tanımıyordu ve çok yalnız hissetmişti. O duyguyu iyi biliyordu.",
+   "KAHRAMAN, Yağmur'un yanına gitti. 'Bizimle oynamak ister misin?' diye sordu. Yağmur'un gözleri umutla parladı. 'Gerçekten mi?'",
+   "KAHRAMAN, Yağmur'u arkadaşlarıyla tanıştırdı. 'Bu Yağmur, artık bizim takımda,' dedi. Çocuklar onu aralarına aldı.",
+   "Oyun sırasında Yağmur'un çok hızlı koştuğu ortaya çıktı. Takıma iki sayı kazandırdı. Herkes onu alkışladı.",
+   "Yağmur ilk kez gülümsedi. 'Eski okulumda atletizm takımındaydım,' dedi. Çocuklar hayran kaldı.",
+   "Sınıfta Yağmur hâlâ çekingendi. Öğretmen soru sorduğunda cevabı bilse de parmak kaldırmıyordu. KAHRAMAN bunu fark etti.",
+   "KAHRAMAN ona fısıldadı: 'Cevabı biliyorsun, kaldır parmağını. Yanlış olsa bile önemli değil, kimse gülmez.'",
+   "Yağmur cesaretini topladı ve parmak kaldırdı. Cevabı doğruydu! Öğretmen onu tebrik etti. Yağmur'un özgüveni artıyordu.",
+   "Günler geçtikçe Yağmur sınıfa alıştı. Artık teneffüslerde yalnız değildi. Derste parmak kaldırıyor, şakalara gülüyordu.",
+   "Bir gün Yağmur, KAHRAMAN'a bir resim hediye etti. Resimde iki çocuk el ele gülümsüyordu. Altında 'İlk arkadaşıma' yazıyordu.",
+   "'Sen bana ilk gün merhaba demeseydin, hâlâ köşede tek başıma olurdum,' dedi Yağmur. 'Teşekkür ederim.'",
+   "KAHRAMAN duygulandı. Küçük bir 'merhaba'nın birinin hayatını nasıl değiştirebildiğini görmüştü.",
+   "Aylar sonra sınıfa yine yeni bir öğrenci geldi. Bu sefer Yağmur ilk davranan oldu. 'Merhaba, hoş geldin!' dedi.",
+   "KAHRAMAN gülümseyerek izledi. İyilik bulaşıcıydı. Bir merhaba, başka merhabalara dönüşüyordu.",
+   "Öğretmen o gün sınıfa şunu söyledi: 'Bir okulu güzel yapan binası değil, içindeki kalplerdir.' KAHRAMAN buna yürekten katıldı."
+  ],
+  "sorular": [
+   {
+    "question": "Yeni öğrencinin adı neydi?",
+    "options": [
+     "Irmak",
+     "Bulut",
+     "Deniz",
+     "Yağmur"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Yağmur ilk gün nasıldı?",
+    "options": [
+     "Gürültücü",
+     "Utangaç ve çekingen",
+     "Neşeli",
+     "Kızgın"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN, Yağmur'un yalnızlığını neden iyi anlıyordu?",
+    "options": [
+     "Tahmin etmişti",
+     "Kitapta okumuştu",
+     "Öğretmen anlatmıştı",
+     "Kampta aynı duyguyu yaşamıştı"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Yağmur'un hangi yeteneği ortaya çıktı?",
+    "options": [
+     "Çok hızlı koşması",
+     "Güzel şarkı söylemesi",
+     "Resim yapması",
+     "Dans etmesi"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN derste Yağmur'a ne fısıldadı?",
+    "options": [
+     "Sessiz olmasını",
+     "Parmağını kaldırmasını, yanlış olsa bile önemli olmadığını",
+     "Dışarı çıkmasını",
+     "Cevabı söylemesini"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Yağmur, KAHRAMAN'a ne hediye etti?",
+    "options": [
+     "Bir kitap",
+     "Bir top",
+     "Bir kalem",
+     "Bir resim"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Yeni bir öğrenci gelince Yağmur ne yaptı?",
+    "options": [
+     "Görmezden geldi",
+     "Köşede durdu",
+     "Kaçtı",
+     "İlk merhaba diyen o oldu"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Öğretmene göre bir okulu güzel yapan nedir?",
+    "options": [
+     "Bahçesi",
+     "Sıraları",
+     "Binası",
+     "İçindeki kalpler"
+    ],
+    "correctAnswer": 3
+   }
+  ]
+ },
+ {
+  "id": "uzun-39",
+  "baslik": "KAHRAMAN ve Bulunan Oyuncak",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN okul çıkışı parkta yürüyordu. Bankın altında parlak bir şey gördü. Eğilip baktığında bir oyuncak robot buldu.",
+   "Robot çok güzeldi. Işıkları yanıyor, kolları hareket ediyordu. Tam KAHRAMAN'ın hep istediği model robottu!",
+   "KAHRAMAN etrafına bakındı. Parkta kimse yoktu. 'Sahibi burada değil,' diye düşündü. Robotu eve götürebilirdi. Kimse bilmezdi.",
+   "Ama içinde bir ses vardı. 'Bu robot senin değil,' diyordu ses. 'Birisi onu kaybetti ve şimdi çok üzgün olabilir.'",
+   "KAHRAMAN robotu elinde evirip çevirdi. Onu çok istiyordu. Ama sahibinin üzüntüsünü düşününce içi rahat etmedi.",
+   "KAHRAMAN kendini robotu kaybeden çocuğun yerine koydu. 'Ben en sevdiğim oyuncağımı kaybetsem ne hissederdim?' Çok üzülürdü.",
+   "Kararını verdi. Robotu sahibine ulaştıracaktı. Ama nasıl? Parkta kimse yoktu ve robotun üzerinde isim yazmıyordu.",
+   "KAHRAMAN annesine danıştı. Annesi onunla gurur duydu. 'Doğru olanı seçtin,' dedi. 'Gel, birlikte bir yol bulalım.'",
+   "Bir ilan hazırladılar: 'Parkta bir oyuncak bulundu. Tarif eden sahibine teslim edilecektir.' Telefon numarası da eklediler.",
+   "İlanı parkın girişine, bakkala ve muhtarlığa astılar. KAHRAMAN her gün heyecanla telefonu bekledi.",
+   "İki gün sonra telefon çaldı. Arayan bir anneydi. 'Oğlum Ege parkta robotunu kaybetti,' dedi. 'Günlerdir ağlıyor.'",
+   "Anne robotu tarif etti: 'Mavi-gri renkli, ışıkları yanan bir robot. Sol kolunda küçük bir çizik var.' Tarif tam tutuyordu!",
+   "Ertesi gün parkta buluştular. Ege adında küçük bir çocuk annesiyle geldi. Robotu görünce gözleri parladı.",
+   "'Robotum!' diye sevinçle bağırdı Ege. 'Onu doğum günümde almıştım. Kaybedince çok ağladım.' Robotuna sarıldı.",
+   "Ege'nin annesi KAHRAMAN'a teşekkür etti. 'Dünyada hâlâ dürüst insanlar var,' dedi. 'Ailene helal olsun.'",
+   "Ege, KAHRAMAN'a sarıldı. 'Sen çok iyi birisin,' dedi. 'İstersen bazen birlikte robotla oynayabiliriz!'",
+   "KAHRAMAN çok sevindi. Hem doğru olanı yapmıştı hem de yeni bir arkadaş kazanmıştı. İçindeki huzur, her oyuncaktan değerliydi.",
+   "O akşam babası KAHRAMAN'la konuştu. 'Kimse görmese bile doğruyu yapmak... İşte buna dürüstlük denir,' dedi.",
+   "'Dürüstlük en değerli hazinedir,' diye ekledi. 'Para ile satın alınmaz, kaybedilirse zor kazanılır.'",
+   "KAHRAMAN o gece huzurla uyudu. Robot onda kalmamıştı ama çok daha değerli şeyler kazanmıştı: temiz bir vicdan, yeni bir dost ve ailesinin gururu."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN parkta ne buldu?",
+    "options": [
+     "Bir top",
+     "Bir saat",
+     "Bir oyuncak robot",
+     "Para"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN'ın içindeki ses ne diyordu?",
+    "options": [
+     "Bu robot senin değil",
+     "Robotu al",
+     "Kimse görmez",
+     "Eve götür"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN kendini kimin yerine koydu?",
+    "options": [
+     "Arkadaşının",
+     "Robotu kaybeden çocuğun",
+     "Annesinin",
+     "Öğretmeninin"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Sahibini bulmak için ne yaptılar?",
+    "options": [
+     "Polise gittiler",
+     "Beklediler",
+     "Robotu parkta bıraktılar",
+     "İlan hazırlayıp astılar"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Robotun sahibi kimdi?",
+    "options": [
+     "Ege",
+     "Efe",
+     "Eren",
+     "Emir"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Anne robotu nasıl tarif etti?",
+    "options": [
+     "Sesli",
+     "Kırmızı renkli",
+     "Sol kolunda küçük bir çizik var",
+     "Çok büyük"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Babasına göre dürüstlük nedir?",
+    "options": [
+     "Sessiz kalmak",
+     "Kimse görmese bile doğruyu yapmak",
+     "Çok konuşmak",
+     "Hediye vermek"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN robotu vermekle ne kazandı?",
+    "options": [
+     "Temiz vicdan, yeni dost ve ailesinin gururu",
+     "Hiçbir şey",
+     "Yeni robot",
+     "Para"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-40",
+  "baslik": "KAHRAMAN ve Küçük Kardeş",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın üç yaşında bir kardeşi vardı: Minik Poyraz. Poyraz çok tatlıydı ama bazen KAHRAMAN'ı zorluyordu.",
+   "Poyraz sürekli KAHRAMAN'ın peşindeydi. Oyuncaklarını alıyor, kulelerini deviriyor, resimlerini karalıyordu. KAHRAMAN bazen sabrını kaybediyordu.",
+   "Bir cumartesi annesi KAHRAMAN'a seslendi: 'Ben yemek yapacağım. Bir saat Poyraz'a göz kulak olur musun?' KAHRAMAN içinden of çekti.",
+   "'Ama anne, o hep her şeyi bozuyor!' dedi. Annesi gülümsedi. 'Sen de küçükken aynıydın. Abi olmak sorumluluk ister.'",
+   "KAHRAMAN kabul etti ama isteksizdi. Poyraz'la salona geçtiler. Poyraz hemen KAHRAMAN'ın oyuncak arabalarına uzandı.",
+   "KAHRAMAN tam kızacaktı ki durdu. Bir fikir geldi aklına. 'Kızmak yerine ona oynamayı öğretsem?' diye düşündü.",
+   "'Poyraz, bak. Arabalar böyle sürülür,' dedi sabırla. Yere bir yol çizdi. 'Sen kırmızıyı sür, ben maviyi.'",
+   "Poyraz abisiyle oynadığı için çok mutlu oldu. Arabayı dikkatle sürdü. İlk kez bir şey bozmadan oynuyordu.",
+   "Sonra birlikte kule yaptılar. Poyraz kuleyi devirmek istedi. KAHRAMAN yine sabretti: 'Dur! Önce bitirelim, sonra birlikte yıkarız.'",
+   "Kule tamamlandı. 'Şimdi!' dedi KAHRAMAN. İkisi birlikte kuleyi devirdi. Poyraz kahkahalarla güldü. Bu bir oyuna dönüştü.",
+   "KAHRAMAN bir şey keşfetti. Poyraz kötü niyetli değildi. Sadece abisiyle oynamak istiyordu ama nasıl oynanacağını bilmiyordu.",
+   "Bir ara Poyraz sandalyeye tırmanmaya çalıştı. Düşebilirdi! KAHRAMAN hemen koştu ve onu kucakladı. 'Bu tehlikeli, kardeşim.'",
+   "KAHRAMAN, Poyraz'a resim yapmayı gösterdi. Poyraz'ın eline pastel boya verdi. Poyraz sayfayı boyadı, bu kez KAHRAMAN'ın defterini değil!",
+   "Poyraz'ın resmi karalama gibiydi ama KAHRAMAN onu övdü: 'Çok güzel olmuş!' Poyraz gururla resmine baktı.",
+   "Bir saat çabuk geçti. Annesi salona geldiğinde şaşırdı. İki kardeş yan yana oturmuş, birlikte resim yapıyordu.",
+   "'Maşallah size!' dedi annesi. 'Hiç kavga sesi duymadım.' KAHRAMAN gülümsedi: 'Ona öğretince bozmuyor anne.'",
+   "Annesi KAHRAMAN'ı öptü. 'İşte gerçek abilik bu,' dedi. 'Kızmak kolay, öğretmek ve sabretmek zordur.'",
+   "Akşam Poyraz uykuya dalarken elinde KAHRAMAN'ın verdiği küçük arabayı tutuyordu. 'Abi... oyun...' diye mırıldandı.",
+   "KAHRAMAN kardeşinin uyuyan yüzüne baktı. İçini sıcak bir sevgi kapladı. Bu minik insan onu 'abi' diye seviyordu.",
+   "KAHRAMAN o gün anladı: Kardeş olmak bazen zordu ama abi olmak bir armağandı. Sabır ve sevgiyle her şey güzelleşiyordu."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN'ın kardeşinin adı neydi?",
+    "options": [
+     "Rüzgar",
+     "Kaya",
+     "Poyraz",
+     "Deniz"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Poyraz kaç yaşındaydı?",
+    "options": [
+     "Dört",
+     "Üç",
+     "Beş",
+     "İki"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Annesi KAHRAMAN'dan ne istedi?",
+    "options": [
+     "Bir saat kardeşine göz kulak olmasını",
+     "Yemek yapmasını",
+     "Uyumasını",
+     "Ödev yapmasını"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN kızmak yerine ne yaptı?",
+    "options": [
+     "Odasına gitti",
+     "Kardeşine oynamayı öğretti",
+     "Televizyon açtı",
+     "Ağladı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN, Poyraz hakkında ne keşfetti?",
+    "options": [
+     "Yaramazdı",
+     "Kötü niyetli değildi, sadece oynamak istiyordu",
+     "Uykucuydu",
+     "Sessizdi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Poyraz sandalyeye tırmanınca KAHRAMAN ne yaptı?",
+    "options": [
+     "Güldü",
+     "Koşup onu kucakladı",
+     "Görmedi",
+     "İzledi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Anneye göre gerçek abilik nedir?",
+    "options": [
+     "Susmak",
+     "Öğretmek ve sabretmek",
+     "Kızmak",
+     "Oyuncak vermek"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN sonunda ne anladı?",
+    "options": [
+     "Abi olmak bir armağandı",
+     "Oyunlar sıkıcıdır",
+     "Kardeşler yorucudur",
+     "Yalnızlık iyidir"
+    ],
+    "correctAnswer": 0
+   }
+  ]
  }
 ]
