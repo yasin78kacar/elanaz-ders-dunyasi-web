@@ -5593,5 +5593,555 @@
     "correctAnswer": 0
    }
   ]
+ },
+ {
+  "id": "uzun-21",
+  "baslik": "KAHRAMAN ve Karınca Şehri",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN bahçede oynarken yerde uzun bir karınca sırası gördü. Karıncalar minik yükler taşıyordu. Hepsi aynı yöne doğru yürüyordu.",
+   "KAHRAMAN merakla karıncaları izledi. Birden en öndeki karınca durdu ve ona baktı. 'Merhaba! Bizi mi izliyorsun?' dedi.",
+   "Karıncanın adı Kara'ydı. KAHRAMAN'ı yuvalarını gezmeye davet etti. KAHRAMAN bir anda karınca boyutuna küçüldü.",
+   "Yuvaya girdiklerinde KAHRAMAN'ın gözleri açıldı. Yerin altında koca bir şehir vardı. Tüneller, odalar ve depolar.",
+   "Her karınca bir işle meşguldü. Bazıları yiyecek taşıyor, bazıları tünel kazıyordu. Bazıları da yavrulara bakıyordu.",
+   "Kara anlattı: 'Bizim şehrimizde herkesin bir görevi var. Kimse işini küçümsemez. Her iş değerlidir.'",
+   "KAHRAMAN bir karıncanın kendinden kat kat büyük bir ekmek kırıntısı taşıdığını gördü. Çok şaşırdı. 'Nasıl bu kadar güçlüsünüz?' diye sordu.",
+   "Kara güldü. 'Tek başımıza küçüğüz ama birlikte çok güçlüyüz,' dedi. 'Ağır yükleri hep beraber taşırız.'",
+   "Tam o sırada bir haber geldi. Yağmur yaklaşıyordu ve yuvanın bir girişi açık kalmıştı. Su içeri dolabilirdi.",
+   "Bütün karıncalar hemen harekete geçti. Kimse panik yapmadı. Herkes ne yapacağını biliyordu.",
+   "Bir grup toprak taşıdı, bir grup girişi kapattı. KAHRAMAN da minik taşları taşıyarak yardım etti. Hep birlikte çalıştılar.",
+   "Yağmur başladığında giriş tamamen kapanmıştı. Yuva güvendeydi. Karıncalar sevinçle birbirini kutladı.",
+   "Kraliçe karınca KAHRAMAN'a teşekkür etti. 'Küçük eller büyük işler başarır, yeter ki birlikte olsun,' dedi.",
+   "Yağmur dinene kadar KAHRAMAN yuvada misafir kaldı. Karıncalar ona depolarındaki yiyeceklerden ikram etti.",
+   "KAHRAMAN karıncaların kışa hazırlık yaptığını öğrendi. Yaz boyunca çalışıp yiyecek biriktiriyorlardı. Çok akıllıydılar.",
+   "'Bugünden yarını düşünmek gerekir,' dedi Kara. 'Hazırlıklı olan zorda kalmaz.' KAHRAMAN bu dersi unutmayacaktı.",
+   "Yağmur dindi ve güneş açtı. KAHRAMAN'ın gitme vakti gelmişti. Bütün karıncalar onu uğurlamaya geldi.",
+   "Kara ona minik bir buğday tanesi hediye etti. 'Emeğin ve dostluğun anısı olsun,' dedi. KAHRAMAN teşekkür etti.",
+   "KAHRAMAN eski boyutuna döndü. Yerdeki karınca sırasına son kez baktı. Artık onlara bambaşka gözle bakıyordu.",
+   "O günden sonra KAHRAMAN karıncalara asla zarar vermedi. Onlardan çalışkanlığı, dayanışmayı ve hazırlıklı olmayı öğrenmişti. Küçük dostlarını hep sevgiyle andı."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN bahçede ne gördü?",
+    "options": [
+     "Uzun bir karınca sırası",
+     "Bir kelebek",
+     "Bir kuş",
+     "Bir kedi"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'ı yuvaya davet eden karıncanın adı neydi?",
+    "options": [
+     "Kara",
+     "Minik",
+     "Çalışkan",
+     "Boncuk"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Yerin altında ne vardı?",
+    "options": [
+     "Bir göl",
+     "Koca bir karınca şehri",
+     "Bir mağara",
+     "Hazine"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Karıncalar nasıl bu kadar güçlüydü?",
+    "options": [
+     "Çok yemek yiyerek",
+     "Birlikte çalışarak",
+     "Uyuyarak",
+     "Koşarak"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Yağmur yaklaşınca sorun neydi?",
+    "options": [
+     "Yuvanın bir girişi açık kalmıştı",
+     "Yiyecek bitmişti",
+     "Kraliçe kaybolmuştu",
+     "Tünel çökmüştü"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Karıncalar kışa nasıl hazırlanıyordu?",
+    "options": [
+     "Uyuyarak",
+     "Yaz boyunca yiyecek biriktirerek",
+     "Göç ederek",
+     "Hiç hazırlanmıyordu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Kara, KAHRAMAN'a ne hediye etti?",
+    "options": [
+     "Minik bir buğday tanesi",
+     "Bir taş",
+     "Bir yaprak",
+     "Bir çiçek"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN karıncalardan neler öğrendi?",
+    "options": [
+     "Çalışkanlık, dayanışma ve hazırlıklı olma",
+     "Hızlı koşma",
+     "Yüzme",
+     "Şarkı söyleme"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-22",
+  "baslik": "KAHRAMAN ve Nehrin Yolculuğu",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN dedesiyle birlikte nehir kenarına pikniğe gitti. Nehir şırıl şırıl akıyordu. Suyun sesi kulağa çok hoş geliyordu.",
+   "KAHRAMAN dedesine sordu: 'Dede, bu nehir nereden gelip nereye gidiyor?' Dede gülümsedi. 'Gel, sana bir sır vereyim,' dedi.",
+   "Dede cebinden küçük, mavi bir kayık çıkardı. 'Bu sihirli bir kayık,' dedi. 'Nehrin yolculuğunu görmek istersen gözlerini kapat.'",
+   "KAHRAMAN gözlerini kapattı. Açtığında kendini minik kayığın içinde buldu. Nehrin üzerinde süzülüyordu.",
+   "Kayık önce dağlara doğru gitti. KAHRAMAN nehrin doğduğu yeri gördü. Karların eridiği yerden minik bir pınar fışkırıyordu.",
+   "'Demek nehir böyle başlıyor,' dedi KAHRAMAN. Minicik pınar, akarak büyüyordu. Yolda başka derelerle birleşiyordu.",
+   "Kayık akıntıyla birlikte ilerledi. Nehir gitgide genişliyordu. Kenarlarında söğüt ağaçları sallanıyordu.",
+   "Bir ara nehir hızlandı. Küçük bir şelaleden aşağı süzüldüler. KAHRAMAN heyecanla bağırdı ama korkmadı, eğlendi.",
+   "Nehirde balıklar yüzüyordu. Bir sazan KAHRAMAN'a eşlik etti. 'Bu nehir bizim evimiz,' dedi. 'Temiz kaldığı sürece hepimiz mutluyuz.'",
+   "Kıyıda su içen ceylanlar gördüler. Kuşlar nehirde yıkanıyordu. Nehir bütün canlılara hayat veriyordu.",
+   "Sonra üzücü bir manzara gördüler. Bir köşede suya atılmış çöpler vardı. Balıklar oradan uzak duruyordu.",
+   "KAHRAMAN çok üzüldü. Kayığı durdurdu ve çöpleri tek tek topladı. Onları kıyıdaki çöp kutusuna attı.",
+   "Sazan çok sevindi. 'Teşekkür ederiz! Sen nehrin dostusun,' dedi. Su o bölgede yeniden parladı.",
+   "Kayık yoluna devam etti. Nehir bir köyün içinden geçti. İnsanlar nehirden tarlaları için su alıyordu.",
+   "KAHRAMAN nehrin ne kadar önemli olduğunu gördü. İçme suyu, tarım, hayvanlar... Herkes nehre muhtaçtı.",
+   "Sonunda nehir kocaman bir maviliğe kavuştu. Burası denizdi! Nehir yolculuğunu tamamlamış, denizle buluşmuştu.",
+   "KAHRAMAN bu buluşmayı hayranlıkla izledi. Minik pınardan koca denize uzanan bir yolculuktu bu. Doğa muhteşemdi.",
+   "Gözlerini tekrar kapattı ve açtığında dedesinin yanındaydı. 'Gördün mü yolculuğu?' diye sordu dede göz kırparak.",
+   "KAHRAMAN heyecanla her şeyi anlattı. 'Nehirleri hep temiz tutacağım dede,' dedi. 'Onlar herkese hayat veriyor.'",
+   "Dede torununun başını okşadı. 'İşte bu yüzden sen benim akıllı torunumsun,' dedi. İkisi nehre bakarak gülümsediler."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN dedesiyle nereye gitti?",
+    "options": [
+     "Nehir kenarına pikniğe",
+     "Denize",
+     "Ormana",
+     "Dağa"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Dede cebinden ne çıkardı?",
+    "options": [
+     "Küçük mavi bir kayık",
+     "Bir harita",
+     "Bir dürbün",
+     "Bir olta"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Nehir nereden doğuyordu?",
+    "options": [
+     "Denizden",
+     "Karların eridiği pınardan",
+     "Gölden",
+     "Yağmurdan"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Sazan balığı nehir hakkında ne dedi?",
+    "options": [
+     "Nehir bizim evimiz, temiz kaldıkça mutluyuz",
+     "Nehir soğuk",
+     "Nehir derin",
+     "Nehir hızlı"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN suya atılmış çöpleri görünce ne yaptı?",
+    "options": [
+     "Görmezden geldi",
+     "Topladı ve çöp kutusuna attı",
+     "Suya itti",
+     "Kaçtı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "İnsanlar nehirden ne için su alıyordu?",
+    "options": [
+     "Tarlaları için",
+     "Yüzmek için",
+     "Oyun için",
+     "Satmak için"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Nehir yolculuğun sonunda neyle buluştu?",
+    "options": [
+     "Gölle",
+     "Denizle",
+     "Başka nehirle",
+     "Şelaleyle"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN dedesine ne söz verdi?",
+    "options": [
+     "Nehirleri temiz tutacağına",
+     "Yüzme öğreneceğine",
+     "Balık tutacağına",
+     "Kayık alacağına"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-23",
+  "baslik": "KAHRAMAN ve Kristal Mağara",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN ailesiyle dağ köyündeki teyzesini ziyarete gitti. Köyün yakınında eski bir mağara olduğunu duydu. Köylüler mağaranın içinde parlayan taşlar olduğunu söylüyordu.",
+   "KAHRAMAN teyzesinin oğlu Doruk ile mağarayı görmeye karar verdi. Yanlarına el feneri, su ve biraz yiyecek aldılar. Büyüklere haber verip yola çıktılar.",
+   "Mağaranın girişi büyük kayaların arasındaydı. İçerisi serin ve sessizdi. El fenerlerini yakıp dikkatlice ilerlediler.",
+   "Biraz yürüdükten sonra inanılmaz bir manzarayla karşılaştılar. Duvarlar mor ve beyaz kristallerle kaplıydı. Fener ışığında pırıl pırıl parlıyorlardı.",
+   "'Vay canına!' dedi Doruk. 'Sanki yıldızların içindeyiz.' KAHRAMAN kristallere hayranlıkla baktı ama onlara dokunmadı.",
+   "'Bunlar binlerce yılda oluşmuş,' dedi KAHRAMAN. 'Onlara zarar vermemeliyiz.' Doruk da başını salladı. Sadece izlediler.",
+   "Mağaranın derinliklerinde bir ses duydular. Minik bir cıvıltıydı. Sesi takip ettiler ve bir yarasa yavrusu buldular.",
+   "Yavru yarasa bir taşın arkasına sıkışmıştı. Ailesi yukarıda, tavanda endişeyle bekliyordu. KAHRAMAN yavaşça yaklaştı.",
+   "KAHRAMAN nazikçe taşı kaldırdı ve Doruk yavruyu kurtardı. Yavru yarasa sevinçle kanat çırptı ve ailesine uçtu.",
+   "Yarasalar teşekkür eder gibi çocukların etrafında döndü. Sonra mağaranın derinliklerine doğru uçtular. Sanki 'bizi izleyin' der gibiydiler.",
+   "Çocuklar yarasaları takip etti. Yarasalar onları gizli bir bölmeye götürdü. Burası mağaranın kalbiydi.",
+   "Bu bölmedeki kristaller diğerlerinden çok daha büyüktü. Ortada göl gibi duran berrak bir su birikintisi vardı. Su, kristallerin ışığını yansıtıyordu.",
+   "'Burası bir hazine,' diye fısıldadı Doruk. 'Ama altın değil, doğanın hazinesi.' KAHRAMAN çok etkilenmişti.",
+   "KAHRAMAN telefonuyla fotoğraf çekti. 'Bunu köydeki herkese gösterelim,' dedi. 'Ama yerini sadece büyüklere söyleyelim ki korunsun.'",
+   "Dönüş yolunda dikkatli oldular. Geldikleri yolu işaretlemişlerdi. El fenerlerinin ışığıyla güvenle çıkışa ulaştılar.",
+   "Köye döndüklerinde herkese fotoğrafları gösterdiler. Köylüler hayran kaldı. Muhtar mağaranın korunması gerektiğini söyledi.",
+   "Köylüler mağara girişine bir tabela koydu: 'Doğal güzellik - Lütfen koruyalım.' KAHRAMAN ve Doruk çok mutlu oldu.",
+   "Teyze çocuklarla gurur duydu. 'Hem keşif yaptınız hem de doğayı korudunuz,' dedi. Onlara bal kaymaklı ekmek hazırladı.",
+   "KAHRAMAN o gece kristalleri düşündü. Doğanın sabırla, binlerce yılda yarattığı güzellikleri... İnsanların görevi onları korumaktı.",
+   "Tatil bitince KAHRAMAN evine döndü. Ama kristal mağarayı hiç unutmadı. Doğanın hazinelerinin en değerli hazineler olduğunu öğrenmişti."
+  ],
+  "sorular": [
+   {
+    "question": "Mağara nerede bulunuyordu?",
+    "options": [
+     "Denizin kenarında",
+     "Ormanda",
+     "Dağ köyünün yakınında",
+     "Şehrin içinde"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN mağaraya kiminle gitti?",
+    "options": [
+     "Teyzesinin oğlu Doruk ile",
+     "Arkadaşı Ali ile",
+     "Tek başına",
+     "Dedesiyle"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Mağaranın duvarları neyle kaplıydı?",
+    "options": [
+     "Yosunla",
+     "Altınla",
+     "Mor ve beyaz kristallerle",
+     "Resimlerle"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN kristallere neden dokunmadı?",
+    "options": [
+     "Yasak olduğu için",
+     "Onlara zarar vermemek için",
+     "Korktuğu için",
+     "Soğuk oldukları için"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Mağarada hangi hayvanı kurtardılar?",
+    "options": [
+     "Yavru yarasayı",
+     "Bir kediyi",
+     "Bir fareyi",
+     "Bir kuşu"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Yarasalar çocukları nereye götürdü?",
+    "options": [
+     "Çıkışa",
+     "Köye",
+     "Başka mağaraya",
+     "Mağaranın gizli bölmesine"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Köylüler mağara için ne yaptı?",
+    "options": [
+     "Kristalleri topladı",
+     "Koruma tabelası koydu",
+     "Mağarayı kapattı",
+     "Hiçbir şey yapmadı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN bu maceradan ne öğrendi?",
+    "options": [
+     "Yarasaların uçtuğunu",
+     "Doğanın hazinelerini korumak gerektiğini",
+     "Mağaraların karanlık olduğunu",
+     "Kristallerin parladığını"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-24",
+  "baslik": "KAHRAMAN ve Ada Hazinesi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN yaz tatilinde deniz kenarında kamp yapıyordu. Bir sabah kumsalda yürürken eski bir şişe buldu. Şişenin içinde sararmış bir kağıt vardı.",
+   "KAHRAMAN şişeyi dikkatlice açtı. İçindeki kağıt bir haritaydı! Haritada yakındaki küçük bir ada ve üzerinde kocaman bir X işareti vardı.",
+   "'Bu bir hazine haritası olabilir!' diye heyecanlandı KAHRAMAN. Babasına haritayı gösterdi. Babası gülümsedi ve 'Hadi birlikte bakalım,' dedi.",
+   "Baba oğul küçük bir sandala bindiler. Adaya doğru kürek çektiler. Deniz sakindi ve martılar üzerlerinde uçuyordu.",
+   "Adaya vardıklarında haritayı incelediler. X işareti adanın ortasındaki büyük palmiye ağacını gösteriyordu. Yürümeye başladılar.",
+   "Yolda ilginç şeyler gördüler. Renkli deniz kabukları, yengeçler ve kertenkeleler. KAHRAMAN her şeyi merakla inceledi.",
+   "Haritada bir bilmece yazıyordu: 'Güneşin doğduğu yöne on adım, sonra denize bakan kayaya kadar yürü.' KAHRAMAN düşündü.",
+   "'Güneş doğudan doğar!' dedi KAHRAMAN. Pusulasıyla doğuyu buldu. On adım saydılar ve denize bakan kayayı gördüler.",
+   "Kayanın yanında büyük palmiye ağacı duruyordu. 'X burası!' dedi KAHRAMAN heyecanla. Babasıyla birlikte kazmaya başladılar.",
+   "Biraz kazdıktan sonra küreğin ucu sert bir şeye çarptı. Eski, tahta bir sandık! KAHRAMAN'ın kalbi hızla çarpıyordu.",
+   "Sandığı dikkatlice çıkardılar. Üzerindeki kilidi açtılar. İçinde ne altın ne mücevher vardı. Bambaşka bir şey vardı.",
+   "Sandığın içinde eski kitaplar, bir dürbün, deniz kabukları koleksiyonu ve bir mektup vardı. KAHRAMAN mektubu okudu.",
+   "Mektupta şöyle yazıyordu: 'Bu sandığı bulan kişiye: Gerçek hazine altın değildir. Gerçek hazine merak, macera ve öğrenmektir.'",
+   "Mektubu yıllar önce yaşlı bir denizci yazmıştı. Sandıktaki kitaplar onun en sevdiği kitaplardı. Dürbün ise denizleri izlediği dürbündü.",
+   "KAHRAMAN önce biraz hayal kırıklığına uğradı. Ama sonra kitaplara baktı. Deniz maceraları, keşifler, uzak ülkeler... Hepsi çok ilginçti.",
+   "'Baba, aslında bu gerçekten bir hazine,' dedi KAHRAMAN. 'Bu kitaplarla bir sürü maceraya çıkabilirim.' Babası gururla gülümsedi.",
+   "Dürbünle denizi izlediler. Uzakta yunuslar zıplıyordu. KAHRAMAN bu anın tadını çıkardı. Macera gerçekten güzeldi.",
+   "Sandığı ve içindekileri özenle kampa taşıdılar. KAHRAMAN o akşam kamp ateşinin yanında ilk kitabı okumaya başladı.",
+   "Kitap o kadar güzeldi ki KAHRAMAN kendini hikayenin içinde hissetti. Yaşlı denizci haklıydı. Kitaplar insanı her yere götürebilirdi.",
+   "KAHRAMAN o yaz sandıktaki bütün kitapları okudu. Ve anladı ki en değerli hazineler parayla ölçülmez. Merak, bilgi ve macera... İşte gerçek zenginlik buydu."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN kumsalda ne buldu?",
+    "options": [
+     "İçinde harita olan eski bir şişe",
+     "Bir deniz yıldızı",
+     "Bir sandık",
+     "Bir dürbün"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Haritadaki X işareti neyi gösteriyordu?",
+    "options": [
+     "Bir kayayı",
+     "Bir gemiyi",
+     "Bir mağarayı",
+     "Adanın ortasındaki palmiye ağacını"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Bilmecedeki 'güneşin doğduğu yön' neresidir?",
+    "options": [
+     "Güney",
+     "Batı",
+     "Kuzey",
+     "Doğu"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Sandığın içinden ne çıktı?",
+    "options": [
+     "Altın ve mücevher",
+     "Oyuncaklar",
+     "Para",
+     "Kitaplar, dürbün ve deniz kabukları"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Mektuba göre gerçek hazine nedir?",
+    "options": [
+     "Mücevher",
+     "Para",
+     "Merak, macera ve öğrenmek",
+     "Altın"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Sandığı kim bırakmıştı?",
+    "options": [
+     "Yaşlı bir denizci",
+     "Bir balıkçı",
+     "Bir kaptan",
+     "Bir korsan"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN sandıktaki kitaplarla ne yaptı?",
+    "options": [
+     "Sattı",
+     "O yaz hepsini okudu",
+     "Denize attı",
+     "Sakladı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Hikayenin ana mesajı nedir?",
+    "options": [
+     "Denizciler zengindir",
+     "En değerli hazineler parayla ölçülmez",
+     "Adalar güzeldir",
+     "Kazmak zordur"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-25",
+  "baslik": "KAHRAMAN ve Mahalle Bahçesi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN büyük bir şehirde, kalabalık bir mahallede yaşıyordu. Apartmanların arasında boş, bakımsız bir arsa vardı. Arsa çöplerle doluydu.",
+   "KAHRAMAN her gün okula giderken o arsanın önünden geçerdi. 'Burası ne kadar çirkin,' diye düşünürdü. 'Keşke güzel bir yer olsaydı.'",
+   "Bir gün KAHRAMAN'ın aklına bir fikir geldi. 'Bu arsayı mahalle bahçesine çevirebiliriz!' Ama tek başına yapamazdı. Yardım gerekiyordu.",
+   "Önce en yakın arkadaşlarına anlattı. Onlar da fikri çok sevdi. Sonra apartmandaki komşulara gittiler. Kapı kapı dolaşıp anlattılar.",
+   "Bazı komşular ilgisiz kaldı. 'Bizim işimiz değil,' dediler. Ama KAHRAMAN pes etmedi. Anlatmaya devam etti.",
+   "Yaşlı Nine ilk destek verenlerdendi. 'Ben çiçek tohumlarımı veririm,' dedi. Marangoz Amca da 'Ben banklar yaparım,' diye söz verdi.",
+   "Haber mahallede yayıldı. Gitgide daha çok insan katıldı. Bir cumartesi sabahı herkes arsada toplandı.",
+   "Önce temizlik başladı. Çöpler toplandı, torbalara dolduruldu. Herkes eldiven takıp çalıştı. Çocuklar küçük çöpleri topladı.",
+   "Sonra toprak kazıldı ve havalandırıldı. Bahçıvan Teyze herkese nasıl yapılacağını gösterdi. Toprak ekime hazır hale geldi.",
+   "Nine'nin tohumları ekildi. Domates, biber, çiçekler... Herkes bir köşeye bir şeyler dikti. Marangoz Amca'nın bankları yerleştirildi.",
+   "KAHRAMAN ve arkadaşları sulama görevini üstlendi. Her gün okuldan sonra bahçeye gelip fidelere su verdiler.",
+   "Haftalar geçti. Tohumlar filizlendi, fideler büyüdü. Bahçe yeşermeye başladı. Herkes bu değişime şaşırıyordu.",
+   "Eskiden çöplük olan yer artık rengarenk bir bahçeydi. Çiçekler açtı, domatesler kızardı. Kelebekler ve arılar geldi.",
+   "Mahalleli akşamları bahçede toplanmaya başladı. Yaşlılar banklarda sohbet etti. Çocuklar oyun oynadı. Herkes kaynaştı.",
+   "Eskiden birbirini tanımayan komşular artık dosttu. Bahçe sadece sebze değil, dostluk da yetiştirmişti.",
+   "İlk hasat günü geldi. Domatesler, biberler ve salatalıklar toplandı. Herkes emeğinin karşılığını paylaştı.",
+   "Nine gözleri dolarak konuştu: 'Bu mahalleye yıllardır böyle güzellik gelmemişti. Hepsi bir çocuğun hayaliyle başladı.'",
+   "KAHRAMAN utangaç bir şekilde gülümsedi. 'Ama hep birlikte yaptık,' dedi. 'Ben sadece ilk adımı attım.'",
+   "Muhtar bahçeye bir tabela astı: 'Mahalle Bahçesi - Birlikte kurduk, birlikte yaşatıyoruz.' Herkes alkışladı.",
+   "KAHRAMAN o gece mutlulukla uyudu. Bir kişinin hayali, herkesin emeğiyle gerçek olmuştu. Birlik olunca her şey mümkündü."
+  ],
+  "sorular": [
+   {
+    "question": "Apartmanların arasındaki arsa nasıldı?",
+    "options": [
+     "Yemyeşil",
+     "Çiçeklerle dolu",
+     "Boş, bakımsız ve çöplerle dolu",
+     "Oyun parkı"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN'ın fikri neydi?",
+    "options": [
+     "Arsayı mahalle bahçesine çevirmek",
+     "Arsaya ev yapmak",
+     "Arsada oynamak",
+     "Arsayı satmak"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Bazı komşular ilgisiz kalınca KAHRAMAN ne yaptı?",
+    "options": [
+     "Ağladı",
+     "Kızdı",
+     "Vazgeçti",
+     "Pes etmedi, anlatmaya devam etti"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Nine bahçeye ne verdi?",
+    "options": [
+     "Çiçek tohumları",
+     "Para",
+     "Su",
+     "Banklar"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Marangoz Amca ne yaptı?",
+    "options": [
+     "Tohum ekti",
+     "Su verdi",
+     "Çöp topladı",
+     "Banklar yaptı"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "KAHRAMAN ve arkadaşları hangi görevi üstlendi?",
+    "options": [
+     "Sulama görevini",
+     "Satış görevini",
+     "Bekçilik görevini",
+     "Kazma görevini"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Bahçe mahalleye başka ne kazandırdı?",
+    "options": [
+     "Komşular arasında dostluk",
+     "Gürültü",
+     "Ün",
+     "Para"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Hikayenin ana mesajı nedir?",
+    "options": [
+     "Bahçe işi zordur",
+     "Birlik olunca her şey mümkündür",
+     "Domates lezzetlidir",
+     "Şehir kalabalıktır"
+    ],
+    "correctAnswer": 1
+   }
+  ]
  }
 ]
