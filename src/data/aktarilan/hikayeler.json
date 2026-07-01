@@ -6143,5 +6143,555 @@
     "correctAnswer": 1
    }
   ]
+ },
+ {
+  "id": "uzun-26",
+  "baslik": "KAHRAMAN ve Köy İmecesi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN o yaz babaannesinin köyüne gitti. Köy, yeşil tepelerin arasında küçük ve şirin bir yerdi. Herkes birbirini tanıyordu.",
+   "Bir sabah köy meydanında bir toplantı vardı. Yaşlı Hasan Amca'nın samanlığı fırtınada yıkılmıştı. Kışlık otları açıkta kalmıştı.",
+   "Muhtar konuştu: 'Hasan Amca tek başına samanlığı yapamaz. Ne yapalım?' Köylüler birbirine baktı ve hep bir ağızdan cevap verdi: 'İmece!'",
+   "KAHRAMAN babaannesine sordu: 'İmece nedir?' Babaanne gülümsedi. 'İmece, herkesin bir araya gelip birbirine yardım etmesidir,' dedi.",
+   "Ertesi sabah bütün köy Hasan Amca'nın bahçesinde toplandı. Erkekler, kadınlar, çocuklar... Herkes gelmişti. KAHRAMAN da oradaydı.",
+   "İş bölümü yapıldı. Güçlü olanlar keresteleri taşıdı. Ustalar çatıyı planladı. Kadınlar yemek hazırladı. Çocuklar su ve çivi taşıdı.",
+   "KAHRAMAN küçük görevler üstlendi. Çivileri ustalara verdi, su taşıdı. Kendini çok işe yarar hissediyordu.",
+   "Öğlen olunca herkes ağacın gölgesinde toplandı. Kadınların hazırladığı yemekler yendi. Gözlemeler, ayranlar... Hep beraber yemek çok keyifliydi.",
+   "Yemekten sonra çalışma devam etti. Direkler dikildi, duvarlar örüldü. Herkes şarkılar söyleyerek çalışıyordu.",
+   "KAHRAMAN bir şey fark etti. Kimse 'benim işim değil' demiyordu. Kimse para istemiyordu. Herkes gönülden çalışıyordu.",
+   "Hasan Amca'nın gözleri doluydu. 'Sizlere nasıl teşekkür edeceğimi bilemiyorum,' dedi. Muhtar omzuna elini koydu.",
+   "'Teşekküre gerek yok Hasan Amca,' dedi Muhtar. 'Yarın bizim başımıza bir şey gelse sen de koşarsın. Köy demek, birlik demek.'",
+   "Akşama doğru samanlık tamamlandı. Yepyeni, sağlam bir samanlık! Üstelik eskisinden daha güzeldi. Herkes eserine gururla baktı.",
+   "Hasan Amca'nın otları içeri taşındı. Artık kışın hayvanları aç kalmayacaktı. Köylüler alkışlarla işi bitirdi.",
+   "O akşam köy meydanında küçük bir kutlama yapıldı. Semaverde çay demlendi. Yaşlılar hikayeler anlattı, çocuklar oyun oynadı.",
+   "KAHRAMAN babaannesinin yanına oturdu. 'Babaanne, şehirde komşumuzun adını bile bilmiyoruz,' dedi. 'Ama burada herkes bir aile gibi.'",
+   "Babaanne torununu okşadı. 'İşte köyün zenginliği bu yavrum,' dedi. 'Para değil, birlik ve dayanışma.'",
+   "KAHRAMAN o gece yıldızların altında düşündü. İmece çok güzel bir gelenekti. Keşke her yerde olsa.",
+   "Tatil bitip şehre dönünce KAHRAMAN ilk iş komşularıyla tanıştı. Kapılarını çaldı, kendini tanıttı. Komşular çok memnun oldu.",
+   "KAHRAMAN köyden öğrendiği dersi hiç unutmadı: İnsanlar birbirine yardım ederse, her zorluk kolaylaşır. Birlik her kapıyı açan anahtardı."
+  ],
+  "sorular": [
+   {
+    "question": "Hasan Amca'nın sorunu neydi?",
+    "options": [
+     "Tarlası kurumuştu",
+     "Samanlığı fırtınada yıkılmıştı",
+     "Evi yanmıştı",
+     "Hayvanları kaybolmuştu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Köylüler soruna nasıl bir çözüm buldu?",
+    "options": [
+     "Para topladılar",
+     "İmece",
+     "Şehirden usta çağırdılar",
+     "Beklediler"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "İmece nedir?",
+    "options": [
+     "Bir oyun",
+     "Herkesin bir araya gelip yardımlaşması",
+     "Bir bayram",
+     "Bir yemek türü"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN imecede ne yaptı?",
+    "options": [
+     "Çivi ve su taşıdı",
+     "Uyudu",
+     "Yemek pişirdi",
+     "Çatıya çıktı"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "İmecede kimse ne istemiyordu?",
+    "options": [
+     "Para",
+     "Yardım",
+     "Su",
+     "Yemek"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Muhtar köy için ne dedi?",
+    "options": [
+     "Köy eskidir",
+     "Köy demek birlik demek",
+     "Köy uzaktır",
+     "Köy küçüktür"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN şehre dönünce ilk ne yaptı?",
+    "options": [
+     "Televizyon izledi",
+     "Oyun oynadı",
+     "Komşularıyla tanıştı",
+     "Uyudu"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Hikayenin ana mesajı nedir?",
+    "options": [
+     "Birlik ve yardımlaşma her zorluğu kolaylaştırır",
+     "Fırtına tehlikelidir",
+     "Samanlık yapmak zordur",
+     "Köyler güzeldir"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-27",
+  "baslik": "KAHRAMAN ve Cesur Küçük Hasta",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın en yakın arkadaşlarından Umut hastalanmıştı. Apandisit ameliyatı olması gerekiyordu. Umut hastanede yatıyordu.",
+   "KAHRAMAN arkadaşını çok merak ediyordu. Annesiyle birlikte Umut'u ziyarete gitmeye karar verdiler. Yanlarına Umut'un sevdiği kitaplardan aldılar.",
+   "Hastane büyük ve kalabalıktı. KAHRAMAN biraz çekiniyordu. Ama annesi elini tuttu. 'Hastaneler iyileşme yerleridir,' dedi.",
+   "Koridorda beyaz önlüklü doktorlar ve hemşireler vardı. Hepsi güler yüzlüydü. Bir hemşire onlara Umut'un odasını gösterdi.",
+   "Umut yatakta oturuyordu. KAHRAMAN'ı görünce yüzü aydınlandı. 'Geldiğine çok sevindim!' dedi. İki arkadaş kucaklaştı.",
+   "Umut biraz endişeliydi. 'Yarın ameliyat olacağım,' dedi. 'Biraz korkuyorum.' KAHRAMAN arkadaşının elini tuttu.",
+   "Tam o sırada Doktor Elif Hanım odaya girdi. Çok güler yüzlü bir doktordu. Umut'un korkusunu fark etti.",
+   "'Korkmana gerek yok,' dedi Doktor Elif. 'Ameliyatta uyuyacaksın ve hiçbir şey hissetmeyeceksin. Uyandığında her şey bitmiş olacak.'",
+   "Doktor, ameliyatı çocukların anlayacağı şekilde anlattı. 'Karnındaki küçük yaramaz bir parçayı çıkaracağız. Sonra çok daha iyi hissedeceksin.'",
+   "Umut rahatladı. 'Peki ne zaman futbol oynayabilirim?' diye sordu. Doktor güldü. 'Birkaç hafta sonra sahalardasın!' dedi.",
+   "KAHRAMAN, Umut'a getirdiği kitapları verdi. 'İyileşirken okursun,' dedi. 'En güzel maceraları senin için seçtim.'",
+   "Hemşire Ayşe Hanım odaya geldi. Umut'un ateşini ölçtü, ilaçlarını verdi. Çok nazik ve şefkatliydi.",
+   "KAHRAMAN hemşireye sordu: 'Siz hep böyle herkese bakıyor musunuz?' Hemşire gülümsedi. 'Evet, bizim işimiz insanlara yardım etmek.'",
+   "KAHRAMAN doktorların ve hemşirelerin ne kadar önemli olduğunu düşündü. Onlar her gün insanları iyileştiriyordu. Gerçek kahramanlar onlardı.",
+   "Ziyaret saati bitince KAHRAMAN arkadaşına sarıldı. 'Yarın ameliyattan sonra yine geleceğim,' diye söz verdi. 'Sen çok cesursun.'",
+   "Ertesi gün Umut ameliyat oldu. Her şey yolunda gitti. KAHRAMAN okuldan sonra hemen hastaneye koştu.",
+   "Umut uyanmıştı ve gülümsüyordu. 'Hiçbir şey hissetmedim!' dedi. 'Doktor haklıymış. Boşuna korkmuşum.'",
+   "Birkaç gün sonra Umut taburcu oldu. Sınıf arkadaşları ona 'geçmiş olsun' kartları hazırlamıştı. Umut çok duygulandı.",
+   "Birkaç hafta sonra Umut tamamen iyileşti. KAHRAMAN'la birlikte yine futbol oynadılar. Umut eskisinden daha hızlıydı!",
+   "KAHRAMAN bu deneyimden çok şey öğrendi. Hastaneler korkulacak yerler değildi. Ve doktorlar, hemşireler insanları iyileştiren gerçek kahramanlardı."
+  ],
+  "sorular": [
+   {
+    "question": "Umut neden hastanedeydi?",
+    "options": [
+     "Bacağı kırılmıştı",
+     "Dişi ağrıyordu",
+     "Grip olmuştu",
+     "Apandisit ameliyatı olacaktı"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "KAHRAMAN, Umut'a ne götürdü?",
+    "options": [
+     "Çikolata",
+     "Oyuncak",
+     "Top",
+     "Sevdiği kitaplardan"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Umut neden endişeliydi?",
+    "options": [
+     "Acıkmıştı",
+     "Ameliyattan korkuyordu",
+     "Okulu özlemişti",
+     "Yalnızdı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Doktor Elif, Umut'u nasıl rahatlattı?",
+    "options": [
+     "Ameliyatı anlaşılır şekilde anlatarak",
+     "Ona oyuncak vererek",
+     "Onu uyutarak",
+     "Şarkı söyleyerek"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Hemşire Ayşe Hanım işini nasıl tanımladı?",
+    "options": [
+     "İlaç saymak",
+     "Para kazanmak",
+     "İnsanlara yardım etmek",
+     "Rapor yazmak"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ameliyattan sonra Umut ne dedi?",
+    "options": [
+     "Çok acıdı",
+     "Hiçbir şey hissetmedim, boşuna korkmuşum",
+     "Eve gitmek istiyorum",
+     "Yine korkuyorum"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Sınıf arkadaşları Umut için ne hazırladı?",
+    "options": [
+     "Pasta",
+     "Hediyeler",
+     "Geçmiş olsun kartları",
+     "Şarkı"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN'a göre gerçek kahramanlar kimlerdi?",
+    "options": [
+     "Şarkıcılar",
+     "Doktorlar ve hemşireler",
+     "Futbolcular",
+     "Süper kahramanlar"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-28",
+  "baslik": "KAHRAMAN ve İtfaiye Günü",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın okulunda özel bir gün vardı. İtfaiyeciler okula gelecek ve yangın güvenliğini anlatacaktı. Bütün çocuklar heyecanlıydı.",
+   "Kocaman kırmızı itfaiye aracı okul bahçesine girdi. Sireni kısa bir 'vip vip' yaptı. Çocuklar alkışladı.",
+   "Araçtan üç itfaiyeci indi. Şefleri Murat Amca'ydı. Güler yüzlü ama ciddi bir adamdı. 'Merhaba çocuklar!' dedi.",
+   "Murat Amca önce yangının nasıl çıktığını anlattı. 'Ateşle oynamak, prizleri kurcalamak çok tehlikelidir,' dedi. Çocuklar dikkatle dinledi.",
+   "Sonra önemli bir şey öğretti: 'Yangın görürseniz asla saklanmayın. Hemen büyüklere haber verin ve 112'yi arayın.'",
+   "KAHRAMAN elini kaldırdı. 'Ya dumandan nefes alamazsak?' diye sordu. Murat Amca bu soruyu çok beğendi.",
+   "'Harika bir soru!' dedi. 'Duman yukarı yükselir. O yüzden yere eğilip emekleyerek ilerlemelisiniz. Aşağıda temiz hava olur.'",
+   "İtfaiyeciler tatbikat yaptırdı. Çocuklar sıra sıra, koşmadan, itişmeden bahçeye çıktı. KAHRAMAN kurallara dikkatle uydu.",
+   "Sonra en eğlenceli bölüm geldi. Çocuklar itfaiye aracını yakından inceledi. Hortumlar, merdivenler, kasklar...",
+   "Murat Amca, KAHRAMAN'a bir itfaiyeci kaskı taktı. Kask büyük geldi ama KAHRAMAN kendini gerçek bir itfaiyeci gibi hissetti.",
+   "'İtfaiyecilik nasıl bir meslek?' diye sordu KAHRAMAN. Murat Amca ciddi bir sesle cevap verdi.",
+   "'Zor ama gururlu bir meslek,' dedi. 'Biz insanların en zor anında yanına koşarız. Cesaret ve fedakarlık ister.'",
+   "Murat Amca bir anısını anlattı. Bir yangında küçük bir kediyi kurtarmıştı. 'Her can değerlidir,' dedi. 'İnsan ya da hayvan.'",
+   "KAHRAMAN çok etkilendi. İtfaiyeciler gerçekten cesur insanlardı. Kendilerini tehlikeye atıp başkalarını kurtarıyorlardı.",
+   "Gösterinin sonunda itfaiyeciler su hortumunu açtı. Havaya su fışkırttılar. Güneşte minik bir gökkuşağı oluştu. Çocuklar sevinçle bağırdı.",
+   "Murat Amca son bir hatırlatma yaptı: 'Evinizde duman dedektörü olsun. Ve asla kibrit, çakmakla oynamayın. Söz mü?'",
+   "Bütün çocuklar hep bir ağızdan 'Söz!' diye bağırdı. KAHRAMAN bu sözü asla unutmayacaktı.",
+   "Eve dönünce KAHRAMAN ailesine her şeyi anlattı. Babasıyla birlikte evin elektrik prizlerini kontrol ettiler. Her şey güvendeydi.",
+   "KAHRAMAN yatmadan önce 112'yi ezberledi. Acil durumlarda ne yapacağını artık biliyordu. Kendini daha güvende hissediyordu.",
+   "O gece KAHRAMAN itfaiyeci olduğunu hayal etti. Belki bir gün o da insanları kurtaracaktı. Cesaret ve yardımseverlik onun için artık daha anlamlıydı."
+  ],
+  "sorular": [
+   {
+    "question": "Okula kimler geldi?",
+    "options": [
+     "Askerler",
+     "İtfaiyeciler",
+     "Polisler",
+     "Doktorlar"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Yangın görünce ne yapılmalı?",
+    "options": [
+     "Saklanmak",
+     "Koşmak",
+     "Ağlamak",
+     "Büyüklere haber verip 112'yi aramak"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Duman varken nasıl ilerlenmeli?",
+    "options": [
+     "Yürüyerek",
+     "Zıplayarak",
+     "Koşarak",
+     "Yere eğilip emekleyerek"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Neden yere eğilmek gerekir?",
+    "options": [
+     "Duman yukarı yükselir, aşağıda temiz hava olur",
+     "Daha hızlı olur",
+     "Görünmemek için",
+     "Daha eğlencelidir"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Murat Amca itfaiyeciliği nasıl tanımladı?",
+    "options": [
+     "Zor ama gururlu bir meslek",
+     "Eğlenceli bir oyun",
+     "Kolay bir iş",
+     "Sıkıcı bir meslek"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Murat Amca yangında kimi kurtarmıştı?",
+    "options": [
+     "Bir tavşanı",
+     "Küçük bir kediyi",
+     "Bir kuşu",
+     "Bir köpeği"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Acil durum numarası kaçtır?",
+    "options": [
+     "110",
+     "112",
+     "155",
+     "156"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Çocuklar neyle asla oynamamalı?",
+    "options": [
+     "Kibrit ve çakmakla",
+     "Kitapla",
+     "Topla",
+     "Oyuncakla"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-29",
+  "baslik": "KAHRAMAN ve Bulutların Üzerinde",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN ilk kez uçağa binecekti. Ailesiyle birlikte başka bir şehirdeki akrabalarını ziyarete gidiyorlardı. Havaalanında her şey çok büyüktü.",
+   "KAHRAMAN camdan uçakları izledi. Kocaman metal kuşlar gökyüzüne yükseliyordu. 'Bu kadar ağır bir şey nasıl uçuyor?' diye merak etti.",
+   "Uçağa bindiklerinde KAHRAMAN cam kenarına oturdu. Kemerini bağladı. Kalbi heyecanla çarpıyordu.",
+   "Hostes güvenlik kurallarını anlattı. KAHRAMAN dikkatle dinledi. Kemerler, çıkışlar, maskeler... Her şey güvenlik içindi.",
+   "Uçak piste doğru ilerledi. Sonra motorlar güçlendi ve hızlandı. KAHRAMAN koltuğuna yaslandı. Ve uçak havalandı!",
+   "Pencereden bakan KAHRAMAN büyülendi. Evler küçüldü, arabalar karınca gibi oldu. Şehir bir oyuncak maketine benziyordu.",
+   "Uçak yükseldi ve bulutların arasına girdi. Sonra bulutların ÜZERİNE çıktılar. Manzara inanılmazdı.",
+   "Bulutlar bembeyaz bir pamuk tarlası gibiydi. Güneş üzerlerinde parlıyordu. KAHRAMAN sanki masal dünyasındaydı.",
+   "Bir süre sonra kaptan pilot anons yaptı. Sesi sakin ve güven vericiydi. Uçuş bilgilerini paylaştı.",
+   "KAHRAMAN hostese sordu: 'Pilotla tanışabilir miyim?' Hostes gülümsedi. 'İnişten sonra sorabiliriz,' dedi.",
+   "Uçuş sırasında KAHRAMAN pencereden dağları, nehirleri ve gölleri izledi. Yukarıdan dünya bambaşka görünüyordu.",
+   "KAHRAMAN düşündü: Sınırlar, ayrımlar yukarıdan görünmüyordu. Dünya tek bir büyük evdi. Bu düşünce hoşuna gitti.",
+   "Uçak alçalmaya başladı. Kulakları hafif tıkandı. Annesi ona sakız verdi. 'Çiğne, rahatlarsın,' dedi. Gerçekten işe yaradı.",
+   "Uçak yumuşak bir inişle piste kondu. Yolcular alkışladı. KAHRAMAN da neşeyle alkışladı. Yolculuk harikaydı.",
+   "İnişten sonra hostes güzel bir sürpriz yaptı. KAHRAMAN'ı kokpite götürdü. Kaptan pilot onu bekliyordu!",
+   "Kokpit düğmeler ve ekranlarla doluydu. Kaptan Zeynep Hanım her şeyi kısaca anlattı. KAHRAMAN hayranlıkla dinledi.",
+   "'Pilot olmak için ne yapmalıyım?' diye sordu KAHRAMAN. Kaptan Zeynep gülümsedi. 'Çok çalışmalı, matematik ve fen öğrenmelisin,' dedi.",
+   "'Ve asla hayal kurmaktan vazgeçme,' diye ekledi. 'Ben de senin yaşında pencereden uçakları izlerdim. Şimdi onları uçuruyorum.'",
+   "KAHRAMAN'a küçük bir pilot kanadı rozeti hediye ettiler. KAHRAMAN rozeti gururla yakasına taktı. Bugün unutulmaz bir gündü.",
+   "O gece KAHRAMAN rozetine bakarak uyudu. Belki bir gün o da bulutların üzerinde uçacaktı. Hayaller, çalışınca gerçek olurdu."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN ilk kez neye binecekti?",
+    "options": [
+     "Uçağa",
+     "Gemiye",
+     "Trene",
+     "Otobüse"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Uçak havalanınca evler nasıl göründü?",
+    "options": [
+     "Küçücük",
+     "Renkli",
+     "Karanlık",
+     "Kocaman"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Bulutların üzerinde manzara neye benziyordu?",
+    "options": [
+     "Ormana",
+     "Çöle",
+     "Pamuk tarlasına",
+     "Denize"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN yukarıdan bakınca ne düşündü?",
+    "options": [
+     "Evler çirkindi",
+     "Dünya küçüktü",
+     "Uçmak sıkıcıydı",
+     "Dünya tek bir büyük evdi"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Kulakları tıkanınca ne işe yaradı?",
+    "options": [
+     "Uyumak",
+     "Su içmek",
+     "Bağırmak",
+     "Sakız çiğnemek"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "İnişten sonra KAHRAMAN nereyi gezdi?",
+    "options": [
+     "Mutfağı",
+     "Bagaj bölümünü",
+     "Kokpiti",
+     "Kuleyi"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Kaptan Zeynep pilot olmak için ne önerdi?",
+    "options": [
+     "Çok koşmak",
+     "Çok çalışmak, matematik ve fen öğrenmek",
+     "Çok televizyon izlemek",
+     "Çok uyumak"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN'a ne hediye edildi?",
+    "options": [
+     "Bir maket uçak",
+     "Bir kitap",
+     "Pilot kanadı rozeti",
+     "Bir şapka"
+    ],
+    "correctAnswer": 2
+   }
+  ]
+ },
+ {
+  "id": "uzun-30",
+  "baslik": "KAHRAMAN ve Kelebeğin Dansı",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN okul bahçesinde teneffüste dolaşıyordu. Çalıların arasında yeşil, minik bir şey gördü. Bu bir tırtıldı.",
+   "Tırtıl bir yaprağın üzerinde yavaşça ilerliyordu. Bazı çocuklar 'İğrenç!' dedi. Ama KAHRAMAN öyle düşünmüyordu.",
+   "Fen öğretmeni Deniz Hoca yanlarına geldi. 'Bu tırtıl bir gün çok güzel bir şeye dönüşecek,' dedi. 'Bilen var mı?'",
+   "KAHRAMAN elini kaldırdı: 'Kelebeğe!' Deniz Hoca gülümsedi. 'Aferin! İsterseniz bu dönüşümü sınıfta izleyelim.'",
+   "Deniz Hoca tırtılı yaprağıyla birlikte dikkatlice bir fanusa koydu. Fanusu sınıfın penceresinin yanına yerleştirdiler.",
+   "Her gün tırtılı beslediler. Taze yapraklar verdiler. Tırtıl iştahla yedi ve her geçen gün büyüdü.",
+   "KAHRAMAN gözlem defteri tuttu. Her gün tırtılın ne yaptığını yazdı ve resmini çizdi. Bilim insanı gibi çalışıyordu.",
+   "Bir sabah sınıfa geldiklerinde şaşırdılar. Tırtıl bir dala tutunmuş, etrafına ipeksi bir şey örmüştü. Bu bir kozaydı.",
+   "'Tırtıl şimdi kozanın içinde uyuyor mu?' diye sordu bir öğrenci. Deniz Hoca başını salladı. 'Uyumuyor, değişiyor,' dedi.",
+   "'Kozanın içinde büyük bir dönüşüm oluyor. Buna başkalaşım denir. Sabırla beklemeliyiz.' Çocuklar her gün kozayı kontrol etti.",
+   "Günler geçti. Koza hiç kımıldamıyordu. Bazı çocuklar sıkıldı. 'Hiçbir şey olmuyor,' dediler.",
+   "Ama KAHRAMAN vazgeçmedi. Her gün gözlem defterine not aldı. 'Güzel şeyler zaman alır,' diyordu Deniz Hoca.",
+   "İki hafta sonra bir sabah, KAHRAMAN sınıfa ilk giren oldu. Ve gözlerine inanamadı. Koza hareket ediyordu!",
+   "Arkadaşlarını çağırdı. Herkes fanusun etrafında toplandı. Koza yavaşça açılıyordu. İçinden bir şey çıkmaya çalışıyordu.",
+   "Önce ıslak, buruşuk kanatlar göründü. Sonra kelebek tamamen çıktı. Kanatlarını yavaşça açıp kurudu.",
+   "Kanatlar turuncu ve siyah desenliydi. Kelebek muhteşem güzellikteydi. O çirkin denilen tırtıl, bu güzel kelebeğe dönüşmüştü.",
+   "Deniz Hoca konuştu: 'İşte doğanın mucizesi. Kimseyi görünüşüyle yargılamayın. Herkesin içinde bir kelebek saklıdır.'",
+   "Sınıfça bahçeye çıktılar. Fanusu açtılar. Kelebek önce tereddüt etti, sonra kanat çırpıp uçtu.",
+   "Kelebek çiçeklerin üzerinde dans etti. Sonra gökyüzüne süzüldü. Bütün sınıf el salladı. 'Güle güle kelebek!'",
+   "KAHRAMAN gözlem defterinin son sayfasına şunu yazdı: 'Sabırla beklersen, en güzel dönüşümlere tanık olursun.' Bu dersi hiç unutmadı."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN bahçede ne buldu?",
+    "options": [
+     "Bir kelebek",
+     "Bir tırtıl",
+     "Bir çiçek",
+     "Bir kuş"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Tırtıl neye dönüşecekti?",
+    "options": [
+     "Kuşa",
+     "Arıya",
+     "Böceğe",
+     "Kelebeğe"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "KAHRAMAN her gün ne yaptı?",
+    "options": [
+     "Gözlem defteri tuttu",
+     "Oyun oynadı",
+     "Uyudu",
+     "Şarkı söyledi"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Tırtıl etrafına ne ördü?",
+    "options": [
+     "Yaprak",
+     "Ağ",
+     "Koza",
+     "Yuva"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Kozanın içindeki değişime ne denir?",
+    "options": [
+     "Büyüme",
+     "Başkalaşım",
+     "Uyku",
+     "Dinlenme"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Bazı çocuklar sıkılınca KAHRAMAN ne yaptı?",
+    "options": [
+     "Kozayı attı",
+     "Ağladı",
+     "Vazgeçmedi, gözleme devam etti",
+     "O da sıkıldı"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Deniz Hoca'nın verdiği ders neydi?",
+    "options": [
+     "Kimseyi görünüşüyle yargılamayın",
+     "Kelebekler hızlıdır",
+     "Fanuslar faydalıdır",
+     "Tırtıllar çirkindir"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN deftere ne yazdı?",
+    "options": [
+     "Okul eğlencelidir",
+     "Tırtıllar yavaştır",
+     "Sabırla beklersen en güzel dönüşümlere tanık olursun",
+     "Kelebekler uçar"
+    ],
+    "correctAnswer": 2
+   }
+  ]
  }
 ]
