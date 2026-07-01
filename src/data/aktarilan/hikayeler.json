@@ -7793,5 +7793,555 @@
     "correctAnswer": 0
    }
   ]
+ },
+ {
+  "id": "uzun-41",
+  "baslik": "KAHRAMAN ve Nine'nin Bahçesi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın apartmanının karşısında küçük bir ev vardı. Evde Saliha Nine tek başına yaşıyordu. Bahçesi eskiden çok güzelmiş.",
+   "Ama Saliha Nine artık yaşlanmıştı. Beli ağrıyordu, gözleri az görüyordu. Bahçesi bakımsız kalmış, otlar bürümüştü.",
+   "KAHRAMAN her sabah okula giderken Nine'yi pencerede görürdü. Nine dışarıyı izler, bahçesine hüzünle bakardı.",
+   "Bir gün KAHRAMAN cesaretini topladı ve Nine'nin kapısını çaldı. 'Merhaba, ben karşı apartmandan KAHRAMAN,' dedi. 'Size yardım edebilir miyim?'",
+   "Saliha Nine çok şaşırdı ve sevindi. 'Gel bakalım evladım,' dedi. 'Yıllardır kapımı çalan olmadı.' Gözleri doldu.",
+   "Nine ona limonata ikram etti. Eski günleri anlattı: Bahçesindeki gülleri, domatesleri, komşularla çay saatlerini...",
+   "'Artık gücüm yetmiyor,' dedi Nine. 'En çok da bahçeme üzülüyorum. O güller babamın yadigarıydı.'",
+   "KAHRAMAN karar verdi. Hafta sonu bahçeyi temizleyecekti. Ailesinden izin aldı, birkaç arkadaşını da çağırdı.",
+   "Cumartesi sabahı üç arkadaş Nine'nin bahçesindeydi. Eldivenleri taktılar. Otları yoldular, kuru dalları topladılar.",
+   "Otların altından eski gül fidanları çıktı. Kurumamışlardı! Sadece bakımsızdı. Çocuklar diplerini çapaladı, suladı.",
+   "Nine pencereden izliyordu. Sonra dayanamayıp bahçeye çıktı. Bir sandalyeye oturdu ve onlara yol gösterdi.",
+   "'Gülün dibi şöyle kabartılır,' diye tarif etti. 'Domates fidesi güneşe bakmalı.' Nine'nin bilgisi hazine gibiydi.",
+   "KAHRAMAN fark etti: Onlar Nine'nin bahçesine güç veriyordu, Nine de onlara bilgi. Herkes bir şey öğreniyordu.",
+   "Birkaç hafta sonra bahçe canlanmaya başladı. Güller tomurcuklandı. Domates fideleri boy attı. Nine'nin yüzü de bahçesi gibi açtı.",
+   "Nine artık her gün bahçeye çıkıyordu. Çocuklara gözleme yapıyor, hikayeler anlatıyordu. Ev artık yalnız değildi.",
+   "Bir sabah ilk gül açtı. Kıpkırmızı, mis kokulu bir gül. Nine gülü kokladı ve ağladı. Ama bu sevinç gözyaşlarıydı.",
+   "'Babamın gülleri geri geldi,' dedi. 'Siz bana sadece bahçemi değil, umudumu geri verdiniz.'",
+   "Nine ilk gülü KAHRAMAN'a verdi. 'Bunu annene götür,' dedi. 'Ona de ki: Oğlun altın kalpli bir çocuk.'",
+   "Mahalledeki diğer komşular da bu güzelliği duydu. Onlar da Nine'yi ziyaret etmeye başladı. Ev yine eski neşeli günlerine döndü.",
+   "KAHRAMAN önemli bir şey öğrenmişti: Yaşlılar bilgelik hazinesidir. Onlara saygı ve sevgi göstermek, hem onları hem bizi zenginleştirir."
+  ],
+  "sorular": [
+   {
+    "question": "Saliha Nine'nin sorunu neydi?",
+    "options": [
+     "Evi yoktu",
+     "Yemeği yoktu",
+     "Yaşlılıktan bahçesine bakamıyordu",
+     "Ailesi çoktu"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN ne cesareti gösterdi?",
+    "options": [
+     "Yüksekten atladı",
+     "Ağaca tırmandı",
+     "Nine'nin kapısını çalıp yardım teklif etti",
+     "Karanlıkta yürüdü"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Nine'nin gülleri kimin yadigarıydı?",
+    "options": [
+     "Kardeşinin",
+     "Annesinin",
+     "Eşinin",
+     "Babasının"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Otların altından ne çıktı?",
+    "options": [
+     "Oyuncaklar",
+     "Hazine",
+     "Taşlar",
+     "Kurumamış gül fidanları"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Nine bahçede çocuklara ne verdi?",
+    "options": [
+     "Bilgi ve tarif",
+     "Para",
+     "Ceza",
+     "Oyuncak"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "İlk gül açınca Nine neden ağladı?",
+    "options": [
+     "Sevinçten",
+     "Üzüntüden",
+     "Ağrıdan",
+     "Korkudan"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Nine ilk gülü kime verdi?",
+    "options": [
+     "Muhtara",
+     "Komşuya",
+     "KAHRAMAN'a",
+     "Kendine sakladı"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN yaşlılar hakkında ne öğrendi?",
+    "options": [
+     "Sessiz olduklarını",
+     "Bilgelik hazinesi olduklarını",
+     "Yavaş olduklarını",
+     "Çok uyuduklarını"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-42",
+  "baslik": "KAHRAMAN ve Satranç Ustası",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın sınıfına dönem ortasında yeni bir öğrenci katıldı. Adı Ozan'dı. Ozan tekerlekli sandalye kullanıyordu.",
+   "İlk gün bazı çocuklar Ozan'a nasıl davranacaklarını bilemedi. Kimisi çok acıyarak baktı, kimisi uzak durdu. Ozan bundan rahatsız oldu.",
+   "KAHRAMAN teneffüste Ozan'ın yanına gitti. 'Merhaba, ben KAHRAMAN,' dedi. Normal bir sohbet başlattı: 'En sevdiğin ders hangisi?'",
+   "Ozan'ın yüzü aydınlandı. Sonunda biri onunla acımadan, normal konuşuyordu. 'Matematik,' dedi. 'Bir de satranç oynamayı çok severim.'",
+   "'Satranç mı? Ben hiç bilmiyorum,' dedi KAHRAMAN. Ozan'ın gözleri parladı: 'İstersen öğretirim!' Anlaştılar.",
+   "Ertesi gün Ozan satranç takımını getirdi. Teneffüste KAHRAMAN'a taşları öğretti: 'Bu şah, bu vezir, bunlar piyonlar...'",
+   "KAHRAMAN taşların hareketlerini öğrendi. At L şeklinde gidiyordu, fil çaprazdı. Satranç çok zekice bir oyundu.",
+   "Diğer çocuklar da merak edip yaklaştı. Ozan herkese sabırla anlattı. Kısa sürede sınıfta satranç modası başladı.",
+   "KAHRAMAN bir şeyi fark etti. Ozan'ın bacakları yürümüyordu ama zihni jet gibiydi. Satrançta kimse onu yenemiyordu.",
+   "Bir gün okulda duyuru yapıldı: İlçe satranç turnuvası düzenlenecekti. KAHRAMAN hemen Ozan'a koştu: 'Katılmalısın!'",
+   "Ozan tereddüt etti. 'Bilmiyorum... Ya herkes bana farklı bakarsa?' KAHRAMAN omzuna elini koydu.",
+   "'Turnuvada kimse bacaklarına bakmayacak,' dedi. 'Herkes hamlelerine bakacak. Ve senin hamlelerin harika.'",
+   "Ozan cesaretlendi ve turnuvaya kaydoldu. KAHRAMAN ve sınıf arkadaşları onu desteklemek için salona gitti.",
+   "Turnuva çekişmeliydi. Ozan rakiplerini tek tek yendi. Sakin, odaklanmış ve zekiceydi. Her hamlesi düşünülmüştü.",
+   "Final maçı nefes kesiciydi. Rakip çok güçlüydü. Ama Ozan son hamlesiyle 'şah mat' dedi. Salon alkışlarla doldu!",
+   "Ozan ilçe birincisi oldu! Kupayı kaldırdığında bütün sınıf 'Ozan! Ozan!' diye tezahürat yaptı. Ozan'ın gözleri doldu.",
+   "Kürsüde Ozan konuştu: 'En büyük engel, bacaklarımda değil, insanların bakışlarındaydı. Arkadaşlarım o engeli kaldırdı.'",
+   "'Özellikle bir kişiye teşekkür ederim,' dedi ve KAHRAMAN'ı gösterdi. 'Bana acımadan arkadaş oldu. Gerçek dostluk budur.'",
+   "KAHRAMAN o gün herkesin farklı yetenekleri olduğunu bir kez daha gördü. Önemli olan, insanların içindeki cevheri görmekti.",
+   "Ozan ve KAHRAMAN en yakın arkadaş oldu. Her teneffüs satranç oynadılar. Ve KAHRAMAN, hayatın en güzel derslerinden birini öğrendi: Herkes farklıdır ve bu, dünyayı güzelleştirir."
+  ],
+  "sorular": [
+   {
+    "question": "Ozan'ın kullandığı araç neydi?",
+    "options": [
+     "Scooter",
+     "Bisiklet",
+     "Koltuk değneği",
+     "Tekerlekli sandalye"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "KAHRAMAN, Ozan'a nasıl yaklaştı?",
+    "options": [
+     "Uzak durarak",
+     "Acıyarak",
+     "Acımadan, normal bir sohbetle",
+     "Görmezden gelerek"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ozan hangi oyunu çok seviyordu?",
+    "options": [
+     "Saklambaç",
+     "Futbol",
+     "Basketbol",
+     "Satranç"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Ozan'ın en güçlü yanı neydi?",
+    "options": [
+     "Yüksek zıplaması",
+     "Güçlü kolları",
+     "Zihni jet gibiydi",
+     "Hızlı koşması"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ozan turnuvaya katılmaktan neden çekiniyordu?",
+    "options": [
+     "Kaybetmekten",
+     "Uzaklıktan",
+     "Yorulmaktan",
+     "Herkesin ona farklı bakmasından"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "KAHRAMAN, Ozan'ı nasıl cesaretlendirdi?",
+    "options": [
+     "Hediye vererek",
+     "Herkes hamlelerine bakacak diyerek",
+     "Zorla götürerek",
+     "Kızarak"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Turnuvada Ozan kaçıncı oldu?",
+    "options": [
+     "Üçüncü",
+     "Birinci",
+     "İkinci",
+     "Sonuncu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Ozan'a göre en büyük engel neydi?",
+    "options": [
+     "Turnuva",
+     "İnsanların bakışları",
+     "Bacakları",
+     "Rakipler"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-43",
+  "baslik": "KAHRAMAN ve Renkli Tabak",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN son zamanlarda kendini yorgun hissediyordu. Derste uykusu geliyor, oyunda çabuk yoruluyordu. Bir şeyler yolunda değildi.",
+   "Annesi durumu fark etti. 'Son zamanlarda ne yiyorsun bakalım?' diye sordu. KAHRAMAN düşündü: cips, çikolata, gazoz...",
+   "'Sebzeleri hiç sevmiyorum anne,' dedi KAHRAMAN. 'Yeşil şeyler tuhaf görünüyor.' Annesi gülümsedi ama bir plan yaptı.",
+   "Ertesi gün okulda beslenme dersi vardı. Diyetisyen Aslı Hanım sınıfa geldi. Elinde rengarenk bir tabak resmi vardı.",
+   "'Vücudumuz bir araba gibidir,' dedi Aslı Hanım. 'Ona doğru yakıt vermezsek, iyi çalışmaz. Peki doğru yakıt nedir?'",
+   "'Gökkuşağı gibi beslenmek!' dedi ve tabağı gösterdi. 'Kırmızı domates, turuncu havuç, yeşil ıspanak, mor patlıcan, sarı mısır...'",
+   "'Her rengin farklı bir görevi var. Turuncular gözlere iyi gelir. Yeşiller güç verir. Kırmızılar kalbi korur.'",
+   "KAHRAMAN merak etti: 'Peki cips ve çikolata hangi renk görevinde?' Aslı Hanım güldü: 'Onlar misafir. Ara sıra gelebilir ama evde oturamaz!'",
+   "Sınıfça bir oyun oynadılar: Bir haftalık 'Gökkuşağı Tabağı' yarışması. Her gün tabağında en çok renk olan puan alacaktı.",
+   "KAHRAMAN eve gidince annesine yarışmayı anlattı. Annesi çok sevindi. 'O zaman alışverişe birlikte gidelim,' dedi.",
+   "Manavda KAHRAMAN renkleri seçti: kıpkırmızı domatesler, mor lahana, sapsarı limonlar. Manav amca ona çilek ikram etti.",
+   "Akşam mutfakta anneyle birlikte salata yaptılar. KAHRAMAN sebzeleri yıkadı, annesi doğradı. Rengarenk bir salata çıktı.",
+   "KAHRAMAN ilk çatalı çekinerek aldı. Ama tadı hiç fena değildi! Hatta kendi yaptığı için daha da lezzetliydi.",
+   "Hafta boyunca KAHRAMAN her öğünde renk saydı. Kahvaltıda domates ve peynir. Öğlen ıspanaklı börek. Akşam sebze çorbası.",
+   "Su içmeyi de artırdı. Aslı Hanım 'Gazoz yerine su, vücudun en sevdiği içecektir,' demişti. Yanında hep matarası vardı.",
+   "Bir hafta sonra KAHRAMAN farkı hissetti. Sabahları daha kolay uyanıyordu. Oyunda yorulmuyordu. Derste zihni açıktı.",
+   "Yarışma sonuçlandı: KAHRAMAN sınıf birincisi oldu! Ödülü bir meyve tabağıydı. Herkes güldü ama KAHRAMAN çok memnundu.",
+   "Aslı Hanım son dersinde önemli bir şey söyledi: 'Sağlıklı beslenmek ceza değil, vücudunuza verdiğiniz bir hediyedir.'",
+   "KAHRAMAN artık cipsi tamamen bırakmadı ama ölçülüydü. Onlar 'misafirdi'. Asıl dostları renkli sebzeler ve meyvelerdi.",
+   "KAHRAMAN aynada kendine baktı. Daha canlı, daha güçlüydü. Vücuduna iyi bakmanın ilk adımını atmıştı: Tabağını gökkuşağına çevirmek!"
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN neden yorgun hissediyordu?",
+    "options": [
+     "Hastaydı",
+     "Sağlıksız besleniyordu",
+     "Az uyuyordu",
+     "Çok koşuyordu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Aslı Hanım vücudu neye benzetti?",
+    "options": [
+     "Bahçeye",
+     "Okula",
+     "Arabaya",
+     "Eve"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Gökkuşağı gibi beslenmek ne demek?",
+    "options": [
+     "Şeker yemek",
+     "Farklı renklerde sebze meyve yemek",
+     "Az yemek",
+     "Boyalı yemek yemek"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Turuncu yiyecekler neye iyi gelir?",
+    "options": [
+     "Gözlere",
+     "Kulaklara",
+     "Saçlara",
+     "Ayaklara"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Aslı Hanım cips ve çikolataya ne dedi?",
+    "options": [
+     "Zehir",
+     "Misafir, ara sıra gelebilir",
+     "En iyi yiyecek",
+     "Yasak"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Vücudun en sevdiği içecek nedir?",
+    "options": [
+     "Meyve suyu",
+     "Gazoz",
+     "Su",
+     "Süt"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Bir hafta sonra KAHRAMAN ne hissetti?",
+    "options": [
+     "Daha aç",
+     "Aynı",
+     "Daha yorgun",
+     "Daha enerjik ve zinde"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Aslı Hanım'a göre sağlıklı beslenme nedir?",
+    "options": [
+     "Bir ceza",
+     "Vücuda verilen bir hediye",
+     "Bir zorunluluk",
+     "Bir oyun"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-44",
+  "baslik": "KAHRAMAN ve Maraton Hayali",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın okulunda bahar şenliği yaklaşıyordu. Şenlikte bir de 'Mini Maraton' vardı: okulun etrafında üç tur koşulacaktı.",
+   "KAHRAMAN maratona katılmak istedi. Ama bir sorun vardı: Koşuda hep çabuk yoruluyordu. Yarım turda nefesi kesiliyordu.",
+   "Sınıftaki bazı çocuklar güldü: 'Sen mi koşacaksın? Daha yarım turda pes edersin!' KAHRAMAN'ın morali bozuldu.",
+   "Eve üzgün döndü. Babasına anlattı. Babası gençliğinde atletmiş. 'Sana bir sır vereyim,' dedi. 'Hiçbir koşucu bir günde maratoncu olmadı.'",
+   "'Başarının sırrı üç kelimedir: Az, düzenli, sabırlı. Her gün azar azar çalışırsan, vücudun güçlenir.'",
+   "Birlikte bir plan yaptılar. İlk hafta her sabah sadece 5 dakika koşacaktı. Az gibi görünüyordu ama başlangıç önemliydi.",
+   "İlk sabah zor oldu. Erkenden kalkmak, koşmak... KAHRAMAN 5 dakikada yoruldu. Ama planı tamamladı. Bu bir başarıydı!",
+   "Her sabah devam etti. Yağmur yağdı, koştu. Uykusu geldi, yine koştu. Babası bazen ona eşlik etti.",
+   "İkinci hafta 8 dakikaya çıktılar. KAHRAMAN şaşırdı: 8 dakika artık 5 dakika gibi geliyordu! Vücudu alışıyordu.",
+   "Üçüncü hafta 12 dakika, dördüncü hafta 15 dakika... KAHRAMAN artık nefes nefese kalmıyordu. Ritmini bulmuştu.",
+   "Babası ona teknik de öğretti: 'Burnundan al, ağzından ver. Adımların küçük ama düzenli olsun. Kollarını sallamayı unutma.'",
+   "Bir sabah KAHRAMAN okulun etrafında deneme yaptı. Bir tur... İki tur... Üç tur! Durmadan tamamladı! Sevinçten havalara uçtu.",
+   "Şenlik günü geldi. Maraton başlama çizgisinde yirmi çocuk vardı. KAHRAMAN'a gülenler de oradaydı. Kalbi hızla çarpıyordu.",
+   "Düdük çaldı ve koşu başladı! Bazı çocuklar başta çok hızlı koştu. KAHRAMAN babasının öğüdünü hatırladı: 'Kendi ritminde koş.'",
+   "İlk turda hızlı başlayanlar yorulmaya başladı. KAHRAMAN sabit ritmiyle onları tek tek geçti. Nefesi düzenliydi.",
+   "Son turda önde sadece iki kişi vardı. KAHRAMAN gücünü topladı ve hızlandı. Bitiş çizgisini ikinci olarak geçti!",
+   "İkincilik madalyası boynuna takıldı. Ama KAHRAMAN için asıl zafer başkaydı: Yarım turda yorulan çocuk, üç turu tamamlamıştı.",
+   "Ona gülen çocuklar yanına geldi. 'Nasıl bu kadar geliştin?' diye sordular. KAHRAMAN gülümsedi: 'Her gün azar azar.'",
+   "Babası onu tribünden alkışlıyordu. KAHRAMAN madalyayı ona uzattı: 'Bu senin baba. Sırrı sen verdin.'",
+   "KAHRAMAN o gün kanıtladı: Yetenek önemliydi ama azim daha önemliydi. Küçük adımlar, düzenli atılırsa, büyük hedeflere ulaştırırdı."
+  ],
+  "sorular": [
+   {
+    "question": "Şenlikteki koşu kaç turdu?",
+    "options": [
+     "Üç",
+     "İki",
+     "On",
+     "Beş"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'ın sorunu neydi?",
+    "options": [
+     "Korkuyordu",
+     "Yavaş koşuyordu",
+     "Ayakkabısı yoktu",
+     "Çabuk yoruluyordu"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Babasının başarı sırrı hangi üç kelimeydi?",
+    "options": [
+     "Az, düzenli, sabırlı",
+     "Hızlı, güçlü, çevik",
+     "Kolay, basit, rahat",
+     "Çok, yoğun, sert"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "İlk hafta günde kaç dakika koştu?",
+    "options": [
+     "5 dakika",
+     "1 saat",
+     "15 dakika",
+     "30 dakika"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Babası hangi nefes tekniğini öğretti?",
+    "options": [
+     "Nefesini tut",
+     "Ağzından al, burnundan ver",
+     "Burnundan al, ağzından ver",
+     "Hızlı nefes al"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Yarışta hızlı başlayanlara ne oldu?",
+    "options": [
+     "Kayboldular",
+     "Yorulmaya başladılar",
+     "Kazandılar",
+     "Düştüler"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN yarışı kaçıncı bitirdi?",
+    "options": [
+     "Birinci",
+     "Üçüncü",
+     "İkinci",
+     "Sonuncu"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Hikayenin ana mesajı nedir?",
+    "options": [
+     "Yarışmak gereksizdir",
+     "Küçük düzenli adımlar büyük hedeflere ulaştırır",
+     "Madalya önemlidir",
+     "Hızlı olan kazanır"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-45",
+  "baslik": "KAHRAMAN ve Hayal Makinesi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "Bir yağmurlu pazar günüydü. KAHRAMAN evde sıkılıyordu. Televizyon izlemek istedi ama annesi 'Bugün ekransız gün,' dedi.",
+   "'Peki ne yapacağım?' diye sordu KAHRAMAN. Annesi gizemli bir şekilde gülümsedi: 'Sana evdeki en güçlü makineyi göstereyim.'",
+   "KAHRAMAN heyecanlandı. Annesi onu aynanın karşısına götürdü ve başını işaret etti: 'İşte hayal makinesi! Senin zihnin.'",
+   "KAHRAMAN önce hayal kırıklığına uğradı. 'Bu makine mi şimdi?' Annesi güldü: 'En güçlüsü! Hadi test edelim.'",
+   "'Gözlerini kapat,' dedi annesi. 'Bir kutu düşün. İçinden ne çıkmasını istersen o çıksın.' KAHRAMAN gözlerini kapattı.",
+   "Zihninde bir kutu belirdi. Kapağı açıldı ve içinden... bir ejderha çıktı! Ama korkunç değil, gözlüklü ve kitap okuyan bir ejderha!",
+   "KAHRAMAN kahkaha attı. 'Ejderham kitap okuyor!' Annesi de güldü: 'Gördün mü? Makinen çalışıyor. Şimdi ona bir dünya kur.'",
+   "KAHRAMAN kağıt ve boya kalemlerini aldı. Gözlüklü ejderhayı çizdi. Adını 'Profesör Alev' koydu. Bir de hikaye uydurdu.",
+   "Profesör Alev'in kütüphanesi vardı ama kitapları yanlışlıkla ateşliyordu! Bu yüzden taştan kitaplar icat etmişti. KAHRAMAN yazdıkça güldü.",
+   "Öğleden sonra kardeşi Poyraz da katıldı. Birlikte koltuk minderlerinden bir kale yaptılar. Kale, Profesör Alev'in kütüphanesi oldu.",
+   "Battaniyeden pelerin, kağıttan taç yaptılar. KAHRAMAN hikayeyi anlattı, Poyraz ejderha oldu. Ev bir masal dünyasına dönüştü.",
+   "Babası işten geldiğinde salonda bir kale, iki şövalye ve bir hikaye buldu. O da oyuna katıldı: Kötü kalpli olmayan, sadece huysuz bir dev oldu!",
+   "Akşam yemeğinde herkes gülüyordu. 'Ekran olmadan bu kadar eğlendiğimizi hatırlamıyorum,' dedi babası.",
+   "Annesi açıkladı: 'Ekranlar bize hazır hayaller verir. Ama kendi hayalini kurmak, kas çalıştırmak gibidir. Zihni güçlendirir.'",
+   "KAHRAMAN o hafta bir defter başlattı: 'Hayal Defterim.' Her gün bir hayal yazdı ya da çizdi. Uçan denizaltılar, konuşan dağlar...",
+   "Okulda kompozisyon ödevi verildiğinde KAHRAMAN'ın kalemi durmadı. Hayal defterindeki fikirler yardımına koştu.",
+   "Öğretmeni kompozisyonu sınıfta okudu: 'Profesör Alev ve Taş Kitaplar.' Bütün sınıf güldü ve alkışladı. 'Ne yaratıcı bir hikaye!'",
+   "Arkadaşları sordu: 'Bu fikirler nereden geliyor?' KAHRAMAN başını işaret etti: 'Hayal makinemden. Sizde de var, çalıştırın yeter!'",
+   "O günden sonra sınıfta 'hayal defteri' modası başladı. Çocuklar hikayelerini birbirine okudu. Teneffüsler masal saatine döndü.",
+   "KAHRAMAN önemli bir sır öğrenmişti: En büyük eğlence dışarıda değil, insanın kendi zihnindeydi. Hayal gücü, asla pili bitmeyen bir oyuncaktı."
+  ],
+  "sorular": [
+   {
+    "question": "Annesi 'evdeki en güçlü makine' olarak neyi gösterdi?",
+    "options": [
+     "Bilgisayarı",
+     "KAHRAMAN'ın zihnini",
+     "Çamaşır makinesini",
+     "Televizyonu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN'ın hayalindeki ejderha nasıldı?",
+    "options": [
+     "Uçan ve hızlı",
+     "Kocaman ve kızgın",
+     "Gözlüklü ve kitap okuyan",
+     "Korkunç ve ateşli"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ejderhanın adı neydi?",
+    "options": [
+     "Profesör Alev",
+     "Duman",
+     "Ateş",
+     "Kıvılcım"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Koltuk minderlerinden ne yaptılar?",
+    "options": [
+     "Araba",
+     "Kale",
+     "Uçak",
+     "Gemi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Anneye göre kendi hayalini kurmak neye benzer?",
+    "options": [
+     "Uyumaya",
+     "Koşmaya",
+     "Yemek yemeye",
+     "Kas çalıştırmaya"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "KAHRAMAN hangi defteri başlattı?",
+    "options": [
+     "Matematik Defteri",
+     "Resim Defteri",
+     "Ödev Defteri",
+     "Hayal Defteri"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Hayal defteri KAHRAMAN'a nerede yardım etti?",
+    "options": [
+     "Kompozisyon ödevinde",
+     "Satrançta",
+     "Matematik sınavında",
+     "Koşu yarışında"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'a göre hayal gücü nedir?",
+    "options": [
+     "Zor bir ders",
+     "Pili bitmeyen bir oyuncak",
+     "Sıkıcı bir iş",
+     "Bir televizyon"
+    ],
+    "correctAnswer": 1
+   }
+  ]
  }
 ]
