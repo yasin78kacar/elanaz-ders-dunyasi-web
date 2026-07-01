@@ -4503,5 +4503,550 @@
     "correctAnswer": 0
    }
   ]
+ },
+ {
+  "id": "uzun-11",
+  "baslik": "KAHRAMAN ve Konuşan Kitaplar",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN yağmurlu bir günde şehir kütüphanesine gitti. Kütüphane kocaman ve sessizdi. Raflar tavana kadar kitaplarla doluydu.",
+   "KAHRAMAN kitapların arasında dolaştı. Bir köşede eski, tozlu bir kitap dikkatini çekti. Kitabın kapağı altın harflerle süslüydü.",
+   "KAHRAMAN kitabı açtığında şaşırtıcı bir şey oldu. Kitap konuşmaya başladı! 'Merhaba küçük dostum,' dedi nazik bir sesle.",
+   "Kitap kendini tanıttı. Adı Bilge'ydi ve çok eski hikayeler biliyordu. 'Seni maceralı bir yolculuğa çıkarabilirim,' dedi.",
+   "KAHRAMAN heyecanla kabul etti. Bilge'nin sayfaları parladı. KAHRAMAN kendini bir masalın içinde buldu.",
+   "İlk durak devlerin yaşadığı bir ülkeydi. Ama devler kötü değildi, sadece çok yalnızdı. KAHRAMAN onlarla arkadaş oldu.",
+   "Devler KAHRAMAN'a nazik olmayı öğretti. 'Büyük olmak, güçlü olmak demek değildir,' dediler. 'Asıl güç, iyi kalpli olmaktır.'",
+   "Bilge yeni bir sayfa açtı. Bu kez KAHRAMAN bir bilgelik ormanındaydı. Ormandaki hayvanlar çok akıllıydı.",
+   "Yaşlı bir baykuş KAHRAMAN'a öğüt verdi. 'Öğrenmek asla bitmez,' dedi. 'Her gün yeni bir şey öğrenebilirsin.'",
+   "KAHRAMAN baykuşa nasıl bu kadar bilge olduğunu sordu. Baykuş gülümsedi. 'Çünkü çok kitap okudum,' diye cevap verdi.",
+   "Bilge bir sayfa daha çevirdi. KAHRAMAN şimdi denizlerin derinliklerindeydi. Balıklar ona okyanusun sırlarını anlattı.",
+   "Her hikayede KAHRAMAN yeni bir şey öğreniyordu. Cesaret, dostluk, nezaket ve merak. Kitaplar gerçekten sihirliydi.",
+   "Bilge son bir sayfa açtı. Bu sayfa boştu. 'Bu sayfa senin için,' dedi Bilge. 'Kendi hikayeni yazabilirsin.'",
+   "KAHRAMAN şaşırdı. 'Ama ben nasıl hikaye yazarım?' diye sordu. Bilge nazikçe cevap verdi.",
+   "'Her yaşadığın gün bir hikayedir,' dedi Bilge. 'Sen kendi maceranın kahramanısın.' KAHRAMAN bunu çok sevdi.",
+   "KAHRAMAN yavaşça kütüphaneye geri döndü. Bilge yeniden sıradan bir kitap olmuştu. Ama artık KAHRAMAN onun sırrını biliyordu.",
+   "KAHRAMAN kitabı özenle rafa geri koydu. Yağmur dinmişti ve güneş açmıştı. Kütüphaneden çıkarken çok mutluydu.",
+   "O günden sonra KAHRAMAN her hafta kütüphaneye gitti. Yeni kitaplar okudu, yeni şeyler öğrendi. Her kitap onu farklı bir dünyaya götürdü.",
+   "KAHRAMAN kitapların en büyük hazine olduğunu anlamıştı. Onlar sayesinde her yere gidebilir, her şeyi öğrenebilirdi. O gece en sevdiği kitabı okuyarak uykuya daldı."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN yağmurlu günde nereye gitti?",
+    "options": [
+     "Sinemaya",
+     "Şehir kütüphanesine",
+     "Parka",
+     "Müzeye"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Konuşan kitabın adı neydi?",
+    "options": [
+     "Bilge",
+     "Akıllı",
+     "Eski",
+     "Altın"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Devler KAHRAMAN'a neyi öğretti?",
+    "options": [
+     "Hızlı koşmayı",
+     "İyi kalpli olmanın gerçek güç olduğunu",
+     "Yüksek zıplamayı",
+     "Bağırmayı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Yaşlı baykuş nasıl bu kadar bilge olmuştu?",
+    "options": [
+     "Çok uyuyarak",
+     "Çok kitap okuyarak",
+     "Çok yiyerek",
+     "Çok uçarak"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Bilge'nin açtığı son sayfa nasıldı?",
+    "options": [
+     "Resimliydi",
+     "Boştu",
+     "Yırtıktı",
+     "Renkliydi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Bilge boş sayfa için ne dedi?",
+    "options": [
+     "Onu at",
+     "Kendi hikayeni yazabilirsin",
+     "Onu boya",
+     "Onu yırt"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN kitaplar hakkında ne anladı?",
+    "options": [
+     "Sıkıcı olduklarını",
+     "En büyük hazine olduklarını",
+     "Ağır olduklarını",
+     "Eski olduklarını"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Hikayede geçen değerlerden biri hangisidir?",
+    "options": [
+     "Bencillik",
+     "Merak ve öğrenme",
+     "Tembellik",
+     "Korkaklık"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-12",
+  "baslik": "KAHRAMAN ve Paylaşılan Pasta",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN'ın mahallesinde küçük bir pastane vardı. Pastanenin sahibi Emel Teyze çok güler yüzlüydü. Her sabah taze pastalar yapardı.",
+   "Bir gün KAHRAMAN pastanenin önünden geçiyordu. İçeriden mis gibi bir koku geliyordu. KAHRAMAN dayanamayıp içeri girdi.",
+   "Emel Teyze KAHRAMAN'ı sıcak bir gülümsemeyle karşıladı. Ama bugün biraz üzgün görünüyordu. KAHRAMAN nedenini sordu.",
+   "'Yarın mahalle şenliği var,' dedi Emel Teyze. 'Ama yardımcım hasta oldu. Tek başıma bu kadar pastayı yetiştiremem.'",
+   "KAHRAMAN hemen yardım etmeyi teklif etti. Emel Teyze çok sevindi. 'Çok naziksin,' dedi. 'Beraber yaparız.'",
+   "Emel Teyze KAHRAMAN'a önlük giydirdi. Önce ellerini güzelce yıkadılar. Sonra pasta yapmaya başladılar.",
+   "KAHRAMAN unu eledi, Emel Teyze yumurtaları çırptı. Birlikte hamuru karıştırdılar. Mutfak neşe doluydu.",
+   "Hamuru fırına verdiler. Pastalar pişerken güzel bir koku yayıldı. KAHRAMAN sabırla bekledi.",
+   "Pastalar altın sarısı oldu. Emel Teyze onları fırından çıkardı. KAHRAMAN pastaları rengarenk şekerlerle süsledi.",
+   "Bir sürü güzel pasta hazırlamışlardı. Emel Teyze KAHRAMAN'a teşekkür etti. 'Sensiz bunu başaramazdım,' dedi.",
+   "Ertesi gün mahalle şenliği başladı. Herkes meydanda toplanmıştı. Emel Teyze ve KAHRAMAN pastaları getirdi.",
+   "Ama KAHRAMAN bir şey fark etti. Köşede oturan bazı çocuklar üzgündü. Onların şenlik için paraları yoktu.",
+   "KAHRAMAN Emel Teyze'ye bunu söyledi. Emel Teyze gülümsedi. 'O zaman pastaları herkesle paylaşalım,' dedi.",
+   "KAHRAMAN pastaları bütün çocuklara dağıttı. Kimse parasız kalmadı. Her çocuğun elinde güzel bir pasta vardı.",
+   "Üzgün çocukların yüzü güldü. Hepsi KAHRAMAN'a ve Emel Teyze'ye teşekkür etti. Meydan kahkahalarla doldu.",
+   "KAHRAMAN paylaşmanın ne kadar güzel olduğunu hissetti. Pastalar paylaşıldıkça daha da lezzetli olmuştu. Herkes birlikte çok eğlendi.",
+   "Emel Teyze KAHRAMAN'ın omzuna elini koydu. 'Sen gerçek bir dostsun,' dedi. 'İyiliğini asla unutmayacağım.'",
+   "Şenlik akşama kadar sürdü. Müzik çaldı, çocuklar oynadı. KAHRAMAN o günü hiç unutmayacaktı.",
+   "Eve dönerken KAHRAMAN çok mutluydu. Yardımlaşmanın ve paylaşmanın kalbi nasıl ısıttığını öğrenmişti. O gece güzel rüyalar gördü."
+  ],
+  "sorular": [
+   {
+    "question": "Pastanenin sahibi kimdi?",
+    "options": [
+     "Emel Teyze",
+     "Ayşe Teyze",
+     "Fatma Teyze",
+     "Zeynep Teyze"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Emel Teyze neden üzgündü?",
+    "options": [
+     "Hasta olduğu için",
+     "Yardımcısı hasta olduğu ve pastaları yetiştiremeyeceği için",
+     "Pastanesi kapandığı için",
+     "Parası olmadığı için"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN ne teklif etti?",
+    "options": [
+     "Pasta almayı",
+     "Yardım etmeyi",
+     "Gitmeyi",
+     "Para vermeyi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Şenlikte KAHRAMAN neyi fark etti?",
+    "options": [
+     "Bazı çocukların parası olmadığını",
+     "Havanın yağmurlu olduğunu",
+     "Pastaların bittiğini",
+     "Müziğin durduğunu"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Emel Teyze ne yapmayı önerdi?",
+    "options": [
+     "Pastaları satmayı",
+     "Pastaları herkesle paylaşmayı",
+     "Eve gitmeyi",
+     "Pastaları saklamayı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Pastaları dağıtınca ne oldu?",
+    "options": [
+     "Çocuklar üzüldü",
+     "Üzgün çocukların yüzü güldü",
+     "Kimse istemedi",
+     "Pastalar bozuldu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN pastaları paylaşınca ne hissetti?",
+    "options": [
+     "Üzüntü",
+     "Paylaşmanın güzelliğini",
+     "Pişmanlık",
+     "Yorgunluk"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Bu hikayenin ana mesajı nedir?",
+    "options": [
+     "Yardımlaşmak ve paylaşmak güzeldir",
+     "Çok yemek iyidir",
+     "Yalnız olmak iyidir",
+     "Para en önemlisidir"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-13",
+  "baslik": "KAHRAMAN ve Deniz Feneri",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN yaz tatilinde deniz kenarındaki küçük bir kasabaya gitti. Kasabanın en ucunda büyük bir deniz feneri vardı. Fener çok eski ve heybetliydi.",
+   "KAHRAMAN her akşam fenerin ışığını izlerdi. Işık karanlıkta denize doğru parlıyordu. Bu ışık gemilere yol gösteriyordu.",
+   "Bir gün KAHRAMAN fenere yaklaştı. Kapıda yaşlı bir bekçi oturuyordu. Bekçinin adı Deniz Amca'ydı.",
+   "Deniz Amca KAHRAMAN'ı içeri davet etti. Fenerin içinde uzun, dönen bir merdiven vardı. Birlikte yukarı çıkmaya başladılar.",
+   "En üst kata çıktıklarında KAHRAMAN'ın gözleri parladı. Buradan bütün deniz görünüyordu. Kocaman lamba yavaşça dönüyordu.",
+   "Deniz Amca fenerin görevini anlattı. 'Bu ışık, karanlıkta kaybolan gemilere yol gösterir,' dedi. 'Onları güvenle limana getirir.'",
+   "KAHRAMAN çok etkilendi. Fener yıllardır sessizce gemilere yardım ediyordu. Kimse görmese de önemli bir iş yapıyordu.",
+   "O akşam hava aniden bozdu. Gökyüzü karardı ve fırtına başladı. Dalgalar kabardı, rüzgar uğulduyordu.",
+   "Deniz Amca endişelendi. 'Bu havada denizde gemiler olabilir,' dedi. 'Işığın parlak olması çok önemli.'",
+   "Tam o sırada fenerin lambası titredi ve söndü. Elektrik kesilmişti. Fener karanlığa gömüldü.",
+   "Deniz Amca telaşlandı. Karanlıkta gemiler yolunu kaybedebilirdi. KAHRAMAN hemen bir çözüm düşündü.",
+   "'Yedek bir lamba var mı?' diye sordu KAHRAMAN. Deniz Amca eski bir gaz lambasını hatırladı. Ama onu yukarı çıkarmak zordu.",
+   "KAHRAMAN ve Deniz Amca birlikte çalıştı. Ağır lambayı dikkatlice merdivenlerden yukarı taşıdılar. İş birliği yapıyorlardı.",
+   "Lambayı en üste kurdular ve yaktılar. Fener yeniden parlamaya başladı. Işık fırtınanın içinden denize ulaştı.",
+   "Uzakta bir geminin yolunu bulduğunu gördüler. Gemi ışığı takip ederek güvenle limana yaklaştı. KAHRAMAN çok sevindi.",
+   "Fırtına yavaş yavaş dindi. Deniz sakinleşti. Gemi güvenle limana ulaşmıştı. Herkes kurtulmuştu.",
+   "Deniz Amca KAHRAMAN'a minnetle baktı. 'Senin sayende gemiye yol gösterebildik,' dedi. 'Çok akıllı ve yardımseversin.'",
+   "KAHRAMAN gururla gülümsedi. O gece bir geminin güvenle eve dönmesine yardım etmişti. Bu onu çok mutlu etti.",
+   "Ertesi sabah deniz masmaviydi. KAHRAMAN fenere son bir kez baktı. Bazen en önemli işlerin sessizce yapıldığını öğrenmişti."
+  ],
+  "sorular": [
+   {
+    "question": "Kasabanın ucunda ne vardı?",
+    "options": [
+     "Bir kale",
+     "Büyük bir deniz feneri",
+     "Bir köprü",
+     "Bir kule"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Fenerin bekçisinin adı neydi?",
+    "options": [
+     "Deniz Amca",
+     "Kaptan Amca",
+     "Ali Amca",
+     "Mehmet Amca"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Fenerin ışığı ne işe yarıyordu?",
+    "options": [
+     "Süs için",
+     "Gemilere yol göstermek için",
+     "Balık tutmak için",
+     "Isınmak için"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Fırtına sırasında ne oldu?",
+    "options": [
+     "Fenerin lambası söndü",
+     "Gemi battı",
+     "Deniz kurudu",
+     "Güneş açtı"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN hangi çözümü buldu?",
+    "options": [
+     "Kaçmayı",
+     "Yedek gaz lambasını kullanmayı",
+     "Beklemeyi",
+     "Bağırmayı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Lambayı yukarı nasıl taşıdılar?",
+    "options": [
+     "Tek başına Deniz Amca",
+     "Birlikte iş birliği yaparak",
+     "Asansörle",
+     "Taşımadılar"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Fener yeniden yanınca ne oldu?",
+    "options": [
+     "Gemi yolunu buldu ve limana ulaştı",
+     "Fırtına şiddetlendi",
+     "Işık söndü",
+     "Gemi battı"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN bu maceradan ne öğrendi?",
+    "options": [
+     "En önemli işlerin sessizce yapıldığını",
+     "Denizin tehlikeli olduğunu",
+     "Fenerlerin eski olduğunu",
+     "Uyumanın önemini"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-14",
+  "baslik": "KAHRAMAN ve Gizemli Tren",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN küçük bir kasabada yaşıyordu. Kasabanın kenarında eski bir tren istasyonu vardı. Yıllardır oraya hiç tren gelmemişti.",
+   "Bir akşam KAHRAMAN istasyonun yanından geçiyordu. Birden uzaktan bir düdük sesi duydu. Rayların üzerinde parlayan bir tren yaklaşıyordu.",
+   "Tren istasyonda durdu. Kapıları açıldı ve içeriden güler yüzlü bir kondüktör çıktı. 'Merhaba! Keşif Treni'ne hoş geldin,' dedi.",
+   "KAHRAMAN merakla trene bindi. İçerisi çok güzeldi, koltuklar rahat ve pencereler kocamandı. Tren yavaşça hareket etti.",
+   "Tren önce yemyeşil bir ovadan geçti. Pencereden çiçekler ve otlayan atlar görünüyordu. KAHRAMAN manzaraya hayran kaldı.",
+   "Kondüktör KAHRAMAN'a bir harita verdi. 'Bu trende her durak bir şey öğretir,' dedi. İlk durak Sayılar İstasyonu'ydu.",
+   "Sayılar İstasyonu'nda rakamlar canlıydı. KAHRAMAN onlarla oyunlar oynadı. Toplama ve çıkarmayı eğlenerek tekrar etti.",
+   "Tren yeniden hareket etti. İkinci durak Harfler İstasyonu'ydu. Burada harfler dans ederek kelimeler oluşturuyordu.",
+   "KAHRAMAN harflerle güzel kelimeler yaptı. Okuma ne kadar eğlenceliydi. Kondüktör onu alkışladı.",
+   "Üçüncü durak Doğa İstasyonu'ydu. Burada ağaçlar, hayvanlar ve böcekler vardı. KAHRAMAN doğanın nasıl çalıştığını öğrendi.",
+   "Bir kelebek KAHRAMAN'a tırtılken nasıl kelebeğe dönüştüğünü anlattı. KAHRAMAN bu değişime hayran kaldı. Doğa gerçekten harikaydı.",
+   "Tren dağların arasından geçmeye başladı. Bir tünele girdiler ve her yer karardı. Ama KAHRAMAN korkmadı.",
+   "Tünelin sonunda ışık göründü. Tren muhteşem bir manzaraya çıktı. Aşağıda pırıl pırıl bir göl vardı.",
+   "Son durak Hayaller İstasyonu'ydu. Kondüktür KAHRAMAN'a döndü. 'Burada istediğin her şeyi hayal edebilirsin,' dedi.",
+   "KAHRAMAN gözlerini kapattı ve büyük hayaller kurdu. Bir gün öğretmen, bir gün kaşif olmayı hayal etti. Hayalleri onu mutlu etti.",
+   "Kondüktör gülümsedi. 'Hayaller, öğrenmekle gerçek olur,' dedi. KAHRAMAN bu sözü kalbine yazdı.",
+   "Tren yavaşça KAHRAMAN'ın kasabasına geri döndü. İstasyonda durdu ve kapılar açıldı. Yolculuk bitmişti.",
+   "KAHRAMAN trenden indi ve kondüktöre teşekkür etti. 'Çok şey öğrendim,' dedi. Kondüktör el salladı ve tren gözden kayboldu.",
+   "KAHRAMAN eve dönerken düşündü. Öğrenmek, tıpkı bir tren yolculuğu gibiydi. Her durak yeni bir keşifti. O gece heyecanla uykuya daldı."
+  ],
+  "sorular": [
+   {
+    "question": "Kasabanın kenarında ne vardı?",
+    "options": [
+     "Eski bir tren istasyonu",
+     "Bir liman",
+     "Bir havaalanı",
+     "Bir fabrika"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Trenin adı neydi?",
+    "options": [
+     "Hızlı Tren",
+     "Keşif Treni",
+     "Gece Treni",
+     "Mavi Tren"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "İlk durak hangisiydi?",
+    "options": [
+     "Harfler İstasyonu",
+     "Sayılar İstasyonu",
+     "Doğa İstasyonu",
+     "Hayaller İstasyonu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Doğa İstasyonu'nda kelebek ne anlattı?",
+    "options": [
+     "Nasıl uçtuğunu",
+     "Tırtılken nasıl kelebeğe dönüştüğünü",
+     "Nerede yaşadığını",
+     "Ne yediğini"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Tünelde her yer kararınca KAHRAMAN ne yaptı?",
+    "options": [
+     "Ağladı",
+     "Korkmadı",
+     "Kaçtı",
+     "Bağırdı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Son durak neresiydi?",
+    "options": [
+     "Sayılar İstasyonu",
+     "Hayaller İstasyonu",
+     "Harfler İstasyonu",
+     "Doğa İstasyonu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Kondüktör hayaller hakkında ne dedi?",
+    "options": [
+     "Hayaller gereksizdir",
+     "Hayaller öğrenmekle gerçek olur",
+     "Hayaller kötüdür",
+     "Hayaller zordur"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN öğrenmeyi neye benzetti?",
+    "options": [
+     "Bir tren yolculuğuna",
+     "Bir uykuya",
+     "Bir yemeğe",
+     "Bir oyuna"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-15",
+  "baslik": "KAHRAMAN ve Yüce Dağ",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN dağların eteğindeki bir köyde yaşıyordu. Köyün arkasında kocaman, karlı bir dağ vardı. Dağın zirvesi bulutlara değiyordu.",
+   "Köylüler dağın zirvesinde çok özel bir çiçek olduğunu söylerdi. Bu çiçek yılda sadece bir gün açardı. Ona Umut Çiçeği derlerdi.",
+   "KAHRAMAN'ın büyükannesi hastaydı. Köylüler Umut Çiçeği'nin şifa verdiğini söylüyordu. KAHRAMAN büyükannesi için o çiçeği bulmaya karar verdi.",
+   "KAHRAMAN sabah erkenden hazırlandı. Sırt çantasına su, ekmek ve sıcak bir battaniye koydu. Dağa doğru yola çıktı.",
+   "Yol başta kolaydı. KAHRAMAN neşeyle tırmanıyordu. Ama yükseldikçe hava soğumaya başladı.",
+   "Yolda küçük bir dağ keçisiyle karşılaştı. Keçinin ayağı bir taşa sıkışmıştı. KAHRAMAN durup ona yardım etti.",
+   "Keçi kurtulunca minnetle KAHRAMAN'a baktı. Ona zirveye giden gizli, kolay bir patika gösterdi. KAHRAMAN teşekkür etti.",
+   "KAHRAMAN tırmanmaya devam etti. Yol gittikçe dikleşiyordu. Bacakları yorulmuştu ama pes etmedi.",
+   "Bir ara ayağı kaydı ve neredeyse düşüyordu. Ama sıkıca bir kayaya tutundu. Derin bir nefes aldı ve devam etti.",
+   "Hava kararmaya başladı. KAHRAMAN küçük bir mağara buldu. Geceyi orada geçirmeye karar verdi.",
+   "Battaniyesine sarıldı ve ateş yaktı. Yıldızları izledi ve büyükannesini düşündü. Sabah zirveye ulaşacaktı.",
+   "Güneş doğunca KAHRAMAN yeniden yola çıktı. Zirve artık çok yakındı. Son bir gayretle tırmandı.",
+   "Sonunda zirveye ulaştı! Manzara nefes kesiciydi. Bütün köy, ovalar ve nehirler aşağıda uzanıyordu.",
+   "Ve orada, karların arasında Umut Çiçeği açmıştı. Çiçek altın renginde parlıyordu. KAHRAMAN çok sevindi.",
+   "KAHRAMAN çiçeği çok dikkatli bir şekilde kopardı. Köküne zarar vermeden aldı. Onu özenle çantasına yerleştirdi.",
+   "Dönüş yolu daha kolaydı. KAHRAMAN gururla köye indi. Başardığı için kendisiyle gurur duyuyordu.",
+   "Büyükannesine Umut Çiçeği'nden bir çay yaptılar. Büyükanne çayı içti ve yavaş yavaş iyileşmeye başladı. Herkes çok mutlu oldu.",
+   "Büyükanne KAHRAMAN'a sarıldı. 'Sen çok cesur ve azimli bir çocuksun,' dedi. 'Beni kurtardın.'",
+   "KAHRAMAN o gün önemli bir şey öğrendi. Zor işler azim ve cesaret ister. Ama pes etmezsen, en yüce dağı bile tırmanabilirsin."
+  ],
+  "sorular": [
+   {
+    "question": "Dağın zirvesinde ne açardı?",
+    "options": [
+     "Umut Çiçeği",
+     "Kar Çiçeği",
+     "Altın Çiçeği",
+     "Gül"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN neden o çiçeği aramaya karar verdi?",
+    "options": [
+     "Satmak için",
+     "Hasta büyükannesi için",
+     "Kendisi için",
+     "Arkadaşı için"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Yolda karşılaştığı dağ keçisine ne yaptı?",
+    "options": [
+     "Kovaladı",
+     "Sıkışan ayağını kurtardı",
+     "Görmezden geldi",
+     "Korkuttu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Keçi teşekkür için ne yaptı?",
+    "options": [
+     "Ona yiyecek verdi",
+     "Gizli kolay patikayı gösterdi",
+     "Şarkı söyledi",
+     "Onu taşıdı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Geceyi nerede geçirdi?",
+    "options": [
+     "Ağaçta",
+     "Küçük bir mağarada",
+     "Zirvede",
+     "Köyde"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Çiçeği koparırken KAHRAMAN nasıl davrandı?",
+    "options": [
+     "Aceleyle kopardı",
+     "Köküne zarar vermeden dikkatlice aldı",
+     "Ezdi",
+     "Bıraktı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Umut Çiçeği'nden yapılan çay ne yaptı?",
+    "options": [
+     "Hiçbir şey",
+     "Büyükanne iyileşmeye başladı",
+     "Büyükanneyi uyuttu",
+     "Kötü tat verdi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN bu maceradan ne öğrendi?",
+    "options": [
+     "Azim ve cesaretle zor işlerin başarılabileceğini",
+     "Dağların tehlikeli olduğunu",
+     "Çiçeklerin güzel olduğunu",
+     "Yürümenin yorucu olduğunu"
+    ],
+    "correctAnswer": 0
+   }
+  ]
  }
 ]
