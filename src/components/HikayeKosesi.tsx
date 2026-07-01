@@ -12,6 +12,17 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const [seciliHikaye, setSeciliHikaye] = useState<number | null>(null);
   const [sayfa, setSayfa] = useState(0);
   const [okunuyor, setOkunuyor] = useState(false);
+  // Her hikayeye sabit ama farkli bir kahraman ismi (id'ye gore donusumlu)
+  const ISIMLER = ['Ayşe','Mehmet','Zeynep','Can','Elif','Yusuf','Selin','Ali','Defne','Kaan','Ece','Emir','Naz','Arda','Sude','Mert','Ada','Efe','Nil','Berk'];
+  const hikayeIsmi = (id: string) => {
+    let t = 0;
+    for (let i = 0; i < id.length; i++) t += id.charCodeAt(i);
+    return ISIMLER[t % ISIMLER.length];
+  };
+  const isimDegistir = (metin: string, id: string) => {
+    const isim = hikayeIsmi(id);
+    return metin.replace(/Elanaz'?/g, (m) => m.endsWith("'") ? isim + "'" : isim);
+  };
   const [testModu, setTestModu] = useState(false);
   const [soruIndex, setSoruIndex] = useState(0);
   const [dogruSayisi, setDogruSayisi] = useState(0);
@@ -34,7 +45,10 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
       for (const isim of tercih) { const v = sesler.find(s => s.name.includes(isim)); if (v) return v; }
       return sesler.find(s => s.lang === 'en-US') || sesler.find(s => s.lang.startsWith('en'));
     }
-    return sesler.find(s => s.lang === 'tr-TR') || sesler.find(s => s.lang.startsWith('tr'));
+    // Turkce icin Yelda'yi oncelikle sec (varsa gelistirilmis)
+    const trTercih = sesler.filter(s => s.lang === 'tr-TR' || s.lang.startsWith('tr'));
+    const yeldaEnh = trTercih.find(s => s.name.includes('Yelda') && /enhanced|premium|geli/i.test(s.name));
+    return yeldaEnh || trTercih.find(s => s.name.includes('Yelda')) || trTercih[0];
   };
 
   const sesliOku = (metin: string) => {
@@ -42,7 +56,9 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
     const u = new SpeechSynthesisUtterance(metin);
     u.lang = sesDili;
     const ses = enIyiSesiSec(sesDili); if (ses) u.voice = ses;
-    u.rate = 0.9; u.onend = () => setOkunuyor(false);
+    u.rate = 0.85;
+    u.pitch = 1.05;
+    u.onend = () => setOkunuyor(false);
     setOkunuyor(true); window.speechSynthesis.speak(u);
   };
   const sesiDurdur = () => { window.speechSynthesis.cancel(); setOkunuyor(false); };
@@ -70,7 +86,7 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
           {liste.map((h, i) => (
             <button key={h.id} className="hikaye-kart" onClick={() => { setSeciliHikaye(i); setSayfa(0); resetTest(); }}>
               <span className="hikaye-emoji">📖</span>
-              <span className="hikaye-kart-baslik">{h.baslik}</span>
+              <span className="hikaye-kart-baslik">{isimDegistir(h.baslik, h.id)}</span>
             </button>
           ))}
         </div>
@@ -87,7 +103,7 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
       return (
         <div className="hikaye-container">
           <button className="back-btn" onClick={hikayeyeDon}>← Hikayeler</button>
-          <h2 className="hikaye-okuma-baslik">{h.baslik}</h2>
+          <h2 className="hikaye-okuma-baslik">{isimDegistir(h.baslik, h.id)}</h2>
           <div className="test-sonuc">
             <div className="test-sonuc-emoji">{dogruSayisi >= 3 ? '🎉' : '💪'}</div>
             <h2>{dogruSayisi} / {h.sorular!.length} doğru!</h2>
@@ -138,17 +154,19 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   return (
     <div className="hikaye-container">
       <button className="back-btn" onClick={hikayeyeDon}>← Hikayeler</button>
-      <h2 className="hikaye-okuma-baslik">{h.baslik}</h2>
+      <h2 className="hikaye-okuma-baslik">{isimDegistir(h.baslik, h.id)}</h2>
       <div className="hikaye-sayfa">
-        <p className="hikaye-metin">{h.sayfalar[sayfa]}</p>
+        <p className="hikaye-metin">{isimDegistir(h.sayfalar[sayfa], h.id)}</p>
       </div>
-      <div className="hikaye-ses-row">
-        {okunuyor ? (
-          <button className="hikaye-ses-btn durdur" onClick={sesiDurdur}>⏹️ Durdur</button>
-        ) : (
-          <button className="hikaye-ses-btn" onClick={() => sesliOku(h.sayfalar[sayfa])}>🔊 Dinle</button>
-        )}
-      </div>
+      {dil === 'en' && (
+        <div className="hikaye-ses-row">
+          {okunuyor ? (
+            <button className="hikaye-ses-btn durdur" onClick={sesiDurdur}>⏹️ Stop</button>
+          ) : (
+            <button className="hikaye-ses-btn" onClick={() => sesliOku(isimDegistir(h.sayfalar[sayfa], h.id))}>🔊 Listen</button>
+          )}
+        </div>
+      )}
       <div className="hikaye-nav">
         <button className="hikaye-nav-btn" disabled={ilkSayfa} onClick={() => { sesiDurdur(); setSayfa(sayfa - 1); }}>← Önceki</button>
         <span className="hikaye-sayfa-no">{sayfa + 1} / {h.sayfalar.length}</span>
