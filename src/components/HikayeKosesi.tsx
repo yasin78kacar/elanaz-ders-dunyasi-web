@@ -12,6 +12,7 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const [seciliHikaye, setSeciliHikaye] = useState<number | null>(null);
   const [sayfa, setSayfa] = useState(0);
   const [okunuyor, setOkunuyor] = useState(false);
+  const [uzunMu, setUzunMu] = useState(false);
   // Her hikayeye sabit ama farkli bir kahraman ismi (id'ye gore donusumlu)
   const ISIMLER = ['Ayşe','Mehmet','Zeynep','Can','Elif','Yusuf','Selin','Ali','Defne','Kaan','Ece','Emir','Naz','Arda','Sude','Mert','Ada','Efe','Nil','Berk'];
   const hikayeIsmi = (id: string) => {
@@ -29,7 +30,8 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const [secilen, setSecilen] = useState<number | null>(null);
   const [testBitti, setTestBitti] = useState(false);
 
-  const liste = (dil === 'tr' ? hikayeler : ingilizceHikayeler) as Hikaye[];
+  const tumListe = (dil === 'tr' ? hikayeler : ingilizceHikayeler) as Hikaye[];
+  const liste = tumListe.filter(h => uzunMu ? (h as any).uzun === true : !(h as any).uzun);
   const sesDili = dil === 'tr' ? 'tr-TR' : 'en-US';
 
   useEffect(() => {
@@ -81,6 +83,10 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
         <div className="hikaye-dil-sekme">
           <button className={`dil-btn ${dil === 'tr' ? 'aktif' : ''}`} onClick={() => dilDegistir('tr')}>🇹🇷 Türkçe</button>
           <button className={`dil-btn ${dil === 'en' ? 'aktif' : ''}`} onClick={() => dilDegistir('en')}>🇬🇧 İngilizce</button>
+        </div>
+        <div className="hikaye-dil-sekme hikaye-uzunluk-sekme">
+          <button className={`dil-btn ${!uzunMu ? 'aktif' : ''}`} onClick={() => { setUzunMu(false); setSeciliHikaye(null); }}>📖 Kısa</button>
+          <button className={`dil-btn ${uzunMu ? 'aktif' : ''}`} onClick={() => { setUzunMu(true); setSeciliHikaye(null); }}>📚 Uzun</button>
         </div>
         <div className="hikaye-liste">
           {liste.map((h, i) => (

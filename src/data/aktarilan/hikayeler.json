@@ -3408,5 +3408,554 @@
     "correctAnswer": 2
    }
   ]
+ },
+ {
+  "id": "uzun-01",
+  "baslik": "KAHRAMAN ve Gizli Bahçe",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN çok meraklı ve neşeli bir çocuktu. Yeni yerler keşfetmeyi çok severdi. Bir gün odasında oynarken eski bir kutu buldu.",
+   "Kutunun içinde yıpranmış bir harita vardı. Harita, ormanın derinliklerindeki Gizli Bahçe'yi gösteriyordu. KAHRAMAN bu bahçeyi bulmaya karar verdi.",
+   "Hemen küçük sırt çantasını hazırladı. İçine biraz su, lezzetli bir elma ve pusula koydu. Maceraya tamamen hazırdı.",
+   "Yola çıktığında en yakın arkadaşı sincap Fındık ile karşılaştı. Fındık'a haritayı gösterdi ve onu da maceraya davet etti. Fındık sevinçle zıpladı.",
+   "İki arkadaş birlikte Neşeli Orman'a girdiler. Ormandaki ağaçların yaprakları rengarenkti. Kuşlar neşeyle şarkı söylüyordu.",
+   "Bir süre yürüdükten sonra karşılarına şırıl şırıl akan bir dere çıktı. Ancak derenin üzerindeki ahşap köprü kırılmıştı. Karşıya nasıl geçeceklerini düşündüler.",
+   "KAHRAMAN etrafına bakındı ve yerde uzun, sağlam bir tahta parçası gördü. Fındık ile birlikte bu tahtayı derenin üzerine doğru ittiler. Kendilerine yeni bir köprü yapmışlardı.",
+   "Önce Fındık, sonra da KAHRAMAN dikkatlice karşıya geçti. Birlikte çalışmak işlerini çok kolaylaştırmıştı. İkisi de engeli aştıkları için çok mutluydu.",
+   "Yürümeye devam ederken Fındık'ın karnı guruldadı. KAHRAMAN hemen çantasındaki elmayı çıkardı ve ikiye böldü. Arkadaşıyla yiyeceğini paylaşmak onu sevindirdi.",
+   "Tam o sırada ince bir ses duydular. Birisi ağlıyor gibiydi. Sesin geldiği çalılıklara doğru yavaşça yaklaştılar.",
+   "Çalılıkların arasında minik bir kuş duruyordu. Yavru kuş yuvasından düşmüş ve yolunu kaybetmişti. Çok korkmuş görünüyordu.",
+   "KAHRAMAN yavaşça eğildi ve kuşa zarar vermeden onu eline aldı. Fındık hemen ağaca tırmanarak yuvanın yerini gösterdi. KAHRAMAN uzanıp kuşu yavaşça yuvasına bıraktı.",
+   "Anne kuş uçarak geldi ve yavrularına sarıldı. KAHRAMAN ve Fındık'a teşekkür etmek için güzel bir şarkı söyledi. İki arkadaş onlara el sallayarak yola devam etti.",
+   "Haritadaki son işarete gelmişlerdi. Karşılarındaki büyük çiçekli sarmaşıkları yavaşça araladılar. Gözlerine inanamadılar.",
+   "Burası haritadaki Gizli Bahçe'ydi. Her yerde pırıl pırıl parlayan çiçekler ve dev kelebekler vardı. Hava mis gibi çilek kokuyordu.",
+   "Gizli Bahçe'de doyasıya koştular ve saklambaç oynadılar. Hatıra olarak kendilerine parlak, yuvarlak taşlar seçtiler. Harika bir gün geçiriyorlardı.",
+   "Güneş yavaş yavaş batmaya başlamıştı. Gökyüzü turuncu ve pembe renklere boyandı. Artık eve dönme vakti gelmişti.",
+   "KAHRAMAN pusulasına bakarak dönüş yolunu kolayca buldu. Fındık ile birlikte şarkılar söyleyerek yürüdüler. Yardımlaşmak ve cesur olmak onlara kendilerini çok iyi hissettirdi.",
+   "Eve vardıklarında KAHRAMAN'ın ailesi onu bahçede bekliyordu. KAHRAMAN ailesine haritayı, derenin nasıl geçildiğini ve Gizli Bahçe'yi heyecanla anlattı. Ailesi onunla gurur duydu.",
+   "O gece KAHRAMAN yatağına girdi. Çok yorgun ama çok mutluydu. Gözlerini kapattı ve yeni maceraların hayalini kurarak uykuya daldı."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN odasında ne buldu?",
+    "options": [
+     "Eski bir oyuncak",
+     "Eski bir harita",
+     "Bir hikaye kitabı",
+     "Renkli bir top"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN çantasına neler koydu?",
+    "options": [
+     "Su, elma ve pusula",
+     "Çikolata, süt ve oyuncak",
+     "Defter, kalem ve silgi",
+     "Ceket, şapka ve eldiven"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'ın yolda karşılaştığı en yakın arkadaşı kimdir?",
+    "options": [
+     "Tavşan Pamuk",
+     "Sincap Fındık",
+     "Köpek Karabaş",
+     "Kedi Minnoş"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN ve arkadaşı kırık köprüyü geçmek için ne yaptılar?",
+    "options": [
+     "Yüzerek karşıya geçtiler.",
+     "Başka bir yol bulmak için geri döndüler.",
+     "Yerdeki tahta parçasıyla yeni bir köprü yaptılar.",
+     "Uçan bir halıya bindiler."
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN çantasındaki elmayı ne yaptı?",
+    "options": [
+     "Hepsini kendisi yedi.",
+     "Nehrin sularına düşürdü.",
+     "Kuşlara yem olarak verdi.",
+     "İkiye bölerek arkadaşı Fındık ile paylaştı."
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Çalılıkların arasında ağlayan hayvan hangisiydi?",
+    "options": [
+     "Yavru bir köpek",
+     "Yuvasından düşmüş yavru bir kuş",
+     "Kaybolmuş bir kedi",
+     "Küçük bir tavşan"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Gizli Bahçe'nin havası ne kokuyordu?",
+    "options": [
+     "Mis gibi çilek kokuyordu.",
+     "Taze fırın ekmeği kokuyordu.",
+     "Yağmur ve toprak kokuyordu.",
+     "Çikolata kokuyordu."
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Hikayenin sonunda KAHRAMAN yatağında nasıl hissediyordu?",
+    "options": [
+     "Çok üzgün ve kızgındı.",
+     "Korkmuş ve endişeliydi.",
+     "Çok yorgun ama çok mutluydu.",
+     "Sıkılmış ve mutsuzdu."
+    ],
+    "correctAnswer": 2
+   }
+  ]
+ },
+ {
+  "id": "uzun-02",
+  "baslik": "KAHRAMAN ve Neşe Gezegeni",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN gökyüzünü izlemeyi çok seven zeki bir çocuktu. Geceleri parlayan yıldızlara bakıp hayaller kurardı. En büyük hayali uzaya gitmekti.",
+   "Bir gün odasında boş karton kutulardan kocaman bir roket yaptı. Roketini kırmızı ve mavi renklere boyadı. Üzerine parlak yıldız çıkartmaları yapıştırdı.",
+   "Gece uyku vakti geldiğinde yatağına yattı ve gözlerini kapattı. Rüyasında karton roketi gerçekten çalışmaya başlamıştı. KAHRAMAN hemen astronot kıyafetini giydi.",
+   "Geri sayım başladı: Üç, iki, bir ve fırlatma! Roket büyük bir hızla gökyüzüne doğru yükseldi. Bulutların arasından geçip uzayın derinliklerine ulaştı.",
+   "Uzay çok sessiz ve büyüleyiciydi. Etrafta rengarenk gezegenler ve kuyruklu yıldızlar vardı. KAHRAMAN roketinin camından bu güzellikleri heyecanla izledi.",
+   "Birden roketin ekranında küçük, mor renkli bir gezegen belirdi. Bu gezegenin adı Neşe Gezegeni'ydi. Ancak gezegen pek neşeli görünmüyordu.",
+   "KAHRAMAN yardım etmek için hemen rotasını oraya çevirdi. Roketini yumuşak bir şekilde gezegenin yüzeyine indirdi. Kapıyı açıp dışarı adımını attı.",
+   "Onu sevimli, üç gözlü ve pofuduk uzaylılar karşıladı. Uzaylıların lideri Pofi çok üzgündü. 'Gezegenimizi aydınlatan sihirli kristalimiz kayboldu,' dedi.",
+   "Kristal olmadan gezegen karanlık ve soğuk kalmıştı. KAHRAMAN onlara yardım edeceğine söz verdi. Pofi ile birlikte kristali aramaya başladılar.",
+   "Önce Mırıldanan Mağara'ya girdiler. Mağaranın içi kocaman, parlayan taşlarla doluydu. Ancak hiçbiri kayıp kristal değildi.",
+   "Sonra Zıplayan Tepeler'e tırmandılar. Tepelere çıkmak çok eğlenceli ama biraz zordu. KAHRAMAN yorulan Pofi'ye elini uzatarak yardım etti.",
+   "Tepenin en yüksek noktasında küçük bir gölet vardı. Göletin suyu gümüş gibi parlıyordu. Suyun dibinde parlayan tanıdık bir ışık gördüler.",
+   "Sihirli kristal yanlışlıkla gölete düşmüştü! KAHRAMAN hemen uzun bir uzay oltası icat etti. Sabırla bekleyip kristali sudan çıkardı.",
+   "Kristali Pofi'ye geri verdiğinde bütün uzaylılar sevinçle zıpladı. Pofi, 'Senin cesaretin ve yardımlaşman bizi kurtardı,' diyerek teşekkür etti.",
+   "Kristal yerine konduğunda Neşe Gezegeni tekrar ışıl ışıl parlamaya başladı. Herkes şarkı söyleyip dans ediyordu. KAHRAMAN da onlara katılarak çok eğlendi.",
+   "Artık Dünya'ya dönme vakti gelmişti. KAHRAMAN yeni arkadaşlarına sarılarak veda etti. Roketine bindi ve dönüş yoluna çıktı.",
+   "KAHRAMAN sabah yüzüne vuran sıcak güneş ışığıyla uyandı. Gözlerini açtığında odasında, yumuşacık yatağındaydı. Gördüğü bu harika rüyayı hiç unutmayacaktı.",
+   "O gün kahvaltıda rüyasını heyecanla ailesine anlattı. Yardımlaşmanın ve arkadaşlığın ne kadar önemli olduğunu bir kez daha anlamıştı.",
+   "Gülümseyerek pencereden dışarı baktı. Gündüz olsa bile yıldızların orada bir yerde olduğunu biliyordu. Belki bir gün gerçekten oraya gidecekti.",
+   "Kahvaltıdan sonra odasına döndü ve macera kitapları okumaya başladı. Çünkü biliyordu ki kitap okumak, zihnin en hızlı roketiydi."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN boş karton kutulardan ne yaptı?",
+    "options": [
+     "Kocaman bir ev",
+     "Kırmızı bir yarış arabası",
+     "Kocaman bir roket",
+     "Büyük bir uçak"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Rüyasında KAHRAMAN hangi gezegene gitti?",
+    "options": [
+     "Ateş Gezegeni",
+     "Neşe Gezegeni",
+     "Buz Gezegeni",
+     "Fırtına Gezegeni"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Neşe Gezegeni'ndeki uzaylıların liderinin adı neydi?",
+    "options": [
+     "Pofi",
+     "Maviş",
+     "Tırtıl",
+     "Boncuk"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Uzaylılar neden üzgündü?",
+    "options": [
+     "Yemekleri bittiği için",
+     "Roketleri bozulduğu için",
+     "Uyumak istedikleri için",
+     "Gezegeni aydınlatan sihirli kristal kaybolduğu için"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "KAHRAMAN ve Pofi kristali nerede buldular?",
+    "options": [
+     "Mırıldanan Mağara'da",
+     "Zıplayan Tepeler'deki gölette",
+     "Roketin içinde",
+     "Karanlık ormanda"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN kristali göletten nasıl çıkardı?",
+    "options": [
+     "Gölete dalarak",
+     "Suyu boşaltarak",
+     "Uzun bir uzay oltası icat ederek",
+     "Ağ atarak"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Pofi, KAHRAMAN'a neden teşekkür etti?",
+    "options": [
+     "Çok güzel şarkı söylediği için",
+     "Ona roketini verdiği için",
+     "Güzel dans ettiği için",
+     "Cesaretli olduğu ve yardım ettiği için"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Hikayenin sonunda KAHRAMAN kitap okumak hakkında ne düşündü?",
+    "options": [
+     "Okumanın uykusunu getirdiğini",
+     "Okumanın zihnin en hızlı roketi olduğunu",
+     "Okumanın çok sıkıcı olduğunu",
+     "Okumanın zor olduğunu"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-03",
+  "baslik": "KAHRAMAN ve Deniz Altı Sırrı",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN denizi çok seven meraklı bir çocuktu. Bir yaz sabahı ailesiyle sahile gitti. Kumların üzerinde yürürken parlayan bir şey gördü.",
+   "Bu parlayan şey mavi bir deniz kabuğuydu. KAHRAMAN kabuğu kulağına götürdü. İçinden denizin fısıltısını duyar gibi oldu.",
+   "Kabuğu kulağına tuttuğunda tuhaf bir şey oldu. Nazik bir ses ona sesleniyordu. 'Bize yardım eder misin?' diyordu ses.",
+   "KAHRAMAN sesin denizin altından geldiğini anladı. Cesurca denize doğru yürüdü. Suya girdiğinde nefesini rahatça alabildiğini fark etti.",
+   "Denizin altı masal gibiydi. Rengarenk balıklar yüzüyor, mercanlar ışıldıyordu. KAHRAMAN hayranlıkla etrafına baktı.",
+   "Karşısına turuncu bir yunus çıktı. Yunusun adı Sarpi'ydi. 'Seni bekliyordum, benimle gel,' dedi Sarpi neşeyle.",
+   "Sarpi, KAHRAMAN'ı denizin derinliklerine götürdü. Yolda yosun ormanlarından ve inci tarlalarından geçtiler. Her yer pırıl pırıldı.",
+   "Sonunda büyük bir mercan şehrine vardılar. Ama şehir çok üzgün görünüyordu. Balıklar ağlıyor, deniz atları başlarını öne eğmişti.",
+   "Sarpi durumu anlattı: Şehrin ışığını sağlayan Deniz Yıldızı kaybolmuştu. Onsuz şehir karanlıkta kalıyordu. KAHRAMAN yardım edeceğine söz verdi.",
+   "Birlikte Deniz Yıldızı'nı aramaya başladılar. Önce eski batık gemiye baktılar. Gemi boştu ama içinde bir ipucu vardı.",
+   "İpucu, karanlık bir mağarayı işaret ediyordu. KAHRAMAN korkmadı, çünkü yanında arkadaşı vardı. Mağaraya doğru yüzdüler.",
+   "Mağaranın içi çok karanlıktı. Ama uzakta minik bir ışık parlıyordu. O ışık kayıp Deniz Yıldızı'ydı.",
+   "Deniz Yıldızı bir kayanın altına sıkışmıştı. KAHRAMAN nazikçe kayayı itti ve onu kurtardı. Deniz Yıldızı sevinçle parladı.",
+   "KAHRAMAN ve Sarpi, Deniz Yıldızı'nı şehre geri götürdüler. Yıldız yerine konduğunda şehir yeniden aydınlandı. Her yer ışıl ışıl oldu.",
+   "Bütün deniz canlıları sevinçle dans etti. Balıklar KAHRAMAN'ın etrafında halka oldu. Deniz atları teşekkür şarkısı söyledi.",
+   "Mercan şehrinin kraliçesi KAHRAMAN'a teşekkür etti. 'Cesaretin ve iyi kalbin için sana bir armağan vereceğim,' dedi. Ona sihirli bir inci hediye etti.",
+   "Bu inci, ne zaman denizi özlese onu tekrar buraya getirecekti. KAHRAMAN çok mutlu oldu. Yeni arkadaşlarına veda etme vakti gelmişti.",
+   "Sarpi, KAHRAMAN'ı yavaşça su yüzeyine çıkardı. İki arkadaş sıkıca sarıldı. 'Seni hiç unutmayacağım,' dedi KAHRAMAN.",
+   "KAHRAMAN sahile çıktığında ailesi onu bekliyordu. Elinde hâlâ sihirli inci vardı. Yaşadığı maceranın gerçek olduğunu biliyordu.",
+   "O gece KAHRAMAN yatağında incisine baktı. Denizin sırrını korumaya söz verdi. Gülümseyerek uykuya daldı ve deniz altını rüyasında gördü."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN sahilde parlayan neyi buldu?",
+    "options": [
+     "Altın bir yüzük",
+     "Mavi bir deniz kabuğu",
+     "Renkli bir taş",
+     "Cam bir şişe"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Denize girince KAHRAMAN neyi fark etti?",
+    "options": [
+     "Suyun çok soğuk olduğunu",
+     "Nefesini rahatça alabildiğini",
+     "Yüzemediğini",
+     "Karanlık olduğunu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN'a rehberlik eden yunusun adı neydi?",
+    "options": [
+     "Sarpi",
+     "Balık",
+     "Mavi",
+     "Köpük"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Mercan şehri neden üzgündü?",
+    "options": [
+     "Yemekleri bittiği için",
+     "Deniz Yıldızı kaybolduğu için",
+     "Hava soğuduğu için",
+     "Balıklar gittiği için"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Deniz Yıldızı nerede sıkışmıştı?",
+    "options": [
+     "Batık gemide",
+     "Bir kayanın altında",
+     "Yosunların içinde",
+     "Kumların altında"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Kraliçe KAHRAMAN'a ne hediye etti?",
+    "options": [
+     "Altın taç",
+     "Sihirli bir inci",
+     "Deniz kabuğu",
+     "Mercan kolye"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Sihirli inci ne işe yarıyordu?",
+    "options": [
+     "Işık veriyordu",
+     "Onu tekrar denize getirebiliyordu",
+     "Şarkı söylüyordu",
+     "Yemek yapıyordu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN bu maceradan hangi güzel özelliği gösterdi?",
+    "options": [
+     "Cesaret ve iyi kalplilik",
+     "Hızlı koşmak",
+     "Yüksek zıplamak",
+     "Çok yemek"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-04",
+  "baslik": "KAHRAMAN ve Çiftlik Dostları",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN yaz tatilinde büyükbabasının çiftliğine gitti. Çiftlik yemyeşil tarlalarla çevriliydi. Her yerde mutlu hayvan sesleri duyuluyordu.",
+   "Büyükbaba KAHRAMAN'ı sıcak bir gülümsemeyle karşıladı. 'Bu çiftlikte herkesin bir görevi var,' dedi. KAHRAMAN da yardım etmek istedi.",
+   "İlk sabah horoz erkenden öttü. KAHRAMAN horoz sesiyle uyandı ve pencereyi açtı. Güneş yeni doğuyordu ve hava mis gibi kokuyordu.",
+   "Büyükbaba ona ilk görevini verdi: tavukları beslemek. KAHRAMAN kovadaki yemi tavuklara serpti. Tavuklar sevinçle etrafında toplandı.",
+   "Sonra ineklerin ahırına gittiler. Benekli inek Sarıkız çok sakindi. KAHRAMAN ona taze ot verdi ve inek minnetle böğürdü.",
+   "Öğleden sonra koyunları otlatma zamanıydı. KAHRAMAN çoban köpeği Karabaş ile koyunları güttü. Karabaş çok akıllı ve yardımseverdi.",
+   "Bir koyun sürüden ayrılıp uzaklaştı. KAHRAMAN telaşlandı ama panik yapmadı. Karabaş ile birlikte koyunu nazikçe sürüye geri getirdiler.",
+   "Akşam olduğunda KAHRAMAN çok yorulmuştu. Ama yaptığı işlerden gurur duyuyordu. Büyükbaba onu tebrik etti.",
+   "Ertesi gün büyükbaba KAHRAMAN'a arıları gösterdi. 'Arılar çiçeklerden bal yapar,' dedi. KAHRAMAN arıların çalışkanlığına hayran kaldı.",
+   "Bahçede olgun domatesler ve salatalıklar vardı. KAHRAMAN sebzeleri dikkatlice topladı. Akşam yemeğinde onları hep birlikte yediler.",
+   "Bir gün gökyüzü kararmaya başladı. Fırtına yaklaşıyordu. Hayvanların hepsini güvenli yere almak gerekiyordu.",
+   "KAHRAMAN büyükbabasıyla birlikte koştu. Tavukları kümese, inekleri ahıra aldılar. Herkes güvendeydi ve yağmur başladı.",
+   "Yağmur dinerken gökyüzünde kocaman bir gökkuşağı belirdi. Çiftlik yıkanmış gibi tertemiz görünüyordu. Hayvanlar yeniden dışarı çıktı.",
+   "KAHRAMAN çiftlikteki her günün bir şey öğrettiğini fark etti. Sorumluluk almayı ve çalışmayı sevmişti. Hayvanlarla arkadaş olmuştu.",
+   "Büyükbaba ona küçük bir fidan verdi. 'Bunu dik ve büyümesini izle,' dedi. KAHRAMAN fidanı bahçeye özenle dikti.",
+   "Her sabah fidanını suladı ve ona baktı. Fidan yavaş yavaş büyümeye başladı. KAHRAMAN sabrın ne demek olduğunu öğrendi.",
+   "Tatilin son günü geldiğinde KAHRAMAN üzüldü. Ama çiftlikteki dostlarını hiç unutmayacaktı. Herkese tek tek veda etti.",
+   "Sarıkız'a sarıldı, Karabaş'ın başını okşadı. Tavuklara son kez yem verdi. Hayvanlar da onu özleyecek gibiydi.",
+   "Büyükbaba KAHRAMAN'a bir söz verdirdi: gelecek yaz yine gelecekti. KAHRAMAN sözünü tuttu ve gülümsedi. Araba yavaşça çiftlikten uzaklaştı.",
+   "KAHRAMAN eve döndüğünde çok şey öğrenmişti. Emek vermenin ve sorumluluğun değerini anlamıştı. Diktiği fidanı ise büyükbabası onun için büyütecekti."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN çiftlikte kimi ziyaret etti?",
+    "options": [
+     "Teyzesini",
+     "Büyükbabasını",
+     "Amcasını",
+     "Komşusunu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN'ı sabah ne uyandırdı?",
+    "options": [
+     "Çalar saat",
+     "Horozun ötüşü",
+     "Köpek havlaması",
+     "Yağmur sesi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN'ın ilk görevi neydi?",
+    "options": [
+     "İnekleri sağmak",
+     "Tavukları beslemek",
+     "Tarlayı sürmek",
+     "Ot biçmek"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Koyunları güderken KAHRAMAN'a hangi hayvan yardım etti?",
+    "options": [
+     "Çoban köpeği Karabaş",
+     "Benekli inek Sarıkız",
+     "Horoz",
+     "Kedi"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Fırtına gelince ne yaptılar?",
+    "options": [
+     "Eve kaçtılar",
+     "Hayvanları güvenli yere aldılar",
+     "Hiçbir şey yapmadılar",
+     "Uyudular"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Yağmurdan sonra gökyüzünde ne belirdi?",
+    "options": [
+     "Yıldızlar",
+     "Gökkuşağı",
+     "Ay",
+     "Bulut"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Büyükbaba KAHRAMAN'a ne verdi?",
+    "options": [
+     "Bir oyuncak",
+     "Küçük bir fidan",
+     "Bir kitap",
+     "Bir top"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN çiftlikte hangi değerleri öğrendi?",
+    "options": [
+     "Sorumluluk ve çalışkanlık",
+     "Hızlı koşmak",
+     "Yüksek zıplamak",
+     "Çok uyumak"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-05",
+  "baslik": "KAHRAMAN ve Kayıp Renkler",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN resim yapmayı çok seven bir çocuktu. Odası rengarenk resimlerle doluydu. En sevdiği şey gökkuşağı çizmekti.",
+   "Bir sabah KAHRAMAN uyandığında tuhaf bir şey oldu. Dünya rengini kaybetmişti. Her şey gri ve soluktu.",
+   "Ağaçlar, çiçekler, gökyüzü hepsi griydi. KAHRAMAN çok şaşırdı. 'Renkler nereye gitti?' diye düşündü.",
+   "Pencereden dışarı baktığında minik bir peri gördü. Perinin adı Işıl'dı ama o da soluk görünüyordu. 'Renkler çalındı,' dedi üzgünce.",
+   "Işıl anlattı: Renk Cini bütün renkleri Gökkuşağı Dağı'na kapatmıştı. Onları geri getirmek için yardım gerekiyordu. KAHRAMAN hemen kabul etti.",
+   "KAHRAMAN ve Işıl yola çıktılar. İlk durak Kırmızı Vadi'ydi. Ama vadi bomboş ve griydi.",
+   "Vadinin ortasında bir bilmece taşı vardı. Taş sordu: 'Elmanın, gülün ve ateşin rengi nedir?' KAHRAMAN gülümsedi.",
+   "'Kırmızı!' diye cevap verdi KAHRAMAN. Birden vadi kıpkırmızı oldu. Kırmızı renk geri gelmişti.",
+   "Sonra Sarı Tepe'ye gittiler. Oradaki taş sordu: 'Güneşin, limonun ve civcivin rengi nedir?' KAHRAMAN hemen bildi.",
+   "'Sarı!' dedi KAHRAMAN neşeyle. Tepe pırıl pırıl sarıya boyandı. Güneş yeniden parlıyordu.",
+   "Mavi Göl'e vardıklarında taş yine sordu: 'Denizin, gökyüzünün rengi nedir?' KAHRAMAN cevabı biliyordu.",
+   "'Mavi!' diye bağırdı. Göl masmavi oldu, gökyüzü aydınlandı. Üç renk geri gelmişti.",
+   "Şimdi sıra Yeşil Orman'daydı. Taş sordu: 'Yaprakların ve çimenlerin rengi nedir?' KAHRAMAN gülümsedi.",
+   "'Yeşil!' dedi ve orman canlandı. Ağaçlar yemyeşil oldu. Kuşlar sevinçle şarkı söyledi.",
+   "Artık Gökkuşağı Dağı'na varmışlardı. Renk Cini onları bekliyordu. Ama cin aslında kötü değildi, sadece yalnızdı.",
+   "Cin renkleri saklamıştı çünkü kimse onunla oynamıyordu. KAHRAMAN ona arkadaş olmayı teklif etti. Cinin gözleri parladı.",
+   "Renk Cini çok mutlu oldu ve bütün renkleri geri verdi. Gökyüzünde kocaman bir gökkuşağı belirdi. Dünya yeniden rengarenk oldu.",
+   "KAHRAMAN, Işıl ve Renk Cini birlikte gökkuşağının altında dans etti. Artık cin yalnız değildi. Yeni arkadaşları vardı.",
+   "KAHRAMAN eve döndüğünde her rengi daha çok sevdi. Renklerin ne kadar değerli olduğunu anlamıştı. O gün en güzel gökkuşağı resmini çizdi."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN en çok ne çizmeyi severdi?",
+    "options": [
+     "Araba",
+     "Gökkuşağı",
+     "Ev",
+     "Hayvan"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Bir sabah dünyada ne olmuştu?",
+    "options": [
+     "Renkler kaybolmuştu",
+     "Yağmur yağmıştı",
+     "Kar yağmıştı",
+     "Güneş doğmamıştı"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'a yardım eden perinin adı neydi?",
+    "options": [
+     "Işıl",
+     "Yıldız",
+     "Pırıl",
+     "Gökçe"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Elmanın, gülün ve ateşin rengi nedir?",
+    "options": [
+     "Mavi",
+     "Sarı",
+     "Kırmızı",
+     "Yeşil"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Denizin ve gökyüzünün rengi nedir?",
+    "options": [
+     "Mavi",
+     "Sarı",
+     "Kırmızı",
+     "Yeşil"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Renk Cini renkleri neden saklamıştı?",
+    "options": [
+     "Kötü olduğu için",
+     "Yalnız olduğu için",
+     "Renkleri sevmediği için",
+     "Şaka yaptığı için"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN cine ne teklif etti?",
+    "options": [
+     "Para vermeyi",
+     "Arkadaş olmayı",
+     "Hediye almayı",
+     "Gitmeyi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Hikayenin sonunda KAHRAMAN ne anladı?",
+    "options": [
+     "Renklerin değerli olduğunu",
+     "Resmin zor olduğunu",
+     "Uyumanın iyi olduğunu",
+     "Koşmanın güzel olduğunu"
+    ],
+    "correctAnswer": 0
+   }
+  ]
  }
 ]

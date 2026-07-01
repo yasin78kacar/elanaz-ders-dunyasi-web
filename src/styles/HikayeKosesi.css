@@ -172,3 +172,6 @@
 .test-sonuc-emoji { font-size: 56px; }
 .test-sonuc h2 { font-size: 26px; color: #1D9E75; margin: 8px 0; }
 .test-sonuc p { font-size: 16px; color: #888780; margin: 0 0 20px; }
+
+/* Kisa/Uzun hikaye sekmesi */
+.hikaye-uzunluk-sekme { margin-top: 10px; }
