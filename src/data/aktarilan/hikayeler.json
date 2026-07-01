@@ -3957,5 +3957,551 @@
     "correctAnswer": 0
    }
   ]
+ },
+ {
+  "id": "uzun-06",
+  "baslik": "KAHRAMAN ve Zamanda Yolculuk Müzesi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN bir cumartesi günü ailesiyle şehir müzesine gitti. Müze kocaman ve gizemliydi. İçeride eski eşyalar ve tablolar vardı.",
+   "KAHRAMAN meraklı gözlerle etrafına bakındı. Bir köşede tozlu, eski bir saat gördü. Saatin üzerinde tuhaf işaretler vardı.",
+   "KAHRAMAN saate dokunduğunda etrafı parladı. Birden kendini çok farklı bir yerde buldu. Burası çok eski zamanlardı.",
+   "Karşısında büyük taş bloklar ve develer vardı. İnsanlar piramitler inşa ediyordu. KAHRAMAN antik Mısır'a gelmişti.",
+   "Yanına güler yüzlü bir çocuk yaklaştı. Adı Nil'di ve orada yaşıyordu. Nil, KAHRAMAN'a piramitleri gezdirmeyi teklif etti.",
+   "Nil, piramitlerin nasıl yapıldığını anlattı. İnsanlar birlikte çalışarak dev taşları taşıyordu. KAHRAMAN dayanışmaya hayran kaldı.",
+   "Sonra saat yeniden parladı. KAHRAMAN bu kez farklı bir yere gitti. Şövalyeler ve büyük bir kale vardı.",
+   "Burası Orta Çağ'dı. Bir şövalye KAHRAMAN'ı nazikçe selamladı. Ona cesaretin ve dürüstlüğün önemini anlattı.",
+   "Kalede herkes bir işle meşguldü. Demirci kılıç yapıyor, aşçı yemek pişiriyordu. Herkes birbirine yardım ediyordu.",
+   "Saat tekrar parladı ve KAHRAMAN yine yolculuğa çıktı. Bu sefer büyük gemiler ve denizciler vardı. Kaşifler yeni topraklar arıyordu.",
+   "Bir kaşif KAHRAMAN'a pusulasını gösterdi. 'Cesaret ve merak insanı keşiflere götürür,' dedi. KAHRAMAN dikkatle dinledi.",
+   "Sonra saat KAHRAMAN'ı ilk uçakların olduğu zamana götürdü. İnsanlar gökyüzünde uçmayı yeni öğreniyordu. Bu çok heyecan vericiydi.",
+   "Bir mucit KAHRAMAN'a çizimlerini gösterdi. 'Hayal kurmak ve denemek başarının anahtarıdır,' dedi. KAHRAMAN bunu asla unutmadı.",
+   "KAHRAMAN her dönemde bir şey öğreniyordu. Geçmişteki insanlar çok çalışkan ve cesurdu. Onlar sayesinde bugün birçok şey vardı.",
+   "Son olarak saat KAHRAMAN'ı ilk bilgisayarların olduğu zamana götürdü. İnsanlar makinelerle harikalar yaratıyordu. Gelecek parlak görünüyordu.",
+   "KAHRAMAN artık evine dönmek istiyordu. Saate son bir kez dokundu. Etrafı yeniden parladı ve göz açıp kapayana kadar müzedeydi.",
+   "KAHRAMAN müzede, ailesinin yanındaydı. Sanki hiç zaman geçmemişti. Ama o, tarih boyunca yolculuk etmişti.",
+   "KAHRAMAN müzedeki her eşyaya artık farklı bakıyordu. Her birinin bir hikayesi olduğunu biliyordu. Tarih çok heyecan vericiydi.",
+   "Eve dönerken KAHRAMAN gördüklerini düşündü. Geçmişteki insanlardan çok şey öğrenmişti. Çalışkanlık, cesaret ve hayal gücü önemliydi.",
+   "O gece KAHRAMAN tarih kitaplarını karıştırdı. Artık okumak daha da eğlenceliydi. Belki bir gün kendisi de tarihe geçecekti."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN müzede neye dokununca zamanda yolculuk yaptı?",
+    "options": [
+     "Eski bir tabloya",
+     "Tozlu, eski bir saate",
+     "Bir vazoya",
+     "Bir kılıca"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "İlk olarak KAHRAMAN hangi döneme gitti?",
+    "options": [
+     "Orta Çağ",
+     "Antik Mısır",
+     "Uzay çağı",
+     "Buz devri"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Antik Mısır'da KAHRAMAN'a rehberlik eden çocuğun adı neydi?",
+    "options": [
+     "Nil",
+     "Ali",
+     "Can",
+     "Efe"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Şövalye KAHRAMAN'a neyin önemini anlattı?",
+    "options": [
+     "Hızlı koşmanın",
+     "Cesaret ve dürüstlüğün",
+     "Çok yemenin",
+     "Uyumanın"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Kaşif KAHRAMAN'a neyi gösterdi?",
+    "options": [
+     "Kılıcını",
+     "Pusulasını",
+     "Yemeğini",
+     "Atını"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Mucit başarının anahtarı olarak neyi söyledi?",
+    "options": [
+     "Çok para",
+     "Hayal kurmak ve denemek",
+     "Çok uyumak",
+     "Hızlı olmak"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN geçmişteki insanlardan hangi özellikleri öğrendi?",
+    "options": [
+     "Çalışkanlık, cesaret ve hayal gücü",
+     "Tembellik",
+     "Korkaklık",
+     "Bencillik"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Hikayenin sonunda KAHRAMAN için ne daha eğlenceli oldu?",
+    "options": [
+     "Uyumak",
+     "Okumak",
+     "Koşmak",
+     "Yemek"
+    ],
+    "correctAnswer": 1
+   }
+  ]
+ },
+ {
+  "id": "uzun-07",
+  "baslik": "KAHRAMAN ve Sihirli Orkestra",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN müziği çok seven neşeli bir çocuktu. Her sabah şarkılar mırıldanırdı. Ama hiç müzik aleti çalmayı bilmiyordu.",
+   "Bir gün okuldan dönerken tuhaf sesler duydu. Sesler eski bir binadan geliyordu. KAHRAMAN merakla içeri girdi.",
+   "İçerisi tozlu ama güzel bir konser salonuydu. Sahnede birçok müzik aleti duruyordu. Ama hepsi sessizdi ve üzgün görünüyordu.",
+   "Birden küçük bir keman canlandı ve konuştu. 'Uzun zamandır kimse bizi çalmıyor,' dedi üzgünce. KAHRAMAN çok şaşırdı.",
+   "Keman anlattı: Bu sihirli aletler ancak sevgiyle çalınırsa ses verebiliyordu. Ama yıllardır kimse gelmemişti. KAHRAMAN yardım etmek istedi.",
+   "Önce kemanı eline aldı. Nazikçe yayı tellere sürdü. Keman yumuşak, güzel bir ses çıkardı.",
+   "Keman sevinçle parladı. 'Teşekkür ederim! İçimdeki müziği geri getirdin,' dedi. KAHRAMAN çok mutlu oldu.",
+   "Sonra büyük davula gitti. Davul biraz somurtkandı çünkü çok gürültücü olduğunu düşünüyordu. KAHRAMAN ona nazikçe vurdu.",
+   "Davulun sesi salonu doldurdu. 'Demek benim de güzel bir sesim varmış,' dedi davul mutlulukla. Artık kendini değerli hissediyordu.",
+   "KAHRAMAN sırayla bütün aletleri denedi. Flüt ince ve tatlı öttü. Piyano neşeyle şıngırdadı.",
+   "Her alet farklı bir ses çıkarıyordu. Ama KAHRAMAN bir şey fark etti. Tek başlarına güzeldiler ama birlikte çalınca harikaydılar.",
+   "KAHRAMAN aletlere bir fikir sundu. 'Hep birlikte çalalım!' dedi. Bir orkestra kuracaklardı.",
+   "Keman, davul, flüt ve piyano birlikte çalmaya başladı. Salon muhteşem bir müzikle doldu. Her ses birbirini tamamlıyordu.",
+   "Müzik o kadar güzeldi ki dışarıdan insanlar duydu. Yavaş yavaş salona girmeye başladılar. Herkes hayranlıkla dinliyordu.",
+   "İnsanlar alkışladı ve dans etti. Uzun zamandır sessiz olan salon şimdi neşeyle doluydu. Aletler çok mutluydu.",
+   "Bir alet KAHRAMAN'a döndü. 'Sen bize en önemli şeyi öğrettin: birlikte olmanın gücünü,' dedi. KAHRAMAN gururla gülümsedi.",
+   "O günden sonra salon her gün doldu. İnsanlar müzik dinlemeye ve öğrenmeye geldi. KAHRAMAN da keman çalmayı öğrendi.",
+   "KAHRAMAN artık her hafta salona gidiyordu. Yeni gelen çocuklara müzik aletlerini tanıtıyordu. Müzik sevgisini paylaşıyordu.",
+   "KAHRAMAN müziğin insanları birleştirdiğini anlamıştı. Tıpkı orkestra gibi, birlikte olunca her şey daha güzeldi. O gece mutlu bir şarkıyla uykuya daldı."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN neyi çok severdi ama çalmayı bilmiyordu?",
+    "options": [
+     "Futbol",
+     "Müzik",
+     "Resim",
+     "Dans"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Konser salonunda ilk hangi alet konuştu?",
+    "options": [
+     "Davul",
+     "Küçük bir keman",
+     "Flüt",
+     "Piyano"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Sihirli aletler nasıl ses verebiliyordu?",
+    "options": [
+     "Elektrikle",
+     "Sevgiyle çalınırsa",
+     "Rüzgarla",
+     "Suyla"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Davul neden somurtkandı?",
+    "options": [
+     "Çok gürültücü olduğunu düşündüğü için",
+     "Kırık olduğu için",
+     "Küçük olduğu için",
+     "Eski olduğu için"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN aletlerle ilgili neyi fark etti?",
+    "options": [
+     "Hepsinin bozuk olduğunu",
+     "Birlikte çalınca harika olduklarını",
+     "Çok eski olduklarını",
+     "Ağır olduklarını"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN aletlere hangi fikri sundu?",
+    "options": [
+     "Onları satmayı",
+     "Hep birlikte çalmayı",
+     "Onları saklamayı",
+     "Gitmeyi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Müziği duyan insanlar ne yaptı?",
+    "options": [
+     "Kaçtılar",
+     "Salona gelip dinlediler",
+     "Uyudular",
+     "Kızdılar"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN bu maceradan neyi anladı?",
+    "options": [
+     "Müziğin insanları birleştirdiğini",
+     "Yalnız olmanın iyi olduğunu",
+     "Gürültünün kötü olduğunu",
+     "Uyumanın önemini"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-08",
+  "baslik": "KAHRAMAN ve Küçük Tohum",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN bir ilkbahar sabahı büyükannesini ziyaret etti. Büyükannenin küçük ama güzel bir bahçesi vardı. Her yer çiçeklerle doluydu.",
+   "Büyükanne KAHRAMAN'a avucunu açtırdı. İçine minik, kahverengi bir tohum koydu. 'Bu senin,' dedi gülümseyerek.",
+   "KAHRAMAN tohuma şaşkınlıkla baktı. 'Bu kadar küçük bir şeyden ne olur ki?' diye düşündü. Büyükanne sadece gülümsedi.",
+   "'Bu tohumu dikersen ve ona bakarsan, büyük bir sürprizle karşılaşırsın,' dedi büyükanne. KAHRAMAN merak etti ve tohumu dikmeye karar verdi.",
+   "Büyükanne ona nasıl dikeceğini gösterdi. Önce toprakta küçük bir çukur açtılar. Tohumu içine koyup üzerini toprakla örttüler.",
+   "'Şimdi ona su vermelisin,' dedi büyükanne. KAHRAMAN küçük kovayla tohumu suladı. Toprak güzelce ıslandı.",
+   "Ertesi gün KAHRAMAN heyecanla bahçeye koştu. Ama toprakta hiçbir şey yoktu. Biraz hayal kırıklığına uğradı.",
+   "Büyükanne onu teselli etti. 'Sabırlı ol,' dedi. 'Güzel şeyler zaman ister.' KAHRAMAN her gün tohumunu sulamaya devam etti.",
+   "Günler geçti. KAHRAMAN sabırla bekledi ve tohumuna baktı. Bir hafta sonra toprakta minik yeşil bir filiz belirdi.",
+   "KAHRAMAN sevinçten zıpladı. 'Büyümeye başladı!' diye bağırdı. Filiz her gün biraz daha uzuyordu.",
+   "KAHRAMAN filizi güneşten ve rüzgardan korudu. Ona düzenli su verdi. Yabani otları temizledi.",
+   "Filiz artık küçük bir bitki olmuştu. Üzerinde minik yapraklar açıyordu. KAHRAMAN emeğinin karşılığını görüyordu.",
+   "Bir sabah KAHRAMAN bahçeye geldiğinde gözlerine inanamadı. Bitkinin üzerinde küçük bir tomurcuk vardı. Yakında bir çiçek açacaktı.",
+   "KAHRAMAN tomurcuğu her gün izledi. Sonunda bir sabah tomurcuk açıldı. Kocaman, sarı bir ayçiçeği ortaya çıktı.",
+   "Ayçiçeği o kadar güzeldi ki KAHRAMAN büyülendi. O minik tohumdan bu koca çiçek çıkmıştı. Sabrının karşılığını almıştı.",
+   "Büyükanne KAHRAMAN'ın yanına geldi. 'Gördün mü? Sabır ve emek harikalar yaratır,' dedi. KAHRAMAN gururla başını salladı.",
+   "Ayçiçeği güneşe doğru dönüyordu. Arılar çiçeğin etrafında uçuşuyordu. Bahçe artık daha da güzeldi.",
+   "KAHRAMAN bir şey daha öğrendi. Ayçiçeğinin ortasındaki tohumlar, yeni ayçiçekleri olabilirdi. Doğa böyle devam ediyordu.",
+   "KAHRAMAN o tohumları topladı ve sakladı. Gelecek bahar onları da dikecekti. Sabrın ve emeğin ne kadar değerli olduğunu asla unutmayacaktı."
+  ],
+  "sorular": [
+   {
+    "question": "Büyükanne KAHRAMAN'a ne verdi?",
+    "options": [
+     "Bir çiçek",
+     "Minik bir tohum",
+     "Bir oyuncak",
+     "Bir kova"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN ilk başta tohum hakkında ne düşündü?",
+    "options": [
+     "Çok güzel olduğunu",
+     "Bu kadar küçük şeyden bir şey olmayacağını",
+     "Yenilebileceğini",
+     "Renkli olduğunu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Tohumu diktikten sonra KAHRAMAN ne yaptı?",
+    "options": [
+     "Unuttu",
+     "Her gün suladı",
+     "Kopardı",
+     "Sattı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Toprakta ilk ne belirdi?",
+    "options": [
+     "Bir çiçek",
+     "Minik yeşil bir filiz",
+     "Bir böcek",
+     "Bir taş"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Büyükanne KAHRAMAN'a ne öğütledi?",
+    "options": [
+     "Aceleci olmayı",
+     "Sabırlı olmayı",
+     "Vazgeçmeyi",
+     "Beklememeyi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Tohumdan sonunda ne açtı?",
+    "options": [
+     "Bir gül",
+     "Kocaman bir ayçiçeği",
+     "Bir lale",
+     "Bir papatya"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN ayçiçeğinin tohumlarını ne yaptı?",
+    "options": [
+     "Attı",
+     "Topladı ve sakladı",
+     "Yedi",
+     "Kaybetti"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN bu hikayede hangi değeri öğrendi?",
+    "options": [
+     "Sabır ve emek",
+     "Acelecilik",
+     "Bencillik",
+     "Tembellik"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-09",
+  "baslik": "KAHRAMAN ve Kar Ülkesi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN kışı çok severdi. Bir sabah uyandığında her yer bembeyazdı. Gece boyunca kar yağmıştı.",
+   "KAHRAMAN hemen kalın montunu, atkısını ve eldivenlerini giydi. Dışarı koştu. Karlar ayağının altında çıtırdıyordu.",
+   "Bahçede bir kardan adam yapmaya karar verdi. Büyük bir kar topu yuvarladı. Sonra üzerine daha küçük iki top koydu.",
+   "Kardan adama havuçtan burun taktı. Düğmelerden gözler yaptı. Başına da eski bir şapka koydu.",
+   "Tam o sırada kardan adam canlandı! KAHRAMAN çok şaşırdı. Kardan adamın adı Pamuk'tu ve çok sevimliydi.",
+   "Pamuk üzgün görünüyordu. 'Kar Ülkesi'nden geldim ama yolumu kaybettim,' dedi. KAHRAMAN ona yardım etmeye söz verdi.",
+   "Pamuk, Kar Ülkesi'nin kuzeyde olduğunu söyledi. İki arkadaş birlikte yola çıktı. Kar üstünde neşeyle yürüdüler.",
+   "Yolda buz tutmuş bir göle geldiler. Gölün üzerinden geçmeleri gerekiyordu. Ama buz ince görünüyordu.",
+   "KAHRAMAN dikkatli olmaya karar verdi. Önce bir dalla buzu kontrol etti. Sağlam yerlerden yavaşça geçtiler.",
+   "Karşıya güvenle geçtiler. Pamuk KAHRAMAN'a teşekkür etti. 'Dikkatli olmasan düşebilirdik,' dedi.",
+   "Yollarına devam ederken küçük bir tavşan gördüler. Tavşan karda üşümüştü ve titriyordu. KAHRAMAN atkısını ona sardı.",
+   "Tavşan ısındı ve mutlu oldu. Teşekkür etmek için onlara yolu gösterdi. Kar Ülkesi'ne giden kısa yolu biliyordu.",
+   "Tavşanın gösterdiği yoldan gittiler. Karşılarına muhteşem bir manzara çıktı. Buzdan saraylar ve parlayan kar tepeleri vardı.",
+   "Burası Kar Ülkesi'ydi! Her yer pırıl pırıl parlıyordu. Kardan insanlar neşeyle kayak yapıyordu.",
+   "Pamuk evine kavuştuğu için çok mutluydu. Ailesi onu görünce sevinçle koştu. Herkes KAHRAMAN'a teşekkür etti.",
+   "Kar Ülkesi'nin kraliçesi KAHRAMAN'a geldi. 'Yardımseverliğin ve dikkatin için sana bir armağan vereceğim,' dedi. Ona hiç erimeyen bir kar tanesi hediye etti.",
+   "Bu sihirli kar tanesi KAHRAMAN'ı üzgün olduğunda mutlu ederdi. KAHRAMAN çok sevindi. Artık eve dönme vakti gelmişti.",
+   "Pamuk ve tavşan KAHRAMAN'a veda etti. 'Seni hiç unutmayacağız,' dediler. KAHRAMAN da onları özleyecekti.",
+   "KAHRAMAN eve döndüğünde hava kararıyordu. Pencereden dışarı baktı ve gülümsedi. Yardımlaşmanın ve dikkatli olmanın ne kadar güzel olduğunu öğrenmişti."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN sabah uyandığında ne gördü?",
+    "options": [
+     "Yağmur yağdığını",
+     "Her yerin bembeyaz olduğunu",
+     "Güneşin açtığını",
+     "Rüzgar estiğini"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Canlanan kardan adamın adı neydi?",
+    "options": [
+     "Pamuk",
+     "Karlı",
+     "Beyaz",
+     "Buz"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Pamuk neden üzgündü?",
+    "options": [
+     "Acıktığı için",
+     "Yolunu kaybettiği için",
+     "Üşüdüğü için",
+     "Yalnız olduğu için"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Buz tutmuş gölü geçerken KAHRAMAN ne yaptı?",
+    "options": [
+     "Koşarak geçti",
+     "Bir dalla buzu kontrol etti",
+     "Atladı",
+     "Geri döndü"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN üşüyen tavşana ne yaptı?",
+    "options": [
+     "Görmezden geldi",
+     "Atkısını ona sardı",
+     "Kovaladı",
+     "Su verdi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Tavşan teşekkür etmek için ne yaptı?",
+    "options": [
+     "Havuç verdi",
+     "Kısa yolu gösterdi",
+     "Şarkı söyledi",
+     "Zıpladı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Kraliçe KAHRAMAN'a ne hediye etti?",
+    "options": [
+     "Altın taç",
+     "Hiç erimeyen bir kar tanesi",
+     "Kayak",
+     "Eldiven"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN bu maceradan ne öğrendi?",
+    "options": [
+     "Yardımlaşmanın ve dikkatli olmanın güzelliğini",
+     "Hızlı koşmayı",
+     "Kar yapmayı",
+     "Uyumayı"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-10",
+  "baslik": "KAHRAMAN ve Gökyüzü Balonu",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN gökyüzünü izlemeyi çok severdi. Bir gün panayırda rengarenk bir sıcak hava balonu gördü. Balon kocaman ve çok güzeldi.",
+   "Balonun sahibi güler yüzlü bir amcaydı. KAHRAMAN'a balona binmek isteyip istemediğini sordu. KAHRAMAN heyecanla kabul etti.",
+   "Balon yavaşça yükselmeye başladı. KAHRAMAN aşağıya baktığında ağızı açık kaldı. Evler, ağaçlar minicik görünüyordu.",
+   "Balon bulutların arasına doğru yükseldi. Bulutlar pamuk şekeri gibiydi. KAHRAMAN elini uzatıp onlara dokunmak istedi.",
+   "Birden hafif bir rüzgar çıktı. Balon farklı bir yöne doğru süzülmeye başladı. KAHRAMAN biraz endişelendi ama korkmadı.",
+   "Rüzgar balonu güzel bir vadinin üzerine getirdi. Aşağıda küçük bir kuş sürüsü uçuyordu. Kuşlar balonun etrafında neşeyle döndü.",
+   "Kuşların lideri KAHRAMAN'a seslendi. 'Merhaba dostum! Bizimle uçmak ister misin?' dedi. KAHRAMAN çok sevindi.",
+   "Balon kuşlarla birlikte süzüldü. Kuşlar KAHRAMAN'a gökyüzünün sırlarını anlattı. Rüzgarı nasıl kullandıklarını gösterdiler.",
+   "Kuşlar, rüzgara karşı savaşmak yerine onunla birlikte hareket ettiklerini söyledi. KAHRAMAN bunun akıllıca olduğunu düşündü. Bazen zorluklarla uğraşmak yerine onlara uyum sağlamak gerekiyordu.",
+   "Yolculuk sırasında aşağıda üzgün bir çocuk gördüler. Çocuğun uçurtması bir ağaca takılmıştı. KAHRAMAN yardım etmek istedi.",
+   "Balon yavaşça alçaldı. KAHRAMAN dikkatlice uzandı ve uçurtmayı ağaçtan kurtardı. Aşağıdaki çocuğa geri verdi.",
+   "Çocuk sevinçten zıpladı ve el salladı. 'Çok teşekkür ederim!' diye bağırdı. KAHRAMAN yardım etmenin mutluluğunu yaşadı.",
+   "Balon tekrar yükseldi. Güneş yavaş yavaş batmaya başlıyordu. Gökyüzü turuncu ve pembe renklere büründü.",
+   "KAHRAMAN bu manzaranın tadını çıkardı. Kuşlar ona veda şarkısı söyledi. 'Seninle uçmak çok güzeldi,' dediler.",
+   "Balon sahibi amca balonu yavaşça indirmeye başladı. Panayıra doğru süzüldüler. KAHRAMAN'ın kalbi mutlulukla doluydu.",
+   "Balon yumuşak bir şekilde yere kondu. KAHRAMAN balondan indi. Ama gökyüzündeki maceray asla unutmayacaktı.",
+   "Balon sahibi amca KAHRAMAN'a gülümsedi. 'İyi kalpli bir çocuksun,' dedi. 'Uçurtmayı kurtarman çok güzeldi.'",
+   "KAHRAMAN eve dönerken gökyüzüne baktı. Kuşların hâlâ orada uçtuğunu hayal etti. Onlardan güzel bir ders almıştı.",
+   "O gece KAHRAMAN yatağına uzandı. Rüzgarla nasıl uyum sağlanacağını ve yardımlaşmanın güzelliğini düşündü. Gülümseyerek gökyüzünün hayaliyle uykuya daldı."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN panayırda ne gördü?",
+    "options": [
+     "Bir tren",
+     "Rengarenk bir sıcak hava balonu",
+     "Bir gemi",
+     "Bir uçak"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Balon yükselince aşağıdaki evler nasıl görünüyordu?",
+    "options": [
+     "Kocaman",
+     "Minicik",
+     "Renkli",
+     "Karanlık"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Kuşlar rüzgarla nasıl başa çıkıyordu?",
+    "options": [
+     "Ona karşı savaşarak",
+     "Onunla birlikte hareket ederek",
+     "Ondan kaçarak",
+     "Durarak"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Aşağıdaki çocuğun sorunu neydi?",
+    "options": [
+     "Topu kaybolmuştu",
+     "Uçurtması ağaca takılmıştı",
+     "Düşmüştü",
+     "Kaybolmuştu"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN çocuğa nasıl yardım etti?",
+    "options": [
+     "Ona para verdi",
+     "Uçurtmasını ağaçtan kurtardı",
+     "Yeni uçurtma aldı",
+     "Onu balona bindirdi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Balondayken günün hangi vakti geldi?",
+    "options": [
+     "Sabah",
+     "Güneş batıyordu",
+     "Gece yarısı",
+     "Öğle"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Balon sahibi amca KAHRAMAN için ne dedi?",
+    "options": [
+     "Yaramaz bir çocuk",
+     "İyi kalpli bir çocuk",
+     "Korkak bir çocuk",
+     "Tembel bir çocuk"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN kuşlardan hangi dersi aldı?",
+    "options": [
+     "Rüzgarla uyum sağlamayı",
+     "Hızlı uçmayı",
+     "Yüksek çıkmayı",
+     "Şarkı söylemeyi"
+    ],
+    "correctAnswer": 0
+   }
+  ]
  }
 ]
