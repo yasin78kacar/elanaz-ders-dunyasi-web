@@ -8343,5 +8343,555 @@
     "correctAnswer": 1
    }
   ]
+ },
+ {
+  "id": "uzun-46",
+  "baslik": "KAHRAMAN ve Kendi Rengi",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN resim yapmayı severdi ama bir sorunu vardı. Hep başkalarının resimlerine bakıp aynısını yapmaya çalışıyordu.",
+   "Sınıfta Ela'nın kelebekleri meşhurdu. KAHRAMAN da kelebek çizdi ama Ela'nınki gibi olmadı. Buruşturup attı.",
+   "Sonra Mert'in uzay resimleri beğenildi. KAHRAMAN uzay çizdi. Yine olmadı. 'Ben resim yapamıyorum,' diye düşündü.",
+   "Resim öğretmeni Nil Hanım, KAHRAMAN'ın çöpe attığı resimleri fark etti. Onları düzeltip baktı ve KAHRAMAN'ı yanına çağırdı.",
+   "'Bu resimleri neden attın?' diye sordu. KAHRAMAN başını öne eğdi: 'Ela'nınki gibi güzel olmadı. Mert'inki gibi de.'",
+   "Nil Hanım gülümsedi. 'İşte sorun tam da bu,' dedi. 'Sen Ela ya da Mert olmaya çalışıyorsun. Ama sen KAHRAMAN'sın.'",
+   "'Bak,' dedi ve attığı resmi gösterdi. 'Bu kelebeğin kanatlarındaki desenler bambaşka. Kimse böyle çizmemişti. Bu senin rengin.'",
+   "KAHRAMAN şaşırdı. Yanlış sandığı desenler, aslında özgün müydü? Nil Hanım devam etti: 'Sanat, kopyalamak değil, kendini anlatmaktır.'",
+   "Nil Hanım ona bir ödev verdi: 'Bu hafta kimseye bakmadan, sadece içinden geleni çiz. Konu serbest.'",
+   "KAHRAMAN eve gidip düşündü. İçinden ne geliyordu? Gözlerini kapattı. Aklına dedesinin köyündeki yıldızlı geceler geldi.",
+   "Çizmeye başladı. Ama gökyüzünü mor yaptı! Yıldızları da kocaman, sarı çiçekler gibi çizdi. Kurallara uymuyordu ama içinden böyle geliyordu.",
+   "Resmi bitirince tereddüt etti. 'Mor gökyüzü mü olur? Herkes güler.' Ama Nil Hanım'ın sözünü hatırladı ve resmi okula götürdü.",
+   "Nil Hanım resmi görünce gözleri parladı. 'İşte bu!' dedi. 'Mor gecende yıldızlar çiçek açmış. Bu, senden başkasının çizemeyeceği bir resim.'",
+   "Resim, sınıf panosuna asıldı. Çocuklar etrafına toplandı. 'Ne kadar farklı!' dediler. 'Gökyüzü mor ama çok güzel durmuş!'",
+   "Ela bile hayran kaldı: 'Ben hep aynı kelebekleri çiziyorum. Sen bambaşka bir dünya çizmişsin. Bana da öğretir misin?'",
+   "KAHRAMAN güldü: 'Öğretemem ki! Çünkü ben de senin kelebeklerini çizemem. Herkes kendi dünyasını çizebilir sadece.'",
+   "O dönem okulda resim sergisi açıldı. KAHRAMAN'ın 'Mor Gece' tablosu sergide yer aldı. Altında ismi yazıyordu.",
+   "Dedesi sergiye geldi. Torununun resmine uzun uzun baktı. 'Bu bizim köyün gecesi,' dedi gözleri dolarak. 'Aynı böyle hissettirir.'",
+   "KAHRAMAN o an anladı: Resmi 'doğru' olduğu için değil, 'içten' olduğu için güzeldi. Dedesi moru görmemişti, duyguyu görmüştü.",
+   "KAHRAMAN artık kimseyi taklit etmiyordu. Fırçasını kendi hayal gücüne daldırıyordu. Çünkü öğrenmişti: Herkesin kendine ait bir rengi vardır. Önemli olan, onu bulma cesaretidir."
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN'ın resim sorunu neydi?",
+    "options": [
+     "Başkalarını taklit etmeye çalışıyordu",
+     "Eli titriyordu",
+     "Boyası yoktu",
+     "Resmi sevmiyordu"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Nil Hanım'a göre sanat nedir?",
+    "options": [
+     "Yarışmaktır",
+     "Kendini anlatmaktır",
+     "Kopyalamaktır",
+     "Boyamaktır"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Nil Hanım'ın verdiği ödev neydi?",
+    "options": [
+     "Kimseye bakmadan içinden geleni çizmek",
+     "Portre çizmek",
+     "Kelebek çizmek",
+     "Uzay çizmek"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN gökyüzünü hangi renge boyadı?",
+    "options": [
+     "Siyah",
+     "Yeşil",
+     "Mor",
+     "Mavi"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "KAHRAMAN yıldızları neye benzetti?",
+    "options": [
+     "Kocaman sarı çiçeklere",
+     "Elmaslara",
+     "Noktalara",
+     "Toplara"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Ela, KAHRAMAN'ın resmi için ne dedi?",
+    "options": [
+     "Çok kötü olmuş",
+     "Yanlış renk",
+     "Kelebek daha güzel",
+     "Bambaşka bir dünya çizmişsin"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Dedesi resimde neyi gördü?",
+    "options": [
+     "Bir hata",
+     "Köyünün gecesini ve duyguyu",
+     "Bir kelebek",
+     "Sadece mor rengi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Hikayenin ana mesajı nedir?",
+    "options": [
+     "Mor en güzel renktir",
+     "Taklit iyidir",
+     "Herkesin kendine ait bir rengi vardır",
+     "Resim zordur"
+    ],
+    "correctAnswer": 2
+   }
+  ]
+ },
+ {
+  "id": "uzun-47",
+  "baslik": "KAHRAMAN ve İyilik Zinciri",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "Bir sabah okula giderken yağmur başladı. KAHRAMAN şemsiyesini açtı. Yolda şemsiyesiz, ıslanan yaşlı bir amca gördü.",
+   "Amca pazar arabasını çekiyor, yağmurdan korunmaya çalışıyordu. KAHRAMAN hiç düşünmeden yanına gitti.",
+   "'Amca, şemsiyemi paylaşalım,' dedi. 'Nereye gidiyorsanız birlikte yürüyelim.' Amca çok duygulandı.",
+   "Birlikte yürüdüler. Amca pazarcıydı ve tezgahına gidiyordu. Yolda sohbet ettiler. Amca gençliğinden hikayeler anlattı.",
+   "Tezgaha vardıklarında amca teşekkür etti. 'Bu iyiliğini unutmayacağım,' dedi. KAHRAMAN gülümseyip okula koştu.",
+   "KAHRAMAN bilmiyordu ama o sabah bir zincir başlatmıştı. Pazarcı amca, çocuğun iyiliğinden çok etkilenmişti.",
+   "O gün amca, tezgahına gelen yorgun bir anneye fazladan meyve verdi. 'Bugün iyilik günü,' dedi gülümseyerek. 'Parası benden.'",
+   "O anne eve dönerken otobüste yaşlı bir teyzeye yer verdi ve poşetlerini taşıdı. Teyze çok mutlu oldu.",
+   "Teyze evine varınca, kapı komşusu olan öğretmene taze böreklerinden götürdü. 'Canın çeksin diye yaptım,' dedi.",
+   "Öğretmen o akşam ödevleri okurken her zamankinden daha sabırlıydı. Zorlanan bir öğrenciye ertesi gün ek ders verdi.",
+   "O öğrenci, matematiği anlamaya başlayınca çok sevindi. Sevincinden, okul bahçesinde düşen bir çocuğa koşup yardım etti.",
+   "Ve o düşen çocuk... KAHRAMAN'dı! Dizini kanatmıştı ve canı yanıyordu. Yardım eden çocuk onu revire götürdü.",
+   "'Çok naziksin, teşekkürler,' dedi KAHRAMAN. Çocuk gülümsedi: 'Bugün bana da biri iyilik yaptı. Sıra bendeydi.'",
+   "KAHRAMAN eve dönünce annesine gününü anlattı: sabahki amcayı, dizini, yardım eden çocuğu... Annesi gülümsedi.",
+   "'Biliyor musun,' dedi annesi, 'iyilik bir bumerang gibidir. Fırlatırsın, döner dolaşır, sana geri gelir.'",
+   "KAHRAMAN düşündü: 'Yani benim sabah amcaya yaptığım iyilik... bana mı döndü?' Annesi omuz silkti: 'Kim bilir? İyilik zincirleri görünmezdir.'",
+   "Ertesi gün pazara uğradılar. Pazarcı amca KAHRAMAN'ı görünce sevinçle bağırdı: 'İşte benim şemsiyeli dostum!'",
+   "Amca, KAHRAMAN'a en güzel elmalarından bir torba hazırladı. 'O gün bana sadece şemsiye tutmadın,' dedi. 'Gün boyu içim iyilik doldu, ben de herkese dağıttım.'",
+   "KAHRAMAN o an zinciri gördü. Bir şemsiye, bir torba elmaya; bir iyilik, sayısız iyiliğe dönüşmüştü.",
+   "O gece KAHRAMAN günlüğüne şunu yazdı: 'İyilik küçük olmaz. En küçük iyilik bile, dünyayı biraz daha güzel yapar. Ve mutlaka geri döner.'"
+  ],
+  "sorular": [
+   {
+    "question": "KAHRAMAN yağmurda kime yardım etti?",
+    "options": [
+     "Şemsiyesiz yaşlı bir amcaya",
+     "Arkadaşına",
+     "Bir kediye",
+     "Öğretmenine"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Pazarcı amca kime fazladan meyve verdi?",
+    "options": [
+     "Komşusuna",
+     "Yorgun bir anneye",
+     "Kimseye",
+     "Bir çocuğa"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Otobüste anne ne yaptı?",
+    "options": [
+     "Yaşlı teyzeye yer verdi",
+     "Kitap okudu",
+     "Telefonla konuştu",
+     "Uyudu"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Öğretmen zorlanan öğrenciye ne yaptı?",
+    "options": [
+     "Görmezden geldi",
+     "Ceza verdi",
+     "Ek ders verdi",
+     "Kızdı"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "İyilik zinciri sonunda kime ulaştı?",
+    "options": [
+     "Kimseye",
+     "KAHRAMAN'a",
+     "Muhtara",
+     "Doktora"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Anne iyiliği neye benzetti?",
+    "options": [
+     "Zincire",
+     "Şemsiyeye",
+     "Topa",
+     "Bumeranga"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Pazarcı amca KAHRAMAN'a ne hazırladı?",
+    "options": [
+     "Para",
+     "Bir torba elma",
+     "Bir şemsiye",
+     "Bir kitap"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "KAHRAMAN günlüğüne ne yazdı?",
+    "options": [
+     "İyilik küçük olmaz, mutlaka geri döner",
+     "Elma lezzetlidir",
+     "Yağmur kötüdür",
+     "Pazar kalabalıktır"
+    ],
+    "correctAnswer": 0
+   }
+  ]
+ },
+ {
+  "id": "uzun-48",
+  "baslik": "KAHRAMAN ve Zaman Kapsülü",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "Okulun bahçesinde büyük bir yenileme çalışması vardı. İşçiler eski çınarın yanını kazarken kürek metal bir şeye çarptı.",
+   "Topraktan paslı, eski bir kutu çıktı. Üzerinde bir yazı vardı: 'Zaman Kapsülü - 50 yıl sonra açılacak. 1976.'",
+   "Bütün okul heyecanlandı. Kapsül tam da bu yıl açılmalıydı! Müdür, açılış için özel bir tören düzenledi.",
+   "Tören günü kutu dikkatlice açıldı. İçinden neler çıkmadı ki: eski fotoğraflar, mektuplar, bir gazete, oyuncak bir topaç ve siyah-beyaz bir sınıf resmi.",
+   "Mektuplardan biri yüksek sesle okundu: 'Merhaba gelecekteki öğrenciler! Biz 1976 yılının çocuklarıyız. Acaba sizin zamanınızda arabalar uçuyor mu?'",
+   "Herkes güldü. Mektupta devam ediyordu: 'Bizim en büyük eğlencemiz misket oynamak ve topaç çevirmek. Sizinki nedir?'",
+   "KAHRAMAN eski fotoğraflara baktı. Çocuklar şort pantolonlu, saçları taralıydı. Okul aynı okuldu ama her şey farklıydı.",
+   "Bir fotoğrafın arkasında not vardı: 'Bahçedeki çınarı biz diktik. Umarız büyür ve size gölge verir.' KAHRAMAN şaşırdı.",
+   "O koca çınar... 50 yıl önce bir avuç çocuğun diktiği fidancıktı! KAHRAMAN her gün altında oynadığı ağaca hayranlıkla baktı.",
+   "Müdür duyuru yaptı: 'Şimdi sıra bizde! Biz de bir zaman kapsülü hazırlayacağız. 50 yıl sonranın çocuklarına.'",
+   "Her sınıf bir şeyler hazırlayacaktı. KAHRAMAN'ın sınıfı toplantı yaptı. 'Ne koyalım?' diye tartıştılar.",
+   "Kimisi oyuncak dedi, kimisi fotoğraf. KAHRAMAN bir öneri sundu: 'Mektup yazalım. Onlar da bize yazmıştı, ne güzel olmuştu.'",
+   "KAHRAMAN mektubuna şöyle başladı: 'Merhaba 50 yıl sonranın çocuğu! Ben KAHRAMAN. Sana bugünü anlatayım...'",
+   "'Bizim zamanımızda tabletler var ama ben en çok bahçede oynamayı seviyorum. Acaba sizin zamanınızda çocuklar hâlâ saklambaç oynuyor mu?'",
+   "Mektubun sonuna bir dilek ekledi: 'Bahçeye bir fidan diktik, tıpkı 1976'daki çocuklar gibi. Umarım senin zamanında kocaman bir ağaçtır. Altında bizi hatırla.'",
+   "Gerçekten de sınıfça bahçeye bir fidan diktiler. Kapsüle mektuplar, sınıf fotoğrafı, bir oyuncak araba ve o günün gazetesi kondu.",
+   "Kapsül, yeni dikilen fidanın yanına gömüldü. Üzerine bir taş kondu: 'Zaman Kapsülü - 50 yıl sonra açılacak.'",
+   "KAHRAMAN toprağa bakarken tuhaf bir duygu hissetti. Bugün yazdığı mektubu, henüz doğmamış bir çocuk okuyacaktı.",
+   "O akşam babası sordu: 'Kapsüle ne koydun?' KAHRAMAN anlattı ve ekledi: 'Baba, demek ki bugün yaptıklarımız yarına kalıyor.'",
+   "Babası başını salladı: 'Aynen öyle. Ağaç diken, mektup yazan, iyilik eden... hepsi geleceğe iz bırakır. Sen bugün 50 yıl sonraya dokundun.'"
+  ],
+  "sorular": [
+   {
+    "question": "Bahçede kazı sırasında ne bulundu?",
+    "options": [
+     "Eski paralar",
+     "Bir hazine",
+     "Bir zaman kapsülü",
+     "Bir küp"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Kapsül hangi yılda gömülmüştü?",
+    "options": [
+     "1950",
+     "1976",
+     "2000",
+     "1990"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "1976'nın çocukları mektupta ne sormuştu?",
+    "options": [
+     "Hava nasıl",
+     "Okul duruyor mu",
+     "Kim kazandı",
+     "Arabalar uçuyor mu"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Bahçedeki büyük çınarı kim dikmişti?",
+    "options": [
+     "1976'nın çocukları",
+     "Müdür",
+     "Belediye",
+     "İşçiler"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN kapsüle ne koymayı önerdi?",
+    "options": [
+     "Kitap koymayı",
+     "Mektup yazmayı",
+     "Oyuncak koymayı",
+     "Para koymayı"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Yeni kapsül nereye gömüldü?",
+    "options": [
+     "Kum havuzuna",
+     "Çınarın tepesine",
+     "Yeni dikilen fidanın yanına",
+     "Okulun içine"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Yeni kapsül kaç yıl sonra açılacak?",
+    "options": [
+     "100",
+     "10",
+     "50",
+     "25"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Babasına göre geleceğe iz bırakan nedir?",
+    "options": [
+     "Para biriktirmek",
+     "Hızlı koşmak",
+     "Ağaç dikmek, mektup yazmak, iyilik etmek",
+     "Çok uyumak"
+    ],
+    "correctAnswer": 2
+   }
+  ]
+ },
+ {
+  "id": "uzun-49",
+  "baslik": "KAHRAMAN ve Ekmeğin Yolculuğu",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN kahvaltıda ekmeğinin yarısını bırakmıştı. Tam çöpe atacaktı ki dedesi elini tuttu. 'Dur bakalım,' dedi. 'O ekmeğin hikayesini biliyor musun?'",
+   "KAHRAMAN şaşırdı: 'Ekmeğin hikayesi mi olur dede? Fırından aldık işte.' Dedesi gülümsedi: 'O fırına gelene kadar neler yaşadı, anlatayım.'",
+   "'Her şey bir buğday tanesiyle başlar,' dedi dede. 'Sonbaharda çiftçi tarlasını sürer. Toprağı havalandırır, tohuma hazırlar.'",
+   "'Sonra tohumları eker. Ama iş bitmez. Yağmur yağmazsa sular, yabani otları temizler. Kışın kar, tohumu yorgan gibi örter.'",
+   "'İlkbaharda filizler çıkar. Yemyeşil başaklar boy atar. Yaz güneşiyle sararır, altın gibi olur. Çiftçi aylarca emek verir.'",
+   "KAHRAMAN dinliyordu. Dede devam etti: 'Hasat zamanı gelir. Buğdaylar biçilir, taneler ayrılır. Çuvallara doldurulur.'",
+   "'Sonra kamyonlar buğdayı değirmene taşır. Değirmende taneler öğütülür, bembeyaz un olur. Un, fırınlara gönderilir.'",
+   "'Fırıncı gece yarısı kalkar. Sen uyurken o hamur yoğurur. Un, su, maya ve tuz... Hamur sabaha kadar dinlenir, kabarır.'",
+   "'Şafak sökerken fırın yanar. Hamurlar şekillenir, fırına girer. O mis gibi koku sokağa yayılır. Ve ekmek, sofrana gelir.'",
+   "Dede bitirdi: 'Şimdi say bakalım: Kaç kişinin emeği var bu yarım dilimde?' KAHRAMAN saymaya başladı.",
+   "'Çiftçi... değirmenci... şoför... fırıncı...' Dede ekledi: 'Toprağı, yağmuru, güneşi de unutma. Doğa da emek verdi.'",
+   "KAHRAMAN elindeki yarım ekmeğe bambaşka gözle baktı. Küçücük dilimde koca bir yolculuk saklıydı.",
+   "'Peki dede, bırakılan ekmekler ne olacak?' diye sordu. Dede güzel bir öneride bulundu: 'Gel, sana bir şey öğreteyim.'",
+   "Bayat ekmekleri topladılar. Dede onları küçük parçalara böldü. Birlikte balkona çıktılar ve parçaları kuşlar için tabağa koydular.",
+   "Az sonra serçeler geldi. Cıvıldayarak ekmekleri yediler. 'Gördün mü?' dedi dede. 'Ekmek asla çöp olmaz. Ya insana ya cana.'",
+   "Annesi de bir tarif gösterdi: Bayat ekmekten yapılan ekmek tatlısı! Birlikte yaptılar. Tatlı nefis oldu. KAHRAMAN şaşırdı: 'Bayat ekmekten bu mu çıktı?'",
+   "O günden sonra KAHRAMAN tabağına yiyebileceği kadar ekmek aldı. Artmadı, atılmadı. Bir dilim bile.",
+   "Okulda öğretmenine ekmeğin yolculuğunu anlattı. Öğretmen çok beğendi ve sınıfça fırın gezisi düzenledi.",
+   "Fırında sıcak ekmeğin kokusunu içlerine çektiler. Fırıncı amca onlara taze simit ikram etti. 'Emeğe saygı duyan çocuklar, buyrun!' dedi.",
+   "KAHRAMAN eve dönerken elinde taze bir ekmek vardı. Onu sımsıkı tutuyordu. Çünkü artık biliyordu: Ekmek sadece yiyecek değil, emeğin ta kendisiydi."
+  ],
+  "sorular": [
+   {
+    "question": "Ekmeğin hikayesi neyle başlar?",
+    "options": [
+     "Suyla",
+     "Fırınla",
+     "Unla",
+     "Bir buğday tanesiyle"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Çiftçi tarlada neler yapar?",
+    "options": [
+     "Hiçbir şey",
+     "Sadece bekler",
+     "Sürer, eker, sular, temizler",
+     "Sadece toplar"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Buğday nerede una dönüşür?",
+    "options": [
+     "Markette",
+     "Tarlada",
+     "Fırında",
+     "Değirmende"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Fırıncı ne zaman çalışmaya başlar?",
+    "options": [
+     "İkindi",
+     "Akşam",
+     "Gece yarısı",
+     "Öğlen"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Dede, doğanın emeği olarak neleri saydı?",
+    "options": [
+     "Rüzgar",
+     "Kar",
+     "Sadece toprak",
+     "Toprak, yağmur, güneş"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Bayat ekmekler kuşlara nasıl verildi?",
+    "options": [
+     "Bütün olarak",
+     "Küçük parçalara bölünüp tabakla",
+     "Suda ıslatılıp",
+     "Verilmedi"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Bayat ekmekten ne tatlısı yapıldı?",
+    "options": [
+     "Ekmek tatlısı",
+     "Baklava",
+     "Kek",
+     "Sütlaç"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'a göre ekmek nedir?",
+    "options": [
+     "Bir hamur",
+     "Sadece yiyecek",
+     "Sıradan bir şey",
+     "Emeğin ta kendisi"
+    ],
+    "correctAnswer": 3
+   }
+  ]
+ },
+ {
+  "id": "uzun-50",
+  "baslik": "KAHRAMAN ve Hikaye Ağacı",
+  "seviye": 2,
+  "uzun": true,
+  "sayfalar": [
+   "KAHRAMAN artık pek çok hikaye okumuş bir çocuktu. Denizlerin altına inmiş, uzaya çıkmış, dağlara tırmanmıştı. Hepsi kitapların sayfalarında olmuştu.",
+   "Bir gece KAHRAMAN rüyasında kendini bir tepenin üzerinde buldu. Tepede kocaman, ışıl ışıl bir ağaç duruyordu. Ama bu sıradan bir ağaç değildi.",
+   "Ağacın yaprakları kitap sayfalarındandı! Rüzgar estikçe sayfalar hışırdıyor, her hışırtıda bir fısıltı duyuluyordu. Sanki ağaç hikaye anlatıyordu.",
+   "KAHRAMAN yaklaştı. Ağacın gövdesinde bir kapı belirdi. Kapının üzerinde şöyle yazıyordu: 'Hikaye Ağacı - Okuyanlar girebilir.'",
+   "KAHRAMAN kapıyı açtı ve içeri girdi. İçerisi dev bir kütüphane gibiydi. Ama raflar yukarı, ağacın dallarına doğru uzanıyordu.",
+   "Işıktan bir kelebek KAHRAMAN'ı karşıladı. 'Hoş geldin,' dedi. 'Burası okunan her hikayenin yaşadığı yer. Senin okudukların da burada.'",
+   "Kelebek onu bir dala götürdü. Dalın üzerinde tanıdık ışıklar parlıyordu. KAHRAMAN yaklaşınca gözlerine inanamadı.",
+   "Okuduğu hikayelerin kahramanları oradaydı! Yunuslar el salladı, penguen Paldır gülümsedi, sincap Fındık zıpladı. Hepsi onu tanıyordu.",
+   "'Sen bizi okudukça biz yaşadık,' dedi ışıktan kelebek. 'Her okunan hikaye, bu ağaçta bir yaprak açar. Okunmayan hikayeler ise uykuya dalar.'",
+   "KAHRAMAN ağacın bir köşesinde solgun, uykulu yapraklar gördü. 'Onlar ne?' diye sordu. Kelebek hüzünle baktı.",
+   "'Onlar henüz okunmamış hikayeler,' dedi. 'Bir çocuğun onları açmasını bekliyorlar. Her biri bir dünya ama kapıları kapalı.'",
+   "KAHRAMAN solgun yapraklardan birine dokundu. Yaprak hafifçe ışıldadı. İçinde bir çöl gezgini, bir deve ve yıldızlı bir gece belli belirsiz göründü.",
+   "'Onu uyandırabilir miyim?' diye sordu KAHRAMAN. Kelebek gülümsedi: 'Elbette. Uyandığında onu oku. İşte o zaman canlanır.'",
+   "Kelebek, KAHRAMAN'a ağacın sırrını açıkladı: 'Bu ağacın kökleri her eve, her okula, her kütüphaneye uzanır. Kitap açan her çocuk, bu ağacı besler.'",
+   "'Peki ağaç hiç kurur mu?' diye endişelendi KAHRAMAN. 'Çocuklar okudukça asla,' dedi kelebek. 'Her yeni okur, yeni bir dal demektir.'",
+   "KAHRAMAN dalların arasında dolaştı. Milyonlarca yaprak, milyonlarca hikaye... Ve hepsi bir çocuğun 'bir sayfa daha' demesiyle yaşıyordu.",
+   "Ayrılma vakti gelince kelebek ona minicik, ışıktan bir tohum verdi. 'Bu, senin hikaye tohumun,' dedi. 'Bir gün belki sen de bir hikaye yazarsın.'",
+   "'Ben mi? Hikaye mi yazacağım?' diye şaşırdı KAHRAMAN. Kelebek kanat çırptı: 'Neden olmasın? Her yazar, önce iyi bir okurdu.'",
+   "KAHRAMAN uyandığında güneş doğuyordu. Avucunu açtı; boştu ama içinde bir sıcaklık vardı. Başucundaki yarım kalmış kitaba baktı ve gülümsedi.",
+   "O sabah kitabını bitirdi ve yeni birine başladı. Çünkü artık biliyordu: Her sayfa bir yaprak, her kitap bir dal, her okur bir bahçıvandı. Ve hikaye ağacı, onun gibi çocuklar sayesinde sonsuza dek yeşerecekti."
+  ],
+  "sorular": [
+   {
+    "question": "Rüyadaki ağacın yaprakları neydi?",
+    "options": [
+     "Yıldız",
+     "Altın",
+     "Kitap sayfaları",
+     "Çiçek"
+    ],
+    "correctAnswer": 2
+   },
+   {
+    "question": "Ağacın kapısında ne yazıyordu?",
+    "options": [
+     "Okuyanlar girebilir",
+     "Giriş yasak",
+     "Dikkat",
+     "Hoş geldiniz"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "KAHRAMAN'ı içeride kim karşıladı?",
+    "options": [
+     "Işıktan bir kelebek",
+     "Bir peri",
+     "Bir baykuş",
+     "Bir aslan"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Dalın üzerinde KAHRAMAN kimleri gördü?",
+    "options": [
+     "Öğretmenlerini",
+     "Okuduğu hikayelerin kahramanlarını",
+     "Ailesini",
+     "Arkadaşlarını"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Solgun yapraklar neydi?",
+    "options": [
+     "Eski kitaplar",
+     "Henüz okunmamış hikayeler",
+     "Yırtık sayfalar",
+     "Kuruyan yapraklar"
+    ],
+    "correctAnswer": 1
+   },
+   {
+    "question": "Ağacı ne besliyordu?",
+    "options": [
+     "Kitap açan her çocuk",
+     "Güneş",
+     "Yağmur",
+     "Toprak"
+    ],
+    "correctAnswer": 0
+   },
+   {
+    "question": "Kelebek KAHRAMAN'a ne verdi?",
+    "options": [
+     "Bir kalem",
+     "Bir yaprak",
+     "Bir kitap",
+     "Işıktan bir hikaye tohumu"
+    ],
+    "correctAnswer": 3
+   },
+   {
+    "question": "Kelebeğe göre her yazar önce nedir?",
+    "options": [
+     "İyi bir okur",
+     "İyi bir ressam",
+     "İyi bir öğrenci",
+     "İyi bir konuşmacı"
+    ],
+    "correctAnswer": 0
+   }
+  ]
  }
 ]
