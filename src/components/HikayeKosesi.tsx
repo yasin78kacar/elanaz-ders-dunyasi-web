@@ -18,6 +18,8 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
       setHikayeler(h as Hikaye[]);
       setIngilizceHikayeler(ih as Hikaye[]);
       setHikayeYukleniyor(false);
+    }).catch(() => {
+      setHikayeYukleniyor(false); // bos liste + tekrar giriste yeniden dener
     });
   }, []);
   const [seciliHikaye, setSeciliHikaye] = useState<number | null>(null);

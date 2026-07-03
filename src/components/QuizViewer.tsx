@@ -116,6 +116,9 @@ async function guncellemeVarsaYenile(zorla = false) {
     if (!r.ok) return;
     const { v } = await r.json();
     if (v && v !== __BUILD_ID__) {
+      const son = Number(sessionStorage.getItem('dd_son_yenileme') || '0');
+      if (!zorla && Date.now() - son < 5 * 60 * 1000) return; // dongu sigortasi
+      sessionStorage.setItem('dd_son_yenileme', String(Date.now()));
       window.location.reload();
     } else if (zorla) {
       alert('Uygulama zaten güncel! ✓');
@@ -209,7 +212,7 @@ const QuizViewer: React.FC = () => {
 
   // Timer logic
   useEffect(() => {
-    if (quizFinished || questions.length === 0) return;
+    if (screen !== 'quiz' || quizFinished || questions.length === 0) return;
 
     const timer = setInterval(() => {
       setTimeLeft((prev) => {
@@ -222,7 +225,7 @@ const QuizViewer: React.FC = () => {
     }, 1000);
 
     return () => clearInterval(timer);
-  }, [currentQuestionIndex, quizFinished, questions.length]);
+  }, [currentQuestionIndex, quizFinished, questions.length, screen]);
 
   // Yeni soru gelince timer sıfırla
   useEffect(() => {
@@ -276,8 +279,9 @@ const QuizViewer: React.FC = () => {
       date: new Date().toLocaleString('tr-TR')
     };
 
-    const stats = JSON.parse(localStorage.getItem(statsKey(profilAdi)) || '[]');
+    let stats = JSON.parse(localStorage.getItem(statsKey(profilAdi)) || '[]');
     stats.push(result);
+    if (stats.length > 500) stats = stats.slice(-500); // depolama sismesi onlemi
     localStorage.setItem(statsKey(profilAdi), JSON.stringify(stats));
   };
 
@@ -309,6 +313,7 @@ const QuizViewer: React.FC = () => {
   };
 
   const handleAnswer = (selectedIndex: number) => {
+    if (screen !== 'quiz') return; // quiz disindayken hayalet cevap islenmesin
     if (secilenSik !== null) return; // cevap verildiyse tekrar tiklamayi engelle
     const isCorrect = selectedIndex === questions[currentQuestionIndex].correctAnswer;
     if (!isCorrect && !hataModu) hataEkle(profilAdi, questions[currentQuestionIndex]);
