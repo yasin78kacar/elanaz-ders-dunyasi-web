@@ -17030,5 +17030,6180 @@
   "subject": "Türkçe",
   "theme": "Çoğul Eki",
   "grade": 1
+ },
+ {
+  "question": "'Cömert' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "azalmak",
+   "cimri",
+   "yermek",
+   "kıtlık"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Cimri' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "zayıf",
+   "hüzünlü",
+   "cömert",
+   "yermek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Çalışkan' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "kabul etmek",
+   "tembel",
+   "zayıf",
+   "kıtlık"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Tembel' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "çalışkan",
+   "reddetmek",
+   "sertleşmek",
+   "unutmak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Dikkatli' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "acemi",
+   "tenha",
+   "ayrılmak",
+   "dikkatsiz"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Dikkatsiz' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "unutmak",
+   "sakin",
+   "dikkatli",
+   "canlı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Güçlü' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "telaşlı",
+   "güçsüz",
+   "dikkatli",
+   "yermek"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Güçsüz' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "güçlü",
+   "tenha",
+   "keskin",
+   "yumuşamak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Faydalı' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "telaşlı",
+   "ıslanmak",
+   "dağınık",
+   "zararlı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Zararlı' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "alçalmak",
+   "dikkatsiz",
+   "faydalı",
+   "telaşlı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Düzenli' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "övmek",
+   "hüzünlü",
+   "dağınık",
+   "telaşlı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Dağınık' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "cansız",
+   "katı",
+   "kör",
+   "düzenli"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Neşeli' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "kabul etmek",
+   "reddetmek",
+   "hüzünlü",
+   "cansız"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Hüzünlü' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "sakin",
+   "neşeli",
+   "dikkatsiz",
+   "keskin"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Sakin' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "telaşlı",
+   "yermek",
+   "sertleşmek",
+   "güçsüz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Telaşlı' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "bayat",
+   "alçalmak",
+   "acemi",
+   "sakin"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Derin' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "sığ",
+   "kalabalık",
+   "sakin",
+   "cimri"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Sığ' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "unutmak",
+   "ıslanmak",
+   "çalışkan",
+   "derin"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Keskin' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "alçalmak",
+   "neşeli",
+   "kör",
+   "telaşlı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Kör' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "çalışkan",
+   "keskin",
+   "sakin",
+   "dağınık"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Taze' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "katı",
+   "neşeli",
+   "dikkatsiz",
+   "bayat"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Bayat' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "hüzünlü",
+   "hatırlamak",
+   "taze",
+   "katı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Canlı' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "güçsüz",
+   "acemi",
+   "hatırlamak",
+   "cansız"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Cansız' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "canlı",
+   "zayıf",
+   "sıvı",
+   "kıtlık"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Acemi' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "ıslanmak",
+   "usta",
+   "dikkatsiz",
+   "sıvı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Usta' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "düzenli",
+   "acemi",
+   "tembel",
+   "sıvı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Kalabalık' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "neşeli",
+   "kör",
+   "dikkatli",
+   "tenha"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Tenha' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "kalabalık",
+   "kör",
+   "dikkatsiz",
+   "katı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Bolluk' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "kıtlık",
+   "hatırlamak",
+   "cansız",
+   "dikkatli"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Kıtlık' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "bolluk",
+   "ıslanmak",
+   "kurumak",
+   "sıvı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Artmak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "kurumak",
+   "usta",
+   "azalmak",
+   "ıslanmak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Azalmak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "kalabalık",
+   "tembel",
+   "artmak",
+   "neşeli"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Övmek' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "yermek",
+   "düzenli",
+   "dikkatli",
+   "sertleşmek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Yermek' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "övmek",
+   "hatırlamak",
+   "birleşmek",
+   "çalışkan"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Kabul etmek' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "derin",
+   "kör",
+   "katı",
+   "reddetmek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Reddetmek' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "kabul etmek",
+   "ayrılmak",
+   "canlı",
+   "yumuşamak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Hatırlamak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "unutmak",
+   "azalmak",
+   "bayat",
+   "yükselmek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Unutmak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "hatırlamak",
+   "hüzünlü",
+   "kör",
+   "dikkatsiz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Birleşmek' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "taze",
+   "ayrılmak",
+   "ıslanmak",
+   "kör"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Ayrılmak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "düzenli",
+   "keskin",
+   "sığ",
+   "birleşmek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Yükselmek' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "şişman",
+   "alçalmak",
+   "unutmak",
+   "dikkatsiz"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Alçalmak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "katı",
+   "zayıf",
+   "güçlü",
+   "yükselmek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Sertleşmek' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "unutmak",
+   "yumuşamak",
+   "katı",
+   "kabul etmek"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Yumuşamak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "hatırlamak",
+   "dağınık",
+   "zayıf",
+   "sertleşmek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Islanmak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "azalmak",
+   "kurumak",
+   "bayat",
+   "dikkatli"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Kurumak' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "artmak",
+   "ıslanmak",
+   "zayıf",
+   "cansız"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Şişman' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "artmak",
+   "zayıf",
+   "zararlı",
+   "neşeli"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Zayıf' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "çalışkan",
+   "şişman",
+   "güçlü",
+   "acemi"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Katı' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "sıvı",
+   "sertleşmek",
+   "ıslanmak",
+   "şişman"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Sıvı' sözcüğünün ZIT (karşıt) anlamlısı hangisidir?",
+  "options": [
+   "kurumak",
+   "kör",
+   "katı",
+   "neşeli"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Mutlu' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "sevinçli",
+   "sadık",
+   "ilave",
+   "çabuk"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Sevinçli' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "meşhur",
+   "mutlu",
+   "zeki",
+   "hızlı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Üzgün' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "ünlü",
+   "onarım",
+   "kederli",
+   "hoş"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Kederli' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "onarım",
+   "büyük",
+   "üzgün",
+   "mutlu"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Hızlı' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "çabuk",
+   "ek",
+   "dil",
+   "vefalı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Çabuk' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "hızlı",
+   "güzel",
+   "asır",
+   "kederli"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Büyük' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "yaramaz",
+   "mesut",
+   "kocaman",
+   "özen"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Kocaman' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "hızlı",
+   "mutlu",
+   "şans",
+   "büyük"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Güzel' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "yaramaz",
+   "akıllı",
+   "hoş",
+   "örnek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Hoş' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "ek",
+   "güzel",
+   "ünlü",
+   "görev"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Akıllı' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "sadık",
+   "çıkar",
+   "zeki",
+   "güzel"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Zeki' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "kocaman",
+   "akıllı",
+   "dikkat",
+   "ek"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Yaramaz' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "haylaz",
+   "vefalı",
+   "onarım",
+   "korkak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Haylaz' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "yaramaz",
+   "güzel",
+   "talih",
+   "sadık"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Korkak' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "ödlek",
+   "çıkar",
+   "sadık",
+   "şans"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Ödlek' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "korkak",
+   "mutlu",
+   "ünlü",
+   "örnek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Sadık' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "sevinçli",
+   "vefalı",
+   "vazife",
+   "meşhur"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Vefalı' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "sadık",
+   "onarım",
+   "mutlu",
+   "hızlı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Meşhur' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "ünlü",
+   "akıllı",
+   "üzgün",
+   "dil"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Ünlü' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "sevinçli",
+   "üzgün",
+   "meşhur",
+   "hoş"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Dikkat' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "mesut",
+   "mutlu",
+   "sevinçli",
+   "özen"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Özen' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "örnek",
+   "dikkat",
+   "hızlı",
+   "yüzyıl"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Vazife' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "sadık",
+   "görev",
+   "yüzyıl",
+   "özen"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Görev' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "onarım",
+   "dikkat",
+   "vazife",
+   "şans"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Misal' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "mutlu",
+   "hızlı",
+   "ek",
+   "örnek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Örnek' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "misal",
+   "vefalı",
+   "mesut",
+   "yüzyıl"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Lisan' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "yüzyıl",
+   "onarım",
+   "üzgün",
+   "dil"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Dil' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "menfaat",
+   "lisan",
+   "çabuk",
+   "sadık"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Asır' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "kocaman",
+   "sevinçli",
+   "çabuk",
+   "yüzyıl"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Yüzyıl' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "yaramaz",
+   "asır",
+   "özen",
+   "mutlu"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Mesut' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "mutlu",
+   "sevinçli",
+   "ek",
+   "ödlek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Talih' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "şans",
+   "mutlu",
+   "üzgün",
+   "büyük"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Şans' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "kocaman",
+   "menfaat",
+   "talih",
+   "hoş"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Menfaat' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "örnek",
+   "çıkar",
+   "özen",
+   "büyük"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Çıkar' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "mutlu",
+   "menfaat",
+   "dil",
+   "sevinçli"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Ilave' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "ek",
+   "örnek",
+   "mesut",
+   "mutlu"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Ek' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "mutlu",
+   "ilave",
+   "vefalı",
+   "büyük"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Tamir' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "onarım",
+   "çabuk",
+   "haylaz",
+   "yaramaz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Onarım' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "üzgün",
+   "kederli",
+   "tamir",
+   "ilave"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "'Yüz' kelimesi hangi cümlede SAYI anlamında kullanılmıştır?",
+  "options": [
+   "Kumbarada yüz lira birikti.",
+   "Denizde yüzmeyi çok severim.",
+   "Kaygan zeminde yüzü gülmedi.",
+   "Yüzünü güzelce yıkadı."
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Gül' kelimesi hangi cümlede ÇİÇEK anlamında kullanılmıştır?",
+  "options": [
+   "Bebek bana bakıp güldü.",
+   "Bu fıkraya çok güldüm.",
+   "Bahçedeki gül kokusunu içime çektim.",
+   "Gülme komşuna, gelir başına."
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Yaz' kelimesi hangi cümlede MEVSİM anlamında kullanılmıştır?",
+  "options": [
+   "Tahtaya tarihi yaz.",
+   "Ödevini defterine yaz.",
+   "Bu yaz tatilde denize gideceğiz.",
+   "Adını listeye yaz."
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Dolu' kelimesi hangi cümlede HAVA OLAYI anlamında kullanılmıştır?",
+  "options": [
+   "Çantası kitap doluydu.",
+   "Dün akşam ceviz büyüklüğünde dolu yağdı.",
+   "Salon davetlilerle doluydu.",
+   "Bardağı ağzına kadar dolu doldurdu."
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Kır' kelimesi hangi cümlede DOĞA/ARAZİ anlamında kullanılmıştır?",
+  "options": [
+   "Kalemin ucunu kırdı.",
+   "Cevizleri taşla kırdı.",
+   "Hafta sonu kırda piknik yaptık.",
+   "Sakın camı kırma!"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Al' kelimesi hangi cümlede RENK anlamında kullanılmıştır?",
+  "options": [
+   "Bayrağımızın al rengi çok güzeldir.",
+   "Marketten ekmek al.",
+   "Bu kitabı eline al.",
+   "Dersten iyi not al."
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Çay' kelimesi hangi cümlede İÇECEK anlamında kullanılmıştır?",
+  "options": [
+   "Köyün yanından bir çay akıyordu.",
+   "Kahvaltıda sıcak çay içtik.",
+   "Çayın kenarında balık tuttuk.",
+   "Çayı geçmek için köprü kurdular."
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Ben' kelimesi hangi cümlede VÜCUTTAKİ İZ anlamında kullanılmıştır?",
+  "options": [
+   "Bunu ben yaptım.",
+   "Ben bu kitabı okudum.",
+   "Yanağındaki ben ona çok yakışıyor.",
+   "Ben yarın okula gideceğim."
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Ocak' kelimesi hangi cümlede AY İSMİ olarak kullanılmıştır?",
+  "options": [
+   "Ocağın altını kapatmayı unutma.",
+   "Annem yemeği ocakta pişirdi.",
+   "Ocak ayında kar yağışı arttı.",
+   "Sobanın ocağı tütüyordu."
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Pazar' kelimesi hangi cümlede GÜN İSMİ olarak kullanılmıştır?",
+  "options": [
+   "Annemle pazardan sebze aldık.",
+   "Pazar günü pikniğe gideceğiz.",
+   "Pazar yeri çok kalabalıktı.",
+   "Pazarda taze meyve satılıyor."
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Saç' kelimesi hangi cümlede VÜCUT anlamında kullanılmıştır?",
+  "options": [
+   "Ortalığa oyuncaklarını saçma.",
+   "Tohumları tarlaya saç.",
+   "Kuşlara yem saçtı.",
+   "Kuaför saçlarımı kısacık kesti."
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Dil' kelimesi hangi cümlede KONUŞULAN LİSAN anlamında kullanılmıştır?",
+  "options": [
+   "Doktor dilime baktı.",
+   "Ayakkabının dili koptu.",
+   "Dondurma dilime değince üşüdüm.",
+   "Türkçe çok zengin bir dildir."
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Kara' kelimesi hangi cümlede RENK anlamında kullanılmıştır?",
+  "options": [
+   "Gemi sonunda karaya ulaştı.",
+   "Denizden karaya çıktık.",
+   "Kaplumbağa karada yavaş yürür.",
+   "Kara bulutlar gökyüzünü kapladı."
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Yüzük' değil 'yüz' — 'Bin' kelimesi hangi cümlede SAYI anlamında kullanılmıştır?",
+  "options": [
+   "Hadi atına bin!",
+   "Otobüse binmek için koştu.",
+   "Bisikletine binip gitti.",
+   "Kumbarasında bin lira birikmişti."
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "'Ek' kelimesi hangi cümlede İLAVE anlamında kullanılmıştır?",
+  "options": [
+   "Tarlaya buğday ek.",
+   "Yazıya bir sayfa daha ek yaptı.",
+   "Bahçeye çiçek tohumu ek.",
+   "Saksıya fesleğen ek."
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Sesli Kelimeler",
+  "grade": 3
+ },
+ {
+  "question": "bina, boru, bayrak, bilgi — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bayrak",
+   "bina",
+   "boru",
+   "bilgi"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "duvar, dava, dil, dolap — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "dava",
+   "dolap",
+   "dil",
+   "duvar"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "motor, mum, maden, meyve — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "meyve",
+   "maden",
+   "motor",
+   "mum"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "sarı, soru, sandalye, sözlük — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "sözlük",
+   "sarı",
+   "soru",
+   "sandalye"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde dağ, dünya, duvar, deniz kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "duvar",
+   "dağ",
+   "dünya",
+   "deniz"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde duvar, doktor, dil, dağ kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "duvar",
+   "doktor",
+   "dil",
+   "dağ"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bebek, beyaz, boru, bilgi kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bilgi",
+   "boru",
+   "bebek",
+   "beyaz"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "ses, soru, sözlük, simit — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "ses",
+   "soru",
+   "simit",
+   "sözlük"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "dut, dava, dolap, duvar — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "dut",
+   "duvar",
+   "dolap",
+   "dava"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "buz, beyaz, bulut, bayrak — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bulut",
+   "beyaz",
+   "bayrak",
+   "buz"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "sandalye, sabun, simit, soru — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "sandalye",
+   "sabun",
+   "soru",
+   "simit"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "telefon, tuz, turşu, tiyatro — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "telefon",
+   "tiyatro",
+   "tuz",
+   "turşu"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "sabun, sinema, sandalye, sarı — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "sandalye",
+   "sarı",
+   "sinema",
+   "sabun"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bulut, bilgi, balon, bina kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bina",
+   "balon",
+   "bilgi",
+   "bulut"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde müzik, minder, mum, mavi kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "minder",
+   "mum",
+   "müzik",
+   "mavi"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "minder, maden, motor, mavi — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "motor",
+   "mavi",
+   "maden",
+   "minder"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde kar, kule, kapı, kum kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kar",
+   "kum",
+   "kule",
+   "kapı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "sandalye, sepet, soru, sözlük — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "sözlük",
+   "sepet",
+   "soru",
+   "sandalye"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "tarak, tiyatro, tebeşir, top — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "top",
+   "tebeşir",
+   "tarak",
+   "tiyatro"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde duvar, dağ, deniz, dolap kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "dağ",
+   "duvar",
+   "dolap",
+   "deniz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "sandalye, sinema, sabun, soru — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "soru",
+   "sabun",
+   "sinema",
+   "sandalye"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "buz, bebek, balon, boru — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bebek",
+   "boru",
+   "buz",
+   "balon"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "mavi, mutfak, masa, maden — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "maden",
+   "mutfak",
+   "masa",
+   "mavi"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde kum, kapı, kitap, kiraz kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kitap",
+   "kum",
+   "kapı",
+   "kiraz"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde tebeşir, turşu, tuz, tarak kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tarak",
+   "turşu",
+   "tebeşir",
+   "tuz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde maden, mutfak, mum, mavi kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "mutfak",
+   "mavi",
+   "maden",
+   "mum"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde maden, mektup, minder, mum kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "maden",
+   "mektup",
+   "mum",
+   "minder"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "kule, kapı, kalem, kar — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "kapı",
+   "kar",
+   "kalem",
+   "kule"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde tilki, toprak, tuz, tebeşir kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tuz",
+   "tilki",
+   "toprak",
+   "tebeşir"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "turşu, top, tarak, taş — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "top",
+   "tarak",
+   "taş",
+   "turşu"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde dünya, defter, doktor, dava kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "doktor",
+   "defter",
+   "dünya",
+   "dava"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "defter, dut, duvar, dil — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "dil",
+   "defter",
+   "duvar",
+   "dut"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde kedi, kuş, kiraz, kule kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kuş",
+   "kedi",
+   "kiraz",
+   "kule"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde kitap, kuş, kule, koltuk kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kule",
+   "kitap",
+   "kuş",
+   "koltuk"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "bina, bebek, buz, bilgi — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bebek",
+   "bina",
+   "buz",
+   "bilgi"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "toprak, tiyatro, telefon, taş — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "tiyatro",
+   "telefon",
+   "taş",
+   "toprak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "mutfak, meyve, mavi, mum — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "meyve",
+   "mavi",
+   "mum",
+   "mutfak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "su, sarı, ses, simit — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "simit",
+   "ses",
+   "sarı",
+   "su"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde tuz, turşu, tilki, tarak kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "turşu",
+   "tuz",
+   "tarak",
+   "tilki"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "buz, bal, bina, bulut — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bal",
+   "bulut",
+   "buz",
+   "bina"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde dolap, dava, deniz, dağ kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "deniz",
+   "dava",
+   "dağ",
+   "dolap"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde doktor, dava, dut, defter kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "dut",
+   "doktor",
+   "dava",
+   "defter"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde tuz, tilki, taş, toprak kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "taş",
+   "tilki",
+   "toprak",
+   "tuz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "dağ, dut, duvar, deniz — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "dağ",
+   "deniz",
+   "duvar",
+   "dut"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "bulut, bal, balon, buz — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bulut",
+   "buz",
+   "bal",
+   "balon"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "telefon, tarak, tuz, tiyatro — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "tiyatro",
+   "tuz",
+   "telefon",
+   "tarak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde dünya, defter, dut, doktor kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "dut",
+   "dünya",
+   "defter",
+   "doktor"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde sinema, ses, sabun, sözlük kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "sözlük",
+   "ses",
+   "sabun",
+   "sinema"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "bina, beyaz, bilgi, buz — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bina",
+   "bilgi",
+   "buz",
+   "beyaz"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde koltuk, kitap, kedi, kule kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "koltuk",
+   "kedi",
+   "kule",
+   "kitap"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "beyaz, boru, bulut, bina — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "boru",
+   "bulut",
+   "bina",
+   "beyaz"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde toprak, tarak, tiyatro, taş kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tarak",
+   "toprak",
+   "tiyatro",
+   "taş"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde mutfak, mektup, maden, meyve kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "meyve",
+   "mutfak",
+   "maden",
+   "mektup"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "sepet, sinema, sözlük, su — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "su",
+   "sözlük",
+   "sinema",
+   "sepet"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "turşu, tuz, taş, toprak — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "toprak",
+   "tuz",
+   "taş",
+   "turşu"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde tiyatro, turşu, telefon, tarak kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tiyatro",
+   "turşu",
+   "tarak",
+   "telefon"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "meyve, masa, müzik, motor — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "masa",
+   "meyve",
+   "motor",
+   "müzik"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde toprak, tarak, tuz, turşu kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tarak",
+   "tuz",
+   "turşu",
+   "toprak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde mum, mektup, maden, minder kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "mum",
+   "mektup",
+   "maden",
+   "minder"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "dava, dolap, duvar, dil — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "dolap",
+   "duvar",
+   "dava",
+   "dil"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bulut, bal, bina, bayrak kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bal",
+   "bulut",
+   "bayrak",
+   "bina"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde taş, turşu, tilki, tebeşir kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tebeşir",
+   "taş",
+   "turşu",
+   "tilki"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde tiyatro, tuz, tilki, tebeşir kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tebeşir",
+   "tilki",
+   "tiyatro",
+   "tuz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bilgi, buz, bayrak, bebek kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "buz",
+   "bilgi",
+   "bebek",
+   "bayrak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde minder, mektup, mavi, meyve kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "mavi",
+   "minder",
+   "meyve",
+   "mektup"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "simit, sarı, sinema, sözlük — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "simit",
+   "sinema",
+   "sarı",
+   "sözlük"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "kiraz, kum, kitap, kapı — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "kum",
+   "kapı",
+   "kiraz",
+   "kitap"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde doktor, dünya, dut, dava kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "dava",
+   "doktor",
+   "dut",
+   "dünya"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "beyaz, buz, bina, bebek — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bina",
+   "buz",
+   "bebek",
+   "beyaz"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde koltuk, kar, kiraz, kedi kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kar",
+   "kiraz",
+   "koltuk",
+   "kedi"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bina, bal, bebek, bulut kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bebek",
+   "bal",
+   "bina",
+   "bulut"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "sinema, simit, soru, sözlük — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "soru",
+   "sözlük",
+   "sinema",
+   "simit"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "soru, sandalye, ses, simit — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "soru",
+   "sandalye",
+   "simit",
+   "ses"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "müzik, mektup, mavi, mum — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "mavi",
+   "müzik",
+   "mum",
+   "mektup"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "mum, minder, meyve, motor — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "mum",
+   "meyve",
+   "motor",
+   "minder"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "tilki, turşu, tebeşir, top — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "top",
+   "turşu",
+   "tebeşir",
+   "tilki"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "mavi, mektup, meyve, masa — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "masa",
+   "mektup",
+   "mavi",
+   "meyve"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bilgi, boru, bina, beyaz kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bilgi",
+   "beyaz",
+   "boru",
+   "bina"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde kar, kuş, kitap, kalem kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kuş",
+   "kar",
+   "kitap",
+   "kalem"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde tarak, tiyatro, toprak, tilki kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "toprak",
+   "tiyatro",
+   "tarak",
+   "tilki"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde tiyatro, tuz, turşu, toprak kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tuz",
+   "toprak",
+   "turşu",
+   "tiyatro"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "mavi, maden, mutfak, minder — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "mutfak",
+   "minder",
+   "maden",
+   "mavi"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde top, tarak, tiyatro, tilki kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "tilki",
+   "tiyatro",
+   "tarak",
+   "top"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "tebeşir, telefon, tilki, tiyatro — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "tiyatro",
+   "tilki",
+   "tebeşir",
+   "telefon"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde kuş, kar, kum, kalem kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kuş",
+   "kar",
+   "kum",
+   "kalem"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde sandalye, sözlük, sepet, su kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "sözlük",
+   "sepet",
+   "su",
+   "sandalye"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde kitap, kum, kedi, kiraz kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kedi",
+   "kitap",
+   "kum",
+   "kiraz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde sandalye, sepet, sabun, soru kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "soru",
+   "sabun",
+   "sandalye",
+   "sepet"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde mutfak, mum, mektup, maden kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "mutfak",
+   "mum",
+   "mektup",
+   "maden"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bayrak, bulut, buz, beyaz kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bulut",
+   "bayrak",
+   "buz",
+   "beyaz"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde mektup, mavi, mum, minder kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "mum",
+   "mavi",
+   "minder",
+   "mektup"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde soru, sinema, sepet, sözlük kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "sinema",
+   "sepet",
+   "sözlük",
+   "soru"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "koltuk, kedi, kalem, kitap — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "koltuk",
+   "kitap",
+   "kedi",
+   "kalem"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "kalem, kiraz, kitap, kule — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "kalem",
+   "kiraz",
+   "kule",
+   "kitap"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde dil, defter, doktor, dolap kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "dil",
+   "dolap",
+   "doktor",
+   "defter"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde sinema, sabun, sandalye, soru kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "sinema",
+   "sandalye",
+   "soru",
+   "sabun"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde simit, su, ses, sabun kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "ses",
+   "sabun",
+   "simit",
+   "su"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "dil, dünya, dolap, defter — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "dünya",
+   "dil",
+   "defter",
+   "dolap"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "su, soru, sepet, sandalye — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "soru",
+   "sandalye",
+   "su",
+   "sepet"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "bayrak, bina, bal, balon — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bayrak",
+   "bina",
+   "bal",
+   "balon"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde simit, sarı, sandalye, su kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "sandalye",
+   "sarı",
+   "su",
+   "simit"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde müzik, mavi, mutfak, mektup kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "müzik",
+   "mektup",
+   "mutfak",
+   "mavi"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde koltuk, kalem, kedi, kuş kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "koltuk",
+   "kuş",
+   "kedi",
+   "kalem"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde deniz, dil, defter, doktor kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "deniz",
+   "doktor",
+   "dil",
+   "defter"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "kitap, koltuk, kuş, kule — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "koltuk",
+   "kuş",
+   "kule",
+   "kitap"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bayrak, bina, bal, bebek kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bebek",
+   "bayrak",
+   "bal",
+   "bina"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde boru, bayrak, bilgi, buz kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "buz",
+   "bayrak",
+   "bilgi",
+   "boru"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "kiraz, kule, kuş, kedi — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "kiraz",
+   "kedi",
+   "kuş",
+   "kule"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde müzik, mutfak, masa, motor kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "mutfak",
+   "müzik",
+   "motor",
+   "masa"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "doktor, dağ, dut, duvar — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "duvar",
+   "doktor",
+   "dağ",
+   "dut"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "tilki, tuz, taş, telefon — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "tilki",
+   "telefon",
+   "tuz",
+   "taş"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde mum, motor, mutfak, müzik kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "mutfak",
+   "motor",
+   "mum",
+   "müzik"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde dut, dağ, dünya, dolap kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "dolap",
+   "dünya",
+   "dut",
+   "dağ"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde bebek, bilgi, boru, buz kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "boru",
+   "bilgi",
+   "bebek",
+   "buz"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde beyaz, boru, bayrak, bulut kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bulut",
+   "bayrak",
+   "beyaz",
+   "boru"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde boru, bebek, balon, bulut kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "bebek",
+   "balon",
+   "bulut",
+   "boru"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde kule, kar, kalem, kapı kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "kapı",
+   "kule",
+   "kalem",
+   "kar"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "tarak, tuz, tiyatro, turşu — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "turşu",
+   "tuz",
+   "tarak",
+   "tiyatro"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "bulut, bilgi, bayrak, bal — Bu kelimelerden hangisi sözlükte EN ÖNCE gelir?",
+  "options": [
+   "bayrak",
+   "bilgi",
+   "bulut",
+   "bal"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "Sözlük sırasına dizildiğinde sözlük, sarı, simit, soru kelimelerinden hangisi BAŞTA olur?",
+  "options": [
+   "soru",
+   "sarı",
+   "simit",
+   "sözlük"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Alfabetik Sıra",
+  "grade": 3
+ },
+ {
+  "question": "'Kitapçı' kelimesinin kökü hangisidir?",
+  "options": [
+   "kita",
+   "kitapç",
+   "kitap",
+   "çı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Gözlük' kelimesinin kökü hangisidir?",
+  "options": [
+   "göz",
+   "gözlü",
+   "gö",
+   "lük"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Balıkçı' kelimesinin kökü hangisidir?",
+  "options": [
+   "balık",
+   "çı",
+   "bal",
+   "balıkç"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Sulamak' kelimesinin kökü hangisidir?",
+  "options": [
+   "mak",
+   "su",
+   "sul",
+   "sula"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Yolcu' kelimesinin kökü hangisidir?",
+  "options": [
+   "cu",
+   "yol",
+   "yo",
+   "yolc"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Öğretmenlik' kelimesinin kökü hangisidir?",
+  "options": [
+   "lik",
+   "men",
+   "öğret-",
+   "ek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Simitçi' kelimesinin kökü hangisidir?",
+  "options": [
+   "sim",
+   "simitç",
+   "çi",
+   "simit"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Tuzluk' kelimesinin kökü hangisidir?",
+  "options": [
+   "tu",
+   "tuzlu",
+   "tuz",
+   "luk"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Kirlenmek' kelimesinin kökü hangisidir?",
+  "options": [
+   "kirli",
+   "mek",
+   "kirlen",
+   "kir"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Şekerlik' kelimesinin kökü hangisidir?",
+  "options": [
+   "şeker",
+   "lik",
+   "şekerli",
+   "şek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Çiçekçi' kelimesinin kökü hangisidir?",
+  "options": [
+   "çiç",
+   "çiçekç",
+   "çiçek",
+   "çi"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Gecelik' kelimesinin kökü hangisidir?",
+  "options": [
+   "gec",
+   "gecel",
+   "lik",
+   "gece"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Odunluk' kelimesinin kökü hangisidir?",
+  "options": [
+   "luk",
+   "odunl",
+   "odun",
+   "odu"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Sözlük' kelimesinin kökü hangisidir?",
+  "options": [
+   "sözlü",
+   "söz",
+   "lük",
+   "sö"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "'Kapıcı' kelimesinin kökü hangisidir?",
+  "options": [
+   "kapıc",
+   "kap",
+   "cı",
+   "kapı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Kök ve Ek",
+  "grade": 3
+ },
+ {
+  "question": "Cümlenin sonuna hangisi konur? 'Bugün hava çok güzel'",
+  "options": [
+   "soru işareti (?)",
+   "virgül (,)",
+   "iki nokta (:)",
+   "nokta (.)"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Soru cümlesinin sonuna hangisi konur? 'Okula geldin mi'",
+  "options": [
+   "ünlem (!)",
+   "nokta (.)",
+   "virgül (,)",
+   "soru işareti (?)"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Heyecan ve şaşkınlık bildiren cümlenin sonuna hangisi konur? 'Eyvah, çantam kalmış'",
+  "options": [
+   "soru işareti (?)",
+   "ünlem (!)",
+   "nokta (.)",
+   "noktalı virgül (;)"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Eş görevli kelimeler arasına hangisi konur? 'Elma armut kiraz aldık'",
+  "options": [
+   "tire (-)",
+   "nokta (.)",
+   "virgül (,)",
+   "ünlem (!)"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Özel isimlere gelen ekleri ayırmak için hangisi kullanılır? 'Ankara____dan geldik'",
+  "options": [
+   "kesme işareti (')",
+   "nokta (.)",
+   "tire (-)",
+   "virgül (,)"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Hangi cümlenin sonuna SORU İŞARETİ konmalıdır?",
+  "options": [
+   "Yarın sinemaya gelecek misin",
+   "Ne kadar güzel bir gün",
+   "Kitap okumayı severim",
+   "Bugün hava yağmurlu"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Hangi cümlenin sonuna ÜNLEM konmalıdır?",
+  "options": [
+   "Akşam ders çalıştım",
+   "Yarın okul var mı",
+   "İmdat, yangın var",
+   "Kardeşim uyuyor"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Hangisi özel isimdir ve kesme işaretiyle ayrılır?",
+  "options": [
+   "şehire",
+   "eve",
+   "İstanbul'a",
+   "okula"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Tarihlerin gün, ay, yıl bölümleri arasına ne konabilir? '23____Nisan____1920'",
+  "options": [
+   "noktalı virgül",
+   "ünlem",
+   "nokta veya eğik çizgi",
+   "soru işareti"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "Sıralama bildiren sayılardan sonra hangisi konur? '3____ sınıfa geçtim'",
+  "options": [
+   "virgül (,)",
+   "nokta (.)",
+   "kesme (')",
+   "ünlem (!)"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Noktalama İşaretleri",
+  "grade": 3
+ },
+ {
+  "question": "'Damlaya damlaya göl olur' atasözü neyi anlatır?",
+  "options": [
+   "Küçük birikimler zamanla büyük değer oluşturur",
+   "Göller yağmurla oluşur",
+   "Su israfı yapılmamalıdır",
+   "Damlayan musluk tamir edilmelidir"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Ağaç yaşken eğilir' atasözü neyi anlatır?",
+  "options": [
+   "Genç ağaçlar zayıftır",
+   "Eğitim küçük yaşta verilmelidir",
+   "Ağaçlar rüzgarda eğilir",
+   "Ağaçları küçükken budamalıyız"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'İşleyen demir ışıldar' atasözü neyi anlatır?",
+  "options": [
+   "Paslanan demir işe yaramaz",
+   "Çalışan insan gelişir ve başarılı olur",
+   "Demirciler çok çalışır",
+   "Demir parlak bir madendir"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Sakla samanı gelir zamanı' atasözü neyi anlatır?",
+  "options": [
+   "Kışın saman bulunmaz",
+   "Saman hayvanlar için saklanır",
+   "Çiftçiler saman biriktirir",
+   "Gereksiz görünen şeyler bir gün lazım olabilir"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Bir elin nesi var, iki elin sesi var' atasözü neyi anlatır?",
+  "options": [
+   "Birlikte çalışmak başarı getirir",
+   "Tek el ses çıkarmaz",
+   "İnsanın iki eli vardır",
+   "Alkış iki elle yapılır"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Gülme komşuna, gelir başına' atasözü neyi anlatır?",
+  "options": [
+   "Komşularla iyi geçinmeliyiz",
+   "Başkasının kötü durumuna gülmemeliyiz, aynısı bizim başımıza gelebilir",
+   "Gülmek sağlığa iyi gelir",
+   "Komşular birbirine yardım eder"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Damlaya damlaya' değil — 'Vakit nakittir' atasözü neyi anlatır?",
+  "options": [
+   "Para biriktirmek önemlidir",
+   "Saat almak gereklidir",
+   "Nakit para taşımalıyız",
+   "Zaman çok değerlidir, boşa harcanmamalıdır"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Ne ekersen onu biçersin' atasözü neyi anlatır?",
+  "options": [
+   "Çiftçilik zor bir iştir",
+   "Hasat sonbaharda yapılır",
+   "Davranışlarımızın sonucuyla karşılaşırız",
+   "Tarlaya tohum ekilir"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Akıl akıldan üstündür' atasözü neyi anlatır?",
+  "options": [
+   "Bazı insanlar daha zekidir",
+   "Zeka yarışması kazanmak güzeldir",
+   "Akıllı olmak önemlidir",
+   "Başkalarına danışmak faydalıdır"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Ayağını yorganına göre uzat' atasözü neyi anlatır?",
+  "options": [
+   "Yorgan ayağa göre alınır",
+   "Uyurken ayaklar örtülmelidir",
+   "Kısa yorgan üşütür",
+   "İmkanlarımıza göre harcama yapmalıyız"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Bugünün işini yarına bırakma' atasözü neyi anlatır?",
+  "options": [
+   "Yarın tatil olabilir",
+   "İşlerimizi ertelemeden zamanında yapmalıyız",
+   "Her günün işi farklıdır",
+   "Gece çalışmak zararlıdır"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Damlaya' değil — 'Denize düşen yılana sarılır' atasözü neyi anlatır?",
+  "options": [
+   "Denizde yılan bulunur",
+   "Yüzme bilmek önemlidir",
+   "Yılanlar tehlikelidir",
+   "Zor durumda kalan her çareye başvurur"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Üzüm üzüme baka baka kararır' atasözü neyi anlatır?",
+  "options": [
+   "Üzümler sonbaharda olgunlaşır",
+   "Bağcılık emek ister",
+   "Kara üzüm tatlıdır",
+   "İnsan arkadaşlarından etkilenir"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Taşıma suyla değirmen dönmez' atasözü neyi anlatır?",
+  "options": [
+   "Su taşımak yorucudur",
+   "İşler geçici çözümlerle değil kalıcı kaynaklarla yürür",
+   "Değirmenler artık kullanılmıyor",
+   "Değirmenler su ile çalışır"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Emek olmadan yemek olmaz' atasözü neyi anlatır?",
+  "options": [
+   "Çalışmadan başarı ve kazanç elde edilmez",
+   "Yemekten önce el yıkanır",
+   "Yemek yapmak emek ister",
+   "Aşçılık zor meslektir"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Kulak misafiri olmak' deyimi ne anlama gelir?",
+  "options": [
+   "Müzik dinlemek",
+   "Başkalarının konuşmasını istemeden duymak",
+   "Misafirliğe gitmek",
+   "Kulağı ağrımak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Göz kulak olmak' deyimi ne anlama gelir?",
+  "options": [
+   "Dikkatle televizyon izlemek",
+   "Korumak, ilgilenmek",
+   "Gözlük takmak",
+   "Gözü ve kulağı muayene ettirmek"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Etekleri zil çalmak' deyimi ne anlama gelir?",
+  "options": [
+   "Zil sesi duymak",
+   "Eteğine zil takmak",
+   "Müzik aleti çalmak",
+   "Çok sevinmek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Burnunda tütmek' deyimi ne anlama gelir?",
+  "options": [
+   "Duman koklamak",
+   "Burnu koku almak",
+   "Nezle olmak",
+   "Çok özlemek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Ağzı kulaklarına varmak' deyimi ne anlama gelir?",
+  "options": [
+   "Kulağı ağrımak",
+   "Yüksek sesle gülmek",
+   "Çok sevinmek, mutlu olmak",
+   "Ağzı büyük olmak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'İğne ile kuyu kazmak' deyimi ne anlama gelir?",
+  "options": [
+   "Dikiş dikmek",
+   "Bahçeyle uğraşmak",
+   "Çok zor bir işi sabırla yapmaya çalışmak",
+   "Kuyudan su çekmek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Kılı kırk yarmak' deyimi ne anlama gelir?",
+  "options": [
+   "Kırk gün beklemek",
+   "Saç kestirmek",
+   "Bir işi çok titiz ve dikkatli yapmak",
+   "Berberde çalışmak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Dilinde tüy bitmek' deyimi ne anlama gelir?",
+  "options": [
+   "Dili yaralanmak",
+   "Sessiz kalmayı sevmek",
+   "Konuşamamak",
+   "Aynı şeyi tekrar tekrar söylemekten yorulmak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Kulağına küpe olmak' deyimi ne anlama gelir?",
+  "options": [
+   "Kulağı delinmek",
+   "Yaşanan bir olaydan alınan dersi hiç unutmamak",
+   "Küpe takmayı sevmek",
+   "Takı mağazasında çalışmak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'El ele vermek' deyimi ne anlama gelir?",
+  "options": [
+   "El sıkışarak yarışmak",
+   "Tokalaşmak",
+   "Alkış tutmak",
+   "İş birliği yapmak, birlikte çalışmak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Başının etini yemek' deyimi ne anlama gelir?",
+  "options": [
+   "Yemek yapmak",
+   "Kavga etmek",
+   "Baş ağrısı çekmek",
+   "Sürekli aynı şeyi isteyerek bunaltmak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Gözden düşmek' deyimi ne anlama gelir?",
+  "options": [
+   "Merdivenden düşmek",
+   "Gözlüğü düşürmek",
+   "Değerini, sevilirliğini kaybetmek",
+   "Görme yeteneğini kaybetmek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Pireyi deve yapmak' deyimi ne anlama gelir?",
+  "options": [
+   "Hayvanları büyütmek",
+   "Deve beslemek",
+   "Küçük bir sorunu çok büyütmek",
+   "Masal anlatmak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Yüzü gülmek' deyimi ne anlama gelir?",
+  "options": [
+   "Mutlu olmak, sevinmek",
+   "Fıkra anlatmak",
+   "Şaka yapmak",
+   "Komik film izlemek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Tereyağından kıl çeker gibi' deyimi ne anlama gelir?",
+  "options": [
+   "Bir işi çok kolayca halletmek",
+   "Yağ eritmek",
+   "Kahvaltı hazırlamak",
+   "Yemek pişirmek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Soğuk' kelimesi hangi cümlede MECAZ anlamda kullanılmıştır?",
+  "options": [
+   "Bize çok soğuk davrandı.",
+   "Kışın hava çok soğuk olur.",
+   "Soğuk rüzgar yüzümü üşüttü.",
+   "Buzdolabındaki su soğuktu."
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Tatlı' kelimesi hangi cümlede MECAZ anlamda kullanılmıştır?",
+  "options": [
+   "Ne kadar tatlı bir çocuk!",
+   "Tatlı yemeyi çok severim.",
+   "Çaya iki şeker atınca tatlı oldu.",
+   "Baklava çok tatlıydı."
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Sıcak' kelimesi hangi cümlede MECAZ anlamda kullanılmıştır?",
+  "options": [
+   "Bizi çok sıcak karşıladılar.",
+   "Sıcak süt içmeyi severim.",
+   "Çorba hâlâ sıcaktı.",
+   "Yazın hava çok sıcaktır."
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Yanmak' kelimesi hangi cümlede GERÇEK anlamda kullanılmıştır?",
+  "options": [
+   "Geç kalırsak yandık.",
+   "Sobadaki odunlar yanıyor.",
+   "İçim yanıyor bu habere.",
+   "Sınavı kaçırınca yandım."
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Ağır' kelimesi hangi cümlede MECAZ anlamda kullanılmıştır?",
+  "options": [
+   "Bana çok ağır sözler söyledi.",
+   "Ağır kutuyu kaldıramadım.",
+   "Kamyona ağır yük yüklediler.",
+   "Bu çanta çok ağır."
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Boş' kelimesi hangi cümlede MECAZ anlamda kullanılmıştır?",
+  "options": [
+   "Kutunun içi boş çıktı.",
+   "Boş konuşmayı bırak artık.",
+   "Bardak bomboştu.",
+   "Sınıf boştu."
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Kara' kelimesi hangi cümlede MECAZ anlamda kullanılmıştır?",
+  "options": [
+   "Kara kalemle resim çizdim.",
+   "Kedimizin tüyleri kapkara.",
+   "Kara haber tez duyulur.",
+   "Kara bulutlar yaklaşıyor."
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Derin' kelimesi hangi cümlede MECAZ anlamda kullanılmıştır?",
+  "options": [
+   "Kuyu çok derindi.",
+   "Denizin derin yerleri koyu görünür.",
+   "Ona karşı derin bir sevgi besliyorum.",
+   "Havuzun derin tarafına girmeyin."
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Uçmak' kelimesi hangi cümlede GERÇEK anlamda kullanılmıştır?",
+  "options": [
+   "Haberi duyunca havalara uçtu.",
+   "Karne gününde mutluluktan uçtum.",
+   "Sevinçten uçuyorum!",
+   "Kuşlar gökyüzünde uçuyor."
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Kırmak' kelimesi hangi cümlede MECAZ anlamda kullanılmıştır?",
+  "options": [
+   "Cam kırıldı.",
+   "Cevizleri taşla kırdık.",
+   "Bu sözlerinle beni çok kırdın.",
+   "Vazoyu yanlışlıkla kırdı."
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Gerçek ve Mecaz Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Iyimser' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "yabancı",
+   "kötümser",
+   "kavgacı",
+   "gerçek"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Kötümser' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "tutumlu",
+   "üretim",
+   "iyimser",
+   "fedakar"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Üretim' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "tüketim",
+   "doğal",
+   "bencil",
+   "zarar"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Tüketim' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "kötümser",
+   "üretim",
+   "savurgan",
+   "tutsak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Yerli' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "yapay",
+   "doğal",
+   "barışçıl",
+   "yabancı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Yabancı' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "tüketim",
+   "yerli",
+   "zarar",
+   "yapay"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Doğal' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "kibirli",
+   "yapay",
+   "gerçek",
+   "zarar"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Yapay' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "savurgan",
+   "özgür",
+   "fedakar",
+   "doğal"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Kazanç' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "zarar",
+   "yapay",
+   "tutumlu",
+   "kavgacı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Zarar' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "kibirli",
+   "kavgacı",
+   "gerçek",
+   "kazanç"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Soyut' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "doğal",
+   "somut",
+   "yabancı",
+   "kazanç"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Somut' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "kötümser",
+   "tüketim",
+   "soyut",
+   "yapay"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Bencil' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "üretim",
+   "kötümser",
+   "hayal",
+   "fedakar"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Fedakar' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "üretim",
+   "yapay",
+   "bencil",
+   "soyut"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Savurgan' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "bencil",
+   "tutumlu",
+   "yapay",
+   "doğal"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Tutumlu' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "gerçek",
+   "savurgan",
+   "barışçıl",
+   "tüketim"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Gerçek' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "yerli",
+   "hayal",
+   "özgür",
+   "barışçıl"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Hayal' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "yerli",
+   "tüketim",
+   "doğal",
+   "gerçek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Özgür' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "yerli",
+   "somut",
+   "kavgacı",
+   "tutsak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Tutsak' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "yabancı",
+   "barışçıl",
+   "özgür",
+   "tüketim"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Barışçıl' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "fedakar",
+   "savurgan",
+   "zarar",
+   "kavgacı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Kavgacı' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "tüketim",
+   "hayal",
+   "kibirli",
+   "barışçıl"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Alçakgönüllü' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "yerli",
+   "özgür",
+   "kibirli",
+   "iyimser"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Kibirli' sözcüğünün ZIT anlamlısı hangisidir?",
+  "options": [
+   "yerli",
+   "alçakgönüllü",
+   "fedakar",
+   "doğal"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Sonuç' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "mühim",
+   "hediye",
+   "sebep",
+   "netice"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Netice' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "özgürlük",
+   "önemli",
+   "armağan",
+   "sonuç"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Neden' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "sebep",
+   "doğa",
+   "zengin",
+   "medeniyet"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Sebep' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "uygarlık",
+   "netice",
+   "neden",
+   "medeniyet"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Önemli' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "duyuru",
+   "mühim",
+   "neden",
+   "anı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Mühim' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "medeniyet",
+   "zengin",
+   "önemli",
+   "özgürlük"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Hediye' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "netice",
+   "armağan",
+   "mühim",
+   "duyuru"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Armağan' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "doğa",
+   "hediye",
+   "özgürlük",
+   "ilan"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Zengin' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "konuk",
+   "neden",
+   "sonuç",
+   "varlıklı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Varlıklı' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "mühim",
+   "sebep",
+   "zengin",
+   "ilan"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Konuk' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "hürriyet",
+   "tecrübe",
+   "mühim",
+   "misafir"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Misafir' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "tecrübe",
+   "tabiat",
+   "ilan",
+   "konuk"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Özgürlük' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "netice",
+   "sebep",
+   "zengin",
+   "hürriyet"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Hürriyet' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "deneyim",
+   "ilan",
+   "özgürlük",
+   "sonuç"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Anı' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "misafir",
+   "armağan",
+   "mühim",
+   "hatıra"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Hatıra' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "doğa",
+   "hürriyet",
+   "anı",
+   "varlıklı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Duyuru' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "ilan",
+   "konuk",
+   "uygarlık",
+   "medeniyet"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Ilan' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "duyuru",
+   "tabiat",
+   "medeniyet",
+   "sonuç"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Deneyim' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "konuk",
+   "tecrübe",
+   "neden",
+   "duyuru"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Tecrübe' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "özgürlük",
+   "neden",
+   "deneyim",
+   "önemli"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Uygarlık' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "medeniyet",
+   "ilan",
+   "tabiat",
+   "mühim"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Medeniyet' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "misafir",
+   "duyuru",
+   "uygarlık",
+   "hürriyet"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Doğa' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "zengin",
+   "tabiat",
+   "sonuç",
+   "uygarlık"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "'Tabiat' sözcüğünün EŞ anlamlısı hangisidir?",
+  "options": [
+   "sonuç",
+   "doğa",
+   "mühim",
+   "medeniyet"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 4
+ },
+ {
+  "question": "Küçük birikimlerin zamanla büyük değer oluşturduğunu anlatan atasözü hangisidir?",
+  "options": [
+   "Damlaya damlaya göl olur",
+   "İşleyen demir ışıldar",
+   "Vakit nakittir",
+   "Ağaç yaşken eğilir"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "Eğitimin küçük yaşta verilmesi gerektiğini anlatan atasözü hangisidir?",
+  "options": [
+   "Emek olmadan yemek olmaz",
+   "Damlaya damlaya göl olur",
+   "Sakla samanı gelir zamanı",
+   "Ağaç yaşken eğilir"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "Birlikte çalışmanın başarı getirdiğini anlatan atasözü hangisidir?",
+  "options": [
+   "Ayağını yorganına göre uzat",
+   "Bir elin nesi var, iki elin sesi var",
+   "Gülme komşuna, gelir başına",
+   "Ne ekersen onu biçersin"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "Çalışan insanın gelişeceğini anlatan atasözü hangisidir?",
+  "options": [
+   "İşleyen demir ışıldar",
+   "Denize düşen yılana sarılır",
+   "Akıl akıldan üstündür",
+   "Üzüm üzüme baka baka kararır"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "İnsanın arkadaşlarından etkilendiğini anlatan atasözü hangisidir?",
+  "options": [
+   "Vakit nakittir",
+   "Taşıma suyla değirmen dönmez",
+   "Sakla samanı gelir zamanı",
+   "Üzüm üzüme baka baka kararır"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "İmkanlara göre harcama yapmak gerektiğini anlatan atasözü hangisidir?",
+  "options": [
+   "Bugünün işini yarına bırakma",
+   "Bir elin nesi var, iki elin sesi var",
+   "Emek olmadan yemek olmaz",
+   "Ayağını yorganına göre uzat"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "Zamanın çok değerli olduğunu anlatan atasözü hangisidir?",
+  "options": [
+   "Kılı kırk yarmak",
+   "Vakit nakittir",
+   "Gülme komşuna, gelir başına",
+   "Damlaya damlaya göl olur"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "İşleri ertelememek gerektiğini anlatan atasözü hangisidir?",
+  "options": [
+   "Bugünün işini yarına bırakma",
+   "Ağaç yaşken eğilir",
+   "Akıl akıldan üstündür",
+   "Ne ekersen onu biçersin"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "Danışmanın faydalı olduğunu anlatan atasözü hangisidir?",
+  "options": [
+   "Damlaya damlaya göl olur",
+   "İşleyen demir ışıldar",
+   "Akıl akıldan üstündür",
+   "Üzüm üzüme baka baka kararır"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "Çalışmadan kazanç olmayacağını anlatan atasözü hangisidir?",
+  "options": [
+   "Vakit nakittir",
+   "Sakla samanı gelir zamanı",
+   "Emek olmadan yemek olmaz",
+   "Bir elin nesi var, iki elin sesi var"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Atasözleri",
+  "grade": 4
+ },
+ {
+  "question": "'Çok sevinmek' anlamına gelen deyim hangisidir?",
+  "options": [
+   "Etekleri zil çalmak",
+   "Gözden düşmek",
+   "İğne ile kuyu kazmak",
+   "Kulak misafiri olmak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Çok özlemek' anlamına gelen deyim hangisidir?",
+  "options": [
+   "Kılı kırk yarmak",
+   "Burnunda tütmek",
+   "El ele vermek",
+   "Başının etini yemek"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Korumak, ilgilenmek' anlamına gelen deyim hangisidir?",
+  "options": [
+   "Yüzü gülmek",
+   "Göz kulak olmak",
+   "Dilinde tüy bitmek",
+   "Pireyi deve yapmak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Bir işi çok titiz yapmak' anlamına gelen deyim hangisidir?",
+  "options": [
+   "Kulağına küpe olmak",
+   "Etekleri zil çalmak",
+   "Tereyağından kıl çeker gibi",
+   "Kılı kırk yarmak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Küçük sorunu büyütmek' anlamına gelen deyim hangisidir?",
+  "options": [
+   "Göz kulak olmak",
+   "Burnunda tütmek",
+   "Pireyi deve yapmak",
+   "El ele vermek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'İş birliği yapmak' anlamına gelen deyim hangisidir?",
+  "options": [
+   "El ele vermek",
+   "Gözden düşmek",
+   "Ağzı kulaklarına varmak",
+   "İğne ile kuyu kazmak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Alınan dersi unutmamak' anlamına gelen deyim hangisidir?",
+  "options": [
+   "Etekleri zil çalmak",
+   "Pireyi deve yapmak",
+   "Kulağına küpe olmak",
+   "Dilinde tüy bitmek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "'Bir işi çok kolay yapmak' anlamına gelen deyim hangisidir?",
+  "options": [
+   "Başının etini yemek",
+   "İğne ile kuyu kazmak",
+   "Tereyağından kıl çeker gibi yapmak",
+   "Kılı kırk yarmak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Deyimler",
+  "grade": 4
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hızlı - çabuk",
+   "artmak - azalmak",
+   "hediye - armağan",
+   "misal - örnek"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "asır - yüzyıl",
+   "misal - örnek",
+   "mutlu - sevinçli",
+   "özgür - tutsak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "meşhur - ünlü",
+   "iyimser - kötümser",
+   "neden - sebep"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "savurgan - tutumlu",
+   "sonuç - netice",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "konuk - misafir",
+   "taze - bayat",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "meşhur - ünlü",
+   "özgür - tutsak",
+   "deneyim - tecrübe",
+   "mutlu - sevinçli"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "meşhur - ünlü",
+   "sonuç - netice",
+   "hızlı - çabuk"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "özgür - tutsak",
+   "hediye - armağan",
+   "misal - örnek",
+   "hızlı - çabuk"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hızlı - çabuk",
+   "hediye - armağan",
+   "övmek - yermek",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "taze - bayat",
+   "asır - yüzyıl",
+   "sonuç - netice",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "misal - örnek",
+   "mutlu - sevinçli",
+   "çalışkan - tembel",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "konuk - misafir",
+   "asır - yüzyıl",
+   "misal - örnek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "sonuç - netice",
+   "çalışkan - tembel",
+   "mutlu - sevinçli",
+   "deneyim - tecrübe"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "hızlı - çabuk",
+   "alçakgönüllü - kibirli",
+   "meşhur - ünlü"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "hızlı - çabuk",
+   "sonuç - netice",
+   "hediye - armağan"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "sonuç - netice",
+   "hediye - armağan",
+   "deneyim - tecrübe",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hediye - armağan",
+   "konuk - misafir",
+   "sonuç - netice",
+   "taze - bayat"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hızlı - çabuk",
+   "hediye - armağan",
+   "mutlu - sevinçli",
+   "özgür - tutsak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "misal - örnek",
+   "deneyim - tecrübe",
+   "mutlu - sevinçli",
+   "derin - sığ"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "artmak - azalmak",
+   "meşhur - ünlü",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "misal - örnek",
+   "hızlı - çabuk",
+   "artmak - azalmak",
+   "deneyim - tecrübe"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "sonuç - netice",
+   "hızlı - çabuk",
+   "özgür - tutsak",
+   "mutlu - sevinçli"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hediye - armağan",
+   "neden - sebep",
+   "çalışkan - tembel",
+   "hızlı - çabuk"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "doğal - yapay",
+   "misal - örnek",
+   "hediye - armağan",
+   "deneyim - tecrübe"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "mutlu - sevinçli",
+   "doğal - yapay",
+   "misal - örnek",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "hızlı - çabuk",
+   "neden - sebep",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "mutlu - sevinçli",
+   "deneyim - tecrübe",
+   "asır - yüzyıl",
+   "taze - bayat"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "mutlu - sevinçli",
+   "iyimser - kötümser",
+   "hediye - armağan"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "misal - örnek",
+   "derin - sığ",
+   "meşhur - ünlü"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "asır - yüzyıl",
+   "misal - örnek",
+   "meşhur - ünlü",
+   "cömert - cimri"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "artmak - azalmak",
+   "asır - yüzyıl",
+   "meşhur - ünlü",
+   "neden - sebep"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "misal - örnek",
+   "hediye - armağan",
+   "hızlı - çabuk",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "mutlu - sevinçli",
+   "hızlı - çabuk",
+   "alçakgönüllü - kibirli",
+   "meşhur - ünlü"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hediye - armağan",
+   "konuk - misafir",
+   "övmek - yermek",
+   "misal - örnek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hediye - armağan",
+   "neden - sebep",
+   "misal - örnek",
+   "derin - sığ"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "asır - yüzyıl",
+   "meşhur - ünlü",
+   "doğal - yapay",
+   "misal - örnek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hızlı - çabuk",
+   "hediye - armağan",
+   "cömert - cimri",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "neden - sebep",
+   "konuk - misafir",
+   "cömert - cimri",
+   "deneyim - tecrübe"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "doğal - yapay",
+   "hızlı - çabuk",
+   "sonuç - netice",
+   "deneyim - tecrübe"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "konuk - misafir",
+   "mutlu - sevinçli",
+   "özgür - tutsak",
+   "neden - sebep"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "konuk - misafir",
+   "çalışkan - tembel",
+   "deneyim - tecrübe",
+   "mutlu - sevinçli"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "misal - örnek",
+   "özgür - tutsak",
+   "sonuç - netice"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "sonuç - netice",
+   "deneyim - tecrübe",
+   "övmek - yermek",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "savurgan - tutumlu",
+   "hediye - armağan",
+   "misal - örnek",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "mutlu - sevinçli",
+   "deneyim - tecrübe",
+   "sonuç - netice",
+   "taze - bayat"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "çalışkan - tembel",
+   "meşhur - ünlü",
+   "sonuç - netice",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hediye - armağan",
+   "savurgan - tutumlu",
+   "meşhur - ünlü",
+   "neden - sebep"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "iyimser - kötümser",
+   "misal - örnek",
+   "hızlı - çabuk",
+   "sonuç - netice"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "taze - bayat",
+   "meşhur - ünlü",
+   "deneyim - tecrübe",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "sonuç - netice",
+   "hediye - armağan",
+   "artmak - azalmak",
+   "neden - sebep"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "hediye - armağan",
+   "acemi - usta",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "asır - yüzyıl",
+   "neden - sebep",
+   "taze - bayat",
+   "sonuç - netice"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "hızlı - çabuk",
+   "neden - sebep",
+   "deneyim - tecrübe",
+   "özgür - tutsak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "mutlu - sevinçli",
+   "iyimser - kötümser",
+   "sonuç - netice",
+   "hediye - armağan"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "iyimser - kötümser",
+   "neden - sebep",
+   "konuk - misafir",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "konuk - misafir",
+   "neden - sebep",
+   "doğal - yapay",
+   "misal - örnek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "konuk - misafir",
+   "alçakgönüllü - kibirli",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "mutlu - sevinçli",
+   "alçakgönüllü - kibirli",
+   "misal - örnek",
+   "konuk - misafir"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "çalışkan - tembel",
+   "misal - örnek",
+   "neden - sebep",
+   "mutlu - sevinçli"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi ZIT anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "doğal - yapay",
+   "konuk - misafir",
+   "meşhur - ünlü"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Zıt Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "misal - örnek",
+   "alçakgönüllü - kibirli",
+   "cömert - cimri",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "hızlı - çabuk",
+   "acemi - usta",
+   "özgür - tutsak",
+   "çalışkan - tembel"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "cömert - cimri",
+   "derin - sığ",
+   "hızlı - çabuk"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "alçakgönüllü - kibirli",
+   "meşhur - ünlü",
+   "taze - bayat",
+   "cömert - cimri"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "mutlu - sevinçli",
+   "acemi - usta",
+   "iyimser - kötümser"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "neden - sebep",
+   "derin - sığ",
+   "savurgan - tutumlu",
+   "özgür - tutsak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "doğal - yapay",
+   "alçakgönüllü - kibirli",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "asır - yüzyıl",
+   "taze - bayat",
+   "cömert - cimri"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "hızlı - çabuk",
+   "iyimser - kötümser",
+   "derin - sığ",
+   "savurgan - tutumlu"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "iyimser - kötümser",
+   "cömert - cimri",
+   "derin - sığ",
+   "misal - örnek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "artmak - azalmak",
+   "övmek - yermek",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "acemi - usta",
+   "mutlu - sevinçli",
+   "çalışkan - tembel",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "doğal - yapay",
+   "konuk - misafir",
+   "savurgan - tutumlu",
+   "acemi - usta"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "meşhur - ünlü",
+   "cömert - cimri",
+   "özgür - tutsak",
+   "iyimser - kötümser"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "meşhur - ünlü",
+   "savurgan - tutumlu",
+   "acemi - usta",
+   "derin - sığ"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "neden - sebep",
+   "acemi - usta",
+   "savurgan - tutumlu",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "alçakgönüllü - kibirli",
+   "mutlu - sevinçli",
+   "taze - bayat",
+   "özgür - tutsak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "meşhur - ünlü",
+   "övmek - yermek",
+   "derin - sığ",
+   "alçakgönüllü - kibirli"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "taze - bayat",
+   "mutlu - sevinçli",
+   "doğal - yapay",
+   "artmak - azalmak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "çalışkan - tembel",
+   "misal - örnek",
+   "acemi - usta",
+   "alçakgönüllü - kibirli"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "çalışkan - tembel",
+   "övmek - yermek",
+   "sonuç - netice",
+   "artmak - azalmak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "asır - yüzyıl",
+   "doğal - yapay",
+   "acemi - usta",
+   "iyimser - kötümser"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "özgür - tutsak",
+   "neden - sebep",
+   "çalışkan - tembel",
+   "savurgan - tutumlu"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "iyimser - kötümser",
+   "hediye - armağan",
+   "acemi - usta"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "taze - bayat",
+   "misal - örnek",
+   "artmak - azalmak",
+   "cömert - cimri"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "çalışkan - tembel",
+   "övmek - yermek",
+   "konuk - misafir",
+   "artmak - azalmak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "doğal - yapay",
+   "neden - sebep",
+   "övmek - yermek",
+   "taze - bayat"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "çalışkan - tembel",
+   "deneyim - tecrübe",
+   "cömert - cimri"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "doğal - yapay",
+   "meşhur - ünlü",
+   "çalışkan - tembel"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "savurgan - tutumlu",
+   "hızlı - çabuk",
+   "cömert - cimri",
+   "taze - bayat"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "iyimser - kötümser",
+   "doğal - yapay",
+   "artmak - azalmak",
+   "sonuç - netice"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "misal - örnek",
+   "taze - bayat",
+   "artmak - azalmak",
+   "iyimser - kötümser"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "alçakgönüllü - kibirli",
+   "doğal - yapay",
+   "misal - örnek",
+   "övmek - yermek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "neden - sebep",
+   "övmek - yermek",
+   "alçakgönüllü - kibirli",
+   "özgür - tutsak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "alçakgönüllü - kibirli",
+   "çalışkan - tembel",
+   "acemi - usta",
+   "mutlu - sevinçli"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "asır - yüzyıl",
+   "cömert - cimri",
+   "çalışkan - tembel",
+   "taze - bayat"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "artmak - azalmak",
+   "acemi - usta",
+   "asır - yüzyıl",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "cömert - cimri",
+   "taze - bayat",
+   "neden - sebep"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "doğal - yapay",
+   "asır - yüzyıl",
+   "cömert - cimri",
+   "derin - sığ"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "savurgan - tutumlu",
+   "asır - yüzyıl",
+   "cömert - cimri"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "doğal - yapay",
+   "iyimser - kötümser",
+   "savurgan - tutumlu"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "çalışkan - tembel",
+   "artmak - azalmak",
+   "övmek - yermek",
+   "mutlu - sevinçli"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "konuk - misafir",
+   "övmek - yermek",
+   "taze - bayat",
+   "derin - sığ"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "cömert - cimri",
+   "savurgan - tutumlu",
+   "hızlı - çabuk",
+   "çalışkan - tembel"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "artmak - azalmak",
+   "özgür - tutsak",
+   "asır - yüzyıl",
+   "övmek - yermek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "cömert - cimri",
+   "artmak - azalmak",
+   "sonuç - netice",
+   "savurgan - tutumlu"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "neden - sebep",
+   "artmak - azalmak",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "artmak - azalmak",
+   "doğal - yapay",
+   "çalışkan - tembel",
+   "hızlı - çabuk"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "iyimser - kötümser",
+   "cömert - cimri",
+   "sonuç - netice"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "sonuç - netice",
+   "acemi - usta",
+   "artmak - azalmak",
+   "derin - sığ"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "savurgan - tutumlu",
+   "deneyim - tecrübe",
+   "övmek - yermek"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "artmak - azalmak",
+   "özgür - tutsak",
+   "doğal - yapay",
+   "meşhur - ünlü"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "çalışkan - tembel",
+   "hediye - armağan",
+   "acemi - usta"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "cömert - cimri",
+   "artmak - azalmak",
+   "acemi - usta",
+   "asır - yüzyıl"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "mutlu - sevinçli",
+   "artmak - azalmak",
+   "savurgan - tutumlu"
+  ],
+  "correctAnswer": 1,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "savurgan - tutumlu",
+   "cömert - cimri",
+   "taze - bayat",
+   "deneyim - tecrübe"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "övmek - yermek",
+   "acemi - usta",
+   "asır - yüzyıl",
+   "doğal - yapay"
+  ],
+  "correctAnswer": 2,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "deneyim - tecrübe",
+   "acemi - usta",
+   "çalışkan - tembel",
+   "savurgan - tutumlu"
+  ],
+  "correctAnswer": 0,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "derin - sığ",
+   "övmek - yermek",
+   "taze - bayat",
+   "neden - sebep"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
+ },
+ {
+  "question": "Aşağıdakilerden hangisi EŞ anlamlı kelime çiftidir?",
+  "options": [
+   "alçakgönüllü - kibirli",
+   "savurgan - tutumlu",
+   "çalışkan - tembel",
+   "misal - örnek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Türkçe",
+  "theme": "Eş Anlam",
+  "grade": 3
  }
 ]

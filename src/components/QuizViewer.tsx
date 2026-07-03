@@ -615,6 +615,15 @@ const QuizViewer: React.FC = () => {
       localStorage.setItem(AKTIF_KEY, ad);
       setProfilAdi(ad);
     };
+    const profilSil = (ad: string, e: React.MouseEvent) => {
+      e.stopPropagation();
+      if (!confirm(`"${ad}" profili tüm puanları ve hata kutusuyla birlikte silinecek. Emin misin?`)) return;
+      const guncel = profiller.filter(pr => pr.ad !== ad);
+      profilleriKaydet(guncel);
+      setProfiller(guncel);
+      localStorage.removeItem(statsKey(ad));
+      localStorage.removeItem(hatalarKey(ad));
+    };
     const EMOJI = ['🦁','🌟','🦋','🚀','🌈','🐬','🦄','🍀'];
 
     if (profiller.length > 0 && !yeniProfilModu) {
@@ -625,11 +634,14 @@ const QuizViewer: React.FC = () => {
           <p className="profil-alt">Adına dokun ve başla!</p>
           <div className="profil-kart-grid">
             {profiller.map((pr, i) => (
-              <button key={pr.ad} className="profil-kart" onClick={() => profilSec(pr.ad)}>
+              <div key={pr.ad} className="profil-kart" role="button" tabIndex={0}
+                onClick={() => profilSec(pr.ad)}
+                onKeyDown={(e) => { if (e.key === 'Enter') profilSec(pr.ad); }}>
+                <span className="profil-kart-sil" onClick={(e) => profilSil(pr.ad, e)} title="Profili sil">✕</span>
                 <span className="profil-kart-emoji">{EMOJI[i % EMOJI.length]}</span>
                 <span className="profil-kart-ad">{pr.ad}</span>
                 <span className="profil-kart-sinif">{pr.sinif}. Sınıf</span>
-              </button>
+              </div>
             ))}
             <button className="profil-kart profil-kart-yeni" onClick={() => setYeniProfilModu(true)}>
               <span className="profil-kart-emoji">➕</span>
