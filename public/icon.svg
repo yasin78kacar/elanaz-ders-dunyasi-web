@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#7F77DD"/>
+  <circle cx="256" cy="216" r="120" fill="#D4537E"/>
+  <circle cx="216" cy="176" r="34" fill="#e8799e" opacity="0.85"/>
+  <path d="M256 336 L242 366 L270 366 Z" fill="#b13a63"/>
+  <path d="M256 366 C 256 400, 236 414, 246 448 C 252 468, 264 468, 268 448 C 276 416, 256 402, 256 386" stroke="#fffbe9" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <text x="256" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="96" font-weight="bold" fill="#fffbe9">DD</text>
+</svg>

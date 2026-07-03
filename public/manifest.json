@@ -1,0 +1,16 @@
+{
+  "name": "Elanaz'ın Ders Dünyası",
+  "short_name": "Ders Dünyası",
+  "description": "Çocuklar için ücretsiz, MEB uyumlu öğrenme dünyası: 13.000+ soru, hikayeler ve oyunlar.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1a2e",
+  "theme_color": "#7F77DD",
+  "lang": "tr",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
