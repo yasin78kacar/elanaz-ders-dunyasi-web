@@ -42,9 +42,6 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const [testBitti, setTestBitti] = useState(false);
 
   const tumListe = (dil === 'tr' ? hikayeler : ingilizceHikayeler) as Hikaye[];
-  if (hikayeYukleniyor) {
-    return <div className="hikaye-container"><p style={{textAlign:'center',marginTop:'40px'}}>📚 Hikayeler yükleniyor...</p></div>;
-  }
   const liste = tumListe.filter(h => uzunMu ? (h as any).uzun === true : !(h as any).uzun);
   const sesDili = dil === 'tr' ? 'tr-TR' : 'en-US';
 
@@ -53,6 +50,10 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
     window.speechSynthesis.onvoiceschanged = () => { window.speechSynthesis.getVoices(); };
     return () => { window.speechSynthesis.cancel(); };
   }, []);
+
+  if (hikayeYukleniyor) {
+    return <div className="hikaye-container"><p style={{textAlign:'center',marginTop:'40px'}}>📚 Hikayeler yükleniyor...</p></div>;
+  }
 
   const enIyiSesiSec = (lang: string) => {
     const sesler = window.speechSynthesis.getVoices();
