@@ -86,6 +86,30 @@ function profilleriKaydet(liste: Profil[]) {
   localStorage.setItem(PROFIL_KEY, JSON.stringify(liste));
 }
 // Eski tek-profil verisini yeni sisteme tasir (puan kaybi olmaz, bir kez calisir)
+declare const __BUILD_ID__: string;
+
+// Yeni surum kontrolu: version.json'daki damga uygulamadakinden farkliysa
+// sayfayi onbellegi atlayarak yeniler. Kizlar hicbir sey yapmadan guncel kalir.
+let guncellemeKontrolEdildi = false;
+async function guncellemeVarsaYenile(zorla = false) {
+  try {
+    if (guncellemeKontrolEdildi && !zorla) return;
+    guncellemeKontrolEdildi = true;
+    const r = await fetch('/version.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) return;
+    const { v } = await r.json();
+    if (v && v !== __BUILD_ID__) {
+      window.location.reload();
+    } else if (zorla) {
+      alert('Uygulama zaten güncel! ✓');
+    }
+  } catch { /* cevrimdisi ise sessizce gec */ }
+}
+guncellemeVarsaYenile();
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') { guncellemeKontrolEdildi = false; guncellemeVarsaYenile(); }
+});
+
 function eskiVeriyiTasi() {
   const eskiAd = localStorage.getItem('aktifProfilAdi');
   if (!eskiAd) return;
@@ -474,6 +498,12 @@ const QuizViewer: React.FC = () => {
           <h3>🌱 Sürekli gelişiyor</h3>
           <p>Ders Dünyası güncellemeye açık, yaşayan bir projedir. Yeni sorular, hikâyeler ve
           özellikler zamanla eklenmeye devam edecek. Amacımız, uygulamayı çocuklarla birlikte büyütmek.</p>
+        </div>
+
+        <div className="hakkinda-bolum">
+          <h3>🔄 Güncelleme</h3>
+          <p>Uygulama yeni sürümleri kendiliğinden alır. Bir sorun görürsen bu butona dokun:</p>
+          <button className="home-action-btn" onClick={() => guncellemeVarsaYenile(true)}>🔄 Şimdi Güncelle</button>
         </div>
 
         <div className="hakkinda-bolum hakkinda-son">
