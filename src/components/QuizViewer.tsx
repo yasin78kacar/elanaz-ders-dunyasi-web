@@ -127,6 +127,38 @@ document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'visible') { guncellemeKontrolEdildi = false; guncellemeVarsaYenile(); }
 });
 
+// ---- YEDEKLEME: dersdunyasi_* anahtarlarini tek dosyada indir/yukle ----
+function yedekIndir() {
+  const veri: { [k: string]: string } = {};
+  for (let i = 0; i < localStorage.length; i++) {
+    const k = localStorage.key(i);
+    if (k && k.startsWith('dersdunyasi_')) veri[k] = localStorage.getItem(k) || '';
+  }
+  const blob = new Blob([JSON.stringify({ surum: 1, tarih: new Date().toISOString(), veri }, null, 1)],
+    { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `ders-dunyasi-yedek-${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+function yedekYukle(dosya: File, tamamlandi: () => void) {
+  const okuyucu = new FileReader();
+  okuyucu.onload = () => {
+    try {
+      const paket = JSON.parse(String(okuyucu.result));
+      if (!paket || typeof paket.veri !== 'object') { alert('Bu dosya geçerli bir yedek değil.'); return; }
+      const anahtarlar = Object.keys(paket.veri).filter(k => k.startsWith('dersdunyasi_'));
+      if (anahtarlar.length === 0) { alert('Yedekte veri bulunamadı.'); return; }
+      if (!confirm(`${anahtarlar.length} kayıt yüklenecek ve mevcut verilerin üzerine yazılacak. Devam?`)) return;
+      anahtarlar.forEach(k => localStorage.setItem(k, paket.veri[k]));
+      alert('Yedek yüklendi! ✓ Uygulama yenileniyor...');
+      tamamlandi();
+    } catch { alert('Dosya okunamadı.'); }
+  };
+  okuyucu.readAsText(dosya);
+}
+
 function eskiVeriyiTasi() {
   const eskiAd = localStorage.getItem('aktifProfilAdi');
   if (!eskiAd) return;
@@ -515,6 +547,23 @@ const QuizViewer: React.FC = () => {
           <h3>🌱 Sürekli gelişiyor</h3>
           <p>Ders Dünyası güncellemeye açık, yaşayan bir projedir. Yeni sorular, hikâyeler ve
           özellikler zamanla eklenmeye devam edecek. Amacımız, uygulamayı çocuklarla birlikte büyütmek.</p>
+        </div>
+
+        <div className="hakkinda-bolum">
+          <h3>💾 Yedekleme</h3>
+          <p>Tüm profiller, puanlar ve hata kutuları tek dosyada. Cihaz değişse bile ilerleme kaybolmaz.</p>
+          <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+            <button className="home-action-btn" onClick={yedekIndir}>💾 Yedek İndir</button>
+            <label className="home-action-btn" style={{ cursor: 'pointer', margin: 0 }}>
+              📂 Yedek Yükle
+              <input type="file" accept=".json,application/json" style={{ display: 'none' }}
+                onChange={(e) => {
+                  const f = e.target.files?.[0];
+                  if (f) yedekYukle(f, () => window.location.reload());
+                  e.target.value = '';
+                }} />
+            </label>
+          </div>
         </div>
 
         <div className="hakkinda-bolum">
