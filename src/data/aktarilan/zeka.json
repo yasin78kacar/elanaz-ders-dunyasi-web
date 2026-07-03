@@ -105,36 +105,6 @@
   "grade": 1
  },
  {
-  "id": "zd_0102",
-  "subject": "Zeka-Dikkat",
-  "theme": "Farklı Olanı Bulma — Şekil",
-  "question": "Aşağıdaki dizide farklı olan hangisidir?",
-  "options": [
-   "Kare",
-   "Daire",
-   "Üçgen",
-   "Yıldız"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta",
-  "grade": 1
- },
- {
-  "id": "zd_0103",
-  "subject": "Zeka-Dikkat",
-  "theme": "Farklı Olanı Bulma — Şekil",
-  "question": "Aşağıdaki dizide farklı olan hangisidir?",
-  "options": [
-   "Yıldız",
-   "Kare",
-   "Üçgen",
-   "Daire"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta",
-  "grade": 1
- },
- {
   "id": "zd_0151",
   "subject": "Zeka-Dikkat",
   "theme": "İleri Zeka Bulmacaları",
@@ -273,7 +243,7 @@
   "id": "zd_0218",
   "subject": "Zeka-Dikkat",
   "theme": "Karma Örüntü",
-  "question": "kare, ucgen, daire, ? örüntüsünde eksik şekil hangisidir?",
+  "question": "kare, üçgen, daire, ? örüntüsünde eksik şekil hangisidir?",
   "options": [
    "Yıldız",
    "Daire",
@@ -303,7 +273,7 @@
   "id": "zd_0220",
   "subject": "Zeka-Dikkat",
   "theme": "Karma Örüntü",
-  "question": "ucgen, daire, ? örüntüsünde eksik şekil hangisidir?",
+  "question": "üçgen, daire, ? örüntüsünde eksik şekil hangisidir?",
   "options": [
    "Daire",
    "Üçgen",
@@ -318,7 +288,7 @@
   "id": "zd_0221",
   "subject": "Zeka-Dikkat",
   "theme": "Karma Örüntü",
-  "question": "kare, kare, ucgen, ? örüntüsünde eksik şekil hangisidir?",
+  "question": "kare, kare, üçgen, ? örüntüsünde eksik şekil hangisidir?",
   "options": [
    "Daire",
    "Üçgen",
@@ -14173,7 +14143,7 @@
   "grade": 3
  },
  {
-  "question": "Ali'nın çantası Berk'ninkinden ağırdır. Zeynep'nin çantası Ali'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+  "question": "Ali'nın çantası Berk'inkinden ağırdır. Zeynep'in çantası Ali'nınkinden ağırdır. EN HAFİF çanta kimindir?",
   "options": [
    "Zeynep",
    "Ali",
@@ -14264,7 +14234,7 @@
   "grade": 3
  },
  {
-  "question": "Can'nın çantası Fatma'ninkinden ağırdır. Mehmet'nin çantası Can'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+  "question": "Can'nın çantası Fatma'nınkinden ağırdır. Mehmet'in çantası Can'nınkinden ağırdır. EN HAFİF çanta kimindir?",
   "options": [
    "Can",
    "Mehmet",
@@ -14290,7 +14260,7 @@
   "grade": 3
  },
  {
-  "question": "Yusuf'nın çantası Berk'ninkinden ağırdır. Ayşe'nin çantası Yusuf'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+  "question": "Yusuf'nın çantası Berk'inkinden ağırdır. Ayşe'nin çantası Yusuf'nınkinden ağırdır. EN HAFİF çanta kimindir?",
   "options": [
    "Ayşe",
    "Yusuf",
@@ -14472,7 +14442,7 @@
   "grade": 3
  },
  {
-  "question": "Zeynep'nın çantası Berk'ninkinden ağırdır. Can'nin çantası Zeynep'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+  "question": "Zeynep'nın çantası Berk'inkinden ağırdır. Can'ın çantası Zeynep'nınkinden ağırdır. EN HAFİF çanta kimindir?",
   "options": [
    "Berk",
    "Hepsi eşit",
@@ -14563,7 +14533,7 @@
   "grade": 3
  },
  {
-  "question": "Fatma'nın çantası Hande'ninkinden ağırdır. Mehmet'nin çantası Fatma'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+  "question": "Fatma'nın çantası Hande'ninkinden ağırdır. Mehmet'in çantası Fatma'nınkinden ağırdır. EN HAFİF çanta kimindir?",
   "options": [
    "Hepsi eşit",
    "Fatma",
@@ -14654,7 +14624,7 @@
   "grade": 3
  },
  {
-  "question": "Ayşe'nın çantası Selin'ninkinden ağırdır. Ali'nin çantası Ayşe'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+  "question": "Ayşe'nın çantası Selin'inkinden ağırdır. Ali'nin çantası Ayşe'nınkinden ağırdır. EN HAFİF çanta kimindir?",
   "options": [
    "Ali",
    "Hepsi eşit",
@@ -14680,7 +14650,7 @@
   "grade": 3
  },
  {
-  "question": "Ali'nın çantası Mehmet'ninkinden ağırdır. Can'nin çantası Ali'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+  "question": "Ali'nın çantası Mehmet'inkinden ağırdır. Can'ın çantası Ali'nınkinden ağırdır. EN HAFİF çanta kimindir?",
   "options": [
    "Can",
    "Ali",
@@ -14745,7 +14715,7 @@
   "grade": 3
  },
  {
-  "question": "Selin'nın çantası Yusuf'ninkinden ağırdır. Hande'nin çantası Selin'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+  "question": "Selin'nın çantası Yusuf'unkinden ağırdır. Hande'nin çantası Selin'nınkinden ağırdır. EN HAFİF çanta kimindir?",
   "options": [
    "Selin",
    "Hepsi eşit",

@@ -350,10 +350,10 @@
   "theme": "Bitkiler",
   "question": "🎭 Çiçeği olmayan bitki canlı olamaz mı?",
   "options": [
-   "Hayır, çiçeksiz olamaz",
+   "Hayır, çiçeğiz olamaz",
    "Olabilir, çiçeği olmayabilir",
    "Evet, çiçek şart",
-   "Sadece ağaçlar çiçeksiz"
+   "Sadece ağaçlar çiçeğiz"
   ],
   "correctAnswer": 1,
   "difficulty": "Orta",
@@ -363,7 +363,7 @@
   "id": "fn_0025",
   "subject": "Fen Bilimleri",
   "theme": "Bitkiler",
-  "question": "🎭 Bitki toprakta mı hava da mı yaşar?",
+  "question": "🎭 Bitki toprakta mı havada mı yaşar?",
   "options": [
    "Havada",
    "Suda",

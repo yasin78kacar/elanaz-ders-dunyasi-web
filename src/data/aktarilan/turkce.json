@@ -3354,21 +3354,6 @@
   "grade": 2
  },
  {
-  "id": "tr_0245",
-  "subject": "Türkçe",
-  "theme": "Hikâye",
-  "question": "Hikâyede \"kahraman\" ne demektir?",
-  "options": [
-   "Olayı yaşayan kişi",
-   "Metnin başlığı",
-   "Son cümle",
-   "Yazarın adı"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
   "id": "tr_0246",
   "subject": "Türkçe",
   "theme": "Hikâye",
@@ -3380,51 +3365,6 @@
    "Tablo okunur"
   ],
   "correctAnswer": 0,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
-  "id": "tr_0247",
-  "subject": "Türkçe",
-  "theme": "Hikâye",
-  "question": "Aşağıdakilerden hangisi hikâye metninin özelliğidir?",
-  "options": [
-   "Kahraman, olay ve yer içerir",
-   "Dizelerden oluşur",
-   "Kafiyelidir",
-   "Sadece bilgi verir"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
-  "id": "tr_0248",
-  "subject": "Türkçe",
-  "theme": "Hikâye",
-  "question": "Hikâyede sonuç bölümü neyi anlatır?",
-  "options": [
-   "Kahramanın adını",
-   "Yalnızca zamanı",
-   "Mekanın rengini",
-   "Olayın nasıl bittiğini"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
-  "id": "tr_0249",
-  "subject": "Türkçe",
-  "theme": "Hikâye",
-  "question": "Aşağıdakilerden hangisi hikâye başlığı olabilir?",
-  "options": [
-   "Mevsimler",
-   "Kayıp Uçurtma",
-   "Rüzgar Nedir?",
-   "Çarpım Tablosu"
-  ],
-  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 2
  },
@@ -8015,96 +7955,6 @@
   "correctAnswer": 2,
   "difficulty": "Orta",
   "passage": "Deniz büyük, deniz derin,\nDalgalar oynar benimle.\nKumlar altın sarısı,\nGüneş gülümser geride.\n\nMartılar uçar gökte,\nBen de dalmak istiyorum.\nDenize her bakışımda,\nMutluluk doluyorum.",
-  "grade": 2
- },
- {
-  "id": "tr_0698",
-  "subject": "Türkçe",
-  "theme": "Şiir",
-  "question": "Şiirde kıta nedir?",
-  "options": [
-   "Noktadır",
-   "Bir grup dizedir",
-   "Başlıktır",
-   "Uzun cümledir"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
-  "id": "tr_0699",
-  "subject": "Türkçe",
-  "theme": "Şiir",
-  "question": "Aşağıdakilerden hangisi şiirin özelliğidir?",
-  "options": [
-   "Sadece bilgi verir",
-   "Dizeler ve ritim içerir",
-   "Maddelerden oluşur",
-   "Tablo içerir"
-  ],
-  "correctAnswer": 1,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
-  "id": "tr_0700",
-  "subject": "Türkçe",
-  "theme": "Şiir",
-  "question": "Şiirde duyguyu artırmak için ne kullanılır?",
-  "options": [
-   "Grafikler",
-   "Sayısal veriler",
-   "Dipnotlar",
-   "Benzetme ve imgeler"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
-  "id": "tr_0701",
-  "subject": "Türkçe",
-  "theme": "Şiir",
-  "question": "Hangi seçenek bir şiir başlığına uygundur?",
-  "options": [
-   "Matematik Soruları",
-   "Hava Durumu Raporu",
-   "Sınıf Listesi",
-   "Gece Yıldız"
-  ],
-  "correctAnswer": 3,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
-  "id": "tr_0702",
-  "subject": "Türkçe",
-  "theme": "Şiir",
-  "question": "Şiirde tekrar eden ses uyumu ne sağlar?",
-  "options": [
-   "Uzunluk",
-   "Kural",
-   "Ahenk",
-   "Hız"
-  ],
-  "correctAnswer": 2,
-  "difficulty": "Orta",
-  "grade": 2
- },
- {
-  "id": "tr_0703",
-  "subject": "Türkçe",
-  "theme": "Şiir",
-  "question": "Şiir türünde anlatım genellikle nasıldır?",
-  "options": [
-   "Kısa, yoğun ve duyguludur",
-   "Kurallı listelerdir",
-   "Uzun ve açıklayıcıdır",
-   "Sadece resmi dildir"
-  ],
-  "correctAnswer": 0,
-  "difficulty": "Orta",
   "grade": 2
  },
  {
