@@ -633,8 +633,14 @@ const QuizViewer: React.FC = () => {
           ))}
         </div>
         <div className="home-actions">
-          <button className="home-action-btn hikaye-action" onClick={() => setScreen('hikaye')}>📚 Hikaye Köşesi</button>
-          <button className="home-action-btn oyun-action" onClick={() => setScreen('oyunlar')}>🎮 Oyunlar</button>
+          <button className="home-buyuk-kart hikaye-buyuk" onClick={() => setScreen('hikaye')}>
+            <span className="home-buyuk-emoji">📚</span>
+            <span className="home-buyuk-ad">Hikaye Köşesi</span>
+          </button>
+          <button className="home-buyuk-kart oyun-buyuk" onClick={() => setScreen('oyunlar')}>
+            <span className="home-buyuk-emoji">🎮</span>
+            <span className="home-buyuk-ad">Oyunlar</span>
+          </button>
           <button className="home-action-btn hata-kutusu-btn" onClick={() => {
             const h = hatalariGetir(profilAdi);
             setHataModu(true);

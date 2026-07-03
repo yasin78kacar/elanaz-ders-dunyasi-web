@@ -383,9 +383,85 @@ const KelimeOyunu: React.FC<{ onBitti: (puan: number) => void }> = ({ onBitti })
   );
 };
 
+
+// ==================== INGILIZCE DINLEME ====================
+const DinlemeOyunu: React.FC<{ onBitti: (puan: number) => void }> = ({ onBitti }) => {
+  const KELIME: { en: string; emoji: string }[] = [
+    { en: 'cat', emoji: '🐱' }, { en: 'dog', emoji: '🐶' }, { en: 'fish', emoji: '🐠' },
+    { en: 'bird', emoji: '🐦' }, { en: 'apple', emoji: '🍎' }, { en: 'banana', emoji: '🍌' },
+    { en: 'car', emoji: '🚗' }, { en: 'sun', emoji: '☀️' }, { en: 'star', emoji: '⭐' },
+    { en: 'book', emoji: '📖' }, { en: 'house', emoji: '🏠' }, { en: 'flower', emoji: '🌸' },
+    { en: 'elephant', emoji: '🐘' }, { en: 'lion', emoji: '🦁' }, { en: 'rabbit', emoji: '🐰' },
+    { en: 'milk', emoji: '🥛' }, { en: 'bread', emoji: '🍞' }, { en: 'ball', emoji: '⚽' },
+  ];
+  const soruUret = (kullanilmis: string[]) => {
+    const kalan = KELIME.filter(k => !kullanilmis.includes(k.en));
+    const dogru = kalan[Math.floor(Math.random() * kalan.length)];
+    const digerleri = KELIME.filter(k => k.en !== dogru.en).sort(() => Math.random() - 0.5).slice(0, 3);
+    return { dogru, secenekler: [dogru, ...digerleri].sort(() => Math.random() - 0.5) };
+  };
+  const [kullanilmis, setKullanilmis] = useState<string[]>([]);
+  const [soru, setSoru] = useState(() => soruUret([]));
+  const [tur, setTur] = useState(1);
+  const [puan, setPuan] = useState(0);
+  const [secilen, setSecilen] = useState<number | null>(null);
+  const [kilit, setKilit] = useState(false);
+
+  const soyle = () => {
+    try {
+      window.speechSynthesis.cancel();
+      const u = new SpeechSynthesisUtterance(soru.dogru.en);
+      u.lang = 'en-US'; u.rate = 0.8;
+      const sesler = window.speechSynthesis.getVoices();
+      const s = sesler.find(v => v.name.includes('Samantha')) || sesler.find(v => v.lang === 'en-US');
+      if (s) u.voice = s;
+      window.speechSynthesis.speak(u);
+    } catch { /* ses yoksa emoji ile devam */ }
+  };
+
+  const sec = (i: number) => {
+    if (kilit) return;
+    setKilit(true); setSecilen(i);
+    const dogru = soru.secenekler[i].en === soru.dogru.en;
+    ses(dogru);
+    setTimeout(() => {
+      const yeniPuan = dogru ? puan + 1 : puan;
+      if (dogru) setPuan(yeniPuan);
+      setSecilen(null);
+      if (tur >= TUR_SAYISI) { onBitti(yeniPuan); return; }
+      const yeniKul = [...kullanilmis, soru.dogru.en];
+      setKullanilmis(yeniKul);
+      setTur(tur + 1); setSoru(soruUret(yeniKul)); setKilit(false);
+    }, 1100);
+  };
+
+  return (
+    <div className="oyun-alan">
+      <div className="oyun-hedef">🎯 Dinle ve doğru resme dokun! (Tur {tur}/{TUR_SAYISI})</div>
+      <button className="dinle-btn" onClick={soyle}>🔊 Dinle</button>
+      <div className="dinleme-grid">
+        {soru.secenekler.map((k, i) => {
+          let cls = 'dinleme-kart';
+          if (secilen !== null) {
+            if (k.en === soru.dogru.en) cls += ' dogru-kart';
+            else if (i === secilen) cls += ' yanlis-kart';
+          }
+          return (
+            <button key={`${tur}-${i}`} className={cls} onClick={() => sec(i)} disabled={kilit}>
+              <span className="dinleme-emoji">{k.emoji}</span>
+              {secilen !== null && <span className="dinleme-yazi">{k.en}</span>}
+            </button>
+          );
+        })}
+      </div>
+      <div className="oyun-ipucu">Puan: {puan} — İpucu: önce 🔊 Dinle'ye bas!</div>
+    </div>
+  );
+};
+
 // ==================== ANA MENU ====================
 const Oyunlar: React.FC<Props> = ({ onClose }) => {
-  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime'>('');
+  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme'>('');
   const [sonuc, setSonuc] = useState<number | null>(null);
 
   const oyunBitti = (puan: number) => setSonuc(puan);
@@ -411,6 +487,7 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
   if (aktifOyun === 'hafiza') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><HafizaOyunu onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'siralama') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><SiralamaOyunu onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'kelime') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><KelimeOyunu onBitti={oyunBitti} /></div>;
+  if (aktifOyun === 'dinleme') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><DinlemeOyunu onBitti={oyunBitti} /></div>;
 
   return (
     <div className="oyunlar-container">
@@ -440,6 +517,10 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
         <button className="oyun-kart" style={{ background: '#D85A30' }} onClick={() => setAktifOyun('kelime')}>
           <span className="oyun-kart-emoji">✏️</span><span>Kelime Kurma</span>
           <span className="oyun-kart-alt">Harflerden kelime yap</span>
+        </button>
+        <button className="oyun-kart" style={{ background: '#2a9db8' }} onClick={() => setAktifOyun('dinleme')}>
+          <span className="oyun-kart-emoji">🎧</span><span>English Listen</span>
+          <span className="oyun-kart-alt">Dinle, doğru resmi bul</span>
         </button>
       </div>
     </div>
