@@ -55,6 +55,24 @@ interface Profil { ad: string; sinif: string; }
 const PROFIL_KEY = 'dersdunyasi_profiller';
 const AKTIF_KEY = 'dersdunyasi_aktif';
 const statsKey = (ad: string) => `dersdunyasi_${ad}_stats`;
+const hatalarKey = (ad: string) => `dersdunyasi_${ad}_hatalar`;
+
+function hatalariGetir(ad: string): Question[] {
+  try { return JSON.parse(localStorage.getItem(hatalarKey(ad)) || '[]'); } catch { return []; }
+}
+function hataEkle(ad: string, soru: Question) {
+  const hatalar = hatalariGetir(ad);
+  const imza = soru.question + '|' + [...soru.options].sort().join('|');
+  if (hatalar.find(h => h.question + '|' + [...h.options].sort().join('|') === imza)) return;
+  hatalar.push(soru);
+  if (hatalar.length > 200) hatalar.shift(); // tasma korumasi
+  localStorage.setItem(hatalarKey(ad), JSON.stringify(hatalar));
+}
+function hataCikar(ad: string, soru: Question) {
+  const imza = soru.question + '|' + [...soru.options].sort().join('|');
+  const hatalar = hatalariGetir(ad).filter(h => h.question + '|' + [...h.options].sort().join('|') !== imza);
+  localStorage.setItem(hatalarKey(ad), JSON.stringify(hatalar));
+}
 
 function profilleriGetir(): Profil[] {
   try { return JSON.parse(localStorage.getItem(PROFIL_KEY) || '[]'); } catch { return []; }
@@ -87,6 +105,7 @@ const QuizViewer: React.FC = () => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   const [yeniProfilModu, setYeniProfilModu] = useState(false);
+  const [hataModu, setHataModu] = useState(false);
   const [yeniAd, setYeniAd] = useState('');
   const [yeniSinif, setYeniSinif] = useState('');
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -202,7 +221,7 @@ const QuizViewer: React.FC = () => {
     if (currentQuestionIndex < questions.length - 1) {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
     } else {
-      saveResult();
+      if (!hataModu) saveResult();
       setQuizFinished(true);
     }
   };
@@ -210,6 +229,8 @@ const QuizViewer: React.FC = () => {
   const handleAnswer = (selectedIndex: number) => {
     if (secilenSik !== null) return; // cevap verildiyse tekrar tiklamayi engelle
     const isCorrect = selectedIndex === questions[currentQuestionIndex].correctAnswer;
+    if (!isCorrect && !hataModu) hataEkle(profilAdi, questions[currentQuestionIndex]);
+    if (isCorrect && hataModu) hataCikar(profilAdi, questions[currentQuestionIndex]);
     playSound(isCorrect);
     setSecilenSik(selectedIndex);
     if (isCorrect) {
@@ -223,6 +244,15 @@ const QuizViewer: React.FC = () => {
   };
 
   const handleRestart = () => {
+    if (hataModu) {
+      const h = hatalariGetir(profilAdi);
+      setQuestions(h);
+      setCurrentQuestionIndex(0);
+      setScore(0);
+      setQuizFinished(false);
+      setTimeLeft(30);
+      return;
+    }
     loadQuestions();
   };
 
@@ -402,7 +432,7 @@ const QuizViewer: React.FC = () => {
   if (screen === 'hakkinda') {
     return (
       <div className="hakkinda-container">
-        <button className="back-btn" onClick={() => setScreen('home')}>← Ana Sayfa</button>
+        <button className="back-btn" onClick={() => { setHataModu(false); setScreen('home'); }}>← Ana Sayfa</button>
         <div className="hakkinda-emoji">🎈</div>
         <h1 className="hakkinda-baslik">Ders Dünyası Hakkında</h1>
 
@@ -561,6 +591,17 @@ const QuizViewer: React.FC = () => {
         </div>
         <div className="home-actions">
           <button className="home-action-btn hikaye-action" onClick={() => setScreen('hikaye')}>📚 Hikaye Köşesi</button>
+          <button className="home-action-btn hata-kutusu-btn" onClick={() => {
+            const h = hatalariGetir(profilAdi);
+            setHataModu(true);
+            setQuestions(h);
+            setCurrentQuestionIndex(0);
+            setScore(0);
+            setQuizFinished(false);
+            setSecilenSik(null);
+            setTimeLeft(30);
+            setScreen('quiz');
+          }}>📦 Hata Kutusu ({hatalariGetir(profilAdi).length})</button>
           <button className="home-action-btn" onClick={() => setShowLeaderboard(true)}>🏆 Sıralama</button>
           <button className="home-action-btn" onClick={() => setShowStats(true)}>📊 İlerlemem</button>
           <button className="home-action-btn" onClick={() => setScreen('hakkinda')}>ℹ️ Hakkında</button>
@@ -591,13 +632,13 @@ const QuizViewer: React.FC = () => {
         </div>
       )}
       {/* Aktif ders basligi */}
-      <div className="aktif-ders">{selectedSubject}</div>
+      <div className="aktif-ders">{hataModu ? '📦 Hata Kutusu' : selectedSubject}</div>
 
       {/* Quiz Content */}
       <div className="quiz-content">
         {!currentQuestion ? (
           <div className="question-section">
-            <h2>Bu derste henüz soru yok. Ana sayfadan başka bir ders seç.</h2>
+            <h2>{hataModu ? 'Kutun bomboş, harikasın! 🌟 Hiç düzeltilecek hatan yok.' : 'Bu derste henüz soru yok. Ana sayfadan başka bir ders seç.'}</h2>
           </div>
         ) : (
         <>

@@ -1066,3 +1066,15 @@
   .profil-kart-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
   .profil-kart { padding: 18px 8px; }
 }
+
+/* ================= HATA KUTUSU ================= */
+.hata-kutusu-btn {
+  background: linear-gradient(145deg, #EF9F27, #d9821a) !important;
+  color: #fff !important;
+  font-weight: 700;
+  box-shadow: 0 4px 12px rgba(239,159,39,0.35);
+}
+.hata-kutusu-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(239,159,39,0.45);
+}
