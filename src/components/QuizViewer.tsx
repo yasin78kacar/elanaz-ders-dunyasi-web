@@ -62,8 +62,25 @@ function aktifSinif(ad: string): string {
   return pr ? pr.sinif : '2';
 }
 
+// Havuzdan silinen curuk sorular kullanicinin Hata Kutusu'nda kalmis olabilir;
+// kutu her okundugunda bilinen curuk kaliplar elenir ve depo guncellenir.
+const CURUK_KALIPLAR = ['en az hangi','en çok hangi','en fazla hangi','toplam kaç','kaç adet',
+  'grafiğe göre','grafikte','tabloya göre','tablodaki','şekildeki','resimde','resme göre','görseldeki','yandaki'];
+function curukMu(q: Question): boolean {
+  const m = (q.question || '').toLowerCase();
+  const ops = (q.options || []).join(' ').toLowerCase();
+  const rakamsiz = !/\d/.test(m) && !/\d/.test(ops);
+  const veriKalibi = ['en az hangi','en çok hangi','en fazla hangi','toplam kaç','kaç adet'].some(k => m.includes(k));
+  const gorselAtif = CURUK_KALIPLAR.slice(5).some(k => m.includes(k));
+  return gorselAtif || (veriKalibi && rakamsiz);
+}
 function hatalariGetir(ad: string): Question[] {
-  try { return JSON.parse(localStorage.getItem(hatalarKey(ad)) || '[]'); } catch { return []; }
+  try {
+    const ham: Question[] = JSON.parse(localStorage.getItem(hatalarKey(ad)) || '[]');
+    const temiz = ham.filter(q => !curukMu(q));
+    if (temiz.length !== ham.length) localStorage.setItem(hatalarKey(ad), JSON.stringify(temiz));
+    return temiz;
+  } catch { return []; }
 }
 function hataEkle(ad: string, soru: Question) {
   const hatalar = hatalariGetir(ad);
