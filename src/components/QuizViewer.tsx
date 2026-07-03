@@ -56,6 +56,10 @@ const PROFIL_KEY = 'dersdunyasi_profiller';
 const AKTIF_KEY = 'dersdunyasi_aktif';
 const statsKey = (ad: string) => `dersdunyasi_${ad}_stats`;
 const hatalarKey = (ad: string) => `dersdunyasi_${ad}_hatalar`;
+function aktifSinif(ad: string): string {
+  const pr = profilleriGetir().find(x => x.ad === ad);
+  return pr ? pr.sinif : '2';
+}
 
 function hatalariGetir(ad: string): Question[] {
   try { return JSON.parse(localStorage.getItem(hatalarKey(ad)) || '[]'); } catch { return []; }
@@ -168,7 +172,12 @@ const QuizViewer: React.FC = () => {
       
       const folder = subjectMap[selectedSubject] || 'math';
       const pool = await dersYukle(folder);
-      const dersSorulari = pool.filter((q: Question) => q.subject === selectedSubject);
+      let dersSorulari = pool.filter((q: Question) => q.subject === selectedSubject);
+      // 1. sinif profili sadece 1. sinif seviyesi sorulari gorur
+      if (aktifSinif(profilAdi) === '1') {
+        const birinciSinif = dersSorulari.filter((q: any) => q.grade === 1);
+        if (birinciSinif.length >= 7) dersSorulari = birinciSinif; // guvenlik agi
+      }
       const karistir = [...dersSorulari].sort(() => Math.random() - 0.5).slice(0, 7);
       setQuestions(karistir);
       setCurrentQuestionIndex(0);
@@ -572,7 +581,7 @@ const QuizViewer: React.FC = () => {
         <p className="home-subtitle">Merhaba {profilAdi}! 👋 Dokun ve oyna!</p>
         <button className="profil-degistir-btn" onClick={() => { localStorage.removeItem(AKTIF_KEY); setProfilAdi(""); }}>👤 Profil Değiştir</button>
         <div className="home-grid">
-          {cards.map((c, i) => (
+          {cards.filter(c => !(aktifSinif(profilAdi) === '1' && c.name === 'İngilizce')).map((c, i) => (
             <button
               key={c.name}
               className={`home-card ${i === 4 ? 'home-card-wide' : ''}`}
