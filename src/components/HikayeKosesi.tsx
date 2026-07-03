@@ -34,7 +34,9 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   };
   const isimDegistir = (metin: string, id: string) => {
     const isim = hikayeIsmi(id);
-    return metin.replace(/Elanaz'?/g, (m) => m.endsWith("'") ? isim + "'" : isim);
+    return metin
+      .replace(/Elanaz'?/g, (m) => m.endsWith("'") ? isim + "'" : isim)
+      .replace(/KAHRAMAN'?/g, (m) => m.endsWith("'") ? isim + "'" : isim);
   };
   const [testModu, setTestModu] = useState(false);
   const [soruIndex, setSoruIndex] = useState(0);
