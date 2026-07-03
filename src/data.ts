@@ -1,32 +1,36 @@
-import matematik from './data/aktarilan/matematik.json';
-import turkce from './data/aktarilan/turkce.json';
-import fen from './data/aktarilan/fen.json';
-import hayat from './data/aktarilan/hayat.json';
-import ingilizce from './data/aktarilan/ingilizce.json';
-import gorsel from './data/aktarilan/gorsel.json';
-import zeka from './data/aktarilan/zeka.json';
-import hikayelerData from './data/aktarilan/hikayeler.json';
-import ingilizceHikayelerData from './data/aktarilan/ingilizce_hikayeler.json';
+// Ders verileri: ders basina dinamik import -> Vite her dersi ayri chunk yapar.
+// Cocuk hangi derse dokunursa yalniz o dosya iner (ilk acilis kucuk kalir).
+// Bu runtime fetch degildir; Vite'in module sistemi build sirasinda paketler.
 
-const allPool = [
-  ...(matematik as any[]),
-  ...(turkce as any[]),
-  ...(fen as any[]),
-  ...(hayat as any[]),
-  ...(ingilizce as any[]),
-  ...(gorsel as any[]),
-  ...(zeka as any[]),
-];
-
-export const dataMap: { [key: string]: any } = {
-  turkce: { questions: allPool },
-  fen: { questions: allPool },
-  hayat: { questions: allPool },
-  ingilizce: { questions: allPool },
-  math: { questions: allPool },
-  gorsel: { questions: allPool },
-  zeka: { questions: allPool },
+const yukleyiciler: { [key: string]: () => Promise<any> } = {
+  math:      () => import('./data/aktarilan/matematik.json'),
+  turkce:    () => import('./data/aktarilan/turkce.json'),
+  fen:       () => import('./data/aktarilan/fen.json'),
+  hayat:     () => import('./data/aktarilan/hayat.json'),
+  ingilizce: () => import('./data/aktarilan/ingilizce.json'),
+  gorsel:    () => import('./data/aktarilan/gorsel.json'),
+  zeka:      () => import('./data/aktarilan/zeka.json'),
 };
 
-export const hikayeler = hikayelerData as { id: string; baslik: string; seviye: number; sayfalar: string[] }[];
-export const ingilizceHikayeler = ingilizceHikayelerData as { id: string; baslik: string; seviye: number; sayfalar: string[] }[];
+const onbellek: { [key: string]: any[] } = {};
+
+export async function dersYukle(folder: string): Promise<any[]> {
+  if (onbellek[folder]) return onbellek[folder];
+  const yukleyici = yukleyiciler[folder];
+  if (!yukleyici) return [];
+  const mod = await yukleyici();
+  onbellek[folder] = (mod.default || mod) as any[];
+  return onbellek[folder];
+}
+
+// Hikayeler kucuk; HikayeKosesi acilinca dinamik yuklenir
+export async function hikayeleriYukle() {
+  const [h, ih] = await Promise.all([
+    import('./data/aktarilan/hikayeler.json'),
+    import('./data/aktarilan/ingilizce_hikayeler.json'),
+  ]);
+  return {
+    hikayeler: (h.default || h) as { id: string; baslik: string; seviye: number; sayfalar: string[] }[],
+    ingilizceHikayeler: (ih.default || ih) as { id: string; baslik: string; seviye: number; sayfalar: string[] }[],
+  };
+}

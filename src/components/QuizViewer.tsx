@@ -1,6 +1,6 @@
 
 import { useState, useEffect } from 'react';
-import { dataMap } from '../data';
+import { dersYukle } from '../data';
 import HikayeKosesi from './HikayeKosesi';
 import { gorselBul } from '../data/konuGorselleri';
 import '../styles/QuizViewer.css';
@@ -167,8 +167,7 @@ const QuizViewer: React.FC = () => {
       };
       
       const folder = subjectMap[selectedSubject] || 'math';
-      const data = dataMap[folder];
-      const pool = Array.isArray(data) ? data : data.questions;
+      const pool = await dersYukle(folder);
       const dersSorulari = pool.filter((q: Question) => q.subject === selectedSubject);
       const karistir = [...dersSorulari].sort(() => Math.random() - 0.5).slice(0, 7);
       setQuestions(karistir);

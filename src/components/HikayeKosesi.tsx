@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { hikayeler, ingilizceHikayeler } from '../data';
+import { hikayeleriYukle } from '../data';
 import '../styles/HikayeKosesi.css';
 
 interface Soru { question: string; options: string[]; correctAnswer: number; }
@@ -9,6 +9,17 @@ interface Props { onClose: () => void; }
 
 const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const [dil, setDil] = useState<'tr' | 'en'>('tr');
+  const [hikayeler, setHikayeler] = useState<Hikaye[]>([]);
+  const [ingilizceHikayeler, setIngilizceHikayeler] = useState<Hikaye[]>([]);
+  const [hikayeYukleniyor, setHikayeYukleniyor] = useState(true);
+
+  useEffect(() => {
+    hikayeleriYukle().then(({ hikayeler: h, ingilizceHikayeler: ih }) => {
+      setHikayeler(h as Hikaye[]);
+      setIngilizceHikayeler(ih as Hikaye[]);
+      setHikayeYukleniyor(false);
+    });
+  }, []);
   const [seciliHikaye, setSeciliHikaye] = useState<number | null>(null);
   const [sayfa, setSayfa] = useState(0);
   const [okunuyor, setOkunuyor] = useState(false);
@@ -31,6 +42,9 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const [testBitti, setTestBitti] = useState(false);
 
   const tumListe = (dil === 'tr' ? hikayeler : ingilizceHikayeler) as Hikaye[];
+  if (hikayeYukleniyor) {
+    return <div className="hikaye-container"><p style={{textAlign:'center',marginTop:'40px'}}>📚 Hikayeler yükleniyor...</p></div>;
+  }
   const liste = tumListe.filter(h => uzunMu ? (h as any).uzun === true : !(h as any).uzun);
   const sesDili = dil === 'tr' ? 'tr-TR' : 'en-US';
 
