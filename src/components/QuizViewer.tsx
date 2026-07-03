@@ -250,10 +250,14 @@ const QuizViewer: React.FC = () => {
       const folder = subjectMap[selectedSubject] || 'math';
       const pool = await dersYukle(folder);
       let dersSorulari = pool.filter((q: Question) => q.subject === selectedSubject);
-      // 1. sinif profili sadece 1. sinif seviyesi sorulari gorur
-      if (aktifSinif(profilAdi) === '1') {
-        const birinciSinif = dersSorulari.filter((q: any) => q.grade === 1);
-        if (birinciSinif.length >= 7) dersSorulari = birinciSinif; // guvenlik agi
+      // Sinif seviyesi filtresi (1-4): once kendi sinifi, yetmezse kendi+alt siniflar, o da yetmezse tum havuz
+      const sinif = parseInt(aktifSinif(profilAdi)) || 2;
+      const kendiSinif = dersSorulari.filter((q: any) => q.grade === sinif);
+      if (kendiSinif.length >= 7) {
+        dersSorulari = kendiSinif;
+      } else {
+        const altVeKendi = dersSorulari.filter((q: any) => q.grade && q.grade <= sinif);
+        if (altVeKendi.length >= 7) dersSorulari = altVeKendi;
       }
       const karistir = [...dersSorulari].sort(() => Math.random() - 0.5).slice(0, 7);
       setQuestions(karistir);
