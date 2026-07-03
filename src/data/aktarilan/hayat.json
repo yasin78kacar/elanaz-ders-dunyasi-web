@@ -24699,5 +24699,1617 @@
   "subject": "Hayat Bilgisi",
   "theme": "Güvenli Yaşam",
   "grade": 1
+ },
+ {
+  "question": "'Deprem' doğal afeti nedir?",
+  "options": [
+   "Toprağın kayması",
+   "Yerin sarsılması",
+   "Dağdan büyük kar kütlesinin kayması",
+   "Çok şiddetli rüzgar"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Yerin sarsılması olayına ne ad verilir?",
+  "options": [
+   "deprem",
+   "heyelan",
+   "sel",
+   "fırtına"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "'Sel' doğal afeti nedir?",
+  "options": [
+   "Toprağın kayması",
+   "Ateşin kontrolden çıkması",
+   "Dağdan büyük kar kütlesinin kayması",
+   "Aşırı yağışla suların taşması"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Aşırı yağışla suların taşması olayına ne ad verilir?",
+  "options": [
+   "sel",
+   "deprem",
+   "yangın",
+   "fırtına"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "'Çığ' doğal afeti nedir?",
+  "options": [
+   "Dağdan büyük kar kütlesinin kayması",
+   "Çok şiddetli rüzgar",
+   "Toprağın kayması",
+   "Aşırı yağışla suların taşması"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Dağdan büyük kar kütlesinin kayması olayına ne ad verilir?",
+  "options": [
+   "fırtına",
+   "çığ",
+   "deprem",
+   "sel"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "'Heyelan' doğal afeti nedir?",
+  "options": [
+   "Toprağın kayması",
+   "Aşırı yağışla suların taşması",
+   "Ateşin kontrolden çıkması",
+   "Dağdan büyük kar kütlesinin kayması"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Toprağın kayması olayına ne ad verilir?",
+  "options": [
+   "fırtına",
+   "heyelan",
+   "deprem",
+   "çığ"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "'Yangın' doğal afeti nedir?",
+  "options": [
+   "Yerin sarsılması",
+   "Toprağın kayması",
+   "Dağdan büyük kar kütlesinin kayması",
+   "Ateşin kontrolden çıkması"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Ateşin kontrolden çıkması olayına ne ad verilir?",
+  "options": [
+   "yangın",
+   "heyelan",
+   "çığ",
+   "fırtına"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "'Fırtına' doğal afeti nedir?",
+  "options": [
+   "Aşırı yağışla suların taşması",
+   "Çok şiddetli rüzgar",
+   "Yerin sarsılması",
+   "Dağdan büyük kar kütlesinin kayması"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Çok şiddetli rüzgar olayına ne ad verilir?",
+  "options": [
+   "heyelan",
+   "yangın",
+   "sel",
+   "fırtına"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Deprem çantasında hangisi BULUNMAZ?",
+  "options": [
+   "su",
+   "düdük",
+   "oyuncak koleksiyonu",
+   "el feneri"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Sel riski olan bölgede nereye ev yapılmamalıdır?",
+  "options": [
+   "yüksek ve sağlam zemine",
+   "şehir merkezine",
+   "dere yatağına",
+   "tepelere"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Deprem sırasında evdeysek ne yaparız?",
+  "options": [
+   "asansöre bineriz",
+   "çök-kapan-tutun yaparız",
+   "balkona koşarız",
+   "pencereden bakarız"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Orman yangınlarını önlemek için ne yapmalıyız?",
+  "options": [
+   "piknik ateşini söndürmeden gitmeliyiz",
+   "ormanda ateş yakmamalı, cam şişe bırakmamalıyız",
+   "sigara izmariti atmalıyız",
+   "ormana çöp atmalıyız"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Afetlerde bize yardım eden kurum hangisidir?",
+  "options": [
+   "AFAD ve Kızılay",
+   "lokantalar",
+   "oyuncakçılar",
+   "sinema salonları"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Doğal Afetler",
+  "grade": 3
+ },
+ {
+  "question": "Günlük plan yapmak bize ne kazandırır?",
+  "options": [
+   "unutkanlığı",
+   "dağınıklığı",
+   "zamanı verimli kullanmayı",
+   "zaman kaybını"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Harçlığımızı planlarken ilk hangisini düşünmeliyiz?",
+  "options": [
+   "arkadaşın aldıklarını",
+   "reklamları",
+   "sadece isteklerimizi",
+   "ihtiyaçlarımızı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Okulda kulüp çalışmalarına katılmak bize ne sağlar?",
+  "options": [
+   "hiçbir şey",
+   "yeteneklerimizi geliştirme fırsatı",
+   "yorgunluk sadece",
+   "ders kaçırma"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Bir işte başarılı olmak için hangisi gereklidir?",
+  "options": [
+   "hiç çaba göstermemek",
+   "başkasını beklemek",
+   "çalışmak ve sabretmek",
+   "sadece şans"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Kişisel bakımımız için hangisini her gün yapmalıyız?",
+  "options": [
+   "dişlerimizi fırçalamak ve yüzümüzü yıkamak",
+   "ayda bir yıkanmak",
+   "hiç taranmamak",
+   "kirli kıyafet giymek"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Yaya olarak trafikte hangisi bizim SORUMLULUĞUMUZDUR?",
+  "options": [
+   "araçların önüne atlamak",
+   "yolda oyun oynamak",
+   "kırmızıda geçmek",
+   "yaya geçidini kullanmak"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Okul yolunda tanımadık biri araçla 'gel seni götüreyim' derse ne yaparız?",
+  "options": [
+   "adres tarif ederiz",
+   "eşyalarımızı veririz",
+   "hemen bineriz",
+   "binmeyiz, güvenli bir yere gidip büyüğümüze haber veririz"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Evde yalnızken telefon eden yabancıya ne söylemeliyiz?",
+  "options": [
+   "adresimizi veririz",
+   "kişisel bilgi vermeyiz, gerekirse kapatırız",
+   "evde yalnız olduğumuzu söyleriz",
+   "kapıyı açacağımızı söyleriz"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Komşuluk ilişkilerinde hangisi güzeldir?",
+  "options": [
+   "gece gürültü yapmak",
+   "kapı önüne çöp koymak",
+   "selam vermemek",
+   "hasta komşuya çorba götürmek"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Ailede kararlar nasıl alınırsa daha güzel olur?",
+  "options": [
+   "yazı tura atarak",
+   "birlikte konuşularak",
+   "hiç konuşulmadan",
+   "kavga ederek"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Ülkemizin yönetim merkezi (başkenti) neresidir?",
+  "options": [
+   "Konya",
+   "İstanbul",
+   "İzmir",
+   "Ankara"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Türkiye Büyük Millet Meclisi hangi şehirdedir?",
+  "options": [
+   "Bursa",
+   "Antalya",
+   "İstanbul",
+   "Ankara"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Yaşadığımız yerin temiz kalması kimin görevidir?",
+  "options": [
+   "sadece öğretmenlerin",
+   "hepimizin",
+   "sadece belediyenin",
+   "kimsenin"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Ekmek israfını önlemek için ne yapabiliriz?",
+  "options": [
+   "hiç ekmek yememek",
+   "fazla alıp çöpe atmak",
+   "ihtiyacımız kadar almak, bayatlayanı değerlendirmek",
+   "ekmeği oyuncak yapmak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Kumbarada para biriktirmek hangisine örnektir?",
+  "options": [
+   "borçlanmaya",
+   "savurganlığa",
+   "tasarrufa",
+   "israfa"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Hayat Bilgisi",
+  "grade": 3
+ },
+ {
+  "question": "Atatürk Milli Mücadele'yi başlatmak için 19 Mayıs 1919'da hangi şehre çıktı?",
+  "options": [
+   "Ankara",
+   "İstanbul",
+   "İzmir",
+   "Samsun"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Türkiye Büyük Millet Meclisi hangi tarihte açıldı?",
+  "options": [
+   "19 Mayıs 1919",
+   "30 Ağustos 1922",
+   "29 Ekim 1923",
+   "23 Nisan 1920"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Cumhuriyet hangi tarihte ilan edildi?",
+  "options": [
+   "23 Nisan 1920",
+   "10 Kasım 1938",
+   "29 Ekim 1923",
+   "19 Mayıs 1919"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "İstiklal Marşı'mız hangi yıl kabul edildi?",
+  "options": [
+   "1921",
+   "1938",
+   "1919",
+   "1923"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Atatürk hangi tarihte vefat etmiştir?",
+  "options": [
+   "23 Nisan 1920",
+   "10 Kasım 1938",
+   "29 Ekim 1923",
+   "19 Mayıs 1919"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Büyük Zafer (Başkomutanlık Meydan Muharebesi) hangi tarihle anılır?",
+  "options": [
+   "23 Nisan 1920",
+   "1 Ocak 1923",
+   "10 Kasım 1938",
+   "30 Ağustos 1922"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Atatürk'ün babasının adı nedir?",
+  "options": [
+   "Mehmet Efendi",
+   "Mustafa Efendi",
+   "Ali Rıza Efendi",
+   "Hasan Efendi"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Atatürk nerede ve hangi yılda doğmuştur?",
+  "options": [
+   "Samsun, 1919",
+   "Selanik, 1881",
+   "Ankara, 1920",
+   "İstanbul, 1900"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Kurtuluş Savaşı'nda ordumuza kim başkomutanlık etti?",
+  "options": [
+   "Mustafa Kemal Atatürk",
+   "padişah",
+   "yabancı komutanlar",
+   "kimse"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Cumhuriyet yönetiminde egemenlik (yönetme hakkı) kime aittir?",
+  "options": [
+   "başka ülkelere",
+   "tek bir kişiye",
+   "padişaha",
+   "millete"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Olayları oluş sırasına göre dizmeye ne denir?",
+  "options": [
+   "alfabetik sıralama",
+   "ters sıralama",
+   "rastgele sıralama",
+   "kronolojik sıralama"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi kronolojik olarak DOĞRU sıralanmıştır?",
+  "options": [
+   "Cumhuriyet'in ilanı → Samsun'a çıkış → TBMM",
+   "Hepsi aynı gün oldu",
+   "Samsun'a çıkış → TBMM'nin açılışı → Cumhuriyet'in ilanı",
+   "TBMM → Samsun'a çıkış → Cumhuriyet"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Milli Mücadele ve Atatürk",
+  "grade": 4
+ },
+ {
+  "question": "Güneş sabah hangi yönden doğar?",
+  "options": [
+   "doğu",
+   "güney",
+   "kuzey",
+   "batı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Güneş akşam hangi yönde batar?",
+  "options": [
+   "batı",
+   "güney",
+   "doğu",
+   "kuzey"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Yön bulmaya yarayan araç hangisidir?",
+  "options": [
+   "terazi",
+   "pusula",
+   "saat sadece",
+   "termometre"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Pusulanın renkli ucu her zaman hangi yönü gösterir?",
+  "options": [
+   "batı",
+   "doğu",
+   "güney",
+   "kuzey"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Ağaçların yosun tutan tarafı genellikle hangi yönü gösterir?",
+  "options": [
+   "doğu",
+   "batı",
+   "güney",
+   "kuzey"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Ana yönler hangileridir?",
+  "options": [
+   "iç, dış, alt, üst",
+   "sağ, sol, ön, arka",
+   "yukarı, aşağı, ileri, geri",
+   "kuzey, güney, doğu, batı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Sabah Güneş'e dönüp durursak sağ kolumuz hangi yönü gösterir?",
+  "options": [
+   "kuzey",
+   "güney",
+   "doğu",
+   "batı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Karınca yuvalarının ağzındaki toprak yığını genellikle hangi yöne bakar?",
+  "options": [
+   "batı",
+   "güney",
+   "kuzey",
+   "hiçbir yöne"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Bir yerin kuşbakışı, küçültülerek çizilmiş taslağına ne denir?",
+  "options": [
+   "kroki",
+   "tablo",
+   "fotoğraf",
+   "heykel"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Krokide okul, hastane gibi yerler nasıl gösterilir?",
+  "options": [
+   "seslerle",
+   "gerçek fotoğraflarla",
+   "kokularla",
+   "sembollerle (işaretlerle)"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Yön Bulma ve Kroki",
+  "grade": 4
+ },
+ {
+  "question": "Ülkemizde 'çay' üretimiyle ünlü yer hangisidir?",
+  "options": [
+   "Antalya",
+   "Aydın",
+   "Şanlıurfa (GAP bölgesi)",
+   "Rize"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Ülkemizde 'fındık' üretimiyle ünlü yer hangisidir?",
+  "options": [
+   "Şanlıurfa (GAP bölgesi)",
+   "Aydın",
+   "Rize",
+   "Giresun ve Ordu"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Ülkemizde 'turizm' üretimiyle ünlü yer hangisidir?",
+  "options": [
+   "Rize",
+   "Şanlıurfa (GAP bölgesi)",
+   "Antalya",
+   "Aydın"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Ülkemizde 'pamuk' üretimiyle ünlü yer hangisidir?",
+  "options": [
+   "Rize",
+   "Antalya",
+   "Şanlıurfa (GAP bölgesi)",
+   "Aydın"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Ülkemizde 'kayısı' üretimiyle ünlü yer hangisidir?",
+  "options": [
+   "Aydın",
+   "Antalya",
+   "Giresun ve Ordu",
+   "Malatya"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Ülkemizde 'incir' üretimiyle ünlü yer hangisidir?",
+  "options": [
+   "Malatya",
+   "Giresun ve Ordu",
+   "Aydın",
+   "Antalya"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi 'TARIM' faaliyetine örnektir?",
+  "options": [
+   "Tarlada buğday yetiştirmek",
+   "Yer altından kömür çıkarmak",
+   "Inek besleyip süt üretmek",
+   "Otelde tatilcileri ağırlamak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Tarlada buğday yetiştirmek hangi ekonomik faaliyettir?",
+  "options": [
+   "madencilik",
+   "turizm",
+   "sanayi",
+   "tarım"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi 'HAYVANCILIK' faaliyetine örnektir?",
+  "options": [
+   "Inek besleyip süt üretmek",
+   "Yer altından kömür çıkarmak",
+   "Fabrikada araba üretmek",
+   "Otelde tatilcileri ağırlamak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Inek besleyip süt üretmek hangi ekonomik faaliyettir?",
+  "options": [
+   "turizm",
+   "hayvancılık",
+   "balıkçılık",
+   "madencilik"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi 'TURIZM' faaliyetine örnektir?",
+  "options": [
+   "Fabrikada araba üretmek",
+   "Otelde tatilcileri ağırlamak",
+   "Inek besleyip süt üretmek",
+   "Yer altından kömür çıkarmak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Otelde tatilcileri ağırlamak hangi ekonomik faaliyettir?",
+  "options": [
+   "turizm",
+   "hayvancılık",
+   "tarım",
+   "balıkçılık"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi 'SANAYI' faaliyetine örnektir?",
+  "options": [
+   "Inek besleyip süt üretmek",
+   "Yer altından kömür çıkarmak",
+   "Fabrikada araba üretmek",
+   "Otelde tatilcileri ağırlamak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Fabrikada araba üretmek hangi ekonomik faaliyettir?",
+  "options": [
+   "hayvancılık",
+   "madencilik",
+   "turizm",
+   "sanayi"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi 'BALIKÇILIK' faaliyetine örnektir?",
+  "options": [
+   "Inek besleyip süt üretmek",
+   "Denizden balık tutup satmak",
+   "Fabrikada araba üretmek",
+   "Otelde tatilcileri ağırlamak"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Denizden balık tutup satmak hangi ekonomik faaliyettir?",
+  "options": [
+   "turizm",
+   "madencilik",
+   "balıkçılık",
+   "hayvancılık"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi 'MADENCILIK' faaliyetine örnektir?",
+  "options": [
+   "Yer altından kömür çıkarmak",
+   "Fabrikada araba üretmek",
+   "Tarlada buğday yetiştirmek",
+   "Otelde tatilcileri ağırlamak"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Yer altından kömür çıkarmak hangi ekonomik faaliyettir?",
+  "options": [
+   "balıkçılık",
+   "madencilik",
+   "hayvancılık",
+   "tarım"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Üretimden Tüketime",
+  "grade": 4
+ },
+ {
+  "question": "Bilinçli bir tüketici alışverişte ilk ne yapar?",
+  "options": [
+   "gördüğü her şeyi alır",
+   "ihtiyaç listesi hazırlar",
+   "reklamlara göre alır",
+   "parasının hepsini harcar"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Bilinçli Tüketici",
+  "grade": 4
+ },
+ {
+  "question": "Aldığımız ürün bozuk çıkarsa hangi belgeyle değiştirebiliriz?",
+  "options": [
+   "fiş veya fatura ile",
+   "sözle anlatarak",
+   "fotoğrafıyla",
+   "hiçbir şekilde"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Bilinçli Tüketici",
+  "grade": 4
+ },
+ {
+  "question": "Alışverişte fiş almak neden önemlidir?",
+  "options": [
+   "zorunlu değildir, gereksizdir",
+   "ürünü iade/değiştirme hakkı sağlar",
+   "çanta süsü olur",
+   "sadece kağıt israfıdır"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Bilinçli Tüketici",
+  "grade": 4
+ },
+ {
+  "question": "Ambalajlı üründe hangisini kontrol ederiz?",
+  "options": [
+   "son kullanma tarihini",
+   "reklam yüzünü",
+   "kutunun ağırlığını sadece",
+   "ambalajın parlaklığını"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Bilinçli Tüketici",
+  "grade": 4
+ },
+ {
+  "question": "Elektronik ürün alırken hangisini istemeliyiz?",
+  "options": [
+   "hediye paketi",
+   "balon",
+   "poster",
+   "garanti belgesi"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Bilinçli Tüketici",
+  "grade": 4
+ },
+ {
+  "question": "Reklamlar hakkında hangisi DOĞRUDUR?",
+  "options": [
+   "her reklam ihtiyaç oluşturmaz, düşünerek karar veririz",
+   "reklamlar her zaman gerçeği söyler",
+   "reklamsız ürün kötüdür",
+   "reklamda gördüğümüz her şeyi almalıyız"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Bilinçli Tüketici",
+  "grade": 4
+ },
+ {
+  "question": "Aile bütçesine çocuklar nasıl katkı sağlayabilir?",
+  "options": [
+   "sürekli oyuncak isteyerek",
+   "harçlığını hemen bitirerek",
+   "israf etmeyerek ve tasarruf ederek",
+   "elektrik ve suyu açık bırakarak"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Bilinçli Tüketici",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, yılbaşı, Ramazan Bayramı, Kurban Bayramı)",
+  "options": [
+   "yılbaşı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "Ramazan Bayramı",
+   "Kurban Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, Ramazan Bayramı, 30 Ağustos Zafer Bayramı)",
+  "options": [
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Ramazan Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, Ramazan Bayramı, yılbaşı)",
+  "options": [
+   "Ramazan Bayramı",
+   "yılbaşı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Kurban Bayramı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, Ramazan Bayramı, doğum günü, 29 Ekim Cumhuriyet Bayramı)",
+  "options": [
+   "Ramazan Bayramı",
+   "doğum günü",
+   "Kurban Bayramı",
+   "29 Ekim Cumhuriyet Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (29 Ekim Cumhuriyet Bayramı, Kurban Bayramı, 30 Ağustos Zafer Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı)",
+  "options": [
+   "30 Ağustos Zafer Bayramı",
+   "29 Ekim Cumhuriyet Bayramı",
+   "Kurban Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (30 Ağustos Zafer Bayramı, Kurban Bayramı, 29 Ekim Cumhuriyet Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı)",
+  "options": [
+   "29 Ekim Cumhuriyet Bayramı",
+   "Kurban Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, 29 Ekim Cumhuriyet Bayramı, 30 Ağustos Zafer Bayramı, Kurban Bayramı)",
+  "options": [
+   "30 Ağustos Zafer Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "Kurban Bayramı",
+   "29 Ekim Cumhuriyet Bayramı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, doğum günü, Ramazan Bayramı)",
+  "options": [
+   "doğum günü",
+   "Kurban Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, karne günü, Ramazan Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı)",
+  "options": [
+   "Kurban Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "karne günü",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (29 Ekim Cumhuriyet Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, 30 Ağustos Zafer Bayramı, Ramazan Bayramı)",
+  "options": [
+   "Ramazan Bayramı",
+   "29 Ekim Cumhuriyet Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 30 Ağustos Zafer Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, Ramazan Bayramı)",
+  "options": [
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (29 Ekim Cumhuriyet Bayramı, 30 Ağustos Zafer Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, Kurban Bayramı)",
+  "options": [
+   "29 Ekim Cumhuriyet Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Kurban Bayramı",
+   "30 Ağustos Zafer Bayramı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (karne günü, Ramazan Bayramı, Kurban Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı)",
+  "options": [
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "karne günü",
+   "Kurban Bayramı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Ramazan Bayramı, yılbaşı, 30 Ağustos Zafer Bayramı, Kurban Bayramı)",
+  "options": [
+   "Ramazan Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "yılbaşı",
+   "Kurban Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (30 Ağustos Zafer Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, Ramazan Bayramı, 29 Ekim Cumhuriyet Bayramı)",
+  "options": [
+   "29 Ekim Cumhuriyet Bayramı",
+   "Ramazan Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "30 Ağustos Zafer Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (Kurban Bayramı, 30 Ağustos Zafer Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 29 Ekim Cumhuriyet Bayramı)",
+  "options": [
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Kurban Bayramı",
+   "29 Ekim Cumhuriyet Bayramı",
+   "30 Ağustos Zafer Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, Kurban Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 30 Ağustos Zafer Bayramı)",
+  "options": [
+   "30 Ağustos Zafer Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Kurban Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Ramazan Bayramı, 29 Ekim Cumhuriyet Bayramı, Kurban Bayramı, karne günü)",
+  "options": [
+   "Kurban Bayramı",
+   "karne günü",
+   "Ramazan Bayramı",
+   "29 Ekim Cumhuriyet Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, Ramazan Bayramı, yılbaşı)",
+  "options": [
+   "Kurban Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "Ramazan Bayramı",
+   "yılbaşı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (karne günü, Ramazan Bayramı, 29 Ekim Cumhuriyet Bayramı, Kurban Bayramı)",
+  "options": [
+   "29 Ekim Cumhuriyet Bayramı",
+   "karne günü",
+   "Kurban Bayramı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (Ramazan Bayramı, 30 Ağustos Zafer Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı)",
+  "options": [
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (doğum günü, 29 Ekim Cumhuriyet Bayramı, Ramazan Bayramı, Kurban Bayramı)",
+  "options": [
+   "Kurban Bayramı",
+   "doğum günü",
+   "Ramazan Bayramı",
+   "29 Ekim Cumhuriyet Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (Kurban Bayramı, 29 Ekim Cumhuriyet Bayramı, 30 Ağustos Zafer Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı)",
+  "options": [
+   "Kurban Bayramı",
+   "29 Ekim Cumhuriyet Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (29 Ekim Cumhuriyet Bayramı, doğum günü, Kurban Bayramı, Ramazan Bayramı)",
+  "options": [
+   "29 Ekim Cumhuriyet Bayramı",
+   "doğum günü",
+   "Kurban Bayramı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (doğum günü, 30 Ağustos Zafer Bayramı, Kurban Bayramı, Ramazan Bayramı)",
+  "options": [
+   "Kurban Bayramı",
+   "Ramazan Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "doğum günü"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, doğum günü, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, Ramazan Bayramı)",
+  "options": [
+   "Kurban Bayramı",
+   "Ramazan Bayramı",
+   "doğum günü",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 30 Ağustos Zafer Bayramı, Ramazan Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı)",
+  "options": [
+   "30 Ağustos Zafer Bayramı",
+   "Ramazan Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (yılbaşı, Kurban Bayramı, 30 Ağustos Zafer Bayramı, Ramazan Bayramı)",
+  "options": [
+   "yılbaşı",
+   "Kurban Bayramı",
+   "Ramazan Bayramı",
+   "30 Ağustos Zafer Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, 29 Ekim Cumhuriyet Bayramı, Kurban Bayramı)",
+  "options": [
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Kurban Bayramı",
+   "29 Ekim Cumhuriyet Bayramı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (Ramazan Bayramı, 29 Ekim Cumhuriyet Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı)",
+  "options": [
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "29 Ekim Cumhuriyet Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (29 Ekim Cumhuriyet Bayramı, 30 Ağustos Zafer Bayramı, Ramazan Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı)",
+  "options": [
+   "29 Ekim Cumhuriyet Bayramı",
+   "Ramazan Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (Kurban Bayramı, 29 Ekim Cumhuriyet Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı)",
+  "options": [
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Kurban Bayramı",
+   "29 Ekim Cumhuriyet Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 1,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, Ramazan Bayramı, Kurban Bayramı, doğum günü)",
+  "options": [
+   "Ramazan Bayramı",
+   "Kurban Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "doğum günü"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 30 Ağustos Zafer Bayramı, Ramazan Bayramı)",
+  "options": [
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "30 Ağustos Zafer Bayramı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi DİNİ bayramımızdır? (Ramazan Bayramı, 30 Ağustos Zafer Bayramı, 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı, 29 Ekim Cumhuriyet Bayramı)",
+  "options": [
+   "30 Ağustos Zafer Bayramı",
+   "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı",
+   "Ramazan Bayramı",
+   "29 Ekim Cumhuriyet Bayramı"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı, Ramazan Bayramı, Kurban Bayramı, yılbaşı)",
+  "options": [
+   "yılbaşı",
+   "Kurban Bayramı",
+   "Ramazan Bayramı",
+   "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, 30 Ağustos Zafer Bayramı, yılbaşı, Ramazan Bayramı)",
+  "options": [
+   "Kurban Bayramı",
+   "Ramazan Bayramı",
+   "yılbaşı",
+   "30 Ağustos Zafer Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, 30 Ağustos Zafer Bayramı, Ramazan Bayramı, doğum günü)",
+  "options": [
+   "30 Ağustos Zafer Bayramı",
+   "Kurban Bayramı",
+   "doğum günü",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (Kurban Bayramı, Ramazan Bayramı, yılbaşı, 29 Ekim Cumhuriyet Bayramı)",
+  "options": [
+   "Kurban Bayramı",
+   "yılbaşı",
+   "Ramazan Bayramı",
+   "29 Ekim Cumhuriyet Bayramı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Hangisi MİLLİ bayramımızdır? (29 Ekim Cumhuriyet Bayramı, Ramazan Bayramı, yılbaşı, Kurban Bayramı)",
+  "options": [
+   "29 Ekim Cumhuriyet Bayramı",
+   "Kurban Bayramı",
+   "yılbaşı",
+   "Ramazan Bayramı"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Kültür ve Bayramlar",
+  "grade": 4
+ },
+ {
+  "question": "Her çocuğun hangi hakkı vardır?",
+  "options": [
+   "çalıştırılma zorunluluğu",
+   "haklarının olmaması",
+   "sadece ev işi yapma görevi",
+   "eğitim görme hakkı"
+  ],
+  "correctAnswer": 3,
+  "subject": "Hayat Bilgisi",
+  "theme": "Çocuk Hakları",
+  "grade": 4
+ },
+ {
+  "question": "Çocuk hakları arasında hangisi YER ALIR?",
+  "options": [
+   "ağır işlerde çalışma",
+   "okula gönderilmeme",
+   "oyun oynama ve dinlenme hakkı",
+   "sağlıksız yaşama"
+  ],
+  "correctAnswer": 2,
+  "subject": "Hayat Bilgisi",
+  "theme": "Çocuk Hakları",
+  "grade": 4
+ },
+ {
+  "question": "Hasta olan her çocuğun hangi hakkı vardır?",
+  "options": [
+   "sağlık hizmeti alma hakkı",
+   "okuldan atılma",
+   "hiçbir hakkı yoktur",
+   "tedavi olmama zorunluluğu"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Çocuk Hakları",
+  "grade": 4
+ },
+ {
+  "question": "Çocukların korunması kimin sorumluluğudur?",
+  "options": [
+   "ailenin ve devletin",
+   "sadece öğretmenlerin",
+   "kimsenin",
+   "sadece çocuğun kendisinin"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Çocuk Hakları",
+  "grade": 4
+ },
+ {
+  "question": "Bir haksızlığa uğradığımızda ne yapmalıyız?",
+  "options": [
+   "güvendiğimiz büyüklere ve öğretmenimize söylemeliyiz",
+   "saklamalıyız",
+   "kendimizi suçlamalıyız",
+   "kimseye söylememeliyiz"
+  ],
+  "correctAnswer": 0,
+  "subject": "Hayat Bilgisi",
+  "theme": "Çocuk Hakları",
+  "grade": 4
  }
 ]
