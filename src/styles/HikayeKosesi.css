@@ -175,3 +175,27 @@
 
 /* Kisa/Uzun hikaye sekmesi */
 .hikaye-uzunluk-sekme { margin-top: 10px; }
+
+/* ---- Karaoke kelime vurgulama ---- */
+.kelime-aktif {
+  background: #ffe066;
+  color: #333;
+  border-radius: 6px;
+  padding: 1px 3px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+  transition: background 0.12s ease;
+}
+.kelime-okundu { opacity: 0.55; }
+
+/* ---- Buyuk kitap ikonlari ---- */
+.hikaye-emoji-buyuk {
+  font-size: 4.6rem !important;
+  line-height: 1.15;
+  display: block;
+  margin-bottom: 6px;
+  filter: drop-shadow(0 4px 7px rgba(0,0,0,0.22));
+}
+
+@media (max-width: 480px) {
+  .hikaye-emoji-buyuk { font-size: 3.8rem !important; }
+}

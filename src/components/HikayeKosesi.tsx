@@ -23,6 +23,7 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const [seciliHikaye, setSeciliHikaye] = useState<number | null>(null);
   const [sayfa, setSayfa] = useState(0);
   const [okunuyor, setOkunuyor] = useState(false);
+  const [aktifKelime, setAktifKelime] = useState(-1);
   const [uzunMu, setUzunMu] = useState(false);
   // Her hikayeye sabit ama farkli bir kahraman ismi (id'ye gore donusumlu)
   const ISIMLER = ['Ayşe','Mehmet','Zeynep','Can','Elif','Yusuf','Selin','Ali','Defne','Kaan','Ece','Emir','Naz','Arda','Sude','Mert','Ada','Efe','Nil','Berk'];
@@ -44,6 +45,8 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const tumListe = (dil === 'tr' ? hikayeler : ingilizceHikayeler) as Hikaye[];
   const liste = tumListe.filter(h => uzunMu ? (h as any).uzun === true : !(h as any).uzun);
   const sesDili = dil === 'tr' ? 'tr-TR' : 'en-US';
+
+  useEffect(() => { setAktifKelime(-1); }, [sayfa, seciliHikaye]);
 
   useEffect(() => {
     window.speechSynthesis.getVoices();
@@ -76,9 +79,24 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
     u.rate = 0.85;
     u.pitch = 1.05;
     u.onend = () => setOkunuyor(false);
+    // Karaoke: okunan kelimeyi takip et
+    const duz = metin;
+    const kelimeler = duz.split(/\s+/).filter(Boolean);
+    const baslangiclar: number[] = [];
+    let poz = 0;
+    kelimeler.forEach(k => { const idx = duz.indexOf(k, poz); baslangiclar.push(idx); poz = idx + k.length; });
+    u.addEventListener('boundary', (e: any) => {
+      if (e.name && e.name !== 'word') return;
+      const ci = e.charIndex ?? 0;
+      let idx = 0;
+      for (let i = 0; i < baslangiclar.length; i++) { if (baslangiclar[i] <= ci) idx = i; else break; }
+      setAktifKelime(idx);
+    });
+    u.addEventListener('end', () => setAktifKelime(-1));
+    setAktifKelime(-1);
     setOkunuyor(true); window.speechSynthesis.speak(u);
   };
-  const sesiDurdur = () => { window.speechSynthesis.cancel(); setOkunuyor(false); };
+  const sesiDurdur = () => { window.speechSynthesis.cancel(); setOkunuyor(false); setAktifKelime(-1); };
 
   const dilDegistir = (yeniDil: 'tr' | 'en') => {
     sesiDurdur(); setDil(yeniDil); setSeciliHikaye(null); setSayfa(0); resetTest();
@@ -106,7 +124,7 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
         <div className="hikaye-liste">
           {liste.map((h, i) => (
             <button key={h.id} className="hikaye-kart" onClick={() => { setSeciliHikaye(i); setSayfa(0); resetTest(); }}>
-              <span className="hikaye-emoji">📖</span>
+              <span className="hikaye-emoji hikaye-emoji-buyuk">{['📕','📗','📘','📙','📔','📚'][i % 6]}</span>
               <span className="hikaye-kart-baslik">{isimDegistir(h.baslik, h.id)}</span>
             </button>
           ))}
@@ -177,7 +195,18 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
       <button className="back-btn" onClick={hikayeyeDon}>← Hikayeler</button>
       <h2 className="hikaye-okuma-baslik">{isimDegistir(h.baslik, h.id)}</h2>
       <div className="hikaye-sayfa">
-        <p className="hikaye-metin">{isimDegistir(h.sayfalar[sayfa], h.id)}</p>
+        <p className="hikaye-metin">
+          {(() => {
+            let ki = -1;
+            return isimDegistir(h.sayfalar[sayfa], h.id).split(/(\s+)/).map((parca, i) => {
+              if (parca === '' || /^\s+$/.test(parca)) return parca;
+              ki += 1; const benim = ki;
+              const cls = benim === aktifKelime ? 'kelime-aktif'
+                : (aktifKelime > -1 && benim < aktifKelime ? 'kelime-okundu' : '');
+              return <span key={i} className={cls}>{parca}</span>;
+            });
+          })()}
+        </p>
       </div>
       {dil === 'en' && (
         <div className="hikaye-ses-row">
