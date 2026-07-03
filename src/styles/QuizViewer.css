@@ -1000,3 +1000,69 @@
   border: 2px solid #FAC775;
 }
 .hakkinda-son h3 { margin-top: 0; }
+
+/* ================= COKLU PROFIL SISTEMI ================= */
+.profil-kart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 16px;
+  width: 100%;
+  max-width: 480px;
+  margin-top: 24px;
+}
+.profil-kart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 22px 12px;
+  border: none;
+  border-radius: 20px;
+  background: linear-gradient(145deg, #7F77DD, #5a52c7);
+  color: #fff;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+}
+.profil-kart:hover, .profil-kart:active {
+  transform: translateY(-3px) scale(1.03);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+.profil-kart-emoji { font-size: 2.4rem; }
+.profil-kart-ad { font-size: 1.15rem; font-weight: 700; }
+.profil-kart-sinif { font-size: 0.85rem; opacity: 0.85; }
+.profil-kart-yeni {
+  background: transparent;
+  border: 3px dashed #7F77DD;
+  color: #7F77DD;
+}
+.profil-kart-yeni:hover { background: rgba(127,119,221,0.08); }
+
+.profil-geri-btn {
+  margin-top: 14px;
+  background: none;
+  border: none;
+  color: #7F77DD;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.profil-degistir-btn {
+  margin: 4px auto 14px;
+  display: block;
+  padding: 8px 18px;
+  border: 2px solid rgba(127,119,221,0.5);
+  border-radius: 999px;
+  background: rgba(127,119,221,0.1);
+  color: inherit;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+.profil-degistir-btn:hover { background: rgba(127,119,221,0.22); }
+
+@media (max-width: 480px) {
+  .profil-kart-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .profil-kart { padding: 18px 8px; }
+}

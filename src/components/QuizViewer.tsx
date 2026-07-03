@@ -48,9 +48,45 @@ function playSound(correct: boolean) {
   } catch (e) { /* ses desteklenmiyorsa sessizce geç */ }
 }
 
+
+// ================= COKLU PROFIL SISTEMI =================
+interface Profil { ad: string; sinif: string; }
+
+const PROFIL_KEY = 'dersdunyasi_profiller';
+const AKTIF_KEY = 'dersdunyasi_aktif';
+const statsKey = (ad: string) => `dersdunyasi_${ad}_stats`;
+
+function profilleriGetir(): Profil[] {
+  try { return JSON.parse(localStorage.getItem(PROFIL_KEY) || '[]'); } catch { return []; }
+}
+function profilleriKaydet(liste: Profil[]) {
+  localStorage.setItem(PROFIL_KEY, JSON.stringify(liste));
+}
+// Eski tek-profil verisini yeni sisteme tasir (puan kaybi olmaz, bir kez calisir)
+function eskiVeriyiTasi() {
+  const eskiAd = localStorage.getItem('aktifProfilAdi');
+  if (!eskiAd) return;
+  const profiller = profilleriGetir();
+  if (!profiller.find(pr => pr.ad === eskiAd)) {
+    profiller.push({ ad: eskiAd, sinif: localStorage.getItem('aktifProfilSinif') || '2' });
+    profilleriKaydet(profiller);
+  }
+  const eskiStats = localStorage.getItem('quizStats');
+  if (eskiStats && !localStorage.getItem(statsKey(eskiAd))) {
+    localStorage.setItem(statsKey(eskiAd), eskiStats);
+  }
+  localStorage.setItem(AKTIF_KEY, eskiAd);
+  localStorage.removeItem('aktifProfilAdi');
+  localStorage.removeItem('aktifProfilSinif');
+  localStorage.removeItem('quizStats');
+}
+eskiVeriyiTasi();
+
 const QuizViewer: React.FC = () => {
   const [screen, setScreen] = useState<'home' | 'quiz' | 'hikaye' | 'hakkinda'>('home');
-  const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem('aktifProfilAdi') || '');
+  const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
+  const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
+  const [yeniProfilModu, setYeniProfilModu] = useState(false);
   const [yeniAd, setYeniAd] = useState('');
   const [yeniSinif, setYeniSinif] = useState('');
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -139,9 +175,9 @@ const QuizViewer: React.FC = () => {
       date: new Date().toLocaleString('tr-TR')
     };
 
-    const stats = JSON.parse(localStorage.getItem('quizStats') || '[]');
+    const stats = JSON.parse(localStorage.getItem(statsKey(profilAdi)) || '[]');
     stats.push(result);
-    localStorage.setItem('quizStats', JSON.stringify(stats));
+    localStorage.setItem(statsKey(profilAdi), JSON.stringify(stats));
   };
 
   const soruyuSeslendir = () => {
@@ -191,7 +227,7 @@ const QuizViewer: React.FC = () => {
   };
 
   const getStats = () => {
-    const stats: QuizResult[] = JSON.parse(localStorage.getItem('quizStats') || '[]');
+    const stats: QuizResult[] = JSON.parse(localStorage.getItem(statsKey(profilAdi)) || '[]');
     return stats;
   };
 
@@ -414,20 +450,53 @@ const QuizViewer: React.FC = () => {
     return <HikayeKosesi onClose={() => setScreen('home')} />;
   }
 
-  // Profil yoksa once isim/yas sor
+  // Profil secim / yeni profil ekrani
   if (!profilAdi) {
     const profilOlustur = () => {
       const ad = yeniAd.trim();
       if (!ad || !yeniSinif) return;
-      localStorage.setItem('aktifProfilAdi', ad);
-      localStorage.setItem('aktifProfilSinif', yeniSinif);
+      if (profiller.find(pr => pr.ad.toLowerCase() === ad.toLowerCase())) return;
+      const guncel = [...profiller, { ad, sinif: yeniSinif }];
+      profilleriKaydet(guncel);
+      setProfiller(guncel);
+      localStorage.setItem(AKTIF_KEY, ad);
+      setProfilAdi(ad);
+      setYeniAd(''); setYeniSinif(''); setYeniProfilModu(false);
+    };
+    const profilSec = (ad: string) => {
+      localStorage.setItem(AKTIF_KEY, ad);
       setProfilAdi(ad);
     };
+    const EMOJI = ['🦁','🌟','🦋','🚀','🌈','🐬','🦄','🍀'];
+
+    if (profiller.length > 0 && !yeniProfilModu) {
+      return (
+        <div className="profil-container">
+          <div className="profil-emoji">👋</div>
+          <h1 className="profil-baslik">Kim oynuyor?</h1>
+          <p className="profil-alt">Adına dokun ve başla!</p>
+          <div className="profil-kart-grid">
+            {profiller.map((pr, i) => (
+              <button key={pr.ad} className="profil-kart" onClick={() => profilSec(pr.ad)}>
+                <span className="profil-kart-emoji">{EMOJI[i % EMOJI.length]}</span>
+                <span className="profil-kart-ad">{pr.ad}</span>
+                <span className="profil-kart-sinif">{pr.sinif}. Sınıf</span>
+              </button>
+            ))}
+            <button className="profil-kart profil-kart-yeni" onClick={() => setYeniProfilModu(true)}>
+              <span className="profil-kart-emoji">➕</span>
+              <span className="profil-kart-ad">Yeni Profil</span>
+            </button>
+          </div>
+        </div>
+      );
+    }
+
     const siniflar = ['1', '2', '3', '4'];
     return (
       <div className="profil-container">
         <div className="profil-emoji">🎮</div>
-        <h1 className="profil-baslik">Hoş geldin!</h1>
+        <h1 className="profil-baslik">{profiller.length > 0 ? 'Yeni arkadaş! 🎉' : 'Hoş geldin!'}</h1>
         <p className="profil-alt">Kendine bir takma ad seç!</p>
         <input
           className="profil-input"
@@ -451,6 +520,9 @@ const QuizViewer: React.FC = () => {
         <button className="profil-btn" onClick={profilOlustur} disabled={!yeniAd.trim() || !yeniSinif}>
           Başla! 🎈
         </button>
+        {profiller.length > 0 && (
+          <button className="profil-geri-btn" onClick={() => setYeniProfilModu(false)}>← Geri dön</button>
+        )}
       </div>
     );
   }
@@ -469,6 +541,7 @@ const QuizViewer: React.FC = () => {
       <div className="home-container">
         <h1 className="home-title">🎈 Ders Dünyası</h1>
         <p className="home-subtitle">Merhaba {profilAdi}! 👋 Dokun ve oyna!</p>
+        <button className="profil-degistir-btn" onClick={() => { localStorage.removeItem(AKTIF_KEY); setProfilAdi(""); }}>👤 Profil Değiştir</button>
         <div className="home-grid">
           {cards.map((c, i) => (
             <button
