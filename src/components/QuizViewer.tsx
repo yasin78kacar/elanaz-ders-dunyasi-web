@@ -1,6 +1,7 @@
 
 import { useState, useEffect } from 'react';
 import { dersYukle } from '../data';
+import Oyunlar from './Oyunlar';
 import HikayeKosesi from './HikayeKosesi';
 import { gorselBul } from '../data/konuGorselleri';
 import '../styles/QuizViewer.css';
@@ -105,7 +106,7 @@ function eskiVeriyiTasi() {
 eskiVeriyiTasi();
 
 const QuizViewer: React.FC = () => {
-  const [screen, setScreen] = useState<'home' | 'quiz' | 'hikaye' | 'hakkinda'>('home');
+  const [screen, setScreen] = useState<'home' | 'quiz' | 'hikaye' | 'hakkinda' | 'oyunlar'>('home');
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   const [yeniProfilModu, setYeniProfilModu] = useState(false);
@@ -488,6 +489,10 @@ const QuizViewer: React.FC = () => {
     return <HikayeKosesi onClose={() => setScreen('home')} />;
   }
 
+  if (screen === 'oyunlar') {
+    return <Oyunlar onClose={() => setScreen('home')} />;
+  }
+
   // Profil secim / yeni profil ekrani
   if (!profilAdi) {
     const profilOlustur = () => {
@@ -599,6 +604,7 @@ const QuizViewer: React.FC = () => {
         </div>
         <div className="home-actions">
           <button className="home-action-btn hikaye-action" onClick={() => setScreen('hikaye')}>📚 Hikaye Köşesi</button>
+          <button className="home-action-btn oyun-action" onClick={() => setScreen('oyunlar')}>🎮 Oyunlar</button>
           <button className="home-action-btn hata-kutusu-btn" onClick={() => {
             const h = hatalariGetir(profilAdi);
             setHataModu(true);
