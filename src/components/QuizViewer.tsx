@@ -70,7 +70,10 @@ function curukMu(q: Question): boolean {
   const m = (q.question || '').toLowerCase();
   const ops = (q.options || []).join(' ').toLowerCase();
   const rakamsiz = !/\d/.test(m) && !/\d/.test(ops);
-  const veriKalibi = ['en az hangi','en çok hangi','en fazla hangi','toplam kaç','kaç adet'].some(k => m.includes(k));
+  // Sadece SAYIM verisi gerektiren kaliplar curuktur ("... en az hangi hayvan VAR?");
+  // "en cok hangisini sever/kullanir" genel bilgi sorusudur, curuk DEGILDIR.
+  const veriKalibi = ['en az hangi','en çok hangi','en fazla hangi'].some(k => m.includes(k)) && m.includes(' var')
+    || ['toplam kaç','kaç adet'].some(k => m.includes(k));
   const gorselAtif = CURUK_KALIPLAR.slice(5).some(k => m.includes(k));
   return gorselAtif || (veriKalibi && rakamsiz);
 }
