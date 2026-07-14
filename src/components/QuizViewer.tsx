@@ -27,9 +27,10 @@ const OPTION_LABELS = ['A', 'B', 'C', 'D'];
 
 interface Props {
   onHikayeAc?: () => void;
+  onOyunlarAc?: () => void;
 }
 
-const QuizViewer: React.FC<Props> = ({ onHikayeAc }) => {
+const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
   const [questions, setQuestions]       = useState<Question[]>([]);
   const [selectedSubject, setSelectedSubject] = useState(SUBJECTS[0].label);
   const [selectedTheme, setSelectedTheme]     = useState('Tema 1');
@@ -129,7 +130,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc }) => {
     </div>
   );
 
-  // ── Hikaye köşesi butonu ───────────────────────────────────────────────
+  // ── Ekstra butonlar ────────────────────────────────────────────────────
   const hikayeBtn = onHikayeAc ? (
     <button className="qv-hikaye-btn" id="btn-hikaye-kosesi" onClick={onHikayeAc}>
       <span className="qv-hikaye-btn-emoji">📚</span>
@@ -141,6 +142,24 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc }) => {
     </button>
   ) : null;
 
+  const oyunlarBtn = onOyunlarAc ? (
+    <button className="qv-oyunlar-btn" id="btn-oyunlar" onClick={onOyunlarAc}>
+      <span className="qv-hikaye-btn-emoji">🎮</span>
+      <span className="qv-hikaye-btn-text">
+        <span className="qv-hikaye-btn-title">Oyunlar</span>
+        <span className="qv-hikaye-btn-sub">7 eğlenceli mini oyun</span>
+      </span>
+      <span className="qv-hikaye-btn-arrow">›</span>
+    </button>
+  ) : null;
+
+  const extraButtons = (hikayeBtn || oyunlarBtn) ? (
+    <div className="qv-extra-btns">
+      {hikayeBtn}
+      {oyunlarBtn}
+    </div>
+  ) : null;
+
   // ── Loading ─────────────────────────────────────────────────────────────
   if (loading) return (
     <div className="qv-wrap">
@@ -148,7 +167,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc }) => {
         <div className="qv-hero-title">Elanaz'ın<br />Ders Dünyası 🌈</div>
         <div className="qv-hero-sub">2. Sınıf · 6.000+ Soru</div>
       </div>
-      {hikayeBtn}
+      {extraButtons}
       {selectors}
       <div className="qv-loading">
         <div className="qv-spinner" />
