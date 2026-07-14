@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Geliştirme/üretim scriptleri (repo'ya dahil edilmez)
+augment*.mjs
+augment_questions.mjs
+fix_script.mjs
