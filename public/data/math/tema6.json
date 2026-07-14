@@ -1,0 +1,2565 @@
+{
+  "questions": [
+    {
+      "id": "q609",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bir haftada kaç gün vardır?",
+      "options": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q610",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bir günde kaç saat vardır?",
+      "options": [
+        "12",
+        "16",
+        "24",
+        "20"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q611",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bir saatte kaç dakika vardır?",
+      "options": [
+        "60",
+        "45",
+        "30",
+        "90"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q612",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bir dakikada kaç saniye vardır?",
+      "options": [
+        "30",
+        "100",
+        "45",
+        "60"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q613",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bir yılda kaç ay vardır?",
+      "options": [
+        "10",
+        "12",
+        "11",
+        "13"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q614",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bir yılda kaç gün vardır?",
+      "options": [
+        "360",
+        "366",
+        "364",
+        "365"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q615",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Haftanın ilk günü hangisidir?",
+      "options": [
+        "Salı",
+        "Pazartesi",
+        "Pazar",
+        "Çarşamba"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q616",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Haftanın son günü hangisidir?",
+      "options": [
+        "Cuma",
+        "Pazar",
+        "Cumartesi",
+        "Pazartesi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q617",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Yılın ilk ayı hangisidir?",
+      "options": [
+        "Aralık",
+        "Ocak",
+        "Şubat",
+        "Mart"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q618",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Yılın son ayı hangisidir?",
+      "options": [
+        "Kasım",
+        "Ocak",
+        "Ekim",
+        "Aralık"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q619",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Mart'tan sonra hangi ay gelir?",
+      "options": [
+        "Nisan",
+        "Şubat",
+        "Mart",
+        "Mayıs"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q620",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Eylül'den önce hangi ay gelir?",
+      "options": [
+        "Temmuz",
+        "Eylül",
+        "Ekim",
+        "Ağustos"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q621",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Yılda kaç mevsim vardır?",
+      "options": [
+        "6",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q622",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "İlkbahar hangi aylardır?",
+      "options": [
+        "Mart, Nisan, Mayıs",
+        "Haziran, Temmuz, Ağustos",
+        "Eylül, Ekim, Kasım",
+        "Aralık, Ocak, Şubat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q623",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Yaz hangi aylardır?",
+      "options": [
+        "Mart, Nisan, Mayıs",
+        "Haziran, Temmuz, Ağustos",
+        "Eylül, Ekim, Kasım",
+        "Aralık, Ocak, Şubat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q624",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Sonbahar hangi aylardır?",
+      "options": [
+        "Mart, Nisan, Mayıs",
+        "Haziran, Temmuz, Ağustos",
+        "Aralık, Ocak, Şubat",
+        "Eylül, Ekim, Kasım"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q625",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Kış hangi aylardır?",
+      "options": [
+        "Aralık, Ocak, Şubat",
+        "Mart, Nisan, Mayıs",
+        "Haziran, Temmuz, Ağustos",
+        "Eylül, Ekim, Kasım"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q626",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Hangi mevsimde çiçekler açar?",
+      "options": [
+        "Yaz",
+        "Kış",
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q627",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Hangi mevsimde okullar tatile girer?",
+      "options": [
+        "İlkbahar",
+        "Kış",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q628",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Hangi mevsimde yapraklar dökülür?",
+      "options": [
+        "Sonbahar",
+        "İlkbahar",
+        "Yaz",
+        "Kış"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q629",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Hangi mevsimde kar yağar?",
+      "options": [
+        "Kış",
+        "İlkbahar",
+        "Sonbahar",
+        "Yaz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q630",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Şubat ayı kaç gün çeker?",
+      "options": [
+        "27",
+        "28 veya 29",
+        "31",
+        "30"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q631",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "31 gün çeken ay hangisidir?",
+      "options": [
+        "Şubat",
+        "Ocak",
+        "Haziran",
+        "Nisan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q632",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "30 gün çeken ay hangisidir?",
+      "options": [
+        "Temmuz",
+        "Nisan",
+        "Ocak",
+        "Mart"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q633",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Okul hangi ayda başlar?",
+      "options": [
+        "Haziran",
+        "Ekim",
+        "Ağustos",
+        "Eylül"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q634",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Cumartesi ve Pazar ne olarak adlandırılır?",
+      "options": [
+        "İş günleri",
+        "Hafta sonu",
+        "Okul günleri",
+        "Tatil haftası"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q635",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Salı'dan 3 gün sonrası hangi gündür?",
+      "options": [
+        "Cumartesi",
+        "Cuma",
+        "Perşembe",
+        "Çarşamba"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q636",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Cuma'dan 2 gün sonrası hangi gündür?",
+      "options": [
+        "Pazartesi",
+        "Salı",
+        "Cumartesi",
+        "Pazar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q637",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Çarşamba'dan 1 gün önce hangi gündür?",
+      "options": [
+        "Perşembe",
+        "Salı",
+        "Cuma",
+        "Pazartesi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q640",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "3 hafta kaç gün eder?",
+      "options": [
+        "18",
+        "14",
+        "21",
+        "28"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q641",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "2 yıl kaç ay eder?",
+      "options": [
+        "12",
+        "24",
+        "36",
+        "18"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q642",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 10:30 ile 11:00 arası kaç dakika?",
+      "options": [
+        "15",
+        "30",
+        "60",
+        "45"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q643",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 3'ü gösterdiğinde yelkovan nerededir?",
+      "options": [
+        "12",
+        "9",
+        "6",
+        "3"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q644",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 6'yı gösterdiğinde yelkovan nerededir?",
+      "options": [
+        "9",
+        "12",
+        "6",
+        "3"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q645",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "'Sekizi buçuk' saat kaçtır?",
+      "options": [
+        "8:15",
+        "8:00",
+        "9:00",
+        "8:30"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q646",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "'Dörde çeyrek var' saat kaçtır?",
+      "options": [
+        "4:15",
+        "3:45",
+        "3:15",
+        "4:00"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q647",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "'Altıyı çeyrek geçiyor' saat kaçtır?",
+      "options": [
+        "6:00",
+        "6:30",
+        "6:45",
+        "6:15"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q648",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Günde kaç yarım saat vardır?",
+      "options": [
+        "36",
+        "48",
+        "12",
+        "24"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q649",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Haftanın 3. günü hangisidir?",
+      "options": [
+        "Salı",
+        "Perşembe",
+        "Çarşamba",
+        "Pazartesi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q650",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Haftanın 5. günü hangisidir?",
+      "options": [
+        "Cumartesi",
+        "Salı",
+        "Perşembe",
+        "Cuma"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q651",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ekim'den sonra hangi ay gelir?",
+      "options": [
+        "Eylül",
+        "Kasım",
+        "Aralık",
+        "Ekim"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q652",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Haziran'dan önce hangi ay gelir?",
+      "options": [
+        "Mayıs",
+        "Temmuz",
+        "Nisan",
+        "Haziran"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q653",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bir yılın yarısı kaç ay eder?",
+      "options": [
+        "9",
+        "3",
+        "6",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q654",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 7:00'den saat 10:00'a kadar kaç saat geçer?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q655",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "4 hafta kaç gün eder?",
+      "options": [
+        "14",
+        "21",
+        "28",
+        "30"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q656",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Günün yarısı kaç saattir?",
+      "options": [
+        "12",
+        "6",
+        "8",
+        "24"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q658",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Sabah 6:00 ile öğle 12:00 arası kaç saat?",
+      "options": [
+        "5",
+        "4",
+        "8",
+        "6"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50259",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 1:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "2",
+        "12",
+        "7",
+        "1"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50260",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 1:30'u kaç ile ifade ederiz?",
+      "options": [
+        "1 çeyrek",
+        "1 buçuk",
+        "1 tam",
+        "2 tam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50261",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 2:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "1",
+        "2",
+        "8",
+        "3"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50262",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 2:30'u kaç ile ifade ederiz?",
+      "options": [
+        "2 çeyrek",
+        "3 tam",
+        "2 tam",
+        "2 buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50263",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 3:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "3",
+        "4",
+        "9",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50264",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 3:30'u kaç ile ifade ederiz?",
+      "options": [
+        "3 tam",
+        "4 tam",
+        "3 çeyrek",
+        "3 buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50265",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 4:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "10",
+        "5",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50266",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 4:30'u kaç ile ifade ederiz?",
+      "options": [
+        "5 tam",
+        "4 buçuk",
+        "4 tam",
+        "4 çeyrek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50267",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 5:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "6",
+        "4",
+        "11",
+        "5"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50268",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 5:30'u kaç ile ifade ederiz?",
+      "options": [
+        "5 tam",
+        "6 tam",
+        "5 buçuk",
+        "5 çeyrek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50269",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 6:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "5",
+        "7",
+        "12",
+        "6"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50270",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 6:30'u kaç ile ifade ederiz?",
+      "options": [
+        "6 tam",
+        "6 çeyrek",
+        "7 tam",
+        "6 buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50271",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 7:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "6",
+        "8",
+        "1",
+        "7"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50272",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 7:30'u kaç ile ifade ederiz?",
+      "options": [
+        "8 tam",
+        "7 tam",
+        "7 çeyrek",
+        "7 buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50273",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 8:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "2"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50274",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 8:30'u kaç ile ifade ederiz?",
+      "options": [
+        "8 çeyrek",
+        "9 tam",
+        "8 tam",
+        "8 buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50275",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 9:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "10",
+        "3",
+        "9",
+        "8"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50276",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 9:30'u kaç ile ifade ederiz?",
+      "options": [
+        "10 tam",
+        "9 tam",
+        "9 buçuk",
+        "9 çeyrek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50277",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 10:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "11",
+        "9",
+        "10",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50278",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 10:30'u kaç ile ifade ederiz?",
+      "options": [
+        "10 tam",
+        "10 çeyrek",
+        "11 tam",
+        "10 buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50279",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 11:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50280",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 11:30'u kaç ile ifade ederiz?",
+      "options": [
+        "11 buçuk",
+        "11 tam",
+        "11 çeyrek",
+        "12 tam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50281",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 12:00'i gösterdiğinde akrep nerede durur?",
+      "options": [
+        "1",
+        "6",
+        "12",
+        "11"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50282",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 12:30'u kaç ile ifade ederiz?",
+      "options": [
+        "1 tam",
+        "12 çeyrek",
+        "12 tam",
+        "12 buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50303",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ocak yılın kaçıncı ayıdır?",
+      "options": [
+        "3",
+        "2",
+        "2",
+        "1"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50304",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ocak'dan sonra hangi ay gelir?",
+      "options": [
+        "Şubat",
+        "Mart",
+        "Ocak",
+        "Nisan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50305",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Şubat yılın kaçıncı ayıdır?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50306",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Şubat'dan sonra hangi ay gelir?",
+      "options": [
+        "Mart",
+        "Nisan",
+        "Mayıs",
+        "Şubat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50307",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Mart yılın kaçıncı ayıdır?",
+      "options": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50308",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Mart'dan sonra hangi ay gelir?",
+      "options": [
+        "Haziran",
+        "Nisan",
+        "Mayıs",
+        "Mart"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50309",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Nisan yılın kaçıncı ayıdır?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50310",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Nisan'dan sonra hangi ay gelir?",
+      "options": [
+        "Mayıs",
+        "Haziran",
+        "Nisan",
+        "Temmuz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50311",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Mayıs yılın kaçıncı ayıdır?",
+      "options": [
+        "7",
+        "5",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50312",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Mayıs'dan sonra hangi ay gelir?",
+      "options": [
+        "Temmuz",
+        "Ağustos",
+        "Mayıs",
+        "Haziran"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50313",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Haziran yılın kaçıncı ayıdır?",
+      "options": [
+        "7",
+        "5",
+        "8",
+        "6"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50314",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Haziran'dan sonra hangi ay gelir?",
+      "options": [
+        "Temmuz",
+        "Eylül",
+        "Ağustos",
+        "Haziran"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50315",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Temmuz yılın kaçıncı ayıdır?",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50316",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Temmuz'dan sonra hangi ay gelir?",
+      "options": [
+        "Ağustos",
+        "Ekim",
+        "Eylül",
+        "Temmuz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50317",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ağustos yılın kaçıncı ayıdır?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50318",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ağustos'dan sonra hangi ay gelir?",
+      "options": [
+        "Ağustos",
+        "Eylül",
+        "Ekim",
+        "Kasım"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50319",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Eylül yılın kaçıncı ayıdır?",
+      "options": [
+        "11",
+        "9",
+        "8",
+        "10"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50320",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Eylül'dan sonra hangi ay gelir?",
+      "options": [
+        "Ekim",
+        "Aralık",
+        "Eylül",
+        "Kasım"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50321",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ekim yılın kaçıncı ayıdır?",
+      "options": [
+        "9",
+        "12",
+        "10",
+        "11"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50322",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ekim'dan sonra hangi ay gelir?",
+      "options": [
+        "Aralık",
+        "Ekim",
+        "Ocak",
+        "Kasım"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50323",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Kasım yılın kaçıncı ayıdır?",
+      "options": [
+        "11",
+        "2",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50324",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Kasım'dan sonra hangi ay gelir?",
+      "options": [
+        "Şubat",
+        "Kasım",
+        "Aralık",
+        "Ocak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50325",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Aralık yılın kaçıncı ayıdır?",
+      "options": [
+        "2",
+        "1",
+        "12",
+        "11"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200319",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 1:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "1 ceyrek",
+        "1 bucuk",
+        "2 ceyrek",
+        "1 tam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200320",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 1:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "1 tam",
+        "1 bucuk",
+        "1 ceyrek",
+        "2'e ceyrek kala"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200321",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 2:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "2 bucuk",
+        "3 ceyrek",
+        "2 tam",
+        "2 ceyrek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200322",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 2:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "2 ceyrek",
+        "2 tam",
+        "3'e ceyrek kala",
+        "2 bucuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200323",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 3:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "4 ceyrek",
+        "3 ceyrek",
+        "3 tam",
+        "3 bucuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200324",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 3:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "3 tam",
+        "4'e ceyrek kala",
+        "3 ceyrek",
+        "3 bucuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200325",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 4:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "5 ceyrek",
+        "4 ceyrek",
+        "4 tam",
+        "4 bucuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200326",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 4:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "4 tam",
+        "4 ceyrek",
+        "4 bucuk",
+        "5'e ceyrek kala"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200327",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 5:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "5 bucuk",
+        "6 ceyrek",
+        "5 tam",
+        "5 ceyrek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200328",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 5:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "5 ceyrek",
+        "5 bucuk",
+        "6'e ceyrek kala",
+        "5 tam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200329",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 6:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "7 ceyrek",
+        "6 bucuk",
+        "6 tam",
+        "6 ceyrek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200330",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 6:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "7'e ceyrek kala",
+        "6 tam",
+        "6 ceyrek",
+        "6 bucuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200331",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 7:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "8 ceyrek",
+        "7 tam",
+        "7 bucuk",
+        "7 ceyrek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200332",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 7:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "7 tam",
+        "7 ceyrek",
+        "7 bucuk",
+        "8'e ceyrek kala"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200333",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 8:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "8 bucuk",
+        "8 ceyrek",
+        "8 tam",
+        "9 ceyrek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200334",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 8:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "8 bucuk",
+        "8 tam",
+        "8 ceyrek",
+        "9'e ceyrek kala"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200335",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 9:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "10 ceyrek",
+        "9 tam",
+        "9 ceyrek",
+        "9 bucuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200336",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 9:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "9 ceyrek",
+        "9 bucuk",
+        "9 tam",
+        "10'e ceyrek kala"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200337",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 10:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "10 bucuk",
+        "10 tam",
+        "10 ceyrek",
+        "11 ceyrek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200338",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 10:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "10 bucuk",
+        "10 tam",
+        "10 ceyrek",
+        "11'e ceyrek kala"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200339",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 11:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "11 bucuk",
+        "12 ceyrek",
+        "11 tam",
+        "11 ceyrek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200340",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 11:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "11 bucuk",
+        "12'e ceyrek kala",
+        "11 ceyrek",
+        "11 tam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200341",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 12:15'i hangi ifade en dogru anlatir?",
+      "options": [
+        "12 ceyrek",
+        "12 bucuk",
+        "12 tam",
+        "13 ceyrek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200342",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 12:45'i hangi ifade en dogru anlatir?",
+      "options": [
+        "12 bucuk",
+        "12 tam",
+        "1'e ceyrek kala",
+        "12 ceyrek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600392",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Okula gitmek için saat 7:00 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
+      "options": [
+        "Sabah",
+        "Sabah",
+        "Gece",
+        "Öğleden sonra"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600393",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 7:00 iken 30 dakika geçerse saat kaç olur?",
+      "options": [
+        "8:00",
+        "7:15",
+        "7:00",
+        "7:30"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600394",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ders başlangıcı için saat 8:30 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
+      "options": [
+        "Gece",
+        "Öğleden sonra",
+        "Sabah",
+        "Sabah"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600395",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 8:30 iken 30 dakika geçerse saat kaç olur?",
+      "options": [
+        "8:45",
+        "8:30",
+        "9:30",
+        "9:00"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600396",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Öğle yemeği için saat 12:00 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
+      "options": [
+        "Gece",
+        "Öğleden sonra",
+        "Öğleden sonra",
+        "Sabah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600397",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 12:00 iken 30 dakika geçerse saat kaç olur?",
+      "options": [
+        "12:00",
+        "13:00",
+        "12:30",
+        "12:15"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600398",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Beden eğitimi için saat 15:30 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
+      "options": [
+        "Öğleden sonra",
+        "Sabah",
+        "Gece",
+        "Öğleden sonra"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600399",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 15:30 iken 30 dakika geçerse saat kaç olur?",
+      "options": [
+        "16:30",
+        "16:00",
+        "15:30",
+        "15:45"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600400",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Akşam yemeği için saat 19:00 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
+      "options": [
+        "Gece",
+        "Akşam/Gece",
+        "Öğleden sonra",
+        "Sabah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600401",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 19:00 iken 30 dakika geçerse saat kaç olur?",
+      "options": [
+        "19:00",
+        "19:15",
+        "19:30",
+        "20:00"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600402",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Uyku vakti için saat 21:00 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
+      "options": [
+        "Sabah",
+        "Öğleden sonra",
+        "Gece",
+        "Akşam/Gece"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600403",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 21:00 iken 30 dakika geçerse saat kaç olur?",
+      "options": [
+        "22:00",
+        "21:00",
+        "21:30",
+        "21:15"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600404",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 1:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "2:00",
+        "1:00",
+        "3:00",
+        "1:30"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600405",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 1:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "12:30",
+        "11:30",
+        "1:30",
+        "1:00"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600406",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 1:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "15 dakika",
+        "5 dakika",
+        "45 dakika",
+        "30 dakika"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600407",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 1:45 iken \"2'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Evet, doğru",
+        "Hayır, yanlış",
+        "Kısmen doğru",
+        "Belirsiz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600408",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 2:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "4:00",
+        "2:00",
+        "2:30",
+        "3:00"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600409",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 2:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "1:30",
+        "2:00",
+        "2:30",
+        "1:00"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600410",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 2:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "15 dakika",
+        "30 dakika",
+        "45 dakika",
+        "5 dakika"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600411",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 2:45 iken \"3'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Evet, doğru",
+        "Hayır, yanlış",
+        "Belirsiz",
+        "Kısmen doğru"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600412",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 3:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "4:00",
+        "3:30",
+        "3:00",
+        "5:00"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600413",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 3:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "2:00",
+        "3:30",
+        "3:00",
+        "2:30"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600414",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 3:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "45 dakika",
+        "15 dakika",
+        "30 dakika",
+        "5 dakika"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600415",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 3:45 iken \"4'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Belirsiz",
+        "Kısmen doğru",
+        "Hayır, yanlış",
+        "Evet, doğru"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600416",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 4:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "5:00",
+        "6:00",
+        "4:30",
+        "4:00"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600417",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 4:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "4:00",
+        "3:00",
+        "4:30",
+        "3:30"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600418",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 4:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "30 dakika",
+        "45 dakika",
+        "5 dakika",
+        "15 dakika"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600419",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 4:45 iken \"5'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Evet, doğru",
+        "Belirsiz",
+        "Kısmen doğru",
+        "Hayır, yanlış"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600420",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 5:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "5:00",
+        "6:00",
+        "7:00",
+        "5:30"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600421",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 5:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "5:00",
+        "4:00",
+        "4:30",
+        "5:30"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600422",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 5:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "5 dakika",
+        "30 dakika",
+        "45 dakika",
+        "15 dakika"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600423",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 5:45 iken \"6'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Hayır, yanlış",
+        "Kısmen doğru",
+        "Belirsiz",
+        "Evet, doğru"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600424",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 6:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "6:00",
+        "7:00",
+        "6:30",
+        "8:00"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600425",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 6:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "5:00",
+        "6:30",
+        "5:30",
+        "6:00"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600426",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 6:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "15 dakika",
+        "5 dakika",
+        "30 dakika",
+        "45 dakika"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600427",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 6:45 iken \"7'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Kısmen doğru",
+        "Belirsiz",
+        "Hayır, yanlış",
+        "Evet, doğru"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600428",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 7:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "8:00",
+        "7:00",
+        "9:00",
+        "7:30"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600429",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 7:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "7:00",
+        "7:30",
+        "6:00",
+        "6:30"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600430",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 7:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "45 dakika",
+        "5 dakika",
+        "30 dakika",
+        "15 dakika"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600431",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 7:45 iken \"8'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Hayır, yanlış",
+        "Belirsiz",
+        "Evet, doğru",
+        "Kısmen doğru"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600432",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 8:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "10:00",
+        "9:00",
+        "8:30",
+        "8:00"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600433",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 8:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "7:00",
+        "7:30",
+        "8:00",
+        "8:30"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600434",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 8:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "15 dakika",
+        "5 dakika",
+        "30 dakika",
+        "45 dakika"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600435",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 8:45 iken \"9'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Belirsiz",
+        "Evet, doğru",
+        "Hayır, yanlış",
+        "Kısmen doğru"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600436",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 9:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "11:00",
+        "9:00",
+        "10:00",
+        "9:30"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600437",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 9:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "8:30",
+        "8:00",
+        "9:30",
+        "9:00"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600438",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 9:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "30 dakika",
+        "45 dakika",
+        "15 dakika",
+        "5 dakika"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600439",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 9:45 iken \"10'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Kısmen doğru",
+        "Evet, doğru",
+        "Belirsiz",
+        "Hayır, yanlış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600440",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 10:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "10:30"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600441",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 10:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "10:30",
+        "9:00",
+        "9:30",
+        "10:00"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600442",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 10:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "45 dakika",
+        "30 dakika",
+        "15 dakika",
+        "5 dakika"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600443",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 10:45 iken \"11'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Belirsiz",
+        "Evet, doğru",
+        "Kısmen doğru",
+        "Hayır, yanlış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600444",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 11:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "12:00",
+        "11:30",
+        "12:00",
+        "11:00"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600445",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 11:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "10:00",
+        "11:00",
+        "10:30",
+        "11:30"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600446",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 11:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "15 dakika",
+        "30 dakika",
+        "45 dakika",
+        "5 dakika"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600447",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 11:45 iken \"12'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Hayır, yanlış",
+        "Belirsiz",
+        "Evet, doğru",
+        "Kısmen doğru"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600448",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 12:00 iken 1 saat sonra saat kaç olur?",
+      "options": [
+        "12:00",
+        "12:30",
+        "1:00",
+        "12:00"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600449",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat tam 12:00 iken 30 dakika önce saat kaç'tı?",
+      "options": [
+        "11:30",
+        "12:30",
+        "11:00",
+        "12:00"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600450",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 12:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
+      "options": [
+        "15 dakika",
+        "5 dakika",
+        "45 dakika",
+        "30 dakika"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600451",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Saat 12:45 iken \"1'e çeyrek kala\" ifadesi doğru mudur?",
+      "options": [
+        "Hayır, yanlış",
+        "Kısmen doğru",
+        "Evet, doğru",
+        "Belirsiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800391",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Okul 08:00'de başlıyor, 13:00'da bitiyor. Okul kaç saat sürer?",
+      "options": [
+        "5",
+        "8",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800392",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bir film 1 saat 30 dakika sürüyor. Kaç dakikadır?",
+      "options": [
+        "120",
+        "30",
+        "90",
+        "60"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800393",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Haftada 5 gün okula gidilirse 4 haftada kaç gün gidilir?",
+      "options": [
+        "18",
+        "15",
+        "20",
+        "25"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800394",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "1 yılda kaç gün vardır?",
+      "options": [
+        "52",
+        "360",
+        "365",
+        "12"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800396",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Pazartesi'den Cuma'ya kaç gün vardır? (Pazartesi dahil)",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800397",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Ocak ayı kaç gün çeker?",
+      "options": [
+        "28",
+        "29",
+        "31",
+        "30"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800398",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Şubat ayı kaç gün çeker (artık yıl değil)?",
+      "options": [
+        "31",
+        "29",
+        "30",
+        "28"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800399",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Çeyrek saat kaç dakikadır?",
+      "options": [
+        "15",
+        "20",
+        "30",
+        "45"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800400",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Yarım saat kaç dakikadır?",
+      "options": [
+        "45",
+        "60",
+        "30",
+        "15"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800401",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Üç çeyrek saat kaç dakikadır?",
+      "options": [
+        "45",
+        "15",
+        "60",
+        "30"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800402",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "2 saat 15 dakika kaç dakika eder?",
+      "options": [
+        "120",
+        "135",
+        "215",
+        "150"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800403",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "90 dakika kaç saat kaç dakikadır?",
+      "options": [
+        "2 saat",
+        "1 saat 45 dakika",
+        "1 saat 30 dakika",
+        "1 saat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800404",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Sabah 9:00'dan öğleden sonra 14:00'e kadar kaç saat geçer?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800405",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bugün Salı ise yarın hangi gündür?",
+      "options": [
+        "Pazartesi",
+        "Perşembe",
+        "Çarşamba",
+        "Cuma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800406",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Bugün Cuma ise 2 gün sonra hangi gündür?",
+      "options": [
+        "Pazar",
+        "Salı",
+        "Pazartesi",
+        "Cumartesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800407",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "İlkbaharda hangi aylar yer alır?",
+      "options": [
+        "Aralık, Ocak, Şubat",
+        "Eylül, Ekim, Kasım",
+        "Haziran, Temmuz, Ağustos",
+        "Mart, Nisan, Mayıs"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800408",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Kışın hangi aylar yer alır?",
+      "options": [
+        "Aralık, Ocak, Şubat",
+        "Mart, Nisan, Mayıs",
+        "Eylül, Ekim, Kasım",
+        "Haziran, Temmuz, Ağustos"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800409",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Yazın hangi aylar yer alır?",
+      "options": [
+        "Aralık, Ocak, Şubat",
+        "Eylül, Ekim, Kasım",
+        "Haziran, Temmuz, Ağustos",
+        "Mart, Nisan, Mayıs"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800410",
+      "subject": "Matematik",
+      "theme": "Tema 6",
+      "question": "Sonbaharda hangi aylar yer alır?",
+      "options": [
+        "Mart, Nisan, Mayıs",
+        "Eylül, Ekim, Kasım",
+        "Haziran, Temmuz, Ağustos",
+        "Aralık, Ocak, Şubat"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

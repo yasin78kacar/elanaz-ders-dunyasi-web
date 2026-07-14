@@ -1,0 +1,745 @@
+{
+  "questions": [
+    {
+      "id": "q1381",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Ailenin en küçük bireyine ne denir?",
+      "options": [
+        "Dede",
+        "Bebek",
+        "Amca",
+        "Teyze"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1383",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Anne ve babanın babası kimdir?",
+      "options": [
+        "Büyükbaba (Dede)",
+        "Amca",
+        "Abi",
+        "Dayı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1384",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Annenin kız kardeşi kimdir?",
+      "options": [
+        "Teyze",
+        "Nine",
+        "Hala",
+        "Yenge"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1385",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Babanın kız kardeşi kimdir?",
+      "options": [
+        "Teyze",
+        "Hala",
+        "Yenge",
+        "Nine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1386",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Annenin erkek kardeşi kimdir?",
+      "options": [
+        "Dede",
+        "Dayı",
+        "Amca",
+        "Abi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1387",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Babanın erkek kardeşi kimdir?",
+      "options": [
+        "Abi",
+        "Dayı",
+        "Amca",
+        "Dede"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1388",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Kardeşlerin amcası çocuklarına ne denir?",
+      "options": [
+        "Arkadaş",
+        "Kuzen",
+        "Komşu",
+        "Kardeş"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1389",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Evde en önemli kural hangisidir?",
+      "options": [
+        "Her istediğimi almak",
+        "Kimseye soru sormamak",
+        "Birbirimize saygı göstermek",
+        "Her şeyi kendim yapmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1392",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Aile bireyleri birbirlerine nasıl yardım etmelidir?",
+      "options": [
+        "Eleştirerek",
+        "Anlayışlı ve destekleyici olarak",
+        "Sadece iş yaptırarak",
+        "Sadece maddi yardım"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1393",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Ev işleri kimlerin sorumluluğundadır?",
+      "options": [
+        "Tüm aile bireylerinin",
+        "Sadece çocukların",
+        "Sadece annenin",
+        "Sadece babanın"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1394",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Aile içinde sorunlar nasıl çözülür?",
+      "options": [
+        "Konuşarak ve anlayarak",
+        "Kaçarak",
+        "Susarak",
+        "Bağırarak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1395",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "'Aile' kavramı neden önemlidir?",
+      "options": [
+        "Oyuncak alır",
+        "Para kazandırır",
+        "Sevgi, güven ve destek ortamı sağlar",
+        "Ev kirası öder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1396",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Kardeşlerle nasıl geçinilmelidir?",
+      "options": [
+        "Küserek",
+        "Paylaşarak ve anlayarak",
+        "Hiç konuşmayarak",
+        "Kavga ederek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1397",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Evde izin almadan başkasının eşyasını almak doğru mu?",
+      "options": [
+        "Hayır",
+        "Sadece kardeşin eşyasından",
+        "Bazen",
+        "Evet"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1400",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Büyüklerimize saygı nasıl gösterilir?",
+      "options": [
+        "Sürekli oyun oynayarak",
+        "Onları görmezden gelerek",
+        "Emirler vererek",
+        "Söylediklerini dinleyerek ve yardım ederek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51094",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Annemin babası benim için kimdir?",
+      "options": [
+        "Dayım",
+        "Amcam",
+        "Büyükbabam (dede)",
+        "Babam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51096",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Kardeşimin çocuğu benim için kimdir?",
+      "options": [
+        "Kardeşim",
+        "Arkadaşım",
+        "Yeğenim",
+        "Kuzenum"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51097",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Evimde herkes birbirini seviyor mu?",
+      "options": [
+        "Evet, aile sevgi ve saygı üzerine kurulur",
+        "Hayır",
+        "Sadece büyükler",
+        "Bazen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51099",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Büyüklerimizin deneyimlerinden ne öğrenebiliriz?",
+      "options": [
+        "Hiçbir şey",
+        "Sadece şarkı",
+        "Hayat bilgisi ve tavsiyeler",
+        "Sadece şiir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91127",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Annenin erkek kardesi\" benim icin kim olur?",
+      "options": [
+        "Kuzen",
+        "Dayi",
+        "Amca",
+        "Eniste"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91128",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Dayi\" sana gore ne demektir?",
+      "options": [
+        "Annenin erkek kardesi",
+        "Ogretmenim",
+        "Baban",
+        "Annen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91129",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Babanin erkek kardesi\" benim icin kim olur?",
+      "options": [
+        "Kuzen",
+        "Amca",
+        "Dayi",
+        "Eniste"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91130",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Amca\" sana gore ne demektir?",
+      "options": [
+        "Babanin erkek kardesi",
+        "Baban",
+        "Annen",
+        "Ogretmenim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91131",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Annenin kiz kardesi\" benim icin kim olur?",
+      "options": [
+        "Kuzen",
+        "Yenge",
+        "Teyze",
+        "Hala"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91132",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Teyze\" sana gore ne demektir?",
+      "options": [
+        "Baban",
+        "Annen",
+        "Ogretmenim",
+        "Annenin kiz kardesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91133",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Babanin kiz kardesi\" benim icin kim olur?",
+      "options": [
+        "Kuzen",
+        "Hala",
+        "Teyze",
+        "Yenge"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91134",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Hala\" sana gore ne demektir?",
+      "options": [
+        "Babanin kiz kardesi",
+        "Annen",
+        "Ogretmenim",
+        "Baban"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91135",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Amca veya dayinin cocugu\" benim icin kim olur?",
+      "options": [
+        "Yegen",
+        "Kardes",
+        "Kuzen",
+        "Torun"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91136",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Kuzen\" sana gore ne demektir?",
+      "options": [
+        "Amca veya dayinin cocugu",
+        "Ogretmenim",
+        "Baban",
+        "Annen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91137",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Kardesimin cocugu\" benim icin kim olur?",
+      "options": [
+        "Torunum",
+        "Yegenim",
+        "Kuzenum",
+        "Kardesim"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91138",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Yegenim\" sana gore ne demektir?",
+      "options": [
+        "Annen",
+        "Baban",
+        "Ogretmenim",
+        "Kardesimin cocugu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91140",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Anneanne\" sana gore ne demektir?",
+      "options": [
+        "Baban",
+        "Annemin annesi",
+        "Ogretmenim",
+        "Annen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91142",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Babaanne\" sana gore ne demektir?",
+      "options": [
+        "Ogretmenim",
+        "Baban",
+        "Annen",
+        "Babanin annesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91143",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Iki kisinin ayni anda dogan cocuklari\" benim icin kim olur?",
+      "options": [
+        "Kardesler",
+        "Kuzenler",
+        "Yegenler",
+        "Ikizler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91144",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Ikizler\" sana gore ne demektir?",
+      "options": [
+        "Iki kisinin ayni anda dogan cocuklari",
+        "Ogretmenim",
+        "Annen",
+        "Baban"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91145",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Kardes ciftler\" benim icin kim olur?",
+      "options": [
+        "Yegen",
+        "Sibling (birden fazla kardes)",
+        "Kuzen",
+        "Torun"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91146",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "\"Sibling (birden fazla kardes)\" sana gore ne demektir?",
+      "options": [
+        "Kardes ciftler",
+        "Ogretmenim",
+        "Baban",
+        "Annen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91147",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Ailede sevgi ve saygi neden onemlidir?",
+      "options": [
+        "Güvenli ve mutlu bir ortam saglar",
+        "Baskalarinin istedigi icin",
+        "Zorunlu oldugu icin",
+        "Para kazanmak icin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200791",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Empati nedir? (Tema 1)",
+      "options": [
+        "Disiplin",
+        "Baskasinin duygularini anlamaya calisma",
+        "Sempatik olmak",
+        "Kendi duyguları"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200792",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Sorumluluk nedir? (Tema 1)",
+      "options": [
+        "Imtiyaz",
+        "Yapilmasi gerekenlerle hesap verebilme",
+        "Hak",
+        "Özgürlük"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200793",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Dayanisma nedir? (Tema 1)",
+      "options": [
+        "Bireycilik",
+        "Birlikte hareket edip birbirini destekleme",
+        "Rekabet",
+        "Yalnizlik"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200794",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Paylasmak neden önemlidir? (Tema 1)",
+      "options": [
+        "Faydasiz",
+        "Para kazandirir",
+        "Zorunluluk",
+        "Toplumsal uyum ve mutluluk saglar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200795",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Dogruluk neden önemlidir? (Tema 1)",
+      "options": [
+        "Zorunluluk",
+        "Faydasiz",
+        "Güveni tesis eder ve toplumu güçlendirir",
+        "Para kazandirir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200796",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Centilmenlik nedir? (Tema 1)",
+      "options": [
+        "Sadece bireysel yarar",
+        "Kazanmak icin her yolu denemek",
+        "Baskalarina zarar verme",
+        "Dürüst, kibar ve adaletli davranis"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200797",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Kültür nedir? (Tema 1)",
+      "options": [
+        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
+        "Sadece sanat",
+        "Sadece müzik",
+        "Sadece edebiyat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200798",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Hosgorü nedir? (Tema 1)",
+      "options": [
+        "Farkli görüslere saygi ve kabul",
+        "Herkesin ayni olmasi",
+        "Fark etmeme",
+        "Kendi görüsünü dayatma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200799",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Vatandaslik neden önemlidir? (Tema 1)",
+      "options": [
+        "Sadece hak icin",
+        "Sadece oy icin",
+        "Topluma katilim ve sorumluluklar icin",
+        "Zorunluluk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601049",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Bir çocuk ailesinde hangi sorumlulukları üstlenebilir?",
+      "options": [
+        "Sadece ders çalışmak",
+        "Sadece oynamak",
+        "Hiçbir şey yapmamak",
+        "Odasını toplamak, sofrayı hazırlamak, küçüklere yardım etmek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601050",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Aile üyeleri birbirlerine nasıl destek olmalıdır?",
+      "options": [
+        "Görmezden gelerek",
+        "Yalnız bırakarak",
+        "Eleştirerek",
+        "Sevgi, saygı, yardımlaşma ve anlayışla"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601051",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Bir büyük konuşurken ne yapmalısınız?",
+      "options": [
+        "Konuşturmadan çıkmalıyız",
+        "Başka şeylerle ilgilenmeliyiz",
+        "Dikkatle dinlemeli ve saygılı davranmalısınız",
+        "Yarıda kesmeliyiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601052",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Ailenizle birlikte vakit geçirmenin önemi nedir?",
+      "options": [
+        "Yalnızca yemek içindir",
+        "Aile bağlarını güçlendirir ve mutluluk sağlar",
+        "Zaman israfıdır",
+        "Anlamsızdır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601053",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Bir aile üyesi hastalandığında ne yapmalısınız?",
+      "options": [
+        "Uzak durmalıyız",
+        "Yalnız bırakmalıyız",
+        "İlgilenip bakımına yardımcı olmalısınız",
+        "Görmezden gelmeliyiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601054",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Evde misafir geldiğinde nasıl davranmalısınız?",
+      "options": [
+        "Odaya kapanmalıyız",
+        "Misafirle konuşmamalıyız",
+        "Sesli müzik açmalıyız",
+        "Kibarca selamlayıp misafirperver davranmalısınız"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601055",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Ailenizden bir şey istediğinizde nasıl istemelisiniz?",
+      "options": [
+        "Israr ederek",
+        "Ağlayarak",
+        "Saygıyla, 'lütfen' diyerek ve gerekirse açıklayarak",
+        "Bağırarak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601056",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Kardeşinizle anlaşmazlık yaşarsanız ne yapmalısınız?",
+      "options": [
+        "Sakin konuşup ortak çözüm aramalısınız",
+        "Kavga etmeliyiz",
+        "Sessiz kalmalıyız",
+        "Şikâyet etmeliyiz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601057",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Ailenin ortak kararlarına katılmanız neden önemlidir?",
+      "options": [
+        "Çocuklar katılmamalı",
+        "Yalnızca büyükler karar vermeli",
+        "Önemli değildir",
+        "Aile içi demokrasi ve birliği güçlendirir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601058",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 1",
+      "question": "Büyük aile toplantılarında bir çocuk ne yapmalıdır?",
+      "options": [
+        "Gürültü yapmalıdır",
+        "Saygıyla dinlemeli, gerektiğinde kibarca söz almalıdır",
+        "Oyun oynamalıdır",
+        "Toplantıya katılmamalıdır"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

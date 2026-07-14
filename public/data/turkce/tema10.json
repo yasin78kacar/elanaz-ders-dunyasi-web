@@ -1,0 +1,927 @@
+{
+  "questions": [
+    {
+      "id": "q1161",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçede sesli uyumu nedir?",
+      "options": [
+        "Hece sayısı",
+        "Anlam birliği",
+        "Kelimenin eklerindeki seslerin uyumu",
+        "Kelimenin uzunluğu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1162",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi cümle en anlamlıdır?",
+      "options": [
+        "Bahçede Elanaz.",
+        "Çiçek topladı.",
+        "Topladı Elanaz çiçek.",
+        "Elanaz bahçede çiçek topladı."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1163",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Aşağıdaki kelimelerden hangisi 3 heceli?",
+      "options": [
+        "Ev",
+        "Masa",
+        "Araba",
+        "Patates"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1164",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Aşağıdaki kelimelerden hangisi 1 heceli?",
+      "options": [
+        "Okul",
+        "Ördek",
+        "Elma",
+        "Kış"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1165",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'Gelmek' fiilinin olumsuz hali nedir?",
+      "options": [
+        "Gelmemek",
+        "Gelemek",
+        "Geldik",
+        "Gelme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1166",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'Araba' kelimesinin çoğulu nedir?",
+      "options": [
+        "Arabalı",
+        "Arabaya",
+        "Arabalar",
+        "Arabanın"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1169",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'Bugün hava güzel mi?' sorusunun cevabı ne olabilir?",
+      "options": [
+        "Evet, hava güzel.",
+        "Güzel.",
+        "Bugün.",
+        "Hava."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1170",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi kelime diğerlerinden farklıdır?",
+      "options": [
+        "Kalem",
+        "Elma",
+        "Koşmak",
+        "Masa"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1173",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'Yağmur yağıyor.' cümlesinde özne nedir?",
+      "options": [
+        "Bugün",
+        "Yağmur",
+        "Dışarıda",
+        "Yağıyor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1174",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'Elanaz resim yaptı.' cümlesinde yüklem nedir?",
+      "options": [
+        "Güzel",
+        "Yaptı",
+        "Elanaz",
+        "Resim"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1175",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi kelime 'zaman' ifade eder?",
+      "options": [
+        "Mavi",
+        "Güzel",
+        "Dün",
+        "Büyük"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1176",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi kelime 'yer' ifade eder?",
+      "options": [
+        "Güzel",
+        "Orada",
+        "Büyük",
+        "Hızlı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1177",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi kelime 'nasıl' sorusunu cevaplar?",
+      "options": [
+        "Elma",
+        "Okul",
+        "Araba",
+        "Hızlıca"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1178",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçede kelimeler genellikle soldan mı, sağdan mı yazılır?",
+      "options": [
+        "Soldan sağa",
+        "Sağdan sola",
+        "Aşağıdan yukarıya",
+        "Yukarıdan aşağıya"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1179",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Anlatım bozukluğu nedir?",
+      "options": [
+        "Kısa cümle",
+        "Yanlış anlaşılan ya da çelişkili cümle",
+        "Soru cümlesi",
+        "Uzun cümle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1180",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'Ekmek ile su aldım.' cümlesinde bağlaç hangisidir?",
+      "options": [
+        "Ekmek",
+        "Su",
+        "Aldım",
+        "ile"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50984",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe sağdan mı, soldan mı yazılır?",
+      "options": [
+        "Yukarıdan aşağıya",
+        "Aşağıdan yukarıya",
+        "Sağdan sola",
+        "Soldan sağa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50985",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türk alfabesinde kaç sesli harf vardır?",
+      "options": [
+        "10",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50986",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türk alfabesinde kaç sessiz harf vardır?",
+      "options": [
+        "15",
+        "25",
+        "21",
+        "19"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50987",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi harf sadece Türk alfabesinde bulunur?",
+      "options": [
+        "ğ",
+        "c",
+        "b",
+        "a"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50988",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçeye özgü harfler hangileridir?",
+      "options": [
+        "b, c, d, f",
+        "ç, ğ, ı, ö, ş, ü",
+        "j, k, l, m",
+        "a, e, i, o"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50989",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Cümle türleri nelerdir?",
+      "options": [
+        "Büyük, küçük, orta",
+        "Tek, çift, üçlü",
+        "Kısa, uzun, orta",
+        "Olumlu, olumsuz, soru, emir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50990",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi kelime Türkçe asıllıdır?",
+      "options": [
+        "Televizyon",
+        "Radyo",
+        "Okumak",
+        "Telefon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50991",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Dilimizi doğru kullanmak neden önemlidir?",
+      "options": [
+        "Maddi kazanç sağlar",
+        "Zorunludur",
+        "İletişimi kolaylaştırır",
+        "Güzel görünür"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90947",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Turkçede sesli uyumu nedir?",
+      "options": [
+        "Eklerin sözcugun sesine gore degismesi",
+        "Sessiz harflerin degismesi",
+        "Sözcuklerin eslesmesi",
+        "Her kelimenin ayni ek almasi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90948",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Atasözü nedir?",
+      "options": [
+        "Siir",
+        "Masal",
+        "Halkin deneyimini aktaran kisa söz",
+        "Hikaye"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90949",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Deyim nedir?",
+      "options": [
+        "Bilmece",
+        "Mecazi anlam tasiyan kaliplasmis söz",
+        "Tekerleme",
+        "Atasözü"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90950",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Bilmece nedir?",
+      "options": [
+        "Kisa ve gizemli soru-cevap oyunu",
+        "Deyim",
+        "Masal",
+        "Atasözü"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90951",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçede kac sesli harf vardir?",
+      "options": [
+        "6",
+        "8",
+        "5",
+        "10"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90952",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçede kac sessiz harf vardir?",
+      "options": [
+        "19",
+        "15",
+        "21",
+        "25"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90953",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçeye özgu harfler hangileridir?",
+      "options": [
+        "b, c, d, f",
+        "j, k, l, m",
+        "a, e, i, o",
+        "ç, g, i, ö, s, ü"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200661",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 1)",
+      "options": [
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece fiiller",
+        "Sadece sifatlar",
+        "Sadece isimler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200663",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 2)",
+      "options": [
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece isimler",
+        "Sadece sifatlar",
+        "Sadece fiiller"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200665",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 3)",
+      "options": [
+        "Sadece sifatlar",
+        "Sadece isimler",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece fiiller"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200667",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 4)",
+      "options": [
+        "Sadece sifatlar",
+        "Sadece isimler",
+        "Sadece fiiller",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200669",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 5)",
+      "options": [
+        "Sadece sifatlar",
+        "Sadece isimler",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece fiiller"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200671",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 6)",
+      "options": [
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece sifatlar",
+        "Sadece fiiller",
+        "Sadece isimler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200673",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 7)",
+      "options": [
+        "Sadece sifatlar",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece isimler",
+        "Sadece fiiller"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200675",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 8)",
+      "options": [
+        "Sadece fiiller",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece sifatlar",
+        "Sadece isimler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200677",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 9)",
+      "options": [
+        "Sadece fiiller",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece isimler",
+        "Sadece sifatlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200679",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 10)",
+      "options": [
+        "Sadece isimler",
+        "Sadece fiiller",
+        "Sadece sifatlar",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200681",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 11)",
+      "options": [
+        "Sadece sifatlar",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece isimler",
+        "Sadece fiiller"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200683",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 12)",
+      "options": [
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece fiiller",
+        "Sadece sifatlar",
+        "Sadece isimler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200685",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 13)",
+      "options": [
+        "Sadece fiiller",
+        "Sadece isimler",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece sifatlar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200687",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 14)",
+      "options": [
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece sifatlar",
+        "Sadece isimler",
+        "Sadece fiiller"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200689",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 15)",
+      "options": [
+        "Sadece sifatlar",
+        "Cümleyi olusturan anlam ve görev tasiyan birimler",
+        "Sadece isimler",
+        "Sadece fiiller"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600889",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçede sözcük türetme yolları nelerdir?",
+      "options": [
+        "Sadece ek alma",
+        "Yabancı dilden alma",
+        "Sadece birleştirme",
+        "Ek alma, birleştirme, kısaltma"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600890",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Birleşik kelime nedir?",
+      "options": [
+        "İki ya da daha fazla sözcüğün birleşmesiyle oluşan kelime",
+        "Tek köklü kelime",
+        "Yabancı kelime",
+        "Ekli kelime"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600891",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'Hanımeli' sözcüğü nasıl oluşmuştur?",
+      "options": [
+        "Kısaltılarak",
+        "Yabancı dilden",
+        "Ek alarak",
+        "Hanım + eli → birleşik isim"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600892",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Kısaltma (yeni kelime yapma) nedir?",
+      "options": [
+        "Yabancı sözcük alma",
+        "Sözcük birleştirme",
+        "Sözcüğe ek ekleme",
+        "Uzun sözcük veya tamlamanın kısa hale getirilmesi: TDK"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600893",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçe kökenli bir kelime örneği nedir?",
+      "options": [
+        "Şeker (Farsçadan)",
+        "Okul",
+        "Telefon",
+        "Su, ev, yurt, el"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600894",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Dil neden önemlidir?",
+      "options": [
+        "Sadece edebiyat için",
+        "Yalnızca konuşmak için",
+        "Yalnızca yazmak için",
+        "Düşünce ve duyguları aktarmanın temel aracıdır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600895",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türkçede hangi ek zaman bildirir?",
+      "options": [
+        "-lar (çoğul)",
+        "-dan (ayrılma)",
+        "-yor (şimdiki zaman), -di (geçmiş), -ecek (gelecek)",
+        "-da (yer)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600896",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Emir kipi nedir?",
+      "options": [
+        "İstek, emir bildiren eylem kipi",
+        "Geçmiş zaman",
+        "Koşul kipi",
+        "Şimdiki zaman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600897",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Dilek-koşul kipi nedir?",
+      "options": [
+        "Emir kipi",
+        "Gelecek zaman",
+        "Geçmiş zaman",
+        "Koşul bildiren eylem kipi (-sa/-se)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600898",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "İstek kipi nedir?",
+      "options": [
+        "İstek-arzu bildiren eylem kipi (-a/-e)",
+        "Geçmiş zaman",
+        "Koşul kipi",
+        "Emir kipi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800676",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Dil becerileri hangileridir?",
+      "options": [
+        "Yalnızca dinleme",
+        "Okuma, yazma, dinleme, konuşma",
+        "Yalnızca okuma ve yazma",
+        "Yalnızca konuşma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800677",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Dinleme becerisi neden önemlidir?",
+      "options": [
+        "Gereksizdir",
+        "Yalnızca müzik için",
+        "Bilgi edinme, empati kurma ve iletişim için temeldir",
+        "Yalnızca ders için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800678",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Konuşma kuralları nelerdir?",
+      "options": [
+        "Bağırmak",
+        "Hep söz almak",
+        "Konuşmayı kesmek",
+        "Sırayla konuşmak, saygılı dil kullanmak, dinleyeni gözetmek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800679",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Yazılı anlatımda paragraf neden önemlidir?",
+      "options": [
+        "Gereksizdir",
+        "Yalnızca süsleme",
+        "Düşünceleri düzenli aktarır ve okunmayı kolaylaştırır",
+        "Harf sınırı için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800680",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Sözlük nasıl kullanılır?",
+      "options": [
+        "Kelimeler alfabetik sırayla aranır",
+        "Sayfalar gezilerek",
+        "Dizine bakılarak",
+        "Tabloya bakılarak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800681",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Türk Dil Kurumu (TDK) ne işe yarar?",
+      "options": [
+        "Türkçeyi korumak, geliştirmek ve standart kurallar belirlemek",
+        "Yalnızca edebi eserler",
+        "Yalnızca sözlük basmak",
+        "Tarih araştırmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800682",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Bir mektubun başında ne bulunur?",
+      "options": [
+        "Sonuç",
+        "Pul",
+        "Tarih, alıcının adı ya da selamlama",
+        "İmza"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800683",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Dilekçede neler bulunur?",
+      "options": [
+        "Yalnızca imza",
+        "Yalnızca konu",
+        "Konu, açıklama ve imza (adres ile)",
+        "Yalnızca tarih"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800684",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'z' ile biten fiil kökleri nelerdir?",
+      "options": [
+        "Gez-, boz-, bez- gibi fiiller",
+        "Yalnızca 'gel-'",
+        "Yalnızca 'git-'",
+        "Yalnızca 'gör-'"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800685",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi sözcük türü cümlede mutlaka bulunmalıdır?",
+      "options": [
+        "Nesne",
+        "Özne",
+        "Zarf",
+        "Yüklem (fiil ya da isim yüklemi)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800686",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "'ne...ne de' bağlacı ne anlatır?",
+      "options": [
+        "Hem olumsuzluk hem de seçenek dışı bırakma",
+        "Koşul",
+        "Toplama",
+        "Zıtlık"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800687",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Pekiştirmeli sıfat nedir?",
+      "options": [
+        "Belirtici sıfat",
+        "Sayı sıfatı",
+        "Sıfatın anlamını güçlendiren biçim: 'kapkara', 'simsiyah'",
+        "Normal sıfat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800688",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Sayı sıfatı nedir?",
+      "options": [
+        "Belirtme sıfatı",
+        "Niteleme sıfatı",
+        "Zamir",
+        "İsmin sayısını belirten sıfat: 'üç elma', 'beş kalem'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800689",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "İşaret sıfatı nedir?",
+      "options": [
+        "İsimleri göstererek belirten sıfat: 'bu kitap, şu çiçek'",
+        "Sayı sıfatı",
+        "Niteleme sıfatı",
+        "Zamir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800690",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Belirsizlik sıfatı nedir?",
+      "options": [
+        "İsimleri belirsiz miktarda belirten: 'bazı, birkaç, hiçbir'",
+        "Sayı sıfatı",
+        "Niteleme sıfatı",
+        "İşaret sıfatı"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

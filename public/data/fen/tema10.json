@@ -1,0 +1,719 @@
+{
+  "questions": [
+    {
+      "id": "q1361",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Çevre kirliliği nedir?",
+      "options": [
+        "Hava temizlenmesi",
+        "Doğanın zararlı maddelerle bozulması",
+        "Suyun durulması",
+        "Toprağın zenginleşmesi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1362",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Geri dönüşüm ne demektir?",
+      "options": [
+        "Atıkları yeniden kullanılabilir hale getirme",
+        "Toprağa gömme",
+        "Çöpleri denize dökme",
+        "Yakma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1363",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hangi atık geri dönüştürülür?",
+      "options": [
+        "Her şey",
+        "Sadece kağıt",
+        "Sadece cam",
+        "Kağıt, cam, plastik"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1364",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Ormanlar neden önemlidir?",
+      "options": [
+        "Sadece yakacak sağlar",
+        "Hiçbir önemi yok",
+        "Sadece hayvan barınak",
+        "Oksijen üretir, erozyonu önler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1365",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Çevre için neler yapabiliriz?",
+      "options": [
+        "Araba egzozu bırakmak",
+        "Çok plastik kullanmak",
+        "Ormanları kesmek",
+        "Geri dönüşüm, su tasarrufu, ağaç dikme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1366",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Yenilenebilir enerji kaynağı hangisidir?",
+      "options": [
+        "Kömür",
+        "Petrol",
+        "Doğalgaz",
+        "Güneş enerjisi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1367",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Fosil yakıtlar neden zararlıdır?",
+      "options": [
+        "Doğaya yardımcıdır",
+        "Hava kirliliği ve sera etkisi yapar",
+        "Enerji sağlar",
+        "Suyu temizler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1368",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Su tasarrufu neden önemlidir?",
+      "options": [
+        "Su her zaman temizdir",
+        "Su kaynakları sınırlıdır",
+        "Suya ihtiyaç yoktur",
+        "Su boldur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1370",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hangi hayvan nesli tehlikededir?",
+      "options": [
+        "Köpek",
+        "Kedi",
+        "Panda",
+        "Tavuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1374",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Plastik torbalar neden zararlıdır?",
+      "options": [
+        "Güzeldir",
+        "Çabuk erir",
+        "Yararlıdır",
+        "Uzun yıllar bozulmaz, canlılara zarar verir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1375",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hangi enerji kaynağı yenilenebilirdir?",
+      "options": [
+        "Doğalgaz",
+        "Rüzgar enerjisi",
+        "Petrol",
+        "Kömür"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1378",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hangi madde toprağı kirletir?",
+      "options": [
+        "Gübre fazlası ve kimyasal atıklar",
+        "Su",
+        "Hava",
+        "Güneş ışığı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1379",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Kompost nedir?",
+      "options": [
+        "Kimyasal ilaç",
+        "Plastik geri dönüşüm",
+        "Su arıtma",
+        "Organik atıklardan elde edilen gübre"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1380",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Deniz kirliliğine ne sebep olur?",
+      "options": [
+        "Balıklar",
+        "Atık madde ve plastik dökümü",
+        "Deniz yosunu",
+        "Dalgalar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51084",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Karbon ayak izi nedir?",
+      "options": [
+        "İnsanın çevreye bıraktığı CO2 miktarı",
+        "Karbonun ağırlığı",
+        "Karbon rengi",
+        "Karbon elementi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51086",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Besin zinciri nedir?",
+      "options": [
+        "Beslenme kuralı",
+        "Canlıların birbirini yeme sırası",
+        "Yiyecek listesi",
+        "Market alışverişi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51087",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Yaprak döken ağaçlar ile her dem yeşil ağaçların farkı nedir?",
+      "options": [
+        "Yaprak dökme durumu farklı",
+        "Boyları farklı",
+        "Renkleri farklı",
+        "İkisi aynıdır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51088",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Su döngüsü nedir?",
+      "options": [
+        "Su temizleme",
+        "Su satın alma",
+        "Suyun buharlaşıp yağmur olarak dönmesi",
+        "Su tasarrufu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51090",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Çevre koruma için en önemli adım nedir?",
+      "options": [
+        "Bilinçli tüketim ve geri dönüşüm",
+        "Sadece dilek tutmak",
+        "Para harcamak",
+        "Diğerlerini beklemek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51092",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Sürdürülebilirlik ne demektir?",
+      "options": [
+        "Bugünü düşünmek",
+        "Para biriktirmek",
+        "Enerji harcamak",
+        "Gelecek nesillere kaynakları aktarma"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51093",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Plastik kirliliği neden tehlikelidir?",
+      "options": [
+        "Çabuk erir",
+        "Yararlıdır",
+        "Güzeldir",
+        "Canlılara zarar verir, bozulmaz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91111",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Ozon tabakasi\" nedir?",
+      "options": [
+        "Günesin zararlı UV isinlarini filtreler",
+        "Yagmur yagdirir",
+        "Iklimi isindirir",
+        "Rüzgar estirir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91112",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Günesin zararlı UV i...\" hangi kavrami tanimlar?",
+      "options": [
+        "Iklimi isindirir",
+        "Yagmur yagdirir",
+        "Ozon tabakasi",
+        "Rüzgar estirir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91113",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Sera etkisi\" nedir?",
+      "options": [
+        "Ozon tabakasi",
+        "Isin atmosferde tutulmasi",
+        "Kutup eriyor",
+        "Deprem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91114",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Isin atmosferde tutu...\" hangi kavrami tanimlar?",
+      "options": [
+        "Kutup eriyor",
+        "Sera etkisi",
+        "Ozon tabakasi",
+        "Deprem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91115",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Küresel isinma\" nedir?",
+      "options": [
+        "Yagis artisi",
+        "Sera gazlari nedeniyle dünya sicakliginin artmasi",
+        "Ozon erimesi",
+        "Kar artisi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91116",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Sera gazlari nedeniy...\" hangi kavrami tanimlar?",
+      "options": [
+        "Yagis artisi",
+        "Küresel isinma",
+        "Kar artisi",
+        "Ozon erimesi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91119",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Nesil tükenmesi\" nedir?",
+      "options": [
+        "Bir türün tamamen yok olmasi",
+        "Uyum",
+        "Cogalma",
+        "Göc"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91120",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Bir türün tamamen yo...\" hangi kavrami tanimlar?",
+      "options": [
+        "Göc",
+        "Cogalma",
+        "Uyum",
+        "Nesil tükenmesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91121",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Geri dönüsüm\" nedir?",
+      "options": [
+        "Cop atmak",
+        "Atmak",
+        "Yeni ürün almak",
+        "Atiklarin yeniden kullanilabilir hale getirilmesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91122",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Atiklarin yeniden ku...\" hangi kavrami tanimlar?",
+      "options": [
+        "Geri dönüsüm",
+        "Atmak",
+        "Yeni ürün almak",
+        "Cop atmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91123",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Yenilenebilir enerji\" nedir?",
+      "options": [
+        "Petrol",
+        "Komür",
+        "Tükenmez dogal kaynaklar: günes, rüzgar",
+        "Dogalgaz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91124",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "\"Tükenmez dogal kayna...\" hangi kavrami tanimlar?",
+      "options": [
+        "Yenilenebilir enerji",
+        "Petrol",
+        "Dogalgaz",
+        "Komür"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200781",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Bilim nedir? (Tema 10)",
+      "options": [
+        "Müzik",
+        "Sanat",
+        "Dogayi inceleme ve anlama yöntemi",
+        "Edebiyat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200782",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Deney neden yapilir? (Tema 10)",
+      "options": [
+        "Hipotezi test etmek ve bilgi üretmek icin",
+        "Para kazanmak icin",
+        "Zorunlu oldugu icin",
+        "Eglence icin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200783",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Gözlem nedir? (Tema 10)",
+      "options": [
+        "Varsayim yapma",
+        "Rapor yazma",
+        "Duyu organlariyla bilgi toplama",
+        "Deney yapma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200784",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hipotez nedir? (Tema 10)",
+      "options": [
+        "Onaylanmis kural",
+        "Bilim yasasi",
+        "Kesin sonuc",
+        "Denenmemis tahmin veya varsayim"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200785",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Sonuc cikarma ne demektir? (Tema 10)",
+      "options": [
+        "Gözlem yapmak",
+        "Veri toplamak",
+        "Deney yapmak",
+        "Deneyin bulgularini yorumlamak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200786",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Enerji korunumu yasasi ne der? (Tema 10)",
+      "options": [
+        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
+        "Enerji yok olur",
+        "Enerji azalir",
+        "Enerji artar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200787",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hucre nedir? (Tema 10)",
+      "options": [
+        "Sistem",
+        "Canliların en kucuk yapısal birimi",
+        "Organ",
+        "Doku"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200789",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Fotosantez neden önemlidir? (Tema 10)",
+      "options": [
+        "Su tüketir",
+        "Sadece güzel görünür",
+        "Oksijen üretir ve besin saglar",
+        "Isi üretir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200790",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Besin zinciri neden önemlidir? (Tema 10)",
+      "options": [
+        "Guzel görünür",
+        "Isi saglar",
+        "Para üretir",
+        "Ekosistemdeki enerji akisini gösterir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601034",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Ekosistem nedir?",
+      "options": [
+        "Yalnızca bitkiler",
+        "Bir bölgedeki canlılar ile onların yaşam ortamının bütünü",
+        "Yalnızca toprak",
+        "Yalnızca hayvanlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601035",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Habitat nedir?",
+      "options": [
+        "Gıda",
+        "Besin",
+        "Bir canlının yaşadığı doğal ortam",
+        "Avlanma alanı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601036",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Besin ağı nedir?",
+      "options": [
+        "Tek bir besin zinciri",
+        "Bir hayvanın besinleri",
+        "Bitki ağı",
+        "Bir ekosistemde birden fazla besin zincirinin birbirine bağlanması"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601037",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Yok olmakla tehlike altındaki türler neden korunmalı?",
+      "options": [
+        "Sadece merak için",
+        "Biyoçeşitliliği ve ekosistemin dengesini sürdürmek için",
+        "Güzel görüntü için",
+        "Para için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601039",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hangi enerji kaynağı yenilenemezdir?",
+      "options": [
+        "Su",
+        "Kömür, petrol, doğalgaz",
+        "Güneş",
+        "Rüzgar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601041",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Su kaynaklarını korumak için ne yapılabilir?",
+      "options": [
+        "Su kullanımını artırmak",
+        "Su tasarrufu, kirliliği önleme, geri dönüşüm",
+        "Daha fazla fabrika açmak",
+        "Kimyasal atmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601042",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hava kirliliğinin nedenleri nelerdir?",
+      "options": [
+        "Egzoz gazları, fabrika dumanı, ısınma amaçlı yakıt",
+        "Rüzgar",
+        "Yağmur",
+        "Oksijen fazlalığı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601043",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Toprak kirliliğinin önlenmesi için ne yapılmalı?",
+      "options": [
+        "Ağaç kesmek",
+        "Daha fazla kimyasal kullanmak",
+        "Toprağı kazmak",
+        "Kimyasal kullanımını azaltmak, organik tarım, geri dönüşüm"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601044",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Kuraklık neden tehlikelidir?",
+      "options": [
+        "Toprağı güçlendirir",
+        "Su kaynakları dolar",
+        "Su ve tarım ürünleri azalır, canlılar zarar görür",
+        "Zararlı değildir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601045",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Orman yangınının çevreye etkisi nedir?",
+      "options": [
+        "Oksijen artar",
+        "Faydalıdır",
+        "Toprağı güçlendirir",
+        "Habitat yok olur, hava kirlenir, karbondioksit artar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601046",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hangi davranış doğaya zarar verir?",
+      "options": [
+        "Geri dönüşüm kutusu kullanmak",
+        "Ormana çöp atmak",
+        "Su tasarrufu yapmak",
+        "Ağaç dikmek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601047",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Hangi davranış doğaya faydalıdır?",
+      "options": [
+        "Güneş enerjisi kullanmak",
+        "Ormana çöp atmak",
+        "Suyu aşırı kullanmak",
+        "Arabayı sürekli çalışır bırakmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601048",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Sera gazları nelerdir?",
+      "options": [
+        "Klor, Flor",
+        "CO₂, metan, su buharı, ozon",
+        "Helyum, neon",
+        "Oksijen, azot"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

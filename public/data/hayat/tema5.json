@@ -1,0 +1,732 @@
+{
+  "questions": [
+    {
+      "id": "q1461",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Doktor ne iş yapar?",
+      "options": [
+        "Yemek pişirir",
+        "Hastaları tedavi eder",
+        "Araba tamir eder",
+        "Ev yapar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1462",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Öğretmen ne iş yapar?",
+      "options": [
+        "Araba tamir eder",
+        "Öğrencilere bilgi ve beceri kazandırır",
+        "Yemek pişirir",
+        "Binaları temizler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1463",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Polis ne iş yapar?",
+      "options": [
+        "Güvenliği sağlar ve suçları önler",
+        "Trafik ışıkları yapar",
+        "Bina yapar",
+        "Yemek pişirir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1464",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "İtfaiyeci ne iş yapar?",
+      "options": [
+        "Yangınları söndürür ve kurtarma yapar",
+        "Araba satar",
+        "Yemek pişirir",
+        "Ev yapar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1465",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Eczacı ne iş yapar?",
+      "options": [
+        "İlaç hazırlar ve satar",
+        "Bina yapar",
+        "Yemek pişirir",
+        "Araba tamir eder"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1466",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Aşçı ne iş yapar?",
+      "options": [
+        "Hastalık tedavi eder",
+        "Araba tamir eder",
+        "Yemek pişirir",
+        "Bina yapar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1467",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Mühendis ne iş yapar?",
+      "options": [
+        "Konser verir",
+        "Yemek pişirir",
+        "Tasarım ve teknik çözümler üretir",
+        "İlaç yapar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1468",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Avukat ne iş yapar?",
+      "options": [
+        "Yemek pişirir",
+        "İlaç satar",
+        "Araba tamir eder",
+        "Hukuki davalarda müvekkilleri savunur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1469",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Berber/kuaför ne iş yapar?",
+      "options": [
+        "İlaç satar",
+        "Ev yapar",
+        "Saç keser ve şekillendirir",
+        "Araba tamir eder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1470",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Kasap ne iş yapar?",
+      "options": [
+        "Araba tamir eder",
+        "Et satar ve hazırlar",
+        "Saç keser",
+        "İlaç satar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1471",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Garson ne iş yapar?",
+      "options": [
+        "Restorantta müşterilere servis yapar",
+        "İlaç satar",
+        "Bina yapar",
+        "Yemek pişirir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1472",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Hemşire ne iş yapar?",
+      "options": [
+        "Bina yapar",
+        "Hasta bakımı yapar, doktora yardım eder",
+        "Araba tamir eder",
+        "Yemek pişirir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1473",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Pilot ne iş yapar?",
+      "options": [
+        "Uçak uçurur",
+        "Araba sürer",
+        "Gemi sürer",
+        "Tren sürer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1474",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Makinist ne iş yapar?",
+      "options": [
+        "Gemi sürer",
+        "Tren kullanır",
+        "Araba tamir eder",
+        "Uçak uçurur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1475",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Çiftçi ne iş yapar?",
+      "options": [
+        "Araba tamir eder",
+        "İlaç yapar",
+        "Tarla sürüp ekip biçer",
+        "Ev yapar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1476",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Ressam ne iş yapar?",
+      "options": [
+        "Yemek pişirir",
+        "Araba tamir eder",
+        "Resim yapar",
+        "Müzik çalar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1477",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Müzisyen ne iş yapar?",
+      "options": [
+        "Müzik çalar veya söyler",
+        "Resim yapar",
+        "Yemek pişirir",
+        "Bina yapar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1478",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Gazeteci ne iş yapar?",
+      "options": [
+        "Resim yapar",
+        "Haber hazırlar ve yayınlar",
+        "İlaç satar",
+        "Yemek pişirir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1479",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Çevre işçisi ne iş yapar?",
+      "options": [
+        "Bina yapar",
+        "Yemek pişirir",
+        "İlaç satar",
+        "Sokakları temizler ve çöp toplar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1480",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Banka çalışanı ne iş yapar?",
+      "options": [
+        "Yemek pişirir",
+        "İlaç satar",
+        "Para ve finansal işlem yapar",
+        "Araba tamir eder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51134",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Meslekler neden önemlidir?",
+      "options": [
+        "Sadece para kazanmak için",
+        "Başka seçenek yok",
+        "Toplumun ihtiyaçlarını karşılar",
+        "Zorunlu olduğu için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51135",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Bir çocuk büyüyünce ne olmak istediğini nasıl keşfeder?",
+      "options": [
+        "İlgi ve yeteneklerini geliştirerek",
+        "Sadece babasına bakarak",
+        "Rastgele seçerek",
+        "Sadece annesine bakarak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51136",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Gönüllü çalışma nedir?",
+      "options": [
+        "Hobileri geliştirmek",
+        "Ücret almadan topluma katkıda bulunmak",
+        "Zorunlu çalışma",
+        "Paralı iş"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51137",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Çiftçi toplum için neden önemlidir?",
+      "options": [
+        "Zorunlu olduğu için",
+        "Para kazanmak için",
+        "Sadece kendisi için çalışır",
+        "Besin üretir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51138",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Sağlık çalışanları olmasa ne olurdu?",
+      "options": [
+        "Hastalıklar tedavi edilemezdi",
+        "Para tasarrufu olurdu",
+        "Hiçbir şey değişmezdi",
+        "Daha iyi olurdu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51139",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Öğretmenin görevi nedir?",
+      "options": [
+        "Para kazanmak",
+        "Bilgi ve beceri kazandırmak",
+        "Sadece ders vermek",
+        "Sadece sınav yapmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51140",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "İtfaiyeci olmak için hangi özellik gerekir?",
+      "options": [
+        "Yavaşlık",
+        "Resim yeteneği",
+        "Müzik yeteneği",
+        "Cesaret ve fiziksel güç"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51141",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Doktor ile hemşirenin farkı nedir?",
+      "options": [
+        "Doktor daha az çalışır",
+        "Doktor tanı koyar, hemşire bakım yapar",
+        "İkisi aynı işi yapar",
+        "Hemşire daha önemlidir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51142",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Mühendisler ne yapar?",
+      "options": [
+        "İlaç yapar",
+        "Yemek pişirir",
+        "Dans eder",
+        "Teknoloji ve yapıları tasarlar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51143",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Sanatçılar topluma nasıl katkı sağlar?",
+      "options": [
+        "Hiçbir katkı sağlamazlar",
+        "Sadece kendileri için",
+        "Kültür ve güzellik yaratarak",
+        "Sadece zevk alarak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91227",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Meslekler neden onemlidir?",
+      "options": [
+        "Baska seceenek yok",
+        "Zorunlu oldugu icin",
+        "Sadece para kazanmak icin",
+        "Toplumun ihtiyaclarini karsilar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91228",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Gönüllü calisma nedir?",
+      "options": [
+        "Ücret almadan topluma katkida bulunmak",
+        "Zorunlu calisma",
+        "Parali is",
+        "Hobi gelistirmek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91229",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Çiftci toplum icin neden onemlidir?",
+      "options": [
+        "Sadece kendisi icin calisir",
+        "Zorunlu oldugu icin",
+        "Besin uretir",
+        "Para kazanmak icin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91230",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Saglik calisanlari olmasa ne olurdu?",
+      "options": [
+        "Hicbir sey degismezdi",
+        "Daha iyi olurdu",
+        "Para tasarrufu olurdu",
+        "Hastaliklar tedavi edilemezdi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91231",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Öğretmenin gorevi nedir?",
+      "options": [
+        "Sadece ders vermek",
+        "Para kazanmak",
+        "Bilgi ve beceri kazandirmak",
+        "Sadece sinav yapmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91233",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Doktor ile hemsire arasindaki fark nedir?",
+      "options": [
+        "Doktor tani koyar, hemsire bakim yapar",
+        "Ikisi ayni isi yapar",
+        "Doktor daha az calisir",
+        "Hemsire daha onemlidir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91234",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Muhendisler ne yapar?",
+      "options": [
+        "Ilac yaplar",
+        "Dans ederler",
+        "Teknoloji ve yapilari tasarlar",
+        "Yemek pisirirler"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200831",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Empati nedir? (Tema 5)",
+      "options": [
+        "Baskasinin duygularini anlamaya calisma",
+        "Disiplin",
+        "Kendi duyguları",
+        "Sempatik olmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200832",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Sorumluluk nedir? (Tema 5)",
+      "options": [
+        "Hak",
+        "Yapilmasi gerekenlerle hesap verebilme",
+        "Imtiyaz",
+        "Özgürlük"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200833",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Dayanisma nedir? (Tema 5)",
+      "options": [
+        "Rekabet",
+        "Birlikte hareket edip birbirini destekleme",
+        "Yalnizlik",
+        "Bireycilik"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200834",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Paylasmak neden önemlidir? (Tema 5)",
+      "options": [
+        "Toplumsal uyum ve mutluluk saglar",
+        "Zorunluluk",
+        "Faydasiz",
+        "Para kazandirir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200835",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Dogruluk neden önemlidir? (Tema 5)",
+      "options": [
+        "Para kazandirir",
+        "Zorunluluk",
+        "Güveni tesis eder ve toplumu güçlendirir",
+        "Faydasiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200836",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Centilmenlik nedir? (Tema 5)",
+      "options": [
+        "Sadece bireysel yarar",
+        "Dürüst, kibar ve adaletli davranis",
+        "Baskalarina zarar verme",
+        "Kazanmak icin her yolu denemek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200837",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Kültür nedir? (Tema 5)",
+      "options": [
+        "Sadece sanat",
+        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
+        "Sadece müzik",
+        "Sadece edebiyat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200838",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Hosgorü nedir? (Tema 5)",
+      "options": [
+        "Farkli görüslere saygi ve kabul",
+        "Kendi görüsünü dayatma",
+        "Fark etmeme",
+        "Herkesin ayni olmasi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200839",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Vatandaslik neden önemlidir? (Tema 5)",
+      "options": [
+        "Topluma katilim ve sorumluluklar icin",
+        "Zorunluluk",
+        "Sadece hak icin",
+        "Sadece oy icin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601089",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Toplumun işlemesi için neden farklı meslekler gereklidir?",
+      "options": [
+        "Bir meslek yeterlidir",
+        "Herkes aynı işi yapmalıdır",
+        "Her meslek toplumun farklı bir ihtiyacını karşılar",
+        "Meslekler önemsizdir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601090",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Çiftçiler toplum için neden önemlidir?",
+      "options": [
+        "Sadece kendileri için çalışırlar",
+        "Fabrikalar aynı işi yapar",
+        "Zorunlu değillerdir",
+        "Besin üretirler, gıda güvencesini sağlarlar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601091",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Hemşire ve doktor birbirinden nasıl farklıdır?",
+      "options": [
+        "Aynı işi yaparlar",
+        "Doktor tanı koyar ve tedavi planlar, hemşire bakım uygular",
+        "Doktor daha az çalışır",
+        "Hemşire daha önemlidir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601092",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Mühendisler topluma nasıl katkı sağlar?",
+      "options": [
+        "Yalnızca fabrikada çalışırlar",
+        "Katkı sağlamazlar",
+        "Sadece hesap yaparlar",
+        "Köprü, bina, teknoloji ve altyapı tasarlarlar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601093",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Öğretmenlerin topluma katkısı nedir?",
+      "options": [
+        "Yalnızca para için çalışırlar",
+        "Sadece ders anlatırlar",
+        "Yeni nesle bilgi, beceri ve değer kazandırırlar",
+        "Katkı önemsizdir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601094",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Gönüllü çalışma nedir ve neden önemlidir?",
+      "options": [
+        "Ücret almaksızın topluma faydalı olmak; dayanışma ve sorumluluk geliştirir",
+        "İlgisiz bir etkinlik",
+        "Zorunlu bir görev",
+        "Para kazanmak için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601095",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Bir çocuk ileride hangi mesleği seçerken neyi düşünmelidir?",
+      "options": [
+        "Yalnızca ailesinin isteğini",
+        "Yalnızca prestiji",
+        "Yalnızca maaşı",
+        "İlgi alanları, yetenekleri ve topluma katkı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601096",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Atıkları geri dönüştürmek hangi meslek grubuyla ilgilidir?",
+      "options": [
+        "Çevre mühendisleri ve atık yönetim uzmanları",
+        "Yalnızca öğretmenler",
+        "Yalnızca çiftçiler",
+        "Yalnızca doktorlar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601097",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Bir sanatçı topluma nasıl katkı sağlar?",
+      "options": [
+        "Fayda sağlamaz",
+        "Sadece para kazanır",
+        "Kültürel değerler üretir, estetik duyguyu geliştirir",
+        "Yalnızca eğlence sunar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601098",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5",
+      "question": "Kooperatif nedir?",
+      "options": [
+        "Şirket",
+        "Dernek",
+        "Okul",
+        "Ortak çıkarlar için bir araya gelen kişilerin kurduğu ekonomik birlik"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

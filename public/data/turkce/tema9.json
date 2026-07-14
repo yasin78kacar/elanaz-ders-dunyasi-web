@@ -1,0 +1,732 @@
+{
+  "questions": [
+    {
+      "id": "q1141",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "İsim ne demektir?",
+      "options": [
+        "Sıfatların adı",
+        "Bağlaçların adı",
+        "Varlıkların ve kavramların adı",
+        "Eylemlerin adı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1144",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Zamir nedir?",
+      "options": [
+        "Bağlaç",
+        "Eylem yerine kullanılan",
+        "İsim yerine kullanılan sözcük",
+        "Sıfat yerine kullanılan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1145",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Ben, sen, o, biz, siz, onlar' hangi sözcük grubuna girer?",
+      "options": [
+        "İsim",
+        "Eylem",
+        "Sıfat",
+        "Zamir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1146",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Koşmak, yemek, içmek' hangi sözcük grubuna girer?",
+      "options": [
+        "Eylem",
+        "Zamir",
+        "Sıfat",
+        "İsim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1147",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Kırmızı, büyük, güzel' hangi sözcük grubuna girer?",
+      "options": [
+        "Eylem",
+        "İsim",
+        "Zamir",
+        "Sıfat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1148",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Eril ve dişil ayrımı Türkçede var mıdır?",
+      "options": [
+        "Sadece özel isimlerde",
+        "Hayır",
+        "Bazen",
+        "Evet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1149",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Türkçede tekil ve çoğul ek hangisidir?",
+      "options": [
+        "Çoğul: -lar/-ler",
+        "-da/-de",
+        "-la/-le",
+        "Çoğul: -ın/-in"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1150",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Çocuklar oynuyor.' cümlesinde özne nedir?",
+      "options": [
+        "Güzel",
+        "Çocuklar",
+        "Hızlı",
+        "Oynuyor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1151",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Arabalar yolda gidiyordu.' cümlesinde yüklem nedir?",
+      "options": [
+        "Hızlı",
+        "Gidiyordu",
+        "Arabalar",
+        "Yolda"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1152",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Kedi masanın üstünde uyuyor.' cümlesinde nesne nedir?",
+      "options": [
+        "Yok (nesnesiz cümle)",
+        "Üstünde",
+        "Kedi",
+        "Masanın"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1154",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Türkçede kelimeler genellikle hangi sırayla dizilir?",
+      "options": [
+        "Yüklem - Özne - Nesne",
+        "Özne - Yüklem - Nesne",
+        "Özne - Nesne - Yüklem",
+        "Nesne - Yüklem - Özne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1155",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Olumlu cümleyi olumsuz yapan ek nedir?",
+      "options": [
+        "-lar/-ler",
+        "-ın/-in",
+        "-ma/-me",
+        "-da/-de"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1157",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Gidecek mi?' cümlesi hangi cümle türüdür?",
+      "options": [
+        "Olumsuz",
+        "Emir",
+        "Soru",
+        "Olumlu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1158",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Çoğul eki '-lar' hangi seslerin ardından gelir?",
+      "options": [
+        "Sadece ünsüzlerin ardından",
+        "Her harfin ardından",
+        "Kalın sesli harflerin ardından",
+        "İnce sesli harflerin ardından"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1159",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Çoğul eki '-ler' hangi seslerin ardından gelir?",
+      "options": [
+        "İnce sesli harflerin ardından",
+        "Sadece ünsüzlerin ardından",
+        "Kalın sesli harflerin ardından",
+        "Her harfin ardından"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50974",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "İsim, eylem, sıfat - bunlar ne tür kavramlardır?",
+      "options": [
+        "Sözcük türleri",
+        "Harf grupları",
+        "Cümle türleri",
+        "Hece türleri"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50975",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "\"Ben\" zamiri özne midir?",
+      "options": [
+        "Hayır",
+        "Sadece soru cümlelerinde",
+        "Evet",
+        "Bazen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50976",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Eylem olmayan hangisidir?",
+      "options": [
+        "Yemek",
+        "Koşmak",
+        "Uyumak",
+        "Kalem"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50977",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Sıfat olmayan hangisidir?",
+      "options": [
+        "Güzel",
+        "Büyük",
+        "Kırmızı",
+        "Koşmak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50978",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Türkçede özne yüklemle uyum sağlar mı?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Fark etmez",
+        "Bazen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50979",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "\"Çocuklar oynuyor.\" cümlesinde \"-lar\" eki ne görevindedir?",
+      "options": [
+        "Soru eki",
+        "Zaman eki",
+        "Yer eki",
+        "Çoğul eki"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50980",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Birden fazla kişi/nesne için hangi ek kullanılır?",
+      "options": [
+        "Bağlaç",
+        "İsim",
+        "-lar / -ler",
+        "Sıfat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50981",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "\"Arabalar\" kelimesinde kaç hece var?",
+      "options": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90939",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'-lar/-ler' eki ne gorevlidir?",
+      "options": [
+        "Cogul eki",
+        "Zaman eki",
+        "Iyelik eki",
+        "Yer eki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90940",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'-da/-de' eki ne gorevlidir?",
+      "options": [
+        "Bulunma eki",
+        "Yonelme eki",
+        "Ayrilma eki",
+        "Iyelik eki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90941",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'-dan/-den' eki ne gorevlidir?",
+      "options": [
+        "Ayrilma eki",
+        "Yonelme eki",
+        "Bulunma eki",
+        "Iyelik eki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90942",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'-a/-e' eki ne gorevlidir?",
+      "options": [
+        "Ayrilma eki",
+        "Yonelme eki",
+        "Bulunma eki",
+        "Iyelik eki"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90943",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'-yor' eki ne gorevlidir?",
+      "options": [
+        "Simdiki zaman eki",
+        "Emir eki",
+        "Gelecek zaman eki",
+        "Gecmis zaman eki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90944",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'-mak/-mek' eki ne gorevlidir?",
+      "options": [
+        "Zaman eki",
+        "Mastar (eylem adi) eki",
+        "Cogul eki",
+        "Yer eki"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90945",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'-im/-im' eki ne gorevlidir?",
+      "options": [
+        "2. tekil sahiplik eki",
+        "Cogul eki",
+        "Yer eki",
+        "1. tekil sahiplik eki"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90946",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'-in/-in' eki ne gorevlidir?",
+      "options": [
+        "Cogul eki",
+        "1. tekil sahiplik eki",
+        "2. tekil sahiplik veya ilgi eki",
+        "Yer eki"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600879",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Sözcük nedir?",
+      "options": [
+        "Bağımsız olarak kullanılabilen anlamlı dil birimi",
+        "Cümle",
+        "Hece",
+        "Paragraf"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600880",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Kök nedir?",
+      "options": [
+        "Sözcüğün ek alınmamış, bölünemeyen en küçük anlamlı parçası",
+        "Ek",
+        "Cümle",
+        "Hece"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600881",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Yapım eki örneği hangisidir?",
+      "options": [
+        "gel + di (zaman eki)",
+        "ev + ler (çoğul eki)",
+        "göz + lük = gözlük (-lük yeni kelime yapıyor)",
+        "okul + da (yer eki)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600882",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Çekim eki örneği hangisidir?",
+      "options": [
+        "göz + lük (-lük yeni kelime yapıyor)",
+        "su + lu (-lu özellik katıyor)",
+        "gel + iyor (-iyor zaman bildiriyor)",
+        "taş + lık (-lık yeni anlam veriyor)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600883",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Türkçede yönelme durumu (-a/-e) ne bildirir?",
+      "options": [
+        "Sahipliği",
+        "Bulunmayı",
+        "Yönelmeyi, hedefi",
+        "Ayrılmayı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600884",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Türkçede bulunma durumu (-da/-de) ne bildirir?",
+      "options": [
+        "Sahipliği",
+        "Yönelmeyi",
+        "Ayrılmayı",
+        "Bulunulan yeri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600885",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Türkçede ayrılma durumu (-dan/-den) ne bildirir?",
+      "options": [
+        "Bulunulan yeri",
+        "Sahipliği",
+        "Çıkış noktasını, uzaklaşmayı",
+        "Yönelmeyi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600886",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Türkçede tamlayan durumu (-ın/-in/-ün/-un) ne bildirir?",
+      "options": [
+        "Ayrılma",
+        "Bulunma",
+        "Yönelme",
+        "Sahiplik, aitlik"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600887",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Hangi ek çoğul yapar?",
+      "options": [
+        "-da / -de",
+        "-lar / -ler",
+        "-ın / -in",
+        "-a / -e"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600888",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'gözlük' sözcüğündeki '-lük' eki hangi tür ektir?",
+      "options": [
+        "Çekim eki",
+        "Yapım eki (yeni sözcük türetiyor)",
+        "Kişi eki",
+        "Zaman eki"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800661",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Anlam daralması nedir?",
+      "options": [
+        "Anlam kayması",
+        "Anlam bozulması",
+        "Bir sözcüğün zamanla daha dar anlamda kullanılması",
+        "Anlam genişlemesi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800662",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Anlam genişlemesi nedir?",
+      "options": [
+        "Anlam bozulması",
+        "Anlam daralması",
+        "Bir sözcüğün zamanla daha geniş anlamda kullanılması",
+        "Anlam kayması"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800663",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Mecaz anlam nedir?",
+      "options": [
+        "Yan anlam",
+        "Sözlük anlamı",
+        "Temel anlam",
+        "Bir sözcüğün gerçek anlamının dışında kullanılması"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800664",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Kalbim sıkışıyor.' cümlesinde 'sıkışmak' hangi anlamda?",
+      "options": [
+        "Yan anlam",
+        "Eş anlam",
+        "Temel anlam",
+        "Mecaz anlam (üzülmek, bunalmak)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800665",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Temel (düz) anlam nedir?",
+      "options": [
+        "Mecaz anlam",
+        "Sözcüğün sözlükteki ilk, asıl anlamı",
+        "Yan anlam",
+        "Aktarmalı anlam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800666",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Bacak' sözcüğünün 'masanın bacağı' kullanımı hangi anlam?",
+      "options": [
+        "Yan anlam (benzetme ile genişleme)",
+        "Mecaz anlam",
+        "Eş anlam",
+        "Temel anlam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800667",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Deyim nedir?",
+      "options": [
+        "Atasözü",
+        "Özel isim",
+        "Kalıplaşmış, mecaz ya da özel anlamlı sözcük grubu",
+        "Terim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800668",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Atasözü ile deyim arasındaki fark nedir?",
+      "options": [
+        "İkisi aynıdır",
+        "Deyim daha eskidir",
+        "Atasözü daha kısadır",
+        "Atasözü yargı bildirir, deyim yargı bildirmez"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800669",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Terim nedir?",
+      "options": [
+        "Deyim",
+        "Atasözü",
+        "Bir bilim ya da meslek alanına özgü sözcük",
+        "Argo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800670",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Argo nedir?",
+      "options": [
+        "Atasözü",
+        "Terim",
+        "Belirli bir topluluk tarafından kullanılan özel sözvarlığı",
+        "Deyim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800671",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Söz varlığını artırmak için ne yapılabilir?",
+      "options": [
+        "Yalnızca yazmak",
+        "Yalnızca izlemek",
+        "Okumak, dinlemek, sözlük kullanmak",
+        "Yalnızca konuşmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800672",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Yansıma sözcük nedir?",
+      "options": [
+        "Sıfat",
+        "Zarf",
+        "Bir sesi taklit eden sözcük: vızıldamak, gümbüldamak",
+        "İsim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800673",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "İkileme nedir?",
+      "options": [
+        "Aynı ya da yakın anlamlı sözcüklerin tekrarı: yavaş yavaş",
+        "Terim",
+        "Deyim",
+        "Atasözü"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800674",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Bağlaç 'ama' nerede kullanılır?",
+      "options": [
+        "Ek bilgi için",
+        "Neden bildirmek için",
+        "Sıralama için",
+        "Zıt düşünceleri bağlamak için: 'Geldi ama gitmedi.'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800675",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Hem...hem de' bağlacı ne anlatır?",
+      "options": [
+        "Koşul",
+        "Zıtlık",
+        "Sıralama",
+        "Toplama, birlikte olma: 'Hem çalıştı hem de oynadı.'"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

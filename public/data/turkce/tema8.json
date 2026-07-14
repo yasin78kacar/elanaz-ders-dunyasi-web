@@ -1,0 +1,693 @@
+{
+  "questions": [
+    {
+      "id": "q1122",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Ana fikir nedir?",
+      "options": [
+        "Yazarın okuyucuya vermek istediği temel mesaj",
+        "En uzun cümle",
+        "Son cümle",
+        "İlk cümle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1123",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Yardımcı fikir nedir?",
+      "options": [
+        "Metin başlığı",
+        "Ana fikrin kendisi",
+        "Yazarın adı",
+        "Ana fikri destekleyen düşünceler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1124",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Okuma anlama sorusunda 'neden' sorusu ne arar?",
+      "options": [
+        "Yer bilgisi",
+        "Neden-sonuç ilişkisi",
+        "Zaman bilgisi",
+        "Kişi bilgisi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1125",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Okuma anlama sorusunda 'nerede' sorusu ne arar?",
+      "options": [
+        "Kişi bilgisi",
+        "Zaman bilgisi",
+        "Neden bilgisi",
+        "Yer bilgisi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1126",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Okuma anlama sorusunda 'ne zaman' sorusu ne arar?",
+      "options": [
+        "Kişi bilgisi",
+        "Yer bilgisi",
+        "Zaman bilgisi",
+        "Neden bilgisi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1128",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Metin başlığı ne işe yarar?",
+      "options": [
+        "Sonucu verir",
+        "Konuyu özetler",
+        "Yazarı tanıtır",
+        "Karakterleri listeler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1129",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Bir hikâyede 'olay örgüsü' ne demektir?",
+      "options": [
+        "Kişi listesi",
+        "Yer listesi",
+        "Sonuç cümlesi",
+        "Olayların sırası"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1130",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Metinde geçen bilinen bir kelimeye ne denir?",
+      "options": [
+        "Zor kelime",
+        "Anlamı bilinen kelime",
+        "Yabancı kelime",
+        "Yeni kelime"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1131",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Sözlük ne işe yarar?",
+      "options": [
+        "Hece böler",
+        "Heceleri öğretir",
+        "Kelime saydırır",
+        "Kelimelerin anlamını öğretir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1132",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Metnin sonundaki özet nedir?",
+      "options": [
+        "İlk paragraf",
+        "Kısa ve genel anlatım",
+        "Yazarın adı",
+        "Konunun sonu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1133",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'Sevdiklerinize zaman ayırın.' bu cümle hangi tür?",
+      "options": [
+        "Haber",
+        "Tanımlama",
+        "Öneri",
+        "Soru"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1134",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Bir haberin en önemli bölümü neresidir?",
+      "options": [
+        "Ortası",
+        "Son paragraf",
+        "Fotoğraf",
+        "Başlık ve giriş"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1136",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Metin içindeki örnekler ne işe yarar?",
+      "options": [
+        "Konuyu değiştirir",
+        "Okuyanı şaşırtır",
+        "Ana fikri açıklar",
+        "Metni uzatır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1137",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'Çiçeğin güzelliği baharı müjdeler.' bu cümle ne anlatır?",
+      "options": [
+        "Bahar kıştan önce gelir",
+        "Çiçekler kışın açar",
+        "Çiçek açtığında bahar gelmiştir",
+        "Çiçek güzel değildir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1138",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Metnin türü nasıl anlaşılır?",
+      "options": [
+        "Kaç sayfa olduğuna bakarak",
+        "Yazarın adına bakarak",
+        "Konusuna ve amacına bakarak",
+        "Resminden bakarak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1139",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hikâyede 'çatışma' ne demektir?",
+      "options": [
+        "Mekân",
+        "Sonuç",
+        "Karakterlerin sorunu veya engeli",
+        "Zaman"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1140",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hangi metin türü gerçek bilgi verir?",
+      "options": [
+        "Şiir",
+        "Fıkra",
+        "Bilgilendirici metin",
+        "Masal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50964",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Bir metni okurken ana fikir nasıl bulunur?",
+      "options": [
+        "En çok tekrarlanan ve önemli düşünce",
+        "Son cümle",
+        "İlk cümle",
+        "En uzun cümle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50966",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "\"Neden\" sorusu metinde ne arar?",
+      "options": [
+        "Neden-sonuç ilişkisi",
+        "Kişi",
+        "Yer",
+        "Zaman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50967",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "\"Nerede\" sorusu metinde ne arar?",
+      "options": [
+        "Kişi",
+        "Neden",
+        "Zaman",
+        "Yer bilgisi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50968",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "\"Ne zaman\" sorusu metinde ne arar?",
+      "options": [
+        "Zaman bilgisi",
+        "Neden",
+        "Yer",
+        "Kişi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90929",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Ana fikir nereden cikarilir?",
+      "options": [
+        "Sadece son paragraftan",
+        "Sadece ilk paragraftan",
+        "Tüm metinden, tekrarlanan dusunceden",
+        "Basliktan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90931",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Yardimci fikir nedir?",
+      "options": [
+        "Baslik",
+        "Sonuc",
+        "Metni destekleyen ikincil dusunce",
+        "Ana fikir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90932",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Ozet yapmak ne demektir?",
+      "options": [
+        "Kelime eklemek",
+        "Metni kisaltarak ana fikri ifade etmek",
+        "Fikir eklemek",
+        "Metni uzatmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90933",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Metin analizi yaparken ne sorulur?",
+      "options": [
+        "Kim, ne, nerede, ne zaman, neden, nasil",
+        "Sadece nerede",
+        "Sadece kim",
+        "Sadece ne"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90934",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Okuma stratejisi nedir?",
+      "options": [
+        "Sadece hizli okuma",
+        "Oneeden okuma, not alma, ozet yapma",
+        "Sadece basliga bakma",
+        "Sadece son paragrafi okuma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90935",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Not almanin amaci nedir?",
+      "options": [
+        "Hatirlamaya ve anlamaya yardimci olmak",
+        "Zorunluluk",
+        "Kursun harcamak",
+        "Sadece yazi pratigi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90936",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Cikarsama ne demektir?",
+      "options": [
+        "Metinde yazmayanin ima edileni bulmak",
+        "Paragraf bolmek",
+        "Metni okumak",
+        "Kelime saymak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600869",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Türkçe kaç sesli harften oluşur?",
+      "options": [
+        "6",
+        "8 sesli harf",
+        "10",
+        "5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600870",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Türkçe alfabesinde kaç harf vardır?",
+      "options": [
+        "28",
+        "26",
+        "30",
+        "29 harf"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600871",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Türkçeye özgü sesli harfler hangileridir?",
+      "options": [
+        "o, u",
+        "a, e, i",
+        "ı, ö, ü",
+        "b, c, d"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600872",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Büyük ünlü uyumu nedir?",
+      "options": [
+        "Ek uyumu",
+        "Kalın sesli - kalın sesli, ince sesli - ince sesli uyumu",
+        "Sessizlerin uyumu",
+        "Cümle uyumu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600873",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Küçük ünlü uyumu nedir?",
+      "options": [
+        "Hecelerin uyumu",
+        "Sessizlerin uyumu",
+        "Kalın ve ince seslilerin uyumu",
+        "Yuvarlak ve düz seslilerin uyumu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600874",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hece nedir?",
+      "options": [
+        "Bir cümle",
+        "Bir solukta çıkarılan ses birliği",
+        "Bir satır",
+        "Kelimeyi oluşturan tüm sesler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600875",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "En az kaç sesli ile hece oluşur?",
+      "options": [
+        "3",
+        "2",
+        "Sesli gerekmez",
+        "1 sesli harf ile"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600876",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hangi kelimede büyük ünlü uyumu yoktur?",
+      "options": [
+        "Gül",
+        "Kitap (Kural: kalın-ince uyumsuzluğu)",
+        "Okul",
+        "Köprü"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600877",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Türkçede vurgu genellikle nerededir?",
+      "options": [
+        "Ortada",
+        "Son hecededir",
+        "Her zaman değişir",
+        "İlk hecededir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600878",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Türkçede yabancı kökenli kelimeye örnek nedir?",
+      "options": [
+        "Telefon (Yunancadan)",
+        "Okul",
+        "Kalem",
+        "Ev"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800646",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Türkçede kaç tür ek vardır?",
+      "options": [
+        "Dört tür",
+        "Üç tür",
+        "İki tür: yapım eki ve çekim eki",
+        "Bir tür"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800647",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'Göz-lük-çü-lük' sözcüğünde kaç ek vardır?",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800648",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'Taş-lık' sözcüğünde '-lık' eki ne işlevi görür?",
+      "options": [
+        "Yeni sözcük türetir (yapım eki)",
+        "Çoğul yapar",
+        "Yeri bildirir",
+        "Zamanı bildirir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800649",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'Ellerimi' sözcüğünde kaç ek vardır?",
+      "options": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800650",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Türkçede fiil kökleri nasıl bilinir?",
+      "options": [
+        "Emir kipindeki halidir: 'gel', 'git', 'gör'",
+        "Mastar hali",
+        "Sözlükteki hali",
+        "-mak ekli hali"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800651",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'-di'li geçmiş zaman kipi ne bildirir?",
+      "options": [
+        "Şimdiki",
+        "Konuşmacının tanık olduğu, kesin geçmiş olayları",
+        "Belirsiz geçmiş",
+        "Gelecek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800652",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'-miş'li geçmiş zaman kipi ne bildirir?",
+      "options": [
+        "Kesin geçmiş",
+        "Şimdiki",
+        "Gelecek",
+        "Konuşmacının bizzat görmediği, duyuma dayalı geçmiş"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800653",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Gelecek zaman eki hangisidir?",
+      "options": [
+        "-iyor / -ıyor",
+        "-miş / -mış",
+        "-di / -dı",
+        "-ecek / -acak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800654",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Şimdiki zaman eki hangisidir?",
+      "options": [
+        "-ecek / -acak",
+        "-iyor / -ıyor",
+        "-miş / -mış",
+        "-di / -dı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800655",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Geniş zaman eki hangisidir?",
+      "options": [
+        "-di",
+        "-iyor",
+        "-ir / -er / -ar / -ur",
+        "-ecek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800656",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'-me / -ma' eki fiile ne anlam katar?",
+      "options": [
+        "Soru",
+        "Olumsuzluk: 'gelme, gitme'",
+        "Çoğul",
+        "İyelik"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800657",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Soru eki 'mi' fiille birleşince ne olur?",
+      "options": [
+        "Olumsuz yapar",
+        "Çoğul yapar",
+        "Fiili soru kimine çevirir: 'Geldi mi?'",
+        "Zaman değiştirir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800658",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'Yürü-yor-um' sözcüğünde '-yor' ne bildirir?",
+      "options": [
+        "Gelecek zaman",
+        "Emir",
+        "Şimdiki zaman",
+        "Geçmiş zaman"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800659",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "'Yürü-yor-um' sözcüğünde '-um' ne bildirir?",
+      "options": [
+        "3. tekil şahıs",
+        "1. tekil şahıs (ben)",
+        "2. tekil şahıs",
+        "Çoğul"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800660",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hangi ek isimden isim türetir?",
+      "options": [
+        "-ecek (gelecek)",
+        "-iyor (şimdiki)",
+        "-lık/-lik (tuz→tuzluk)",
+        "-di (geçmiş)"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "questions": [
+    {
+      "id": "q1441",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Kırmızı trafik ışığı ne anlama gelir?",
+      "options": [
+        "Geç",
+        "Dikkat et",
+        "Yavaşla",
+        "Dur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1442",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Sarı trafik ışığı ne anlama gelir?",
+      "options": [
+        "Geç",
+        "Hızlan",
+        "Dikkatli ol, hazırlan",
+        "Dur"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1443",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Yeşil trafik ışığı ne anlama gelir?",
+      "options": [
+        "Dur",
+        "Dikkat et",
+        "Geç",
+        "Yavaşla"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1445",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Yayalar yolu nerede ve nasıl geçmelidir?",
+      "options": [
+        "Hızlıca koşarak",
+        "Rastgele",
+        "İstedikleri yerden",
+        "Yaya geçidinden, ışığı bekleyerek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1448",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Çocuklar araçtan nerede inmeli ve binmeli?",
+      "options": [
+        "Yol tarafından",
+        "İstedikleri taraftan",
+        "Sürücü tarafından",
+        "Kaldırım tarafından"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1451",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Trafik polisi ne iş yapar?",
+      "options": [
+        "Benzin satar",
+        "Yol yapar",
+        "Trafik kurallarını denetler",
+        "Arabayı tamir eder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1452",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Yolda oynamak tehlikeli midir?",
+      "options": [
+        "Sadece gece",
+        "Evet",
+        "Bazen",
+        "Hayır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1453",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Araçların gidemeyeceği yollar nelerdir?",
+      "options": [
+        "Park",
+        "Yayaların yolu (kaldırım)",
+        "Köprü",
+        "Otoyol"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1454",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Trafik işaretleri ne için kullanılır?",
+      "options": [
+        "Reklam için",
+        "Binalara işaret etmek için",
+        "Şehri süslemek için",
+        "Sürücülere ve yayalara yol gösterir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1457",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Araç içinde şakalaşmak ya da bağırmak neden tehlikelidir?",
+      "options": [
+        "Hızı artırır",
+        "Sürücünün dikkatini dağıtır",
+        "Eğlencelidir",
+        "Yakıt tüketir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51126",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Çocuklar ön koltuğa oturabilir mi?",
+      "options": [
+        "Evet",
+        "Bazen",
+        "Hayır, arka koltuğa otururlar",
+        "Sadece kısa yolda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51130",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Hangi renk trafik ışığı sürücülere durmayı söyler?",
+      "options": [
+        "Yeşil",
+        "Sarı",
+        "Mavi",
+        "Kırmızı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51131",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Araçlarda emniyet kemeri kimin için önemlidir?",
+      "options": [
+        "Hem sürücü hem yolcular için",
+        "Sadece arka koltuk için",
+        "Sadece yolcular için",
+        "Sadece sürücü için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51133",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Okul önündeki yavaş geçiş işaretinin anlamı nedir?",
+      "options": [
+        "Dur",
+        "Çocuklar var, yavaşla",
+        "Geç",
+        "Hızlan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91225",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Araclarda emniyet kemeri kimin icin onemlidir?",
+      "options": [
+        "Sadece yolcular icin",
+        "Hem surucu hem yolcular icin",
+        "Sadece arka koltuk icin",
+        "Sadece surucu icin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91226",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Okul onundeki yavas gecis isareti ne anlama gelir?",
+      "options": [
+        "Hizlan",
+        "Gec",
+        "Dur",
+        "Cocuklar var, yavasla"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200821",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Empati nedir? (Tema 4)",
+      "options": [
+        "Baskasinin duygularini anlamaya calisma",
+        "Kendi duyguları",
+        "Disiplin",
+        "Sempatik olmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200822",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Sorumluluk nedir? (Tema 4)",
+      "options": [
+        "Yapilmasi gerekenlerle hesap verebilme",
+        "Hak",
+        "Özgürlük",
+        "Imtiyaz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200823",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Dayanisma nedir? (Tema 4)",
+      "options": [
+        "Bireycilik",
+        "Birlikte hareket edip birbirini destekleme",
+        "Rekabet",
+        "Yalnizlik"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200824",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Paylasmak neden önemlidir? (Tema 4)",
+      "options": [
+        "Para kazandirir",
+        "Zorunluluk",
+        "Toplumsal uyum ve mutluluk saglar",
+        "Faydasiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200825",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Dogruluk neden önemlidir? (Tema 4)",
+      "options": [
+        "Zorunluluk",
+        "Para kazandirir",
+        "Güveni tesis eder ve toplumu güçlendirir",
+        "Faydasiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200826",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Centilmenlik nedir? (Tema 4)",
+      "options": [
+        "Baskalarina zarar verme",
+        "Dürüst, kibar ve adaletli davranis",
+        "Sadece bireysel yarar",
+        "Kazanmak icin her yolu denemek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200827",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Kültür nedir? (Tema 4)",
+      "options": [
+        "Sadece edebiyat",
+        "Sadece sanat",
+        "Sadece müzik",
+        "Bir toplumun yasam bicimi, degerleri ve gelenekleri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200828",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Hosgorü nedir? (Tema 4)",
+      "options": [
+        "Farkli görüslere saygi ve kabul",
+        "Kendi görüsünü dayatma",
+        "Fark etmeme",
+        "Herkesin ayni olmasi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200829",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Vatandaslik neden önemlidir? (Tema 4)",
+      "options": [
+        "Sadece hak icin",
+        "Topluma katilim ve sorumluluklar icin",
+        "Sadece oy icin",
+        "Zorunluluk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601079",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Yayalar neden kaldırımda yürümelidir?",
+      "options": [
+        "Zorunluluk değildir",
+        "Güzel göründüğü için",
+        "Araç trafiğinden korunmak için",
+        "Yol daha pürüzlüdür"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601080",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Bisiklet sürerken kask takmak neden önemlidir?",
+      "options": [
+        "Güzel görünmek için",
+        "Kaza durumunda başı korumak için",
+        "Hızlanmak için",
+        "Zorunlu değil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601081",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Karanlıkta yürürken ne yapmalısınız?",
+      "options": [
+        "Hızlı koşmalısınız",
+        "Yol ortasında yürümelisiniz",
+        "Hiçbir önlem gerekmez",
+        "Parlak renkli kıyafet giyip dikkatli yürümelisiniz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601082",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Araçta emniyet kemeri takmanın önemi nedir?",
+      "options": [
+        "Sadece ön koltuktakiler için",
+        "Önemi yoktur",
+        "Yalnızca kuraldır",
+        "Kaza anında ciddi yaralanmaları önler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601083",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Yolda yabancı biri durdurup arabasına bindirmek isterse ne yapmalısınız?",
+      "options": [
+        "Düşünebilirsiniz",
+        "Sorabilirsiniz",
+        "Binebilirsiniz",
+        "Kesinlikle binmeyip güvendiğiniz bir yere gitmelisiniz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601084",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Okul servisinde doğru davranış nedir?",
+      "options": [
+        "Sürücüyü rahatsız etmek",
+        "Oturduğunuz yerde kalmak, gürültü yapmamak, kurallara uymak",
+        "Dışarı sarkarak gitmek",
+        "Yüksek sesle bağırmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601085",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Trafik ışıkları bozulunca ne yapılmalıdır?",
+      "options": [
+        "Karşıdan karşıya geçilmez",
+        "Polis memuruna ya da işaretlere uyulur; çok dikkatli geçilir",
+        "Hızla geçilir",
+        "Durup beklenir çok uzun"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601086",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Yangın söndürücü nerede bulunmalıdır?",
+      "options": [
+        "Yalnızca okullarda",
+        "Gerekmez",
+        "Her bina ve araçta erişilebilir bir yerde",
+        "Yalnızca hastanelerde"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601087",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Doğal gaz kaçağı hissedilirse ne yapılmalıdır?",
+      "options": [
+        "Elektrikli alet açılır",
+        "Ateş yakılır",
+        "Beklenilir",
+        "Pencereleri açıp gaz vanasını kapatın, elektrik kullanmayın, binanı terk edin ve yetkilileri arayın"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601088",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4",
+      "question": "Su baskınına karşı önlem olarak ne yapılabilir?",
+      "options": [
+        "Araçlarla girilmek",
+        "Yüksek alanlara geçmek, yetkililerin uyarılarına uymak",
+        "Beklenmek",
+        "Selleri yüzerek geçmek"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

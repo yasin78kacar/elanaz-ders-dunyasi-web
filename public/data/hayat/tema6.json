@@ -1,0 +1,667 @@
+{
+  "questions": [
+    {
+      "id": "q1481",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": [
+        "İstanbul",
+        "Bursa",
+        "Ankara",
+        "İzmir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1482",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye Cumhuriyeti ne zaman kuruldu?",
+      "options": [
+        "1930",
+        "1923",
+        "1950",
+        "1918"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1484",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "23 Nisan ne günüdür?",
+      "options": [
+        "Atatürk'ü Anma Günü",
+        "Cumhuriyet Bayramı",
+        "Zafer Bayramı",
+        "Ulusal Egemenlik ve Çocuk Bayramı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1485",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "29 Ekim ne günüdür?",
+      "options": [
+        "Çocuk Bayramı",
+        "Cumhuriyet Bayramı",
+        "Anneler Günü",
+        "Zafer Bayramı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1486",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "19 Mayıs ne günüdür?",
+      "options": [
+        "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+        "Çocuk Bayramı",
+        "Zafer Bayramı",
+        "Cumhuriyet Bayramı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1487",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "30 Ağustos ne günüdür?",
+      "options": [
+        "Anneler Günü",
+        "Çocuk Bayramı",
+        "Zafer Bayramı",
+        "Cumhuriyet Bayramı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1488",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türk bayrağının renkleri nelerdir?",
+      "options": [
+        "Yeşil ve kırmızı",
+        "Sarı ve kırmızı",
+        "Kırmızı ve beyaz",
+        "Mavi ve beyaz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1489",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türk bayrağındaki semboller nelerdir?",
+      "options": [
+        "Yıldız ve güneş",
+        "Ay ve güneş",
+        "Ay ve yıldız",
+        "Güneş ve ay"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1492",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'nin para birimi nedir?",
+      "options": [
+        "Dolar",
+        "Euro",
+        "Türk Lirası",
+        "Frank"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1493",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'nin nüfusu ne kadardır?",
+      "options": [
+        "200 milyon",
+        "10 milyon",
+        "Yaklaşık 85 milyon",
+        "50 milyon"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1494",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'nin en büyük şehri hangisidir?",
+      "options": [
+        "İstanbul",
+        "Bursa",
+        "İzmir",
+        "Ankara"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1495",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'nin hangi kıtalarda toprakları bulunur?",
+      "options": [
+        "Sadece Avrupa",
+        "Asya ve Avrupa",
+        "Sadece Asya",
+        "Asya ve Afrika"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1496",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Ramazan Bayramı kaç gün sürer?",
+      "options": [
+        "3 gün",
+        "7 gün",
+        "1 gün",
+        "5 gün"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1497",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Kurban Bayramı kaç gün sürer?",
+      "options": [
+        "4 gün",
+        "2 gün",
+        "7 gün",
+        "3 gün"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1498",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Nevruz ne zaman kutlanır?",
+      "options": [
+        "21 Eylül",
+        "21 Mart",
+        "21 Haziran",
+        "21 Aralık"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1499",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'nin bağımsız olduğu günü kutlayan bayram hangisidir?",
+      "options": [
+        "Çocuk Bayramı",
+        "Cumhuriyet Bayramı",
+        "Zafer Bayramı",
+        "Gençlik Bayramı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1500",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Atatürk'ün vefat ettiği tarih hangisidir?",
+      "options": [
+        "19 Mayıs 1919",
+        "10 Kasım 1938",
+        "30 Ağustos 1922",
+        "29 Ekim 1923"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51144",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Atatürk'ün önemi nedir?",
+      "options": [
+        "Bir sporcudur",
+        "Türkiye Cumhuriyeti'nin kurucusu ve milli kahramanımız",
+        "Bir bilim insanıdır",
+        "Bir sanatçıdır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51146",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Cumhuriyet ne demektir?",
+      "options": [
+        "Halkın kendi kendini yönettiği devlet sistemi",
+        "Krallık",
+        "Diktatörlük",
+        "İmparatorluk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51147",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "23 Nisan neden çocuklara armağan edilmiştir?",
+      "options": [
+        "Oyun için",
+        "Para verildiği için",
+        "Atatürk çocukların geleceğin teminatı olduğuna inandığı için",
+        "Tatil için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51148",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türk bayrağı ne anlama gelir?",
+      "options": [
+        "Vatanı ve milletin bağımsızlığını simgeler",
+        "Sadece güzel",
+        "Hiçbir anlamı yok",
+        "Sadece renk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51149",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Milli marşımız ne zaman okunur?",
+      "options": [
+        "Sadece sabahları",
+        "Her yemekte",
+        "Resmi törenlerde ve milli bayramlarda",
+        "Sadece geceleri"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51150",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Vatan sevgisi neden önemlidir?",
+      "options": [
+        "Faydasızdır",
+        "Ülkemize sahip çıkmayı sağlar",
+        "Para kazandırır",
+        "Zorunludur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51153",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'de resmi dil nedir?",
+      "options": [
+        "İngilizce",
+        "Kürtçe",
+        "Türkçe",
+        "Arapça"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91237",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye Cumhuriyeti hangi yil kuruldu?",
+      "options": [
+        "1918",
+        "1920",
+        "1930",
+        "1923"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91238",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiyenin baskenti neresidir?",
+      "options": [
+        "Izmir",
+        "Istanbul",
+        "Ankara",
+        "Bursa"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91239",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "29 Ekim ne olarak kutlanir?",
+      "options": [
+        "Cocuk Bayrami",
+        "Zafer Bayrami",
+        "Cumhuriyet Bayrami",
+        "Ulusal Egemenlik Bayrami"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91240",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "19 Mayis ne olarak kutlanir?",
+      "options": [
+        "Ataturku Anma ve Genclik Bayrami",
+        "Zafer Bayrami",
+        "Cocuk Bayrami",
+        "Cumhuriyet Bayrami"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91241",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "30 Agustos ne olarak kutlanir?",
+      "options": [
+        "Genclik Bayrami",
+        "Zafer Bayrami",
+        "Cocuk Bayrami",
+        "Cumhuriyet Bayrami"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91242",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Turk milli marsi hangisidir?",
+      "options": [
+        "Istiklal Marsi",
+        "Cumhuriyet Marsi",
+        "Vatan Marsi",
+        "Genclik Marsi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91245",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye kac ile ayrilir?",
+      "options": [
+        "81 il",
+        "50 il",
+        "63 il",
+        "100 il"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91246",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiyenin resmi dini var midir?",
+      "options": [
+        "Islam",
+        "Hayir, laik bir devlettir",
+        "Yahudilik",
+        "Hristiyanlik"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200841",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Empati nedir? (Tema 6)",
+      "options": [
+        "Disiplin",
+        "Baskasinin duygularini anlamaya calisma",
+        "Kendi duyguları",
+        "Sempatik olmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200842",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Sorumluluk nedir? (Tema 6)",
+      "options": [
+        "Hak",
+        "Özgürlük",
+        "Yapilmasi gerekenlerle hesap verebilme",
+        "Imtiyaz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200843",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Dayanisma nedir? (Tema 6)",
+      "options": [
+        "Yalnizlik",
+        "Bireycilik",
+        "Birlikte hareket edip birbirini destekleme",
+        "Rekabet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200844",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Paylasmak neden önemlidir? (Tema 6)",
+      "options": [
+        "Para kazandirir",
+        "Faydasiz",
+        "Toplumsal uyum ve mutluluk saglar",
+        "Zorunluluk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200845",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Dogruluk neden önemlidir? (Tema 6)",
+      "options": [
+        "Zorunluluk",
+        "Faydasiz",
+        "Güveni tesis eder ve toplumu güçlendirir",
+        "Para kazandirir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200846",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Centilmenlik nedir? (Tema 6)",
+      "options": [
+        "Dürüst, kibar ve adaletli davranis",
+        "Sadece bireysel yarar",
+        "Baskalarina zarar verme",
+        "Kazanmak icin her yolu denemek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200847",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Kültür nedir? (Tema 6)",
+      "options": [
+        "Sadece sanat",
+        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
+        "Sadece müzik",
+        "Sadece edebiyat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200848",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Hosgorü nedir? (Tema 6)",
+      "options": [
+        "Farkli görüslere saygi ve kabul",
+        "Herkesin ayni olmasi",
+        "Fark etmeme",
+        "Kendi görüsünü dayatma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200849",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Vatandaslik neden önemlidir? (Tema 6)",
+      "options": [
+        "Sadece oy icin",
+        "Zorunluluk",
+        "Topluma katilim ve sorumluluklar icin",
+        "Sadece hak icin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601099",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Cumhuriyet neden önemlidir?",
+      "options": [
+        "Yalnızca tarihsel bir olaydır",
+        "Halkın yönetime katılmasını ve haklarını güvence altına alır",
+        "Yalnızca bayram için",
+        "Önemsizdir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601100",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Bayrak bir millete ne ifade eder?",
+      "options": [
+        "Önemli değildir",
+        "Yalnızca resmi törenlerde kullanılır",
+        "Bağımsızlık, birlik ve kimlik simgesidir",
+        "Sadece bez parçasıdır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601101",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Atatürk'ün Türkiye'ye en önemli katkısı nedir?",
+      "options": [
+        "Cumhuriyeti kurması, hukuk, eğitim ve kültürde devrimler yapması",
+        "Sadece alfabe değiştirmesi",
+        "Sadece savaş kazanması",
+        "Sadece okul açması"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601102",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Seçimler neden önemlidir?",
+      "options": [
+        "Halk, yöneticilerini özgürce seçer, demokratik katılım sağlanır",
+        "Zorunluluk olduğu için",
+        "Önemsizdir",
+        "Yalnızca gösteriş için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601103",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "İnsan hakları neden evrenseldir?",
+      "options": [
+        "Yalnızca yetişkinler için",
+        "Her insanın doğuştan sahip olduğu, hiç kimse tarafından alınamayan haklardır",
+        "Yalnızca bazı ülkeler için",
+        "Tarihsel bir belgedir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601104",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Bir ülkede anayasa neden gereklidir?",
+      "options": [
+        "Gereksizdir",
+        "Yalnızca seçimler için",
+        "Devletin temel kurallarını ve bireylerin haklarını güvence altına alır",
+        "Yalnızca hükümeti sınırlar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601105",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Birleşmiş Milletler (BM) neden kurulmuştur?",
+      "options": [
+        "Dünya barışını, insan haklarını ve uluslararası işbirliğini korumak için",
+        "Yalnızca spor için",
+        "Yalnızca savaş için",
+        "Yalnızca ekonomi için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601106",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Kültürel çeşitlilik neden zenginliktir?",
+      "options": [
+        "Önemsizdir",
+        "Yalnızca tek kültür olmalı",
+        "Farklılık sorun yaratır",
+        "Farklı bakış açıları ve değerler toplumu güçlendirir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601107",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'nin coğrafi konumu neden önemlidir?",
+      "options": [
+        "Yalnızca iklim için",
+        "Yalnızca sınır için",
+        "Önemsizdir",
+        "Asya ve Avrupa arasındaki stratejik konumu ticareti ve kültürü etkiler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601108",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6",
+      "question": "Türkiye'de hangi din özgürlüğü vardır?",
+      "options": [
+        "Laik yapıyla her inanç serbesttir",
+        "Dini özgürlük yoktur",
+        "Yalnızca devlet dini var",
+        "Yalnızca bir din serbesttir"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

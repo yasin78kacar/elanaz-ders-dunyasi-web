@@ -1,0 +1,797 @@
+{
+  "questions": [
+    {
+      "id": "q1241",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Maddenin üç hali nedir?",
+      "options": [
+        "Sert, yumuşak, sıvı",
+        "Büyük, orta, küçük",
+        "Katı, sıvı, gaz",
+        "Ağır, orta, hafif"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1242",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Buzun hali nedir?",
+      "options": [
+        "Plazma",
+        "Gaz",
+        "Sıvı",
+        "Katı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1243",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Suyun hali nedir?",
+      "options": [
+        "Gaz",
+        "Plazma",
+        "Sıvı",
+        "Katı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1244",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Havanın hali nedir?",
+      "options": [
+        "Plazma",
+        "Gaz",
+        "Sıvı",
+        "Katı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1245",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Su ısıtıldığında ne olur?",
+      "options": [
+        "Renklenir",
+        "Katı olur",
+        "Büyür",
+        "Sıvıdan gaz hale geçer (buharlaşır)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1246",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Su soğutulduğunda ne olur?",
+      "options": [
+        "Renklenir",
+        "Küçülür",
+        "Gaz olur",
+        "Katı hale geçer (donar)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1247",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Buz eridiğinde ne olur?",
+      "options": [
+        "Gaz olur",
+        "Yok olur",
+        "Sıvı hale geçer",
+        "Renklenir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1248",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi madde katı halden sıvı hale geçebilir?",
+      "options": [
+        "Buz",
+        "Mürekkep",
+        "Duman",
+        "Hava"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1249",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Sıvılar şekil alır mı?",
+      "options": [
+        "Evet, kabın şeklini alır",
+        "Hayır, kendi şeklini korur",
+        "Sadece su",
+        "Bazen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1250",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Katılar şekil alır mı?",
+      "options": [
+        "Hayır, kendi şeklini korur",
+        "Sadece buz",
+        "Bazen",
+        "Evet, kabın şeklini alır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1251",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Gazlar hacim kaplar mı?",
+      "options": [
+        "Sadece balonlar",
+        "Evet, her yeri doldurur",
+        "Bazen",
+        "Hayır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1252",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi madde oda sıcaklığında sıvıdır?",
+      "options": [
+        "Buz",
+        "Su",
+        "Taş",
+        "Demir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1253",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi madde oda sıcaklığında katıdır?",
+      "options": [
+        "Hava",
+        "Su",
+        "Duman",
+        "Tahta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1254",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hava madde midir?",
+      "options": [
+        "Bazen",
+        "Sadece temiz hava",
+        "Hayır",
+        "Evet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1255",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Oksijen hangi maddedir?",
+      "options": [
+        "Katı",
+        "Plazma",
+        "Sıvı",
+        "Gaz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1256",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Demir ısıtıldığında ne olur?",
+      "options": [
+        "Erir, sıvı hale gelir",
+        "Küçülür",
+        "Gaz olur",
+        "Büyür"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1257",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Mum yandığında ne olur?",
+      "options": [
+        "Sadece erir",
+        "Katı kalır",
+        "Erir ve gaz çıkar",
+        "Sadece gaz çıkar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1258",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Sıvılar akabilir mi?",
+      "options": [
+        "Bazen",
+        "Sadece su",
+        "Hayır",
+        "Evet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1259",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Katılar akabilir mi?",
+      "options": [
+        "Bazen",
+        "Evet",
+        "Hayır",
+        "Sadece büyük katılar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1260",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Su kaç derecede buharlaşır?",
+      "options": [
+        "50°C",
+        "0°C",
+        "100°C",
+        "200°C"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51024",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi madde hem katı hem sıvı hale gelebilir?",
+      "options": [
+        "Cam",
+        "Taş",
+        "Hava",
+        "Çikolata"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51025",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Buz ile su arasındaki fark nedir?",
+      "options": [
+        "İkisi aynı",
+        "Buz sıcak",
+        "Buz katı, su sıvı",
+        "Renkleri farklı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51026",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi madde doğada gaz haldedir?",
+      "options": [
+        "Buz",
+        "Oksijen",
+        "Tahta",
+        "Demir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51027",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Maddenin sıkıştırılabilmesi hangi halde en kolaydır?",
+      "options": [
+        "Sıvı halde",
+        "Plazma halde",
+        "Gaz halde",
+        "Katı halde"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51028",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Sıvıların akması neden önemlidir?",
+      "options": [
+        "Işık için",
+        "Ses için",
+        "Güzel görünmek için",
+        "Taşıma ve kullanım için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51029",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi katı madde ısı ile kolayca erir?",
+      "options": [
+        "Cam",
+        "Demir",
+        "Balmumu",
+        "Taş"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51030",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Kaynama noktası nedir?",
+      "options": [
+        "Soğuma noktası",
+        "Sıvının gaz haline geçtiği sıcaklık",
+        "Donma noktası",
+        "Erime noktası"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51031",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Donma noktası nedir?",
+      "options": [
+        "Buharlaşma noktası",
+        "Erime noktası",
+        "Sıvının katı hale geçtiği sıcaklık",
+        "Kaynama noktası"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51032",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hacim nedir?",
+      "options": [
+        "Maddenin kapladığı yer",
+        "Maddenin rengi",
+        "Maddenin kokusu",
+        "Maddenin ağırlığı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91026",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Buz hangi haldedir?",
+      "options": [
+        "Sivi",
+        "Kati",
+        "Gaz",
+        "Plazma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91028",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Buhar hangi haldedir?",
+      "options": [
+        "Plazma",
+        "Sivi",
+        "Kati",
+        "Gaz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91030",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Demir hangi haldedir?",
+      "options": [
+        "Kati",
+        "Gaz",
+        "Sivi",
+        "Plazma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91032",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hava hangi haldedir?",
+      "options": [
+        "Gaz",
+        "Kati",
+        "Plazma",
+        "Sivi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91034",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Zeytinyagi hangi haldedir?",
+      "options": [
+        "Kati",
+        "Plazma",
+        "Gaz",
+        "Sivi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91036",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Seker hangi haldedir?",
+      "options": [
+        "Sivi",
+        "Kati",
+        "Plazma",
+        "Gaz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91038",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Tuz hangi haldedir?",
+      "options": [
+        "Gaz",
+        "Kati",
+        "Sivi",
+        "Plazma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91040",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Sut hangi haldedir?",
+      "options": [
+        "Gaz",
+        "Plazma",
+        "Sivi",
+        "Kati"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200721",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Bilim nedir? (Tema 4)",
+      "options": [
+        "Müzik",
+        "Dogayi inceleme ve anlama yöntemi",
+        "Edebiyat",
+        "Sanat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200722",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Deney neden yapilir? (Tema 4)",
+      "options": [
+        "Para kazanmak icin",
+        "Zorunlu oldugu icin",
+        "Hipotezi test etmek ve bilgi üretmek icin",
+        "Eglence icin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200723",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Gözlem nedir? (Tema 4)",
+      "options": [
+        "Duyu organlariyla bilgi toplama",
+        "Deney yapma",
+        "Varsayim yapma",
+        "Rapor yazma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200724",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hipotez nedir? (Tema 4)",
+      "options": [
+        "Denenmemis tahmin veya varsayim",
+        "Onaylanmis kural",
+        "Kesin sonuc",
+        "Bilim yasasi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200725",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Sonuc cikarma ne demektir? (Tema 4)",
+      "options": [
+        "Veri toplamak",
+        "Gözlem yapmak",
+        "Deney yapmak",
+        "Deneyin bulgularini yorumlamak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200726",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Enerji korunumu yasasi ne der? (Tema 4)",
+      "options": [
+        "Enerji azalir",
+        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
+        "Enerji artar",
+        "Enerji yok olur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200727",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hucre nedir? (Tema 4)",
+      "options": [
+        "Doku",
+        "Canliların en kucuk yapısal birimi",
+        "Sistem",
+        "Organ"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200729",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Fotosantez neden önemlidir? (Tema 4)",
+      "options": [
+        "Isi üretir",
+        "Sadece güzel görünür",
+        "Su tüketir",
+        "Oksijen üretir ve besin saglar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200730",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Besin zinciri neden önemlidir? (Tema 4)",
+      "options": [
+        "Ekosistemdeki enerji akisini gösterir",
+        "Para üretir",
+        "Isi saglar",
+        "Guzel görünür"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600944",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Madde nedir?",
+      "options": [
+        "Yalnızca sıvılar",
+        "Yalnızca gazlar",
+        "Yalnızca katı cisimler",
+        "Kütlesi ve hacmi olan her şey"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600945",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Maddenin katı halinin özelliği nedir?",
+      "options": [
+        "Belirsiz hacim ve belirsiz şekil",
+        "Ne hacmi ne şekli var",
+        "Belirli hacim, belirsiz şekil",
+        "Belirli şekil ve belirli hacim"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600946",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Maddenin sıvı halinin özelliği nedir?",
+      "options": [
+        "Uçucu",
+        "İkisi de belirsiz",
+        "Belirli hacim ama kabın şeklini alır",
+        "Hem hacim hem şekil belirli"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600947",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Maddenin gaz halinin özelliği nedir?",
+      "options": [
+        "Belirli şekil var",
+        "Belirli hacim var",
+        "Hem hacim hem şekil belirsiz, bulunduğu kaba yayılır",
+        "Katı gibi davranır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600948",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi madde değişimi fiziksel değişimdir?",
+      "options": [
+        "Ekmek yakmak",
+        "Buz eritmek (suyun hali değişir)",
+        "Demir paslanmak",
+        "Ekmeği kesmek (şekli değişir ama maddesi aynı)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600949",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi madde değişimi kimyasal değişimdir?",
+      "options": [
+        "Camı kırmak",
+        "Kâğıdı kesmek",
+        "Buzu eritmek",
+        "Demir paslanmak (farklı madde oluşur)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600950",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Çözünme nedir?",
+      "options": [
+        "Bir maddenin başka bir maddede dağılması",
+        "Maddenin donması",
+        "Maddenin katılaşması",
+        "Maddenin buharlaşması"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600951",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Şeker suda çözündüğünde ne olur?",
+      "options": [
+        "Şeker görünmez ama hâlâ suda vardır (tat verir)",
+        "Şeker katılaşır",
+        "Şeker yok olur",
+        "Su bozulur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600952",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Hangi madde suda çözünmez?",
+      "options": [
+        "Tuz",
+        "Şeker",
+        "Nişasta (kısmen)",
+        "Zeytinyağı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600953",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Erime ve çözünme arasındaki fark nedir?",
+      "options": [
+        "Erime hal değişimidir, çözünme bir maddenin diğerinde dağılmasıdır",
+        "İkisi aynı şeydir",
+        "Çözünme hal değişimidir",
+        "Erime kimyasal değişimdir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600954",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Buz ısıtıldığında ne olur?",
+      "options": [
+        "Buharlaşır",
+        "Kaybolur",
+        "Donar",
+        "Erir ve suya (sıvıya) dönüşür"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600955",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Su kaynayınca ne olur?",
+      "options": [
+        "Buharlaşarak su buharına (gaz) dönüşür",
+        "Donar",
+        "Çözünür",
+        "Katılaşır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600956",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Su buharı soğuyunca ne olur?",
+      "options": [
+        "Yoğunlaşarak suya döner",
+        "Erir",
+        "Kaybolur",
+        "Donar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600957",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Madde korunur mu?",
+      "options": [
+        "Bazen yok olur",
+        "Evet, madde yok olmaz, dönüşür",
+        "Hayır, yok olabilir",
+        "Sadece gazlar yok olur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600958",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4",
+      "question": "Demirin paslanması hangi tür değişimdir?",
+      "options": [
+        "Elektriksel",
+        "Kimyasal (yeni madde oluşur: pas=demir oksit)",
+        "Isısal",
+        "Fiziksel"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

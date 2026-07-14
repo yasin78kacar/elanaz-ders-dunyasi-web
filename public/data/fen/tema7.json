@@ -1,0 +1,693 @@
+{
+  "questions": [
+    {
+      "id": "q1303",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hava kirliliği nasıl oluşur?",
+      "options": [
+        "Güneş batmasıyla",
+        "Rüzgar esmesiyle",
+        "Yağmur yağmasıyla",
+        "Zararlı maddelerin havaya karışmasıyla"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1305",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Kar nedir?",
+      "options": [
+        "Buz parçaları",
+        "Beyaz toz",
+        "Soğuk hava",
+        "Donmuş su kristalleri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1306",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Dolu nedir?",
+      "options": [
+        "Yağmur",
+        "Kar",
+        "Sert buz küçük topları",
+        "Su buharı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1307",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Bulut neyden oluşur?",
+      "options": [
+        "Dumandan",
+        "Kustan",
+        "Gazdan",
+        "Su ve buz kristallerinden"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1308",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Sis nedir?",
+      "options": [
+        "Yere yakın küçük su damlacıkları",
+        "Duman",
+        "Kar",
+        "Toz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1309",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Rüzgar neden oluşur?",
+      "options": [
+        "Güneşten doğrudan",
+        "Denizlerden",
+        "Ağaçlardan",
+        "Sıcak ve soğuk hava basınç farkından"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1310",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Fırtına nedir?",
+      "options": [
+        "Kar fırtınası",
+        "Sıcak hava",
+        "Hafif yağmur",
+        "Kuvvetli rüzgar, yağmur ve şimşekli hava"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1311",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hava durumunu kim tahmin eder?",
+      "options": [
+        "Coğrafyacı",
+        "Biyolog",
+        "Meteorolog",
+        "Kimyager"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1312",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Termometre ne ölçer?",
+      "options": [
+        "Nem",
+        "Rüzgar hızı",
+        "Sıcaklık",
+        "Yağış"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1313",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Barometre ne ölçer?",
+      "options": [
+        "Nem",
+        "Sıcaklık",
+        "Rüzgar hızı",
+        "Hava basıncı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1314",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Yağmurölçer ne ölçer?",
+      "options": [
+        "Rüzgar",
+        "Nem",
+        "Yağış miktarı",
+        "Sıcaklık"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1315",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "İklim nedir?",
+      "options": [
+        "Günlük hava",
+        "Saatlik hava",
+        "Uzun yıllar ortalaması alınan hava durumu",
+        "Aylık hava"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1316",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Ekvator çevresinde hava genellikle nasıldır?",
+      "options": [
+        "Ilık ve kuru",
+        "Soğuk ve kuru",
+        "Soğuk ve nemli",
+        "Sıcak ve nemli"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1317",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Kutuplarda hava genellikle nasıldır?",
+      "options": [
+        "Sıcak",
+        "Çok soğuk",
+        "Yağmurlu",
+        "Ilık"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1318",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Ozon tabakası ne işe yarar?",
+      "options": [
+        "Oksijen üretir",
+        "Zararlı UV ışınlarına karşı korur",
+        "Sıcaklık sağlar",
+        "Yağmur oluşturur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1319",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Sera etkisi ne demektir?",
+      "options": [
+        "Sera içinde ısınma",
+        "Kışın soğuma",
+        "Dünya'nın ısının tutulması",
+        "Yaz sıcağı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51054",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hava kirliliği nasıl önlenir?",
+      "options": [
+        "Daha fazla araba kullanmak",
+        "Orman kesmek",
+        "Elektrikli araç, ağaç dikme, sanayi denetimi",
+        "Çöp yakmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51055",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Meteoroloji ne demektir?",
+      "options": [
+        "Toprak bilimleri",
+        "Uzay bilimleri",
+        "Hava olaylarını inceleyen bilim dalı",
+        "Su bilimleri"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51056",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hava nemi neden önemlidir?",
+      "options": [
+        "Canlıların su ihtiyacını etkiler",
+        "Işık için",
+        "Ses için",
+        "Güzel görünmek için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51057",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Kasırga nedir?",
+      "options": [
+        "Çok kuvvetli dönen fırtına",
+        "Kar fırtınası",
+        "Hafif yağmur",
+        "Sis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51058",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Tufan nedir?",
+      "options": [
+        "Sıcaklık artışı",
+        "Kuvvetli rüzgar",
+        "Kar fırtınası",
+        "Aşırı yağmur ve seller"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51059",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hava ile iklim farkı nedir?",
+      "options": [
+        "Fark yok",
+        "Hava anlık, iklim uzun dönem ortalaması",
+        "Hava kalıcı, iklim geçici",
+        "İkisi aynıdır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51061",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Güneş enerjisi hava durumunu etkiler mi?",
+      "options": [
+        "Evet, ısıtma ve buharlaşma ile",
+        "Sadece yazın",
+        "Hayır",
+        "Bazen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51062",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Yağışın türleri nelerdir?",
+      "options": [
+        "Sadece kar",
+        "Sadece dolu",
+        "Sadece yağmur",
+        "Yağmur, kar, dolu, çiğ"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51063",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "El Niño nedir?",
+      "options": [
+        "Bir yağış türü",
+        "Bir rüzgar çeşidi",
+        "Pasifik Okyanusu sıcaklığındaki değişim",
+        "Bir fırtına türü"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91071",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "\"Hava küresi\" nedir?",
+      "options": [
+        "Günes",
+        "Toprak",
+        "Ay",
+        "Dünyanin atmosferi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91072",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "\"Atmosfer\" nedir?",
+      "options": [
+        "İklim",
+        "Yercekimi",
+        "Dünyayi saran gaz tabakasi",
+        "Ozon tabakasi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91074",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "\"Hava durumu\" nedir?",
+      "options": [
+        "Anlık atmosfer kosullari",
+        "Mevsim",
+        "Yağış ortalaması",
+        "Iklim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91075",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "\"Bulut\" nedir?",
+      "options": [
+        "Su buharinin yogunlasmasi ile olusan",
+        "Duman",
+        "Gaz",
+        "Sis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200751",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Bilim nedir? (Tema 7)",
+      "options": [
+        "Müzik",
+        "Edebiyat",
+        "Sanat",
+        "Dogayi inceleme ve anlama yöntemi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200752",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Deney neden yapilir? (Tema 7)",
+      "options": [
+        "Eglence icin",
+        "Para kazanmak icin",
+        "Hipotezi test etmek ve bilgi üretmek icin",
+        "Zorunlu oldugu icin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200753",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Gözlem nedir? (Tema 7)",
+      "options": [
+        "Varsayim yapma",
+        "Deney yapma",
+        "Duyu organlariyla bilgi toplama",
+        "Rapor yazma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200754",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hipotez nedir? (Tema 7)",
+      "options": [
+        "Kesin sonuc",
+        "Denenmemis tahmin veya varsayim",
+        "Onaylanmis kural",
+        "Bilim yasasi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200755",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Sonuc cikarma ne demektir? (Tema 7)",
+      "options": [
+        "Deney yapmak",
+        "Deneyin bulgularini yorumlamak",
+        "Veri toplamak",
+        "Gözlem yapmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200756",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Enerji korunumu yasasi ne der? (Tema 7)",
+      "options": [
+        "Enerji artar",
+        "Enerji yok olur",
+        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
+        "Enerji azalir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200757",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hucre nedir? (Tema 7)",
+      "options": [
+        "Sistem",
+        "Organ",
+        "Doku",
+        "Canliların en kucuk yapısal birimi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200759",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Fotosantez neden önemlidir? (Tema 7)",
+      "options": [
+        "Oksijen üretir ve besin saglar",
+        "Su tüketir",
+        "Isi üretir",
+        "Sadece güzel görünür"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200760",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Besin zinciri neden önemlidir? (Tema 7)",
+      "options": [
+        "Ekosistemdeki enerji akisini gösterir",
+        "Guzel görünür",
+        "Para üretir",
+        "Isi saglar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600989",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Dünya'nın şekli nedir?",
+      "options": [
+        "Küreye benzeyen geoid (kutuplardan basık)",
+        "Düz",
+        "Elips",
+        "Tam küre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600990",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Yer kabuğu nedir?",
+      "options": [
+        "İç katman",
+        "Manto",
+        "Çekirdek",
+        "Dünya'nın en dış katmanı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600991",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Mantle (Manto) nedir?",
+      "options": [
+        "Yer kabuğunun altındaki kısmen erimiş kayaç tabakası",
+        "Çekirdek",
+        "Atmosfer",
+        "Yer kabuğu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600992",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Çekirdek nedir?",
+      "options": [
+        "Yer kabuğu",
+        "Manto",
+        "Atmosfer",
+        "Dünya'nın merkezindeki çok sıcak katman"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600993",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Levha tektoniği nedir?",
+      "options": [
+        "Yer kabuğunun hareketli parçaları (levhalar)",
+        "Okyanus oluşumu",
+        "Atmosfer",
+        "Manto"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600994",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Deprem nasıl oluşur?",
+      "options": [
+        "Levhaların birbirine sürtünmesi ya da kırılması",
+        "Volkanik patlama",
+        "Sel",
+        "Fırtına"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600995",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Volkan neden patlar?",
+      "options": [
+        "Sellden",
+        "Yer altındaki magmanın basınç yaparak yüzeye çıkması",
+        "İklimden",
+        "Depremden"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600996",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Erozyon neden tehlikelidir?",
+      "options": [
+        "Verimli toprak tabakasını aşındırarak tarım alanlarını azaltır",
+        "Zararlı değildir",
+        "Toprağı zenginleştirir",
+        "Suyu artırır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600997",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hava durumu ile iklim arasındaki fark nedir?",
+      "options": [
+        "Aynı şeydir",
+        "Hava daha uzun sürer",
+        "Hava durumu anlık, iklim uzun dönem ortalamasıdır",
+        "İklim daha kısadır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600998",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Okyanus akıntıları neden önemlidir?",
+      "options": [
+        "Sadece balık taşır",
+        "Önemsizdir",
+        "İklimi dengeler, besin ve ısıyı taşır",
+        "Sadece su taşır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600999",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Güneş tutulması nedir?",
+      "options": [
+        "Bulutların kapanması",
+        "Güneş'in sönmesi",
+        "Ay'ın Güneş ile Dünya arasına girerek Güneşi kapatması",
+        "Dünya'nın Ay'ı kapatması"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601000",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Ay tutulması nedir?",
+      "options": [
+        "Bulutların kapanması",
+        "Ay'ın Güneşi kapatması",
+        "Güneş'in sönmesi",
+        "Dünya'nın Ay ile Güneş arasına girerek Ay'ı karartması"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601001",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Dünya'dan en yakın yıldız nedir?",
+      "options": [
+        "Vega",
+        "Güneş",
+        "Proxima Centauri",
+        "Sirius"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601002",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Ozon tabakası neden önemlidir?",
+      "options": [
+        "Yağmur yağdırır",
+        "Isı depolar",
+        "Oksijen üretir",
+        "Zararlı UV ışınlarına karşı canlıları korur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601003",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Hangi gaz sera etkisine en çok katkı sağlar?",
+      "options": [
+        "Argon (Ar)",
+        "Azot (N₂)",
+        "Karbondioksit (CO₂)",
+        "Oksijen (O₂)"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "questions": [
+    {
+      "id": "q1016",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Cümlenin başına ne gelir?",
+      "options": [
+        "Büyük harf",
+        "Nokta",
+        "Virgül",
+        "Küçük harf"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1018",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Soru cümlesinin sonuna ne gelir?",
+      "options": [
+        "Soru işareti (?)",
+        "Virgül (,)",
+        "Ünlem (!)",
+        "Nokta (.)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1020",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Aşağıdakilerden hangisi bir isimdir?",
+      "options": [
+        "Güzel",
+        "Hızlı",
+        "Kalem",
+        "Koşmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1021",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Aşağıdakilerden hangisi bir eylemdir?",
+      "options": [
+        "Koşmak",
+        "Büyük",
+        "Masa",
+        "Hızlı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1023",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Ali ___ oynuyor.' Boşluğa ne gelmelidir?",
+      "options": [
+        "güzel",
+        "top",
+        "koşarak",
+        "yavaş"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1024",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Hangi cümle soru cümlesidir?",
+      "options": [
+        "Güzel bir gün!",
+        "Nereye gidiyorsun?",
+        "Koş!",
+        "Okula gidiyorum."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1026",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Annem bana _____ aldı.' Boşluğa hangi kelime uygundur?",
+      "options": [
+        "büyük",
+        "uyumak",
+        "çikolata",
+        "hızlı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1027",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Kedi masanın ___ yatıyor.' Boşluğa ne gelmelidir?",
+      "options": [
+        "hızlı",
+        "güzel",
+        "üstünde",
+        "koşarak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1028",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Aşağıdaki cümlelerin hangisi anlamlıdır?",
+      "options": [
+        "Çocuklar hızlı bahçede.",
+        "Oynuyor bahçede.",
+        "Bahçede oynuyor çocuklar hızlı.",
+        "Çocuklar bahçede oynuyor."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1030",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Cümlenin yüklemi genellikle nerede olur?",
+      "options": [
+        "Her yerde",
+        "Sonda",
+        "Başta",
+        "Ortada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1031",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Elanaz _____ gidiyor.' Boşluğa ne gelir?",
+      "options": [
+        "hızlı",
+        "okula",
+        "koşmak",
+        "güzel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1032",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Sarı' kelimesi ne tür bir sözcüktür?",
+      "options": [
+        "Eylem",
+        "İsim",
+        "Renk sıfatı",
+        "Bağlaç"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1034",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Çünkü' hangi görev sözcüğüdür?",
+      "options": [
+        "Zamir",
+        "Eylem",
+        "Bağlaç",
+        "Sıfat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1035",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Özne cümlenin neyi ifade eder?",
+      "options": [
+        "Ne yapıldığını",
+        "Nereye gidildiğini",
+        "Kimin/neyin yaptığını",
+        "Ne zaman yapıldığını"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1036",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Hızlı arabalar yolda gidiyordu.' cümlesinde özne nedir?",
+      "options": [
+        "Arabalar",
+        "Yolda",
+        "Gidiyordu",
+        "Hızlı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1037",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Çiçekler açtı.' cümlesinde yüklem nedir?",
+      "options": [
+        "Açtı",
+        "Güzel",
+        "Bahçede",
+        "Çiçekler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1038",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Sarı kedi uyuyor.' cümlesinde sıfat hangisidir?",
+      "options": [
+        "Sarı",
+        "Var",
+        "Uyuyor",
+        "Kedi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1039",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "'Ali parkta koştu.' cümlesinde zarf nerede ifade edilmektedir?",
+      "options": [
+        "Koştu",
+        "Ali",
+        "Bir",
+        "Parkta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1040",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Ünlem işareti (!) ne zaman kullanılır?",
+      "options": [
+        "Heyecan veya seslenme cümlelerinde",
+        "Her cümlenin sonunda",
+        "Soru sormada",
+        "Virgül yerine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50914",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Bir cümlenin sonuna hangi noktalama gelir?",
+      "options": [
+        "Ünlem",
+        "Soru işareti",
+        "Nokta (.)",
+        "Virgül"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50915",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Koşuyorum.\" cümlesinde özne nedir?",
+      "options": [
+        "Nereye",
+        "Hızlı",
+        "Koşuyorum",
+        "Ben (gizli özne)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50916",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Kedi uyuyor.\" cümlesinde yüklem nedir?",
+      "options": [
+        "Uyuyor",
+        "Kedi",
+        "Güzel",
+        "Masada"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50918",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Mavi araba.\" bir cümle midir?",
+      "options": [
+        "Evet",
+        "Sadece soru cümlesi",
+        "Hayır, yüklem yoktur",
+        "Bazen cümledir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50919",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Cümlenin yüklemi her zaman sonda mı gelir?",
+      "options": [
+        "Genellikle evet",
+        "Her zaman",
+        "Hiçbir zaman",
+        "Sadece soru cümlelerinde"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50920",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Anneme çiçek verdim.\" cümlesindeki nesne?",
+      "options": [
+        "Verdim",
+        "Anne",
+        "Çiçek",
+        "Ben"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50921",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Hangi kelime eylemdir?",
+      "options": [
+        "Yarın",
+        "Masa",
+        "Yürümek",
+        "Büyük"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50922",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Hangi kelime isimdir?",
+      "options": [
+        "Çabuk",
+        "Güzel",
+        "Koşmak",
+        "Çiçek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50923",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Hangi kelime sıfattır?",
+      "options": [
+        "Yeşil",
+        "Araba",
+        "Koşmak",
+        "Neden"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90826",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Ali topu atti.\" cumlesinde \"topu\" hangi görevdedir?",
+      "options": [
+        "yüklem",
+        "baglaç",
+        "nesne",
+        "özne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90827",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Annem yemek pisirdi.\" cumlesinde \"pisirdi\" hangi görevdedir?",
+      "options": [
+        "nesne",
+        "baglaç",
+        "yüklem",
+        "özne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90828",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Köpek bahçede kosuyor.\" cumlesinde \"bahçede\" hangi görevdedir?",
+      "options": [
+        "nesne",
+        "baglaç",
+        "yer tamlayicisi",
+        "özne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90829",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Ögretmen tahtaya yazdi.\" cumlesinde \"yazdi\" hangi görevdedir?",
+      "options": [
+        "nesne",
+        "baglaç",
+        "yüklem",
+        "özne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90831",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Günes dogudaon dogar.\" cumlesinde \"dogar\" hangi görevdedir?",
+      "options": [
+        "özne",
+        "yüklem",
+        "baglaç",
+        "nesne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90832",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Çocuklar parkta oynadi.\" cumlesinde \"parkta\" hangi görevdedir?",
+      "options": [
+        "yüklem",
+        "özne",
+        "yer tamlayicisi",
+        "baglaç"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90833",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Babam bize hediye aldi.\" cumlesinde \"hediye\" hangi görevdedir?",
+      "options": [
+        "baglaç",
+        "nesne",
+        "yüklem",
+        "özne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90834",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Kedi yavrusunu emziriyor.\" cumlesinde \"yavrusunu\" hangi görevdedir?",
+      "options": [
+        "nesne",
+        "yüklem",
+        "baglaç",
+        "özne"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90837",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Nesne cumlenin hangi ogesidir?",
+      "options": [
+        "Yuklem",
+        "Zarf",
+        "Eylemin etkiledigi varlik",
+        "Ozne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90838",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Hangi cumle soru cumlesidir?",
+      "options": [
+        "Nereye gidiyorsun?",
+        "Koş!",
+        "Güzel bir gun!",
+        "Okula gidiyorum."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600804",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Türkçede cümle kaç tür olabilir?",
+      "options": [
+        "Yalnızca isim cümlesi",
+        "Yalnızca fiil cümlesi",
+        "İsim cümlesi ve fiil cümlesi",
+        "Emir ve soru cümlesi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600805",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Fiil cümlesi nedir?",
+      "options": [
+        "Özne içermeyen cümle",
+        "Yüklemi isim olan cümle",
+        "İsim tamlaması içeren cümle",
+        "Yüklemi fiil olan cümle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600806",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "İsim cümlesi nedir?",
+      "options": [
+        "Yüklemi isim ya da isim soylu sözcük olan cümle",
+        "Öznesiz cümle",
+        "Yüklemi fiil olan cümle",
+        "İsim tamlaması içeren cümle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600807",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Olumlu cümle nedir?",
+      "options": [
+        "Emir veren cümle",
+        "Soru soran cümle",
+        "Eylemin gerçekleştiğini bildiren cümle",
+        "Eylemin gerçekleşmediğini bildiren cümle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600808",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Olumsuz cümle nedir?",
+      "options": [
+        "Emir veren cümle",
+        "Eylemin gerçekleşmediğini bildiren cümle",
+        "Soru soran cümle",
+        "Eylemin gerçekleştiğini bildiren cümle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600809",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Soru cümlesi nasıl oluşturulur?",
+      "options": [
+        "İsim ekleyerek",
+        "Cümleyi kısaltarak",
+        "Cümle başına soru kelimesi ekleyerek",
+        "Cümle sonuna soru işareti koyarak ya da -mi eki ekleyerek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600810",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Bir metinde paragraf değişimi ne zaman yapılır?",
+      "options": [
+        "10 kelimeden sonra",
+        "Her cümleden sonra",
+        "Fiil bittiğinde",
+        "Konu ya da düşünce değiştiğinde"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600811",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Metin türleri arasında hikâye hangi özelliktedir?",
+      "options": [
+        "Kurgu içeren, kısa anlatı türü",
+        "Uzun şiir türü",
+        "Günlük yazı",
+        "Bilgi veren yazı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600812",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Bir şiirde dize ne demektir?",
+      "options": [
+        "Şiirin teması",
+        "Şiirin her bir satırı",
+        "Şiirin konusu",
+        "Şiirin tamamı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600813",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Şiirde uyak ne demektir?",
+      "options": [
+        "Şiirin anlamı",
+        "Satır uzunluğu",
+        "Satır sonlarındaki ses benzerliği",
+        "Şiirin ritmi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600814",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Metin sorusu: Ana fikir nedir?",
+      "options": [
+        "Başlık",
+        "Yalnızca son paragraftaki düşünce",
+        "Metnin tamamını kapsayan temel düşünce",
+        "Yalnızca ilk cümle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600815",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Yardımcı fikir nedir?",
+      "options": [
+        "Ana fikrin kendisi",
+        "Başlık",
+        "Ana fikri destekleyen yan düşünceler",
+        "Son paragraf"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600816",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Okuma alışkanlığı neden önemlidir?",
+      "options": [
+        "Öğretmen istediği için",
+        "Zorunlu bir görev olduğu için",
+        "Dil gelişimi, kelime haznesi ve düşünme becerisini artırır",
+        "Sadece ders notu almak için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600817",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Paragrafta ana fikir genellikle nerededir?",
+      "options": [
+        "İlk veya son cümlede",
+        "Başlıkta",
+        "Her cümlede",
+        "Ortada"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600818",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "Bir konuşma metninde konuşan kişi nasıl gösterilir?",
+      "options": [
+        "Köşeli parantez ile",
+        "Yıldız işaretiyle",
+        "Kısa çizgi (-) ya da isim ile",
+        "Parantez ile"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800566",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Hava bugün çok güzel.\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Olumsuz cümle",
+        "Olumlu cümle",
+        "Emir cümlesi",
+        "Soru cümlesi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800567",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Hava bugün güzel değil.\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Olumlu cümle",
+        "Soru cümlesi",
+        "Olumsuz cümle",
+        "Emir cümlesi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800568",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Bugün hava nasıl?\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Olumlu cümle",
+        "Olumsuz cümle",
+        "Emir cümlesi",
+        "Soru cümlesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800569",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Pencereyi kapat!\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Soru cümlesi",
+        "Olumlu cümle",
+        "Emir cümlesi",
+        "Olumsuz cümle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800570",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Keşke tatil olsaydı.\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Olumlu cümle",
+        "Dilek cümlesi",
+        "Soru cümlesi",
+        "Emir cümlesi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800571",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Maşallah, ne güzel resim!\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Emir cümlesi",
+        "Olumlu cümle",
+        "Ünlem cümlesi",
+        "Soru cümlesi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800572",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Ali kitap okuyor.\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Fiil cümlesi",
+        "Soru cümlesi",
+        "Emir cümlesi",
+        "İsim cümlesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800573",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Ali çok çalışkan biri.\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Soru cümlesi",
+        "İsim cümlesi",
+        "Fiil cümlesi",
+        "Emir cümlesi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800574",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Nereye gidiyorsun?\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Soru cümlesi",
+        "Fiil cümlesi",
+        "Emir cümlesi",
+        "İsim cümlesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800575",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Lütfen sessiz olun!\" cümlesi hangi tür bir cümledir?",
+      "options": [
+        "Emir cümlesi",
+        "İsim cümlesi",
+        "Olumlu cümle",
+        "Soru cümlesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800576",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Çocuklar bahçede oynuyor.\" cümlesinde \"Çocuklar\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "özne",
+        "nesne",
+        "yüklem",
+        "yer tamlayıcısı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800577",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Çocuklar bahçede oynuyor.\" cümlesinde \"oynuyor\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "yer tamlayıcısı",
+        "yüklem",
+        "nesne",
+        "özne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800578",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Çocuklar bahçede oynuyor.\" cümlesinde \"bahçede\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "yüklem",
+        "yer tamlayıcısı",
+        "nesne",
+        "özne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800579",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Annem güzel yemek pişiriyor.\" cümlesinde \"Annem\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "nesne",
+        "yüklem",
+        "zaman",
+        "özne"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800580",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Annem güzel yemek pişiriyor.\" cümlesinde \"yemek\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "nesne",
+        "özne",
+        "yer tamlayıcısı",
+        "yüklem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800581",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Öğretmen tahtaya güzel resim çizdi.\" cümlesinde \"Öğretmen\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "tamlayıcı",
+        "yüklem",
+        "özne",
+        "nesne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800582",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Öğretmen tahtaya güzel resim çizdi.\" cümlesinde \"çizdi\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "özne",
+        "yüklem",
+        "tamlayıcı",
+        "nesne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800583",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Öğretmen tahtaya güzel resim çizdi.\" cümlesinde \"tahtaya\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "yüklem",
+        "dolaylı tümleç (yönelme)",
+        "özne",
+        "nesne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800584",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Kardeşim sabah erken kalktı.\" cümlesinde \"Kardeşim\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "özne",
+        "zaman tamlayıcısı",
+        "nesne",
+        "yüklem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800585",
+      "subject": "Türkçe",
+      "theme": "Tema 3",
+      "question": "\"Kardeşim sabah erken kalktı.\" cümlesinde \"sabah\" sözcüğü hangi cümle öğesidir?",
+      "options": [
+        "nesne",
+        "özne",
+        "yüklem",
+        "zaman tamlayıcısı"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

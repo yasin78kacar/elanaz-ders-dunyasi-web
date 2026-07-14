@@ -1,0 +1,667 @@
+{
+  "questions": [
+    {
+      "id": "q1281",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Işık neden kaynaklar?",
+      "options": [
+        "Güneş, lamba, ateş",
+        "Toprak",
+        "Su",
+        "Taş"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1282",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Işık hızı yaklaşık kaçtır?",
+      "options": [
+        "300 km/saniye",
+        "3.000 km/saniye",
+        "300.000 km/saniye",
+        "30.000 km/saniye"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1285",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hangi ortamda ses yayılmaz?",
+      "options": [
+        "Suda",
+        "Havada",
+        "Katı maddelerde",
+        "Boşlukta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1286",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Yansıma ne demektir?",
+      "options": [
+        "Işığın düz yüzeyden geri dönmesi",
+        "Işığın dağılması",
+        "Işığın emilmesi",
+        "Işığın kırılması"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1287",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Ayna hangi tür yüzeydir?",
+      "options": [
+        "Mat",
+        "Pürüzlü",
+        "Şeffaf",
+        "Düzgün ve parlak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1288",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Prizma ışığı nasıl değiştirir?",
+      "options": [
+        "Yansıtır",
+        "Söndürür",
+        "Büyütür",
+        "Gökkuşağı renklerine ayırır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1289",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Gökkuşağının renkleri kaç tanedir?",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1292",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Karanlık bir odada görebilir miyiz?",
+      "options": [
+        "Hayır",
+        "Gözlerimiz ısınırsa",
+        "Evet",
+        "Bazen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1294",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Sabun köpükleri neden renkli görünür?",
+      "options": [
+        "Işığı kırarak renklere ayırır",
+        "Sabun renklidir",
+        "Köpük boyalıdır",
+        "Hava renklidir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1295",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Güneş ışığı tek renk midir?",
+      "options": [
+        "Evet",
+        "Hayır, 7 renk içerir",
+        "Sadece beyaz",
+        "Sadece sarı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1296",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hangi renk en kısa dalga boyuna sahiptir?",
+      "options": [
+        "Sarı",
+        "Kırmızı",
+        "Yeşil",
+        "Mor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1297",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hangi renk en uzun dalga boyuna sahiptir?",
+      "options": [
+        "Yeşil",
+        "Mavi",
+        "Kırmızı",
+        "Mor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1298",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Fısıltı hangi tür sestir?",
+      "options": [
+        "Alçak sesli",
+        "Orta sesli",
+        "Yüksek sesli",
+        "Tiz sesli"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1299",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Kulağımız neyi algılar?",
+      "options": [
+        "Isıyı",
+        "Kokuyu",
+        "Işığı",
+        "Sesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1300",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Gözümüz neyi algılar?",
+      "options": [
+        "Sesi",
+        "Işığı",
+        "Kokuyu",
+        "Isıyı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51044",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Ayna düz mü yoksa eğri mi olabilir?",
+      "options": [
+        "Sadece düz",
+        "Ne düz ne eğri",
+        "Sadece eğri",
+        "Her ikisi de"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51045",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Şeffaf, yarı şeffaf ve opak farkları nedir?",
+      "options": [
+        "Renk farklı",
+        "Büyüklük farklı",
+        "Geçirgenlik derecesi farklı",
+        "Ağırlık farklı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51046",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hangi nesne ışığı geçirir?",
+      "options": [
+        "Tahta",
+        "Tuğla",
+        "Metal",
+        "Cam"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51047",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hangi nesne ışığı geçirmez?",
+      "options": [
+        "Cam",
+        "Su",
+        "Tül perde",
+        "Tuğla duvar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51048",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Güneş ışığı neden hayat için önemlidir?",
+      "options": [
+        "Ses için",
+        "Enerji, ısı ve fotosentez sağlar",
+        "Güzel görünmek için",
+        "Renk için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51050",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Şimşek ve gök gürültüsü arasında neden gecikme var?",
+      "options": [
+        "Gök gürültüsü önce oluşur",
+        "Gecikme yoktur",
+        "İkisi aynı anda duyulur",
+        "Işık sesten hızlıdır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51052",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Kulağımız ne tür bir organdır?",
+      "options": [
+        "Işık algılayan",
+        "Tat algılayan",
+        "Koku algılayan",
+        "Ses algılayan duyu organı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91059",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "\"Isigin yansimasi\" nedir?",
+      "options": [
+        "Isigin bir yuzeyden geri donmesi",
+        "Dagılma",
+        "Isigin kirılması",
+        "Isigin emilmesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91060",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "\"Isigin bir yuzeyden ...\" hangi kavrami aciklar?",
+      "options": [
+        "Isigin emilmesi",
+        "Dagılma",
+        "Isigin yansimasi",
+        "Isigin kirılması"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91061",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "\"Isigin kirılması\" nedir?",
+      "options": [
+        "Emilme",
+        "Isigin bir ortamdan digerine gécerken yon degistirmesi",
+        "Dagılma",
+        "Yansima"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91062",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "\"Isigin bir ortamdan ...\" hangi kavrami aciklar?",
+      "options": [
+        "Isigin kirılması",
+        "Dagılma",
+        "Yansima",
+        "Emilme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91068",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "\"Yagmur damlalarinin ...\" hangi kavrami aciklar?",
+      "options": [
+        "Gokkusagi",
+        "Yildirim",
+        "Bulut",
+        "Sis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200741",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Bilim nedir? (Tema 6)",
+      "options": [
+        "Edebiyat",
+        "Dogayi inceleme ve anlama yöntemi",
+        "Müzik",
+        "Sanat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200742",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Deney neden yapilir? (Tema 6)",
+      "options": [
+        "Zorunlu oldugu icin",
+        "Para kazanmak icin",
+        "Eglence icin",
+        "Hipotezi test etmek ve bilgi üretmek icin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200743",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Gözlem nedir? (Tema 6)",
+      "options": [
+        "Rapor yazma",
+        "Deney yapma",
+        "Varsayim yapma",
+        "Duyu organlariyla bilgi toplama"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200744",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hipotez nedir? (Tema 6)",
+      "options": [
+        "Onaylanmis kural",
+        "Denenmemis tahmin veya varsayim",
+        "Kesin sonuc",
+        "Bilim yasasi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200745",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Sonuc cikarma ne demektir? (Tema 6)",
+      "options": [
+        "Deneyin bulgularini yorumlamak",
+        "Gözlem yapmak",
+        "Deney yapmak",
+        "Veri toplamak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200746",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Enerji korunumu yasasi ne der? (Tema 6)",
+      "options": [
+        "Enerji yok olur",
+        "Enerji azalir",
+        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
+        "Enerji artar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200747",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hucre nedir? (Tema 6)",
+      "options": [
+        "Doku",
+        "Organ",
+        "Canliların en kucuk yapısal birimi",
+        "Sistem"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200749",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Fotosantez neden önemlidir? (Tema 6)",
+      "options": [
+        "Oksijen üretir ve besin saglar",
+        "Isi üretir",
+        "Su tüketir",
+        "Sadece güzel görünür"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200750",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Besin zinciri neden önemlidir? (Tema 6)",
+      "options": [
+        "Ekosistemdeki enerji akisini gösterir",
+        "Isi saglar",
+        "Guzel görünür",
+        "Para üretir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600974",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Işık neden gölge oluşturur?",
+      "options": [
+        "Işık bükülür",
+        "Gölge yoktur",
+        "Işık düz ilerler ve geçirgen olmayan cisimler ışığı engeller",
+        "Işık yavaşlar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600975",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Ses nasıl oluşur?",
+      "options": [
+        "Işığın yansıması ile",
+        "Cisimlerin titreşimi ile",
+        "Suyun akması ile",
+        "Rüzgarın ekmesi ile"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600976",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Ses boşlukta ilerleyebilir mi?",
+      "options": [
+        "Sadece havada ilerler",
+        "Sadece suda ilerler",
+        "Evet, her ortamda ilerler",
+        "Hayır, ses boşlukta ilerleyemez"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600977",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Sesin en hızlı ilerlediği ortam hangisidir?",
+      "options": [
+        "Katı cisimler",
+        "Gaz",
+        "Boşluk",
+        "Sıvı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600978",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Yankı nedir?",
+      "options": [
+        "Sesin bir yüzeyden yansıması",
+        "Sesin yutulması",
+        "Sesin kaybolması",
+        "Sesin zayıflaması"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600979",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Saydam, yarı saydam, saydam olmayan nedir?",
+      "options": [
+        "Sadece katılar",
+        "Hepsi aynı",
+        "Sadece gazlar",
+        "Cam (saydam), buzlu cam (yarı saydam), kerpiç (saydam olmayan)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600980",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Ayna neden görüntü oluşturur?",
+      "options": [
+        "Parlak rengi için",
+        "Ağır olduğu için",
+        "Düzgün yüzeyi ışığı düzgün yansıtır",
+        "Cam olduğu için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600981",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Teleskop ne işe yarar?",
+      "options": [
+        "Sesi büyütmek",
+        "Kokuyu algılamak",
+        "Uzak nesneleri büyütüp yakın göstermek",
+        "Sıcaklığı ölçmek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600982",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Mikroskop ne işe yarar?",
+      "options": [
+        "Uzaktaki nesneleri görmek",
+        "Gözle görülemeyen çok küçük nesneleri büyütmek",
+        "Kimyasal madde belirlemek",
+        "Sesi ölçmek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600983",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Renkli ışık prizmayla nasıl elde edilir?",
+      "options": [
+        "Sadece lazer ile",
+        "Sadece güneşten",
+        "Beyaz ışık prizmadan geçince 7 renge ayrılır (tayfına göre)",
+        "Her renkli cisimden"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600984",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Ses şiddeti neyle ölçülür?",
+      "options": [
+        "Metre",
+        "Newton",
+        "Kelvin",
+        "Desibel (dB) birimiyle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600985",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hangi frekans insanlar tarafından duyulamaz?",
+      "options": [
+        "20 Hz'den düşük ya da 20.000 Hz'den yüksek",
+        "Yalnızca yüksek",
+        "Yalnızca alçak",
+        "Her frekans"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600986",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Güneş gözlüğü ne işe yarar?",
+      "options": [
+        "Zararlı UV ışınlarını filtreleyerek gözü korur",
+        "Güzel görünmek için",
+        "Rüzgardan korumak için",
+        "Karanlıkta görmek için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600987",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Sesin yüksekliği (perde) neye bağlıdır?",
+      "options": [
+        "Ortama",
+        "Titreşim frekansına (yüksek frekans=tiz, düşük frekans=pes)",
+        "Sesin hızına",
+        "Sesin şiddetine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600988",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6",
+      "question": "Hangi madde ışığı en iyi geçirir?",
+      "options": [
+        "Tahta",
+        "Taş",
+        "Şeffaf cam",
+        "Metal"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

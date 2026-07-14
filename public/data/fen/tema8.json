@@ -1,0 +1,797 @@
+{
+  "questions": [
+    {
+      "id": "q1321",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "İlkbaharda doğada neler olur?",
+      "options": [
+        "Kar yağar",
+        "Çiçekler açar, hayvanlar uyanır",
+        "Her şey kurur",
+        "Yapraklar dökülür"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1323",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Sonbaharda doğada neler olur?",
+      "options": [
+        "Kar yağar",
+        "Hayvanlar uyanır",
+        "Çiçekler açar",
+        "Yapraklar dökülür, hava soğur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1325",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi mevsimde günler en uzundur?",
+      "options": [
+        "İlkbahar",
+        "Yaz",
+        "Kış",
+        "Sonbahar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1326",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi mevsimde günler en kısadır?",
+      "options": [
+        "Sonbahar",
+        "Yaz",
+        "İlkbahar",
+        "Kış"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1327",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Kış uykusu hangi hayvanlarda görülür?",
+      "options": [
+        "Kedi",
+        "Ayı, kirpi",
+        "At",
+        "Köpek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1328",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi hayvan ilkbaharda göç eder?",
+      "options": [
+        "Tavuk",
+        "Kedi",
+        "Köpek",
+        "Leylek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1330",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi mevsimde ekin biçilir?",
+      "options": [
+        "Her mevsim",
+        "Kış",
+        "İlkbahar",
+        "Yaz-Sonbahar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1331",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi mevsimde ekili alan hazırlanır?",
+      "options": [
+        "Kış",
+        "İlkbahar",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1332",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Yaz mevsiminde saat kaçta güneş geç batar?",
+      "options": [
+        "Erken (17:00 civarı)",
+        "Öğle (12:00 civarı)",
+        "Geç (21:00 civarı)",
+        "Her gün değişir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1333",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Kış mevsiminde güneş ne zaman erken batar?",
+      "options": [
+        "Hiç batmaz",
+        "Geç (21:00 civarı)",
+        "Erken (17:00 civarı)",
+        "Öğle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1334",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Mevsimlerin oluşma nedeni nedir?",
+      "options": [
+        "İnsan faaliyetleri",
+        "Yıldızların konumu",
+        "Ayın hareketleri",
+        "Dünya'nın eksen eğikliği ve Güneş'e uzaklığı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1336",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Sonbahar ayları hangilerdir?",
+      "options": [
+        "Aralık, Ocak, Şubat",
+        "Mart, Nisan, Mayıs",
+        "Eylül, Ekim, Kasım",
+        "Haziran, Temmuz, Ağustos"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1337",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi hayvan yaz mevsiminde en aktif görünür?",
+      "options": [
+        "Kirpi",
+        "Arı",
+        "Ayı",
+        "Yarasa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51064",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi mevsimde gündüzler en kısadır?",
+      "options": [
+        "Sonbahar",
+        "İlkbahar",
+        "Yaz",
+        "Kış"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51066",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi mevsimde hayvanlar göç eder?",
+      "options": [
+        "Sadece kış",
+        "İlkbahar ve sonbahar",
+        "Her mevsim",
+        "Sadece yaz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51067",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Kış uykusuna yatan hayvanlar yemek yer mi?",
+      "options": [
+        "Sadece su içer",
+        "Evet, çok yer",
+        "Hayır, yağlarını kullanır",
+        "Bazen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51069",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Mevsimlerin oluşmasını sağlayan nedir?",
+      "options": [
+        "Ay'ın hareketleri",
+        "Dünya'nın Güneş etrafındaki dönüşü ve eksen eğikliği",
+        "Yıldızların konumu",
+        "Denizlerin büyüklüğü"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51070",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi mevsimde tarlalar hazırlanır?",
+      "options": [
+        "Yaz",
+        "Kış",
+        "Sonbahar",
+        "İlkbahar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51071",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Güz mevsimi ne demektir?",
+      "options": [
+        "Yaz",
+        "Sonbahar",
+        "İlkbahar",
+        "Kış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51072",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi mevsimde don olayı görülür?",
+      "options": [
+        "Kış ve erken ilkbahar",
+        "Her mevsim",
+        "Yaz",
+        "Sonbahar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51073",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Mevsimler kaç haftada bir değişir?",
+      "options": [
+        "Her yıl bir kez",
+        "Her 6 ayda bir",
+        "Her ay",
+        "Yaklaşık 13 haftada bir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91079",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Günes Sistemi\" nedir?",
+      "options": [
+        "Günes ve cevresindeki tüm gök cisimleri",
+        "Evren",
+        "Andromeda",
+        "Samanyolu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91080",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Samanyolu\" nedir?",
+      "options": [
+        "Günes Sistemi",
+        "Andromeda",
+        "Evren",
+        "Dünyanin icinde bulundugu galaksi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91081",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Ay\" nedir?",
+      "options": [
+        "Mars",
+        "Merkür",
+        "Venüs",
+        "Dünyanin dogal uydusu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91082",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Günes tutulmasi\" nedir?",
+      "options": [
+        "Günes buyüyünce",
+        "Ay kaybolunca",
+        "Ay, Günes ile Dünya arasina girince",
+        "Dünya, Günes ile Ay arasina girince"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91083",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Ay tutulmasi\" nedir?",
+      "options": [
+        "Dünya, Günes ile Ay arasina girince",
+        "Ay, Günes ile Dünya arasina girince",
+        "Ay büyüyünce",
+        "Günes kaybolunca"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91084",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Meteor\" nedir?",
+      "options": [
+        "Uzaydan atmosfere giren küçük tas parcasi",
+        "Gezegen",
+        "Günes",
+        "Ay"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91085",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Kuzey Yildizi\" nedir?",
+      "options": [
+        "Venüs",
+        "Pülasüsüz yon bulmada kullanilan yildiz",
+        "Günes",
+        "Ay"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91086",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Galaksi\" nedir?",
+      "options": [
+        "Küme",
+        "Sistem",
+        "Milyarlarca yildizdan olusan evren yapisi",
+        "Yörünge"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91087",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Ilkbahar mevsiminin özelligini tanim",
+      "options": [
+        "En soguk mevsim, kar yagabilir",
+        "Yapraklar dokülür, hava serinler",
+        "Cicekler acar, hava isinir",
+        "En sicak mevsim, tatil mevsimi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91088",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Cicekler acar...\" hangi mevsimi tanimlar?",
+      "options": [
+        "Kis",
+        "Yaz",
+        "Sonbahar",
+        "Ilkbahar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91089",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Yaz mevsiminin özelligini tanim",
+      "options": [
+        "En soguk mevsim, kar yagabilir",
+        "En sicak mevsim, tatil mevsimi",
+        "Yapraklar dokülür, hava serinler",
+        "Cicekler acar, hava isinir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91090",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"En sicak mevsim...\" hangi mevsimi tanimlar?",
+      "options": [
+        "Yaz",
+        "Kis",
+        "Ilkbahar",
+        "Sonbahar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91091",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Sonbahar mevsiminin özelligini tanim",
+      "options": [
+        "Yapraklar dokülür, hava serinler",
+        "Cicekler acar, hava isinir",
+        "En soguk mevsim, kar yagabilir",
+        "En sicak mevsim, tatil mevsimi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91092",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"Yapraklar dokülür...\" hangi mevsimi tanimlar?",
+      "options": [
+        "Yaz",
+        "Sonbahar",
+        "Kis",
+        "Ilkbahar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91093",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Kis mevsiminin özelligini tanim",
+      "options": [
+        "En soguk mevsim, kar yagabilir",
+        "Cicekler acar, hava isinir",
+        "Yapraklar dokülür, hava serinler",
+        "En sicak mevsim, tatil mevsimi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91094",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "\"En soguk mevsim...\" hangi mevsimi tanimlar?",
+      "options": [
+        "Sonbahar",
+        "Ilkbahar",
+        "Yaz",
+        "Kis"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200761",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Bilim nedir? (Tema 8)",
+      "options": [
+        "Edebiyat",
+        "Sanat",
+        "Müzik",
+        "Dogayi inceleme ve anlama yöntemi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200762",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Deney neden yapilir? (Tema 8)",
+      "options": [
+        "Hipotezi test etmek ve bilgi üretmek icin",
+        "Eglence icin",
+        "Para kazanmak icin",
+        "Zorunlu oldugu icin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200763",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Gözlem nedir? (Tema 8)",
+      "options": [
+        "Varsayim yapma",
+        "Duyu organlariyla bilgi toplama",
+        "Deney yapma",
+        "Rapor yazma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200764",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hipotez nedir? (Tema 8)",
+      "options": [
+        "Denenmemis tahmin veya varsayim",
+        "Onaylanmis kural",
+        "Kesin sonuc",
+        "Bilim yasasi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200765",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Sonuc cikarma ne demektir? (Tema 8)",
+      "options": [
+        "Gözlem yapmak",
+        "Deneyin bulgularini yorumlamak",
+        "Deney yapmak",
+        "Veri toplamak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200766",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Enerji korunumu yasasi ne der? (Tema 8)",
+      "options": [
+        "Enerji yok olur",
+        "Enerji azalir",
+        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
+        "Enerji artar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200767",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hucre nedir? (Tema 8)",
+      "options": [
+        "Doku",
+        "Canliların en kucuk yapısal birimi",
+        "Organ",
+        "Sistem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200769",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Fotosantez neden önemlidir? (Tema 8)",
+      "options": [
+        "Su tüketir",
+        "Isi üretir",
+        "Oksijen üretir ve besin saglar",
+        "Sadece güzel görünür"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200770",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Besin zinciri neden önemlidir? (Tema 8)",
+      "options": [
+        "Para üretir",
+        "Guzel görünür",
+        "Isi saglar",
+        "Ekosistemdeki enerji akisini gösterir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601004",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Güneş sistemi kaç gezegenden oluşur?",
+      "options": [
+        "9",
+        "7",
+        "8 gezegen",
+        "10"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601005",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Güneş'e en yakın gezegen hangisidir?",
+      "options": [
+        "Merkür",
+        "Dünya",
+        "Mars",
+        "Venüs"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601006",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Güneş'ten en uzak gezegen hangisidir?",
+      "options": [
+        "Satürn",
+        "Uranüs",
+        "Neptün",
+        "Jüpiter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601007",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi gezegen Dünya'ya en yakındır?",
+      "options": [
+        "Jüpiter",
+        "Venüs",
+        "Merkür",
+        "Mars"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601008",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Hangi gezegen halkalı yapısıyla ünlüdür?",
+      "options": [
+        "Jüpiter",
+        "Satürn",
+        "Uranüs",
+        "Neptün"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601009",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Jüpiter neden büyük kırmızı lekeye sahiptir?",
+      "options": [
+        "Demir oksit",
+        "Yanardağ",
+        "Dev ve uzun süreli fırtına sistemi",
+        "Okyanus"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601010",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Mars'ta hayat var mı?",
+      "options": [
+        "Hayır, hiç araştırılmadı",
+        "Kesinlikle var",
+        "Bilinen bir yaşam formu yok, araştırmalar sürüyor",
+        "Evet, keşfedildi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601011",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Asteroit kuşağı nerededir?",
+      "options": [
+        "Mars ile Jüpiter arasında",
+        "Satürn ile Neptün arasında",
+        "Jüpiter ile Satürn arasında",
+        "Dünya ile Mars arasında"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601012",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Kuyruklu yıldız nedir?",
+      "options": [
+        "Gezegen",
+        "Buz ve tozdan oluşan, Güneş'e yaklaştığında kuyruk oluşturan cisim",
+        "Asteroit",
+        "Ay"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601013",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Kara delik nedir?",
+      "options": [
+        "Yıldız",
+        "Gezegen",
+        "Nebula",
+        "Çekim kuvveti o kadar büyük ki ışık dahi kaçamaz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601014",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Işık yılı nedir?",
+      "options": [
+        "Bir ışığın parlaklığı",
+        "Bir yıllık süre",
+        "Bir gezegenin dönüşü",
+        "Işığın bir yılda aldığı yol (yaklaşık 9,46 trilyon km)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601015",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Uydu nedir?",
+      "options": [
+        "Kuyruklu yıldız",
+        "Gezegen",
+        "Yıldız",
+        "Bir gezegen ya da cismin etrafında dönen doğal ya da yapay cisim"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601016",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Uluslararası Uzay İstasyonu (ISS) nedir?",
+      "options": [
+        "Uzayda insanların yaşayıp çalıştığı yapay istasyon",
+        "Bir yıldız",
+        "Bir gezegen",
+        "Bir uydu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601017",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Uzay mekiği ne işe yarar?",
+      "options": [
+        "Uydu tamir etmek",
+        "Yıldız araştırması",
+        "Gezegenler arası seyahat",
+        "Astronotları ve yükü uzaya taşımak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601018",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 8",
+      "question": "Dünya'nın tek doğal uydusu nedir?",
+      "options": [
+        "Europa",
+        "Phobos",
+        "Io",
+        "Ay"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}

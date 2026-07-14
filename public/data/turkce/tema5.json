@@ -1,0 +1,953 @@
+{
+  "questions": [
+    {
+      "id": "q1061",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Nokta (.) hangi cümlelerin sonuna gelir?",
+      "options": [
+        "Bildirme cümleleri",
+        "Ünlem cümleleri",
+        "Emir cümleleri",
+        "Soru cümleleri"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1062",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Soru işareti (?) hangi cümlelerin sonuna gelir?",
+      "options": [
+        "Emir cümleleri",
+        "Bildirme cümleleri",
+        "Ünlem cümleleri",
+        "Soru cümleleri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1063",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Ünlem işareti (!) hangi cümlelerin sonuna gelir?",
+      "options": [
+        "Ünlem ve emir cümleleri",
+        "Haber cümleleri",
+        "Soru cümleleri",
+        "Bildirme cümleleri"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1064",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Virgül (,) hangi durumda kullanılır?",
+      "options": [
+        "Soru cümlelerinde",
+        "Sayma sıralamasında",
+        "Ünlem cümlelerinde",
+        "Cümle sonunda"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1065",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Selam nasılsın?' cümlesine hangi işaret eklenmelidir?",
+      "options": [
+        "Soru işareti (?)",
+        "Ünlem (!)",
+        "Nokta (.)",
+        "Virgül (,)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1066",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Koş!' cümlesine hangi işaret eklenmiştir?",
+      "options": [
+        "Soru işareti",
+        "Virgül",
+        "Nokta",
+        "Ünlem işareti (!)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1067",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Bugün hava güzel.' cümlesinde hangi noktalama işareti vardır?",
+      "options": [
+        "Nokta",
+        "Soru işareti",
+        "Ünlem",
+        "Virgül"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1069",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "İki nokta üst üste (:) ne zaman kullanılır?",
+      "options": [
+        "Her cümle sonunda",
+        "Açıklama veya liste başında",
+        "Ünlem durumunda",
+        "Soru sormada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1070",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Kesme işareti (') ne zaman kullanılır?",
+      "options": [
+        "Her isimde",
+        "Renklerde",
+        "Özel isimlere ek geldiğinde",
+        "Sayılarda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1071",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Türkiye'nin başkenti Ankara'dır.' cümlesinde kaç noktalama işareti var?",
+      "options": [
+        "1",
+        "0",
+        "2 (kesme işareti)",
+        "3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1073",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Dur!' cümlesinin sonundaki işaret nedir?",
+      "options": [
+        "Nokta",
+        "Ünlem",
+        "Virgül",
+        "Soru işareti"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1075",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Paragraf her zaman ne ile başlar?",
+      "options": [
+        "Rakam",
+        "Büyük harf",
+        "Virgül",
+        "Küçük harf"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1076",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Vay canına!' cümlesinde hangi duygu ifade edilmiştir?",
+      "options": [
+        "Soru sorma",
+        "Şaşırma",
+        "Anlatma",
+        "Üzülme"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1077",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Ne güzel bir gün!' cümlesinde hangi duygu var?",
+      "options": [
+        "Üzüntü",
+        "Sevinç",
+        "Emir",
+        "Soru"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1078",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi kelimeler arasına virgül konur?",
+      "options": [
+        "Paragraf başına",
+        "Cümle sonuna",
+        "Bütün kelimeler arasına",
+        "Sıralanan kelimeler arasına"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1079",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Konuşma çizgisi (-) ne zaman kullanılır?",
+      "options": [
+        "Her cümle sonunda",
+        "Anlatımlarda",
+        "Soru sormada",
+        "Diyaloglarda"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50935",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi noktalama işareti sıralamada kullanılır?",
+      "options": [
+        "Soru işareti (?)",
+        "Ünlem (!)",
+        "Nokta (.)",
+        "Virgül (,)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50936",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Noktalı virgül (;) ne zaman kullanılır?",
+      "options": [
+        "Her cümle sonunda",
+        "Ünlem ifade için",
+        "Soru sormak için",
+        "Bağımsız cümleleri ayırmak için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50937",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlede nokta yanlış kullanılmış?",
+      "options": [
+        "Hava güzel.",
+        "Nasılsın.",
+        "Elanaz uyuyor.",
+        "Ali koştu."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50938",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Ünlem cümlesinin sonuna ne gelir?",
+      "options": [
+        "!",
+        ",",
+        ".",
+        "?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50939",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Merhaba, nasılsın?\" cümlesinde virgül nerede kullanılmış?",
+      "options": [
+        "Hiçbir yerde",
+        "Sonda",
+        "Selamlama sonrasında",
+        "Başta"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50941",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Tırnak işareti (\"\") nerede kullanılır?",
+      "options": [
+        "Renklerde",
+        "Sayılarda",
+        "Alıntı ve söylenilen sözlerde",
+        "Her zaman"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50942",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi noktalama işareti konuşmada kullanılır?",
+      "options": [
+        "Konuşma çizgisi (-)",
+        "Nokta",
+        "İki nokta",
+        "Soru işareti"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90879",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Nokta\" isareti ne amacla kullanilir?",
+      "options": [
+        "Cumle sonunda",
+        "Soru cümlesinde",
+        "Cumle basinda",
+        "Ünlem cümlesinde"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90880",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Nokta\" kullanilir?",
+      "options": [
+        "Soru cümlesinde",
+        "Cumle sonunda",
+        "Cumle basinda",
+        "Ünlem cümlesinde"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90881",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Virgül\" isareti ne amacla kullanilir?",
+      "options": [
+        "Unlem",
+        "Siralama ve duraklama",
+        "Soru",
+        "Cumle sonu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90882",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Virgül\" kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Siralama ve duraklama",
+        "Unlem",
+        "Soru"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90883",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Soru isareti\" isareti ne amacla kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Soru cumlesi sonu",
+        "Siralama",
+        "Unlem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90884",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Soru isareti\" kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Soru cumlesi sonu",
+        "Unlem",
+        "Siralama"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90885",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Unlem isareti\" isareti ne amacla kullanilir?",
+      "options": [
+        "Soru",
+        "Siralama",
+        "Cumle sonu",
+        "Cosku ve emir cumleleri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90886",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Unlem isareti\" kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Siralama",
+        "Cosku ve emir cumleleri",
+        "Soru"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90887",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Iki nokta\" isareti ne amacla kullanilir?",
+      "options": [
+        "Unlem",
+        "Aciklama ve ornek vermede",
+        "Soru",
+        "Cumle sonu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90888",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Iki nokta\" kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Aciklama ve ornek vermede",
+        "Soru",
+        "Unlem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90889",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Tirnak isareti\" isareti ne amacla kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Sayi",
+        "Alinti ve ozel sözde",
+        "Soru"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90890",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Tirnak isareti\" kullanilir?",
+      "options": [
+        "Alinti ve ozel sözde",
+        "Cumle sonu",
+        "Sayi",
+        "Soru"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90891",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Kesme isareti\" isareti ne amacla kullanilir?",
+      "options": [
+        "Hicbir zaman",
+        "Sadece isimlere",
+        "Her eke",
+        "Özel isme ek gelince"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90892",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Kesme isareti\" kullanilir?",
+      "options": [
+        "Sadece isimlere",
+        "Hicbir zaman",
+        "Özel isme ek gelince",
+        "Her eke"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90893",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Uc nokta\" isareti ne amacla kullanilir?",
+      "options": [
+        "Yarim cumle ve belirsizlikte",
+        "Cumle sonu",
+        "Soru",
+        "Unlem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90894",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Uc nokta\" kullanilir?",
+      "options": [
+        "Yarim cumle ve belirsizlikte",
+        "Cumle sonu",
+        "Unlem",
+        "Soru"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90895",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Boluntme çizgisi\" isareti ne amacla kullanilir?",
+      "options": [
+        "Soru",
+        "Cumle sonu",
+        "Siralama",
+        "Satir sonunda kesmede"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90896",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Boluntme çizgisi\" kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Satir sonunda kesmede",
+        "Siralama",
+        "Soru"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90897",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Parantez\" isareti ne amacla kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Soru",
+        "Aciklama ve ek bilgi vermede",
+        "Unlem"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90898",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi durumda \"Parantez\" kullanilir?",
+      "options": [
+        "Cumle sonu",
+        "Unlem",
+        "Aciklama ve ek bilgi vermede",
+        "Soru"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600834",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "İsim ne demektir?",
+      "options": [
+        "Eylemlerin adı",
+        "Varlıkların, kavramların, niteliklerin adı",
+        "Zarfların adı",
+        "Sıfatların adı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600835",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Eylem (fiil) nedir?",
+      "options": [
+        "Niteleme sözcüğü",
+        "Yön bildiren sözcük",
+        "Kılış, oluş ya da durum bildiren sözcük",
+        "Varlıkların adı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600836",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Sıfat nedir?",
+      "options": [
+        "Eylemleri niteleyen",
+        "İsimlerin kendisi",
+        "İsimleri niteleyen ya da belirten sözcük",
+        "Zamirler"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600837",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Zarf nedir?",
+      "options": [
+        "İsimleri niteleyen sözcük",
+        "Eylemleri, sıfatları ya da zarfları niteleyen sözcük",
+        "Bağlaç",
+        "Eylem eki"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600838",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Zamir nedir?",
+      "options": [
+        "Eylem",
+        "İsmin kendisi",
+        "İsmin yerini tutan sözcük",
+        "Bağlaç"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600839",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Bağlaç nedir?",
+      "options": [
+        "Sözcük ve cümleleri birbirine bağlayan sözcük",
+        "Eylem",
+        "İsim",
+        "Sıfat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600840",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Edat nedir?",
+      "options": [
+        "Zarf",
+        "Bağlaç",
+        "İsimlerle anlam ilişkisi kuran sözcük",
+        "Zamir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600841",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Ünlem nedir?",
+      "options": [
+        "Zamir",
+        "Bağlaç",
+        "Edat",
+        "Duygu ve coşku ifade eden sözcük"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600842",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Somut isim örnekleri hangileridir?",
+      "options": [
+        "Kalem, masa, ağaç, araba",
+        "Güzel, iyi, büyük",
+        "Koş, gel, git",
+        "Sevgi, özgürlük, düşünce"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600843",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Soyut isim örnekleri hangileridir?",
+      "options": [
+        "Kalem, masa, ağaç",
+        "Güzel, iyi, büyük",
+        "Koş, gel, git",
+        "Sevgi, özgürlük, düşünce"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600844",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Özel isim nedir?",
+      "options": [
+        "Eylem adı",
+        "Genel varlık adı",
+        "Niteleme sözcüğü",
+        "Belirli bir varlığa verilen ad (Ayşe, Ankara)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600845",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Cins (tür) isim nedir?",
+      "options": [
+        "Belirli bir varlığın adı",
+        "Eylem adı",
+        "Soyut kavram",
+        "Aynı türden tüm varlıkları kapsayan ad (çocuk, dağ)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600846",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Çoğul eki hangisidir?",
+      "options": [
+        "-lar / -ler",
+        "-a / -e",
+        "-dan / -den",
+        "-da / -de"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600847",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "İyelik eki nedir?",
+      "options": [
+        "Zaman eki",
+        "Soru eki",
+        "Çoğul eki",
+        "Bir şeyin kime ait olduğunu gösteren ek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600848",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Soru eki hangisidir?",
+      "options": [
+        "-dan / -den",
+        "mi / mı / mü / mü",
+        "-da / -de",
+        "-lar / -ler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800601",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi sözcük isimdir?",
+      "options": [
+        "Güzel (sıfat)",
+        "Koşmak (eylem)",
+        "Hızla (zarf)",
+        "Güzellik (isim)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800602",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi sözcük sıfattır?",
+      "options": [
+        "Koşmak (eylem)",
+        "Ve (bağlaç)",
+        "Yeşil (isim niteliyor)",
+        "Orada (zarf)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800603",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi sözcük eylemdir?",
+      "options": [
+        "Uyumak",
+        "İle",
+        "Güzel",
+        "Çok"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800604",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi sözcük zarftır?",
+      "options": [
+        "Koşmak",
+        "Güzel",
+        "Çiçek",
+        "Hızlıca (eylemi niteliyor)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800605",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi sözcük zamirdir?",
+      "options": [
+        "Ben (öznenin yerini tutar)",
+        "Koşmak",
+        "Kitap",
+        "Güzel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800606",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi sözcük bağlaçtır?",
+      "options": [
+        "Güzel",
+        "Ve (iki ögeyi birleştiriyor)",
+        "Koşmak",
+        "Kitap"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800607",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Çiçek açtı.' cümlesinde kaç sözcük vardır?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800608",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'kırmızı gül' tamlamasında sıfat hangi sözcüktür?",
+      "options": [
+        "tamlamanın tamamı",
+        "hiçbiri",
+        "gül",
+        "kırmızı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800609",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'büyük bir ev' tamlamasında hangi sözcük sıfattır?",
+      "options": [
+        "bir",
+        "ev",
+        "büyük",
+        "tamamı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800610",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'O kitabı okudu.' cümlesinde 'O' sözcüğü nedir?",
+      "options": [
+        "Eylem",
+        "Sıfat",
+        "Zamir (ismin yerini tutar)",
+        "İsim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800611",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Masanın üstünde kitap var.' cümlesinde 'üstünde' sözcüğü nedir?",
+      "options": [
+        "Sıfat",
+        "Bağlaç",
+        "Zamir",
+        "Edat (yer ilgisi kuran)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800612",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi sözcük ünlemdir?",
+      "options": [
+        "Güzel",
+        "Ah!",
+        "Kitap",
+        "Ve"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800613",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Çok güzel bir gün.' cümlesinde 'çok' sözcüğü nedir?",
+      "options": [
+        "Sıfat",
+        "Eylem",
+        "Zarf (sıfatı niteliyor)",
+        "İsim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800614",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Onların evi büyük.' cümlesinde 'onların' sözcüğü nedir?",
+      "options": [
+        "Eylem",
+        "Sıfat",
+        "İsim",
+        "Zamir (tamlayan)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800615",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'ile' sözcüğü hangi sözcük türüdür?",
+      "options": [
+        "Bağlaç ya da edat",
+        "Sıfat",
+        "İsim",
+        "Eylem"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

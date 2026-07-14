@@ -1,0 +1,784 @@
+{
+  "questions": [
+    {
+      "id": "q1261",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Kuvvet nedir?",
+      "options": [
+        "Ağırlık",
+        "Renk",
+        "Sürat",
+        "İtme veya çekme etkisi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1262",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "İtme kuvveti ne yapar?",
+      "options": [
+        "Nesneyi çeker",
+        "Nesneyi küçültür",
+        "Nesneyi durdurur",
+        "Nesneyi uzaklaştırır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1263",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Çekme kuvveti ne yapar?",
+      "options": [
+        "Nesneyi parçalar",
+        "Nesneyi yaklaştırır",
+        "Nesneyi uzaklaştırır",
+        "Nesneyi büyütür"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1264",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Sürtünme kuvveti ne yapar?",
+      "options": [
+        "Hareketi hızlandırır",
+        "Nesneyi yükseltir",
+        "Nesneyi büyütür",
+        "Hareketi yavaşlatır veya durdurur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1265",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Yerçekimi nedir?",
+      "options": [
+        "Mıknatıs kuvveti",
+        "Rüzgar kuvveti",
+        "Dünyanın her şeyi kendine çekme kuvveti",
+        "İnsanın uçma kuvveti"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1266",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Ağır mi, hafif mi daha hızlı düşer?",
+      "options": [
+        "İkisi de aynı hızda düşer (havada farklı olabilir)",
+        "Ağır",
+        "Hafif",
+        "Renklisi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1267",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Mıknatıs hangi maddeleri çeker?",
+      "options": [
+        "Demir, çelik",
+        "Plastik",
+        "Cam",
+        "Tahta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1268",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Mıknatısın kaç kutbu vardır?",
+      "options": [
+        "4",
+        "2 (Kuzey ve Güney)",
+        "1",
+        "3"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1269",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Aynı kutuplar birbirine nasıl davranır?",
+      "options": [
+        "Yapışır",
+        "Kayıtsızdır",
+        "İter",
+        "Çeker"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1270",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Zıt kutuplar birbirine nasıl davranır?",
+      "options": [
+        "İter",
+        "Erişemez",
+        "Kayıtsızdır",
+        "Çeker"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1272",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Kaldıraç neye yarar?",
+      "options": [
+        "Hız artırmaya",
+        "Su pompalamaya",
+        "Işık yakmaya",
+        "Az kuvvetle büyük yük kaldırmaya"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1273",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Tekerlek ne işe yarar?",
+      "options": [
+        "Sesi keser",
+        "Ağırlığı artırır",
+        "Hareketi kolaylaştırır",
+        "Hava sağlar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1274",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Eğik düzlem ne işe yarar?",
+      "options": [
+        "Hızı azaltır",
+        "Yük çıkarmayı kolaylaştırır",
+        "Yükü parçalar",
+        "Ağırlık ekler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1275",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Manivela neyle aynıdır?",
+      "options": [
+        "Kaldıraç",
+        "Kasnak",
+        "Eğik düzlem",
+        "Dişli"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1277",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Makara ne işe yarar?",
+      "options": [
+        "İpin yönünü değiştirerek kolaylaştırır",
+        "Işık sağlar",
+        "Ses yükseltir",
+        "Su pompalar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1280",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Futbol topunu tekmelemek hangi kuvvettir?",
+      "options": [
+        "Çekme",
+        "Yerçekimi",
+        "İtme kuvveti",
+        "Sürtünme"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51034",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Sürtünme kuvveti yararlı mıdır?",
+      "options": [
+        "Hiçbir zaman",
+        "Bazen",
+        "Evet (yürümek, frenleme için)",
+        "Hayır, sadece zararlıdır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51036",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Gemilerin suda batmaması hangi prensiple açıklanır?",
+      "options": [
+        "Archimedes prensibi (kaldırma kuvveti)",
+        "Manyetik kuvvet",
+        "Yerçekimi",
+        "Sürtünme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51037",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Hangi yüzey en az sürtünme sağlar?",
+      "options": [
+        "Çimen",
+        "Asfalt",
+        "Kum",
+        "Buz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51038",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Fırlatılan top neden geri düşer?",
+      "options": [
+        "Yerçekimi",
+        "Hava direnci",
+        "Manyetik kuvvet",
+        "Sürtünme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51039",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Kuvvet neyle ölçülür?",
+      "options": [
+        "Gram",
+        "Newton (N)",
+        "Metre",
+        "Saniye"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51041",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Atalet nedir?",
+      "options": [
+        "Cisimlerin hareketini değiştirmeye direnç",
+        "Kuvvet",
+        "Ağırlık",
+        "Hız"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51042",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Yay kuvveti nedir?",
+      "options": [
+        "Yerçekimi",
+        "İtme",
+        "Sürtünme",
+        "Yayın esneyip geri dönmesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51043",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Rüzgar bir kuvvet midir?",
+      "options": [
+        "Sadece fırtınada",
+        "Hayır",
+        "Bazen",
+        "Evet, hava basıncından kaynaklı kuvvet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91042",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Yercekimi kuvveti\" nedir?",
+      "options": [
+        "Cisimleri yere ceken dogal kuvvet",
+        "Manyetik kuvvet",
+        "Kaldirma",
+        "Surtunme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91043",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Cisimleri yere ceken doga...\" hangi kuvveti tanimlar?",
+      "options": [
+        "Yercekimi kuvveti",
+        "Kaldirma",
+        "Manyetik kuvvet",
+        "Surtunme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91046",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Surtunme kuvveti\" nedir?",
+      "options": [
+        "Manyetik",
+        "Yercekimi",
+        "Kaldirma",
+        "Iki yuzey arasindaki karsı koyma kuvveti"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91047",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Iki yuzey arasindaki kars...\" hangi kuvveti tanimlar?",
+      "options": [
+        "Surtunme kuvveti",
+        "Manyetik",
+        "Yercekimi",
+        "Kaldirma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91048",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Kaldirma kuvveti\" nedir?",
+      "options": [
+        "Sivi ve gazlarin cisimlere uygladigi yukari kuvvet",
+        "Manyetik",
+        "Yercekimi",
+        "Surtunme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91049",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Sivi ve gazlarin cisimler...\" hangi kuvveti tanimlar?",
+      "options": [
+        "Kaldirma kuvveti",
+        "Yercekimi",
+        "Manyetik",
+        "Surtunme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91050",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Elastik kuvvet\" nedir?",
+      "options": [
+        "Manyetik",
+        "Esnedikten sonra geri donen kuvvet",
+        "Yercekimi",
+        "Kaldirma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91051",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Esnedikten sonra geri don...\" hangi kuvveti tanimlar?",
+      "options": [
+        "Kaldirma",
+        "Yercekimi",
+        "Manyetik",
+        "Elastik kuvvet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91052",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Kas kuvveti\" nedir?",
+      "options": [
+        "Manyetik",
+        "Kaslarin olusturdugu kuvvet",
+        "Yercekimi",
+        "Kaldirma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91053",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "\"Kaslarin olusturdugu kuvv...\" hangi kuvveti tanimlar?",
+      "options": [
+        "Kas kuvveti",
+        "Yercekimi",
+        "Kaldirma",
+        "Manyetik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91054",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "10 km/s hizla giden arac 2 saatte kac km gider?",
+      "options": [
+        "12",
+        "10",
+        "30",
+        "20"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91055",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "25 km/s hizla giden arac 2 saatte kac km gider?",
+      "options": [
+        "75",
+        "27",
+        "50",
+        "25"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91056",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "40 km/s hizla giden arac 2 saatte kac km gider?",
+      "options": [
+        "40",
+        "42",
+        "120",
+        "80"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91057",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "55 km/s hizla giden arac 2 saatte kac km gider?",
+      "options": [
+        "110",
+        "57",
+        "165",
+        "55"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91058",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "70 km/s hizla giden arac 2 saatte kac km gider?",
+      "options": [
+        "140",
+        "70",
+        "72",
+        "210"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200731",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Bilim nedir? (Tema 5)",
+      "options": [
+        "Edebiyat",
+        "Dogayi inceleme ve anlama yöntemi",
+        "Müzik",
+        "Sanat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200732",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Deney neden yapilir? (Tema 5)",
+      "options": [
+        "Para kazanmak icin",
+        "Zorunlu oldugu icin",
+        "Hipotezi test etmek ve bilgi üretmek icin",
+        "Eglence icin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200733",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Gözlem nedir? (Tema 5)",
+      "options": [
+        "Rapor yazma",
+        "Duyu organlariyla bilgi toplama",
+        "Deney yapma",
+        "Varsayim yapma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200734",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Hipotez nedir? (Tema 5)",
+      "options": [
+        "Bilim yasasi",
+        "Onaylanmis kural",
+        "Kesin sonuc",
+        "Denenmemis tahmin veya varsayim"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200735",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Sonuc cikarma ne demektir? (Tema 5)",
+      "options": [
+        "Deneyin bulgularini yorumlamak",
+        "Gözlem yapmak",
+        "Veri toplamak",
+        "Deney yapmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200736",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Enerji korunumu yasasi ne der? (Tema 5)",
+      "options": [
+        "Enerji yok olur",
+        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
+        "Enerji azalir",
+        "Enerji artar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200737",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Hucre nedir? (Tema 5)",
+      "options": [
+        "Canliların en kucuk yapısal birimi",
+        "Doku",
+        "Organ",
+        "Sistem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200739",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Fotosantez neden önemlidir? (Tema 5)",
+      "options": [
+        "Oksijen üretir ve besin saglar",
+        "Sadece güzel görünür",
+        "Isi üretir",
+        "Su tüketir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200740",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Besin zinciri neden önemlidir? (Tema 5)",
+      "options": [
+        "Guzel görünür",
+        "Ekosistemdeki enerji akisini gösterir",
+        "Para üretir",
+        "Isi saglar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600960",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Kuvvetin birimi nedir?",
+      "options": [
+        "Saniye (s)",
+        "Metre (m)",
+        "Kilogram (kg)",
+        "Newton (N)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600961",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Hangi araçla kuvvet ölçülür?",
+      "options": [
+        "Dinamometre",
+        "Cetvel",
+        "Barometre",
+        "Termometre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600962",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Kütle nedir?",
+      "options": [
+        "Ağırlık",
+        "Hacim",
+        "Büyüklük",
+        "Bir cisimdeki madde miktarı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600963",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Ağırlık neden gezegenden gezegene değişir?",
+      "options": [
+        "Kütle değiştiği için",
+        "Renk değiştiği için",
+        "Çekim kuvveti farklı olduğu için",
+        "Madde değiştiği için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600964",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Sürtünme kuvveti ne zaman ortaya çıkar?",
+      "options": [
+        "Sadece havada uçunca",
+        "İki yüzey birbirine temas ettiğinde",
+        "Sadece suya girince",
+        "Isı verildiğinde"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600965",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Sürtünme kuvveti faydalı mı zararlı mı?",
+      "options": [
+        "Sadece zararlı",
+        "Fark etmez",
+        "Her ikisi de: frenler, yürüme (fayda); motor aşınma (zarar)",
+        "Sadece faydalı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600966",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Bir kuvvet uygulandığında cisim ne yapabilir?",
+      "options": [
+        "Hareket eder, şekil değiştirir ya da durur",
+        "Hiçbir şey olmaz",
+        "Sadece şekil değişir",
+        "Sadece hareket eder"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600967",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Denge nedir?",
+      "options": [
+        "Cisme etki eden kuvvetlerin birbirini dengelediği durum",
+        "Yalnızca sıvılarda",
+        "Sadece durağan cisim",
+        "Sadece hareketli cisim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600968",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Basit makine nedir?",
+      "options": [
+        "Bilgisayar",
+        "Motor",
+        "İşi kolaylaştıran araç (kaldıraç, makara, eğik düzlem)",
+        "Elektrikli alet"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600969",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Kaldıraç nedir?",
+      "options": [
+        "Makara",
+        "Eğik düzlem",
+        "Destek noktası etrafında dönen, kuvvet kazandıran basit makine",
+        "Motor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600972",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Hız nedir?",
+      "options": [
+        "Ağırlık",
+        "Kuvvet",
+        "Birim zamanda alınan yol",
+        "Kütle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600973",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5",
+      "question": "Yavaşlama nasıl gerçekleşir?",
+      "options": [
+        "Daha hızlı koşunca",
+        "Kütle azalınca",
+        "Hareket yönüne zıt bir kuvvet uygulandığında",
+        "Isı verilince"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

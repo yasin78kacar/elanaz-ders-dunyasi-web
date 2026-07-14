@@ -1,0 +1,784 @@
+{
+  "questions": [
+    {
+      "id": "q1084",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Ama' hangi görev sözcüğüdür?",
+      "options": [
+        "Bağlaç",
+        "Sıfat",
+        "Zamir",
+        "Eylem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1085",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Gece gündüz olan şeye ne denir?",
+      "options": [
+        "Her zaman",
+        "Hiçbir zaman",
+        "Bazen",
+        "Nadiren"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1087",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Gözlemek' kelimesi ne anlama gelir?",
+      "options": [
+        "Hızlı koşmak",
+        "Kuvvetli olmak",
+        "Dikkatle bakmak",
+        "Uyumak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1088",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Nazik' kelimesi ne anlama gelir?",
+      "options": [
+        "Sert",
+        "Kibar",
+        "Kaba",
+        "Hırçın"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1089",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Sabırlı' kelimesi ne anlama gelir?",
+      "options": [
+        "Sakin bekleyen",
+        "Aceleci",
+        "Sinirli",
+        "Çabuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1090",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Cesur' kelimesi ne anlama gelir?",
+      "options": [
+        "Korkak",
+        "Üzgün",
+        "Hevesli",
+        "Korkusuz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1093",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Şaşırmak' kelimesi ne anlama gelir?",
+      "options": [
+        "Korkmak",
+        "Sevinmek",
+        "Beklenmedik şeyle karşılaşmak",
+        "Üzülmek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1095",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Heyecan' kelimesi ne anlama gelir?",
+      "options": [
+        "Coşku",
+        "Korku",
+        "Sıkıntı",
+        "Üzüntü"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1097",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Sorumluluk' kelimesi ne anlama gelir?",
+      "options": [
+        "İlgisiz olmak",
+        "Kaçmak",
+        "Üstlenen görevi yerine getirme",
+        "Uyumak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1098",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Alçakgönüllü' kelimesi ne anlama gelir?",
+      "options": [
+        "Mütevazı",
+        "Övünen",
+        "Kibirli",
+        "Gururlu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1099",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Vatan' kelimesi ne anlama gelir?",
+      "options": [
+        "Sokak",
+        "Şehir",
+        "Doğup büyüdüğümüz ülke",
+        "Okul"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1100",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "'Arkadaşlık' kelimesinin içinde hangi isim var?",
+      "options": [
+        "Taş",
+        "Dış",
+        "Lık",
+        "Arkadaş"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50944",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Hangi kelime olumlu anlam taşır?",
+      "options": [
+        "Bunaltıcı",
+        "Üzücü",
+        "Neşeli",
+        "Kötü"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50945",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Hangi kelime olumsuz anlam taşır?",
+      "options": [
+        "Coşkulu",
+        "Hüzünlü",
+        "Sevimli",
+        "Neşeli"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa50946",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"Kırmızı\" hangi kelime türüdür?",
+      "options": [
+        "Renk sıfatı",
+        "Zamir",
+        "Eylem",
+        "İsim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50949",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"Paylaşmak\" kelimesi ne anlama gelir?",
+      "options": [
+        "Saklamak",
+        "Almak",
+        "Gizlemek",
+        "Bir şeyi başkalarıyla bölmek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50950",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"Saygı\" kelimesi ne anlama gelir?",
+      "options": [
+        "Küçük görmek",
+        "Aşağılamak",
+        "Değer vermek, hürmet etmek",
+        "Görmezden gelmek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa50951",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"Doğruluk\" kelimesi ne anlama gelir?",
+      "options": [
+        "Dürüstlük, yalansızlık",
+        "Aldatmak",
+        "Yalancılık",
+        "Hile yapmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa50952",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Hangi kelime bir duyguyu ifade eder?",
+      "options": [
+        "Araba",
+        "Kalem",
+        "Okul",
+        "Mutluluk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa50953",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"Çevreci\" kelimesi ne anlama gelir?",
+      "options": [
+        "Çevreyi koruyan",
+        "Çevreyi kirleten",
+        "Çevreye kayıtsız",
+        "Çevreyi kullanan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90899",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"mutluluk\" kelimesi hangi duyguyu ifade eder?",
+      "options": [
+        "korku",
+        "kizginlik",
+        "uzuntu",
+        "sevinc hissi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90900",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"mutluluk\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Eylem",
+        "Sifat",
+        "Somut isim",
+        "Soyut isim (duygu sozcugu)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90901",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"uzuntu\" kelimesi hangi duyguyu ifade eder?",
+      "options": [
+        "sevinc",
+        "cosku",
+        "huzun hissi",
+        "mutluluk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90902",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"uzuntu\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Soyut isim (duygu sozcugu)",
+        "Eylem",
+        "Somut isim",
+        "Sifat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90904",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"korku\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Sifat",
+        "Somut isim",
+        "Soyut isim (duygu sozcugu)",
+        "Eylem"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb90906",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"saskinlik\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Soyut isim (duygu sozcugu)",
+        "Sifat",
+        "Eylem",
+        "Somut isim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90907",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"kizginlik\" kelimesi hangi duyguyu ifade eder?",
+      "options": [
+        "sakinlik",
+        "mutluluk",
+        "sevinc",
+        "ofke hissi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90908",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"kizginlik\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Eylem",
+        "Sifat",
+        "Somut isim",
+        "Soyut isim (duygu sozcugu)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90912",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"heyecan\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Sifat",
+        "Soyut isim (duygu sozcugu)",
+        "Somut isim",
+        "Eylem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90913",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"utan\" kelimesi hangi duyguyu ifade eder?",
+      "options": [
+        "yaptigimdan pismanlik",
+        "cosku",
+        "gurur",
+        "sevinc"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90914",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"utan\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Somut isim",
+        "Eylem",
+        "Sifat",
+        "Soyut isim (duygu sozcugu)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb90915",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"hasret\" kelimesi hangi duyguyu ifade eder?",
+      "options": [
+        "sevinci",
+        "uzakta olani özleme",
+        "nefreti",
+        "korku"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90916",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"hasret\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Somut isim",
+        "Soyut isim (duygu sozcugu)",
+        "Eylem",
+        "Sifat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb90917",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"sevgi\" kelimesi hangi duyguyu ifade eder?",
+      "options": [
+        "birine duyulan derin baglilk",
+        "uzuntu",
+        "nefret",
+        "korku"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb90918",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "\"sevgi\" kelimesi hangi tur bir sozcuktur?",
+      "options": [
+        "Sifat",
+        "Soyut isim (duygu sozcugu)",
+        "Somut isim",
+        "Eylem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600849",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Bir hikâyenin başlangıcında ne olur?",
+      "options": [
+        "Çözüm sunulur",
+        "Problem çözülür",
+        "Öğüt verilir",
+        "Yer, zaman, kişiler tanıtılır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600850",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Bir hikâyede düğüm kısmı nedir?",
+      "options": [
+        "Başlangıç kısmı",
+        "Sonuç kısmı",
+        "Çözüm kısmı",
+        "Olayların karmaşıklaştığı ve gerilimin arttığı bölüm"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600851",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Bir hikâyede çözüm kısmı nedir?",
+      "options": [
+        "Düğüm kısmı",
+        "Kişi tanıtımı",
+        "Başlangıç kısmı",
+        "Olayların çözüme kavuştuğu bölüm"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600852",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Masala özgü başlangıç ifadesi nedir?",
+      "options": [
+        "Gerçek bir hikâyede",
+        "Belgelere göre",
+        "Bir varmış bir yokmuş",
+        "Bir gün"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600853",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Masal ile hikâye arasındaki temel fark nedir?",
+      "options": [
+        "Hikâyede hayvanlar konuşur",
+        "Masal daha kısadır",
+        "Masalda daha fazla kişi vardır",
+        "Masalda olaylar gerçek dışı, hikâyede gerçekçidir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600854",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Şiirde tema ne demektir?",
+      "options": [
+        "Şiirin işlediği temel konu ya da duygu",
+        "Şiirin başlığı",
+        "Şiirin uzunluğu",
+        "Şiirin uyak düzeni"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600855",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Bilgilendirici metin ile edebi metin farkı nedir?",
+      "options": [
+        "Bilgilendirici gerçek bilgi verir, edebi his ve hayal uyandırır",
+        "Edebi metin daha kolaydır",
+        "İkisi aynıdır",
+        "Bilgilendirici daha kısadır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600856",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Gazetede haber metni ne amaçla yazılır?",
+      "options": [
+        "Eğlendirmek",
+        "Okuyucuyu gerçek olaylar hakkında bilgilendirmek",
+        "Duygu aktarmak",
+        "Hayal gücü geliştirmek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600857",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Ansiklopedi ne tür bir kaynaktır?",
+      "options": [
+        "Hikâye kitabı",
+        "Şiir kitabı",
+        "Bilgilendirici, gerçek bilgi içeren kaynak",
+        "Roman"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600858",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Günlük (journal) ne tür bir yazıdır?",
+      "options": [
+        "Roman",
+        "Kişinin günlük yaşamını anlattığı kişisel yazı türü",
+        "Haber metni",
+        "Şiir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800616",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Bir hikâyenin konusu nedir?",
+      "options": [
+        "Hikâyenin uzunluğu",
+        "Anlatılan olay ya da düşüncenin özü",
+        "Kullanılan kelimeler",
+        "Hikâyedeki kişi sayısı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800617",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Bir metnin başlığı ne olmalıdır?",
+      "options": [
+        "Metnin ilk cümlesi",
+        "En uzun cümle",
+        "Konuyu yansıtan, merak uyandıran ifade",
+        "Yazarın adı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800618",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Metin türleri arasında roman nedir?",
+      "options": [
+        "Uzun kurgusal anlatı türü",
+        "Günlük",
+        "Haber yazısı",
+        "Kısa şiir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800619",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Fabl nedir?",
+      "options": [
+        "Şiir türü",
+        "Uzun roman",
+        "Hayvanların konuştuğu öğüt veren kısa hikâye",
+        "Bilimsel makale"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800620",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Biyografi nedir?",
+      "options": [
+        "Gerçek bir kişinin yaşamını anlatan yazı",
+        "Uydurma hikâye",
+        "Masal",
+        "Şiir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800621",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Otobiyografi nedir?",
+      "options": [
+        "Tarih kitabı",
+        "Kişinin kendi yaşamını anlattığı yazı",
+        "Başkasının yaşamını anlatmak",
+        "Şiir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800622",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Gezi yazısı nedir?",
+      "options": [
+        "Gezilen yerlerin izlenimlerini anlatan yazı",
+        "Roman",
+        "Şiir",
+        "Ders kitabı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800623",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Deneme nedir?",
+      "options": [
+        "Yazarın bir konudaki kişisel görüşlerini aktardığı yazı",
+        "Roman",
+        "Şiir",
+        "Haber"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800624",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Anı (hatıra) nedir?",
+      "options": [
+        "Uydurma hikâye",
+        "Yaşanmış olayları ilk elden aktaran yazı",
+        "Masal",
+        "Şiir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800625",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Fıkra nedir?",
+      "options": [
+        "Uzun roman",
+        "Bilimsel yazı",
+        "Trajik hikâye",
+        "Kısa, esprili ve güldürücü anlatı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800626",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Şiirde uyak (kafiye) ne anlama gelir?",
+      "options": [
+        "Dize sonlarındaki ses uyumu",
+        "Şiirin anlamı",
+        "Şairin adı",
+        "Şiirin uzunluğu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800627",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Redif nedir?",
+      "options": [
+        "Kıta",
+        "Dize",
+        "Uyaktan önce gelen aynı ek ya da sözcük",
+        "Uyak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800628",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Bir şiirde 'bende' → 'sende' → 'elde' uyağı nasıl bir uyaktır?",
+      "options": [
+        "Tam uyak (-de eki aynı)",
+        "Yarım uyak",
+        "Cinaslı uyak",
+        "Tunç uyak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800629",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Düzyazı (nesir) nedir?",
+      "options": [
+        "Ölçüsüz ve uyaksız yazılmış metin",
+        "Ritimli anlatı",
+        "Uyaklı metin",
+        "Şiir türü"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800630",
+      "subject": "Türkçe",
+      "theme": "Tema 6",
+      "question": "Şiir ile düzyazı arasındaki temel fark nedir?",
+      "options": [
+        "Yazar farkı",
+        "Konu farkı",
+        "Şiirde ölçü/uyak olabilir, düzyazıda olmaz",
+        "Uzunluk farkı"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

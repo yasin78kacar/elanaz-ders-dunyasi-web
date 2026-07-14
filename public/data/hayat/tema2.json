@@ -1,0 +1,498 @@
+{
+  "questions": [
+    {
+      "id": "q1401",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okulda kime öğretmen denir?",
+      "options": [
+        "Okulun temizleyeni",
+        "Para toplayan kişi",
+        "Kapı açan kişi",
+        "Bize bilgi ve beceri kazandıran kişi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1402",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul müdürü ne yapar?",
+      "options": [
+        "Yemek pişirir",
+        "Okulun yönetiminden sorumludur",
+        "Bahçeyi sular",
+        "Ders verir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1405",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okulda teneffüste ne yapılır?",
+      "options": [
+        "Sınav yapılır",
+        "Ödev verilir",
+        "Dinlenilir ve oyun oynanır",
+        "Ders dinlenir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1406",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul derslerini düzenli yapmanın faydası nedir?",
+      "options": [
+        "Öğrenmeyi pekiştirir",
+        "Arkadaşlarla oynamayı engeller",
+        "Zaman kaybettirir",
+        "Gereksizdir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1407",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul kurallarına uymak neden önemlidir?",
+      "options": [
+        "Zorunlu olduğu için",
+        "Ceza almamak için",
+        "Öğretmeni mutlu etmek için",
+        "Düzeni sağlar ve herkesi korur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1410",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul zamanında derste telefon kullanmak doğru mu?",
+      "options": [
+        "Evet",
+        "Sadece izinle",
+        "Hayır",
+        "Bazen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1412",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Arkadaşlarımızla nasıl geçinmeliyiz?",
+      "options": [
+        "Kendimiz için düşünerek",
+        "Saygılı ve paylaşımcı olarak",
+        "Kavga ederek",
+        "Küserek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1414",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul materyal (kalem, defter vb.) neden önemsenmeli?",
+      "options": [
+        "Büyüdükçe alınmayacağı için",
+        "Zorunlu olduğu için",
+        "Öğrenme araçlarıdır, değerlidir",
+        "Sadece para ödendiği için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1415",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okulda diğer öğrencilerle kavga etmek doğru mu?",
+      "options": [
+        "Güçlü olursa",
+        "Evet",
+        "Hayır",
+        "Bazen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1417",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul devamsızlığı neden sakıncalıdır?",
+      "options": [
+        "Hiçbir sakıncası yok",
+        "Arkadaşlardan uzak kalınır sadece",
+        "Derslerden geri kalınır",
+        "Ev daha eğlenceli"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1418",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul kıyafetlerine (varsa) neden özen gösterilmeli?",
+      "options": [
+        "Sadece güzel göründüğü için",
+        "Temiz ve düzenli olmak önemlidir",
+        "Başkaları gördüğü için",
+        "Zorunlu olduğu için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1419",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okulun temizliğine katkıda bulunmak neden gereklidir?",
+      "options": [
+        "Zorunludur",
+        "Ortak yaşam alanımızdır",
+        "Öğretmen temizlik ister",
+        "Para ödediğimiz için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1420",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Veliler okula neden gelir?",
+      "options": [
+        "Yemek yemek için",
+        "Öğrencinin gelişimini takip etmek için",
+        "Kural belirlemek için",
+        "Öğretmeni şikayet etmek için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51112",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okulda neden grup çalışması yapılır?",
+      "options": [
+        "Sadece eğlence için",
+        "Zorunlu olduğu için",
+        "Öğretmen istediği için",
+        "Birbirinden öğrenme ve işbirliği için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91183",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Arkadasin uzgunse ne yaparsın?",
+      "options": [
+        "Kacarim",
+        "Yaninda olur, dinler ve destek veririm",
+        "Gülerim",
+        "Görmezden gelirim"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91184",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "\"Yaninda olur, dinler...\" hangi durumda dogru davranis?",
+      "options": [
+        "Kacarim",
+        "Arkadasin uzgunse ne yaparsın",
+        "Gülerim",
+        "Görmezden gelirim"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91187",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Sinifi temiz tutmak neden onemlidir?",
+      "options": [
+        "Saglikli ve güzel bir ortam icin",
+        "Para icin",
+        "Zorunlu oldugu icin",
+        "Ogretmen istedigi icin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91188",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "\"Saglikli ve güzel bi...\" hangi durumda dogru davranis?",
+      "options": [
+        "Ogretmen istedigi icin",
+        "Para icin",
+        "Zorunlu oldugu icin",
+        "Sinifi temiz tutmak neden onemlidir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91192",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "\"Gulumseyerek selamla...\" hangi durumda dogru davranis?",
+      "options": [
+        "Görmezden gelme",
+        "Gülerek bakma",
+        "Kovma",
+        "Sinifta yeni bir arkadasla nasil tanisilir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200801",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Empati nedir? (Tema 2)",
+      "options": [
+        "Sempatik olmak",
+        "Kendi duyguları",
+        "Baskasinin duygularini anlamaya calisma",
+        "Disiplin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200802",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Sorumluluk nedir? (Tema 2)",
+      "options": [
+        "Imtiyaz",
+        "Özgürlük",
+        "Hak",
+        "Yapilmasi gerekenlerle hesap verebilme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200803",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Dayanisma nedir? (Tema 2)",
+      "options": [
+        "Bireycilik",
+        "Birlikte hareket edip birbirini destekleme",
+        "Rekabet",
+        "Yalnizlik"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200804",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Paylasmak neden önemlidir? (Tema 2)",
+      "options": [
+        "Toplumsal uyum ve mutluluk saglar",
+        "Para kazandirir",
+        "Zorunluluk",
+        "Faydasiz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200805",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Dogruluk neden önemlidir? (Tema 2)",
+      "options": [
+        "Para kazandirir",
+        "Güveni tesis eder ve toplumu güçlendirir",
+        "Zorunluluk",
+        "Faydasiz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200806",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Centilmenlik nedir? (Tema 2)",
+      "options": [
+        "Baskalarina zarar verme",
+        "Kazanmak icin her yolu denemek",
+        "Sadece bireysel yarar",
+        "Dürüst, kibar ve adaletli davranis"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200807",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Kültür nedir? (Tema 2)",
+      "options": [
+        "Sadece edebiyat",
+        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
+        "Sadece sanat",
+        "Sadece müzik"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200808",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Hosgorü nedir? (Tema 2)",
+      "options": [
+        "Fark etmeme",
+        "Kendi görüsünü dayatma",
+        "Herkesin ayni olmasi",
+        "Farkli görüslere saygi ve kabul"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200809",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Vatandaslik neden önemlidir? (Tema 2)",
+      "options": [
+        "Sadece oy icin",
+        "Topluma katilim ve sorumluluklar icin",
+        "Zorunluluk",
+        "Sadece hak icin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601059",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Sınıf kurallarına neden uymalıyız?",
+      "options": [
+        "Yalnızca ceza almamak için",
+        "Öğretmen istediği için",
+        "Zorunluluk olduğu için",
+        "Düzenli ve verimli bir öğrenme ortamı için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601060",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul arkadaşınız zorbalığa uğruyorsa ne yapmalısınız?",
+      "options": [
+        "Görmezden gelmeliyiz",
+        "Seyretmeliyiz",
+        "Gülmeliyiz",
+        "Öğretmene ya da güvendiğiniz bir yetişkine söylemelisiniz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601061",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Sınıfta bir arkadaşınız yanlış bir cevap verirse ne yapmalısınız?",
+      "options": [
+        "Saygılı davranıp doğru cevabı düşündürmeye çalışmalısınız",
+        "Gülerek alay etmeliyiz",
+        "Umursamamalıyız",
+        "Bağırarak yanlış diyebiliriz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601062",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul malzemelerinize neden iyi bakmalısınız?",
+      "options": [
+        "Kaynakları verimli kullanmak ve saygı göstermek için",
+        "Gerek yok",
+        "Gösteriş için",
+        "Sadece fiyatlandığı için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601063",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Teneffüste oynanan oyunlarda kurallara neden uyulmalıdır?",
+      "options": [
+        "Yalnızca kazanmak için",
+        "Öğretmen izlediği için",
+        "Kurallar önemsizdir",
+        "Adil ve güvenli bir oyun ortamı sağlar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601064",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Başka bir çocuk yalnız kalıyorsa ne yapmalısınız?",
+      "options": [
+        "Görmezden gelmeliyiz",
+        "Kaçmalıyız",
+        "Onunla alay etmeliyiz",
+        "Ona katılıp arkadaşlık teklif etmelisiniz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601065",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okula düzenli ve zamanında gitmenin önemi nedir?",
+      "options": [
+        "Yalnızca not için",
+        "Öğretmen istediği için",
+        "Öğrenmeyi aksatmaz, sorumluluk bilincini geliştirir",
+        "Önemsizdir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601066",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Başkasının kalemini izinsiz almanız doğru mudur?",
+      "options": [
+        "Kısa süreliğine sorun yok",
+        "Evet, geri vereceğim",
+        "Evet, çünkü gereklidir",
+        "Hayır, izin istemeden almak yanlıştır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601067",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Okul kütüphanesinden kitap alırken ne yapmalısınız?",
+      "options": [
+        "Yalnızca öğretmen alabilir",
+        "İade etmeyebilirsiniz",
+        "İzinsiz alabilirsiniz",
+        "Kayıt yaptırıp zamanında iade etmelisiniz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601068",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 2",
+      "question": "Sınıfta bir arkadaşınız ağlıyorsa ne yapmalısınız?",
+      "options": [
+        "Diğerlerine anlatmalıyız",
+        "Görmezden gelmeliyiz",
+        "Yaklaşıp ne olduğunu sorabilir, destek olabilirsiniz",
+        "Gülerek geçmeliyiz"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

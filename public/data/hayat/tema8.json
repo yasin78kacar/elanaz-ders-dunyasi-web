@@ -1,0 +1,537 @@
+{
+  "questions": [
+    {
+      "id": "q1521",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Hak nedir?",
+      "options": [
+        "Herkese tanınan özgürlük ve koruma",
+        "Para kazanma",
+        "Görev",
+        "Sorumluluk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1522",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Sorumluluk nedir?",
+      "options": [
+        "Üstlenilen görev veya ödev",
+        "Hak",
+        "Para",
+        "Seçim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1524",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "BM Çocuk Hakları Sözleşmesi ne anlama gelir?",
+      "options": [
+        "Tüm çocukların haklarını korur",
+        "Sadece Türk çocuklarını korur",
+        "Haklarla ilgisi yok",
+        "Sadece zenginlerin haklarını korur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1527",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Baskı ile zorla çalıştırılmak çocuk hakkı mıdır?",
+      "options": [
+        "Sadece büyük çocuklar için",
+        "Evet",
+        "Hayır, bu bir ihlaldir",
+        "Bazen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1529",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Oyun oynamak çocukların hakkı mıdır?",
+      "options": [
+        "Tatilde evet",
+        "Hayır",
+        "Evet",
+        "Sadece izinle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1532",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Başkasına zarar vermek doğru mu?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Bazen",
+        "Küçük zararlarda tamam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1536",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Bayramlarda büyüklerin elini öpmek neden gelenektir?",
+      "options": [
+        "Zorunlu olduğu için",
+        "Para için",
+        "Saygı ve sevgi göstergesidir",
+        "Hiçbir sebebi yok"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1537",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Komşulara yardım etmek önemli midir?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Sadece aile yardım eder",
+        "Zorunlu değil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1540",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "İnsan hakları evrensel midir?",
+      "options": [
+        "Sadece yetişkinler için",
+        "Evet, tüm insanlar için geçerlidir",
+        "Sadece belirli ülkeler için",
+        "Hayır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51166",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Başkalarının fikirlerine saygı göstermek neden önemlidir?",
+      "options": [
+        "Zorunlu",
+        "Fark etmez",
+        "Sadece kendi doğrumuz var",
+        "Herkesin farklı düşünce hakkı var"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51168",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Farklı kültürlere saygı neden önemlidir?",
+      "options": [
+        "Zor",
+        "Zenginlik ve anlayış sağlar",
+        "Zorunlu",
+        "Faydasız"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51170",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Çevre üzerindeki hakkımız sınırsız mı?",
+      "options": [
+        "Hayır, gelecek nesiller de haklı",
+        "Evet",
+        "Sadece büyükler sınırsız",
+        "Bazen sınırsız"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51171",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Hayvan hakları var mıdır?",
+      "options": [
+        "Bazen",
+        "Evet, hayvanlara da saygı gösterilmeli",
+        "Hayır",
+        "Sadece evcil hayvanlar için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51172",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Verilen sözü tutmak neden önemlidir?",
+      "options": [
+        "Zorunlu",
+        "Güven ve dürüstlük için",
+        "Faydasız",
+        "Sadece ceza almamak için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51173",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Kişisel mahremiyet nedir?",
+      "options": [
+        "Faydasız kavram",
+        "Herkesle paylaşım",
+        "Zorunlu bilgi",
+        "Kişinin özel alanı ve bilgilerinin korunması"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91257",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Insan haklari ne zaman ilan edildi?",
+      "options": [
+        "1789",
+        "1948 BM Insan Haklari Bildirisi",
+        "1923",
+        "2000"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91258",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Cocuk haklari hangi sozlesmeyle güvence altina alindi?",
+      "options": [
+        "1789",
+        "1923",
+        "1948",
+        "1989 BM Cocuk Haklari Sozlesmesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91260",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Oyun oynamak hak midir?",
+      "options": [
+        "Evet, cocuklarin temel hakkidir",
+        "Zorunlu degil",
+        "Sadece eglence",
+        "Hayir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91261",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Ayrimcilik nedir?",
+      "options": [
+        "Yardim etmek",
+        "Sevmek",
+        "Kabullenmek",
+        "Birini farkli ozellikleri nedeniyle dislamak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91264",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Hukuk neden onemlidir?",
+      "options": [
+        "Sadece ceza vermek icin",
+        "Devlet icin",
+        "Toplumda düzen ve adalet saglar",
+        "Zenginler icin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qb91265",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Secim nedir?",
+      "options": [
+        "Para vermek",
+        "Atama",
+        "Kura cekmek",
+        "Demokratik yöntemle yoneticileri belirlemek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91266",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Demokrasi nedir?",
+      "options": [
+        "Oligarsi",
+        "Halkin yonetime katildigi sistem",
+        "Krallik",
+        "Diktatörlük"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200861",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Empati nedir? (Tema 8)",
+      "options": [
+        "Sempatik olmak",
+        "Kendi duyguları",
+        "Baskasinin duygularini anlamaya calisma",
+        "Disiplin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200862",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Sorumluluk nedir? (Tema 8)",
+      "options": [
+        "Özgürlük",
+        "Yapilmasi gerekenlerle hesap verebilme",
+        "Hak",
+        "Imtiyaz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200863",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Dayanisma nedir? (Tema 8)",
+      "options": [
+        "Bireycilik",
+        "Yalnizlik",
+        "Rekabet",
+        "Birlikte hareket edip birbirini destekleme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200864",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Paylasmak neden önemlidir? (Tema 8)",
+      "options": [
+        "Toplumsal uyum ve mutluluk saglar",
+        "Zorunluluk",
+        "Faydasiz",
+        "Para kazandirir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200865",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Dogruluk neden önemlidir? (Tema 8)",
+      "options": [
+        "Faydasiz",
+        "Güveni tesis eder ve toplumu güçlendirir",
+        "Zorunluluk",
+        "Para kazandirir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200866",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Centilmenlik nedir? (Tema 8)",
+      "options": [
+        "Kazanmak icin her yolu denemek",
+        "Baskalarina zarar verme",
+        "Dürüst, kibar ve adaletli davranis",
+        "Sadece bireysel yarar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200867",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Kültür nedir? (Tema 8)",
+      "options": [
+        "Sadece müzik",
+        "Sadece sanat",
+        "Sadece edebiyat",
+        "Bir toplumun yasam bicimi, degerleri ve gelenekleri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200868",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Hosgorü nedir? (Tema 8)",
+      "options": [
+        "Kendi görüsünü dayatma",
+        "Farkli görüslere saygi ve kabul",
+        "Fark etmeme",
+        "Herkesin ayni olmasi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200869",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Vatandaslik neden önemlidir? (Tema 8)",
+      "options": [
+        "Sadece oy icin",
+        "Zorunluluk",
+        "Sadece hak icin",
+        "Topluma katilim ve sorumluluklar icin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601119",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Çocukların temel hakları nelerdir?",
+      "options": [
+        "Yalnızca eğitim",
+        "Eğitim, sağlık, oyun, güvenlik ve aile hakları",
+        "Yalnızca oyun",
+        "Yalnızca sağlık"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601120",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Haklarınızı kullanırken neye dikkat etmelisiniz?",
+      "options": [
+        "Sadece kendi hakkınızı düşünmek",
+        "Kurallara uymamak",
+        "Başkalarının haklarını çiğnememek",
+        "Her şeyi yapabilirsiniz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601121",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Seçim hakkı kime verilmiştir?",
+      "options": [
+        "Yalnızca erkeklere",
+        "Yalnızca büyüklere",
+        "Yalnızca öğretmenlere",
+        "18 yaşını doldurmuş her Türk vatandaşına"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601122",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Herkesin eşit haklara sahip olduğunu söyleyen ilke nedir?",
+      "options": [
+        "Dayanışma ilkesi",
+        "Bağımsızlık ilkesi",
+        "Özgürlük ilkesi",
+        "Eşitlik ilkesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601123",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Bir çocuk zorbalığa maruz kalırsa ne yapmalıdır?",
+      "options": [
+        "Sessiz kalmalıdır",
+        "Öfkelenerek karşılık vermelidir",
+        "Okula gitmemelidir",
+        "Güvendiği bir yetişkine söylemeli ve yardım istemelidir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601124",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Engelli bireyler için neden özel düzenlemeler yapılmalıdır?",
+      "options": [
+        "Fark etmez",
+        "Toplumsal katılım ve eşit fırsat için",
+        "Yalnızca ekonomik nedenlerle",
+        "Zorunluluk olduğu için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601125",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Serbest ifade özgürlüğü ne demektir?",
+      "options": [
+        "Başkalarına zarar vermeden görüş ve düşüncelerini dile getirebilme hakkı",
+        "Her şeyi söyleyebilmek",
+        "Yalnızca yazılı ifade",
+        "Yalnızca gazete için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601126",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Hangi hak her insanda doğuştan vardır?",
+      "options": [
+        "Yaşam, özgürlük ve güvenlik hakkı",
+        "Yalnızca oy hakkı",
+        "Yalnızca eğitim hakkı",
+        "Yalnızca çalışma hakkı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601127",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Çocukların öğrenim hakkı neden güvence altındadır?",
+      "options": [
+        "Sadece para için",
+        "Sadece hükümet kararı",
+        "Önemsizdir",
+        "Eğitim bireyin ve toplumun gelişimi için temeldir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601128",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Vatandaşlık görevi nedir?",
+      "options": [
+        "Yalnızca askerlik",
+        "Kanunlara uymak, oy kullanmak, vergisini ödemek, ülkeye katkı sağlamak",
+        "Sadece vergi ödemek",
+        "Sadece oy kullanmak"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

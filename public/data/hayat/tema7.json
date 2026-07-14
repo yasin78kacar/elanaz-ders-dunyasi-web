@@ -1,0 +1,589 @@
+{
+  "questions": [
+    {
+      "id": "q1501",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Orman neden önemlidir?",
+      "options": [
+        "Su sağlar yalnızca",
+        "Oksijen üretir, hayvan barınağı sağlar",
+        "Yakıt sağlar yalnızca",
+        "Faydasızdır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1502",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Toprak erozyonu nedir?",
+      "options": [
+        "Toprağın su veya rüzgarla taşınması",
+        "Toprak rengi değişmesi",
+        "Toprağın zenginleşmesi",
+        "Toprak donması"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1503",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Hangi faaliyet erozyona neden olur?",
+      "options": [
+        "Ağaç dikme",
+        "Çim ekilmesi",
+        "Tarım",
+        "Ağaç kesimi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q1504",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Doğayı kirletmek doğru mu?",
+      "options": [
+        "Hayır",
+        "Evet",
+        "Sadece az kirletmek",
+        "Bazen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1506",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Su kaynakları nasıl korunur?",
+      "options": [
+        "Sadece yazın korunur",
+        "Çok kirletilir",
+        "Tasarruflu kullanılır, kirletilmez",
+        "Korunmaz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1507",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Hangi madde doğada uzun süre bozulmaz?",
+      "options": [
+        "Plastik",
+        "Taş (gübre olur)",
+        "Meyve kabuğu",
+        "Kağıt"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1508",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Geri dönüşüm kutularının renkleri ne anlama gelir?",
+      "options": [
+        "Farklı atık türlerini gösterir",
+        "Kutuların güzel görünmesi",
+        "Bir önemi yok",
+        "Kutuların yaşını gösterir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1509",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Yabani hayvanları beslemek her zaman iyi midir?",
+      "options": [
+        "Evet, her zaman iyi",
+        "Hayır, onlara zarar verebilir",
+        "Bazen iyidir",
+        "Kedi için iyidir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q1511",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Göl, nehir ve denizlere çöp atmak doğru mu?",
+      "options": [
+        "Küçük çöpler olsa tamam",
+        "Evet",
+        "Hayır",
+        "Bazen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1512",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Sessiz doğada hayvanlar nasıl davranır?",
+      "options": [
+        "Daha rahat ve huzurludur",
+        "Kaçar",
+        "Saldırır",
+        "Daha gergin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1513",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Hangi hayvanlar nesli tehlikede?",
+      "options": [
+        "Kedi",
+        "Köpek",
+        "Panda, Amur leoparı",
+        "Tavuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q1518",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Denizlerde kirlilik hangi sonucu doğurur?",
+      "options": [
+        "Deniz canlılarının zarar görür",
+        "Balıklar çoğalır",
+        "Su temizlenir",
+        "Faydalıdır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1519",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Hangi enerji çevre dostu?",
+      "options": [
+        "Güneş ve rüzgar enerjisi",
+        "Kömür",
+        "Petrol",
+        "Doğalgaz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q1520",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Çevre kirliliğini azaltmak için ne yapabiliriz?",
+      "options": [
+        "Daha fazla plastik tüketmek",
+        "Enerji israf etmek",
+        "Toplu taşıma kullanmak, geri dönüşüm",
+        "Daha fazla araba kullanmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51154",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Toprağı korumanın yolları nelerdir?",
+      "options": [
+        "Çok su dökmek",
+        "Erozyon önleme, ağaç dikme, kimyasal azaltma",
+        "Yakma",
+        "Toprağı atmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51155",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Su kaynaklarını korumak için neler yapabiliriz?",
+      "options": [
+        "Daha fazla kullanmak",
+        "Boşa akıtmak",
+        "Renk katmak",
+        "Tasarruflu kullanmak, kirletmemek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51156",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Piknik alanlarını temiz tutmak neden önemlidir?",
+      "options": [
+        "Sadece görüntü için",
+        "Doğayı ve diğer insanları korumak için",
+        "Zorunluluk",
+        "Yasak olduğu için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qa51158",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Çevre kirliliği insan sağlığını etkiler mi?",
+      "options": [
+        "Evet, ciddi şekilde",
+        "Bazen",
+        "Hayır",
+        "Sadece yaşlıları"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qa51159",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Doğal afet türleri nelerdir?",
+      "options": [
+        "Sadece sel",
+        "Sadece yangın",
+        "Sadece deprem",
+        "Deprem, sel, yangın, tsunami, fırtına"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51160",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Deprem öncesi alınacak önlemler nelerdir?",
+      "options": [
+        "Hiçbir şey",
+        "Sadece bina",
+        "Sadece tatbikat",
+        "Sağlam bina, hazırlık çantası, tatbikat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qa51162",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Orman yangını neden tehlikelidir?",
+      "options": [
+        "Sadece ağaçlara zarar verir",
+        "Tehlikeli değildir",
+        "Ekosistemi yok eder, hava kirletir",
+        "Faydalıdır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qa51163",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Yaban hayvanlarına dokunmak neden tehlikeli olabilir?",
+      "options": [
+        "Hayvan zevk alır",
+        "Hastalık taşıyabilir, saldırabilir",
+        "Sadece büyükler için tehlikeli",
+        "Tamamen güvenlidir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91247",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Dogal afet nedir?",
+      "options": [
+        "Hastalik",
+        "Dogannin yarattigi buyuk yikim olayi",
+        "Insan yapimi felaket",
+        "Kaza"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qb91249",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Sel neden olusur?",
+      "options": [
+        "Deprem",
+        "Yanardaag",
+        "Firtina",
+        "Asiri yagis, baraj patlamasi veya kiyi taskini"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qb91250",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Tsunami nedir?",
+      "options": [
+        "Deniz tabanindan depremden olusan dev dalga",
+        "Firtina",
+        "Sel",
+        "Kasirga"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qb91253",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Orman yanginı neden tehlikelidir?",
+      "options": [
+        "Faydalidir",
+        "Sadece agaçlara zarar verir",
+        "Tehlikeli degildir",
+        "Ekosistemi yok eder, hava kirletir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200851",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Empati nedir? (Tema 7)",
+      "options": [
+        "Kendi duyguları",
+        "Sempatik olmak",
+        "Disiplin",
+        "Baskasinin duygularini anlamaya calisma"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200852",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Sorumluluk nedir? (Tema 7)",
+      "options": [
+        "Özgürlük",
+        "Imtiyaz",
+        "Yapilmasi gerekenlerle hesap verebilme",
+        "Hak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200853",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Dayanisma nedir? (Tema 7)",
+      "options": [
+        "Rekabet",
+        "Yalnizlik",
+        "Bireycilik",
+        "Birlikte hareket edip birbirini destekleme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200854",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Paylasmak neden önemlidir? (Tema 7)",
+      "options": [
+        "Toplumsal uyum ve mutluluk saglar",
+        "Para kazandirir",
+        "Faydasiz",
+        "Zorunluluk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200855",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Dogruluk neden önemlidir? (Tema 7)",
+      "options": [
+        "Faydasiz",
+        "Zorunluluk",
+        "Güveni tesis eder ve toplumu güçlendirir",
+        "Para kazandirir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200856",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Centilmenlik nedir? (Tema 7)",
+      "options": [
+        "Dürüst, kibar ve adaletli davranis",
+        "Sadece bireysel yarar",
+        "Baskalarina zarar verme",
+        "Kazanmak icin her yolu denemek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200857",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Kültür nedir? (Tema 7)",
+      "options": [
+        "Sadece edebiyat",
+        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
+        "Sadece müzik",
+        "Sadece sanat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200858",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Hosgorü nedir? (Tema 7)",
+      "options": [
+        "Kendi görüsünü dayatma",
+        "Farkli görüslere saygi ve kabul",
+        "Herkesin ayni olmasi",
+        "Fark etmeme"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200859",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Vatandaslik neden önemlidir? (Tema 7)",
+      "options": [
+        "Sadece hak icin",
+        "Topluma katilim ve sorumluluklar icin",
+        "Zorunluluk",
+        "Sadece oy icin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601109",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Deprem sonrası neden enkaza yaklaşılmamalıdır?",
+      "options": [
+        "Çünkü kurtarıcılar gelecektir",
+        "İkinci bir sarsıntı ya da enkaz çökmesi tehlikesi vardır",
+        "Çünkü yardım gerekmez",
+        "Çünkü güvenlidir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601110",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Deprem anında masa altına sığınmanın sebebi nedir?",
+      "options": [
+        "Deprem süresince uyumak için",
+        "Soğuk havadan korunmak için",
+        "Düşen cisimlerden korunmak için",
+        "Gürültüden korumak için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe601111",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Yangından kaçarken asansör neden kullanılmamalıdır?",
+      "options": [
+        "Tehlikeli değildir",
+        "Elektrik kesintisi durumunda asansör mahsur bırakabilir",
+        "Asansör hızlıdır",
+        "Merdiven daha uzundur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe601112",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Tahliye tatbikatlarının önemi nedir?",
+      "options": [
+        "Yalnızca eğlence için",
+        "Gereksizdir",
+        "Sadece büyükler için",
+        "Gerçek bir afette insanları doğru ve hızlı hareket etmeye hazırlar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601113",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Deprem çantasında neler bulunmalıdır?",
+      "options": [
+        "Yalnızca su",
+        "Yalnızca yiyecek",
+        "Hiçbir şey",
+        "Su, ilk yardım malzemeleri, el feneri, battaniye, kimlik fotokopisi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601114",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Sel sırasında araçla sel suyuna girilmeli midir?",
+      "options": [
+        "Hayır, sel suyu görünenden derin olabilir ve araç sürüklenir",
+        "Yüzme bilenler girebilir",
+        "Evet, araç güvenlidir",
+        "Dikkatli sürünce sorun yok"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601115",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Büyük bir depremin ardından ne yapmamalısınız?",
+      "options": [
+        "Hasarlı binaların içine girmek",
+        "Yetkilileri aramak",
+        "İlk yardım uygulamak",
+        "Açık alanlara çıkmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601116",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Kış fırtınasına karşı önlem olarak ne yapılabilir?",
+      "options": [
+        "Sıcak giyinmek, içeride kalmak, taşıt yedeği bulundurmak",
+        "Dışarıda oynamak",
+        "Isınmamak",
+        "Pencereleri açmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe601117",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Yangın merdiveninin işlevi nedir?",
+      "options": [
+        "Eşyaları taşımak",
+        "Egzersiz için",
+        "Temizlik için",
+        "Yangın durumunda güvenli tahliyeyi sağlamak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe601118",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Afet anında neden paniğe kapılmamalısınız?",
+      "options": [
+        "Panik normaldir",
+        "Panik hız kazandırır",
+        "Panik yardım çeker",
+        "Panik doğru düşünüp hareket etmeyi engeller, hayati tehlike yaratır"
+      ],
+      "correctAnswer": 3
+    }
+  ]
+}
