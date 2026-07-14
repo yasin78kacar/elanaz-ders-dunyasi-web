@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import '../styles/QuizViewer.css';
 
 interface Question {
@@ -11,150 +11,237 @@ interface Question {
   image?: string;
 }
 
-const QuizViewer: React.FC = () => {
-  const [questions, setQuestions] = useState<Question[]>([]);
-  const [selectedSubject, setSelectedSubject] = useState('Matematik');
-  const [selectedTheme, setSelectedTheme] = useState('Tema 1');
-  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [score, setScore] = useState(0);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+type FeedbackState = 'idle' | 'correct' | 'wrong';
 
-  const subjects = ['Matematik', 'Türkçe', 'Fen Bilimleri', 'Hayat Bilgisi', 'İngilizce'];
-  const themes = ['Tema 1', 'Tema 2', 'Tema 3', 'Tema 4', 'Tema 5', 'Tema 6', 'Tema 7', 'Tema 8', 'Tema 9', 'Tema 10'];
+const SUBJECTS = [
+  { label: 'Matematik',     folder: 'math',    emoji: '🔢', color: '#FF6B6B' },
+  { label: 'Türkçe',        folder: 'turkce',  emoji: '📖', color: '#4ECDC4' },
+  { label: 'Fen Bilimleri', folder: 'fen',     emoji: '🔬', color: '#45B7D1' },
+  { label: 'Hayat Bilgisi', folder: 'hayat',   emoji: '🌍', color: '#96CEB4' },
+  { label: 'İngilizce',     folder: 'english', emoji: '🌟', color: '#FFEAA7' },
+];
 
-  useEffect(() => {
-    loadQuestions();
-  }, [selectedSubject, selectedTheme]);
+const THEMES = Array.from({ length: 10 }, (_, i) => `Tema ${i + 1}`);
 
-  const loadQuestions = async () => {
+const OPTION_LABELS = ['A', 'B', 'C', 'D'];
+
+interface Props {
+  onHikayeAc?: () => void;
+}
+
+const QuizViewer: React.FC<Props> = ({ onHikayeAc }) => {
+  const [questions, setQuestions]       = useState<Question[]>([]);
+  const [selectedSubject, setSelectedSubject] = useState(SUBJECTS[0].label);
+  const [selectedTheme, setSelectedTheme]     = useState('Tema 1');
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [score, setScore]               = useState(0);
+  const [loading, setLoading]           = useState(true);
+  const [error, setError]               = useState<string | null>(null);
+  const [feedback, setFeedback]         = useState<FeedbackState>('idle');
+  const [selectedOption, setSelectedOption] = useState<number | null>(null);
+
+  const activeSubject = SUBJECTS.find(s => s.label === selectedSubject) || SUBJECTS[0];
+
+  const loadQuestions = useCallback(async () => {
+    setLoading(true);
+    setError(null);
+    setFeedback('idle');
+    setSelectedOption(null);
+    setCurrentIndex(0);
+    setScore(0);
     try {
-      setLoading(true);
-      setError(null);
-      
-      const subjectMap: { [key: string]: string } = {
-        'Matematik': 'math',
-        'Türkçe': 'turkce',
-        'Fen Bilimleri': 'fen',
-        'Hayat Bilgisi': 'hayat',
-        'İngilizce': 'english'
-      };
-      
-      const folder = subjectMap[selectedSubject] || 'math';
-      const temaNum = selectedTheme.replace('Tema ', '');
-      const dataPath = `./data/${folder}/tema${temaNum}.json`;
-      
-      const response = await fetch(dataPath);
-      
-      if (!response.ok) {
-        throw new Error(`Failed to load questions from ${dataPath}`);
-      }
-      
+      const folder   = activeSubject.folder;
+      const temaNum  = selectedTheme.replace('Tema ', '');
+      const response = await fetch(`./data/${folder}/tema${temaNum}.json`);
+      if (!response.ok) throw new Error('Sorular yüklenemedi.');
       const data = await response.json();
       setQuestions(data.questions || []);
-      setCurrentQuestionIndex(0);
-      setScore(0);
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Failed to load questions');
+      setError(err instanceof Error ? err.message : 'Bir hata oluştu.');
       setQuestions([]);
     } finally {
       setLoading(false);
     }
-  };
+  }, [selectedSubject, selectedTheme]);
+
+  useEffect(() => { loadQuestions(); }, [loadQuestions]);
 
   const handleAnswer = (optionIndex: number) => {
-    if (currentQuestionIndex < questions.length) {
-      const currentQuestion = questions[currentQuestionIndex];
-      if (optionIndex === currentQuestion.correctAnswer) {
-        setScore(score + 1);
-      }
-      
-      if (currentQuestionIndex < questions.length - 1) {
-        setCurrentQuestionIndex(currentQuestionIndex + 1);
+    if (feedback !== 'idle') return;
+    const isCorrect = optionIndex === questions[currentIndex].correctAnswer;
+    setSelectedOption(optionIndex);
+    setFeedback(isCorrect ? 'correct' : 'wrong');
+    if (isCorrect) setScore(s => s + 1);
+
+    setTimeout(() => {
+      setFeedback('idle');
+      setSelectedOption(null);
+      if (currentIndex < questions.length - 1) {
+        setCurrentIndex(i => i + 1);
       } else {
-        alert(`Quiz tamamlandı! Skor: ${score + (optionIndex === currentQuestion.correctAnswer ? 1 : 0)}/${questions.length}`);
-        setCurrentQuestionIndex(0);
+        setCurrentIndex(0);
         setScore(0);
       }
-    }
+    }, 900);
   };
 
-  if (loading) {
-    return <div className="quiz-container"><p>Sorular yükleniyor...</p></div>;
-  }
+  const progress = questions.length > 0 ? ((currentIndex) / questions.length) * 100 : 0;
 
-  if (error) {
-    return <div className="quiz-container"><p style={{color: 'red'}}>Hata: {error}</p></div>;
-  }
+  // ── Selectors (always visible at top) ──────────────────────────────────
+  const selectors = (
+    <div className="qv-selectors">
+      {/* Ders seçimi */}
+      <section className="qv-section">
+        <h2 className="qv-section-title">📚 Ders Seç</h2>
+        <div className="qv-subject-grid">
+          {SUBJECTS.map(s => (
+            <button
+              key={s.label}
+              id={`subject-${s.folder}`}
+              className={`qv-subject-card ${selectedSubject === s.label ? 'qv-subject-card--active' : ''}`}
+              style={{ '--card-color': s.color } as React.CSSProperties}
+              onClick={() => setSelectedSubject(s.label)}
+            >
+              <span className="qv-subject-emoji">{s.emoji}</span>
+              <span className="qv-subject-label">{s.label}</span>
+            </button>
+          ))}
+        </div>
+      </section>
 
-  if (questions.length === 0) {
-    return <div className="quiz-container"><p>Soru bulunamadı.</p></div>;
-  }
+      {/* Tema seçimi */}
+      <section className="qv-section">
+        <h2 className="qv-section-title">🗂️ Tema Seç</h2>
+        <div className="qv-theme-grid">
+          {THEMES.map(t => (
+            <button
+              key={t}
+              id={`theme-${t.replace(' ', '-').toLowerCase()}`}
+              className={`qv-theme-pill ${selectedTheme === t ? 'qv-theme-pill--active' : ''}`}
+              style={{ '--card-color': activeSubject.color } as React.CSSProperties}
+              onClick={() => setSelectedTheme(t)}
+            >
+              {t}
+            </button>
+          ))}
+        </div>
+      </section>
+    </div>
+  );
 
-  const currentQuestion = questions[currentQuestionIndex];
+  // ── Hikaye köşesi butonu ───────────────────────────────────────────────
+  const hikayeBtn = onHikayeAc ? (
+    <button className="qv-hikaye-btn" id="btn-hikaye-kosesi" onClick={onHikayeAc}>
+      <span className="qv-hikaye-btn-emoji">📚</span>
+      <span className="qv-hikaye-btn-text">
+        <span className="qv-hikaye-btn-title">Hikaye Köşesi</span>
+        <span className="qv-hikaye-btn-sub">Oku, dinle, anladın mı?</span>
+      </span>
+      <span className="qv-hikaye-btn-arrow">›</span>
+    </button>
+  ) : null;
+
+  // ── Loading ─────────────────────────────────────────────────────────────
+  if (loading) return (
+    <div className="qv-wrap">
+      <div className="qv-hero">
+        <div className="qv-hero-title">Elanaz'ın<br />Ders Dünyası 🌈</div>
+        <div className="qv-hero-sub">2. Sınıf · 6.000+ Soru</div>
+      </div>
+      {hikayeBtn}
+      {selectors}
+      <div className="qv-loading">
+        <div className="qv-spinner" />
+        <p>Sorular yükleniyor…</p>
+      </div>
+    </div>
+  );
+
+  if (error) return (
+    <div className="qv-wrap">
+      <div className="qv-hero">
+        <div className="qv-hero-title">Elanaz'ın<br />Ders Dünyası 🌈</div>
+      </div>
+      {selectors}
+      <div className="qv-error">⚠️ {error}</div>
+    </div>
+  );
+
+  const currentQuestion = questions[currentIndex];
 
   return (
-    <div className="quiz-container">
-      <h1>Elanaz'ın Ders Dünyası</h1>
-      
-      <div className="subject-selector">
-        <h2>Bir Dersi Seç:</h2>
-        <div className="subject-buttons">
-          {subjects.map((subject) => (
-            <button
-              key={subject}
-              className={`subject-btn ${selectedSubject === subject ? 'active' : ''}`}
-              onClick={() => setSelectedSubject(subject)}
-            >
-              {subject}
-            </button>
-          ))}
-        </div>
-      </div>
+    <div className="qv-wrap">
+      {/* ── Hero başlık ── */}
+      <header className="qv-hero">
+        <div className="qv-hero-title">Elanaz'ın<br />Ders Dünyası 🌈</div>
+        <div className="qv-hero-sub">2. Sınıf · 6.000+ Soru</div>
+      </header>
 
-      <div className="subject-selector">
-        <h2>Bir Temayı Seç:</h2>
-        <div className="subject-buttons">
-          {themes.map((theme) => (
-            <button
-              key={theme}
-              className={`subject-btn ${selectedTheme === theme ? 'active' : ''}`}
-              onClick={() => setSelectedTheme(theme)}
-            >
-              {theme}
-            </button>
-          ))}
-        </div>
-      </div>
+      {/* ── Hikaye Köşesi butonu ── */}
+      {hikayeBtn}
 
-      <div className="quiz-content">
-        <div className="question-header">
-          <h2>{selectedSubject}</h2>
-          <p>Soru {currentQuestionIndex + 1}/{questions.length}</p>
+      {/* ── Seçiciler ── */}
+      {selectors}
+
+      {/* ── Quiz alanı ── */}
+      <div className="qv-quiz-card" style={{ '--card-color': activeSubject.color } as React.CSSProperties}>
+
+        {/* Üst bilgi çubuğu */}
+        <div className="qv-quiz-topbar">
+          <span className="qv-quiz-label">
+            {activeSubject.emoji} {selectedSubject} · {selectedTheme}
+          </span>
+          <span className="qv-quiz-score">
+            ⭐ {score}/{currentIndex}
+          </span>
         </div>
 
-        <div className="question-box">
-          <h3>{currentQuestion.question}</h3>
+        {/* Progress bar */}
+        <div className="qv-progress-track">
+          <div className="qv-progress-fill" style={{ width: `${progress}%` }} />
+        </div>
+        <p className="qv-progress-text">
+          Soru {currentIndex + 1} / {questions.length}
+        </p>
+
+        {/* Soru */}
+        <div className="qv-question-box">
           {currentQuestion.image && (
-            <img src={currentQuestion.image} alt="Soru görseli" className="question-image" />
+            <img src={currentQuestion.image} alt="Soru görseli" className="qv-question-img" />
           )}
+          <p className="qv-question-text">{currentQuestion.question}</p>
         </div>
 
-        <div className="options">
-          {currentQuestion.options.map((option, index) => (
-            <button
-              key={index}
-              className="option-btn"
-              onClick={() => handleAnswer(index)}
-            >
-              {option}
-            </button>
-          ))}
+        {/* Şıklar */}
+        <div className="qv-options">
+          {currentQuestion.options.map((opt, i) => {
+            let cls = 'qv-option';
+            if (selectedOption !== null) {
+              if (i === currentQuestion.correctAnswer) cls += ' qv-option--correct';
+              else if (i === selectedOption) cls += ' qv-option--wrong';
+              else cls += ' qv-option--dim';
+            }
+            return (
+              <button
+                key={i}
+                id={`option-${i}`}
+                className={cls}
+                onClick={() => handleAnswer(i)}
+                disabled={feedback !== 'idle'}
+              >
+                <span className="qv-option-label">{OPTION_LABELS[i]}</span>
+                <span className="qv-option-text">{opt}</span>
+              </button>
+            );
+          })}
         </div>
 
-        <div className="score-display">
-          Doğru Cevap: {score}/{currentQuestionIndex}
-        </div>
+        {/* Anlık geri bildirim banner */}
+        {feedback !== 'idle' && (
+          <div className={`qv-feedback qv-feedback--${feedback}`}>
+            {feedback === 'correct' ? '🎉 Harika! Doğru cevap!' : '😅 Olmadı, bir dahaki soruda!'}
+          </div>
+        )}
       </div>
     </div>
   );

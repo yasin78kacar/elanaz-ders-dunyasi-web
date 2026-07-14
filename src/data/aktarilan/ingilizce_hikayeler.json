@@ -1,244 +1,614 @@
 [
- {
-  "id": "book-my-mother",
-  "baslik": "My Mother",
-  "seviye": 1,
-  "sayfalar": [
-   "This is my mother. Her name is Ayşe. She has kind eyes and a warm smile.",
-   "My mother cooks yummy food. She reads stories at night. \"I love you, Mum!\" I say.",
-   "Mother helps me with homework. She hugs me when I am sad. My mother is the best!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-father",
-  "baslik": "My Father",
-  "seviye": 1,
-  "sayfalar": [
-   "This is my father. His name is Mehmet. He is tall and strong.",
-   "Father plays football with me. He fixes my bike. \"Good job!\" he says.",
-   "On weekends we go to the park. Father pushes me on the swing. I love my father!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-sister",
-  "baslik": "My Sister",
-  "seviye": 1,
-  "sayfalar": [
-   "This is my sister. Her name is Elif. She is older than me.",
-   "We draw pictures together. She teaches me new words in English.",
-   "Sometimes we argue, but we always say sorry. Sisters are special friends."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-brother",
-  "baslik": "My Brother",
-  "seviye": 1,
-  "sayfalar": [
-   "This is my brother. His name is Ali. He is funny and fast.",
-   "We play hide and seek. Ali hides behind the big tree.",
-   "My brother shares his snacks with me. Brothers are great!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-at-the-park",
-  "baslik": "At the Park",
-  "seviye": 1,
-  "sayfalar": [
-   "We go to the park on Sunday. The grass is green. Children are playing.",
-   "I slide down the slide. Whee! My friend pushes me on the swing.",
-   "We eat ice cream. \"See you next week!\" we say. The park is our favourite place."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-in-the-classroom",
-  "baslik": "In the Classroom",
-  "seviye": 1,
-  "sayfalar": [
-   "Our classroom is big and bright. There are desks and chairs.",
-   "The teacher writes on the board. We listen carefully. \"Open your books, please.\"",
-   "We raise our hands to speak. We help each other. I like my classroom!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-colors",
-  "baslik": "My Colors",
-  "seviye": 1,
-  "sayfalar": [
-   "Red like an apple. Blue like the sky. Yellow like the sun.",
-   "Green like grass. Orange like an orange. Pink like a flower.",
-   "Purple, brown, black, and white — so many colors! Colors are everywhere."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-numbers",
-  "baslik": "My Numbers",
-  "seviye": 1,
-  "sayfalar": [
-   "One, two, three — let us count! One sun. Two eyes. Three books.",
-   "Four chairs. Five pencils. Six balls. Seven days in a week.",
-   "Eight, nine, ten! Numbers help us every day. Can you count to ten?"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-animals",
-  "baslik": "My Animals",
-  "seviye": 1,
-  "sayfalar": [
-   "A cat says meow. A dog says woof. A duck says quack.",
-   "A cow says moo. A bird can sing. Animals are amazing!",
-   "I love animals. We must be kind to them. They are our friends."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-food",
-  "baslik": "My Food",
-  "seviye": 1,
-  "sayfalar": [
-   "For breakfast I eat bread and cheese. I drink milk. Yummy!",
-   "For lunch I have soup and fruit. Apples and oranges are healthy.",
-   "We say \"Thank you\" before we eat. Good food makes us strong!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-toys",
-  "baslik": "My Toys",
-  "seviye": 1,
-  "sayfalar": [
-   "I have many toys. A ball, a doll, and a toy car.",
-   "I share my toys with my friends. We build towers with blocks.",
-   "After playing, I put my toys away. \"Clean up time!\" says Mum."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-clothes",
-  "baslik": "My Clothes",
-  "seviye": 1,
-  "sayfalar": [
-   "I wear a T-shirt and trousers. In winter I wear a coat and a hat.",
-   "My shoes are blue. My socks are white. I can dress myself!",
-   "When it rains, I take my umbrella. Clothes keep us warm and dry."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-weather",
-  "baslik": "My Weather",
-  "seviye": 1,
-  "sayfalar": [
-   "Today is sunny. The sky is blue. We play outside.",
-   "Sometimes it rains. We hear drip, drop on the window.",
-   "Wind blows the leaves. Snow is cold and white. Weather changes every day!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-body",
-  "baslik": "My Body",
-  "seviye": 1,
-  "sayfalar": [
-   "I have two eyes to see. I have two ears to hear.",
-   "I have one nose to smell. I have ten fingers on my hands.",
-   "I brush my teeth every day. My body is wonderful. I take care of it!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-school-day",
-  "baslik": "My School Day",
-  "seviye": 1,
-  "sayfalar": [
-   "Good morning! I put on my bag and go to school.",
-   "We have Turkish, Maths, and English. We sing songs too!",
-   "School finishes at three. \"Goodbye, teacher!\" I go home happy."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-friends",
-  "baslik": "My Friends",
-  "seviye": 1,
-  "sayfalar": [
-   "Zeynep is my friend. Can is my friend too. We sit together.",
-   "We help each other in class. \"Can I borrow your eraser?\" \"Sure!\"",
-   "Friends play, laugh, and learn together. I am lucky to have good friends!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-house",
-  "baslik": "My House",
-  "seviye": 1,
-  "sayfalar": [
-   "This is my house. It has a kitchen, a living room, and bedrooms.",
-   "In the kitchen Mum cooks. In my room I sleep and read.",
-   "Home is where my family is. I love my house!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-garden",
-  "baslik": "My Garden",
-  "seviye": 1,
-  "sayfalar": [
-   "We have a small garden. There are flowers and a tree.",
-   "I water the plants. Green leaves grow in spring.",
-   "Bees visit the flowers. The garden smells wonderful!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-birthday",
-  "baslik": "My Birthday",
-  "seviye": 1,
-  "sayfalar": [
-   "Today is my birthday! I am seven years old. Hooray!",
-   "My friends come to my party. We eat cake and play games.",
-   "I open presents. \"Thank you!\" I say. Birthdays are the best day!"
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-feelings",
-  "baslik": "My Feelings",
-  "seviye": 1,
-  "sayfalar": [
-   "Sometimes I feel happy. I smile and laugh with my friends.",
-   "Sometimes I feel sad. That is okay. A hug helps me feel better.",
-   "I can say how I feel. \"I am tired.\" \"I am excited!\" Feelings are important."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-sports",
-  "baslik": "My Sports",
-  "seviye": 1,
-  "sayfalar": [
-   "I like football. I kick the ball. Go, team, go!",
-   "We run in PE class. Running makes our hearts strong.",
-   "Win or lose, we say \"Good game!\" Sport is fun and healthy."
-  ],
-  "sorular": []
- },
- {
-  "id": "book-my-transport",
-  "baslik": "My Transport",
-  "seviye": 1,
-  "sayfalar": [
-   "I go to school by bus. The bus is yellow and big.",
-   "Dad drives a blue car. Sometimes I ride my bike in the park.",
-   "Planes fly in the sky. Boats sail on the sea. So many ways to travel!"
-  ],
-  "sorular": []
- }
+  {
+    "id": "book-my-mother",
+    "baslik": "My Mother",
+    "seviye": 1,
+    "sayfalar": [
+      "This is my mother. Her name is Ayşe. She has kind eyes and a warm smile.",
+      "My mother cooks yummy food. She reads stories at night. \"I love you, Mum!\" I say.",
+      "Mother helps me with homework. She hugs me when I am sad. My mother is the best!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-father",
+    "baslik": "My Father",
+    "seviye": 1,
+    "sayfalar": [
+      "This is my father. His name is Mehmet. He is tall and strong.",
+      "Father plays football with me. He fixes my bike. \"Good job!\" he says.",
+      "On weekends we go to the park. Father pushes me on the swing. I love my father!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-sister",
+    "baslik": "My Sister",
+    "seviye": 1,
+    "sayfalar": [
+      "This is my sister. Her name is Elif. She is older than me.",
+      "We draw pictures together. She teaches me new words in English.",
+      "Sometimes we argue, but we always say sorry. Sisters are special friends."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-brother",
+    "baslik": "My Brother",
+    "seviye": 1,
+    "sayfalar": [
+      "This is my brother. His name is Ali. He is funny and fast.",
+      "We play hide and seek. Ali hides behind the big tree.",
+      "My brother shares his snacks with me. Brothers are great!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-at-the-park",
+    "baslik": "At the Park",
+    "seviye": 1,
+    "sayfalar": [
+      "We go to the park on Sunday. The grass is green. Children are playing.",
+      "I slide down the slide. Whee! My friend pushes me on the swing.",
+      "We eat ice cream. \"See you next week!\" we say. The park is our favourite place."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-in-the-classroom",
+    "baslik": "In the Classroom",
+    "seviye": 1,
+    "sayfalar": [
+      "Our classroom is big and bright. There are desks and chairs.",
+      "The teacher writes on the board. We listen carefully. \"Open your books, please.\"",
+      "We raise our hands to speak. We help each other. I like my classroom!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-colors",
+    "baslik": "My Colors",
+    "seviye": 1,
+    "sayfalar": [
+      "Red like an apple. Blue like the sky. Yellow like the sun.",
+      "Green like grass. Orange like an orange. Pink like a flower.",
+      "Purple, brown, black, and white — so many colors! Colors are everywhere."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-numbers",
+    "baslik": "My Numbers",
+    "seviye": 1,
+    "sayfalar": [
+      "One, two, three — let us count! One sun. Two eyes. Three books.",
+      "Four chairs. Five pencils. Six balls. Seven days in a week.",
+      "Eight, nine, ten! Numbers help us every day. Can you count to ten?"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-animals",
+    "baslik": "My Animals",
+    "seviye": 1,
+    "sayfalar": [
+      "A cat says meow. A dog says woof. A duck says quack.",
+      "A cow says moo. A bird can sing. Animals are amazing!",
+      "I love animals. We must be kind to them. They are our friends."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-food",
+    "baslik": "My Food",
+    "seviye": 1,
+    "sayfalar": [
+      "For breakfast I eat bread and cheese. I drink milk. Yummy!",
+      "For lunch I have soup and fruit. Apples and oranges are healthy.",
+      "We say \"Thank you\" before we eat. Good food makes us strong!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-toys",
+    "baslik": "My Toys",
+    "seviye": 1,
+    "sayfalar": [
+      "I have many toys. A ball, a doll, and a toy car.",
+      "I share my toys with my friends. We build towers with blocks.",
+      "After playing, I put my toys away. \"Clean up time!\" says Mum."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-clothes",
+    "baslik": "My Clothes",
+    "seviye": 1,
+    "sayfalar": [
+      "I wear a T-shirt and trousers. In winter I wear a coat and a hat.",
+      "My shoes are blue. My socks are white. I can dress myself!",
+      "When it rains, I take my umbrella. Clothes keep us warm and dry."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-weather",
+    "baslik": "My Weather",
+    "seviye": 1,
+    "sayfalar": [
+      "Today is sunny. The sky is blue. We play outside.",
+      "Sometimes it rains. We hear drip, drop on the window.",
+      "Wind blows the leaves. Snow is cold and white. Weather changes every day!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-body",
+    "baslik": "My Body",
+    "seviye": 1,
+    "sayfalar": [
+      "I have two eyes to see. I have two ears to hear.",
+      "I have one nose to smell. I have ten fingers on my hands.",
+      "I brush my teeth every day. My body is wonderful. I take care of it!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-school-day",
+    "baslik": "My School Day",
+    "seviye": 1,
+    "sayfalar": [
+      "Good morning! I put on my bag and go to school.",
+      "We have Turkish, Maths, and English. We sing songs too!",
+      "School finishes at three. \"Goodbye, teacher!\" I go home happy."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-friends",
+    "baslik": "My Friends",
+    "seviye": 1,
+    "sayfalar": [
+      "Zeynep is my friend. Can is my friend too. We sit together.",
+      "We help each other in class. \"Can I borrow your eraser?\" \"Sure!\"",
+      "Friends play, laugh, and learn together. I am lucky to have good friends!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-house",
+    "baslik": "My House",
+    "seviye": 1,
+    "sayfalar": [
+      "This is my house. It has a kitchen, a living room, and bedrooms.",
+      "In the kitchen Mum cooks. In my room I sleep and read.",
+      "Home is where my family is. I love my house!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-garden",
+    "baslik": "My Garden",
+    "seviye": 1,
+    "sayfalar": [
+      "We have a small garden. There are flowers and a tree.",
+      "I water the plants. Green leaves grow in spring.",
+      "Bees visit the flowers. The garden smells wonderful!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-birthday",
+    "baslik": "My Birthday",
+    "seviye": 1,
+    "sayfalar": [
+      "Today is my birthday! I am seven years old. Hooray!",
+      "My friends come to my party. We eat cake and play games.",
+      "I open presents. \"Thank you!\" I say. Birthdays are the best day!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-feelings",
+    "baslik": "My Feelings",
+    "seviye": 1,
+    "sayfalar": [
+      "Sometimes I feel happy. I smile and laugh with my friends.",
+      "Sometimes I feel sad. That is okay. A hug helps me feel better.",
+      "I can say how I feel. \"I am tired.\" \"I am excited!\" Feelings are important."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-sports",
+    "baslik": "My Sports",
+    "seviye": 1,
+    "sayfalar": [
+      "I like football. I kick the ball. Go, team, go!",
+      "We run in PE class. Running makes our hearts strong.",
+      "Win or lose, we say \"Good game!\" Sport is fun and healthy."
+    ],
+    "sorular": []
+  },
+  {
+    "id": "book-my-transport",
+    "baslik": "My Transport",
+    "seviye": 1,
+    "sayfalar": [
+      "I go to school by bus. The bus is yellow and big.",
+      "Dad drives a blue car. Sometimes I ride my bike in the park.",
+      "Planes fly in the sky. Boats sail on the sea. So many ways to travel!"
+    ],
+    "sorular": []
+  },
+  {
+    "id": "bees-and-flower-garden",
+    "baslik": "The Bees and the Flower Garden",
+    "seviye": 2,
+    "sayfalar": [
+      "At the edge of a village, there was a small flower garden. Right in the middle of the garden stood a wooden beehive. Every morning, when the sun rose, the bees flew out of the hive and buzzed from flower to flower all day long.",
+      "The smallest bee in the hive was named Buzz. Buzz was a little more curious than the other bees. One day she woke up and said, \"Today I will find the most beautiful flower!\" She began to flap her tiny wings quickly.",
+      "First she flew to the red roses. The roses were beautiful, but they had thorns. She touched a thorn and pulled back quickly. \"I could get nectar from roses, but I must be careful,\" Buzz thought.",
+      "Then she went to the yellow sunflowers. The sunflowers were huge and shining like the sun. Buzz landed on a flower and collected a lot of pollen with her tiny legs. \"Wonderful!\" she buzzed.",
+      "At noon, Buzz rested on some pink daisies. A butterfly was resting there too. The butterfly said, \"Hello, little bee! Do you know where the sweetest flower in this garden is?\" Buzz asked curiously, \"No, where?\"",
+      "The butterfly flapped its wings and pointed to the corner of the garden. \"Do you see those purple lavender flowers? All the insects love their scent.\" Buzz flew there at once. The lavender was truly magical.",
+      "She danced above the lavender flowers. Their smell was so wonderful that Buzz closed her eyes. She breathed deeply. \"This is it! I found the most beautiful flower!\" she thought.",
+      "She collected plenty of pollen from the lavender. Her legs were covered in yellow-purple dust. She had to return to the hive before sunset. She flapped her wings and set off.",
+      "When she approached the hive, the queen bee came to greet her. \"Buzz! Where did you go today and what did you find?\" Buzz excitedly told her everything. \"Lavender! I brought a lovely scent to the hive!\" she said.",
+      "The queen bee laughed. \"Well done, Buzz! Lavender honey is one of the most special honeys. Put the pollen you collected into the cells and we will make honey.\" Buzz felt very proud. She got to work immediately.",
+      "Inside the hive, everyone was busy. Some were making honeycomb, some were filling it with honey. Buzz carefully placed the lavender pollen into the cells. They sealed the cells with beeswax.",
+      "A few days later, the smell of lavender filled the hive. The queen bee took out a drop of honey and held it out to Buzz. \"Taste this.\" Buzz tasted the honey. It was so sweet her eyes lit up.",
+      "\"This is the most beautiful honey we have ever made!\" said the queen bee. All the bees buzzed with joy. That day Buzz understood something very important: being curious and exploring is the greatest gift.",
+      "The next morning, Buzz woke up again. Sunlight was streaming through the hive entrance. She wondered which flower she would discover today. She stretched her wings, took a breath, and was ready to fly.",
+      "Buzz looked at the flower garden and thought to herself: \"Every day is a new adventure, every flower is a new surprise!\" Then she flapped her tiny wings quickly and disappeared into the blue sky."
+    ],
+    "sorular": [
+      {
+        "question": "Which flower did Buzz find the most beautiful?",
+        "options": [
+          "Red roses",
+          "Yellow sunflowers",
+          "Purple lavender",
+          "Pink daisies"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who told Buzz about the most beautiful flower?",
+        "options": [
+          "The queen bee",
+          "A butterfly",
+          "A bee friend",
+          "The gardener"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What kind of honey was lavender honey?",
+        "options": [
+          "Bitter honey",
+          "One of the most special honeys",
+          "Odorless honey",
+          "Not sweet at all"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Why did Buzz not get nectar from the roses?",
+        "options": [
+          "They were too far",
+          "The roses had wilted",
+          "They had thorns",
+          "They had no scent"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Buzz learn in the story?",
+        "options": [
+          "How to fly",
+          "Being curious and exploring is a great gift",
+          "How to sell honey",
+          "How to become a butterfly"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "the-child-who-went-to-space",
+    "baslik": "The Child Who Went to Space",
+    "seviye": 2,
+    "sayfalar": [
+      "Every night before going to bed, little KAHRAMAN looked at the stars through the window. Which one is bigger? Which one is brighter? Sometimes she would look for hours, until her mother said, \"Go to sleep now!\"",
+      "\"One day I will go to space!\" KAHRAMAN would say every night. Her classmates would laugh. \"How will you go? Are you going to build a rocket?\" KAHRAMAN would just smile.",
+      "One morning at school, the teacher gave wonderful news: \"Children, there is a science fair in our city this weekend. There is even a space exhibition!\" KAHRAMAN's eyes lit up.",
+      "On Saturday morning, she went to the fair with her mother. Inside a large tent, there were rocket models, planets, and astronaut suits. KAHRAMAN looked at everything with amazement.",
+      "In the corner sat an old man with white hair and glasses. On the table was a small telescope. \"Hello!\" said the man. \"Do you like space?\" KAHRAMAN excitedly began to tell him everything.",
+      "The man smiled as he listened. \"I am a space scientist. Let me show you something.\" He let her look through the telescope. KAHRAMAN held her breath. She saw the surface of the Moon and its craters. \"Wow!\" she whispered.",
+      "\"What do I need to do to go to space?\" asked KAHRAMAN. The man thought. \"You need to study hard. Maths, science, physics... But most importantly: never lose your curiosity!\" he said.",
+      "KAHRAMAN went home. She immediately opened a notebook and wrote \"My Space Journal\" on the cover. She wrote down all the planets she knew: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+      "Every night before bed, she began to read. Sometimes books about space, sometimes about planets. She also started doing her maths homework more carefully.",
+      "A few months passed. A science competition was announced at school. The topic was: \"The Solar System.\" KAHRAMAN immediately wanted to join. She got some card, colourful paint, and wooden sticks.",
+      "She worked for days. She knew Earth was blue, Mars was red, and Jupiter was striped. She carefully painted each planet and put it on a stick. Her Solar System model was ready.",
+      "The day of the competition arrived. KAHRAMAN brought her model to the classroom. The teacher and the judges looked at each one. \"Why are the planets arranged in this order?\" they asked. KAHRAMAN explained it fluently.",
+      "The results were announced. KAHRAMAN had come first! As a prize, she won a free trip to the city planetarium. That night, looking at the stars, she smiled. Her dream felt much closer now.",
+      "At the planetarium, the ceiling turned into a huge screen. The Milky Way, comets, black holes... KAHRAMAN watched without blinking. \"This is it!\" she thought. \"This is my place!\"",
+      "On the way home, she hugged her mother. \"Mum, one day I will really go to space.\" Her mother stroked her hair. \"I know,\" she said softly. \"If you want it, you will do it.\" And the stars seemed to twinkle in agreement."
+    ],
+    "sorular": [
+      {
+        "question": "What did KAHRAMAN do every night?",
+        "options": [
+          "Played games",
+          "Looked at the stars",
+          "Read books",
+          "Listened to music"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the space scientist say about going to space?",
+        "options": [
+          "Save money",
+          "Study hard and never lose curiosity",
+          "Sleep a lot",
+          "Buy a rocket"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN make for the competition?",
+        "options": [
+          "A rocket model",
+          "A Moon model",
+          "A Solar System model",
+          "A telescope"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What place did she come in the competition?",
+        "options": [
+          "Second",
+          "Third",
+          "First",
+          "She did not join"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did she win as a prize?",
+        "options": [
+          "A telescope",
+          "A planetarium trip",
+          "A space book",
+          "A toy rocket"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "the-secret-city-under-the-sea",
+    "baslik": "The Secret City Under the Sea",
+    "seviye": 2,
+    "sayfalar": [
+      "Little KAHRAMAN, who lived by the sea, loved to listen to the sound of the waves. Every morning she ran to the beach and looked at the sea. \"I wonder what is under the water?\" she always thought.",
+      "One day while walking on the beach, something shiny caught her eye. Half-buried in the sand was a bottle covered in mother-of-pearl. Inside was a curled yellow piece of paper. KAHRAMAN excitedly opened the bottle.",
+      "She carefully unfolded the paper. On it was a strange map, and it said: \"Behind the rocks, three steps to the right, seven steps forward, you will find a door. If you know the password, you may enter.\"",
+      "KAHRAMAN ran to the rocks. Three steps to the right, seven steps forward... Right there was an old stone panel covered in seaweed. Small symbols were carved on it: a fish, a star, and a seahorse.",
+      "\"The password must be these symbols!\" she thought. She pressed them one by one: first the fish, then the star, then the seahorse. There was a click. The stone panel slowly slid to the side.",
+      "Blue light poured from inside. KAHRAMAN stepped in. A staircase led down, deep into the sea. She felt afraid, but her curiosity was stronger. She slowly went down.",
+      "At the bottom of the stairs, an amazing sight was waiting for her: a city made of glass! There were houses with windows, streets, and even a little square. Fish swam through the streets as if they were walking.",
+      "A mermaid came to the door. Her scales shimmered like diamonds. \"Welcome!\" she said. \"You are the first land child to come here. What is your name?\" KAHRAMAN told her. \"This is Coral City,\" said the mermaid.",
+      "The mermaid's name was Wave. She showed KAHRAMAN around. Inside one building was a huge library, but the books were made of seashells, not paper. \"Can you read?\" Wave asked. KAHRAMAN nodded.",
+      "She picked up a coral shell. A voice came from inside, like an audio book. A fish was narrating the history of the city: thousands of years ago, people of the sea had built this glass city to escape from a great wave.",
+      "In the square was a fountain, but instead of water, glowing blue light was shooting out. \"What is this?\" asked KAHRAMAN. Wave laughed. \"This is our source of light. We call it the Sea Sun.\"",
+      "Then Wave turned with a serious face. \"I have a question for you. Who told you about us?\" KAHRAMAN explained about the bottle. Wave thought. \"We left that bottle, hoping to find someone trustworthy. You are worthy.\"",
+      "\"What do you need from me?\" asked KAHRAMAN. Wave held out a seashell. \"Take this to the shore. In the morning at eight o'clock, bury it in the sand and let the sunlight touch it. This will renew the power of Coral City.\"",
+      "KAHRAMAN took the shell and put it safely in her pocket. Wave walked her to the bottom of the stairs. \"You will be here tomorrow morning, won't you?\" she said. KAHRAMAN laughed. \"Absolutely!\"",
+      "The next morning, as the sun rose over the horizon, KAHRAMAN stood on the shore. She buried the shell in the sand, leaving the top open. When the first ray of sunlight touched it, a bright blue light came from deep in the sea. Coral City was being renewed. KAHRAMAN smiled; she had a secret now."
+    ],
+    "sorular": [
+      {
+        "question": "Where did KAHRAMAN find the bottle?",
+        "options": [
+          "In the sea",
+          "In the sand",
+          "On a rock",
+          "At home"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was in the bottle?",
+        "options": [
+          "A poem",
+          "A map",
+          "A picture",
+          "A list"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the mermaid's name?",
+        "options": [
+          "Coral",
+          "Sea",
+          "Wave",
+          "Pearl"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What were the books in the underwater library made of?",
+        "options": [
+          "Paper",
+          "Glass",
+          "Seashells",
+          "Coral"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN do for Coral City?",
+        "options": [
+          "She destroyed it",
+          "She took the shell to the sunlight",
+          "She saved the mermaid",
+          "She swam into the sea"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "the-brave-lion",
+    "baslik": "The Lion Who Found His Courage",
+    "seviye": 2,
+    "sayfalar": [
+      "A lion family lived on a great savanna. The mother's name was Golden, the father's name was King. The little cub's name was Feather. He had earned this name because he was the lightest and thinnest lion cub.",
+      "All the other lion cubs looked strong. They ran and jumped. But Feather always stayed behind. One day a cub said: \"Feather is a coward! How can a lion be so afraid?\"",
+      "These words opened a wound inside Feather. His mother Golden hugged him. \"Courage doesn't come from strength, it comes from inside,\" she said. \"You can be brave too. But first you must know what scares you.\"",
+      "Feather thought. He was most scared of the dark at night. At night he hid in the den and wouldn't go outside. While his friends went hunting at night, he trembled inside.",
+      "One night his mother came to him. \"Tonight we are going for a walk together,\" she said. Feather immediately said \"No!\" But his mother looked into his eyes. \"I will be with you,\" she said simply.",
+      "The two of them went outside together. The sky was full of stars. The moon was shining. Feather trembled at first. His mother walked quietly. In the silence, Feather's breathing slowly steadied.",
+      "A sound was heard. From a distance came the howling of jackals. Feather stopped. \"Don't be afraid,\" said his mother. \"They stay away from me. You are a lion cub.\" These words touched Feather like a spark.",
+      "Feather lifted his head. He looked at the moon. A voice rose inside him. A small but determined voice. That voice grew and poured out of his mouth: \"GRRR!\" The jackals went silent. Feather was amazed.",
+      "\"That's it!\" said his mother. \"That voice was inside you. It was just waiting to come out.\" Feather tried again. This time an even stronger sound came out. The savanna echoed back to him.",
+      "In the morning, the other cubs woke up. Feather was sitting there, at the foot of a tree. One cub said, \"Were you outside at night?\" Feather laughed. \"I went for a walk with my mother.\"",
+      "\"Weren't you scared?\" asked the curious cub. Feather thought for a moment. \"I was scared. But I still walked. I think that's what courage means.\" The cubs were silent. They had not expected this answer.",
+      "Days passed. Feather started going outside a little more each night. First with his mother, then alone. Each time the dark felt a little less frightening. His roar also grew stronger with each passing day.",
+      "One day a large pride of lions came to the savanna. The leader lion called out to King: \"This savanna is mine now!\" The big lions tensed. Feather was there too. Something trembled inside him. But this time the trembling was not fear.",
+      "Feather stepped forward. He was tiny but stood straight. The leader lion laughed. \"Is this little cub coming against me?\" Feather took a deep breath. The spark inside him lit up. And he let out the strongest roar on the savanna.",
+      "The leader lion stepped back. He saw the fire in Feather's eyes. He quietly turned and walked away. The pride followed. King looked at his son. His eyes were full of tears. Golden whispered: \"Courage comes from inside, I said.\" Feather leaned his head on her shoulder."
+    ],
+    "sorular": [
+      {
+        "question": "Why was he named Feather?",
+        "options": [
+          "He was very fast",
+          "Because he was the lightest and thinnest cub",
+          "Because he collected feathers",
+          "Because he could fly"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was Feather most scared of?",
+        "options": [
+          "Jackals",
+          "Water",
+          "The dark at night",
+          "Other lions"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did his mother say about courage?",
+        "options": [
+          "Courage comes from strength",
+          "Courage comes from inside",
+          "Courage comes from money",
+          "Courage comes from friends"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How did Feather frighten the leader lion?",
+        "options": [
+          "By showing his teeth",
+          "By running",
+          "With a powerful roar",
+          "By calling his mother"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is courage? Answer based on the story.",
+        "options": [
+          "Never being scared",
+          "Walking even when you are scared",
+          "Being strong",
+          "Being big"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "the-adventure-of-a-seed",
+    "baslik": "The Adventure of a Seed",
+    "seviye": 2,
+    "sayfalar": [
+      "On the highest branch of an oak tree, a small acorn was hanging. Its name was Green. Every day Green would watch the forest: the tall trees, the running squirrels, and the flying birds. It always thought: \"When will I grow up?\"",
+      "One autumn morning, a strong wind blew. Green broke from its branch and rose into the air. \"Ahh!\" it cried. It was falling. Turning and gliding... Then it landed softly on the damp soil.",
+      "Everything was unfamiliar. Green looked around. Tall trees reached up to the sky. \"Where am I?\" it wondered. An earthworm was passing by. \"Welcome, little seed!\" said the worm. \"This is the heart of the forest.\"",
+      "The rain came. Cold drops fell on Green. The soil became wet and Green was slowly pulled inside. \"Stop! I'm disappearing!\" it cried out. The worm laughed. \"No, you are going into the soil to grow.\"",
+      "Under the soil it was dark. But Green felt it: something was happening inside the soil. The shell cracked. A thin white root came out. The root slowly moved deeper into the soil, looking for water.",
+      "Days passed. The root reached the depths and found water. The energy inside shot upwards. It felt a place close to the surface of the soil. Light! There was light. Green's stem stretched toward the light.",
+      "One morning a tiny green shoot came out of the soil. The shoot trembled and said hello to the wind. The worm came out of the soil. \"There you go! You are a sapling now.\" Green shook its tiny leaves with joy.",
+      "Spring came. The sun warmed the sapling. Green grew a little every day. But growing was not easy. One day a storm came. The strong wind tried to bend the sapling. Green pressed its roots firmly into the soil.",
+      "The storm passed. Green was still standing. Its roots had reached much deeper now. A squirrel came near. \"You must have been very scared last night,\" it said. \"I was scared,\" said Green. \"But my roots held me.\"",
+      "Summer came. Green's branches spread wide. Its leaves grew big. It started to make shade. A bird came and landed on a branch. \"What a wonderful place!\" said the bird. \"Can I build a nest here?\" Green happily agreed.",
+      "The bird built a nest. It laid eggs. Then tiny chicks hatched. Green carried them in its arms and protected them from the wind. For the first time it knew what it was like to be someone's home. A beautiful feeling.",
+      "Autumn came again. Acorns formed on Green's branches. Just like itself had fallen a year before. A wind blew and an acorn broke off, gliding through the air. Green laughed. \"The adventure continues!\"",
+      "The squirrel came. \"Can I collect these acorns for winter?\" it asked. Green laughed. \"Take them all, eat them, bury them, hide them everywhere. Perhaps other trees will be born from me.\" The squirrel happily got to work.",
+      "Winter came. The leaves fell. Green stood bare. But it had no fear now. Its roots were deep in the ground. Warm water flowed under the soil. \"Spring will come again,\" it thought peacefully.",
+      "Spring came. Tiny green buds burst from Green's branches. The forest was waking up. And from a distance, the worm's voice came: \"Hello, great oak!\" Green smiled. It was now a great tree too. The adventure was complete, but in truth, it had never ended."
+    ],
+    "sorular": [
+      {
+        "question": "What was Green at the beginning?",
+        "options": [
+          "A flower",
+          "An acorn",
+          "A leaf",
+          "A seed bag"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who told Green what would happen when it went into the soil?",
+        "options": [
+          "The bird",
+          "The squirrel",
+          "The earthworm",
+          "The wind"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What held Green in the storm?",
+        "options": [
+          "The squirrel",
+          "Its roots",
+          "The bird",
+          "Its mother"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who built a nest in Green's branches?",
+        "options": [
+          "The squirrel",
+          "A bee",
+          "A bird",
+          "The worm"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was the most important thing Green learned in the story?",
+        "options": [
+          "How to fly",
+          "Growing takes patience and strong roots",
+          "How to run fast",
+          "How to get wet in the rain"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  }
 ]

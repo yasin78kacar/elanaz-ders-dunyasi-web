@@ -212,15 +212,17 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
           })()}
         </p>
       </div>
-      {dil === 'en' && (
-        <div className="hikaye-ses-row">
-          {okunuyor ? (
-            <button className="hikaye-ses-btn durdur" onClick={sesiDurdur}>⏹️ Stop</button>
-          ) : (
-            <button className="hikaye-ses-btn" onClick={() => sesliOku(isimDegistir(h.sayfalar[sayfa], h.id))}>🔊 Listen</button>
-          )}
-        </div>
-      )}
+      <div className="hikaye-ses-row">
+        {okunuyor ? (
+          <button className="hikaye-ses-btn durdur" onClick={sesiDurdur}>
+            {dil === 'tr' ? '⏹️ Durdur' : '⏹️ Stop'}
+          </button>
+        ) : (
+          <button className="hikaye-ses-btn" onClick={() => sesliOku(isimDegistir(h.sayfalar[sayfa], h.id))}>
+            {dil === 'tr' ? '🔊 Dinle' : '🔊 Listen'}
+          </button>
+        )}
+      </div>
       <div className="hikaye-nav">
         <button className="hikaye-nav-btn" disabled={ilkSayfa} onClick={() => { sesiDurdur(); setSayfa(sayfa - 1); }}>← Önceki</button>
         <span className="hikaye-sayfa-no">{sayfa + 1} / {h.sayfalar.length}</span>
