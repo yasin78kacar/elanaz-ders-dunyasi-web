@@ -164,7 +164,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
   if (loading) return (
     <div className="qv-wrap">
       <div className="qv-hero">
-        <div className="qv-hero-title">Elanaz'ın<br />Ders Dünyası 🌈</div>
+        <div className="qv-hero-title">Ders Dünyası 🌈</div>
         <div className="qv-hero-sub">2. Sınıf · 6.000+ Soru</div>
       </div>
       {extraButtons}
@@ -179,7 +179,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
   if (error) return (
     <div className="qv-wrap">
       <div className="qv-hero">
-        <div className="qv-hero-title">Elanaz'ın<br />Ders Dünyası 🌈</div>
+        <div className="qv-hero-title">Ders Dünyası 🌈</div>
       </div>
       {selectors}
       <div className="qv-error">⚠️ {error}</div>
@@ -192,12 +192,12 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
     <div className="qv-wrap">
       {/* ── Hero başlık ── */}
       <header className="qv-hero">
-        <div className="qv-hero-title">Elanaz'ın<br />Ders Dünyası 🌈</div>
+        <div className="qv-hero-title">Ders Dünyası 🌈</div>
         <div className="qv-hero-sub">2. Sınıf · 6.000+ Soru</div>
       </header>
 
-      {/* ── Hikaye Köşesi butonu ── */}
-      {hikayeBtn}
+      {/* ── Hikaye Köşesi + Oyunlar butonları ── */}
+      {extraButtons}
 
       {/* ── Seçiciler ── */}
       {selectors}
