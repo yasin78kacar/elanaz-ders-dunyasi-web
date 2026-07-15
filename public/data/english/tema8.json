@@ -521,19 +521,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qb91520",
-      "subject": "İngilizce",
-      "theme": "Tema 8",
-      "question": "\"Meyve suyu\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Bread",
-        "Juice",
-        "Milk",
-        "Juice"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb91521",
       "subject": "İngilizce",
       "theme": "Tema 8",
@@ -545,19 +532,6 @@
         "Milk"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qb91522",
-      "subject": "İngilizce",
-      "theme": "Tema 8",
-      "question": "\"Cay\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Tea",
-        "Cake",
-        "Cookie",
-        "Cake"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qb91523",
@@ -1325,6 +1299,318 @@
         "Pasta"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema8pets-141",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Cat\" hangi hayvandır?",
+      "options": [
+        "Balık",
+        "Köpek",
+        "Kuş",
+        "Kedi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema8pets-142",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Dog\" hangi hayvandır?",
+      "options": [
+        "Köpek",
+        "Ördek",
+        "Kedi",
+        "Tavşan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema8pets-143",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Bird\" hangi hayvandır?",
+      "options": [
+        "Kedi",
+        "Kuş",
+        "Balık",
+        "Tavşan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema8pets-144",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Fish\" hangi hayvandır?",
+      "options": [
+        "Kuş",
+        "Köpek",
+        "Balık",
+        "Kurbağa"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema8pets-145",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Rabbit\" hangi hayvandır?",
+      "options": [
+        "Kedi",
+        "Tavşan",
+        "Köpek",
+        "Kaplumbağa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema8pets-146",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Lion\" hangi hayvandır?",
+      "options": [
+        "Ayı",
+        "Kaplan",
+        "Aslan",
+        "Maymun"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema8pets-147",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Monkey\" hangi hayvandır?",
+      "options": [
+        "Maymun",
+        "Fil",
+        "Zürafa",
+        "Tavşan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema8pets-148",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Elephant\" hangi hayvandır?",
+      "options": [
+        "Zürafa",
+        "Aslan",
+        "Maymun",
+        "Fil"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema8pets-149",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Bear\" hangi hayvandır?",
+      "options": [
+        "Zebra",
+        "Aslan",
+        "Ayı",
+        "Kurt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema8pets-150",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Zebra\" hangi çizgili hayvandır?",
+      "options": [
+        "Zebra",
+        "Eşek",
+        "At",
+        "İnek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema8pets-151",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Horse\" hangi hayvandır?",
+      "options": [
+        "Koyun",
+        "Eşek",
+        "Keçi",
+        "At"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema8pets-152",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Cow\" hangi süt veren hayvandır?",
+      "options": [
+        "İnek",
+        "At",
+        "Keçi",
+        "Koyun"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema8pets-153",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Sheep\" hangi hayvandır?",
+      "options": [
+        "Keçi",
+        "Koyun",
+        "Tavuk",
+        "İnek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema8pets-154",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Chicken\" hangi hayvandır?",
+      "options": [
+        "Kuş",
+        "Ördek",
+        "Horoz",
+        "Tavuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema8pets-155",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Duck\" hangi vak vak diyen hayvandır?",
+      "options": [
+        "Horoz",
+        "Tavuk",
+        "Ördek",
+        "Kuş"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema8pets-156",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Fly\" eyleminin Türkçe karşılığı nedir?",
+      "options": [
+        "Uçmak",
+        "Yürümek",
+        "Yüzmek",
+        "Koşmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema8pets-157",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Swim\" eyleminin Türkçe karşılığı nedir?",
+      "options": [
+        "Yürümek",
+        "Uçmak",
+        "Zıplamak",
+        "Yüzmek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema8pets-158",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Walk\" eyleminin Türkçe karşılığı nedir?",
+      "options": [
+        "Yüzmek",
+        "Koşmak",
+        "Yürümek",
+        "Uçmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema8pets-159",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Turtle\" hangi yavaş hareket eden hayvandır?",
+      "options": [
+        "Kaplumbağa",
+        "Balık",
+        "Kurbağa",
+        "Tavşan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema8pets-160",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Frog\" hangi zıplayan hayvandır?",
+      "options": [
+        "Kuş",
+        "Tavşan",
+        "Kedi",
+        "Kurbağa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-english-418",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Dog\" kelimesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Kuş",
+        "Kedi",
+        "Köpek",
+        "Balık"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-474",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Rabbit\" hangi sevimli hayvandır?",
+      "options": [
+        "Kedi",
+        "Köpek",
+        "Tavşan",
+        "Kuş"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-201",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Bird\" kelimesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Tavşan",
+        "Balık",
+        "Kuş",
+        "Kaplumbağa"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-547",
+      "subject": "İngilizce",
+      "theme": "Tema 8: Pets",
+      "question": "\"Kedi\" kelimesinin İngilizce karşılığı hangisidir?",
+      "options": [
+        "Dog",
+        "Cat",
+        "Bird",
+        "Fish"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

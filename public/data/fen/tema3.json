@@ -560,19 +560,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qb90967",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 3",
-      "question": "Penguen hangi hayvan grubuna girer?",
-      "options": [
-        "Balik",
-        "Kus",
-        "Kus",
-        "Sürungen"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb90968",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
@@ -610,19 +597,6 @@
         "Derin okyanusta"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qb90971",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 3",
-      "question": "Kartal hangi hayvan grubuna girer?",
-      "options": [
-        "Sürungen",
-        "Balik",
-        "Kus",
-        "Kus"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qb90972",
@@ -714,19 +688,6 @@
         "Tropik"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qb90979",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 3",
-      "question": "Timsah hangi hayvan grubuna girer?",
-      "options": [
-        "Sürungen",
-        "Balik",
-        "Kus",
-        "Sürungen"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qb90980",
@@ -1297,6 +1258,743 @@
         "Aslan",
         "Tavşan",
         "Kartal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-81",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Çevremizde yer kaplayan, duyu organlarıyla algılanan her varlığa ne denir?",
+      "options": [
+        "Işık",
+        "Ses",
+        "Kuvvet",
+        "Madde"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-82",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi sert bir maddedir?",
+      "options": [
+        "Sünger",
+        "Yastık",
+        "Pamuk",
+        "Taş"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-83",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Kolayca bükülebilen, dokunulduğunda yumuşak hissettiren madde hangisidir?",
+      "options": [
+        "Tahta masa",
+        "Pamuk",
+        "Demir çivi",
+        "Cam bardak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-84",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Kuvvet uygulandığında şekli değişen, bırakıldığında eski şekline dönen maddeye ne denir?",
+      "options": [
+        "Kırılgan madde",
+        "Sıvı madde",
+        "Esnek madde",
+        "Sert madde"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-85",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi esnek bir maddedir?",
+      "options": [
+        "Paket lastiği",
+        "Tebeşir",
+        "Demir kaşık",
+        "Cam sürahi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-86",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Bir darbe aldığında hemen kırılan, parçalanan maddelere ne denir?",
+      "options": [
+        "Sıvı madde",
+        "Kırılgan madde",
+        "Esnek madde",
+        "Yumuşak madde"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-87",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi kırılgan bir maddeye örnektir?",
+      "options": [
+        "Sünger",
+        "Porselen tabak",
+        "Oyun hamuru",
+        "Plastik cetvel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-88",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Yüzeyine dokunduğumuzda girintiler çıkıntılar hissettiğimiz maddelere ne denir?",
+      "options": [
+        "Pürüzsüz madde",
+        "Sıvı madde",
+        "Pürüzlü madde",
+        "Esnek madde"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-89",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi pürüzlü bir maddedir?",
+      "options": [
+        "Plastik tepsi",
+        "Cam bardak",
+        "Ağaç kabuğu",
+        "Ayna"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-90",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Yüzeyi düz ve pürüzsüz olan, dokunduğumuzda kayma hissi veren madde hangisidir?",
+      "options": [
+        "Cam bardak",
+        "Zımpara kağıdı",
+        "Toprak yol",
+        "Ağaç gövdesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-91",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Belirli bir şekli olan ve kabın şeklini almayan maddeler hangi haldedir?",
+      "options": [
+        "Gaz maddeler",
+        "Sıvı maddeler",
+        "Akışkan maddeler",
+        "Katı maddeler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-92",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Akışkan olan ve konuldukları kabın şeklini alan maddeler hangileridir?",
+      "options": [
+        "Sıvı maddeler",
+        "Gaz maddeler",
+        "Sert maddeler",
+        "Katı maddeler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-93",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Belirli bir şekli olmayan, konulduğu ortama tamamen yayılan maddeler hangileridir?",
+      "options": [
+        "Gaz maddeler",
+        "Katı maddeler",
+        "Sert maddeler",
+        "Sıvı maddeler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-94",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Soluduğumuz hava maddenin hangi haline örnektir?",
+      "options": [
+        "Gaz",
+        "Esnek",
+        "Katı",
+        "Sıvı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-95",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Süt ve zeytinyağı maddenin hangi haline örnektir?",
+      "options": [
+        "Sert",
+        "Gaz",
+        "Katı",
+        "Sıvı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-96",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Kurşun kalem ve silgi maddenin hangi haline örnektir?",
+      "options": [
+        "Gaz",
+        "Akışkan",
+        "Sıvı",
+        "Katı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-97",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi katı bir maddedir?",
+      "options": [
+        "Hava",
+        "Masa",
+        "Limonata",
+        "Su"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-98",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi sıvı bir maddedir?",
+      "options": [
+        "Defter",
+        "Hava",
+        "Taş",
+        "Meyve suyu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-99",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Balonun içine doldurduğumuz hava maddenin hangi halindedir?",
+      "options": [
+        "Gaz",
+        "Katı",
+        "Sıvı",
+        "Kırılgan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-100",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Buzdolabındaki buz küpü eridiğinde hangi fiziksel hale dönüşür?",
+      "options": [
+        "Katı",
+        "Sert",
+        "Sıvı",
+        "Gaz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-101",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Suyun buharlaşmasıyla oluşan su buharı hangi haldedir?",
+      "options": [
+        "Sıvı",
+        "Esnek",
+        "Katı",
+        "Gaz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-102",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdaki katı maddelerden hangisi küçük taneli olduğu için konulduğu kabın şeklini alabilir?",
+      "options": [
+        "Taş blok",
+        "Tahta masa",
+        "Toz şeker / Tuz",
+        "Demir çivi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-103",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Çayımıza attığımız toz şeker ve tuz katı mıdır sıvı mıdır?",
+      "options": [
+        "Sıvıdır.",
+        "Akışkandır.",
+        "Küçük taneli katıdır.",
+        "Gazdır."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-104",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Sünger hangi niteleme özelliğine sahiptir?",
+      "options": [
+        "Esnek ve yumuşak",
+        "Sıvı ve akışkan",
+        "Pürüzsüz ve sert",
+        "Sert ve kırılgan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-105",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Zımpara kağıdı hangi amaçla kullanılır?",
+      "options": [
+        "Pürüzlü yüzeyleri pürüzsüzleştirmek için",
+        "Maddeleri kırmak için",
+        "Sıvıları ölçmek için",
+        "Maddeleri ısıtmak için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-106",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Cam sürahiye taş çarptığında kırılmasının sebebi nedir?",
+      "options": [
+        "Camın sıvı olması",
+        "Camın kırılgan olması",
+        "Camın esnek olması",
+        "Camın sert olması"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-107",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Demir çiviye çekiçle vurulduğunda kırılmamasının sebebi nedir?",
+      "options": [
+        "Demirin yumuşak olması",
+        "Demirin esnek olması",
+        "Demirin sıvı olması",
+        "Demirin sert ve dayanıklı olması"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-108",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdaki maddelerden hangisinin kokusu vardır?",
+      "options": [
+        "Cam bardak",
+        "Taş",
+        "Limon",
+        "Demir anahtar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-109",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisinin tadına bakmak sağlığımız için tehlikeli olabilir?",
+      "options": [
+        "Çilek",
+        "Temizlik malzemeleri / Deterjanlar",
+        "Elma",
+        "Su"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-110",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Bilinmeyen bir sıvıyı koklamak veya tadına bakmak neden yanlıştır?",
+      "options": [
+        "Rengi değişeceği için",
+        "Zehirli veya zararlı olabileceği için",
+        "Tadı kötü olacağı için",
+        "Sıvı döküleceği için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-111",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi kokusundan ayırt edebileceğimiz bir gıdadır?",
+      "options": [
+        "Soğan / Nane",
+        "Toz şeker",
+        "Tuz",
+        "Su"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-112",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Altın yüzük ve gümüş kolye hangi maddeden yapılmıştır?",
+      "options": [
+        "Katı madenlerden",
+        "Sıvı maddelerden",
+        "Gazlardan",
+        "Esnek plastiklerden"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-113",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Yağmur damlaları havadan yere düşerken maddenin hangi halindedir?",
+      "options": [
+        "Sıvı",
+        "Sert",
+        "Katı",
+        "Gaz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-114",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Gökten yağan dolu taneleri maddenin hangi haline örnektir?",
+      "options": [
+        "Sıvı",
+        "Gaz",
+        "Katı",
+        "Esnek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-mat-115",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Egzoz dumanı veya fabrika bacasından çıkan duman hangi haldedir?",
+      "options": [
+        "Yumuşak",
+        "Gaz ve duman",
+        "Sıvı",
+        "Katı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-116",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Yemeklerin sıcaklığını ölçmek için kullanılan termometredeki sıvı cıva hangi haldedir?",
+      "options": [
+        "Katı",
+        "Sıvı",
+        "Sert",
+        "Gaz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-mat-117",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "options": [
+        "Hava - Sıvı",
+        "Su - Gaz",
+        "Tahta - Sıvı",
+        "Taş - Katı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-mat-118",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdaki maddelerden hangisi kabın şeklini almaz?",
+      "options": [
+        "Defter",
+        "Gazoz",
+        "Süt",
+        "Su"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-119",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi gaz maddelerin bir özelliğidir?",
+      "options": [
+        "Bulundukları odaya kolayca yayılmaları",
+        "Akışkan olmamaları",
+        "Belirli bir şekillerinin olması",
+        "Sert olmaları"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-mat-120",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Maddeleri niteleyen özelliklerden hangisi dokunma duyumuzla anlaşılır?",
+      "options": [
+        "Ses",
+        "Koku",
+        "Sertlik / Yumuşaklık / Pürüzlülük",
+        "Renk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-100",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi katı bir maddeye örnektir?",
+      "options": [
+        "Limonata",
+        "Süt",
+        "Kurşun kalem",
+        "Zeytinyağı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-565",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Maddeleri niteleyen özelliklerden biri hangisidir?",
+      "options": [
+        "Sertlik",
+        "Boy",
+        "Kilo",
+        "Hız"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-9",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Pamuk, yün ve sünger gibi maddeler hangi niteleme özelliğine sahiptir?",
+      "options": [
+        "Sert",
+        "Yumuşak",
+        "Pürüzlü",
+        "Kırılgan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-136",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Hangi maddeyi göremeyiz?",
+      "options": [
+        "Kitap",
+        "Hava",
+        "Taş",
+        "Süt"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-298",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi bir sıvıdır?",
+      "options": [
+        "Masa",
+        "Kalem",
+        "Meyve suyu",
+        "Kitap"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-142",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Sıvı maddeler nasıl hareket eder?",
+      "options": [
+        "Akışkandır",
+        "Sabit durur",
+        "Uçar",
+        "Sıçrar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-186",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Bulunduğu kabın şeklini alan, akışkan olan maddelere ne ad verilir?",
+      "options": [
+        "Katı",
+        "Sert",
+        "Sıvı",
+        "Kırılgan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-316",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Hangisi maddenin hallerinden biridir?",
+      "options": [
+        "Sıvı",
+        "Sert",
+        "Kırılgan",
+        "Pürüzlü"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-509",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Hangi madde mıknatıs tarafından çekilir?",
+      "options": [
+        "Demir",
+        "Plastik",
+        "Tahta",
+        "Cam"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-444",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi bir katıdır?",
+      "options": [
+        "Su",
+        "Taş",
+        "Hava",
+        "Süt"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-500",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Dokunduğumuzda pürüzsüz hissettiğimiz madde aşağıdakilerden hangisidir?",
+      "options": [
+        "Ağaç kabuğu",
+        "Cam bardak",
+        "Zımpara kağıdı",
+        "Toprak yol"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-165",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Maddelerin hangi özelliği ile onları ayırt edemeyiz?",
+      "options": [
+        "Koku",
+        "Renk",
+        "Tat",
+        "Boy"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-273",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Hangisi esnek bir maddedir?",
+      "options": [
+        "Taş",
+        "Demir",
+        "Oyun hamuru",
+        "Cam"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-46",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Cam bardaklar veya porselen tabaklar darbe aldıklarında kolayca parçalanırlar. Bu maddelerin özelliği nedir?",
+      "options": [
+        "Esnek olmaları",
+        "Kırılgan olmaları",
+        "Yumuşak olmaları",
+        "Sıvı olmaları"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-206",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdakilerden hangisi sert ve kırılgan bir maddedir?",
+      "options": [
+        "Oyun hamuru",
+        "Cam sürahi",
+        "Sünger",
+        "Yastık"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-260",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 3: Maddeyi Tanıyalım",
+      "question": "Aşağıdaki maddelerden hangisi bükülebilen, esnek bir maddedir?",
+      "options": [
+        "Demir çivi",
+        "Cam bardak",
+        "Paket lastiği",
+        "Porselen tabak"
       ],
       "correctAnswer": 2
     }

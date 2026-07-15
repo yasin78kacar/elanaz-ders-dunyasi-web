@@ -352,123 +352,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qc200741",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Bilim nedir? (Tema 6)",
-      "options": [
-        "Edebiyat",
-        "Dogayi inceleme ve anlama yöntemi",
-        "Müzik",
-        "Sanat"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200742",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Deney neden yapilir? (Tema 6)",
-      "options": [
-        "Zorunlu oldugu icin",
-        "Para kazanmak icin",
-        "Eglence icin",
-        "Hipotezi test etmek ve bilgi üretmek icin"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200743",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Gözlem nedir? (Tema 6)",
-      "options": [
-        "Rapor yazma",
-        "Deney yapma",
-        "Varsayim yapma",
-        "Duyu organlariyla bilgi toplama"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200744",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Hipotez nedir? (Tema 6)",
-      "options": [
-        "Onaylanmis kural",
-        "Denenmemis tahmin veya varsayim",
-        "Kesin sonuc",
-        "Bilim yasasi"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200745",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Sonuc cikarma ne demektir? (Tema 6)",
-      "options": [
-        "Deneyin bulgularini yorumlamak",
-        "Gözlem yapmak",
-        "Deney yapmak",
-        "Veri toplamak"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200746",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Enerji korunumu yasasi ne der? (Tema 6)",
-      "options": [
-        "Enerji yok olur",
-        "Enerji azalir",
-        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
-        "Enerji artar"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200747",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Hucre nedir? (Tema 6)",
-      "options": [
-        "Doku",
-        "Organ",
-        "Canliların en kucuk yapısal birimi",
-        "Sistem"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200749",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Fotosantez neden önemlidir? (Tema 6)",
-      "options": [
-        "Oksijen üretir ve besin saglar",
-        "Isi üretir",
-        "Su tüketir",
-        "Sadece güzel görünür"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200750",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 6",
-      "question": "Besin zinciri neden önemlidir? (Tema 6)",
-      "options": [
-        "Ekosistemdeki enerji akisini gösterir",
-        "Isi saglar",
-        "Guzel görünür",
-        "Para üretir"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe600974",
       "subject": "Fen Bilimleri",
       "theme": "Tema 6",
@@ -662,6 +545,84 @@
         "Metal"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-51",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6: Canlılar Dünyasına Yolculuk",
+      "question": "Hayvanların hayatlarını devam ettirebilmesi için aşağıdakilerden hangisine ihtiyacı vardır?",
+      "options": [
+        "Besin, su ve hava",
+        "Bilgisayar ve internet",
+        "Kıyafet ve ayakkabı",
+        "Defter ve kitap"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-fen-314",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6: Canlılar Dünyasına Yolculuk",
+      "question": "Aşağıdakilerden hangisi canlı bir varlıktır?",
+      "options": [
+        "Papatya",
+        "Toprak",
+        "Hava",
+        "Oyuncak ayı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-fen-97",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6: Canlılar Dünyasına Yolculuk",
+      "question": "Bitkilerin büyüyüp yaşayabilmesi için aşağıdakilerden hangisine ihtiyacı yoktur?",
+      "options": [
+        "Su",
+        "Güneş ışığı",
+        "Toprak",
+        "Yemek artığı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-fen-159",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6: Canlılar Dünyasına Yolculuk",
+      "question": "Aşağıdakilerden hangisi cansız bir varlıktır?",
+      "options": [
+        "Kedi",
+        "Solucan",
+        "Taş",
+        "Çam ağacı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-318",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6: Canlılar Dünyasına Yolculuk",
+      "question": "Aşağıdaki canlılardan hangisi hareket etmek için uçar?",
+      "options": [
+        "Serçe",
+        "Tavşan",
+        "Yılan",
+        "Kurbağa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-fen-366",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 6: Canlılar Dünyasına Yolculuk",
+      "question": "Bitkilerin yeşil yaprakları güneş ışığı yardımıyla ne üretir?",
+      "options": [
+        "Kendi besinini",
+        "Toprak",
+        "Su",
+        "Taş"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

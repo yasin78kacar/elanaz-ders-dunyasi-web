@@ -482,123 +482,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qc200721",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Bilim nedir? (Tema 4)",
-      "options": [
-        "Müzik",
-        "Dogayi inceleme ve anlama yöntemi",
-        "Edebiyat",
-        "Sanat"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200722",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Deney neden yapilir? (Tema 4)",
-      "options": [
-        "Para kazanmak icin",
-        "Zorunlu oldugu icin",
-        "Hipotezi test etmek ve bilgi üretmek icin",
-        "Eglence icin"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200723",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Gözlem nedir? (Tema 4)",
-      "options": [
-        "Duyu organlariyla bilgi toplama",
-        "Deney yapma",
-        "Varsayim yapma",
-        "Rapor yazma"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200724",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Hipotez nedir? (Tema 4)",
-      "options": [
-        "Denenmemis tahmin veya varsayim",
-        "Onaylanmis kural",
-        "Kesin sonuc",
-        "Bilim yasasi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200725",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Sonuc cikarma ne demektir? (Tema 4)",
-      "options": [
-        "Veri toplamak",
-        "Gözlem yapmak",
-        "Deney yapmak",
-        "Deneyin bulgularini yorumlamak"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200726",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Enerji korunumu yasasi ne der? (Tema 4)",
-      "options": [
-        "Enerji azalir",
-        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
-        "Enerji artar",
-        "Enerji yok olur"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200727",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Hucre nedir? (Tema 4)",
-      "options": [
-        "Doku",
-        "Canliların en kucuk yapısal birimi",
-        "Sistem",
-        "Organ"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200729",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Fotosantez neden önemlidir? (Tema 4)",
-      "options": [
-        "Isi üretir",
-        "Sadece güzel görünür",
-        "Su tüketir",
-        "Oksijen üretir ve besin saglar"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200730",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Besin zinciri neden önemlidir? (Tema 4)",
-      "options": [
-        "Ekosistemdeki enerji akisini gösterir",
-        "Para üretir",
-        "Isi saglar",
-        "Guzel görünür"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe600944",
       "subject": "Fen Bilimleri",
       "theme": "Tema 4",
@@ -792,6 +675,730 @@
         "Fiziksel"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-121",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Duran bir cismi hareket ettiren veya hareketli cismi durduran etkiye ne denir?",
+      "options": [
+        "Ses",
+        "Işık",
+        "Isı",
+        "Kuvvet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-122",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Aşağıdakilerden hangisi bir hareket türü değildir?",
+      "options": [
+        "Yavaşlama",
+        "Uyumak",
+        "Hızlanma",
+        "Dönme"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-123",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Durağa yaklaşan bir otobüs hangi hareketi yapar?",
+      "options": [
+        "Hızlanma",
+        "Sallanma",
+        "Dönme",
+        "Yavaşlama"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-124",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Yeşil ışık yandığında hareket eden bir araba hangi hareketi yapar?",
+      "options": [
+        "Yavaşlama",
+        "Hızlanma",
+        "Yön değiştirme",
+        "Sallanma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-125",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Lunaparktaki dönme dolabın yaptığı hareket türü hangisidir?",
+      "options": [
+        "Dönme",
+        "Yavaşlama",
+        "Yön değiştirme",
+        "Sallanma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-force-126",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Salıncakta sallanan bir çocuğun yaptığı hareket hangisidir?",
+      "options": [
+        "Hızlanma",
+        "Dönme",
+        "Sallanma",
+        "Yön değiştirme"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-127",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Topa vurarak arkadaşımıza pas verdiğimizde top hangi hareketi yapar?",
+      "options": [
+        "Sallanma",
+        "Yavaşlama",
+        "Yön değiştirme",
+        "Dönme"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-128",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Viraja giren bir araba hangi hareketi yapar?",
+      "options": [
+        "Dönme",
+        "Sallanma",
+        "Hızlanma",
+        "Yön değiştirme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-129",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Çekmeceyi açarken hangi kuvveti uygularız?",
+      "options": [
+        "Sallama kuvveti",
+        "İtme kuvveti",
+        "Döndürme kuvveti",
+        "Çekme kuvveti"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-130",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Kapıyı kapatmak için kapı koluna hangi kuvveti uygularız?",
+      "options": [
+        "Çekme kuvveti",
+        "İtme kuvveti",
+        "Döndürme kuvveti",
+        "Sallama kuvveti"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-131",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Yerdeki topu ileriye fırlatmak için topa hangi kuvveti uygularız?",
+      "options": [
+        "Döndürme kuvveti",
+        "Sallama kuvveti",
+        "İtme kuvveti",
+        "Çekme kuvveti"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-132",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Ağaçtan düşen bir elmanın yaptığı hareket hangisidir?",
+      "options": [
+        "Sallanma",
+        "Yavaşlama",
+        "Hızlanma (Aşağı doğru)",
+        "Dönme"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-133",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Uçurtmanın ipini kendimize doğru çekerken hangi kuvveti uygularız?",
+      "options": [
+        "Çekme kuvveti",
+        "Sallama kuvveti",
+        "İtme kuvveti",
+        "Döndürme kuvveti"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-force-134",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Bisiklet sürerken frene basmak bisikleti nasıl etkiler?",
+      "options": [
+        "Yavaşlatır ve durdurur.",
+        "Sallar.",
+        "Döndürür.",
+        "Hızlandırır."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-force-135",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Sınıf kapısını açmak için kapıyı kendimize doğru çekerken hangi kuvveti uygularız?",
+      "options": [
+        "Sallama kuvveti",
+        "Döndürme kuvveti",
+        "İtme kuvveti",
+        "Çekme kuvveti"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-136",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Bebek arabasını sürmek için arkasından uyguladığımız kuvvet hangisidir?",
+      "options": [
+        "Sallama kuvveti",
+        "İtme kuvveti",
+        "Çekme kuvveti",
+        "Döndürme kuvveti"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-137",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Aşağıdakilerden hangisi itme kuvvetine örnektir?",
+      "options": [
+        "Çorabı giymek",
+        "Kapıyı açmak",
+        "Duvara çivi çakmak",
+        "Yerdeki oyuncağı kaldırmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-138",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Aşağıdakilerden hangisi çekme kuvvetine örnektir?",
+      "options": [
+        "Elektrik süpürgesini çekmek",
+        "Bebek arabasını itmek",
+        "Topa vurmak",
+        "Zile basmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-force-139",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Mikserin ucundaki aparat çalışırken hangi hareketi yapar?",
+      "options": [
+        "Dönme",
+        "Yön değiştirme",
+        "Sallanma",
+        "Yavaşlama"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-force-140",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Sarkaçlı duvar saatinin altındaki parça hangi hareketi yapar?",
+      "options": [
+        "Dönme",
+        "Sallanma",
+        "Yön değiştirme",
+        "Hızlanma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-141",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Duvarda asılı duran tahta hareketli midir cansız mıdır?",
+      "options": [
+        "Büyür.",
+        "Hareketlidir.",
+        "Nefes alır.",
+        "Hareketsiz ve cansızdır."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-142",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Yukarı doğru fırlatılan bir top en yüksek noktaya ulaşırken hangi hareketi yapar?",
+      "options": [
+        "Yavaşlama",
+        "Dönme",
+        "Hızlanma",
+        "Sallanma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-force-143",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Yukarıdan aşağıya düşen yağmur damlalarının hareketi hangisidir?",
+      "options": [
+        "Yavaşlama",
+        "Hızlanma",
+        "Sallanma",
+        "Dönme"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-144",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Koşan bir sporcu bitiş çizgisine yaklaştığında durmak için hangi hareketi yapar?",
+      "options": [
+        "Hızlanma",
+        "Dönme",
+        "Yavaşlama",
+        "Sallanma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-145",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Lunaparktaki atlıkarıncanın yaptığı hareket hangisidir?",
+      "options": [
+        "Yön değiştirme",
+        "Sallanma",
+        "Hızlanma",
+        "Dönme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-146",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Bir topu duvara fırlattığımızda top çarpıp geri döner. Topun yaptığı hareket hangisidir?",
+      "options": [
+        "Dönme",
+        "Sallanma",
+        "Hızlanma",
+        "Yön değiştirme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-147",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Mıknatıs demir çiviyi kendine doğru nasıl çeker?",
+      "options": [
+        "Çekme kuvveti uygulayarak",
+        "Sallayarak",
+        "İtme kuvvetiyle",
+        "Döndürerek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-force-148",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Aşağıdakilerden hangisi hareketli bir varlıktır?",
+      "options": [
+        "Uçan kuş",
+        "Duvar saati",
+        "Yazı tahtası",
+        "Sınıf sırası"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-force-149",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Duran topun hareket etmesi için ne uygulanmalıdır?",
+      "options": [
+        "Ses",
+        "Işık",
+        "Kuvvet (İtme)",
+        "Sıcaklık"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-150",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Aşağıdakilerden hangisi cansız olduğu halde dışarıdan bir kuvvetle hareket edebilir?",
+      "options": [
+        "Kedi",
+        "Çiçek",
+        "Ağaç",
+        "Oyuncak araba"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-151",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Aşağıdaki doğa olaylarından hangisi kuvvetli bir itme ve sürükleme gücüne sahiptir?",
+      "options": [
+        "Gece oluşumu",
+        "Rüzgar ve sel suları",
+        "Güneş ışığı",
+        "Yıldızlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-152",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Kuvvet uygulayarak paket lastiğini uzattığımızda lastikteki değişim nedir?",
+      "options": [
+        "Rengi değişir.",
+        "Şekli değişir (uzar).",
+        "Kütlesi azalır.",
+        "Sıvılaşır."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-153",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Oyun hamuruna parmağımızla bastırdığımızda hamurda ne gibi bir değişim olur?",
+      "options": [
+        "Donma",
+        "Erime",
+        "Şekil değişikliği",
+        "Renk değişikliği"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-154",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Aşağıdakilerden hangisi uygulanan kuvvet kaldırıldığında eski şekline geri dönmez?",
+      "options": [
+        "Paket lastiği",
+        "Yay",
+        "Sünger",
+        "Oyun hamuru / Kağıt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-155",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Aşağıdakilerden hangisi uygulanan kuvvet kaldırıldığında eski şekline geri döner?",
+      "options": [
+        "Oyun hamuru",
+        "Sünger / Lastik",
+        "Kağıt",
+        "Cam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-force-156",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Hareket eden bir cisme hareket yönüyle aynı doğrultuda bir itme kuvveti uygularsak cisim ne yapar?",
+      "options": [
+        "Yön değiştirir.",
+        "Yavaşlar.",
+        "Daha da hızlanır.",
+        "Durur."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-157",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Hareket eden bir cisme hareket yönünün tersine bir kuvvet uygularsak cisim ne yapar?",
+      "options": [
+        "Hızlanır.",
+        "Döner.",
+        "Yavaşlar veya durur.",
+        "Sallanır."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-force-158",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Rüzgar değirmeninin pervaneleri rüzgarın etkisiyle hangi hareketi yapar?",
+      "options": [
+        "Yavaşlama",
+        "Sallanma",
+        "Yön değiştirme",
+        "Dönme"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-159",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Beşiğin sallanması hangi harekete örnektir?",
+      "options": [
+        "Hızlanma",
+        "Yön değiştirme",
+        "Dönme",
+        "Sallanma"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-force-160",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Hareket ve Kuvvet",
+      "question": "Futbolcunun topa kafa vurarak kaleye göndermesi topun hangi hareketine örnektir?",
+      "options": [
+        "Dönme",
+        "Yavaşlama",
+        "Yön değiştirme",
+        "Sallanma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-362",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Işık nasıl yayılır?",
+      "options": [
+        "Doğrusal",
+        "Daire şeklinde",
+        "Zikzak",
+        "Yavaşça"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-276",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Işık kirliliği nelere zarar verebilir?",
+      "options": [
+        "Sadece insanlara",
+        "Sadece kuşlara",
+        "Tüm canlılara",
+        "Eşyalara"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-91",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Karanlıkta bir yeri nasıl aydınlatırız?",
+      "options": [
+        "Gözleri kapatarak",
+        "Işık açarak",
+        "Kulakları kapatarak",
+        "Uyumak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-110",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "İşitme kaybı yaşamamak için çok yüksek sesli ortamlarda ne yapmalıyız?",
+      "options": [
+        "Gözlerimizi kapatmalıyız",
+        "Kulaklarımızı koruyucu kulaklıkla kapatmalıyız",
+        "Daha yüksek sesle konuşmalıyız",
+        "Hızlıca koşmalıyız"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-386",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "En büyük ışık kaynağımız nedir?",
+      "options": [
+        "Lamba",
+        "Güneş",
+        "Ay",
+        "Mum"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-423",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Sesin şiddetini artırmak için ne kullanılır?",
+      "options": [
+        "Megafon",
+        "Kulaklık",
+        "Sessiz oda",
+        "Yastık"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-428",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Işık kaynakları olmasaydı çevremizdeki varlıkları nasıl görürdük?",
+      "options": [
+        "Daha net görürdük.",
+        "Hiç göremezdik.",
+        "Sadece renklerini görürdük.",
+        "Büyük görürdük."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-536",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Aşağıdakilerden hangisi doğal bir ses kaynağıdır?",
+      "options": [
+        "Radyo",
+        "Kuş sesi",
+        "Piyano",
+        "Araba korornası"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-544",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Aşağıdakilerden hangisi kendiliğinden ışık yayan doğal bir kaynaktır?",
+      "options": [
+        "Ay",
+        "El feneri",
+        "Yıldızlar",
+        "Sokak lambası"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-174",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Ay bir ışık kaynağı mıdır?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Bazen",
+        "Sadece gece"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-337",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Gürültü nedir?",
+      "options": [
+        "Hoş ses",
+        "Rahatsız edici ses",
+        "Müzik",
+        "Kuş sesi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-487",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Hangisi yapay ışık kaynağıdır?",
+      "options": [
+        "Güneş",
+        "Yıldız",
+        "El feneri",
+        "Şimşek"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-498",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Karanlık bir odada nesneleri göremememizin temel nedeni nedir?",
+      "options": [
+        "Gözlerimizin kapalı olması",
+        "Ortamda ışık olmaması",
+        "Ses seviyesinin düşük olması",
+        "Nesnelerin çok küçük olması"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-515",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Dünyamız için en büyük doğal ışık kaynağı hangisidir?",
+      "options": [
+        "Ay",
+        "Güneş",
+        "Lamba",
+        "Yıldızlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-388",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 4: Çevremizdeki Işık ve Sesler",
+      "question": "Ses kirliliğinden korunmak için ne yapılmalıdır?",
+      "options": [
+        "Çok bağırmalı",
+        "Kulaklık kullanmalı",
+        "Gürültülü yerlerde yaşamalı",
+        "Sessizliği korumalı"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Zor"
     }
   ]
 }

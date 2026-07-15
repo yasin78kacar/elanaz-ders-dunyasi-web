@@ -352,19 +352,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb91408",
-      "subject": "İngilizce",
-      "theme": "Tema 5",
-      "question": "\"Anne\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Grandfather",
-        "Mother",
-        "Aunt",
-        "Grandfather"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb91409",
       "subject": "İngilizce",
       "theme": "Tema 5",
@@ -376,19 +363,6 @@
         "Sister"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qb91410",
-      "subject": "İngilizce",
-      "theme": "Tema 5",
-      "question": "\"Baba\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Cousin",
-        "Cousin",
-        "Father",
-        "Child"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qb91411",
@@ -430,19 +404,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb91414",
-      "subject": "İngilizce",
-      "theme": "Tema 5",
-      "question": "\"Erkek kardes\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Brother",
-        "Family",
-        "Baby",
-        "Brother"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb91415",
       "subject": "İngilizce",
       "theme": "Tema 5",
@@ -454,19 +415,6 @@
         "Uncle"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qb91416",
-      "subject": "İngilizce",
-      "theme": "Tema 5",
-      "question": "\"Büyükbaba\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Grandfather",
-        "Cousin",
-        "Family",
-        "Cousin"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qb91419",
@@ -506,19 +454,6 @@
         "Hala veya Teyze"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qb91422",
-      "subject": "İngilizce",
-      "theme": "Tema 5",
-      "question": "\"Hala veya Teyze\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Aunt",
-        "Parents",
-        "Parents",
-        "Family"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qb91424",
@@ -1221,6 +1156,494 @@
         "O bizimle ilgileniyor."
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema5colors-76",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Red\" hangi renktir?",
+      "options": [
+        "Sarı",
+        "Mavi",
+        "Kırmızı",
+        "Yeşil"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema5colors-77",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Blue\" hangi renktir?",
+      "options": [
+        "Yeşil",
+        "Sarı",
+        "Mavi",
+        "Kırmızı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema5colors-78",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Green\" hangi renktir?",
+      "options": [
+        "Pembe",
+        "Yeşil",
+        "Mavi",
+        "Sarı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema5colors-79",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Yellow\" hangi renktir?",
+      "options": [
+        "Yeşil",
+        "Mavi",
+        "Sarı",
+        "Kırmızı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema5colors-80",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Pink\" hangi renktir?",
+      "options": [
+        "Pembe",
+        "Mavi",
+        "Turuncu",
+        "Mor"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-81",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Black\" hangi renktir?",
+      "options": [
+        "Kahverengi",
+        "Siyah",
+        "Beyaz",
+        "Gri"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema5colors-82",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"White\" hangi renktir?",
+      "options": [
+        "Beyaz",
+        "Siyah",
+        "Kırmızı",
+        "Mavi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-83",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Orange\" hangi renktir?",
+      "options": [
+        "Pembe",
+        "Yeşil",
+        "Turuncu",
+        "Mavi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema5colors-84",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"What color is it?\" sorusunun anlamı nedir?",
+      "options": [
+        "O ne renk?",
+        "O kimdir?",
+        "Bu nedir?",
+        "O kaç tane?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-85",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Purple\" hangi renktir?",
+      "options": [
+        "Mor",
+        "Pembe",
+        "Kahverengi",
+        "Gri"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-86",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "\"Brown\" hangi renktir?",
+      "options": [
+        "Siyah",
+        "Kahverengi",
+        "Gri",
+        "Yeşil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema5colors-87",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Doğadaki çimenlerin rengi olan \"Yeşil\" rengin İngilizcesi nedir?",
+      "options": [
+        "Blue",
+        "Yellow",
+        "Green",
+        "Red"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema5colors-88",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Güneşin rengi olan \"Sarı\" rengin İngilizcesi hangisidir?",
+      "options": [
+        "Yellow",
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-89",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Kömürün rengi olan \"Siyah\" rengin İngilizcesi hangisidir?",
+      "options": [
+        "Grey",
+        "White",
+        "Black",
+        "Brown"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema5colors-90",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Denizin rengi olan \"Mavi\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Blue",
+        "Yellow",
+        "Green",
+        "Red"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-91",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Yaprağın rengi olan \"Yeşil\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Green",
+        "Pink",
+        "Blue",
+        "Red"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-92",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Muzun rengi olan \"Sarı\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Yellow",
+        "Blue",
+        "Green",
+        "Red"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-93",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Sütün rengi olan \"Beyaz\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "White",
+        "Blue",
+        "Grey",
+        "Black"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-94",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Çileğin rengi olan \"Kırmızı\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Pink"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-95",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Gülün rengi olan \"Pembe\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Orange",
+        "Green",
+        "Purple",
+        "Pink"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema5colors-96",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Portakalın rengi olan \"Turuncu\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Orange",
+        "Yellow",
+        "Green",
+        "Blue"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema5colors-97",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Bulutların rengi olan \"Gri\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Black",
+        "Grey / Gray",
+        "Brown",
+        "White"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema5colors-98",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Toprağın rengi olan \"Kahverengi\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Black",
+        "Brown",
+        "Red",
+        "Yellow"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema5colors-99",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "İngilizce \"Renkler\" ne demektir?",
+      "options": [
+        "Numbers",
+        "Animals",
+        "Colors",
+        "Fruits"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema5colors-100",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Pamuğun rengi olan \"Beyaz\" kelimesinin İngilizcesi hangisidir?",
+      "options": [
+        "Black",
+        "Blue",
+        "White",
+        "Brown"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-265",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Çileklerin rengi olan \"Kırmızı\" rengin İngilizcesi hangisidir?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Orange",
+        "Pink"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-131",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colours",
+      "question": "Siyah ne demektir?",
+      "options": [
+        "White",
+        "Black",
+        "Red",
+        "Blue"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-135",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Doğadaki ağaçların yaprakları genellikle hangi renktir?",
+      "options": [
+        "Green",
+        "Red",
+        "Blue",
+        "Black"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-330",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Limonun rengini hangi İngilizce kelime ifade eder?",
+      "options": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-268",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colours",
+      "question": "Turuncu ne demektir?",
+      "options": [
+        "Purple",
+        "Orange",
+        "Red",
+        "Blue"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-english-332",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colours",
+      "question": "Sarı ne demektir?",
+      "options": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-555",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colours",
+      "question": "Renkler ne demektir?",
+      "options": [
+        "Numbers",
+        "Colours",
+        "Family",
+        "School"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-442",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colours",
+      "question": "Mavi ne demektir?",
+      "options": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Black"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-396",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Pamuk veya kar genellikle hangi renktir?",
+      "options": [
+        "White",
+        "Black",
+        "Brown",
+        "Yellow"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-139",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colors",
+      "question": "Gece gökyüzü veya kömür genellikle hangi renktir?",
+      "options": [
+        "Pink",
+        "White",
+        "Black",
+        "Blue"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-552",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colours",
+      "question": "Kırmızı ne demektir?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-english-500",
+      "subject": "İngilizce",
+      "theme": "Tema 5: Colours",
+      "question": "Yeşil ne demektir?",
+      "options": [
+        "Yellow",
+        "Green",
+        "Red",
+        "Blue"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
     }
   ]
 }

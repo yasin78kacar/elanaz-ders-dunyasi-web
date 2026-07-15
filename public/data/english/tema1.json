@@ -456,19 +456,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qb91292",
-      "subject": "İngilizce",
-      "theme": "Tema 1",
-      "question": "\"Günaydın\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Where do you live?",
-        "Good morning",
-        "Please",
-        "Good morning"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb91293",
       "subject": "İngilizce",
       "theme": "Tema 1",
@@ -506,19 +493,6 @@
         "Good afternoon"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qb91296",
-      "subject": "İngilizce",
-      "theme": "Tema 1",
-      "question": "\"Iyi aksamlar\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "You are welcome",
-        "You are welcome",
-        "Good evening",
-        "How old are you?"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qb91297",
@@ -638,19 +612,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qb91306",
-      "subject": "İngilizce",
-      "theme": "Tema 1",
-      "question": "\"Rica ederim\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Good night",
-        "I am 8 years old",
-        "You are welcome",
-        "I am 8 years old"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qb91307",
       "subject": "İngilizce",
       "theme": "Tema 1",
@@ -688,19 +649,6 @@
         "Where do you live?"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qb91310",
-      "subject": "İngilizce",
-      "theme": "Tema 1",
-      "question": "\"Kac yasindasin?\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "How old are you?",
-        "Sorry",
-        "Sorry",
-        "Thank you"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qb91311",
@@ -766,19 +714,6 @@
         "Yarin görüsürüz"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qb91316",
-      "subject": "İngilizce",
-      "theme": "Tema 1",
-      "question": "\"Yarin görüsürüz\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "My name is...",
-        "See you tomorrow",
-        "See you tomorrow",
-        "Good night"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qc200891",
@@ -1117,6 +1052,378 @@
         "Nerelisin?"
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema1words-181",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Pencil\" hangi okul eşyasıdır?",
+      "options": [
+        "Silgi",
+        "Defter",
+        "Kurşun Kalem",
+        "Çanta"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema1words-182",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Book\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Kalem",
+        "Defter",
+        "Kitap",
+        "Masa"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema1words-183",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Eraser\" hangi okul eşyasıdır?",
+      "options": [
+        "Defter",
+        "Çanta",
+        "Kalem",
+        "Silgi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema1words-184",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"School bag\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Okul çantası",
+        "Okul sırası",
+        "Defter",
+        "Kalemlik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema1words-185",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Notebook\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Defter",
+        "Kalem",
+        "Kitap",
+        "Silgi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema1words-186",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Ruler\" hangi okul eşyasıdır?",
+      "options": [
+        "Silgi",
+        "Çanta",
+        "Kalem",
+        "Cetvel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema1words-187",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Pencil case\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Kalem kutusu",
+        "Cetvel",
+        "Okul çantası",
+        "Defter"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema1words-188",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Table\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Sandalye",
+        "Tahta",
+        "Masa / Sıra",
+        "Kapı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema1words-189",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Chair\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Tahta",
+        "Masa",
+        "Pencere",
+        "Sandalye"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema1words-190",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Board\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Yazı tahtası",
+        "Kapı",
+        "Sıra",
+        "Masa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema1words-191",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Window\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Pencere",
+        "Kapı",
+        "Masa",
+        "Duvar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema1words-192",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Door\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Kapı",
+        "Tahta",
+        "Pencere",
+        "Masa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema1words-193",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Classroom\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Bahçe",
+        "Ev",
+        "Sınıf",
+        "Okul"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema1words-194",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Pencil sharpener\" hangi kalem ucu açan okul eşyasıdır?",
+      "options": [
+        "Cetvel",
+        "Silgi",
+        "Kalem kutusu",
+        "Kalemtıraş"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema1words-195",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Paper\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Kitap",
+        "Kağıt",
+        "Kalem",
+        "Defter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema1words-196",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Map\" kelimesinin duvarda asılı duran Türkçe karşılığı nedir?",
+      "options": [
+        "Harita",
+        "Tahta",
+        "Pencere",
+        "Resim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema1words-197",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Desk\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Okul sırası / Çalışma masası",
+        "Kitaplık",
+        "Çanta",
+        "Sandalye"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema1words-198",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Crayon\" hangi tür kalemdir?",
+      "options": [
+        "Tükenmez kalem",
+        "Kurşun kalem",
+        "Tebeşir",
+        "Boyama kalemi / Pastel boya"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema1words-199",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Scissors\" hangi kesici okul eşyasıdır?",
+      "options": [
+        "Cetvel",
+        "Silgi",
+        "Kalem",
+        "Makas"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema1words-200",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Words",
+      "question": "\"Glue\" hangi yapıştırıcı okul eşyasıdır?",
+      "options": [
+        "Makas",
+        "Silgi",
+        "Yapıştırıcı",
+        "Defter"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-256",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Greetings",
+      "question": "Vedalaşırken ne deriz?",
+      "options": [
+        "Hello",
+        "Goodbye",
+        "Good morning",
+        "Hi"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-english-254",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Greetings",
+      "question": "'Teşekkür ederim' İngilizcesi nedir?",
+      "options": [
+        "You are welcome",
+        "Thank you",
+        "Sorry",
+        "Hello"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-409",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Greetings",
+      "question": "'Rica ederim'in İngilizcesi nedir?",
+      "options": [
+        "Thank you",
+        "You are welcome",
+        "Hi",
+        "Bye"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-276",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Greetings",
+      "question": "'Hi' kelimesinin eş anlamlısı nedir?",
+      "options": [
+        "Hello",
+        "Goodbye",
+        "Good night",
+        "Thank you"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-43",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Greetings",
+      "question": "Birisi bize 'How are you?' dediğinde ne deriz?",
+      "options": [
+        "I am fine, thank you.",
+        "Good morning.",
+        "My name is Ali.",
+        "Hello."
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-382",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Greetings",
+      "question": "Gece ayrılırken ne deriz?",
+      "options": [
+        "Good morning",
+        "Goodbye",
+        "Good night",
+        "Hello"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-english-444",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Greetings",
+      "question": "'Hello' kelimesinin anlamı nedir?",
+      "options": [
+        "Güle güle",
+        "Günaydın",
+        "Merhaba",
+        "İyiyim"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-295",
+      "subject": "İngilizce",
+      "theme": "Tema 1: Greetings",
+      "question": "Tanıştığımıza memnun oldum İngilizcesi nedir?",
+      "options": [
+        "Nice to meet you",
+        "Hello",
+        "How are you",
+        "Goodbye"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
     }
   ]
 }

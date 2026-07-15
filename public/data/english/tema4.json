@@ -222,19 +222,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qb91380",
-      "subject": "İngilizce",
-      "theme": "Tema 4",
-      "question": "\"Köpek\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Dog",
-        "Lion",
-        "Lion",
-        "Dog"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb91381",
       "subject": "İngilizce",
       "theme": "Tema 4",
@@ -244,19 +231,6 @@
         "Cat",
         "Dog",
         "Bird"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qb91382",
-      "subject": "İngilizce",
-      "theme": "Tema 4",
-      "question": "\"Balik\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Fish",
-        "Frog",
-        "Bird",
-        "Fish"
       ],
       "correctAnswer": 0
     },
@@ -339,19 +313,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qb91390",
-      "subject": "İngilizce",
-      "theme": "Tema 4",
-      "question": "\"Koyun\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Fox",
-        "Sheep",
-        "Sheep",
-        "Cow"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb91394",
       "subject": "İngilizce",
       "theme": "Tema 4",
@@ -374,19 +335,6 @@
         "Aslan",
         "Tiger",
         "Elephant"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb91396",
-      "subject": "İngilizce",
-      "theme": "Tema 4",
-      "question": "\"Aslan\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Horse",
-        "Lion",
-        "Bird",
-        "Lion"
       ],
       "correctAnswer": 1
     },
@@ -844,6 +792,414 @@
         "Foal"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema4numbers-51",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"One\" hangi sayıdır?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema4numbers-52",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Two\" hangi sayıdır?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-53",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Three\" hangi sayıdır?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema4numbers-54",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Four\" hangi sayıdır?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-55",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Five\" hangi sayıdır?",
+      "options": [
+        "5",
+        "8",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema4numbers-56",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Six\" hangi sayıdır?",
+      "options": [
+        "6",
+        "9",
+        "5",
+        "7"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema4numbers-57",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Seven\" hangi sayıdır?",
+      "options": [
+        "7",
+        "6",
+        "9",
+        "8"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema4numbers-58",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Eight\" hangi sayıdır?",
+      "options": [
+        "7",
+        "9",
+        "10",
+        "8"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema4numbers-59",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Nine\" hangi sayıdır?",
+      "options": [
+        "9",
+        "10",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema4numbers-60",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Ten\" hangi sayıdır?",
+      "options": [
+        "9",
+        "5",
+        "10",
+        "8"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-61",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"How many apples?\" sorusunun anlamı nedir?",
+      "options": [
+        "Elmaları sever misin?",
+        "Elmalar nerede?",
+        "Kaç tane elma var?",
+        "Bu elma ne renk?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-62",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"1, 2, 3, ?, 5\" dizisinde soru işareti yerine hangi sayı gelmelidir?",
+      "options": [
+        "Three",
+        "Five",
+        "Two",
+        "Four"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema4numbers-63",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Nine\" sayısından sonra hangi sayı gelir?",
+      "options": [
+        "Seven",
+        "Six",
+        "Ten",
+        "Eight"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-64",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Five\" ile \"Two\" sayılarının toplamı kaç eder?",
+      "options": [
+        "Eight (8)",
+        "Nine (9)",
+        "Six (6)",
+        "Seven (7)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema4numbers-65",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Ten\" sayısından \"Four\" sayısını çıkarırsak geriye hangisi kalır?",
+      "options": [
+        "Eight",
+        "Seven",
+        "Six (6)",
+        "Five"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-66",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Seven\" sayısından bir önce hangi sayı gelir?",
+      "options": [
+        "Eight",
+        "Six",
+        "Five",
+        "Nine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema4numbers-67",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Three\" sayısından bir sonra hangi sayı gelir?",
+      "options": [
+        "Four",
+        "Two",
+        "Five",
+        "Six"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema4numbers-68",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Eight\" ile \"One\" sayılarının toplamı kaç eder?",
+      "options": [
+        "Eight (8)",
+        "Ten (10)",
+        "Seven (7)",
+        "Nine (9)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema4numbers-69",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Ten\" sayısından \"Five\" sayısını çıkarırsak geriye hangisi kalır?",
+      "options": [
+        "Six",
+        "Seven",
+        "Five (5)",
+        "Four"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-70",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Four\" sayısından sonra hangi sayı gelir?",
+      "options": [
+        "Three",
+        "Six",
+        "Five",
+        "Seven"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-71",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Six\" sayısından bir önce hangi sayı gelir?",
+      "options": [
+        "Four",
+        "Seven",
+        "Five",
+        "Eight"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-72",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Eight\" sayısından bir önce hangi sayı gelir?",
+      "options": [
+        "Seven",
+        "Six",
+        "Ten",
+        "Nine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema4numbers-73",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Three\" ile \"Three\" sayılarının toplamı kaç eder?",
+      "options": [
+        "Seven (7)",
+        "Eight (8)",
+        "Six (6)",
+        "Five (5)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema4numbers-74",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Four\" ile \"Four\" sayılarının toplamı kaç eder?",
+      "options": [
+        "Nine (9)",
+        "Eight (8)",
+        "Seven (7)",
+        "Six (6)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema4numbers-75",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"Five\" ile \"Five\" sayılarının toplamı kaç eder?",
+      "options": [
+        "Ten (10)",
+        "Seven (7)",
+        "Eight (8)",
+        "Nine (9)"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-3",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Classroom Rules",
+      "question": "Oturmak İngilizcesi nedir?",
+      "options": [
+        "Stand up",
+        "Sit down",
+        "Listen",
+        "Write"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-228",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Classroom Rules",
+      "question": "Sınıfta 'Sessiz ol' nasıl denir?",
+      "options": [
+        "Be quiet",
+        "Sit down",
+        "Stand up",
+        "Open the door"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-217",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Classroom Rules",
+      "question": "Bak ne demektir?",
+      "options": [
+        "Look",
+        "Listen",
+        "Write",
+        "Open"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-63",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Numbers",
+      "question": "\"One, two, three, four, ?\" sayı sayma dizisinde soru işareti yerine hangi sayı gelmelidir?",
+      "options": [
+        "Six",
+        "Ten",
+        "Five",
+        "Eight"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-88",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Classroom Rules",
+      "question": "Dinle ne demektir?",
+      "options": [
+        "Look",
+        "Listen",
+        "Write",
+        "Read"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-583",
+      "subject": "İngilizce",
+      "theme": "Tema 4: Classroom Rules",
+      "question": "Sınıfta öğretmeni dinlemek için ne denir?",
+      "options": [
+        "Listen to me",
+        "Stand up",
+        "Close the door",
+        "Sit down"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
     }
   ]
 }

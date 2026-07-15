@@ -584,6 +584,796 @@
         "Mantarlar"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-1",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Nesnelerin renklerini hangi duyu organımızla algılarız?",
+      "options": [
+        "Kulak",
+        "Deri",
+        "Göz",
+        "Burun"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-sens-2",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Çevredeki sesleri duymamızı sağlayan duyu organımız hangisidir?",
+      "options": [
+        "Kulak",
+        "Deri",
+        "Göz",
+        "Dil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-3",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Çiçeklerin kokusunu hangi organımızla alırız?",
+      "options": [
+        "Burun",
+        "Dil",
+        "Deri",
+        "Göz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-4",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Yiyeceklerin tadını hangi organımızla algılarız?",
+      "options": [
+        "Burun",
+        "Göz",
+        "Deri",
+        "Dil"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-5",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Nesnelerin sıcaklığını, soğukluğunu ve sertliğini neyle hissederiz?",
+      "options": [
+        "Göz",
+        "Deri",
+        "Dil",
+        "Kulak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-6",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Doğrudan parlak ışığa bakmak hangi duyu organımıza zarar verir?",
+      "options": [
+        "Kulak",
+        "Göz",
+        "Deri",
+        "Burun"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-7",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Yüksek sesli müzik dinlemek hangi duyu organımıza zarar verir?",
+      "options": [
+        "Dil",
+        "Burun",
+        "Göz",
+        "Kulak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-8",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Nezle olduğumuzda yiyeceklerin tadını iyi alamamamız hangi iki duyunun birlikte çalıştığını gösterir?",
+      "options": [
+        "Koklama ve Tat alma",
+        "Görme ve İşitme",
+        "Görme ve Dokunma",
+        "Dokunma ve İşitme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-9",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Göz sağlığımızı korumak için hangisini yapmalıyız?",
+      "options": [
+        "Kirli ellerle gözlerimizi ovalamak",
+        "Güneşe doğrudan çıplak gözle bakmak",
+        "Televizyonu çok yakından izlemek",
+        "Kitap okurken uygun ışık kullanmak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-10",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Kulak sağlığımızı korumak için hangisinden kaçınmalıyız?",
+      "options": [
+        "Çok yüksek sesten uzak durmaktan",
+        "Kulaklarımızı temiz tutmaktan",
+        "Kulağımıza ucu sivri cisimler sokmaktan",
+        "Banyodan sonra kulakları kurulamaktan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-sens-11",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Sıcak bir çay bardağına dokunduğumuzda sıcak olduğunu neyle anlarız?",
+      "options": [
+        "Göz",
+        "Deri",
+        "Kulak",
+        "Dil"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-12",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Rüzgarın yüzümüze vurduğunu hangi duyu organımızla hissederiz?",
+      "options": [
+        "Göz",
+        "Dil",
+        "Burun",
+        "Deri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-13",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Aşağıdakilerden hangisi bir duyu organı değildir?",
+      "options": [
+        "Dil",
+        "Burun",
+        "Kalp",
+        "Kulak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-sens-14",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Yemeklerin bozuk olup olmadığını koklayarak anlamamızı sağlayan organ hangisidir?",
+      "options": [
+        "Deri",
+        "Göz",
+        "Burun",
+        "Kulak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-sens-15",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Karanlık bir odada nesnelerin renklerini neden göremeyiz?",
+      "options": [
+        "Gözümüz kapalı olduğu için",
+        "Gözümüze ışık gelmediği için",
+        "Odada ses olmadığı için",
+        "Gözümüz yorulduğu için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-16",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Televizyon izlerken hangi iki duyu organımızı kullanırız?",
+      "options": [
+        "Göz ve Kulak",
+        "Göz ve Burun",
+        "Kulak ve Deri",
+        "Burun ve Dil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-17",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Dondurma yerken soğukluğunu ve tadını hangi iki duyu organımızla hissederiz?",
+      "options": [
+        "Deri ve Dil",
+        "Göz ve Kulak",
+        "Deri ve Burun",
+        "Burun ve Göz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-18",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Aşağıdakilerden hangisi göz sağlığını olumlu etkileyen bir besindir?",
+      "options": [
+        "Şeker",
+        "Havuç",
+        "Cips",
+        "Çikolata"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-19",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Dokunma duyu organımız olan derimizi temiz tutmak için ne yapmalıyız?",
+      "options": [
+        "Güneşte çok kalmalıyız.",
+        "Düzenli banyo yapmalıyız.",
+        "İnce giyinmeliyiz.",
+        "Ellerimizi hiç yıkamamalıyız."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-20",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Çok sıcak çorba içmek hangi organımıza zarar verebilir?",
+      "options": [
+        "Kulak",
+        "Dil",
+        "Göz",
+        "Burun"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-21",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Bir parfümün kokusunu hangi organımızla algılarız?",
+      "options": [
+        "Deri",
+        "Burun",
+        "Dil",
+        "Göz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-22",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Gözlerimizi kirli ellerle ovuşturmak neye sebep olabilir?",
+      "options": [
+        "Gözün büyümesine",
+        "Daha iyi görmeye",
+        "Göz enfeksiyonuna (mikrop kapmasına)",
+        "Göz renginin değişmesine"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-sens-23",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Kulaklığın sesini sonuna kadar açıp müzik dinlemek hangisine yol açar?",
+      "options": [
+        "Daha iyi duymaya",
+        "Gözün ağrımasına",
+        "Uykunun gelmesine",
+        "İşitme kaybına"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-24",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Bir yüzeyin pürüzlü veya pürüzsüz olduğunu neyle anlarız?",
+      "options": [
+        "Dokunarak (Deri ile)",
+        "İşiterek",
+        "Koklayarak",
+        "Tadarak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-25",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Bir elmanın kırmızı olduğunu hangi duyu organımızla anlarız?",
+      "options": [
+        "Kulak",
+        "Burun",
+        "Dil",
+        "Göz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-26",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Ateş böceğinin ışık yaydığını hangi duyu organımızla görürüz?",
+      "options": [
+        "Kulak",
+        "Göz",
+        "Burun",
+        "Deri"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-27",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Gök gürültüsünün şiddetli sesini neyle algılarız?",
+      "options": [
+        "Göz",
+        "Deri",
+        "Burun",
+        "Kulak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-28",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Yediğimiz yemeğin tuzlu olduğunu neyle anlarız?",
+      "options": [
+        "Göz",
+        "Burun",
+        "Deri",
+        "Dil"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-29",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Deniz suyunun tuzlu olduğunu hangi organımızla test ederiz?",
+      "options": [
+        "Burun",
+        "Göz",
+        "Kulak",
+        "Dil"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-30",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Gözlerimizin tozdan ve yabancı maddelerden korunmasını sağlayan yapı hangisidir?",
+      "options": [
+        "Burun delikleri",
+        "Kulaklar",
+        "Saçlar",
+        "Kirpikler ve göz kapakları"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-31",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Kulağımızın dışarıda kalan ve sesleri toplayan bölümüne ne ad verilir?",
+      "options": [
+        "İç kulak",
+        "Kulak kepçesi",
+        "Kulak zarı",
+        "Kulak yolu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-32",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Burun sağlığımız için hangisini yapmamalıyız?",
+      "options": [
+        "Burnumuzu temiz tutmak",
+        "Burun kıllarını koparmak",
+        "Temiz hava solumak",
+        "Keskin kokulardan uzak durmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-33",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Dilimizin üzerindeki küçük pütürler ne işe yarar?",
+      "options": [
+        "Yemekleri çiğnemeye",
+        "Tükürük üretmeye",
+        "Besinlerin tadını almaya",
+        "Konuşmayı engellemeye"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-sens-34",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Aşağıdakilerden hangisi derimizin görevlerinden biridir?",
+      "options": [
+        "Kokuları algılamak",
+        "Sesleri toplamak",
+        "Işığı kırmak",
+        "Vücudumuzu dış etkilerden korumak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-35",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Soğuk havalarda kulaklarımızı korumak için ne takmalıyız?",
+      "options": [
+        "Bere veya kulaklık",
+        "Gözlük",
+        "Eldiven",
+        "Maske"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-36",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Gözlerimizi güneşin zararlı ışınlarından korumak için ne kullanmalıyız?",
+      "options": [
+        "Güneş gözlüğü",
+        "Bere",
+        "Kulaklık",
+        "Maske"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-sens-37",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Aşağıdakilerden hangisi duyu organlarımızın ortak özelliklerindendir?",
+      "options": [
+        "Hepsinin başımızda yer alması",
+        "Çevremizi algılamamızı sağlamaları",
+        "Hepsini görebilmemiz",
+        "Aynı görevleri yapmaları"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-sens-38",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Bir yastığın yumuşak olduğunu hangi duyu organımızla anlarız?",
+      "options": [
+        "Dil",
+        "Göz",
+        "Burun",
+        "Deri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-sens-39",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Limonun ekşi olduğunu hangi duyu organımızla anlarız?",
+      "options": [
+        "Göz",
+        "Deri",
+        "Dil",
+        "Burun"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-sens-40",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Bahçedeki güllerin kırmızı olduğunu neyle görürüz?",
+      "options": [
+        "Burun",
+        "Dil",
+        "Göz",
+        "Kulak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-120",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Yemeklerin sıcaklığını ve tadını algılamamızı sağlayan duyu organımız hangisidir?",
+      "options": [
+        "Dil",
+        "Burun",
+        "Göz",
+        "Kulak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-fen-372",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Göz sağlığımızı korumak için ne yapılmamalıdır?",
+      "options": [
+        "Okuma yaparken uygun ışık kullanmak",
+        "Güneşe doğrudan bakmak",
+        "Gözleri temiz tutmak",
+        "Yeterli uyumak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-499",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Nesnelerin kokusunu hangi duyu organımızla algılarız?",
+      "options": [
+        "Göz",
+        "Kulak",
+        "Burun",
+        "Dil"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-303",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Çiçeklerin güzel kokusunu algılamamızı sağlayan duyu organımız hangisidir?",
+      "options": [
+        "Göz",
+        "Deri",
+        "Dil",
+        "Burun"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-fen-563",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Renkleri ayırt etmemizi sağlayan duyu organımız hangisidir?",
+      "options": [
+        "Kulak",
+        "Deri",
+        "Göz",
+        "Burun"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-518",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Kokuları algılayan organımızla soluk alıp veren organımız aynıdır. Bu organ hangisidir?",
+      "options": [
+        "Dil",
+        "Deri",
+        "Göz",
+        "Burun"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-fen-556",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Nezle veya grip olduğumuzda yiyeceklerin tadını iyi alamamamızın nedeni nedir?",
+      "options": [
+        "Koku ve tat duyularımızın birlikte çalışması",
+        "Gözlerimizin kızarması",
+        "Kulaklarımızın tıkanması",
+        "Deri hassasiyetimizin artması"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-fen-171",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Sıcak, soğuk, sert veya yumuşak gibi kavramları hangi duyu organımızla hissederiz?",
+      "options": [
+        "Kulak",
+        "Dil",
+        "Deri",
+        "Göz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-385",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Doğrudan çok şiddetli ışık kaynaklarına bakmak öncelikle hangi duyu organımıza zarar verir?",
+      "options": [
+        "Kulak",
+        "Göz",
+        "Deri",
+        "Burun"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-242",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Pürüzlü yüzeyleri algılamamızı sağlayan duyu organımız hangisidir?",
+      "options": [
+        "Deri",
+        "Göz",
+        "Kulak",
+        "Dil"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-270",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Kulak sağlığımızı korumak için hangisini yapmak tehlikelidir?",
+      "options": [
+        "Yüksek sesli ortamlardan uzak durmak",
+        "Kulağımıza sivri cisimler sokmak",
+        "Banyo sonrası kulaklarımızı kurulamak",
+        "Soğuk havalarda bere takmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-6",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Çevremizdeki sesleri algılamamızı sağlayan duyu organımız hangisidir?",
+      "options": [
+        "Burun",
+        "Göz",
+        "Kulak",
+        "Deri"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-543",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Gözlerimizin sağlığını korumak için hangisini yapmamalıyız?",
+      "options": [
+        "Televizyonu çok yakından izlemek",
+        "Kitap okurken uygun ışık kullanmak",
+        "Güneşli havalarda güneş gözlüğü takmak",
+        "Kirli ellerle gözlerimize dokunmamak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-fen-67",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Keskin kokuları hangi duyu organımızla ayırt ederiz?",
+      "options": [
+        "Dil",
+        "Göz",
+        "Burun",
+        "Kulak"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-114",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Aşağıdakilerden hangisi göz sağlığımızı olumlu etkiler?",
+      "options": [
+        "Çok yakın mesafeden ekranlara bakmak",
+        "Havuç gibi A vitamini içeren besinler tüketmek",
+        "Gözlerimizi sertçe ovalamak",
+        "Yetersiz ışıkta kitap okumak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-112",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Yiyeceklerin tadını hangi duyu organımızla alırız?",
+      "options": [
+        "Dil",
+        "Burun",
+        "Göz",
+        "Deri"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-504",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Duyu organlarımızın sağlığını korumak için ne yapmalıyız?",
+      "options": [
+        "Temiz tutmalıyız",
+        "Kirletmeliyiz",
+        "Hiç yıkamamalıyız",
+        "Güneşe çıplak gözle bakmalıyız"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-514",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Çevredeki sesleri hangi duyu organımızla işitiriz?",
+      "options": [
+        "Deri",
+        "Kulak",
+        "Göz",
+        "Dil"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-577",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Sıcak bir nesneye dokunduğumuzda ne ile hissederiz?",
+      "options": [
+        "Deri",
+        "Göz",
+        "Kulak",
+        "Burun"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-218",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 1: Beş Duyumuz",
+      "question": "Hangisi bir duyu organı değildir?",
+      "options": [
+        "Burun",
+        "Kalp",
+        "Dil",
+        "Kulak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
     }
   ]
 }

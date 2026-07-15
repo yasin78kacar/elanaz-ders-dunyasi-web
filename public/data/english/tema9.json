@@ -209,32 +209,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q1757",
-      "subject": "İngilizce",
-      "theme": "Tema 9",
-      "question": "How many days are in a week?",
-      "options": [
-        "8",
-        "6",
-        "7",
-        "5"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q1758",
-      "subject": "İngilizce",
-      "theme": "Tema 9",
-      "question": "How many months are in a year?",
-      "options": [
-        "10",
-        "12",
-        "11",
-        "13"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q1759",
       "subject": "İngilizce",
       "theme": "Tema 9",
@@ -417,19 +391,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qb91534",
-      "subject": "İngilizce",
-      "theme": "Tema 9",
-      "question": "\"Persembe\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Thursday",
-        "March",
-        "March",
-        "Sunday"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb91536",
       "subject": "İngilizce",
       "theme": "Tema 9",
@@ -439,19 +400,6 @@
         "Friday",
         "Saturday",
         "Tuesday"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb91538",
-      "subject": "İngilizce",
-      "theme": "Tema 9",
-      "question": "\"Cumartesi\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Summer",
-        "Saturday",
-        "Saturday",
-        "Monday"
       ],
       "correctAnswer": 1
     },
@@ -482,19 +430,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb91544",
-      "subject": "İngilizce",
-      "theme": "Tema 9",
-      "question": "\"Yaz\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Spring",
-        "Summer",
-        "Thursday",
-        "Thursday"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb91545",
       "subject": "İngilizce",
       "theme": "Tema 9",
@@ -519,19 +454,6 @@
         "January"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qb91548",
-      "subject": "İngilizce",
-      "theme": "Tema 9",
-      "question": "\"Kis\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Sunday",
-        "Autumn",
-        "Sunday",
-        "Winter"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qb91550",
@@ -584,19 +506,6 @@
         "March"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qb91556",
-      "subject": "İngilizce",
-      "theme": "Tema 9",
-      "question": "\"Nisan\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "March",
-        "April",
-        "February",
-        "February"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qc201126",
@@ -1297,6 +1206,305 @@
         "November",
         "December",
         "September"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema9fruit-161",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Apple\" hangi meyvedir?",
+      "options": [
+        "Portakal",
+        "Elma",
+        "Çilek",
+        "Muz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema9fruit-162",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Banana\" hangi meyvedir?",
+      "options": [
+        "Portakal",
+        "Muz",
+        "Elma",
+        "Karpuz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema9fruit-163",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Orange\" hem bir renk hem de hangi meyvenin adıdır?",
+      "options": [
+        "Çilek",
+        "Limon",
+        "Muz",
+        "Portakal"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema9fruit-164",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Strawberry\" hangi meyvedir?",
+      "options": [
+        "Kiraz",
+        "Şeftali",
+        "Üzüm",
+        "Çilek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema9fruit-165",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"I like bananas\" ifadesinin anlamı nedir?",
+      "options": [
+        "Elma severim.",
+        "Muz sevmem.",
+        "Muz severim.",
+        "Bu bir muzdur."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema9fruit-166",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"I don't like apples\" ifadesinin anlamı nedir?",
+      "options": [
+        "Elmalar lezzetlidir.",
+        "Elmaları severim.",
+        "Elmaları sevmem.",
+        "Muz sevmem."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema9fruit-167",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Grape\" hangi meyvedir?",
+      "options": [
+        "Karpuz",
+        "Muz",
+        "Üzüm",
+        "Elma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema9fruit-168",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Lemon\" hangi ekşi meyvedir?",
+      "options": [
+        "Portakal",
+        "Çilek",
+        "Limon",
+        "Muz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema9fruit-169",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Melon\" hangi yaz meyvesidir?",
+      "options": [
+        "Kavun",
+        "Elma",
+        "Muz",
+        "Portakal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema9fruit-170",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Peach\" hangi tüylü meyvedir?",
+      "options": [
+        "Kiraz",
+        "Çilek",
+        "Şeftali",
+        "Muz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema9fruit-171",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"I like oranges.\" ifadesinin anlamı nedir?",
+      "options": [
+        "Çilek severim.",
+        "Portakal severim.",
+        "Elma severim.",
+        "Muz severim."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema9fruit-172",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Do you like strawberries?\" sorusunun anlamı nedir?",
+      "options": [
+        "Çilekleri severim.",
+        "Elma sever misin?",
+        "Muz sever misin?",
+        "Çilek sever misin?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema9fruit-173",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Watermelon\" hangi büyük yaz meyvesidir?",
+      "options": [
+        "Karpuz",
+        "Elma",
+        "Kavun",
+        "Muz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema9fruit-174",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Cherry\" hangi kırmızı küçük yaz meyvesidir?",
+      "options": [
+        "Çilek",
+        "Erik",
+        "Elma",
+        "Kiraz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema9fruit-175",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"I don't like lemons.\" ifadesinin anlamı nedir?",
+      "options": [
+        "Limon severim.",
+        "Muz sevmem.",
+        "Portakal severim.",
+        "Limon sevmem."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema9fruit-176",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Do you like apples?\" sorusuna verilen olumlu kısa cevap hangisidir?",
+      "options": [
+        "No, I like.",
+        "Yes, I do.",
+        "No, I don't.",
+        "Yes, I like."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema9fruit-177",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Do you like bananas?\" sorusuna verilen olumsuz kısa cevap hangisidir?",
+      "options": [
+        "Yes, I like.",
+        "Yes, I do.",
+        "No, I don't.",
+        "No, I like."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema9fruit-178",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Plum\" hangi ekşi veya tatlı yeşil/mor meyvedir?",
+      "options": [
+        "Çilek",
+        "Erik",
+        "Muz",
+        "Elma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema9fruit-179",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Pear\" hangi armut biçimli meyvedir?",
+      "options": [
+        "Şeftali",
+        "Elma",
+        "Portakal",
+        "Armut"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema9fruit-180",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Apricot\" hangi sarı/turuncu yaz meyvesidir?",
+      "options": [
+        "Şeftali",
+        "Kayısı",
+        "Muz",
+        "Limon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-english-484",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Strawberry\" kelimesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Karpuz",
+        "Muz",
+        "Armut",
+        "Çilek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-english-253",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Elma\" anlamına gelen meyve hangisidir?",
+      "options": [
+        "Apple",
+        "Banana",
+        "Orange",
+        "Melon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-18",
+      "subject": "İngilizce",
+      "theme": "Tema 9: Fruit",
+      "question": "\"Muz\" kelimesinin İngilizce karşılığı hangisidir?",
+      "options": [
+        "Orange",
+        "Banana",
+        "Apple",
+        "Grape"
       ],
       "correctAnswer": 1
     }

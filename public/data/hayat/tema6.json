@@ -417,123 +417,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qc200841",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Empati nedir? (Tema 6)",
-      "options": [
-        "Disiplin",
-        "Baskasinin duygularini anlamaya calisma",
-        "Kendi duyguları",
-        "Sempatik olmak"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200842",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Sorumluluk nedir? (Tema 6)",
-      "options": [
-        "Hak",
-        "Özgürlük",
-        "Yapilmasi gerekenlerle hesap verebilme",
-        "Imtiyaz"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200843",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Dayanisma nedir? (Tema 6)",
-      "options": [
-        "Yalnizlik",
-        "Bireycilik",
-        "Birlikte hareket edip birbirini destekleme",
-        "Rekabet"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200844",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Paylasmak neden önemlidir? (Tema 6)",
-      "options": [
-        "Para kazandirir",
-        "Faydasiz",
-        "Toplumsal uyum ve mutluluk saglar",
-        "Zorunluluk"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200845",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Dogruluk neden önemlidir? (Tema 6)",
-      "options": [
-        "Zorunluluk",
-        "Faydasiz",
-        "Güveni tesis eder ve toplumu güçlendirir",
-        "Para kazandirir"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200846",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Centilmenlik nedir? (Tema 6)",
-      "options": [
-        "Dürüst, kibar ve adaletli davranis",
-        "Sadece bireysel yarar",
-        "Baskalarina zarar verme",
-        "Kazanmak icin her yolu denemek"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200847",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Kültür nedir? (Tema 6)",
-      "options": [
-        "Sadece sanat",
-        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
-        "Sadece müzik",
-        "Sadece edebiyat"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200848",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Hosgorü nedir? (Tema 6)",
-      "options": [
-        "Farkli görüslere saygi ve kabul",
-        "Herkesin ayni olmasi",
-        "Fark etmeme",
-        "Kendi görüsünü dayatma"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200849",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 6",
-      "question": "Vatandaslik neden önemlidir? (Tema 6)",
-      "options": [
-        "Sadece oy icin",
-        "Zorunluluk",
-        "Topluma katilim ve sorumluluklar icin",
-        "Sadece hak icin"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qe601099",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
@@ -660,6 +543,578 @@
         "Dini özgürlük yoktur",
         "Yalnızca devlet dini var",
         "Yalnızca bir din serbesttir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-171",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Bitkilerin ve hayvanların yaşaması için aşağıdakilerden hangisine ihtiyacı yoktur?",
+      "options": [
+        "Televizyon ve internete",
+        "Havaya",
+        "Suya",
+        "Güneş ışığına"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-172",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Geri dönüşüm kutusuna aşağıdaki atıklardan hangisi atılamaz?",
+      "options": [
+        "Eski gazete ve kağıtlar",
+        "Boş plastik şişeler",
+        "Cam kavanozlar",
+        "Yemek artıkları ve meyve kabukları"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema6doadahayat-173",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Aşağıdakilerden hangisi bir yılı oluşturan mevsimlerden biri değildir?",
+      "options": [
+        "Gece",
+        "Yaz",
+        "İlkbahar",
+        "Sonbahar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-174",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Aşağıdaki hayvanlardan hangisi kış uykusuna yatan canlılar arasında yer alır?",
+      "options": [
+        "Ayı",
+        "Kuş",
+        "Kedi",
+        "Balık"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-175",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "İlkbahar mevsiminde doğada hangi değişim görülür?",
+      "options": [
+        "Ağaçlar çiçek açar ve doğa yeşillenir.",
+        "Yapraklar sararır ve dökülür.",
+        "Her yer karla kaplanır.",
+        "Hava çok soğur."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-176",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Aşağıdakilerden hangisi evcil bir hayvandır?",
+      "options": [
+        "Ayı",
+        "Kurt",
+        "Aslan",
+        "Kedi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema6doadahayat-177",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Aşağıdakilerden hangisi doğayı korumaya yönelik olumlu bir davranıştır?",
+      "options": [
+        "Çöpleri yere atmak",
+        "Ağaçları kesmek",
+        "Suyu boşa akıtmak",
+        "Fidan dikmek ve yeşil alanları korumak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema6doadahayat-178",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Aşağıdakilerden hangisi geri dönüşüm malzemesidir?",
+      "options": [
+        "Plastik şişe ve kağıt",
+        "Meyve kabukları",
+        "Yemek artıkları",
+        "Toprak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-179",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Atık pilleri neden normal çöpe atmamalıyız?",
+      "options": [
+        "Pillerin patlamaması için",
+        "Çöplerin kokmaması için",
+        "İçindeki kimyasalların toprağa ve suya karışıp doğayı zehirlememesi için",
+        "Pillerin kaybolmaması için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema6doadahayat-180",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Fidan dikmek çevreye nasıl katkı sağlar?",
+      "options": [
+        "Rüzgarı durdurur.",
+        "Havanın temizlenmesini ve doğanın yeşillenmesini sağlar.",
+        "Yağmurun yağmasını engeller.",
+        "Toprağın azalmasını sağlar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema6doadahayat-181",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Mevsimlerin oluşmasının temel sebebi nedir?",
+      "options": [
+        "Dünyanın Güneş etrafında dolanması",
+        "Ayın dönmesi",
+        "Bulutların birikmesi",
+        "Dünyanın kendi etrafında dönmesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-182",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Aşağıdakilerden hangisi bir kış mevsimi ayıdır?",
+      "options": [
+        "Haziran",
+        "Eylül",
+        "Ocak",
+        "Nisan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema6doadahayat-183",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Aşağıdakilerden hangisi bir yaz mevsimi ayıdır?",
+      "options": [
+        "Ekim",
+        "Aralık",
+        "Mart",
+        "Temmuz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema6doadahayat-184",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Sonbahar mevsiminde havada ve doğada ne gibi değişimler olur?",
+      "options": [
+        "Ağaçlar çiçek açar.",
+        "Kar yağar.",
+        "Hava çok sıcak olur.",
+        "Hava serinler, yağmurlar başlar ve yapraklar sararıp dökülür."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema6doadahayat-185",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Güneşin doğduğu yön aşağıdakilerden hangisidir?",
+      "options": [
+        "Kuzey",
+        "Batı",
+        "Doğu",
+        "Güney"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema6doadahayat-186",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Güneşin battığı yön aşağıdakilerden hangisidir?",
+      "options": [
+        "Güney",
+        "Batı",
+        "Kuzey",
+        "Doğu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema6doadahayat-187",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Yönümüzü bulmak için yön bulma aracının ibresi her zaman hangi yönü gösterir?",
+      "options": [
+        "Batı",
+        "Doğu",
+        "Güney",
+        "Kuzey"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema6doadahayat-188",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Karınca yuvalarının ağzı (toprak yığıntısı olmayan açık tarafı) hangi yönü gösterir?",
+      "options": [
+        "Doğu",
+        "Güney",
+        "Batı",
+        "Kuzey"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema6doadahayat-189",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Ağaçların ve taşların yosun tutmuş tarafları hangi yönü gösterir?",
+      "options": [
+        "Batı",
+        "Kuzey",
+        "Güney",
+        "Doğu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema6doadahayat-190",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Aşağıdakilerden hangisi doğada yaşayan yabani bir hayvandır?",
+      "options": [
+        "İnek",
+        "Tavuk",
+        "Kurt",
+        "Köpek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema6doadahayat-191",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Bitkilerin büyüyebilmesi için toprağın yanı sıra hangisine ihtiyacı vardır?",
+      "options": [
+        "Rüzgara",
+        "Karanlığa",
+        "Gübreye ve ilaca",
+        "Su ve güneş ışığı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema6doadahayat-192",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Evcil hayvanların barınması için yapılan küçük kulübelere ne ad verilir?",
+      "options": [
+        "Kulübe / Yuva",
+        "Kovan",
+        "Ahır",
+        "Kafes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-193",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Arıların bal yaptığı ve yaşadığı yere ne ad verilir?",
+      "options": [
+        "Ahır",
+        "Kovan",
+        "Ağıl",
+        "Kümes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema6doadahayat-194",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Koyun ve keçilerin barındığı kapalı alana ne ad verilir?",
+      "options": [
+        "Ağıl",
+        "Kümes",
+        "Ahır",
+        "Kovan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-195",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "İnek ve atların barındığı kapalı alana ne ad verilir?",
+      "options": [
+        "Kümes",
+        "Ahır",
+        "Ağıl",
+        "Kovan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema6doadahayat-196",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Tavuk ve horozların barındığı yere ne ad verilir?",
+      "options": [
+        "Kovan",
+        "Kümes",
+        "Ağıl",
+        "Ahır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema6doadahayat-197",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Çevre kirliliği en çok kimlere zarar verir?",
+      "options": [
+        "Sadece insanlara",
+        "Doğadaki tüm canlılara (insanlar, bitkiler, hayvanlar)",
+        "Sadece kuşlara",
+        "Hiç kimseye"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema6doadahayat-198",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Doğayı ve hayvanları korumak neden vatandaşlık görevidir?",
+      "options": [
+        "Para kazanmak için",
+        "Sadece ödül almak için",
+        "Zaman geçirmek için",
+        "Dünyanın dengesini korumak ve sağlıklı yaşamak için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema6doadahayat-199",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Su tasarrufu sağlamak için hangisini yapmalıyız?",
+      "options": [
+        "Bozuk muslukları tamir ettirmeli ve suyu boşa akıtmamalıyız.",
+        "Duşta saatlerce kalmalıyız.",
+        "Halıları hortumla yıkamalıyız.",
+        "Suyu sonuna kadar açmalıyız."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema6doadahayat-200",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Gökyüzünde bulutsuz gecelerde yönümüzü bulmak için hangi yıldızı kullanırız?",
+      "options": [
+        "Kutup Yıldızı (Kuzeyi gösterir)",
+        "Kuyruklu Yıldız",
+        "Çoban Yıldızı",
+        "Güneş"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-462",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Geri dönüşüm kutusuna hangisi atılmalıdır?",
+      "options": [
+        "Cam kavanozlar ve kağıtlar",
+        "Meyve kabukları",
+        "Toprak",
+        "Yemek artıkları"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-138",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Güneşin battığı yön hangisidir?",
+      "options": [
+        "Güney",
+        "Doğu",
+        "Batı",
+        "Kuzey"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-393",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Çevremizi korumak için çöpleri nereye atmalıyız?",
+      "options": [
+        "Yere",
+        "Denize",
+        "Çöp kutusuna",
+        "Bahçeye"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-396",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Yönümüzü bulmaya yarayan pusulanın renkli ibresi nereyi gösterir?",
+      "options": [
+        "Batıyı",
+        "Güneyi",
+        "Doğuyu",
+        "Kuzeyi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-hayat-108",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Ağaçların yosun tutmuş gövde tarafları hangi yönü gösterir?",
+      "options": [
+        "Güneyi",
+        "Batıyı",
+        "Kuzeyi",
+        "Doğuyu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-588",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Ayı ve yılan gibi bazı hayvanların kışın girdiği süreç hangisidir?",
+      "options": [
+        "Kış uykusu",
+        "Besin toplama",
+        "Göç etme",
+        "Yaz tatili"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-160",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Doğayı korumak için yapabileceğimiz en faydalı davranış hangisidir?",
+      "options": [
+        "Ağaçları kesmek",
+        "Suyu boşa harcamak",
+        "Çöpleri yere atmak",
+        "Fidan dikmek ve ormanları korumak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-hayat-307",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Karınca yuvalarının toprak yığıntılı kapalı tarafı hangi yönü gösterir?",
+      "options": [
+        "Batıyı",
+        "Kuzeyi",
+        "Doğuyu",
+        "Güneyi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-hayat-158",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Fidan dikmenin doğaya en büyük yararı nedir?",
+      "options": [
+        "Toprağı azaltır.",
+        "Yağmuru engeller.",
+        "Havamızı temizler ve yeşillik sağlar.",
+        "Rüzgarı durdurur."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-217",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Kişisel bakım yaparken su tasarrufu nasıl sağlanır?",
+      "options": [
+        "Diş fırçalarken veya sabunlanırken musluğu kapatarak",
+        "Suyu boşa akıtarak",
+        "Çok uzun süre yıkanarak",
+        "Musluğu sonuna kadar açık bırakarak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-52",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Bitkilerin yaşaması için aşağıdakilerden hangisi zorunlu değildir?",
+      "options": [
+        "Bilgisayar oyunları",
+        "Su",
+        "Güneş ışığı",
+        "Hava"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-178",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Karınca yuvalarının toprak yığılı tarafı genellikle hangi yönü korur?",
+      "options": [
+        "Kuzeyi",
+        "Doğuyu",
+        "Güneyi",
+        "Batıyı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-184",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Güneşin doğduğu yön hangisidir?",
+      "options": [
+        "Batı",
+        "Kuzey",
+        "Doğu",
+        "Güney"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-527",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 6: Doğada Hayat",
+      "question": "Kağıt, cam, metal ve plastik gibi atıkları tekrar kullanılabilmesi için nereye atmalıyız?",
+      "options": [
+        "Geri dönüşüm kutularına",
+        "Normal çöp kutusuna",
+        "Toprağa gömmeliyiz",
+        "Dere kenarına"
       ],
       "correctAnswer": 0
     }

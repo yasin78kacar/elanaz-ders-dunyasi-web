@@ -482,123 +482,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qc200831",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Empati nedir? (Tema 5)",
-      "options": [
-        "Baskasinin duygularini anlamaya calisma",
-        "Disiplin",
-        "Kendi duyguları",
-        "Sempatik olmak"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200832",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Sorumluluk nedir? (Tema 5)",
-      "options": [
-        "Hak",
-        "Yapilmasi gerekenlerle hesap verebilme",
-        "Imtiyaz",
-        "Özgürlük"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200833",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Dayanisma nedir? (Tema 5)",
-      "options": [
-        "Rekabet",
-        "Birlikte hareket edip birbirini destekleme",
-        "Yalnizlik",
-        "Bireycilik"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200834",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Paylasmak neden önemlidir? (Tema 5)",
-      "options": [
-        "Toplumsal uyum ve mutluluk saglar",
-        "Zorunluluk",
-        "Faydasiz",
-        "Para kazandirir"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200835",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Dogruluk neden önemlidir? (Tema 5)",
-      "options": [
-        "Para kazandirir",
-        "Zorunluluk",
-        "Güveni tesis eder ve toplumu güçlendirir",
-        "Faydasiz"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200836",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Centilmenlik nedir? (Tema 5)",
-      "options": [
-        "Sadece bireysel yarar",
-        "Dürüst, kibar ve adaletli davranis",
-        "Baskalarina zarar verme",
-        "Kazanmak icin her yolu denemek"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200837",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Kültür nedir? (Tema 5)",
-      "options": [
-        "Sadece sanat",
-        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
-        "Sadece müzik",
-        "Sadece edebiyat"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200838",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Hosgorü nedir? (Tema 5)",
-      "options": [
-        "Farkli görüslere saygi ve kabul",
-        "Kendi görüsünü dayatma",
-        "Fark etmeme",
-        "Herkesin ayni olmasi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200839",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 5",
-      "question": "Vatandaslik neden önemlidir? (Tema 5)",
-      "options": [
-        "Topluma katilim ve sorumluluklar icin",
-        "Zorunluluk",
-        "Sadece hak icin",
-        "Sadece oy icin"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe601089",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 5",
@@ -727,6 +610,665 @@
         "Ortak çıkarlar için bir araya gelen kişilerin kurduğu ekonomik birlik"
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-141",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Milli marşımız olan İstiklal Marşı okunurken nasıl durmalıyız?",
+      "options": [
+        "Telefonla oynayarak",
+        "Yatarak",
+        "Hazırolda, saygıyla dinleyerek ve eşlik ederek",
+        "Arkadaşımızla konuşarak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-142",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk'ün çocukluğunda gittiği ve matematik öğretmeninin ona 'Kemal' adını verdiği okul hangisidir?",
+      "options": [
+        "Askeri Rüştiye",
+        "Mahalle Mektebi",
+        "Harp Akademisi",
+        "Şemsi Efendi İlkokulu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-143",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizin başkenti aşağıdakilerden hangisidir?",
+      "options": [
+        "Bursa",
+        "İstanbul",
+        "Ankara",
+        "İzmir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-144",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Türk bayrağının üzerinde hangi semboller bulunur?",
+      "options": [
+        "Güneş ve Yıldız",
+        "Harita resmi",
+        "Ay ve Yıldız",
+        "Çiçek ve Kuş"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-145",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Her yıl 23 Nisan günü kutladığımız bayramın adı nedir?",
+      "options": [
+        "Cumhuriyet Bayramı",
+        "Ulusal Egemenlik ve Çocuk Bayramı",
+        "Gençlik ve Spor Bayramı",
+        "Zafer Bayramı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-146",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Aşağıdakilerden hangisi milli bayramlarımızdan biri değildir?",
+      "options": [
+        "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+        "Ramazan Bayramı",
+        "29 Ekim Cumhuriyet Bayramı",
+        "30 Ağustos Zafer Bayramı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-147",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Türkiye'nin milli bağımsızlık sembollerinden biri hangisidir?",
+      "options": [
+        "Okul çantamız",
+        "Paralarımızdaki sayılar",
+        "Trafik işaretleri",
+        "Bayrağımız ve İstiklal Marşımız"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-148",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk'ün anıt mezarı (Anıtkabir) hangi şehrimizde yer almaktadır?",
+      "options": [
+        "Selanik",
+        "İzmir",
+        "Ankara",
+        "İstanbul"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-149",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Her yıl 19 Mayıs günü kutladığımız bayramın adı nedir?",
+      "options": [
+        "Çocuk Bayramı",
+        "Zafer Bayramı",
+        "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+        "Cumhuriyet Bayramı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-150",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Her yıl 30 Ağustos günü kutladığımız milli bayramımız hangisidir?",
+      "options": [
+        "Zafer Bayramı",
+        "Gençlik Bayramı",
+        "Cumhuriyet Bayramı",
+        "Çocuk Bayramı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-151",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Aşağıdakilerden hangisi milli kültürümüze ait bir ögedir?",
+      "options": [
+        "Cadılar bayramı kutlamak",
+        "Beyzbol oynamak",
+        "Hamburger yemek",
+        "Halk oyunları ve misafirperverlik"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-152",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Geleneksel gölge oyunumuzun iki ana karakteri kimlerdir?",
+      "options": [
+        "Karagöz ve Hacivat",
+        "Nasreddin Hoca",
+        "Keloğlan ve Annesi",
+        "Meddah"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-153",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Fıkralarıyla insanları hem güldüren hem de düşündüren kültürel kahramanımız kimdir?",
+      "options": [
+        "Hacivat",
+        "Nasreddin Hoca",
+        "Keloğlan",
+        "Karagöz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-154",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Zekası ve iyi kalpliliğiyle bilinen, saçsız masal kahramanımız kimdir?",
+      "options": [
+        "Karagöz",
+        "Hacivat",
+        "Nasreddin Hoca",
+        "Keloğlan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-155",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Dini bayramlarda genellikle ne yapılır?",
+      "options": [
+        "Büyükler ziyaret edilir, bayramlaşılır ve harçlık/şeker dağıtılır.",
+        "Sadece okula gidilir.",
+        "Erken yatılır.",
+        "Sadece televizyon izlenir."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-156",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizin haritadaki şekli genel olarak aşağıdakilerden hangisine benzer?",
+      "options": [
+        "Dikdörtgen",
+        "Daire",
+        "Kare",
+        "Üçgen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-157",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizin üç tarafı nelerle çevrilidir?",
+      "options": [
+        "Ormanlarla",
+        "Dağlarla",
+        "Denizlerle",
+        "Göllerle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-158",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Milli marşımız olan İstiklal Marşı'nı yazan şairimiz kimdir?",
+      "options": [
+        "Namık Kemal",
+        "Mehmet Akif Ersoy",
+        "Mustafa Kemal Atatürk",
+        "Ziya Gökalp"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-159",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk'ün doğum yılı ve yeri hangi seçenekte doğru verilmiştir?",
+      "options": [
+        "1881 - Selanik",
+        "1881 - İzmir",
+        "1923 - Ankara",
+        "1938 - İstanbul"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-160",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk'ün annesinin adı nedir?",
+      "options": [
+        "Zübeyde Hanım",
+        "Latife Hanım",
+        "Sabiha Hanım",
+        "Makbule Hanım"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-161",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk'ün kız kardeşinin adı nedir?",
+      "options": [
+        "Sabiha Hanım",
+        "Zübeyde Hanım",
+        "Makbule Hanım",
+        "Latife Hanım"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-162",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk'ün babasının adı nedir?",
+      "options": [
+        "Kemal Bey",
+        "Mustafa Efendi",
+        "Mehmet Efendi",
+        "Ali Rıza Efendi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-163",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Türkiye Cumhuriyeti hangi tarihte kurulmuştur?",
+      "options": [
+        "30 Ağustos 1922",
+        "29 Ekim 1923",
+        "23 Nisan 1920",
+        "19 Mayıs 1919"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-164",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Milli bayramlarımızda evlerimizin balkonlarına ne asarız?",
+      "options": [
+        "Türk Bayrağı",
+        "Oyuncak",
+        "Çiçek",
+        "Resim"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-165",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Aşağıdakilerden hangisi milli kültürümüze ait geleneksel bir yiyecektir?",
+      "options": [
+        "Hamburger",
+        "Sushi",
+        "Pizza",
+        "Mantı ve Türk Kahvesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-166",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Geleneksel Türk müzik aletlerinden biri hangisidir?",
+      "options": [
+        "Flüt",
+        "Gitar",
+        "Saz / Bağlama",
+        "Piyano"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-167",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizde yaşayan farklı kültürdeki göçmen insanlara karşı nasıl davranmalıyız?",
+      "options": [
+        "Saygılı, hoşgörülü ve yardımsever",
+        "Onlara kızgın davranmalıyız.",
+        "Onları dışlamalıyız.",
+        "Görmezden gelmeliyiz."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-168",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Tarihi ve kültürel değerlerimizi korumak neden önemlidir?",
+      "options": [
+        "Geçmişimizi öğrenmek ve geleceğe taşımak için",
+        "Para kazanmak için",
+        "Zaman geçirmek için",
+        "Sadece sınavlardan yüksek almak için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-169",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizin milli para birimi olan Türk Lirası'nın simgesi hangisidir?",
+      "options": [
+        "€",
+        "₺",
+        "$",
+        "£"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema5lkemizdehayat-170",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk'ün kabri olan Anıtkabir'de nöbet tutan askerlerin adı nedir?",
+      "options": [
+        "Saygı Nöbetçileri",
+        "Öğrenciler",
+        "Polisler",
+        "Bekçiler"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-481",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "19 Mayıs günü hangi milli bayramı kutlarız?",
+      "options": [
+        "Çocuk Bayramı",
+        "Zafer Bayramı",
+        "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+        "Cumhuriyet Bayramı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-67",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Kurtuluş Savaşı'nı kim başlatmıştır?",
+      "options": [
+        "Atatürk",
+        "Mehmet Akif",
+        "Fatih Sultan Mehmet",
+        "Mimar Sinan"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-hayat-48",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Atatürk'ün doğum yeri ve yılı hangisidir?",
+      "options": [
+        "İstanbul - 1938",
+        "Ankara - 1923",
+        "Selanik - 1881",
+        "İzmir - 1881"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-502",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "İstiklal Marşı'mız okunurken bayrağımıza karşı nasıl durmalıyız?",
+      "options": [
+        "Hazırolda, kıpırdamadan ve saygıyla",
+        "Yatarak ve gülerek",
+        "Yürüyerek ve oynayarak",
+        "Oturarak ve konuşarak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-454",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "30 Ağustos günü hangi milli bayramı büyük coşkuyla kutlarız?",
+      "options": [
+        "Cumhuriyet Bayramı",
+        "Zafer Bayramı",
+        "Çocuk Bayramı",
+        "Gençlik Bayramı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-hayat-24",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Fıkralarıyla ünlü güldürürken düşündüren kültür kahramanımız kimdir?",
+      "options": [
+        "Hacivat",
+        "Karagöz",
+        "Nasreddin Hoca",
+        "Keloğlan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-528",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizin başkenti neresidir?",
+      "options": [
+        "İstanbul",
+        "Ankara",
+        "İzmir",
+        "Bursa"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-hayat-338",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Kültürel değerlerimiz nelerdir?",
+      "options": [
+        "Düğünlerimiz",
+        "Yemeklerimiz",
+        "Halk oyunlarımız",
+        "Hepsi"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-hayat-312",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Yurdumuzu korumak görevimiz midir?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Bazen",
+        "Önemli değil"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-hayat-109",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "İstiklal Marşı okunurken nasıl durulmalıdır?",
+      "options": [
+        "Hazırolda ve saygıyla dinleyerek",
+        "Yatarak",
+        "Arkadaşla konuşarak",
+        "Oturarak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-375",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk nerede doğmuştur?",
+      "options": [
+        "Ankara",
+        "İstanbul",
+        "Selanik",
+        "Samsun"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-hayat-327",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Aşağıdakilerden hangisi milli kültürümüze ait geleneksel bir oyundur?",
+      "options": [
+        "Bowling",
+        "Bilgisayar oyunu",
+        "Körebe / Saklambaç",
+        "Konsol oyunu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-331",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Atatürk'ün çocukluğunda gittiği ve matematik öğretmeninin ona \"Kemal\" adını verdiği okul hangisidir?",
+      "options": [
+        "Şemsi Efendi İlkokulu",
+        "Askeri Rüştiye",
+        "Mahalle Mektebi",
+        "Harp Akademisi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-hayat-467",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Atatürk'ün anıt mezarı olan Anıtkabir hangi şehrimizdedir?",
+      "options": [
+        "Ankara",
+        "İzmir",
+        "Selanik",
+        "İstanbul"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-144",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Karagöz ve Hacivat hangi kültürel gösteri türüne örnektir?",
+      "options": [
+        "Sinema",
+        "Roman",
+        "Tiyatro",
+        "Gölge oyunu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-hayat-326",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizde en çok hangi tarım ürünü yetişir?",
+      "options": [
+        "Çay",
+        "Muz",
+        "Ananas",
+        "Kivi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-hayat-14",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Hangi bayram ulusal egemenlik bayramıdır?",
+      "options": [
+        "23 Nisan",
+        "29 Ekim",
+        "30 Ağustos",
+        "19 Mayıs"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-hayat-487",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizi kim kurmuştur?",
+      "options": [
+        "Atatürk",
+        "Padişah",
+        "Kral",
+        "Yabancılar"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-hayat-376",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "23 Nisan günü hangi bayramı kutlarız?",
+      "options": [
+        "Gençlik ve Spor Bayramı",
+        "Ulusal Egemenlik ve Çocuk Bayramı",
+        "Cumhuriyet Bayramı",
+        "Zafer Bayramı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-hayat-507",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 5: Ülkemizde Hayat",
+      "question": "Ülkemizde kaç mevsim yaşanır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
     }
   ]
 }

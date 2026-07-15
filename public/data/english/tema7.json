@@ -404,32 +404,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb91472",
-      "subject": "İngilizce",
-      "theme": "Tema 7",
-      "question": "\"Kulak\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Toe",
-        "Shoulder",
-        "Ear",
-        "Shoulder"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qb91474",
-      "subject": "İngilizce",
-      "theme": "Tema 7",
-      "question": "\"Burun\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Nose",
-        "Nose",
-        "Neck",
-        "Head"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb91476",
       "subject": "İngilizce",
       "theme": "Tema 7",
@@ -545,19 +519,6 @@
         "Thumb"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qb91486",
-      "subject": "İngilizce",
-      "theme": "Tema 7",
-      "question": "\"Parmak (el)\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Neck",
-        "Ear",
-        "Neck",
-        "Finger"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qb91488",
@@ -1195,6 +1156,292 @@
         "Pulse"
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema7bodyparts-121",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Head\" vücudumuzun hangi bölümüdür?",
+      "options": [
+        "Göz",
+        "El",
+        "Baş / Kafa",
+        "Ayak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema7bodyparts-122",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Eye\" kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        "Göz",
+        "Burun",
+        "Ağız",
+        "Kulak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema7bodyparts-123",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Ear\" kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        "Ağız",
+        "Göz",
+        "Burun",
+        "Kulak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema7bodyparts-124",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Nose\" kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        "El",
+        "Ağız",
+        "Ayak",
+        "Burun"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema7bodyparts-125",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Mouth\" kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        "Burun",
+        "Göz",
+        "Ağız",
+        "Kulak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema7bodyparts-126",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Hand\" vücudumuzun hangi bölümüdür?",
+      "options": [
+        "Ayak",
+        "Bacak",
+        "Kol",
+        "El"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema7bodyparts-127",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Hair\" vücudumuzun hangi bölümüdür?",
+      "options": [
+        "Saç",
+        "Ayak",
+        "Göz",
+        "El"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema7bodyparts-128",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Face\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Kulak",
+        "Yüz",
+        "Burun",
+        "El"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema7bodyparts-129",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Arm\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Bacak",
+        "El",
+        "Ayak",
+        "Kol"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema7bodyparts-130",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Leg\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Bacak",
+        "Kol",
+        "Kafa",
+        "El"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema7bodyparts-131",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Foot\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Baş",
+        "El",
+        "Ayak",
+        "Kol"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema7bodyparts-132",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Shoulder\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Ayak",
+        "Omuz",
+        "Kafa",
+        "El"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema7bodyparts-133",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Show me your nose\" ifadesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Bana burnunu göster.",
+        "Bana kulağını göster.",
+        "Bana elini göster.",
+        "Bana gözünü göster."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema7bodyparts-134",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Touch your head\" ifadesinin anlamı nedir?",
+      "options": [
+        "Elini kaldır.",
+        "Başını göster / Başına dokun.",
+        "Gözünü kapat.",
+        "Burnuna dokun."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema7bodyparts-135",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Show me your hand\" ifadesinin anlamı nedir?",
+      "options": [
+        "Bana elini göster.",
+        "Bana kolunu göster.",
+        "Bana gözünü göster.",
+        "Bana ayağını göster."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema7bodyparts-136",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Touch your nose\" ifadesinin anlamı nedir?",
+      "options": [
+        "Kulağına dokun.",
+        "Gözünü kapat.",
+        "Ağzına dokun.",
+        "Burnuna dokun."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema7bodyparts-137",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Close your eyes\" ifadesinin anlamı nedir?",
+      "options": [
+        "Ellerini kaldır.",
+        "Gözlerini kapat.",
+        "Kulaklarını göster.",
+        "Ağzını aç."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema7bodyparts-138",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Open your mouth\" ifadesinin anlamı nedir?",
+      "options": [
+        "Gözlerini kapat.",
+        "Ağzını aç.",
+        "Kulağına dokun.",
+        "Elini kaldır."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema7bodyparts-139",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Point to your ear\" ifadesinin anlamı nedir?",
+      "options": [
+        "Gözünü kapat.",
+        "Elini kaldır.",
+        "Kulağını işaret et.",
+        "Burnuna dokun."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema7bodyparts-140",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Shake your head\" ifadesinin anlamı nedir?",
+      "options": [
+        "Başını salla.",
+        "Gözlerini kapat.",
+        "Ayağını salla.",
+        "Elini kaldır."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-574",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Nose\" kelimesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Kulak",
+        "Burun",
+        "Ağız",
+        "Göz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-english-293",
+      "subject": "İngilizce",
+      "theme": "Tema 7: Body Parts",
+      "question": "\"Mouth\" hangi organımızı ifade eder?",
+      "options": [
+        "El",
+        "Göz",
+        "Ağız",
+        "Kulak"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

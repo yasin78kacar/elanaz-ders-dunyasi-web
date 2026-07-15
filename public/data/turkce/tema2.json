@@ -521,19 +521,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qa50879",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'geç' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "erken",
-        "zayıf",
-        "canlı",
-        "canlı"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qa50880",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -703,32 +690,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qa50899",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'korkak' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "cesur",
-        "boş",
-        "canlı",
-        "cesur"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50900",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'akıllı' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "yüksek",
-        "yüksek",
-        "temiz",
-        "akılsız"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qa50901",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -740,19 +701,6 @@
         "akıllı"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qa50902",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'huzurlu' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "huzursuz",
-        "sağlıklı",
-        "yarım",
-        "huzursuz"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qa50903",
@@ -794,19 +742,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qa50909",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'mutsuz' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "akılsız",
-        "başlangıç",
-        "mutlu",
-        "başlangıç"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qa50911",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -816,19 +751,6 @@
         "dış",
         "hızlı",
         "cesur"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50913",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'küçük' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "mutsuz",
-        "doğru",
-        "büyük",
-        "büyük"
       ],
       "correctAnswer": 2
     },
@@ -1364,45 +1286,6 @@
         "Değirmen dönmeli"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qf800506",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "\"akıllı\" sözcüğünün eş anlamlısı hangisidir?",
-      "options": [
-        "kötü",
-        "aptal",
-        "tembel",
-        "zeki"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qf800507",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "\"akıllı\" sözcüğünün zıt anlamlısı hangisidir?",
-      "options": [
-        "zeki",
-        "kötü",
-        "tembel",
-        "aptal"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qf800508",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "\"zeki\" sözcüğü ile aynı anlama gelen sözcük hangisidir?",
-      "options": [
-        "kötü",
-        "akıllı",
-        "tembel",
-        "aptal"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qf800509",
@@ -2144,6 +2027,962 @@
         "böbürlenen"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syn-1",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"cevap\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "kelime",
+        "soru",
+        "harf",
+        "yanıt"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-2",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"öğretmen\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "okul",
+        "muallim",
+        "öğrenci",
+        "sınıf"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syn-3",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"öğrenci\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "müdür",
+        "öğretmen",
+        "veli",
+        "talebe"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-4",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"okul\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "mektep",
+        "sınıf",
+        "bahçe",
+        "ev"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-syn-5",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"siyah\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "mavi",
+        "beyaz",
+        "kara",
+        "kırmızı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syn-6",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"beyaz\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "sarı",
+        "ak",
+        "yeşil",
+        "siyah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syn-7",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"kırmızı\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "mor",
+        "mavi",
+        "pembe",
+        "al"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-8",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"hediye\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "ceza",
+        "ödül",
+        "para",
+        "armağan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-9",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"misafir\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "komşu",
+        "konuk",
+        "ev sahibi",
+        "akraba"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syn-10",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"konut\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "mahalle",
+        "ev",
+        "bahçe",
+        "bina"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syn-11",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"yıl\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "sene",
+        "ay",
+        "gün",
+        "hafta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-syn-12",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"kalp\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "kafa",
+        "gövde",
+        "el",
+        "yürek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-13",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"yoksul\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "çalışkan",
+        "yaşlı",
+        "fakir",
+        "zengin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syn-14",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"lider\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "takipçi",
+        "asker",
+        "üye",
+        "önder"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-15",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"ırmak\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "deniz",
+        "dere",
+        "nehir",
+        "göl"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syn-16",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"rüzgar\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "kar",
+        "fırtına",
+        "yağmur",
+        "yel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-17",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"kelime\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "hece",
+        "sözcük",
+        "harf",
+        "cümle"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syn-18",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"cümle\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "kelime",
+        "paragraf",
+        "hece",
+        "tümce"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-19",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"isim\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "sıfat",
+        "zamir",
+        "ad",
+        "soyadı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syn-20",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"şehir\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "ülke",
+        "köy",
+        "mahalle",
+        "il"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-21",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"sonbahar\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "ilkbahar",
+        "güz",
+        "yaz",
+        "kış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syn-22",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"deprem\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "çığ",
+        "fırtına",
+        "sel",
+        "zelzele"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-23",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"öykü\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "şiir",
+        "masal",
+        "roman",
+        "hikaye"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-24",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"anı\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "rüya",
+        "düş",
+        "gelecek",
+        "hatıra"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-25",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"çabuk\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "tembel",
+        "hızlı",
+        "yavaş",
+        "sakin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syn-26",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"vatan\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "köy",
+        "mahalle",
+        "yurt",
+        "şehir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syn-27",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"yaşlı\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "genç",
+        "çocuk",
+        "bebek",
+        "ihtiyar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syn-28",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"hekim\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "doktor",
+        "eczacı",
+        "hemşire",
+        "hasta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-syn-29",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"doğa\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "deniz",
+        "tabiat",
+        "çevre",
+        "orman"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syn-30",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"gökyüzü\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "bulut",
+        "yıldız",
+        "yeryüzü",
+        "sema"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-1",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"zor\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "güç",
+        "ağır",
+        "basit",
+        "kolay"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-2",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"büyük\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "kısa",
+        "geniş",
+        "uzun",
+        "küçük"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-3",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"uzak\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "kısa",
+        "yakın",
+        "dar",
+        "aşağı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-ant-4",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"erken\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "yavaş",
+        "çabuk",
+        "geç",
+        "hızlı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-ant-5",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"zengin\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "akıllı",
+        "para",
+        "genç",
+        "yoksul"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-6",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"taze\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "yeni",
+        "bayat",
+        "çürük",
+        "eski"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-ant-7",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"ıslak\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "Kuru",
+        "yaş",
+        "soğuk",
+        "nemli"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-ant-8",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"yumuşak\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "sert",
+        "katı",
+        "düz",
+        "kaba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-ant-9",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"hafif\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "yumuşak",
+        "ince",
+        "ağır",
+        "zor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-ant-10",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"yeni\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "güzel",
+        "genç",
+        "temiz",
+        "eski"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-11",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"temiz\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "bozuk",
+        "eski",
+        "kirli",
+        "yeni"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-ant-12",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"açık\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "koyu",
+        "kapalı",
+        "boş",
+        "dar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-ant-13",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"hızlı\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "sakin",
+        "çabuk",
+        "kolay",
+        "yavaş"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-14",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"ucuz\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "yeni",
+        "pahalı",
+        "güzel",
+        "zor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-ant-15",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"korkak\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "genç",
+        "zayıf",
+        "cesur",
+        "yavaş"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-ant-16",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"dar\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "yüksek",
+        "uzun",
+        "geniş",
+        "kısa"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-ant-17",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"yüksek\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "dar",
+        "geniş",
+        "uzun",
+        "alçak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-18",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"uzun\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "ince",
+        "yüksek",
+        "kısa",
+        "geniş"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-ant-19",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"doğru\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "güzel",
+        "düz",
+        "yanlış",
+        "eğri"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-ant-20",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"giriş\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "oda",
+        "çıkış",
+        "pencere",
+        "kapı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-ant-21",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"iyi\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "güzel",
+        "temiz",
+        "yeni",
+        "kötü"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-22",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"gece\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "öğle",
+        "gündüz",
+        "sabah",
+        "akşam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-ant-23",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"tatlı\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "acı",
+        "lezzetli",
+        "ekşi",
+        "tuzlu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-ant-24",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"şişman\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "zayıf",
+        "uzun",
+        "genç",
+        "kısa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-ant-25",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"kalın\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "geniş",
+        "uzun",
+        "ince",
+        "dar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-ant-26",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"boş\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "açık",
+        "temiz",
+        "yeni",
+        "dolu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-27",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"ön\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "sol",
+        "sağ",
+        "yan",
+        "arka"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-28",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"sağ\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "arka",
+        "yan",
+        "ön",
+        "sol"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-ant-29",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"iç\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "alt",
+        "dış",
+        "yan",
+        "üst"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-ant-30",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "\"soğuk\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "kuru",
+        "serin",
+        "sıcak",
+        "ılık"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-turkce-16",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "'Hediye' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "Ödül",
+        "Armağan",
+        "Hatıra",
+        "Konuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-turkce-460",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Milli Kültürümüz",
+      "question": "Hangi bayram çocuklarındır?",
+      "options": [
+        "29 Ekim",
+        "30 Ağustos",
+        "23 Nisan",
+        "19 Mayıs"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-turkce-343",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Milli Kültürümüz",
+      "question": "Nasrettin Hoca kimdir?",
+      "options": [
+        "Padişah",
+        "Güldürü ustası",
+        "Mimar",
+        "Doktor"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-turkce-263",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "'Misafir' kelimesinin eş anlamlısı nedir?",
+      "options": [
+        "Yolcu",
+        "Dost",
+        "Konuk",
+        "Akraba"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-turkce-100",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Milli Kültürümüz",
+      "question": "Hangi oyun geleneksel bir çocuk oyunudur?",
+      "options": [
+        "Bilgisayar oyunu",
+        "Körebe",
+        "Video oyunu",
+        "Bowling"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-436",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "Hangi kelime hem bir sayı adı hem de suda yüzmek eylemi olarak kullanılır?",
+      "options": [
+        "Yüz",
+        "Bin",
+        "Yaz",
+        "Kır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-turkce-211",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Milli Kültürümüz",
+      "question": "Karagöz ve Hacivat hangi kültürel öğemizdir?",
+      "options": [
+        "Masal",
+        "Gölge Oyunu",
+        "Roman",
+        "Tiyatro"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-turkce-339",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "'Taze' sözcüğünün zıt anlamlısı hangisidir?",
+      "options": [
+        "Yeni",
+        "Bayat",
+        "Eski",
+        "Çürük"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-turkce-80",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Milli Kültürümüz",
+      "question": "Bayrağımızın rengi nedir?",
+      "options": [
+        "Mavi-Beyaz",
+        "Kırmızı-Beyaz",
+        "Sarı-Yeşil",
+        "Siyah-Beyaz"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-turkce-326",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "'Islak' kelimesinin zıt anlamlısı aşağıdakilerden hangisidir?",
+      "options": [
+        "Kuru",
+        "Yaş",
+        "Nemli",
+        "Soğuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-turkce-93",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Söz Varlığı",
+      "question": "Aşağıdaki sözcük çiftlerinden hangisi eş anlamlı (anlamdaş) değildir?",
+      "options": [
+        "cevap - yanıt",
+        "siyah - kara",
+        "kalp - yürek",
+        "uzun - kısa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-turkce-320",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Milli Kültürümüz",
+      "question": "İstiklal Marşı'mızın şairi kimdir?",
+      "options": [
+        "Atatürk",
+        "Ömer Seyfettin",
+        "Mehmet Akif Ersoy",
+        "Ziya Gökalp"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-turkce-150",
+      "subject": "Türkçe",
+      "theme": "Tema 2: Milli Kültürümüz",
+      "question": "Ramazan Bayramı'nda ne yaparız?",
+      "options": [
+        "Hediye alırız",
+        "Denize gideriz",
+        "Büyüklerimizi ziyaret ederiz",
+        "Piknik yaparız"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
     }
   ]
 }

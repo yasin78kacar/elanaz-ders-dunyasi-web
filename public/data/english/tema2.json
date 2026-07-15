@@ -352,19 +352,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qb91318",
-      "subject": "İngilizce",
-      "theme": "Tema 2",
-      "question": "\"Kirmizi\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Purple",
-        "Yellow",
-        "Purple",
-        "Red"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qb91319",
       "subject": "İngilizce",
       "theme": "Tema 2",
@@ -521,19 +508,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qb91332",
-      "subject": "İngilizce",
-      "theme": "Tema 2",
-      "question": "\"Kahverengi\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Orange",
-        "Brown",
-        "Brown",
-        "Red"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb91337",
       "subject": "İngilizce",
       "theme": "Tema 2",
@@ -545,19 +519,6 @@
         "Rectangle"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qb91338",
-      "subject": "İngilizce",
-      "theme": "Tema 2",
-      "question": "\"Daire\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Square",
-        "Purple",
-        "Square",
-        "Circle"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qb91339",
@@ -636,19 +597,6 @@
         "Heart"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qb91346",
-      "subject": "İngilizce",
-      "theme": "Tema 2",
-      "question": "\"Yildiz\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Star",
-        "Green",
-        "Green",
-        "Green"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qc200921",
@@ -1286,6 +1234,494 @@
         "Triangle"
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema2friends-1",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "İngilizce \"Merhaba\" ne demektir?",
+      "options": [
+        "Please",
+        "Thank you",
+        "Goodbye",
+        "Hello / Hi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema2friends-2",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "İngilizce \"Hoşça kal / Güle güle\" ne demektir?",
+      "options": [
+        "Goodbye / Bye",
+        "Fine",
+        "Good morning",
+        "Hello"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema2friends-3",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"What is your name?\" sorusunun anlamı nedir?",
+      "options": [
+        "Kaç yaşındasın?",
+        "Nasılsın?",
+        "Adın ne?",
+        "Nereye gidiyorsun?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema2friends-4",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Adım Ahmet\" anlamına gelen İngilizce ifade hangisidir?",
+      "options": [
+        "My name is Ahmet.",
+        "I am fine.",
+        "Goodbye Ahmet.",
+        "Hello Ahmet."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema2friends-5",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"How are you?\" sorusunun Türkçe anlamı nedir?",
+      "options": [
+        "Bu nedir?",
+        "Nasılsın?",
+        "Adın ne?",
+        "Kaç yaşındasın?"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema2friends-6",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"How are you?\" sorusuna verilecek en uygun cevap hangisidir?",
+      "options": [
+        "I am fine, thank you.",
+        "My name is Elif.",
+        "Good morning.",
+        "Goodbye."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema2friends-7",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Günaydın\" anlamına gelen İngilizce ifade hangisidir?",
+      "options": [
+        "Good night",
+        "Good morning",
+        "Goodbye",
+        "Good afternoon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema2friends-8",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"İyi geceler\" anlamına gelen İngilizce ifade hangisidir?",
+      "options": [
+        "Hello",
+        "Good afternoon",
+        "Good night",
+        "Good morning"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema2friends-9",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"How old are you?\" sorusunun anlamı nedir?",
+      "options": [
+        "Adın ne?",
+        "Kaç yaşındasın?",
+        "Nasılsın?",
+        "Bu nedir?"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema2friends-10",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"I am seven years old.\" ifadesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Ben iyiyim.",
+        "Ben yedi yaşındayım.",
+        "Benim adım Yedi.",
+        "Ben sekiz yaşındayım."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema2friends-11",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"I am eight years old.\" ifadesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Adım Sekiz.",
+        "Ben sekiz yaşındayım.",
+        "Ben yedi yaşındayım.",
+        "Ben iyiyim."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema2friends-12",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"This is my friend, Ali.\" ifadesinin anlamı nedir?",
+      "options": [
+        "Ali nasılsın?",
+        "Ali okula gidiyor.",
+        "Benim adım Ali.",
+        "Bu benim arkadaşım Ali."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema2friends-13",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Goodbye\" diyen bir arkadaşımıza ne diye cevap verebiliriz?",
+      "options": [
+        "Bye / Goodbye",
+        "Good morning",
+        "What is your name?",
+        "Hello"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema2friends-14",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "İngilizce kendini tanıtırken \"Ben Selim\" demek için hangisi kullanılır?",
+      "options": [
+        "How is Selim?",
+        "I am Selim.",
+        "Selim is fine.",
+        "This is Selim."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema2friends-15",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Hello, how are you?\" sorusuna hangi cevap verilemez?",
+      "options": [
+        "I am okay.",
+        "I am fine, thank you.",
+        "My name is Ahmet.",
+        "Great, thanks."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema2friends-16",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"What is this?\" sorusunun anlamı nedir?",
+      "options": [
+        "Bu nedir?",
+        "O kimdir?",
+        "Nasılsın?",
+        "Adın ne?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema2friends-17",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Good afternoon\" ifadesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Merhaba",
+        "Tünaydın / İyi günler",
+        "Günaydın",
+        "İyi geceler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema2friends-18",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "İngilizce \"Arkadaş\" ne demektir?",
+      "options": [
+        "Student",
+        "School",
+        "Friend",
+        "Teacher"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema2friends-19",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Nice to meet you\" ifadesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Görüşürüz.",
+        "Tanıştığımıza memnun oldum.",
+        "Nasılsın?",
+        "Teşekkür ederim."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema2friends-20",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Nice to meet you\" diyen birine nasıl karşılık veririz?",
+      "options": [
+        "I am fine.",
+        "Goodbye.",
+        "Nice to meet you, too.",
+        "My name is Can."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema2friends-21",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"See you\" ifadesinin anlamı nedir?",
+      "options": [
+        "Görüşmek üzere",
+        "Hoş geldiniz",
+        "Günaydın",
+        "Merhaba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema2friends-22",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "İngilizce \"Lütfen\" ne demektir?",
+      "options": [
+        "Sorry",
+        "Thank you",
+        "Please",
+        "Welcome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema2friends-23",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "İngilizce \"Teşekkür ederim\" ne demektir?",
+      "options": [
+        "Thank you",
+        "Goodbye",
+        "Sorry",
+        "Please"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema2friends-24",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "İngilizce \"Üzgünüm / Özür dilerim\" ne demektir?",
+      "options": [
+        "Sorry",
+        "Please",
+        "Hello",
+        "Thank you"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema2friends-25",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Thank you\" diyen birine kibarca ne cevap verilebilir?",
+      "options": [
+        "My name is Efe.",
+        "I am seven.",
+        "Goodbye.",
+        "You are welcome. (Rica ederim)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-english-74",
+      "subject": "İngilizce",
+      "theme": "Tema 2: My Family",
+      "question": "Abim/Kardeşim için hangi kelime kullanılır?",
+      "options": [
+        "Father",
+        "Brother",
+        "Mother",
+        "Sister"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-448",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Günaydın\" ifadesinin İngilizce karşılığı hangisidir?",
+      "options": [
+        "Good morning",
+        "Good afternoon",
+        "Good night",
+        "Goodbye"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-580",
+      "subject": "İngilizce",
+      "theme": "Tema 2: My Family",
+      "question": "Kız kardeş ne demektir?",
+      "options": [
+        "Brother",
+        "Sister",
+        "Father",
+        "Mother"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-105",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"How are you?\" sorusuna verilebilecek uygun cevap hangisidir?",
+      "options": [
+        "I am fine, thank you.",
+        "I am Ali.",
+        "Goodbye.",
+        "This is a pencil."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-322",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Goodbye!\" ne anlama gelmektedir?",
+      "options": [
+        "Merhaba",
+        "Görüşmek üzere / Güle güle",
+        "Günaydın",
+        "İyi geceler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-english-136",
+      "subject": "İngilizce",
+      "theme": "Tema 2: My Family",
+      "question": "Aile ne demektir?",
+      "options": [
+        "Friend",
+        "Family",
+        "Home",
+        "School"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-62",
+      "subject": "İngilizce",
+      "theme": "Tema 2: My Family",
+      "question": "Büyükanne ne demektir?",
+      "options": [
+        "Grandfather",
+        "Grandmother",
+        "Mother",
+        "Sister"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-557",
+      "subject": "İngilizce",
+      "theme": "Tema 2: My Family",
+      "question": "'This is my mother' ne demektir?",
+      "options": [
+        "Bu benim babam",
+        "Bu benim annem",
+        "Bu benim kardeşim",
+        "Bu benim dedem"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-english-493",
+      "subject": "İngilizce",
+      "theme": "Tema 2: My Family",
+      "question": "Ablam/Kardeşim için hangi kelime kullanılır?",
+      "options": [
+        "Sister",
+        "Brother",
+        "Father",
+        "Mother"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-english-264",
+      "subject": "İngilizce",
+      "theme": "Tema 2: My Family",
+      "question": "Baba ne demektir?",
+      "options": [
+        "Mother",
+        "Father",
+        "Sister",
+        "Brother"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-519",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"What is your name?\" sorusuna hangi cevap verilmelidir?",
+      "options": [
+        "I am fine.",
+        "My name is Ali.",
+        "Good morning.",
+        "I am seven."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-english-249",
+      "subject": "İngilizce",
+      "theme": "Tema 2: Friends",
+      "question": "\"Hello!\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Güle güle",
+        "Günaydın",
+        "Merhaba",
+        "Teşekkürler"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

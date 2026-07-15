@@ -1,32 +1,6 @@
 {
   "questions": [
     {
-      "id": "q1141",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "İsim ne demektir?",
-      "options": [
-        "Sıfatların adı",
-        "Bağlaçların adı",
-        "Varlıkların ve kavramların adı",
-        "Eylemlerin adı"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q1144",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Zamir nedir?",
-      "options": [
-        "Bağlaç",
-        "Eylem yerine kullanılan",
-        "İsim yerine kullanılan sözcük",
-        "Sıfat yerine kullanılan"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q1145",
       "subject": "Türkçe",
       "theme": "Tema 9",
@@ -610,19 +584,6 @@
         "Temel anlam"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qf800667",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Deyim nedir?",
-      "options": [
-        "Atasözü",
-        "Özel isim",
-        "Kalıplaşmış, mecaz ya da özel anlamlı sözcük grubu",
-        "Terim"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qf800668",

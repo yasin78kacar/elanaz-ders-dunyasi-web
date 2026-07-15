@@ -287,19 +287,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb91438",
-      "subject": "İngilizce",
-      "theme": "Tema 6",
-      "question": "\"Kalem\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Student",
-        "Pencil",
-        "Eraser",
-        "Pencil"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb91439",
       "subject": "İngilizce",
       "theme": "Tema 6",
@@ -391,19 +378,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qb91448",
-      "subject": "İngilizce",
-      "theme": "Tema 6",
-      "question": "\"Defter\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Notebook",
-        "Pencil",
-        "Eraser",
-        "Eraser"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb91449",
       "subject": "İngilizce",
       "theme": "Tema 6",
@@ -443,32 +417,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qb91452",
-      "subject": "İngilizce",
-      "theme": "Tema 6",
-      "question": "\"Makas\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Ruler",
-        "Ruler",
-        "Scissors",
-        "Classroom"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qb91454",
-      "subject": "İngilizce",
-      "theme": "Tema 6",
-      "question": "\"Sinif\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Classroom",
-        "Student",
-        "Classroom",
-        "Pencil"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb91455",
       "subject": "İngilizce",
       "theme": "Tema 6",
@@ -493,19 +441,6 @@
         "Classroom"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qb91458",
-      "subject": "İngilizce",
-      "theme": "Tema 6",
-      "question": "\"Öğretmen\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Pen",
-        "Teacher",
-        "Teacher",
-        "Notebook"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qb91460",
@@ -545,19 +480,6 @@
         "Project"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qb91464",
-      "subject": "İngilizce",
-      "theme": "Tema 6",
-      "question": "\"Sinav\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Exam",
-        "Exam",
-        "Exam",
-        "Blackboard"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qb91466",
@@ -1247,6 +1169,266 @@
         "Notebook"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema6playground-101",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Run\" eyleminin anlamı nedir?",
+      "options": [
+        "Zıplamak",
+        "Yürümek",
+        "Oynamak",
+        "Koşmak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-102",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Jump\" eyleminin anlamı nedir?",
+      "options": [
+        "Uyumak",
+        "Koşmak",
+        "Şarkı söylemek",
+        "Zıplamak / Atlamak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-103",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Play\" eyleminin Türkçe karşılığı nedir?",
+      "options": [
+        "Koşmak",
+        "Zıplamak",
+        "Uyumak",
+        "Oynamak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-104",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Swing\" kelimesinin oyun alanındaki karşılığı nedir?",
+      "options": [
+        "Bisiklet",
+        "Kaydırak",
+        "Top",
+        "Salıncak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-105",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Slide\" kelimesinin oyun alanındaki karşılığı nedir?",
+      "options": [
+        "Salıncak",
+        "Tahterevalli",
+        "Bisiklet",
+        "Kaydırak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-106",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Ride a bike\" ifadesinin anlamı nedir?",
+      "options": [
+        "Uçurtma uçurmak",
+        "Top oynamak",
+        "İp atlamak",
+        "Bisiklete binmek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-107",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Fly a kite\" ifadesinin anlamı nedir?",
+      "options": [
+        "İp atlamak",
+        "Uçurtma uçurmak",
+        "Koşmak",
+        "Bisiklete binmek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema6playground-108",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Skip rope\" ifadesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "İp atlamak",
+        "Bisiklete binmek",
+        "Uçurtma uçurmak",
+        "Top oynamak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema6playground-109",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Sing a song\" ifadesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Dans etmek",
+        "Kitap okumak",
+        "Resim çizmek",
+        "Şarkı söylemek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-110",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Dance\" kelimesinin Türkçe karşılığı nedir?",
+      "options": [
+        "Zıplamak",
+        "Şarkı söylemek",
+        "Koşmak",
+        "Dans etmek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-111",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Let's play\" ifadesinin anlamı nedir?",
+      "options": [
+        "Hadi koşalım.",
+        "Hadi şarkı söyleyelim.",
+        "Hadi ders çalışalım.",
+        "Hadi oynayalım."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-112",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Play football\" ifadesinin anlamı nedir?",
+      "options": [
+        "Basketbol oynamak",
+        "Uçurtma uçurmak",
+        "Futbol oynamak",
+        "Bisiklete binmek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema6playground-113",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Let's run\" ifadesinin anlamı nedir?",
+      "options": [
+        "Hadi şarkı söyleyelim.",
+        "Hadi koşalım.",
+        "Hadi zıplayalım.",
+        "Hadi oynayalım."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema6playground-114",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Let's jump\" ifadesinin anlamı nedir?",
+      "options": [
+        "Hadi koşalım.",
+        "Hadi şarkı söyleyelim.",
+        "Hadi oturalım.",
+        "Hadi zıplayalım."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-115",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Let's sing\" ifadesinin anlamı nedir?",
+      "options": [
+        "Hadi çizmeyi öğrenelim.",
+        "Hadi dans edelim.",
+        "Hadi oynayalım.",
+        "Hadi şarkı söyleyelim."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-116",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Let's dance\" ifadesinin anlamı nedir?",
+      "options": [
+        "Hadi dans edelim.",
+        "Hadi oynayalım.",
+        "Hadi şarkı söyleyelim.",
+        "Hadi koşalım."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema6playground-117",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Ride a horse\" ifadesinin anlamı nedir?",
+      "options": [
+        "Zıplamak",
+        "Bisiklete binmek",
+        "Koşmak",
+        "Ata binmek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema6playground-118",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Play with a ball\" ifadesinin anlamı nedir?",
+      "options": [
+        "Topla oynamak",
+        "İp atlamak",
+        "Uçurtma uçurmak",
+        "Koşmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema6playground-119",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Hop\" eyleminin anlamı nedir?",
+      "options": [
+        "Yürümek",
+        "Uyumak",
+        "Tek ayak üzerinde zıplamak / Sekmek",
+        "Koşmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema6playground-120",
+      "subject": "İngilizce",
+      "theme": "Tema 6: Playground",
+      "question": "\"Walk in the park\" ifadesinin anlamı nedir?",
+      "options": [
+        "Parkta oynamak",
+        "Parkta koşmak",
+        "Parkta yürümek",
+        "Parkta uyumak"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

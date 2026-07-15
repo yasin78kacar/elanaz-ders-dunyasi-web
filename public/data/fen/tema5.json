@@ -495,136 +495,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qb91058",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "70 km/s hizla giden arac 2 saatte kac km gider?",
-      "options": [
-        "140",
-        "70",
-        "72",
-        "210"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200731",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Bilim nedir? (Tema 5)",
-      "options": [
-        "Edebiyat",
-        "Dogayi inceleme ve anlama yöntemi",
-        "Müzik",
-        "Sanat"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200732",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Deney neden yapilir? (Tema 5)",
-      "options": [
-        "Para kazanmak icin",
-        "Zorunlu oldugu icin",
-        "Hipotezi test etmek ve bilgi üretmek icin",
-        "Eglence icin"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200733",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Gözlem nedir? (Tema 5)",
-      "options": [
-        "Rapor yazma",
-        "Duyu organlariyla bilgi toplama",
-        "Deney yapma",
-        "Varsayim yapma"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200734",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Hipotez nedir? (Tema 5)",
-      "options": [
-        "Bilim yasasi",
-        "Onaylanmis kural",
-        "Kesin sonuc",
-        "Denenmemis tahmin veya varsayim"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200735",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Sonuc cikarma ne demektir? (Tema 5)",
-      "options": [
-        "Deneyin bulgularini yorumlamak",
-        "Gözlem yapmak",
-        "Veri toplamak",
-        "Deney yapmak"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200736",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Enerji korunumu yasasi ne der? (Tema 5)",
-      "options": [
-        "Enerji yok olur",
-        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
-        "Enerji azalir",
-        "Enerji artar"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200737",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Hucre nedir? (Tema 5)",
-      "options": [
-        "Canliların en kucuk yapısal birimi",
-        "Doku",
-        "Organ",
-        "Sistem"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200739",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Fotosantez neden önemlidir? (Tema 5)",
-      "options": [
-        "Oksijen üretir ve besin saglar",
-        "Sadece güzel görünür",
-        "Isi üretir",
-        "Su tüketir"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200740",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Besin zinciri neden önemlidir? (Tema 5)",
-      "options": [
-        "Guzel görünür",
-        "Ekosistemdeki enerji akisini gösterir",
-        "Para üretir",
-        "Isi saglar"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qe600960",
       "subject": "Fen Bilimleri",
       "theme": "Tema 5",
@@ -779,6 +649,652 @@
         "Isı verilince"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "q-f-light-161",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Kendiliğinden etrafına ışık yayan varlıklara ne denir?",
+      "options": [
+        "Yansıtıcı",
+        "Yapay ışık kaynağı",
+        "Karanlık",
+        "Doğal ışık kaynağı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-light-162",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "İnsanlar tarafından yapılan ve elektrik veya yakıtla çalışan ışık kaynaklarına ne denir?",
+      "options": [
+        "Yapay ışık kaynağı",
+        "Şimşek",
+        "Yıldızlar",
+        "Doğal ışık kaynağı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-light-163",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Dünyamız için en büyük doğal ışık ve ısı kaynağı hangisidir?",
+      "options": [
+        "Güneş",
+        "Lamba",
+        "Yıldızlar",
+        "Ay"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-light-164",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Aşağıdakilerden hangisi yapay bir ışık kaynağıdır?",
+      "options": [
+        "Güneş",
+        "Yıldızlar",
+        "Şimşek",
+        "Lamba / Mum"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-light-165",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Ateş böceği doğal mı yapay mı ışık kaynağıdır?",
+      "options": [
+        "Yapay ışık kaynağıdır.",
+        "Pille çalışır.",
+        "Doğal ışık kaynağıdır.",
+        "Işık kaynağı değildir."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-light-166",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Geceleri sokakları aydınlatmak için kullanılan lambalar hangi ışık kaynağıdır?",
+      "options": [
+        "Doğal ses kaynağı",
+        "Yapay ışık kaynağı",
+        "Yansıtıcı",
+        "Doğal ışık kaynağı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-167",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Ses çıkaran her varlığa ne denir?",
+      "options": [
+        "Ses kaynağı",
+        "Işık kaynağı",
+        "Megafon",
+        "Alıcı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-light-168",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Doğada insan etkisi olmadan ses çıkaran varlıklara ne denir?",
+      "options": [
+        "Yapay ses kaynağı",
+        "Doğal ses kaynağı",
+        "Radyo",
+        "Gürültü"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-169",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "İnsanlar tarafından yapılan ses üreten araçlara ne denir?",
+      "options": [
+        "Doğal ses kaynağı",
+        "Rüzgar",
+        "Dalga",
+        "Yapay ses kaynağı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-light-170",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Kuş cıvıltısı veya şelale sesi hangi ses kaynağına girer?",
+      "options": [
+        "Doğal ses kaynağı",
+        "Elektrikli ses",
+        "Gürültü",
+        "Yapay ses kaynağı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-light-171",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Radyodan veya televizyondan gelen ses hangi ses kaynağına girer?",
+      "options": [
+        "Doğal ses kaynağı",
+        "Rüzgar sesi",
+        "Dalga sesi",
+        "Yapay ses kaynağı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-light-172",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Ses kulağımıza nasıl ulaşır?",
+      "options": [
+        "Işıkla birlikte",
+        "Ses dalgaları halinde yayılarak",
+        "Kablolarla havadan",
+        "Uçarak doğrudan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-173",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Ses kaynağına yaklaştıkça sesin neyi artar?",
+      "options": [
+        "Süresi",
+        "Rengi",
+        "Hızı",
+        "Şiddeti (duyulabilirliği)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-light-174",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Ses kaynağından uzaklaştıkça sesin şiddeti nasıl değişir?",
+      "options": [
+        "Önce artar sonra azalır.",
+        "Azalır.",
+        "Değişmez.",
+        "Artar."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-175",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "İşitme sağlığımızı bozacak kadar yüksek ve düzensiz seslere ne denir?",
+      "options": [
+        "Gürültü / Ses kirliliği",
+        "Melodi",
+        "Doğal ses",
+        "Müzik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-light-176",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Elektrik enerjisiyle çalışan ve ev işlerini kolaylaştıran araçlara ne ad verilir?",
+      "options": [
+        "Ahşap araçlar",
+        "Elektrikli araçlar",
+        "El aletleri",
+        "Mekanik araçlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-177",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Aşağıdakilerden hangisi aydınlatma amacıyla kullanılan bir elektrikli araçtır?",
+      "options": [
+        "Mikser",
+        "Ampul / Floresan",
+        "Buzdolabı",
+        "Fırın"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-178",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Aşağıdakilerden hangisi ısınma amacıyla kullanılan bir elektrikli araçtır?",
+      "options": [
+        "Lamba",
+        "Elektrikli radyatör / Klima",
+        "Ütü",
+        "Televizyon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-179",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Aşağıdakilerden hangisi temizlik amacıyla kullanılan bir elektrikli araçtır?",
+      "options": [
+        "Buzdolabı",
+        "Elektrikli süpürge",
+        "Fırın",
+        "Radyo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-180",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Yiyecekleri soğuk tutarak bozulmasını önleyen elektrikli araç hangisidir?",
+      "options": [
+        "Çamaşır makinesi",
+        "Buzdolabı",
+        "Ütü",
+        "Fırın"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-181",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Evlerimizdeki duvar prizleri hangi elektrik kaynağına bağlıdır?",
+      "options": [
+        "Pil",
+        "Şehir elektriği",
+        "Akü",
+        "Batarya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-light-182",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Kumanda ve el fenerini çalıştırmak için kullanılan küçük elektrik kaynağı hangisidir?",
+      "options": [
+        "Şehir elektriği",
+        "Jeneratör",
+        "Pil",
+        "Akü"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-light-183",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Cep telefonlarının çalışmasını sağlayan şarj edilebilir elektrik kaynağı hangisidir?",
+      "options": [
+        "Batarya",
+        "Akü",
+        "Pil",
+        "Şehir elektriği"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-light-184",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Otomobillerin motorunun çalışması ve farlarının yanması için elektrik sağlayan kaynak hangisidir?",
+      "options": [
+        "Rüzgar gülü",
+        "Pil",
+        "Akü (Akümülatör)",
+        "Şehir elektriği"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-light-185",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Biten pillerin çevreye zarar vermemesi için nereye atılması gerekir?",
+      "options": [
+        "Normal çöp kutusuna",
+        "Suya",
+        "Toprağa",
+        "Atık pil kutusuna"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-ext-186",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Elektrik kesildiğinde okullarda veya hastanelerde devreye giren büyük elektrik üreticisi hangisidir?",
+      "options": [
+        "Akü",
+        "Güneş paneli",
+        "Jeneratör",
+        "Pil"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-ext-187",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Elektrikli aletleri kullanırken güvenliğimiz için hangisini yapmamalıyız?",
+      "options": [
+        "Kablosundan değil fişinden tutarak çekmek",
+        "Prizlere metal çivi veya tel sokmak",
+        "Kuru ellerle çalıştırmak",
+        "Yıpranmamış kabloları kullanmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-ext-188",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Yıpranmış elektrik kablolarını kullanmak neye sebep olabilir?",
+      "options": [
+        "Lambanın daha parlak yanmasına",
+        "Cihazın daha hızlı çalışmasına",
+        "Elektrik çarpmasına veya yangına",
+        "Tasarruf yapılmasına"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-ext-189",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Elektrik çarpan bir kişiye yardım ederken öncelikle ne yapılmalıdır?",
+      "options": [
+        "Kişiye doğrudan çıplak elle dokunulmalıdır.",
+        "Elektrik sigortası (şalteri) kapatılmalıdır.",
+        "Kişinin üzerine su dökülmelidir.",
+        "Kişi hızla çekilmelidir."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-ext-190",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Aşağıdakilerden hangisi pilin bittiğini gösteren bir durumdur?",
+      "options": [
+        "Cihazın ışık saçması",
+        "Cihazın hiç çalışmaması veya yavaş çalışması",
+        "Cihazın sesinin artması",
+        "Cihazın daha hızlı çalışması"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-ext-191",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Hangisi doğal bir ses kaynağıdır?",
+      "options": [
+        "Radyonun sesi",
+        "Gitarın sesi",
+        "Rüzgarın uğultusu",
+        "Arabanın kornası"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-ext-192",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Hangisi yapay bir ses kaynağıdır?",
+      "options": [
+        "Yağmur damlası sesi",
+        "Kedi sesi",
+        "Korna sesi",
+        "Rüzgar sesi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-ext-193",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Görme olayının gerçekleşmesi için hangisi şarttır?",
+      "options": [
+        "Isı kaynağı",
+        "Işık kaynağı",
+        "Rüzgar esmesi",
+        "Ses kaynağı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-f-ext-194",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Karanlık bir gecede gökyüzündeki yıldızlar hangi tür ışık kaynağıdır?",
+      "options": [
+        "Doğal ışık kaynağı",
+        "Yapay ışık kaynağı",
+        "Karanlık",
+        "Işık yansıtıcı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-ext-195",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Yanan mum hangi tür ışık kaynağıdır?",
+      "options": [
+        "Işık alıcı",
+        "Doğal ışık kaynağı",
+        "Karanlık",
+        "Yapay ışık kaynağı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-ext-196",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Aşağıdaki canlılardan hangisi bitki grubuna girer?",
+      "options": [
+        "Papatya",
+        "Kedi",
+        "Solucan",
+        "Karınca"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-ext-197",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Aşağıdaki canlılardan hangisi hayvan grubuna girer?",
+      "options": [
+        "Gül",
+        "Papatya",
+        "Çam ağacı",
+        "Tavşan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-f-ext-198",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Canlıların ortak özelliklerinden biri olan beslenme neden gereklidir?",
+      "options": [
+        "Oyun oynamak için",
+        "Uyumak için",
+        "Büyümek ve yaşam enerjisi kazanmak için",
+        "Boyamış olmak için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-f-ext-199",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Tohumun çimlenebilmesi için hangisine ihtiyacı vardır?",
+      "options": [
+        "Su, uygun sıcaklık ve hava",
+        "Karanlık oda",
+        "Gübre",
+        "Televizyon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-f-ext-200",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
+      "question": "Büyüyen ve gelişen, kendi besinini kendisi yapan canlılar hangileridir?",
+      "options": [
+        "Bitkiler",
+        "Hayvanlar",
+        "Eşyalar",
+        "Taşlar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-fen-57",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrikli araçları kullanırken nelere dikkat etmeliyiz?",
+      "options": [
+        "Suyla oynamamalıyız",
+        "Prize dokunmamalıyız",
+        "Kabloları çekmemeliyiz",
+        "Hepsi"
+      ],
+      "correctAnswer": 3,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-170",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Hangisi elektrikle çalışır?",
+      "options": [
+        "Buzdolabı",
+        "Kamyon",
+        "Bisiklet",
+        "Top"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-330",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Piller bittiğinde ne yapılmalıdır?",
+      "options": [
+        "Yere atmalı",
+        "Çöp kutusuna atmalı",
+        "Geri dönüşüm kutusuna atmalı",
+        "Biriktirmeli"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-175",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Hangisi pille çalışır?",
+      "options": [
+        "Çamaşır makinesi",
+        "El feneri",
+        "Fırın",
+        "Buzdolabı"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-213",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrikli araçlar ne ile çalışır?",
+      "options": [
+        "Pil veya priz",
+        "Benzin",
+        "Rüzgar",
+        "Güç"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-fen-383",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektriğin amacı nedir?",
+      "options": [
+        "Hayatı kolaylaştırmak",
+        "Zorlaştırmak",
+        "Sadece yemek yapmak",
+        "Hiçbir şey"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-246",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrik tasarrufu için ne yapılmalıdır?",
+      "options": [
+        "Lambaları açık bırakmalı",
+        "Gereksiz ışıkları kapatmalı",
+        "Prizle oynamalı",
+        "Televizyonu 24 saat açık tutmalı"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-fen-427",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrik çarpmalarından nasıl korunuruz?",
+      "options": [
+        "Prize dokunmayarak",
+        "Prize çivi sokarak",
+        "Islak elle dokunarak",
+        "Kabloları keserek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-fen-14",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 5: Elektrikli Araçlar",
+      "question": "Elektrikli cihazlar arızalandığında ne yapılmalıdır?",
+      "options": [
+        "Kendimiz tamir etmeliyiz",
+        "Uzmanına göstermeliyiz",
+        "Açık bırakmalıyız",
+        "Çöpe atmalıyız"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
     }
   ]
 }

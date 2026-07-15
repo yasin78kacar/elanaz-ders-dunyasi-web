@@ -209,123 +209,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qc200821",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Empati nedir? (Tema 4)",
-      "options": [
-        "Baskasinin duygularini anlamaya calisma",
-        "Kendi duyguları",
-        "Disiplin",
-        "Sempatik olmak"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200822",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Sorumluluk nedir? (Tema 4)",
-      "options": [
-        "Yapilmasi gerekenlerle hesap verebilme",
-        "Hak",
-        "Özgürlük",
-        "Imtiyaz"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200823",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Dayanisma nedir? (Tema 4)",
-      "options": [
-        "Bireycilik",
-        "Birlikte hareket edip birbirini destekleme",
-        "Rekabet",
-        "Yalnizlik"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200824",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Paylasmak neden önemlidir? (Tema 4)",
-      "options": [
-        "Para kazandirir",
-        "Zorunluluk",
-        "Toplumsal uyum ve mutluluk saglar",
-        "Faydasiz"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200825",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Dogruluk neden önemlidir? (Tema 4)",
-      "options": [
-        "Zorunluluk",
-        "Para kazandirir",
-        "Güveni tesis eder ve toplumu güçlendirir",
-        "Faydasiz"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200826",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Centilmenlik nedir? (Tema 4)",
-      "options": [
-        "Baskalarina zarar verme",
-        "Dürüst, kibar ve adaletli davranis",
-        "Sadece bireysel yarar",
-        "Kazanmak icin her yolu denemek"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200827",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Kültür nedir? (Tema 4)",
-      "options": [
-        "Sadece edebiyat",
-        "Sadece sanat",
-        "Sadece müzik",
-        "Bir toplumun yasam bicimi, degerleri ve gelenekleri"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200828",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Hosgorü nedir? (Tema 4)",
-      "options": [
-        "Farkli görüslere saygi ve kabul",
-        "Kendi görüsünü dayatma",
-        "Fark etmeme",
-        "Herkesin ayni olmasi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200829",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Vatandaslik neden önemlidir? (Tema 4)",
-      "options": [
-        "Sadece hak icin",
-        "Topluma katilim ve sorumluluklar icin",
-        "Sadece oy icin",
-        "Zorunluluk"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qe601079",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 4",
@@ -454,6 +337,796 @@
         "Selleri yüzerek geçmek"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-106",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Karşıdan karşıya geçerken aşağıdakilerden hangisini kullanmak güvenlidir?",
+      "options": [
+        "Yaya ve okul geçitlerini, alt ve üst geçitleri",
+        "Araçların arasını",
+        "Kavşakların ortasını",
+        "Hızlı akan araç yolunu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-107",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafikte yanan kırmızı ışık yayalar için ne anlama gelir?",
+      "options": [
+        "Hızlan",
+        "Geç",
+        "Dur ve bekle",
+        "Hazırlan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-108",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Okul servisinde seyahat ederken güvenliğimiz için ilk olarak ne yapmalıyız?",
+      "options": [
+        "Şoförle sürekli konuşmalıyız.",
+        "Camdan dışarı sarkmalıyız.",
+        "Ayağa kalkıp yürümeliyiz.",
+        "Emniyet kemerimizi takmalıyız."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-109",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Yabancı ve tanımadığımız bir kişi bize şeker veya hediye vermek istediğinde ne yapmalıyız?",
+      "options": [
+        "Kabul etmeyip oradan uzaklaşmalı ve ailemize haber vermeliyiz.",
+        "Hemen almalıyız.",
+        "Teşekkür edip almalıyız.",
+        "Hediyeyi arkadaşımıza vermeliyiz."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-110",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Bisiklet, paten veya kaykay kullanırken koruma amaçlı hangisini takmak zorunludur?",
+      "options": [
+        "Kask, dizlik ve dirseklik",
+        "Atkı",
+        "Şapka",
+        "Güneş gözlüğü"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-111",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Güvenli oyun oynamak için aşağıdaki alanlardan hangisini tercih etmeliyiz?",
+      "options": [
+        "Su kanallarının kenarları",
+        "Taşıtların geçtiği sokaklar",
+        "Çocuk parkları ve okul bahçeleri",
+        "İnşaat alanları"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-112",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Yaya kaldırımı olmayan yollarda yolun hangi tarafından yürümeliyiz?",
+      "options": [
+        "Yolun tam ortasından",
+        "Sağ taraftan",
+        "Araçlarla aynı yönde",
+        "Gelen araçları görebilmek için sol taraftan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-113",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafikte sürücüler için kırmızı ışık ne anlama gelir?",
+      "options": [
+        "Hazırlan",
+        "Dur",
+        "Geç",
+        "Hızlan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-114",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafik lambasında sarı ışık yandığında ne yapmalıyız?",
+      "options": [
+        "Geri dönmeliyiz.",
+        "Hemen koşarak geçmeliyiz.",
+        "Hazırlanmalıyız.",
+        "Durup beklemeliyiz."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-115",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Okul servis aracından inerken ne zaman hareket etmeliyiz?",
+      "options": [
+        "Araç yavaşlarken",
+        "Şoför frene bastığında",
+        "Araç tamamen durduğunda ve kapısı açıldığında",
+        "Araç hareket halindeyken"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-116",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Karşıdan karşıya geçerken yola inmeden önce ilk olarak hangi tarafa bakmalıyız?",
+      "options": [
+        "Yukarıya",
+        "Arkaya",
+        "Sağa",
+        "Sola"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-117",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Okul servis aracında seyahat ederken camdan dışarı elimizi veya kafamızı sarkıtmak nasıl bir davranıştır?",
+      "options": [
+        "Çok tehlikeli ve yasaktır.",
+        "Faydalıdır.",
+        "Eğlencelidir.",
+        "Güvenlidir."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-118",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafik işaret ve levhalarına uymak kimler için zorunludur?",
+      "options": [
+        "Sadece sürücüler için",
+        "Hem sürücüler hem de yayalar için",
+        "Sadece yayalar için",
+        "Kimse için zorunlu değildir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-119",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Evde elektrik prizleriyle oynamak veya içine metal cisim sokmak neye yol açar?",
+      "options": [
+        "Tasarruf edilmesine",
+        "Elektrik çarpmasına",
+        "Prizin temizlenmesine",
+        "Lambanın yanmasına"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-120",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Islak elle elektrik düğmelerine dokunmak neden tehlikelidir?",
+      "options": [
+        "Düğme bozulacağı için",
+        "Fatura artacağı için",
+        "Lamba söneceği için",
+        "Elektrik çarpma riski yüksek olduğu için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-121",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Acil bir durumda yardım istemek için hangi acil yardım hattını aramalıyız?",
+      "options": [
+        "155",
+        "156",
+        "112",
+        "110"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-122",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Evde yangın çıktığında ilk olarak ne yapmalıyız?",
+      "options": [
+        "Oyun oynamaya devam etmeliyiz.",
+        "Hemen evden güvenli şekilde çıkmalı ve büyüklere/112'ye haber vermeliyiz.",
+        "Dolabın içine saklanmalıyız.",
+        "Yangını kendimiz söndürmeye çalışmalıyız."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-123",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Asansöre binerken uymamız gereken güvenlik kuralı hangisidir?",
+      "options": [
+        "Asansörün içinde zıplamak",
+        "Tüm düğmelere basmak",
+        "Kapının arasına el sıkıştırmak",
+        "Büyüklerimiz yanımızdayken binmek ve kabin durmadan adım atmamak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-124",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Oyun oynarken topumuz yola kaçarsa ne yapmalıyız?",
+      "options": [
+        "Araçların geçmesini beklemeden koşmalıyız.",
+        "Ağlayarak yola oturmalıyız.",
+        "Hemen topun arkasından yola koşmalıyız.",
+        "Yola hemen koşmamalı, büyüklerimizden yardım istemeliyiz."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-125",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "İnşaat alanlarının yakınında oynamak neden tehlikelidir?",
+      "options": [
+        "Çok gürültülü olduğu için",
+        "Üzerimize ağır cisimler düşebileceği veya çukurlara düşebileceğimiz için",
+        "Toprak kirli olduğu için",
+        "Oyun alanı küçük olduğu için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-126",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Evde balkon demirliklerine tırmanmak veya aşağıya sarkmak nasıl bir davranıştır?",
+      "options": [
+        "Faydalıdır.",
+        "Eğlenceli bir spordur.",
+        "Güvenlidir.",
+        "Düşme tehlikesi olan çok riskli bir davranıştır."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-127",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Merdivenlerden inerken veya çıkarken hangi taraftan yürümeliyiz?",
+      "options": [
+        "Korkulukların üzerinden atlayarak",
+        "Sol taraftan",
+        "Tam ortadan",
+        "Sağ taraftan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-128",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Okul koridorlarında hızlıca koşmak neye sebep olabilir?",
+      "options": [
+        "Spor yapmış olmamıza",
+        "Sınıfa erken girmemize",
+        "Arkadaşlarımızla çarpışıp yaralanmamıza",
+        "Dersi daha iyi anlamamıza"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-129",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Sıcak ütü veya kaynar çaydanlık gibi eşyalara dokunmak neye yol açar?",
+      "options": [
+        "Eşyanın soğumasına",
+        "Elimizin yanmasına ve yaralanmaya",
+        "Hiçbir şeye",
+        "Eşyanın temizlenmesine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-130",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Evdeki ilaçları şeker sanıp içmek neye yol açar?",
+      "options": [
+        "Zehirlenmeye ve büyük sağlık sorunlarına",
+        "Uykunun gelmesine",
+        "Daha hızlı büyümeye",
+        "Tatlı tat almaya"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-131",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Deprem anında okulda veya evde yapılması gereken güvenli hareket hangisidir?",
+      "options": [
+        "Pencereden aşağı atlamak",
+        "Çök - Kapan - Tutun hareketiyle sağlam bir eşyanın yanında beklemek",
+        "Asansöre binip kaçmak",
+        "Hızlanarak merdivenlerden aşağı koşmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-132",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafikte karşıya geçişlerde yaya geçidi yoksa nereden geçmeliyiz?",
+      "options": [
+        "Hızla akan yolun ortasından",
+        "Virajların tam arkasından",
+        "Tepelerin arkasından",
+        "Yolun en güvenli ve görüş açısı açık olan yerinden, araçları kontrol ederek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-133",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Okul servis aracına binerken nasıl davranmalıyız?",
+      "options": [
+        "Sırayla ve aracın tamamen durmasını bekleyerek",
+        "Şoförü kızdırarak",
+        "Hareket halindeki araca atlayarak",
+        "Koşarak ve birbirimizi iterek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-134",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Yabancı bir kişi bizi zorla bir yere götürmek istediğinde ne yapmalıyız?",
+      "options": [
+        "Ona oyuncak vermeliyiz.",
+        "Sessizce onunla gitmeliyiz.",
+        "Yüksek sesle bağırarak çevredekilerden yardım istemeliyiz.",
+        "Ağlamadan beklemeliyiz."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-135",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Kesici ve delici aletlerle (bıçak, makas) çalışırken neye dikkat etmeliyiz?",
+      "options": [
+        "Hızlıca sallamaya",
+        "Büyüklerimizin gözetiminde ve dikkatlice kullanmaya",
+        "Arkadaşımıza doğru fırlatmaya",
+        "Onlarla oyun oynamaya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-136",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "İnternette veya bilgisayarda oyun oynarken neye dikkat etmeliyiz?",
+      "options": [
+        "Her gelen reklamı tıklamaya",
+        "Süre sınırına uymaya ve sadece yaşımıza uygun oyunları oynamaya",
+        "Kişisel bilgilerimizi yabancılara vermeye",
+        "Tüm gün bilgisayar başında kalmaya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-137",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Doğal gaz sızıntısı veya gaz kokusu hissettiğimizde ne yapmalıyız?",
+      "options": [
+        "Kapıyı kilitleyip uyumalıyız.",
+        "Kibrit veya çakmak yakmalıyız.",
+        "Elektrik düğmelerini açıp kapatmalıyız.",
+        "Hemen büyüklere haber vermeli ve pencereleri açmalıyız."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-138",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafik polisinin işaretleri ne işe yarar?",
+      "options": [
+        "Arabaları durdurmaya",
+        "Trafiğin güvenli ve düzenli akmasını sağlamaya",
+        "Yolcuları eğlendirmeye",
+        "Sadece ceza yazmaya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-139",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Karşıdan karşıya geçerken yeşil ışık yandığında ne yapmalıyız?",
+      "options": [
+        "Hiç geçmemeliyiz.",
+        "Koşarak geçmeliyiz.",
+        "Araçların tamamen durduğundan emin olduktan sonra hızlı adımlarla geçmeliyiz.",
+        "Yavaşça yürüyüp yolda durmalıyız."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-h-tema4gvenlihayat-140",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Güvenliğimiz için pencerelerden veya camlardan aşağı sarkmak neden yanlıştır?",
+      "options": [
+        "Rüzgar eseceği için",
+        "Hava soğuyacağı için",
+        "Dengemizi kaybedip aşağı düşme riski olduğu için",
+        "Gözümüz kamaşacağı için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-254",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Asansörü tek başımıza kullanmak neden tehlikelidir?",
+      "options": [
+        "Asansör yavaşlayacağı için",
+        "Asansör bozulacağı için",
+        "Asansör kaldığında ne yapacağımızı bilemeyebileceğimiz için",
+        "Fatura artacağı için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-85",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Hangi nesnelerle oynamak tehlikelidir?",
+      "options": [
+        "Kesici aletler",
+        "Oyuncak arabalar",
+        "Peluş oyuncaklar",
+        "Boyama kalemleri"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-hayat-71",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Acil yardım çağırmak için hangi numarayı aramalıyız?",
+      "options": [
+        "110",
+        "112",
+        "155",
+        "156"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-hayat-68",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Trafik lambasında sarı ışık yandığında ne yapılır?",
+      "options": [
+        "Geri dönülür.",
+        "Hazırlanılır.",
+        "Koşarak geçilir.",
+        "Durup beklenir."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-hayat-295",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Karşıdan karşıya geçerken hangisini kullanmak güvenlidir?",
+      "options": [
+        "Kavşakların ortasını",
+        "Yaya geçidini ve üst geçitleri",
+        "Hızlı akan araç yolunu",
+        "Araçların arkasını"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-hayat-303",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Oyun oynarken en güvenli yer neresidir?",
+      "options": [
+        "Parklar",
+        "Caddeler",
+        "Otoyol",
+        "Köprüler"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-hayat-185",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Bisiklet kullanırken ne takmalıyız?",
+      "options": [
+        "Kask",
+        "Gözlük",
+        "Eldiven",
+        "Şapka"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-hayat-199",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Doğal afetlerde ne yapmalıyız?",
+      "options": [
+        "Kaçmalıyız",
+        "Sakin kalıp önlem almalıyız",
+        "Ağlamalıyız",
+        "Bağırmalıyız"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-hayat-214",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Yolda yürürken kaldırımların hangi tarafını kullanmalıyız?",
+      "options": [
+        "Sağ tarafını",
+        "Sol tarafını",
+        "Yolun tam ortasını",
+        "Taşıt yolunu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-268",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Yangın durumunda aramamız gereken acil durum numarası hangisidir?",
+      "options": [
+        "112",
+        "155",
+        "110",
+        "156"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-350",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Trafik kuralları kimlerin güvenliği içindir?",
+      "options": [
+        "Kimsenin",
+        "Sadece sürücülerin",
+        "Sadece yayaların",
+        "Tüm insanların (sürücüler ve yayalar)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-hayat-212",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Evdeki ilaçlara nasıl yaklaşmalıyız?",
+      "options": [
+        "Dokunmamalıyız",
+        "İçmeliyiz",
+        "Oynamalıyız",
+        "Arkadaşımıza vermeliyiz"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-hayat-536",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafikte karşıdan karşıya geçerken nereyi kullanmalıyız?",
+      "options": [
+        "Yaya geçidi",
+        "Yolun ortası",
+        "Araba altı",
+        "Duvar dibi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-hayat-417",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Oyun oynamak için hangi alanlar güvenlidir?",
+      "options": [
+        "İnşaat alanları",
+        "Su kanalı kenarları",
+        "Çocuk parkları ve okul bahçeleri",
+        "Taşıt geçen sokaklar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-239",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Elektrik prizlerine yabancı cisimler sokmak neye yol açar?",
+      "options": [
+        "Evin aydınlanmasına",
+        "Elektrik çarpmasına",
+        "Lamba sönmesine",
+        "Tasarruf edilmesine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-hayat-469",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Bisiklet, paten veya kaykay kullanırken koruma amaçlı hangisini takmak zorunlu değildir?",
+      "options": [
+        "Kask",
+        "Dizlik",
+        "Gözlük",
+        "Dirseklik"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-410",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Tanımadığımız kişilerden hediye aldığımızda ne yapmalıyız?",
+      "options": [
+        "Almalıyız",
+        "Teşekkür edip almalıyız",
+        "Kesinlikle almamalıyız",
+        "Sormadan almalıyız"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-hayat-569",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Yoldan karşıya geçerken yeşil ışık yayalara neyi gösterir?",
+      "options": [
+        "Güvenle karşıya geçebileceğimizi",
+        "Koşarak geri gitmemizi",
+        "Durup beklememiz gerektiğini",
+        "Yola oturmaları gerektiğini"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-294",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Sürücüler için kırmızı ışık ne anlama gelir?",
+      "options": [
+        "Geç",
+        "Hazırlan",
+        "Hızlan",
+        "Dur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-hayat-30",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Okul servisinde nasıl davranmalıyız?",
+      "options": [
+        "Bağırarak",
+        "Sakin ve kemer bağlı",
+        "Ayakta gezerek",
+        "Şoförü rahatsız ederek"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-hayat-126",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema Eki",
+      "question": "Yayanın geçmesi için hangi trafik ışığı yanmalıdır?",
+      "options": [
+        "Yeşil ışık",
+        "Kırmızı ışık",
+        "Mavi ışık",
+        "Sarı ışık"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-hayat-207",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Trafikte yanan kırmızı ışık sürücüler için ne anlama gelir?",
+      "options": [
+        "Geç",
+        "Hazırlan",
+        "Dur",
+        "Hızlan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-hayat-209",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Arabada emniyet kemeri neden önemlidir?",
+      "options": [
+        "Güvenliğimiz için",
+        "Polis kızmasın diye",
+        "Kemer sevdiğimiz için",
+        "Yasaktır"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-hayat-219",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Acil durumda kimi aramalıyız?",
+      "options": [
+        "112",
+        "Polis",
+        "Okul",
+        "Arkadaş"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-hayat-139",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Karşıdan karşıya geçerken aşağıdakilerden hangisini kullanmak en güvenlidir?",
+      "options": [
+        "Yaya ve okul geçitlerini",
+        "Hızlı akan araç yolunu",
+        "Virajlı yolları",
+        "Araçların arasını"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

@@ -948,6 +948,90 @@
         "Eylem"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-turkce-129",
+      "subject": "Türkçe",
+      "theme": "Tema 5: Hayal Gücü",
+      "question": "Hayali bir karakter uçabilir mi?",
+      "options": [
+        "Hayır",
+        "Evet",
+        "Sadece yürür",
+        "Asla"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-236",
+      "subject": "Türkçe",
+      "theme": "Tema 5: Hayal Gücü",
+      "question": "Ejderhalar gerçek midir?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Bazen",
+        "Bilmiyorum"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-163",
+      "subject": "Türkçe",
+      "theme": "Tema 5: Hayal Gücü",
+      "question": "Bir masalın sonunda genellikle ne denir?",
+      "options": [
+        "Hoşça kal",
+        "Gökten üç elma düşmüş",
+        "Yarın görüşürüz",
+        "Merhaba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-turkce-162",
+      "subject": "Türkçe",
+      "theme": "Tema 5: Hayal Gücü",
+      "question": "Aşağıdakilerden hangisi bir masal kahramanıdır?",
+      "options": [
+        "Keloğlan",
+        "Öğretmen",
+        "Doktor",
+        "Polis"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-turkce-293",
+      "subject": "Türkçe",
+      "theme": "Tema 5: Hayal Gücü",
+      "question": "Masalların özelliği nedir?",
+      "options": [
+        "Gerçek olması",
+        "Hayal ürünü olması",
+        "Haber vermesi",
+        "Bilimsel olması"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-turkce-394",
+      "subject": "Türkçe",
+      "theme": "Tema 5: Hayal Gücü",
+      "question": "Masallarda konuşan hayvanlar olabilir mi?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Asla",
+        "Sadece kedi"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Orta"
     }
   ]
 }

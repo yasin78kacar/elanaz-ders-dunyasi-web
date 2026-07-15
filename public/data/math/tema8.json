@@ -391,19 +391,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "q746",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 tane 5 liralık madeni para kaç lira eder?",
-      "options": [
-        "25",
-        "20",
-        "30",
-        "15"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q747",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -417,32 +404,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q748",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 tane 1 liralık madeni para kaç lira eder?",
-      "options": [
-        "5",
-        "3",
-        "6",
-        "4"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q749",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 tane 5 liralık madeni para kaç lira eder?",
-      "options": [
-        "25",
-        "35",
-        "20",
-        "30"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q750",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -452,214 +413,6 @@
         "70",
         "40",
         "50"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q751",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 tane 1 liralık madeni para kaç lira eder?",
-      "options": [
-        "7",
-        "6",
-        "5",
-        "4"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q752",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 tane 5 liralık madeni para kaç lira eder?",
-      "options": [
-        "35",
-        "30",
-        "40",
-        "25"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q753",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 tane 10 liralık banknot kaç lira eder?",
-      "options": [
-        "50",
-        "70",
-        "80",
-        "60"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q754",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 tane 1 liralık madeni para kaç lira eder?",
-      "options": [
-        "6",
-        "5",
-        "7",
-        "8"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q755",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 tane 5 liralık madeni para kaç lira eder?",
-      "options": [
-        "35",
-        "30",
-        "45",
-        "40"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q756",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 tane 10 liralık banknot kaç lira eder?",
-      "options": [
-        "80",
-        "90",
-        "70",
-        "60"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q757",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 tane 1 liralık madeni para kaç lira eder?",
-      "options": [
-        "7",
-        "9",
-        "8",
-        "6"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q758",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 tane 5 liralık madeni para kaç lira eder?",
-      "options": [
-        "40",
-        "50",
-        "35",
-        "45"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q759",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 tane 10 liralık banknot kaç lira eder?",
-      "options": [
-        "80",
-        "100",
-        "90",
-        "70"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q760",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 tane 1 liralık madeni para kaç lira eder?",
-      "options": [
-        "8",
-        "10",
-        "9",
-        "7"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q761",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 tane 5 liralık madeni para kaç lira eder?",
-      "options": [
-        "55",
-        "45",
-        "40",
-        "50"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q762",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 tane 10 liralık banknot kaç lira eder?",
-      "options": [
-        "100",
-        "110",
-        "80",
-        "90"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q763",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 tane 1 liralık madeni para kaç lira eder?",
-      "options": [
-        "10",
-        "8",
-        "11",
-        "9"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q764",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 tane 5 liralık madeni para kaç lira eder?",
-      "options": [
-        "55",
-        "45",
-        "50",
-        "60"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q765",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 tane 10 liralık banknot kaç lira eder?",
-      "options": [
-        "100",
-        "90",
-        "110",
-        "120"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q766",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 tane 1 liralık madeni para kaç lira eder?",
-      "options": [
-        "12",
-        "11",
-        "9",
-        "10"
       ],
       "correctAnswer": 3
     },
@@ -768,175 +521,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "q775",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "25 liralık ürün için 50 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "35",
-        "20",
-        "30",
-        "25"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q776",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "25 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "10 lira",
-        "50 lira",
-        "100 lira",
-        "200 lira"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q777",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "30 liralık ürün için 50 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "15",
-        "20",
-        "30",
-        "25"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q778",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "30 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "100 lira",
-        "200 lira",
-        "50 lira",
-        "10 lira"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q779",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "35 liralık ürün için 50 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "15",
-        "20",
-        "10",
-        "25"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q780",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "35 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "10 lira",
-        "100 lira",
-        "50 lira",
-        "200 lira"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q781",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "40 liralık ürün için 50 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "10",
-        "20",
-        "5",
-        "15"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q782",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "40 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "50 lira",
-        "10 lira",
-        "100 lira",
-        "200 lira"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q783",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "45 liralık ürün için 50 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "5",
-        "15",
-        "0",
-        "10"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q784",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "45 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "10 lira",
-        "50 lira",
-        "100 lira",
-        "200 lira"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q785",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "50 liralık ürün için 50 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "5",
-        "0",
-        "-5",
-        "10"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q786",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "50 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "100 lira",
-        "10 lira",
-        "50 lira",
-        "200 lira"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50386",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "92",
-        "102",
-        "3",
-        "97"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qa50387",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -948,19 +532,6 @@
         "Bazen"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qa50388",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "99",
-        "6",
-        "89",
-        "94"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qa50389",
@@ -976,19 +547,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qa50390",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "86",
-        "91",
-        "96",
-        "9"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qa50391",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -1002,19 +560,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qa50392",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "12 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "83",
-        "93",
-        "12",
-        "88"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qa50393",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -1026,318 +571,6 @@
         "Bazen"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qa50394",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "15 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "80",
-        "15",
-        "90",
-        "85"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50395",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "15 liralık ürünü 16 lirayla almak mümkün mü?",
-      "options": [
-        "Bilinmez",
-        "Hayır",
-        "Evet",
-        "Bazen"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50396",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "18 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "87",
-        "77",
-        "18",
-        "82"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50397",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "18 liralık ürünü 19 lirayla almak mümkün mü?",
-      "options": [
-        "Bazen",
-        "Evet",
-        "Bilinmez",
-        "Hayır"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50398",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "21 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "79",
-        "84",
-        "21",
-        "74"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50399",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "21 liralık ürünü 22 lirayla almak mümkün mü?",
-      "options": [
-        "Bilinmez",
-        "Hayır",
-        "Bazen",
-        "Evet"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50400",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "24 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "76",
-        "81",
-        "71",
-        "24"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50401",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "24 liralık ürünü 25 lirayla almak mümkün mü?",
-      "options": [
-        "Bilinmez",
-        "Evet",
-        "Hayır",
-        "Bazen"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50402",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "27 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "27",
-        "68",
-        "73",
-        "78"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50403",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "27 liralık ürünü 28 lirayla almak mümkün mü?",
-      "options": [
-        "Hayır",
-        "Bilinmez",
-        "Evet",
-        "Bazen"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50404",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "30 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "30",
-        "75",
-        "65",
-        "70"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50405",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "30 liralık ürünü 31 lirayla almak mümkün mü?",
-      "options": [
-        "Hayır",
-        "Bazen",
-        "Bilinmez",
-        "Evet"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50406",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "33 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "33",
-        "72",
-        "67",
-        "62"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50407",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "33 liralık ürünü 34 lirayla almak mümkün mü?",
-      "options": [
-        "Evet",
-        "Hayır",
-        "Bazen",
-        "Bilinmez"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50408",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "36 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "36",
-        "69",
-        "64",
-        "59"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50409",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "36 liralık ürünü 37 lirayla almak mümkün mü?",
-      "options": [
-        "Bazen",
-        "Hayır",
-        "Evet",
-        "Bilinmez"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50410",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "39 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "56",
-        "66",
-        "39",
-        "61"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50411",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "39 liralık ürünü 40 lirayla almak mümkün mü?",
-      "options": [
-        "Bilinmez",
-        "Hayır",
-        "Bazen",
-        "Evet"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50412",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "42 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "42",
-        "53",
-        "63",
-        "58"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50413",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "42 liralık ürünü 43 lirayla almak mümkün mü?",
-      "options": [
-        "Bazen",
-        "Hayır",
-        "Bilinmez",
-        "Evet"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50414",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "45 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "50",
-        "60",
-        "45",
-        "55"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50415",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "45 liralık ürünü 46 lirayla almak mümkün mü?",
-      "options": [
-        "Bazen",
-        "Evet",
-        "Bilinmez",
-        "Hayır"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50416",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "48 liralık ürün için 100 lira verildi. Para üstü kaç lira?",
-      "options": [
-        "57",
-        "52",
-        "48",
-        "47"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50417",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "48 liralık ürünü 49 lirayla almak mümkün mü?",
-      "options": [
-        "Bilinmez",
-        "Hayır",
-        "Bazen",
-        "Evet"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qa50418",
@@ -1388,890 +621,6 @@
         "8",
         "18",
         "6"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50422",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "2 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "9",
-        "21",
-        "7",
-        "14"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50423",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "2 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "24",
-        "10",
-        "16",
-        "8"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50424",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "2 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "9",
-        "27",
-        "18",
-        "11"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50425",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "2 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "30",
-        "10",
-        "20",
-        "12"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50426",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 adet 3 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "12",
-        "6",
-        "6",
-        "9"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50427",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 adet 4 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "7",
-        "12",
-        "16",
-        "8"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50428",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 adet 5 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "15",
-        "10",
-        "20",
-        "8"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50429",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 adet 6 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "9",
-        "12",
-        "24",
-        "18"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50430",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "10",
-        "21",
-        "28",
-        "14"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50431",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "32",
-        "11",
-        "16",
-        "24"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50432",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "36",
-        "18",
-        "27",
-        "12"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50433",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "3 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "13",
-        "40",
-        "30",
-        "20"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50434",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 adet 3 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "15",
-        "7",
-        "12",
-        "9"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50435",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 adet 4 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "12",
-        "8",
-        "20",
-        "16"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50436",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 adet 5 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "20",
-        "15",
-        "25",
-        "9"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50437",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 adet 6 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "24",
-        "18",
-        "30",
-        "10"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50438",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "21",
-        "11",
-        "35",
-        "28"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50439",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "24",
-        "40",
-        "12",
-        "32"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50440",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "27",
-        "36",
-        "45",
-        "13"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50441",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "4 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "14",
-        "50",
-        "30",
-        "40"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50442",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 adet 3 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "15",
-        "18",
-        "8",
-        "12"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50443",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 adet 4 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "24",
-        "9",
-        "16",
-        "20"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50444",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 adet 5 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "20",
-        "30",
-        "10",
-        "25"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50445",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 adet 6 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "30",
-        "11",
-        "24",
-        "36"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50446",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "42",
-        "12",
-        "35",
-        "28"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50447",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "32",
-        "48",
-        "40",
-        "13"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50448",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "14",
-        "36",
-        "54",
-        "45"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50449",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "50",
-        "60",
-        "15",
-        "40"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50450",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 adet 3 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "15",
-        "21",
-        "9",
-        "18"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50451",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 adet 4 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "10",
-        "24",
-        "20",
-        "28"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50452",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 adet 5 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "11",
-        "25",
-        "35",
-        "30"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50453",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 adet 6 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "12",
-        "42",
-        "36",
-        "30"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50454",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "49",
-        "42",
-        "13",
-        "35"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50455",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "48",
-        "56",
-        "14",
-        "40"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50456",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "63",
-        "54",
-        "45",
-        "15"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50457",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "6 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "70",
-        "16",
-        "60",
-        "50"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50458",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 adet 3 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "18",
-        "21",
-        "10",
-        "24"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50459",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 adet 4 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "24",
-        "32",
-        "11",
-        "28"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50460",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 adet 5 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "12",
-        "35",
-        "40",
-        "30"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50461",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 adet 6 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "13",
-        "48",
-        "36",
-        "42"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50462",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "42",
-        "56",
-        "14",
-        "49"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50463",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "64",
-        "48",
-        "56",
-        "15"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50464",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "16",
-        "72",
-        "63",
-        "54"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50465",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "7 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "17",
-        "60",
-        "70",
-        "80"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50466",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 adet 3 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "27",
-        "21",
-        "11",
-        "24"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50467",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 adet 4 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "32",
-        "28",
-        "36",
-        "12"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50468",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 adet 5 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "13",
-        "35",
-        "45",
-        "40"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50469",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 adet 6 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "48",
-        "14",
-        "54",
-        "42"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50470",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "15",
-        "56",
-        "63",
-        "49"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50471",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "72",
-        "64",
-        "16",
-        "56"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50472",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "63",
-        "72",
-        "17",
-        "81"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50473",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "8 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "80",
-        "70",
-        "18",
-        "90"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50474",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 adet 3 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "12",
-        "30",
-        "24",
-        "27"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50475",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 adet 4 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "36",
-        "13",
-        "40",
-        "32"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50476",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 adet 5 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "45",
-        "50",
-        "14",
-        "40"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50477",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 adet 6 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "15",
-        "48",
-        "60",
-        "54"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50478",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "70",
-        "56",
-        "16",
-        "63"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50479",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "72",
-        "64",
-        "80",
-        "17"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50480",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "81",
-        "90",
-        "18",
-        "72"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50481",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "9 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "100",
-        "90",
-        "19",
-        "80"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50482",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 adet 3 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "30",
-        "33",
-        "27",
-        "13"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50483",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 adet 4 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "14",
-        "44",
-        "36",
-        "40"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50484",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 adet 5 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "50",
-        "45",
-        "55",
-        "15"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50485",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 adet 6 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "16",
-        "54",
-        "66",
-        "60"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50486",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 adet 7 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "63",
-        "70",
-        "17",
-        "77"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50487",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 adet 8 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "80",
-        "88",
-        "18",
-        "72"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50488",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 adet 9 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "19",
-        "90",
-        "99",
-        "81"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50489",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 adet 10 liralık ürün için toplam kaç lira gerekir?",
-      "options": [
-        "100",
-        "20",
-        "110",
-        "90"
       ],
       "correctAnswer": 0
     },
@@ -2380,396 +729,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qc200351",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "25 liranin %10'u kac liradır?",
-      "options": [
-        "12.5",
-        "5",
-        "2.5",
-        "250"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200352",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "25 liranin yarisi kac liradır?",
-      "options": [
-        "6.25",
-        "50",
-        "25",
-        "12.5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200353",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "30 liranin %10'u kac liradır?",
-      "options": [
-        "300",
-        "15",
-        "6",
-        "3"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200354",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "30 liranin yarisi kac liradır?",
-      "options": [
-        "60",
-        "15",
-        "30",
-        "7.5"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200355",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "35 liranin %10'u kac liradır?",
-      "options": [
-        "3.5",
-        "7",
-        "350",
-        "17.5"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200356",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "35 liranin yarisi kac liradır?",
-      "options": [
-        "70",
-        "8.75",
-        "17.5",
-        "35"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200357",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "40 liranin %10'u kac liradır?",
-      "options": [
-        "4",
-        "400",
-        "8",
-        "20"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200358",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "40 liranin yarisi kac liradır?",
-      "options": [
-        "40",
-        "80",
-        "10",
-        "20"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200359",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "45 liranin %10'u kac liradır?",
-      "options": [
-        "450",
-        "9",
-        "22.5",
-        "4.5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200360",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "45 liranin yarisi kac liradır?",
-      "options": [
-        "90",
-        "11.25",
-        "22.5",
-        "45"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200361",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "50 liranin %10'u kac liradır?",
-      "options": [
-        "10",
-        "500",
-        "5",
-        "25"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200362",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "50 liranin yarisi kac liradır?",
-      "options": [
-        "50",
-        "12.5",
-        "25",
-        "100"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200363",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "55 liranin %10'u kac liradır?",
-      "options": [
-        "550",
-        "27.5",
-        "11",
-        "5.5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200364",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "55 liranin yarisi kac liradır?",
-      "options": [
-        "27.5",
-        "55",
-        "13.75",
-        "110"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200365",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "60 liranin %10'u kac liradır?",
-      "options": [
-        "6",
-        "30",
-        "600",
-        "12"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200366",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "60 liranin yarisi kac liradır?",
-      "options": [
-        "60",
-        "15",
-        "30",
-        "120"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200367",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "65 liranin %10'u kac liradır?",
-      "options": [
-        "32.5",
-        "6.5",
-        "13",
-        "650"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200368",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "65 liranin yarisi kac liradır?",
-      "options": [
-        "16.25",
-        "65",
-        "130",
-        "32.5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200369",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "70 liranin %10'u kac liradır?",
-      "options": [
-        "700",
-        "7",
-        "35",
-        "14"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200370",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "70 liranin yarisi kac liradır?",
-      "options": [
-        "35",
-        "140",
-        "17.5",
-        "70"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200371",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "75 liranin %10'u kac liradır?",
-      "options": [
-        "15",
-        "37.5",
-        "7.5",
-        "750"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200372",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "75 liranin yarisi kac liradır?",
-      "options": [
-        "37.5",
-        "150",
-        "75",
-        "18.75"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200373",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "80 liranin %10'u kac liradır?",
-      "options": [
-        "800",
-        "16",
-        "40",
-        "8"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200374",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "80 liranin yarisi kac liradır?",
-      "options": [
-        "40",
-        "20",
-        "80",
-        "160"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200375",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "85 liranin %10'u kac liradır?",
-      "options": [
-        "42.5",
-        "17",
-        "850",
-        "8.5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200376",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "85 liranin yarisi kac liradır?",
-      "options": [
-        "42.5",
-        "170",
-        "21.25",
-        "85"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200377",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "90 liranin %10'u kac liradır?",
-      "options": [
-        "9",
-        "900",
-        "45",
-        "18"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200378",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "90 liranin yarisi kac liradır?",
-      "options": [
-        "45",
-        "180",
-        "22.5",
-        "90"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200379",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "95 liranin %10'u kac liradır?",
-      "options": [
-        "19",
-        "9.5",
-        "950",
-        "47.5"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200380",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "95 liranin yarisi kac liradır?",
-      "options": [
-        "190",
-        "23.75",
-        "47.5",
-        "95"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qe600470",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -2781,19 +740,6 @@
         "3"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qe600471",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "kalem 2 TL, kalem 2 TL'dir. İkisini almak için toplamda kaç TL gerekir?",
-      "options": [
-        "2",
-        "4",
-        "2",
-        "4"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qe600472",
@@ -2822,32 +768,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qe600474",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "silgi 1 TL, kalem 2 TL'dir. İkisini almak için toplamda kaç TL gerekir?",
-      "options": [
-        "2",
-        "2",
-        "1",
-        "3"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600475",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "2 TL'niz var. 1 TL'lik silgi aldınız. Kaç TL paranız kaldı?",
-      "options": [
-        "2",
-        "3",
-        "1",
-        "1"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qe600476",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -2872,19 +792,6 @@
         "7"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qe600478",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 TL'niz var. 5 TL'lik defter aldınız. Kaç TL paranız kaldı?",
-      "options": [
-        "5",
-        "10",
-        "15",
-        "5"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qe600479",
@@ -2926,19 +833,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qe600482",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "Bir çikolata 4 TL'dir. 7 TL verirseniz kaç TL para üstü alırsınız?",
-      "options": [
-        "6",
-        "3",
-        "4",
-        "4"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qe600483",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -2976,32 +870,6 @@
         "1"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qe600486",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "su 1 TL, kalem 2 TL'dir. İkisini almak için toplamda kaç TL gerekir?",
-      "options": [
-        "2",
-        "3",
-        "2",
-        "1"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600487",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "2 TL'niz var. 1 TL'lik su aldınız. Kaç TL paranız kaldı?",
-      "options": [
-        "2",
-        "1",
-        "1",
-        "3"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qe600488",
@@ -3353,6 +1221,799 @@
         "12"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "q-m-83",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Saat üzerindeki kısa kola ne ad verilir?",
+      "options": [
+        "Yelkovan",
+        "Akrep",
+        "Saniye",
+        "Kadran"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-84",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Saat üzerindeki uzun kola ne ad verilir?",
+      "options": [
+        "Akrep",
+        "Yelkovan",
+        "Dakika",
+        "Saniye"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-85",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Akrep 2'yi, yelkovan 12'yi gösterdiğinde saat kaçtır?",
+      "options": [
+        "02:00",
+        "02:30",
+        "12:02",
+        "12:10"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-86",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Akrep 5'i, yelkovan 6'yı gösterdiğinde saat kaçtır?",
+      "options": [
+        "05:00",
+        "05:30",
+        "06:05",
+        "06:30"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-87",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Bir yılda kaç mevsim vardır?",
+      "options": [
+        "4",
+        "12",
+        "7",
+        "30"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-90",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Aşağıdaki aylardan hangisi yaz mevsimine aittir?",
+      "options": [
+        "Eylül",
+        "Nisan",
+        "Temmuz",
+        "Aralık"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-91",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "Ülkemizin para birimi nedir?",
+      "options": [
+        "Dolar",
+        "Euro",
+        "Türk Lirası",
+        "Dinar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-92",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "En küçük madeni paramız hangisidir?",
+      "options": [
+        "1 Kuruş",
+        "5 Kuruş",
+        "10 Kuruş",
+        "25 Kuruş"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-93",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "En büyük madeni paramız hangisidir?",
+      "options": [
+        "50 Kuruş",
+        "1 TL",
+        "5 TL",
+        "10 TL"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-94",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "1 TL kaç tane 25 kuruşa eşittir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-95",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "1 TL kaç tane 50 kuruşa eşittir?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "10"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-96",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "Cebinde 4 tane 10 TL, 3 tane 5 TL olan bir çocuğun toplam kaç TL'si vardır?",
+      "options": [
+        "45 TL",
+        "55 TL",
+        "50 TL",
+        "60 TL"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-97",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "Fiyatı 18 TL olan bir defteri almak için bakkala 20 TL veren bir kişi kaç TL para üstü alır?",
+      "options": [
+        "1 TL",
+        "2 TL",
+        "3 TL",
+        "5 TL"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-98",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "Tanesi 4 TL olan kalemlerden 3 tane alan bir kişi bakkala 50 TL verirse kaç TL para üstü alır?",
+      "options": [
+        "38 TL",
+        "12 TL",
+        "48 TL",
+        "36 TL"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-99",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "Aşağıdaki kağıt paralardan hangisinin değeri en küçüktür?",
+      "options": [
+        "5 TL",
+        "10 TL",
+        "20 TL",
+        "50 TL"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-100",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "2 tane 20 TL ile 3 tane 10 TL toplam kaç TL eder?",
+      "options": [
+        "50 TL",
+        "60 TL",
+        "70 TL",
+        "80 TL"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-101",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Standart uzunluk ölçme birimi aşağıdakilerden hangisidir?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Litre",
+        "Saat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-102",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "1 metre kaç santimetredir?",
+      "options": [
+        "10 cm",
+        "50 cm",
+        "100 cm",
+        "1000 cm"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-103",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Metre kısaca hangi harfle gösterilir?",
+      "options": [
+        "cm",
+        "m",
+        "kg",
+        "g"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-104",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Santimetre kısaca hangi harflerle gösterilir?",
+      "options": [
+        "m",
+        "kg",
+        "cm",
+        "mm"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-105",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Aşağıdaki uzunluklardan hangisi 1 metreden daha büyüktür?",
+      "options": [
+        "50 cm",
+        "99 cm",
+        "150 cm",
+        "80 cm"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-106",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Kurşun kalemimizin boyunu ölçmek için en uygun birim hangisidir?",
+      "options": [
+        "Metre",
+        "Santimetre",
+        "Kilogram",
+        "Litre"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-107",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Sınıf tahtasının boyunu ölçmek için en uygun birim hangisidir?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Litre",
+        "Santimetre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-108",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Aşağıdakilerden hangisi kişiden kişiye değişmeyen standart bir ölçüdür?",
+      "options": [
+        "Karış",
+        "Kulaç",
+        "Metre",
+        "Adım"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-109",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Kollarımızı iki yana açtığımızda iki elimizin parmak uçları arasındaki mesafeye ne denir?",
+      "options": [
+        "Kulaç",
+        "Karış",
+        "Adım",
+        "Ayak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-110",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Baş parmak ile küçük parmak arasındaki gergin mesafeye ne ad verilir?",
+      "options": [
+        "Karış",
+        "Adım",
+        "Kulaç",
+        "Ayak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-111",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Maddelerin ağırlığını (kütlesini) ölçmek için kullanılan birim hangisidir?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Litre",
+        "Saat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-112",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Kilogram kısaca hangi harflerle gösterilir?",
+      "options": [
+        "m",
+        "cm",
+        "kg",
+        "g"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-113",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Kütleyi ölçmek için aşağıdaki araçlardan hangisini kullanırız?",
+      "options": [
+        "Metre",
+        "Saat",
+        "Terazi",
+        "Termometre"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-114",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Aşağıdaki yiyeceklerden hangisini satın alırken kilogram birimini kullanırız?",
+      "options": [
+        "Süt",
+        "Meyve suyu",
+        "Domates",
+        "Zeytinyağı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-115",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Aşağıdaki maddelerden hangisinin kütlesi en hafiftir?",
+      "options": [
+        "Karbon kağıdı",
+        "Kurşun kalem",
+        "Okul çantası",
+        "Silgi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-116",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Aşağıdaki nesnelerden hangisinin kütlesi en ağırdır?",
+      "options": [
+        "Masa",
+        "Kalem",
+        "Defter",
+        "Silgi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-117",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "3 kilogram elma ile 5 kilogram portakal toplam kaç kilogram meyve eder?",
+      "options": [
+        "7 kg",
+        "8 kg",
+        "9 kg",
+        "10 kg"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-118",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Bir çuvalda 25 kg un vardı. Unun 12 kg'ı kullanıldı. Çuvalda kaç kg un kaldı?",
+      "options": [
+        "12 kg",
+        "13 kg",
+        "15 kg",
+        "20 kg"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-119",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Pazardan kilosu 6 TL olan patatesten 4 kilo alan bir kişi toplam kaç TL öder?",
+      "options": [
+        "10",
+        "20",
+        "24",
+        "18"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-120",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Zeynep 27 kg, kardeşi Kerem ise Zeynep'ten 8 kg daha hafiftir. Kerem kaç kg'dır?",
+      "options": [
+        "19 kg",
+        "21 kg",
+        "35 kg",
+        "20 kg"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-161",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Yelkovan 12'de, akrep 7'de ise saat kaçtır?",
+      "options": [
+        "07:00",
+        "07:30",
+        "12:07",
+        "12:35"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-162",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Bir gün kaç saattir?",
+      "options": [
+        "12",
+        "24",
+        "7",
+        "30"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-163",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Aşağıdaki aylardan hangisi kış mevsimine aittir?",
+      "options": [
+        "Haziran",
+        "Nisan",
+        "Eylül",
+        "Ocak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-m-164",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Haftanın ilk günü aşağıdakilerden hangisidir?",
+      "options": [
+        "Cumartesi",
+        "Pazartesi",
+        "Cuma",
+        "Pazar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-165",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "Ekim ayından sonra hangi ay gelir?",
+      "options": [
+        "Eylül",
+        "Kasım",
+        "Aralık",
+        "Şubat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-166",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "10 tane 10 kuruş toplam kaç kuruş eder?",
+      "options": [
+        "50 kuruş",
+        "100 kuruş",
+        "80 kuruş",
+        "20 kuruş"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-167",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "20 TL almak için kaç tane 5 TL vermeliyiz?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-168",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "Tanesi 5 TL olan çikolatalardan 4 tane alırsak kaç TL öderiz?",
+      "options": [
+        "10 TL",
+        "15 TL",
+        "20 TL",
+        "25 TL"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-169",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "Cebinde 100 TL olan bir çocuk 45 TL'ye kitap aldı. Kaç TL'si kaldı?",
+      "options": [
+        "45 TL",
+        "55 TL",
+        "65 TL",
+        "50 TL"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-170",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "Kağıt paralarımızın üzerinde hangi milli liderimizin resmi bulunur?",
+      "options": [
+        "Fatih Sultan Mehmet",
+        "Mustafa Kemal Atatürk",
+        "Mehmet Akif Ersoy",
+        "Mimar Sinan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-171",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Sınıf kapısının yüksekliği yaklaşık ne kadardır?",
+      "options": [
+        "2 metre",
+        "2 santimetre",
+        "20 metre",
+        "20 santimetre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-172",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Adım, kulaç, karış gibi ölçüler neden standart değildir?",
+      "options": [
+        "Herkesin vücut ölçüsü farklı olduğu için",
+        "Çok zor ölçüldüğü için",
+        "Her zaman aynı kaldığı için",
+        "Metreyle aynı olduğu için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-173",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Bir karışının uzunluğu 10 cm olan Ali, masanın boyunu 6 karış ölçtü. Masanın boyu kaç cm'dir?",
+      "options": [
+        "50 cm",
+        "60 cm",
+        "70 cm",
+        "80 cm"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-174",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Metreden küçük uzunlukları ölçmek için hangi birimi kullanırız?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Santimetre",
+        "Litre"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-175",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Aşağıdakilerden hangisi en uzundur?",
+      "options": [
+        "45 cm",
+        "1 m",
+        "80 cm",
+        "95 cm"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-176",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Karpuz alırken hangi ölçü birimini kullanırız?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Litre",
+        "Saat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-177",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Bir pakette 2 kg şeker vardır. 5 paket şeker toplam kaç kg eder?",
+      "options": [
+        "7 kg",
+        "10 kg",
+        "12 kg",
+        "8 kg"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-178",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "options": [
+        "Metre - Boy ölçme",
+        "Kilogram - Ağırlık ölçme",
+        "Terazi - Sıcaklık ölçme",
+        "Saat - Zaman ölçme"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-179",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Un, şeker, tuz gibi maddeleri tartarak almak için kullanılan alet hangisidir?",
+      "options": [
+        "Metre",
+        "Cetvel",
+        "Terazi",
+        "Saat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-180",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Bir kedi 4 kg gelmektedir. Bir köpek ise kediden 12 kg daha ağırdır. İkisinin toplam ağırlığı kaç kg'dır?",
+      "options": [
+        "16 kg",
+        "20 kg",
+        "18 kg",
+        "22 kg"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-math-294",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "En büyük kağıt paramız hangisidir?",
+      "options": [
+        "50 TL",
+        "100 TL",
+        "200 TL",
+        "500 TL"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-math-7",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Uzunluk)",
+      "question": "Aşağıdakilerden hangisi standart bir uzunluk ölçme aracıdır?",
+      "options": [
+        "Karış",
+        "Kulaç",
+        "Metre",
+        "Adım"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-math-593",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Paralarımız)",
+      "question": "3 tane 10 TL ve 2 tane 5 TL toplam kaç TL eder?",
+      "options": [
+        "35 TL",
+        "45 TL",
+        "40 TL",
+        "50 TL"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-math-201",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Zaman)",
+      "question": "1 saat kaç dakikadır?",
+      "options": [
+        "30",
+        "50",
+        "60",
+        "100"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-math-507",
+      "subject": "Matematik",
+      "theme": "Tema 8: Ölçme (Kütle)",
+      "question": "Kütlemizi (ağırlığımızı) ölçmek için aşağıdaki birimlerden hangisini kullanırız?",
+      "options": [
+        "Litre",
+        "Metre",
+        "Kilogram",
+        "Santimetre"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

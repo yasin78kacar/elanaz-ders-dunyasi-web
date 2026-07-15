@@ -948,6 +948,1651 @@
         "zaman tamlayıcısı"
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-1",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"okul\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-2",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"bilgisayar\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "3"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syl-3",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"televizyon\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-4",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"kütüphane\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-5",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"kalemlik\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "2",
+        "5",
+        "4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-syl-6",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"öğretmen\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-7",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"öğrenci\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-8",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"arkadaşlık\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-9",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"cumhuriyet\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-10",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"kelebek\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-11",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"helikopter\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-syl-12",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"kaplumbağa\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-13",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"buzdolabı\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-14",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"ayakkabı\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "6",
+        "5",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-15",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"çikolata\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-16",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"kurabiye\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-17",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"papatya\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-syl-18",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"karanfil\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-syl-19",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"sinema\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-20",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"tiyatro\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-21",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"kitap\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-22",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"hastane\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-23",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"postane\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "3"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-24",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"eczane\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-25",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"belediye\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-26",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"valilik\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-syl-27",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"defter\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-syl-28",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"karakol\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "2",
+        "5",
+        "4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-syl-29",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"itfaiye\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-syl-30",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"ambulans\" kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-1",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Türkçede 'tüm insanlar' anlamına gelen ve sonu s/z ile biten hangi sözcük doğru yazılmıştır?",
+      "options": [
+        "tiren",
+        "herkes",
+        "yannış",
+        "herkez"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-mis-2",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Tek başına kalmak anlamına gelen hangi kelime doğru yazılmıştır?",
+      "options": [
+        "yalınız",
+        "herkez",
+        "yalnız",
+        "yannış"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-mis-3",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Hata veya kusur anlamına gelen hangi kelime doğru yazılmıştır?",
+      "options": [
+        "yanlış",
+        "yanılış",
+        "yannış",
+        "herkez"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-4",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Çay ile yediğimiz unlu tatlı atıştırmalığın doğru yazılışı hangisidir?",
+      "options": [
+        "bisküvit",
+        "bisküvi",
+        "herkez",
+        "yannış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-mis-5",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Beklenmedik şaşırtıcı olay anlamına gelen hangi kelime doğru yazılmıştır?",
+      "options": [
+        "herkez",
+        "yannış",
+        "sürpriz",
+        "süpriz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-mis-6",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Taşıtları süren kişiye ne ad verilir ve bu kelime nasıl doğru yazılır?",
+      "options": [
+        "şöför",
+        "herkez",
+        "şoför",
+        "yannış"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-mis-7",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Raylar üzerinde giden taşıtın doğru yazılışı hangisidir?",
+      "options": [
+        "herkez",
+        "tren",
+        "yannış",
+        "tiren"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-mis-8",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Ülkeyi yöneten hükümdar anlamına gelen kelimenin doğru yazılışı hangisidir?",
+      "options": [
+        "yannış",
+        "kral",
+        "herkez",
+        "kıral"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-mis-9",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Bir işi yapmadan önce hazırladığımız taslağın doğru yazılışı hangisidir?",
+      "options": [
+        "plan",
+        "herkez",
+        "yannış",
+        "pilân"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-10",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Yol gösteren rehber anlamına gelen kelimenin doğru yazılışı hangisidir?",
+      "options": [
+        "herkez",
+        "yannış",
+        "klavuz",
+        "kılavuz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-mis-11",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Saç veya sakal kesme eyleminin doğru yazılışı hangisidir?",
+      "options": [
+        "tıraş",
+        "herkez",
+        "yannış",
+        "traş"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-12",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Yemeklere tat veren beyaz renkli kokulu bitkinin doğru yazılışı hangisidir?",
+      "options": [
+        "sarımsak",
+        "sarmısak",
+        "herkez",
+        "yannış"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-13",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Çamaşır veya bulaşık yıkamak için kullandığımız aracın doğru yazılışı hangisidir?",
+      "options": [
+        "makine",
+        "yannış",
+        "herkez",
+        "makina"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-14",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Haberleri okuduğumuz basılı yayının doğru yazılışı hangisidir?",
+      "options": [
+        "gazete",
+        "herkez",
+        "gaste",
+        "yannış"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-15",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Ateş yakmak için kullandığımız küçük çöpün doğru yazılışı hangisidir?",
+      "options": [
+        "herkez",
+        "yannış",
+        "kibrit",
+        "kirbit"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-mis-16",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Dikenli sevimli hayvanın adı olan kelimenin doğru yazılışı hangisidir?",
+      "options": [
+        "herkez",
+        "kipri",
+        "yannış",
+        "kirpi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-mis-17",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Elma, muz, çilek gibi yiyeceklerin genel adının doğru yazılışı hangisidir?",
+      "options": [
+        "herkez",
+        "yannış",
+        "meyve",
+        "meyva"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-mis-18",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Yeşil renkli sebze yemeğinin adı olan kelimenin doğru yazılışı hangisidir?",
+      "options": [
+        "fasulye",
+        "fasulya",
+        "yannış",
+        "herkez"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-19",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Arabaların arkasından duman çıkan borunun doğru yazılışı hangisidir?",
+      "options": [
+        "egzoz",
+        "herkez",
+        "yannış",
+        "eksoz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-20",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Yemeklere kattığımız acımsı sebzenin doğru yazılışı hangisidir?",
+      "options": [
+        "soğan",
+        "yannış",
+        "sovan",
+        "herkez"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-21",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Fırından aldığımız sıcak kahvaltılık hamur işinin doğru yazılışı hangisidir?",
+      "options": [
+        "boğaça",
+        "herkez",
+        "yannış",
+        "poğaça"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-mis-22",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "İki ekmek arasına peynir koyarak yaptığımız yiyeceğin doğru yazılışı hangisidir?",
+      "options": [
+        "yannış",
+        "sandoviç",
+        "sandviç",
+        "herkez"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-mis-23",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Sevgi ve merhamet anlamına gelen hangi kelime doğru yazılmıştır?",
+      "options": [
+        "şefkat",
+        "herkez",
+        "yannış",
+        "şevkat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-24",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Babalarımızın takım elbise giyerken boynuna taktığı aksesuarın doğru yazılışı hangisidir?",
+      "options": [
+        "kravat",
+        "kırvat",
+        "yannış",
+        "herkez"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-25",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aracı olmadan, doğrudan anlamına gelen hangi kelime doğru yazılmıştır?",
+      "options": [
+        "herkez",
+        "direkt",
+        "direk",
+        "yannış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-mis-26",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Sesi dışarıya yüksekçe vermeye yarayan cihazın doğru yazılışı hangisidir?",
+      "options": [
+        "yannış",
+        "hoparlör",
+        "aparlör",
+        "herkez"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-mis-27",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Taklit olmayan, özgün anlamına gelen hangi kelime doğru yazılmıştır?",
+      "options": [
+        "orijinal",
+        "yannış",
+        "herkez",
+        "orjinal"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-mis-28",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Deneylerin yapıldığı bilim odasının doğru yazılışı hangisidir?",
+      "options": [
+        "yannış",
+        "laboratuar",
+        "herkez",
+        "laboratuvar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-mis-29",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Yemeklerde kullandığımız yeşil veya kırmızı acımsı sebzenin doğru yazılışı hangisidir?",
+      "options": [
+        "herkez",
+        "biver",
+        "yannış",
+        "biber"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-mis-30",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Kız çocuklarının çok sevdiği açık kırmızı rengin doğru yazılışı hangisidir?",
+      "options": [
+        "herkez",
+        "pembe",
+        "penbe",
+        "yannış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-1",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Yarın okula gidecek misin\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "?",
+        ",",
+        "!",
+        "."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-punc-2",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Eyvah, süt döküldü\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "?",
+        "!",
+        ",",
+        "."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-3",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Pazardan elma, muz ve kivi aldım\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "?",
+        ".",
+        ",",
+        "!"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-4",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Ali( )nin kalemi kaybolmuş.\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "'",
+        ".",
+        ",",
+        "-"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-punc-5",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Ankara( )dan dün geldik.\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        "'",
+        "-",
+        "."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-6",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Yaşasın, sınavdan yüz aldım\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ".",
+        "?",
+        "!",
+        ","
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-punc-7",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Bugün hava çok güzel\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ".",
+        "!",
+        "?",
+        ","
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-punc-8",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Sen de bizimle sinemaya gelecek misin\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "!",
+        ".",
+        ",",
+        "?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-punc-9",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"İmdat, yardım edin\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        "?",
+        "!",
+        "."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-punc-10",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Kitap okumayı çok seviyorum\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "?",
+        ".",
+        "!",
+        ","
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-11",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Kırtasiyeden defter( ) kalem ve silgi aldım.\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "!",
+        ".",
+        "?",
+        ","
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-punc-12",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Öğretmenimiz içeri girdi\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        ".",
+        "!",
+        "?"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-13",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Bize ne zaman geleceksiniz\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "?",
+        ",",
+        "!",
+        "."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-punc-14",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Ah, elim acıdı\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        ".",
+        "?",
+        "!"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-punc-15",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Mustafa Kemal Atatürk( )ün hayatını okuduk.\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        "'",
+        "-",
+        "."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-16",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Türkiye( )nin başkenti Ankara'dır.\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "'",
+        ".",
+        ",",
+        "-"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-punc-17",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Kardeşim bugün okula gitmedi\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        ".",
+        "?",
+        "!"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-18",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Bu elbiseyi nereden aldın\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ".",
+        "?",
+        ",",
+        "!"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-punc-19",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Of, canım çok sıkıldı\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ".",
+        ",",
+        "?",
+        "!"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-punc-20",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Bahçede çiçekler açmış\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ".",
+        "?",
+        ",",
+        "!"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-punc-21",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Masada kitaplar( ) defterler duruyor.\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        "?",
+        ".",
+        "!"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-punc-22",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Ders zili çaldı mı\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        "!",
+        "?",
+        "."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-punc-23",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Ayşe( )nin köpeği çok sevimli.\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "'",
+        ",",
+        "-",
+        "."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-punc-24",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Köpeğim Karabaş( )a mama verdim.\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        ",",
+        ".",
+        "-",
+        "'"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-punc-25",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Yaşasın, tatile gidiyoruz\" ifadesinin sonuna veya parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "?",
+        "!",
+        ",",
+        "."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-1",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi özel isimdir?",
+      "options": [
+        "Ağaç",
+        "Şehir",
+        "İstanbul",
+        "Sokak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-noun-2",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdakilerden hangisi bir cins (tür) ismidir?",
+      "options": [
+        "Masa",
+        "Tekir",
+        "Mustafa",
+        "İzmir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-noun-3",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi çoğul isimdir?",
+      "options": [
+        "Bulut",
+        "Yaprak",
+        "Ağaç",
+        "Çiçekler"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-noun-4",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi tekil isimdir?",
+      "options": [
+        "Kalemler",
+        "Silgiler",
+        "Kitaplar",
+        "Defter"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-noun-5",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki özel isimlerden hangisinin yazımı doğrudur?",
+      "options": [
+        "İzmir'e",
+        "izmire",
+        "İzmire",
+        "izmir'e"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-noun-6",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Hangi seçenekteki kelimelerin tamamı özel isimdir?",
+      "options": [
+        "Masa, Sandalye, Sıra",
+        "Kedi, Köpek, Kuş",
+        "Ali, Türkiye, Ankara",
+        "Elma, Armut, Kiraz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-noun-7",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdakilerden hangisi bir hece olamaz?",
+      "options": [
+        "el",
+        "a",
+        "c",
+        "ba"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-noun-8",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi hecelerine doğru ayrılmıştır?",
+      "options": [
+        "Ke-leb-ek",
+        "Kel-e-bek",
+        "Kele-bek",
+        "Ke-le-bek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-noun-9",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Alfabemizin ilk ve son harfi hangi seçenekte sırasıyla verilmiştir?",
+      "options": [
+        "B - Z",
+        "A - V",
+        "A - Y",
+        "A - Z"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-noun-10",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi sadece ünsüz harflerden oluşamaz?",
+      "options": [
+        "Plan",
+        "Spor",
+        "Türkçe",
+        "Hiçbir Türkçe kelime sadece ünsüzlerden oluşamaz."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-noun-11",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdakilerden hangisi kurallı bir cümledir?",
+      "options": [
+        "Gitti Ali okula.",
+        "Okula Ali gitti.",
+        "Ali gitti okula.",
+        "Ali okula gitti."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-noun-12",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdakilerden hangisi bir cümle değildir?",
+      "options": [
+        "Okul bitti.",
+        "Eve geldim.",
+        "Bugün hava çok",
+        "Kitap okudum."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-noun-13",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi bir varlığın rengini belirtmektedir?",
+      "options": [
+        "Yuvarlak balon",
+        "Kırmızı balon",
+        "Büyük balon",
+        "Uçan balon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-14",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi bir varlığın durumunu belirtir?",
+      "options": [
+        "O defter",
+        "Eski defter",
+        "Kırmızı defter",
+        "Üç defter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-15",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi bir varlığın sayısını belirtmektedir?",
+      "options": [
+        "Yeni kalem",
+        "Beş kalem",
+        "Kırmızı kalem",
+        "Uzun kalem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-16",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi bir varlığın şeklini belirtmektedir?",
+      "options": [
+        "Büyük masa",
+        "Tahta masa",
+        "İki masa",
+        "Yuvarlak masa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-t-noun-17",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi sözlükte en önce yer alır?",
+      "options": [
+        "Ceviz",
+        "Armut",
+        "Biber",
+        "Domates"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-18",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi sözlükte en sonda yer alır?",
+      "options": [
+        "Sincap",
+        "Zebra",
+        "Tavşan",
+        "Aslan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-19",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Türkçede kelimelerin ilk harfi ne zaman büyük yazılır?",
+      "options": [
+        "Sadece kelime sonunda",
+        "Sadece fiillerde",
+        "Cümle başında ve özel isimlerde",
+        "Her kelimede"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-t-noun-20",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Sözcüklerin doğru yazılışını öğrenmek için hangi kitaba bakarız?",
+      "options": [
+        "Defter",
+        "Yazım (İmla) Kılavuzu",
+        "Masal Kitabı",
+        "Sözlük"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-21",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Kelimelerin anlamlarını öğrenmek için hangi kitaba bakarız?",
+      "options": [
+        "Hikaye Kitabı",
+        "Sözlük",
+        "Yazım Kılavuzu",
+        "Boyama Kitabı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-22",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi özel isme gelen eki ayırmak için kesme işareti kullanır?",
+      "options": [
+        "Ankara'ya",
+        "Okul'a",
+        "Kedi'ye",
+        "Masa'ya"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-noun-23",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisinde çoğul eki (-ler / -lar) vardır?",
+      "options": [
+        "Rüzgar",
+        "Kuşlar",
+        "Kar",
+        "Bahar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-t-noun-24",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisinin hece sayısı en azdır?",
+      "options": [
+        "Göz",
+        "Gözlükçü",
+        "Gözlük",
+        "Gözlükçülük"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-t-noun-25",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Cümlelerin sonuna konulan en yaygın noktalama işareti hangisidir?",
+      "options": [
+        "Ünlem",
+        "Virgül",
+        "Nokta",
+        "Soru işareti"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-turkce-212",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki cümlelerin hangisinde özel ismin yazımında yanlışlık yapılmıştır?",
+      "options": [
+        "Minik köpeğim Karabaş'a mama verdim.",
+        "Yarın Ayşe ile kütüphaneye gideceğiz.",
+        "türkiye çok güzel bir ülkedir.",
+        "Mustafa Kemal Atatürk'ü saygıyla anıyoruz."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-turkce-282",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Pazardan elma( ) armut ve muz aldım.\" cümlesinde parantez içine hangi noktalama işareti gelmelidir?",
+      "options": [
+        "Nokta (.)",
+        "Virgül (,)",
+        "Soru işareti (?)",
+        "Ünlem (!)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-turkce-537",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisinin yazımı doğrudur?",
+      "options": [
+        "Süpriz",
+        "Spor",
+        "Tıren",
+        "Kıral"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-turkce-434",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Sağlık ve Çevre",
+      "question": "Geri dönüşüm kutusuna ne atılır?",
+      "options": [
+        "Yemek artığı",
+        "Kağıt",
+        "Sıvı yağ",
+        "Toprak"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-60",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Sağlık ve Çevre",
+      "question": "Çevremizi temiz tutmak için ne yapmalıyız?",
+      "options": [
+        "Çöpleri yere atmalıyız",
+        "Çöpleri çöp kutusuna atmalıyız",
+        "Sokakları kirletmeliyiz",
+        "Hiç temizlik yapmamalıyız"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-turkce-477",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "'Bilgisayar' sözcüğü hecelerine nasıl ayrılır?",
+      "options": [
+        "Bil-gi-sa-yar",
+        "Bilg-i-say-ar",
+        "Bi-lgi-sa-yar",
+        "Bil-gis-a-yar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-turkce-156",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Sağlık ve Çevre",
+      "question": "Yemekten önce ne yapmalıyız?",
+      "options": [
+        "Koşmalıyız",
+        "Televizyon izlemeliyiz",
+        "Ellerimizi yıkamalıyız",
+        "Uyuyalım"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-481",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerden hangisi alfabetik sırada en önce gelir?",
+      "options": [
+        "Çilek",
+        "Armut",
+        "Kiraz",
+        "Muz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-turkce-435",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Sağlık ve Çevre",
+      "question": "Su tasarrufu için ne yapmalı?",
+      "options": [
+        "Musluğu açık bırakmalı",
+        "Diş fırçalarken suyu kapatmalı",
+        "Suyu boşa harcamalı",
+        "Çok uzun süre yıkanmalı"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-turkce-91",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "'Kütüphane' kelimesi kaç heceden oluşmaktadır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-turkce-446",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "\"Ah, parmağım kapıya sıkıştı\" cümlesinin sonuna hangi noktalama işareti gelmelidir?",
+      "options": [
+        "Nokta (.)",
+        "Soru işareti (?)",
+        "Ünlem işareti (!)",
+        "Virgül (,)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-turkce-14",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Aşağıdaki kelimelerin hangisinde yazım hatası yapılmıştır?",
+      "options": [
+        "Herkes",
+        "Yanlış",
+        "Yalınız",
+        "Toprak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-turkce-404",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Sağlık ve Çevre",
+      "question": "Çevre kirliliği neye zarar verir?",
+      "options": [
+        "Sadece insanlara",
+        "Sadece hayvanlara",
+        "Tüm canlılara",
+        "Hiçbir şeye"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-270",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Sağlık ve Çevre",
+      "question": "Hangisi bir spor türüdür?",
+      "options": [
+        "Yüzme",
+        "Uyumak",
+        "Televizyon",
+        "Yemek yemek"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-turkce-382",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Dil Bilgisi ve İmla",
+      "question": "Hangi seçenekteki kelimelerin tamamı cins (tür) ismidir?",
+      "options": [
+        "Masa, ağaç, defter",
+        "Ankara, İzmir, Bursa",
+        "Ali, Veli, Ayşe",
+        "Tekir, Karabaş, Pamuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-turkce-575",
+      "subject": "Türkçe",
+      "theme": "Tema 3: Sağlık ve Çevre",
+      "question": "Hangi hayvan çevreyi temizler?",
+      "options": [
+        "Arı",
+        "Kedi",
+        "Solucan",
+        "Köpek"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Orta"
     }
   ]
 }

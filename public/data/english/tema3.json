@@ -417,19 +417,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qb91358",
-      "subject": "İngilizce",
-      "theme": "Tema 3",
-      "question": "\"Alti\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "One",
-        "Forty",
-        "Six",
-        "Forty"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qb91360",
       "subject": "İngilizce",
       "theme": "Tema 3",
@@ -439,19 +426,6 @@
         "Twenty",
         "Five",
         "Two"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qb91362",
-      "subject": "İngilizce",
-      "theme": "Tema 3",
-      "question": "\"Sekiz\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Eight",
-        "Eight",
-        "Seven",
-        "Ten"
       ],
       "correctAnswer": 0
     },
@@ -534,19 +508,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb91374",
-      "subject": "İngilizce",
-      "theme": "Tema 3",
-      "question": "\"Elli\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Fifty",
-        "Fifty",
-        "Thirty",
-        "Four"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb91375",
       "subject": "İngilizce",
       "theme": "Tema 3",
@@ -558,19 +519,6 @@
         "Two hundred"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qb91376",
-      "subject": "İngilizce",
-      "theme": "Tema 3",
-      "question": "\"Yüz\" kelimesinin Ingilizcesi nedir?",
-      "options": [
-        "Eight",
-        "One hundred",
-        "One hundred",
-        "One"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qc200961",
@@ -883,6 +831,413 @@
         "Five hundred"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema3classroomrules-26",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Sit down\" yönergesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Defterini kapat",
+        "Otur",
+        "Kapıyı aç",
+        "Ayağa kalk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema3classroomrules-27",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Stand up\" yönergesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Sessiz ol",
+        "Kitabını aç",
+        "Ayağa kalk",
+        "Otur"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema3classroomrules-28",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Open the door\" ifadesinin Türkçe anlamı nedir?",
+      "options": [
+        "Pencereyi kapat",
+        "Tahtayı temizle",
+        "Sıraya otur",
+        "Kapıyı aç"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema3classroomrules-29",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Close the window\" ifadesinin Türkçe anlamı nedir?",
+      "options": [
+        "Kitabını aç",
+        "Kapıyı aç",
+        "Sessiz ol",
+        "Pencereyi kapat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema3classroomrules-30",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Listen\" kelimesinin Türkçe anlamı nedir?",
+      "options": [
+        "Bak",
+        "Dinle",
+        "Boya",
+        "Çiz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema3classroomrules-31",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Look at the board\" yönergesinin anlamı nedir?",
+      "options": [
+        "Kitabını aç",
+        "Tahtaya bak",
+        "Sıraya otur",
+        "Kapıyı kapat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema3classroomrules-32",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Quiet, please\" ifadesinin Türkçe anlamı nedir?",
+      "options": [
+        "Kitabınızı açın",
+        "Ayağa kalk lütfen",
+        "Lütfen sessiz olun",
+        "İçeri girin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema3classroomrules-33",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Kitabını aç\" anlamına gelen sınıf yönergesi hangisidir?",
+      "options": [
+        "Open your book",
+        "Close your book",
+        "Sit down",
+        "Stand up"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema3classroomrules-34",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Kitabını kapat\" yönergesi hangisidir?",
+      "options": [
+        "Close your book",
+        "Open your book",
+        "Quiet, please",
+        "Clean the board"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema3classroomrules-35",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Tahtayı temizle\" yönergesi hangisidir?",
+      "options": [
+        "Sit down",
+        "Look at the board",
+        "Open the window",
+        "Clean the board"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema3classroomrules-36",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Resim çizmek\" anlamına gelen eylem hangisidir?",
+      "options": [
+        "Color",
+        "Draw",
+        "Listen",
+        "Quiet"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema3classroomrules-37",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Boyamak\" anlamına gelen eylem hangisidir?",
+      "options": [
+        "Listen",
+        "Stand up",
+        "Color",
+        "Draw"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema3classroomrules-38",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Raise your hand\" yönergesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Kitabını aç",
+        "Kapıyı kapat",
+        "Sessiz ol",
+        "Elini kaldır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema3classroomrules-39",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Come here\" yönergesinin Türkçe anlamı nedir?",
+      "options": [
+        "Oraya git",
+        "Kitabını aç",
+        "Buraya gel",
+        "Ayağa kalk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema3classroomrules-40",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Go to your place\" yönergesinin Türkçe karşılığı hangisidir?",
+      "options": [
+        "Yerine geç / Yerine git",
+        "Buraya gel",
+        "Tahtayı temizle",
+        "Kapıyı aç"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema3classroomrules-41",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Give me the pencil, please\" ifadesinin anlamı nedir?",
+      "options": [
+        "Kalem kutusunu aç.",
+        "Lütfen bana kalemi ver.",
+        "Lütfen silgiyi ver.",
+        "Lütfen defteri aç."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-e-tema3classroomrules-42",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Open your book, please\" ifadesinin anlamı nedir?",
+      "options": [
+        "Lütfen pencereyi kapat.",
+        "Lütfen ayağa kalk.",
+        "Lütfen kitabını aç.",
+        "Lütfen sessiz ol."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema3classroomrules-43",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Close the door, please\" ifadesinin anlamı nedir?",
+      "options": [
+        "Lütfen kapıyı kapat.",
+        "Lütfen kapıyı aç.",
+        "Lütfen sessiz ol.",
+        "Lütfen sıraya otur."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema3classroomrules-44",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Look at the teacher\" yönergesinin anlamı nedir?",
+      "options": [
+        "Arkadaşını dinle",
+        "Kitabını aç",
+        "Öğretmene bak",
+        "Tahtayı temizle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema3classroomrules-45",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Open the window, please\" ifadesinin anlamı nedir?",
+      "options": [
+        "Lütfen tahtayı sil.",
+        "Lütfen kapıyı kapat.",
+        "Lütfen pencereyi aç.",
+        "Lütfen ayağa kalk."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema3classroomrules-46",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Sit down, please\" ifadesinin anlamı nedir?",
+      "options": [
+        "Lütfen oturun.",
+        "Lütfen kapıyı kapatın.",
+        "Lütfen ayağa kalkın.",
+        "Lütfen sessiz olun."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema3classroomrules-47",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Stand up, please\" ifadesinin anlamı nedir?",
+      "options": [
+        "Lütfen çizin.",
+        "Lütfen dinleyin.",
+        "Lütfen oturun.",
+        "Lütfen ayağa kalkın."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-e-tema3classroomrules-48",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Clean the board, please\" ifadesinin anlamı nedir?",
+      "options": [
+        "Lütfen kapıyı açın.",
+        "Lütfen oturun.",
+        "Lütfen tahtayı silin.",
+        "Lütfen tahtaya bakın."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-e-tema3classroomrules-49",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Raise your hand, please\" ifadesinin anlamı nedir?",
+      "options": [
+        "Lütfen elinizi kaldırın.",
+        "Lütfen sessiz olun.",
+        "Lütfen kalemi verin.",
+        "Lütfen buraya gelin."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-e-tema3classroomrules-50",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Draw a flower\" ifadesinin anlamı nedir?",
+      "options": [
+        "Bir çiçeği kokla",
+        "Bir çiçek boya",
+        "Bir çiçek çiz",
+        "Bir çiçek ver"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-english-318",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Numbers",
+      "question": "1 sayısı İngilizce nedir?",
+      "options": [
+        "Two",
+        "Three",
+        "One",
+        "Four"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-188",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Ayağa kalk\" anlamına gelen İngilizce sınıf yönergesi hangisidir?",
+      "options": [
+        "Sit down",
+        "Stand up",
+        "Open the door",
+        "Clean the board"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-english-400",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Classroom Rules",
+      "question": "\"Defterini aç\" yönergesinin İngilizce karşılığı hangisidir?",
+      "options": [
+        "Open your book",
+        "Close your book",
+        "Close the window",
+        "Open the door"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-english-307",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Numbers",
+      "question": "8 sayısı İngilizce nedir?",
+      "options": [
+        "Seven",
+        "Eight",
+        "Nine",
+        "Ten"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-english-575",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Numbers",
+      "question": "3 sayısı İngilizce nedir?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-english-335",
+      "subject": "İngilizce",
+      "theme": "Tema 3: Numbers",
+      "question": "5 sayısı İngilizce nedir?",
+      "options": [
+        "Six",
+        "Five",
+        "Seven",
+        "Eight"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
     }
   ]
 }

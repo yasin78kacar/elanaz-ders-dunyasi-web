@@ -716,227 +716,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qa50267",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 5:00'i gösterdiğinde akrep nerede durur?",
-      "options": [
-        "6",
-        "4",
-        "11",
-        "5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50268",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 5:30'u kaç ile ifade ederiz?",
-      "options": [
-        "5 tam",
-        "6 tam",
-        "5 buçuk",
-        "5 çeyrek"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50269",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 6:00'i gösterdiğinde akrep nerede durur?",
-      "options": [
-        "5",
-        "7",
-        "12",
-        "6"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50270",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 6:30'u kaç ile ifade ederiz?",
-      "options": [
-        "6 tam",
-        "6 çeyrek",
-        "7 tam",
-        "6 buçuk"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50271",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 7:00'i gösterdiğinde akrep nerede durur?",
-      "options": [
-        "6",
-        "8",
-        "1",
-        "7"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50272",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 7:30'u kaç ile ifade ederiz?",
-      "options": [
-        "8 tam",
-        "7 tam",
-        "7 çeyrek",
-        "7 buçuk"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50273",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 8:00'i gösterdiğinde akrep nerede durur?",
-      "options": [
-        "9",
-        "8",
-        "7",
-        "2"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50274",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 8:30'u kaç ile ifade ederiz?",
-      "options": [
-        "8 çeyrek",
-        "9 tam",
-        "8 tam",
-        "8 buçuk"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50275",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 9:00'i gösterdiğinde akrep nerede durur?",
-      "options": [
-        "10",
-        "3",
-        "9",
-        "8"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50276",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 9:30'u kaç ile ifade ederiz?",
-      "options": [
-        "10 tam",
-        "9 tam",
-        "9 buçuk",
-        "9 çeyrek"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50277",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 10:00'i gösterdiğinde akrep nerede durur?",
-      "options": [
-        "11",
-        "9",
-        "10",
-        "4"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50278",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 10:30'u kaç ile ifade ederiz?",
-      "options": [
-        "10 tam",
-        "10 çeyrek",
-        "11 tam",
-        "10 buçuk"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50279",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 11:00'i gösterdiğinde akrep nerede durur?",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "5"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50280",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 11:30'u kaç ile ifade ederiz?",
-      "options": [
-        "11 buçuk",
-        "11 tam",
-        "11 çeyrek",
-        "12 tam"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50281",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 12:00'i gösterdiğinde akrep nerede durur?",
-      "options": [
-        "1",
-        "6",
-        "12",
-        "11"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50282",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 12:30'u kaç ile ifade ederiz?",
-      "options": [
-        "1 tam",
-        "12 çeyrek",
-        "12 tam",
-        "12 buçuk"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50303",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Ocak yılın kaçıncı ayıdır?",
-      "options": [
-        "3",
-        "2",
-        "2",
-        "1"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qa50304",
       "subject": "Matematik",
       "theme": "Tema 6",
@@ -1275,279 +1054,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qc200323",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 3:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "4 ceyrek",
-        "3 ceyrek",
-        "3 tam",
-        "3 bucuk"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200324",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 3:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "3 tam",
-        "4'e ceyrek kala",
-        "3 ceyrek",
-        "3 bucuk"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200325",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 4:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "5 ceyrek",
-        "4 ceyrek",
-        "4 tam",
-        "4 bucuk"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200326",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 4:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "4 tam",
-        "4 ceyrek",
-        "4 bucuk",
-        "5'e ceyrek kala"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200327",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 5:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "5 bucuk",
-        "6 ceyrek",
-        "5 tam",
-        "5 ceyrek"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200328",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 5:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "5 ceyrek",
-        "5 bucuk",
-        "6'e ceyrek kala",
-        "5 tam"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200329",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 6:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "7 ceyrek",
-        "6 bucuk",
-        "6 tam",
-        "6 ceyrek"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200330",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 6:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "7'e ceyrek kala",
-        "6 tam",
-        "6 ceyrek",
-        "6 bucuk"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200331",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 7:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "8 ceyrek",
-        "7 tam",
-        "7 bucuk",
-        "7 ceyrek"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200332",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 7:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "7 tam",
-        "7 ceyrek",
-        "7 bucuk",
-        "8'e ceyrek kala"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200333",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 8:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "8 bucuk",
-        "8 ceyrek",
-        "8 tam",
-        "9 ceyrek"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200334",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 8:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "8 bucuk",
-        "8 tam",
-        "8 ceyrek",
-        "9'e ceyrek kala"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200335",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 9:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "10 ceyrek",
-        "9 tam",
-        "9 ceyrek",
-        "9 bucuk"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200336",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 9:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "9 ceyrek",
-        "9 bucuk",
-        "9 tam",
-        "10'e ceyrek kala"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200337",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 10:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "10 bucuk",
-        "10 tam",
-        "10 ceyrek",
-        "11 ceyrek"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200338",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 10:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "10 bucuk",
-        "10 tam",
-        "10 ceyrek",
-        "11'e ceyrek kala"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200339",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 11:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "11 bucuk",
-        "12 ceyrek",
-        "11 tam",
-        "11 ceyrek"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200340",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 11:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "11 bucuk",
-        "12'e ceyrek kala",
-        "11 ceyrek",
-        "11 tam"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200341",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 12:15'i hangi ifade en dogru anlatir?",
-      "options": [
-        "12 ceyrek",
-        "12 bucuk",
-        "12 tam",
-        "13 ceyrek"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200342",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 12:45'i hangi ifade en dogru anlatir?",
-      "options": [
-        "12 bucuk",
-        "12 tam",
-        "1'e ceyrek kala",
-        "12 ceyrek"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600392",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Okula gitmek için saat 7:00 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
-      "options": [
-        "Sabah",
-        "Sabah",
-        "Gece",
-        "Öğleden sonra"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe600393",
       "subject": "Matematik",
       "theme": "Tema 6",
@@ -1559,19 +1065,6 @@
         "7:30"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qe600394",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Ders başlangıcı için saat 8:30 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
-      "options": [
-        "Gece",
-        "Öğleden sonra",
-        "Sabah",
-        "Sabah"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qe600395",
@@ -1587,19 +1080,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qe600396",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Öğle yemeği için saat 12:00 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
-      "options": [
-        "Gece",
-        "Öğleden sonra",
-        "Öğleden sonra",
-        "Sabah"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qe600397",
       "subject": "Matematik",
       "theme": "Tema 6",
@@ -1611,19 +1091,6 @@
         "12:15"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qe600398",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Beden eğitimi için saat 15:30 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
-      "options": [
-        "Öğleden sonra",
-        "Sabah",
-        "Gece",
-        "Öğleden sonra"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qe600399",
@@ -1652,19 +1119,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qe600401",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 19:00 iken 30 dakika geçerse saat kaç olur?",
-      "options": [
-        "19:00",
-        "19:15",
-        "19:30",
-        "20:00"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qe600402",
       "subject": "Matematik",
       "theme": "Tema 6",
@@ -1676,19 +1130,6 @@
         "Akşam/Gece"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qe600403",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 21:00 iken 30 dakika geçerse saat kaç olur?",
-      "options": [
-        "22:00",
-        "21:00",
-        "21:30",
-        "21:15"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qe600404",
@@ -1897,422 +1338,6 @@
         "Hayır, yanlış"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qe600420",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 5:00 iken 1 saat sonra saat kaç olur?",
-      "options": [
-        "5:00",
-        "6:00",
-        "7:00",
-        "5:30"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600421",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 5:00 iken 30 dakika önce saat kaç'tı?",
-      "options": [
-        "5:00",
-        "4:00",
-        "4:30",
-        "5:30"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600422",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 5:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
-      "options": [
-        "5 dakika",
-        "30 dakika",
-        "45 dakika",
-        "15 dakika"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600423",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 5:45 iken \"6'e çeyrek kala\" ifadesi doğru mudur?",
-      "options": [
-        "Hayır, yanlış",
-        "Kısmen doğru",
-        "Belirsiz",
-        "Evet, doğru"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600424",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 6:00 iken 1 saat sonra saat kaç olur?",
-      "options": [
-        "6:00",
-        "7:00",
-        "6:30",
-        "8:00"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600425",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 6:00 iken 30 dakika önce saat kaç'tı?",
-      "options": [
-        "5:00",
-        "6:30",
-        "5:30",
-        "6:00"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600426",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 6:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
-      "options": [
-        "15 dakika",
-        "5 dakika",
-        "30 dakika",
-        "45 dakika"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600427",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 6:45 iken \"7'e çeyrek kala\" ifadesi doğru mudur?",
-      "options": [
-        "Kısmen doğru",
-        "Belirsiz",
-        "Hayır, yanlış",
-        "Evet, doğru"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600428",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 7:00 iken 1 saat sonra saat kaç olur?",
-      "options": [
-        "8:00",
-        "7:00",
-        "9:00",
-        "7:30"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600429",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 7:00 iken 30 dakika önce saat kaç'tı?",
-      "options": [
-        "7:00",
-        "7:30",
-        "6:00",
-        "6:30"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600430",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 7:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
-      "options": [
-        "45 dakika",
-        "5 dakika",
-        "30 dakika",
-        "15 dakika"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600431",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 7:45 iken \"8'e çeyrek kala\" ifadesi doğru mudur?",
-      "options": [
-        "Hayır, yanlış",
-        "Belirsiz",
-        "Evet, doğru",
-        "Kısmen doğru"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600432",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 8:00 iken 1 saat sonra saat kaç olur?",
-      "options": [
-        "10:00",
-        "9:00",
-        "8:30",
-        "8:00"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600433",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 8:00 iken 30 dakika önce saat kaç'tı?",
-      "options": [
-        "7:00",
-        "7:30",
-        "8:00",
-        "8:30"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600434",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 8:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
-      "options": [
-        "15 dakika",
-        "5 dakika",
-        "30 dakika",
-        "45 dakika"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600435",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 8:45 iken \"9'e çeyrek kala\" ifadesi doğru mudur?",
-      "options": [
-        "Belirsiz",
-        "Evet, doğru",
-        "Hayır, yanlış",
-        "Kısmen doğru"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600436",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 9:00 iken 1 saat sonra saat kaç olur?",
-      "options": [
-        "11:00",
-        "9:00",
-        "10:00",
-        "9:30"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600437",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 9:00 iken 30 dakika önce saat kaç'tı?",
-      "options": [
-        "8:30",
-        "8:00",
-        "9:30",
-        "9:00"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600438",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 9:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
-      "options": [
-        "30 dakika",
-        "45 dakika",
-        "15 dakika",
-        "5 dakika"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600439",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 9:45 iken \"10'e çeyrek kala\" ifadesi doğru mudur?",
-      "options": [
-        "Kısmen doğru",
-        "Evet, doğru",
-        "Belirsiz",
-        "Hayır, yanlış"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600440",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 10:00 iken 1 saat sonra saat kaç olur?",
-      "options": [
-        "10:00",
-        "11:00",
-        "12:00",
-        "10:30"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600441",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 10:00 iken 30 dakika önce saat kaç'tı?",
-      "options": [
-        "10:30",
-        "9:00",
-        "9:30",
-        "10:00"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600442",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 10:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
-      "options": [
-        "45 dakika",
-        "30 dakika",
-        "15 dakika",
-        "5 dakika"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600443",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 10:45 iken \"11'e çeyrek kala\" ifadesi doğru mudur?",
-      "options": [
-        "Belirsiz",
-        "Evet, doğru",
-        "Kısmen doğru",
-        "Hayır, yanlış"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600444",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 11:00 iken 1 saat sonra saat kaç olur?",
-      "options": [
-        "12:00",
-        "11:30",
-        "12:00",
-        "11:00"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600445",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 11:00 iken 30 dakika önce saat kaç'tı?",
-      "options": [
-        "10:00",
-        "11:00",
-        "10:30",
-        "11:30"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600446",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 11:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
-      "options": [
-        "15 dakika",
-        "30 dakika",
-        "45 dakika",
-        "5 dakika"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600447",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 11:45 iken \"12'e çeyrek kala\" ifadesi doğru mudur?",
-      "options": [
-        "Hayır, yanlış",
-        "Belirsiz",
-        "Evet, doğru",
-        "Kısmen doğru"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600448",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 12:00 iken 1 saat sonra saat kaç olur?",
-      "options": [
-        "12:00",
-        "12:30",
-        "1:00",
-        "12:00"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600449",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat tam 12:00 iken 30 dakika önce saat kaç'tı?",
-      "options": [
-        "11:30",
-        "12:30",
-        "11:00",
-        "12:00"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600450",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 12:15 iken \"çeyrek\" ifadesi ne anlama gelir?",
-      "options": [
-        "15 dakika",
-        "5 dakika",
-        "45 dakika",
-        "30 dakika"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600451",
-      "subject": "Matematik",
-      "theme": "Tema 6",
-      "question": "Saat 12:45 iken \"1'e çeyrek kala\" ifadesi doğru mudur?",
-      "options": [
-        "Hayır, yanlış",
-        "Kısmen doğru",
-        "Evet, doğru",
-        "Belirsiz"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qf800391",
@@ -2560,6 +1585,253 @@
         "Aralık, Ocak, Şubat"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "q-m-61",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "Bir bütünün iki eş parçasından her birine ne ad verilir?",
+      "options": [
+        "Çeyrek",
+        "Yarım",
+        "Bütün",
+        "Pay"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-62",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "Bir bütünün dört eş parçasından her birine ne ad verilir?",
+      "options": [
+        "Bütün",
+        "Yarım",
+        "Çeyrek",
+        "Bölüm"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-63",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "3 bütün ekmek toplam kaç yarım ekmek eder?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-64",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "2 bütün elma toplam kaç çeyrek elma eder?",
+      "options": [
+        "4",
+        "8",
+        "6",
+        "2"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-65",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "8 çeyrek portakal bir araya getirilirse kaç bütün portakal eder?",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "8"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-66",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "6 yarım elma kaç bütün elma eder?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-67",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "1 bütün simit ve 2 yarım simit toplam kaç bütün simit eder?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-68",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "12 çeyrek pasta kaç bütün pasta eder?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-69",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "4 yarım karpuz ve 8 çeyrek karpuz toplam kaç bütün karpuz eder?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-70",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "Aşağıdakilerden hangisi bir bütünün yarısını ifade etmez?",
+      "options": [
+        "Bir elmanın ikiye bölünmüş parçalarından biri",
+        "4 çeyrek portakal",
+        "2 çeyrek elma",
+        "Bir pastanın iki eş parçasından biri"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-151",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "6 çeyrek elma ve 2 yarım elma toplam kaç bütün elma eder?",
+      "options": [
+        "2",
+        "2 yarım",
+        "3",
+        "2 buçuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-152",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "4 bütün ekmekten kaç yarım ekmek elde edilir?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-153",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "1 bütün pastayı 4 arkadaş eşit paylaşırsa her birine pastanın ne kadarı düşer?",
+      "options": [
+        "Yarısı",
+        "Çeyreği",
+        "Bütünü",
+        "Hiçbiri"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-154",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "10 yarım elma kaç bütün elma eder?",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-155",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "16 çeyrek limon kaç bütün limon eder?",
+      "options": [
+        "4",
+        "8",
+        "12",
+        "6"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-200",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "12 yarım ekmek toplam kaç bütün ekmek eder?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-math-32",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "2 bütün ekmekten kaç yarım ekmek elde edilir?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-math-386",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "4 yarım elma toplam kaç bütün elma eder?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-math-158",
+      "subject": "Matematik",
+      "theme": "Tema 6: Kesirler",
+      "question": "8 çeyrek elma kaç bütün elma yapar?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

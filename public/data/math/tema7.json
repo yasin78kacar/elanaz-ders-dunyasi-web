@@ -352,19 +352,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q698",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "25 cm kaç mm'dir?",
-      "options": [
-        "260",
-        "240",
-        "250",
-        "25"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q699",
       "subject": "Matematik",
       "theme": "Tema 7",
@@ -417,45 +404,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q703",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "6 kg kaç g'dir?",
-      "options": [
-        "600",
-        "6100",
-        "6000",
-        "5900"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q704",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "7 kg kaç g'dir?",
-      "options": [
-        "6900",
-        "7000",
-        "700",
-        "7100"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q705",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "8 kg kaç g'dir?",
-      "options": [
-        "8100",
-        "7900",
-        "8000",
-        "800"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q706",
       "subject": "Matematik",
       "theme": "Tema 7",
@@ -495,58 +443,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "q710",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "6 m kaç cm'dir?",
-      "options": [
-        "60",
-        "6000",
-        "610",
-        "600"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q711",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "7 m kaç cm'dir?",
-      "options": [
-        "70",
-        "710",
-        "7000",
-        "700"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q712",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "8 m kaç cm'dir?",
-      "options": [
-        "80",
-        "810",
-        "800",
-        "8000"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50326",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "1 m kaç cm'dir?",
-      "options": [
-        "1000",
-        "110",
-        "10",
-        "100"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qa50327",
       "subject": "Matematik",
       "theme": "Tema 7",
@@ -558,19 +454,6 @@
         "1"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qa50328",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "1 kg kaç g'dir?",
-      "options": [
-        "100",
-        "1000",
-        "10000",
-        "1100"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qa50331",
@@ -597,136 +480,6 @@
         "4"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qa50339",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "400 cm kaç m'dir?",
-      "options": [
-        "0.4",
-        "5",
-        "4",
-        "40"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50347",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "600 cm kaç m'dir?",
-      "options": [
-        "0.6",
-        "60",
-        "6",
-        "7"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50351",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "700 cm kaç m'dir?",
-      "options": [
-        "70",
-        "8",
-        "7",
-        "0.7"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50355",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "800 cm kaç m'dir?",
-      "options": [
-        "80",
-        "0.8",
-        "9",
-        "8"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50358",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "9 m kaç cm'dir?",
-      "options": [
-        "910",
-        "9000",
-        "900",
-        "90"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50359",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "900 cm kaç m'dir?",
-      "options": [
-        "90",
-        "0.9",
-        "10",
-        "9"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50360",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "9 kg kaç g'dir?",
-      "options": [
-        "90000",
-        "9000",
-        "9100",
-        "900"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50362",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "10 m kaç cm'dir?",
-      "options": [
-        "1000",
-        "10000",
-        "100",
-        "1010"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50363",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "1000 cm kaç m'dir?",
-      "options": [
-        "100",
-        "1",
-        "11",
-        "10"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50364",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "10 kg kaç g'dir?",
-      "options": [
-        "1000",
-        "10100",
-        "100000",
-        "10000"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qa50367",
@@ -766,149 +519,6 @@
         "20"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qa50375",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "25 mm kaç cm'dir?",
-      "options": [
-        "2.5",
-        "25",
-        "250",
-        "3.5"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50376",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "30 cm kaç mm'dir?",
-      "options": [
-        "305",
-        "3000",
-        "300",
-        "30"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50377",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "30 mm kaç cm'dir?",
-      "options": [
-        "4",
-        "3",
-        "300",
-        "30"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50378",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "35 cm kaç mm'dir?",
-      "options": [
-        "3500",
-        "355",
-        "35",
-        "350"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50379",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "35 mm kaç cm'dir?",
-      "options": [
-        "3.5",
-        "350",
-        "35",
-        "4.5"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50380",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "40 cm kaç mm'dir?",
-      "options": [
-        "40",
-        "400",
-        "405",
-        "4000"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50381",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "40 mm kaç cm'dir?",
-      "options": [
-        "40",
-        "400",
-        "5",
-        "4"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50382",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "45 cm kaç mm'dir?",
-      "options": [
-        "45",
-        "455",
-        "4500",
-        "450"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50383",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "45 mm kaç cm'dir?",
-      "options": [
-        "5.5",
-        "4.5",
-        "450",
-        "45"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50384",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "50 cm kaç mm'dir?",
-      "options": [
-        "505",
-        "50",
-        "500",
-        "5000"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa50385",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "50 mm kaç cm'dir?",
-      "options": [
-        "50",
-        "5",
-        "6",
-        "500"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qb90726",
@@ -1011,162 +621,6 @@
         "0.4",
         "40",
         "4"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qb90734",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "5 km kac metredir?",
-      "options": [
-        "5100",
-        "5000",
-        "50000",
-        "500"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb90735",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "5000 m kac km yapar?",
-      "options": [
-        "5",
-        "50",
-        "0.5",
-        "6"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qb90736",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "6 km kac metredir?",
-      "options": [
-        "60000",
-        "6100",
-        "600",
-        "6000"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qb90737",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "6000 m kac km yapar?",
-      "options": [
-        "0.6",
-        "6",
-        "60",
-        "7"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb90738",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "7 km kac metredir?",
-      "options": [
-        "7000",
-        "700",
-        "7100",
-        "70000"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qb90739",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "7000 m kac km yapar?",
-      "options": [
-        "7",
-        "0.7",
-        "70",
-        "8"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qb90740",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "8 km kac metredir?",
-      "options": [
-        "800",
-        "8000",
-        "8100",
-        "80000"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb90741",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "8000 m kac km yapar?",
-      "options": [
-        "0.8",
-        "8",
-        "80",
-        "9"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb90742",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "9 km kac metredir?",
-      "options": [
-        "900",
-        "90000",
-        "9100",
-        "9000"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qb90743",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "9000 m kac km yapar?",
-      "options": [
-        "0.9",
-        "10",
-        "90",
-        "9"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qb90744",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "10 km kac metredir?",
-      "options": [
-        "100000",
-        "10000",
-        "10100",
-        "1000"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb90745",
-      "subject": "Matematik",
-      "theme": "Tema 7",
-      "question": "10000 m kac km yapar?",
-      "options": [
-        "1",
-        "100",
-        "11",
-        "10"
       ],
       "correctAnswer": 3
     },
@@ -1429,6 +883,240 @@
         "16"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "q-m-71",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Kare şeklinin kaç kenarı vardır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-72",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Üçgen şeklinin kaç köşesi vardır?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "0"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-73",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Aşağıdaki geometrik şekillerden hangisinin köşesi yoktur?",
+      "options": [
+        "Kare",
+        "Üçgen",
+        "Çember",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-74",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Kare ve dikdörtgen şekillerinin ortak özelliği hangisidir?",
+      "options": [
+        "Tüm kenar uzunluklarının eşit olması",
+        "Kenar ve köşe sayılarının 4 olması",
+        "Köşelerinin olmaması",
+        "3 kenarlarının olması"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-75",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Kibrit kutusu aşağıdaki geometrik cisimlerden en çok hangisine benzer?",
+      "options": [
+        "Küp",
+        "Silindir",
+        "Dikdörtgen prizma",
+        "Küre"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-76",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Futbol topu aşağıdaki geometrik cisimlerden hangisine örnektir?",
+      "options": [
+        "Silindir",
+        "Küre",
+        "Koni",
+        "Küp"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-77",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Konserve kutusu aşağıdaki geometrik cisimlerden en çok hangisine benzer?",
+      "options": [
+        "Küp",
+        "Silindir",
+        "Küre",
+        "Koni"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-78",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Hediye paketi yapmak için kullanılan zar aşağıdaki geometrik cisimlerden en çok hangisine benzer?",
+      "options": [
+        "Silindir",
+        "Küp",
+        "Küre",
+        "Üçgen prizma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-m-79",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Aşağıdaki şekillerden hangisi iki eş parçaya bölündüğünde simetrik (ayna görüntüsü) olmaz?",
+      "options": [
+        "A harfi",
+        "M harfi",
+        "F harfi",
+        "O harfi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-80",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Dondurma külahı aşağıdaki geometrik cisimlerden hangisine benzer?",
+      "options": [
+        "Koni",
+        "Silindir",
+        "Küre",
+        "Küp"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-156",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Aşağıdaki geometrik cisimlerden hangisinin tüm yüzleri karedir?",
+      "options": [
+        "Küp",
+        "Silindir",
+        "Koni",
+        "Küre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-m-157",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Üçgen prizmanın toplam kaç yüzü vardır?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-158",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Aşağıdaki harflerden hangisi simetrik değildir?",
+      "options": [
+        "A",
+        "H",
+        "F",
+        "O"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-159",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Köşesi ve kenarı olmayan düzlemsel şekil hangisidir?",
+      "options": [
+        "Kare",
+        "Üçgen",
+        "Çember",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-m-160",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Silindirin alt ve üst yüzeyleri hangi geometrik şekle benzer?",
+      "options": [
+        "Kare",
+        "Daire/Çember",
+        "Üçgen",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-math-513",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Karşılıklı kenarları birbirine eşit, 4 kenarı ve 4 köşesi olan geometrik şekil hangisidir?",
+      "options": [
+        "Kare",
+        "Üçgen",
+        "Dikdörtgen",
+        "Çember"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-math-501",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Köşesi ve kenarı olmayan, yuvarlak olan geometrik şekil hangisidir?",
+      "options": [
+        "Kare",
+        "Üçgen",
+        "Çember",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-math-53",
+      "subject": "Matematik",
+      "theme": "Tema 7: Geometri",
+      "question": "Tüm kenar uzunlukları birbirine eşit, 4 köşesi olan geometrik şekil hangisidir?",
+      "options": [
+        "Dikdörtgen",
+        "Kare",
+        "Üçgen",
+        "Çember"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

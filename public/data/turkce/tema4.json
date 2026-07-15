@@ -79,19 +79,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "q1048",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Hangi örnek doğru yazımdır?",
-      "options": [
-        "pazartesi",
-        "PAZARTESİ",
-        "Pazartesi",
-        "pAZArteSi"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q1049",
       "subject": "Türkçe",
       "theme": "Tema 4",
@@ -781,19 +768,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qe600826",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Hangi cümlede yazım hatası vardır?",
-      "options": [
-        "Okula gittim.",
-        "Ben bugün okula gittim.",
-        "Bugün okula gittim.",
-        "ben bugün okula gittim."
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qe600827",
       "subject": "Türkçe",
       "theme": "Tema 4",
@@ -859,19 +833,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qe600832",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Hangi cümle doğru yazılmıştır?",
-      "options": [
-        "ayşe bugün okula gitmedi.",
-        "Ayşe bugün Okula gitmedi.",
-        "Ayşe, bugün okula gitmedi.",
-        "Ayşe bugün okula gitmedi"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qe600833",
       "subject": "Türkçe",
       "theme": "Tema 4",
@@ -883,45 +844,6 @@
         "Her zaman"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qf800586",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Hangi sözcük doğru yazılmıştır?",
-      "options": [
-        "Öğretmeen",
-        "Ögretmen",
-        "öğretmen",
-        "Öğretmen"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qf800587",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Hangi cümle büyük harfle başlamalıdır?",
-      "options": [
-        "Büyük harfler gereksizdir.",
-        "Her cümle büyük harfle başlar.",
-        "CÜMLE BÜYÜK harfle başlar.",
-        "her cümle büyük harfle başlar."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qf800589",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Hangi cümlede yazım hatası yoktur?",
-      "options": [
-        "Ankara türkiyenin başkentidir.",
-        "ankara türkiyenin başkentidir.",
-        "Ankara, Türkiye'nin başkentidir.",
-        "ankara, Türkiye'nin başkentidir."
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qf800590",
@@ -948,19 +870,6 @@
         "Tire"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qf800593",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "'İstanbul' sözcüğüne '-da' eki getirilince nasıl yazılır?",
-      "options": [
-        "istanbul'da",
-        "İstanbul'DA",
-        "İstanbul'da",
-        "İstanbulda"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qf800594",
@@ -1052,6 +961,88 @@
         "Hiç olmayabilir"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-turkce-499",
+      "subject": "Türkçe",
+      "theme": "Tema 4: Birey ve Toplum",
+      "question": "Teşekkür ederim kelimesi nerede kullanılır?",
+      "options": [
+        "Hata yapınca",
+        "Hediye alınca",
+        "Kavga edince",
+        "Gülerken"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-3",
+      "subject": "Türkçe",
+      "theme": "Tema 4: Birey ve Toplum",
+      "question": "Empati kurmak nedir?",
+      "options": [
+        "Kendini başkasının yerine koymak",
+        "Başkasına gülmek",
+        "Kendi istediğini yapmak",
+        "Arkadaşından izinsiz kalem almak"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-280",
+      "subject": "Türkçe",
+      "theme": "Tema 4: Yazma ve Cümle Bilgisi",
+      "question": "\"Okula gidiyorum\" ifadesinin bir cümle olabilmesi için hangisi söylenebilir?",
+      "options": [
+        "Bu haliyle tam bir cümledir.",
+        "Kelime eksiktir cümle olamaz.",
+        "Soru işaretiyle bitmelidir.",
+        "Sadece kelime grubudur."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-turkce-301",
+      "subject": "Türkçe",
+      "theme": "Tema 4: Birey ve Toplum",
+      "question": "Ortak kullanım alanlarını nasıl bırakmalıyız?",
+      "options": [
+        "Kirli",
+        "Dağınık",
+        "Temiz",
+        "Eşyalı"
+      ],
+      "correctAnswer": 2,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-327",
+      "subject": "Türkçe",
+      "theme": "Tema 4: Birey ve Toplum",
+      "question": "Özür dilerim ne zaman kullanılır?",
+      "options": [
+        "Teşekkür ederken",
+        "Hata yapınca",
+        "Yemek yerken",
+        "Oyun oynarken"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Zor"
+    },
+    {
+      "id": "q-b3-turkce-475",
+      "subject": "Türkçe",
+      "theme": "Tema 4: Yazma ve Cümle Bilgisi",
+      "question": "\"elma - kırmızı - yedi - Ali\" kelimeleriyle kurallı ve anlamlı bir cümle oluşturursak hangisi doğru olur?",
+      "options": [
+        "Ali yedi kırmızı elma.",
+        "Ali kırmızı elma yedi.",
+        "Kırmızı elma Ali yedi.",
+        "Yedi Ali kırmızı elma."
+      ],
+      "correctAnswer": 1
     }
   ]
 }

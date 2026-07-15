@@ -378,123 +378,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qc200751",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Bilim nedir? (Tema 7)",
-      "options": [
-        "Müzik",
-        "Edebiyat",
-        "Sanat",
-        "Dogayi inceleme ve anlama yöntemi"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200752",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Deney neden yapilir? (Tema 7)",
-      "options": [
-        "Eglence icin",
-        "Para kazanmak icin",
-        "Hipotezi test etmek ve bilgi üretmek icin",
-        "Zorunlu oldugu icin"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200753",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Gözlem nedir? (Tema 7)",
-      "options": [
-        "Varsayim yapma",
-        "Deney yapma",
-        "Duyu organlariyla bilgi toplama",
-        "Rapor yazma"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200754",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Hipotez nedir? (Tema 7)",
-      "options": [
-        "Kesin sonuc",
-        "Denenmemis tahmin veya varsayim",
-        "Onaylanmis kural",
-        "Bilim yasasi"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200755",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Sonuc cikarma ne demektir? (Tema 7)",
-      "options": [
-        "Deney yapmak",
-        "Deneyin bulgularini yorumlamak",
-        "Veri toplamak",
-        "Gözlem yapmak"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200756",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Enerji korunumu yasasi ne der? (Tema 7)",
-      "options": [
-        "Enerji artar",
-        "Enerji yok olur",
-        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
-        "Enerji azalir"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200757",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Hucre nedir? (Tema 7)",
-      "options": [
-        "Sistem",
-        "Organ",
-        "Doku",
-        "Canliların en kucuk yapısal birimi"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200759",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Fotosantez neden önemlidir? (Tema 7)",
-      "options": [
-        "Oksijen üretir ve besin saglar",
-        "Su tüketir",
-        "Isi üretir",
-        "Sadece güzel görünür"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200760",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Besin zinciri neden önemlidir? (Tema 7)",
-      "options": [
-        "Ekosistemdeki enerji akisini gösterir",
-        "Guzel görünür",
-        "Para üretir",
-        "Isi saglar"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe600989",
       "subject": "Fen Bilimleri",
       "theme": "Tema 7",
@@ -688,6 +571,97 @@
         "Oksijen (O₂)"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-122",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7: Elektrikli Araçlar",
+      "question": "Otomobillerin farları, radyoları ve motor çalıştırma sistemleri hangi elektrik kaynağından beslenir?",
+      "options": [
+        "Pil",
+        "Akü",
+        "Şehir elektriği",
+        "Rüzgar gülü"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-203",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7: Elektrikli Araçlar",
+      "question": "Biten pilleri doğaya atmayıp nereye bırakmalıyız?",
+      "options": [
+        "Çöp kutusuna",
+        "Atık pil kutusuna",
+        "Bahçeye",
+        "Suya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-344",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7: Elektrikli Araçlar",
+      "question": "Duvar saatleri veya el fenerleri hangi elektrik kaynağından güç alır?",
+      "options": [
+        "Şehir elektriği",
+        "Pil",
+        "Jeneratör",
+        "Akü"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q-b3-fen-483",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7: Elektrikli Araçlar",
+      "question": "Aşağıdaki ev aletlerinden hangisi elektrik enerjisiyle çalışır?",
+      "options": [
+        "Bulaşık makinesi",
+        "Gaz ocağı",
+        "El süpürgesi",
+        "Sallanan sandalye"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q-b3-fen-280",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7: Elektrikli Araçlar",
+      "question": "Sokak lambaları ve evimizdeki prizler hangi elektrik kaynağını kullanır?",
+      "options": [
+        "Pil",
+        "Akü",
+        "Şehir elektriği",
+        "Batarya"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-fen-256",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7: Elektrikli Araçlar",
+      "question": "Elektriği güvenli kullanmak için aşağıdakilerden hangisini yapmalıyız?",
+      "options": [
+        "Islak ellerle elektrik düğmelerine dokunmak",
+        "Yıpranmış kabloları kullanmak",
+        "Prizlere yabancı cisimler sokmak",
+        "Elektrikli aletleri kablosundan çekmeyip fişinden tutarak çıkarmak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q-b3-fen-461",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7: Elektrikli Araçlar",
+      "question": "Televizyon kumandası hangi elektrik enerjisi kaynağı ile çalışır?",
+      "options": [
+        "Pil",
+        "Akü",
+        "Şehir elektriği",
+        "Baraj"
+      ],
+      "correctAnswer": 0
     }
   ]
 }
