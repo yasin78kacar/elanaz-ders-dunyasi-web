@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef, memo } from 'react';
 import '../styles/QuizViewer.css';
 
 interface Question {
@@ -102,6 +102,32 @@ interface Props {
   onOyunlarAc?: () => void;
 }
 
+// Sayac kendi state'ini tutar; boylece saniyelik tik yalniz bu minik bileseni
+// render eder, dev QuizViewer bileseni saniyede bir yeniden render OLMAZ.
+// paused=true iken (cevap geri bildirimi / soru yokken) sayac durur; her yeni
+// soruda key ile yeniden monte edilip 30'a sifirlanir.
+const TIMER_SURE = 30;
+const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTimeout: () => void }) {
+  const [saniye, setSaniye] = useState(TIMER_SURE);
+  const geriCagir = useRef(onTimeout);
+  useEffect(() => { geriCagir.current = onTimeout; });
+  useEffect(() => {
+    if (paused) return;
+    const id = setInterval(() => {
+      setSaniye((prev) => {
+        if (prev <= 1) {
+          geriCagir.current(); // sure bitince otomatik yanlis
+          return TIMER_SURE;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+    return () => clearInterval(id);
+  }, [paused]);
+  const renk = saniye > 10 ? '#4CAF50' : saniye > 5 ? '#FFC107' : '#FF6B6B';
+  return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
+});
+
 const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
@@ -127,7 +153,6 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [feedback, setFeedback] = useState<'idle' | 'correct' | 'wrong'>('idle');
   const [hataModu, setHataModu] = useState(false);
-  const [timeLeft, setTimeLeft] = useState(30);
 
   const activeSubject = SUBJECTS.find(s => s.label === selectedSubject) || SUBJECTS[0];
 
@@ -148,27 +173,6 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
     };
     checkVersion();
   }, []);
-
-  // Timer logic for quiz
-  useEffect(() => {
-    if (view !== 'quiz' || questions.length === 0 || feedback !== 'idle') return;
-
-    const timer = setInterval(() => {
-      setTimeLeft((prev) => {
-        if (prev <= 1) {
-          handleAnswer(-1); // wrong answer on timeout
-          return 30;
-        }
-        return prev - 1;
-      });
-    }, 1000);
-
-    return () => clearInterval(timer);
-  }, [currentIndex, questions.length, view, feedback]);
-
-  useEffect(() => {
-    setTimeLeft(30);
-  }, [currentIndex]);
 
   const loadQuestions = useCallback(async (subjectName: string, themeName: string) => {
     setLoading(true);
@@ -477,7 +481,6 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
               setScore(0);
               setFeedback('idle');
               setSelectedOption(null);
-              setTimeLeft(30);
               setView('quiz');
             }}>📦 Hata Kutusu ({hatalariGetir(profilAdi).length})</button>
             <button className="home-action-btn" onClick={() => setView('leaderboard')}>🏆 Sıralama</button>
@@ -728,7 +731,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
             {activeSubject.emoji} {hataModu ? '📦 Hata Kutusu' : `${selectedSubject} · ${selectedTheme}`}
           </span>
           <span className="qv-quiz-score" style={{ display: 'flex', gap: '15px' }}>
-            <span>⏱️ {timeLeft}s</span>
+            <Timer key={currentIndex} paused={questions.length === 0 || feedback !== 'idle'} onTimeout={() => handleAnswer(-1)} />
             <span>⭐ {score}/{currentIndex}</span>
           </span>
         </div>
