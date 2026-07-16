@@ -26,6 +26,8 @@ interface Profil {
 }
 
 declare const __BUILD_ID__: string;
+// Build aninda hesaplanip enjekte edilen, tum temalardaki toplam soru sayisi ( or. "4.790").
+declare const __TOTAL_QUESTIONS__: string;
 
 const PROFIL_KEY = 'dersdunyasi_profiller';
 const AKTIF_KEY = 'dersdunyasi_aktif';
@@ -437,6 +439,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
           <header className="qv-hero">
             <h1 className="home-title">Ders Dünyası 🌈</h1>
             <p className="home-subtitle">Merhaba {profilAdi}! 👋 Dokun ve oyna!</p>
+            <p className="home-soru-toplam" style={{ fontSize: '0.85rem', opacity: 0.8, margin: '2px 0 0' }}>{__TOTAL_QUESTIONS__} Soru</p>
             <button className="profil-degistir-btn" onClick={() => { localStorage.removeItem(AKTIF_KEY); setProfilAdi(""); setView('profile_selection'); }}>👤 Profil Değiştir</button>
           </header>
 
