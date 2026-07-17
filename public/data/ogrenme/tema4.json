@@ -1,0 +1,904 @@
+{
+  "questions": [
+    {
+      "id": "o4q01",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 3,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat üç",
+        "Saat dört",
+        "Saat iki",
+        "Saat üç buçuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q02",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 7,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat yedi",
+        "Saat yedi buçuk",
+        "Saat sekiz buçuk",
+        "Saat altı buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q03",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 11,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat on",
+        "Saat on iki",
+        "Saat on bir",
+        "Saat on bir buçuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q04",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 9,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat dokuz",
+        "Saat on buçuk",
+        "Saat sekiz buçuk",
+        "Saat dokuz buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q05",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 6,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat yedi",
+        "Saat altı",
+        "Saat beş",
+        "Saat altı buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q06",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 1,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat bir",
+        "Saat bir buçuk",
+        "Saat iki",
+        "Saat iki buçuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q07",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 1,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat bir",
+        "Saat iki buçuk",
+        "Saat bir buçuk",
+        "Saat iki"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q08",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 2,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat iki buçuk",
+        "Saat üç",
+        "Saat bir",
+        "Saat iki"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q09",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 2,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat iki buçuk",
+        "Saat iki",
+        "Saat üç buçuk",
+        "Saat bir buçuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q10",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 3,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat üç",
+        "Saat üç buçuk",
+        "Saat dört buçuk",
+        "Saat iki buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q11",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 4,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat dört buçuk",
+        "Saat beş",
+        "Saat dört",
+        "Saat üç"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q12",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 4,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat dört",
+        "Saat beş buçuk",
+        "Saat üç buçuk",
+        "Saat dört buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q13",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 5,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat beş",
+        "Saat beş buçuk",
+        "Saat altı",
+        "Saat dört"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q14",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 5,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat beş",
+        "Saat beş buçuk",
+        "Saat altı buçuk",
+        "Saat dört buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q15",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 6,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat altı",
+        "Saat yedi buçuk",
+        "Saat altı buçuk",
+        "Saat beş buçuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q16",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 7,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat yedi buçuk",
+        "Saat sekiz",
+        "Saat altı",
+        "Saat yedi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q17",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 8,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat sekiz",
+        "Saat sekiz buçuk",
+        "Saat dokuz",
+        "Saat yedi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q18",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 8,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat sekiz",
+        "Saat sekiz buçuk",
+        "Saat dokuz buçuk",
+        "Saat yedi buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q19",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 9,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat dokuz buçuk",
+        "Saat on",
+        "Saat dokuz",
+        "Saat sekiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q20",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 10,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat on buçuk",
+        "Saat on bir",
+        "Saat dokuz",
+        "Saat on"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q21",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 10,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat on buçuk",
+        "Saat on",
+        "Saat on bir buçuk",
+        "Saat dokuz buçuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q22",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 11,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat on bir",
+        "Saat on bir buçuk",
+        "Saat on iki buçuk",
+        "Saat on buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q23",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 12,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat on iki buçuk",
+        "Saat on bir",
+        "Saat on iki",
+        "Saat on bir buçuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q24",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 12,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat on iki",
+        "Saat on bir buçuk",
+        "Saat on bir",
+        "Saat on iki buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q25",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 1,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat bir buçuk",
+        "Saat bir",
+        "Saat iki buçuk",
+        "Saat iki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q26",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 4,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat dört buçuk",
+        "Saat dört",
+        "Saat beş",
+        "Saat üç"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q27",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 8,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat sekiz",
+        "Saat dokuz buçuk",
+        "Saat sekiz buçuk",
+        "Saat yedi buçuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q28",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 2,
+        "minute": 0
+      },
+      "format": 12,
+      "options": [
+        "Saat iki buçuk",
+        "Saat üç",
+        "Saat bir",
+        "Saat iki"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q29",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 10,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat on buçuk",
+        "Saat on",
+        "Saat on bir buçuk",
+        "Saat dokuz buçuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q30",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 5,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat beş",
+        "Saat beş buçuk",
+        "Saat altı buçuk",
+        "Saat dört buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q31",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 12,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat on iki",
+        "Saat on bir buçuk",
+        "Saat on iki buçuk",
+        "Saat on bir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q32",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 3,
+        "minute": 30
+      },
+      "format": 12,
+      "options": [
+        "Saat üç",
+        "Saat dört buçuk",
+        "Saat iki buçuk",
+        "Saat üç buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q33",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 13,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat bir",
+        "Saat on üç",
+        "Saat üç",
+        "Saat bir buçuk"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q34",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 18,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat on sekiz",
+        "Saat altı",
+        "Saat sekiz buçuk",
+        "Saat altı buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q35",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 20,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat yirmi",
+        "Saat on",
+        "Saat sekiz",
+        "Saat sekiz buçuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q36",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 13,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat on üç buçuk",
+        "Saat bir buçuk",
+        "Saat iki buçuk",
+        "Saat bir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q37",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 14,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat iki",
+        "Saat on dört",
+        "Saat üç",
+        "Saat bir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q38",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 14,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat on dört buçuk",
+        "Saat iki buçuk",
+        "Saat üç buçuk",
+        "Saat bir buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q39",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 15,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat on beş",
+        "Saat dört",
+        "Saat üç",
+        "Saat iki"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q40",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 15,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat on beş buçuk",
+        "Saat dört buçuk",
+        "Saat iki buçuk",
+        "Saat üç buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q41",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 16,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat dört",
+        "Saat on altı",
+        "Saat beş",
+        "Saat üç"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q42",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 16,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat on altı buçuk",
+        "Saat dört buçuk",
+        "Saat beş buçuk",
+        "Saat üç buçuk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q43",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 17,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat on yedi",
+        "Saat altı",
+        "Saat beş",
+        "Saat dört"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q44",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 17,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat on yedi buçuk",
+        "Saat altı buçuk",
+        "Saat dört buçuk",
+        "Saat beş buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q45",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 18,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat altı",
+        "Saat on sekiz",
+        "Saat yedi",
+        "Saat beş"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q46",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 19,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat on dokuz",
+        "Saat yedi",
+        "Saat sekiz",
+        "Saat altı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o4q47",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 19,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat on dokuz buçuk",
+        "Saat sekiz buçuk",
+        "Saat yedi buçuk",
+        "Saat altı buçuk"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o4q48",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 20,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat yirmi buçuk",
+        "Saat dokuz buçuk",
+        "Saat yedi buçuk",
+        "Saat sekiz buçuk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o4q49",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 21,
+        "minute": 0
+      },
+      "format": 24,
+      "options": [
+        "Saat dokuz",
+        "Saat yirmi bir",
+        "Saat on",
+        "Saat sekiz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o4q50",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 4",
+      "question": "Dijital saat kaçı gösteriyor?",
+      "clock": {
+        "hour": 21,
+        "minute": 30
+      },
+      "format": 24,
+      "options": [
+        "Saat yirmi bir buçuk",
+        "Saat dokuz buçuk",
+        "Saat on buçuk",
+        "Saat sekiz buçuk"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

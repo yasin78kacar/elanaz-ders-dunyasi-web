@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback, useRef, memo } from 'react';
 import '../styles/QuizViewer.css';
 import AnalogClock from './AnalogClock';
+import DigitalClock from './DigitalClock';
 
 interface Question {
   id: string;
@@ -11,6 +12,7 @@ interface Question {
   correctAnswer: number;
   image?: string;
   clock?: { hour: number; minute: number };
+  format?: number;
 }
 
 interface QuizResult {
@@ -55,6 +57,7 @@ const OGRENME = {
     { tema: 'Tema 1', baslik: 'Soru Kelimeleri', emoji: '❓', renk: '#6366F1', alt: 'Ne? Kim? Nerede? Ne zaman? Neden? Nasıl?' },
     { tema: 'Tema 2', baslik: 'Saat Okuma',      emoji: '🕐', renk: '#0EA5A5', alt: 'Tam, buçuk ve çeyrek saatler' },
     { tema: 'Tema 3', baslik: 'Boşluk Doldurma', emoji: '✏️', renk: '#F59E0B', alt: 'Cümledeki boşluğu doğru kelimeyle tamamla' },
+    { tema: 'Tema 4', baslik: 'Dijital Saat',    emoji: '🔢', renk: '#8B5CF6', alt: 'Dijital saati oku ve doğru cevabı seç' },
   ],
 };
 // Klasör/renk/emoji aramaları için birleşik liste (ana ders grid'i yalnız SUBJECTS kullanır).
@@ -916,7 +919,11 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
               )}
               {currentQuestion.clock && (
                 <div className="qv-clock-wrap">
-                  <AnalogClock hour={currentQuestion.clock.hour} minute={currentQuestion.clock.minute} size={200} />
+                  {currentQuestion.theme === 'Tema 4' ? (
+                    <DigitalClock hour={currentQuestion.clock.hour} minute={currentQuestion.clock.minute} format={currentQuestion.format} size={200} />
+                  ) : (
+                    <AnalogClock hour={currentQuestion.clock.hour} minute={currentQuestion.clock.minute} size={200} />
+                  )}
                 </div>
               )}
               <div className="soru-satir">
