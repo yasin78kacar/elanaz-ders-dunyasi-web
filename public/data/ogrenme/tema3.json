@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "o3q01",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Balık ___ yüzer.",
+      "options": ["suda", "ağaçta", "gökte", "evde"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q02",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Kuş gökyüzünde ___.",
+      "options": ["yürür", "uçar", "yüzer", "koşar"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q03",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "İnek bize ___ verir.",
+      "options": ["bal", "yumurta", "süt", "reçel"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q04",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Tavşan çok hızlı ___.",
+      "options": ["yüzer", "uçar", "uyur", "koşar"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q05",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Kışın hava ___ olur.",
+      "options": ["soğuk", "sıcak", "ıslak", "parlak"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q06",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Yazın hava ___ olur.",
+      "options": ["soğuk", "sıcak", "karlı", "buzlu"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q07",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Karın rengi ___.",
+      "options": ["mavi", "gri", "beyaz", "sarı"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q08",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Çimenler ___ renktedir.",
+      "options": ["kırmızı", "mor", "sarı", "yeşil"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q09",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Ekmek ___ yapılır.",
+      "options": ["undan", "taştan", "kumdan", "camdan"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q10",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Ayağımıza ___ giyeriz.",
+      "options": ["şapka", "ayakkabı", "eldiven", "gözlük"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q11",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Başımıza ___ takarız.",
+      "options": ["çorap", "ayakkabı", "şapka", "kemer"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q12",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Ellerimize ___ giyeriz.",
+      "options": ["çorap", "ayakkabı", "şapka", "eldiven"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q13",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Gözümüzle ___.",
+      "options": ["duyarız", "görürüz", "tadarız", "koklarız"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q14",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Kulağımızla ___.",
+      "options": ["koklarız", "tadarız", "duyarız", "görürüz"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q15",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Burnumuzla ___.",
+      "options": ["koklarız", "görürüz", "duyarız", "tadarız"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q16",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Dilimizle ___.",
+      "options": ["duyarız", "görürüz", "koklarız", "tadarız"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q17",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Balık ___ ile nefes alır.",
+      "options": ["solungaç", "kanat", "burun", "kuyruk"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q18",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Kuş ___ ile uçar.",
+      "options": ["ayak", "kanat", "kuyruk", "gaga"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q19",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Su donunca ___ olur.",
+      "options": ["duman", "çamur", "buz", "toz"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q20",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Buz erirse ___ olur.",
+      "options": ["taş", "kum", "kar", "su"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q21",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Yıldızlar ___ parlar.",
+      "options": ["geceleri", "öğlen", "sabah", "kahvaltıda"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q22",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Güneş ___ doğar.",
+      "options": ["gece", "sabah", "akşam", "öğlen"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q23",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Kırmızı ışıkta ___.",
+      "options": ["geçeriz", "koşarız", "dururuz", "döneriz"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q24",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Yeşil ışıkta ___.",
+      "options": ["dururuz", "bekleriz", "uyuruz", "geçeriz"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q25",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Fil çok ___ bir hayvandır.",
+      "options": ["büyük", "küçük", "minik", "ince"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q26",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Karınca çok ___ bir hayvandır.",
+      "options": ["kocaman", "küçük", "uzun", "şişman"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q27",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Meyveler ağaçta ___.",
+      "options": ["yüzer", "uçar", "yetişir", "koşar"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q28",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Kaplumbağa çok yavaş ___.",
+      "options": ["uçar", "koşar", "zıplar", "yürür"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q29",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Sıcak çorbayı ___ ile içeriz.",
+      "options": ["çatal", "kaşık", "bıçak", "tabak"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q30",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Balığın vücudu ___ ile kaplıdır.",
+      "options": ["tüy", "kıl", "pul", "yün"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q31",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Küçük kedi çok acıkmıştı. Mutfağa koştu. Annesi ona ___ verdi.",
+      "options": ["top", "kalem", "çorap", "mama"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q32",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Ayşe parka gitti. Salıncakta sallandı. Oynarken çok ___ oldu.",
+      "options": ["mutlu", "üzgün", "kızgın", "korkmuş"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q33",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Can'ın kalemi kırıldı. Yazı yazamadı. Kalemini ___ ile açtı.",
+      "options": ["silgi", "kalemtıraş", "cetvel", "defter"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q34",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Hava çok yağmurluydu. Zeynep dışarı çıkacaktı. Yanına ___ aldı.",
+      "options": ["top", "kitap", "şemsiye", "yastık"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q35",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Yusuf hastalandı. Ateşi çıktı. Annesi onu ___ götürdü.",
+      "options": ["markete", "sinemaya", "parka", "doktora"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q36",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Küçük kuş yuvasından düştü. Kanadı acıdı. Uçamadığı için çok ___ oldu.",
+      "options": ["üzgün", "mutlu", "neşeli", "şen"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q37",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Defne bahçede oynadı. Elleri çok kirlendi. Yemekten önce ellerini ___.",
+      "options": ["boyadı", "yıkadı", "sakladı", "salladı"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q38",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Kar yağıyordu. Çocuklar dışarı çıktı. Birlikte ___ yaptı.",
+      "options": ["uçurtma", "resim", "kardan adam", "kek"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q39",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Mehmet çok susamıştı. Mutfağa gitti. Bir bardak ___ içti.",
+      "options": ["ekmek", "elma", "peynir", "su"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q40",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Sonbahar geldi. Ağaçların yaprakları sarardı. Sonra hepsi yere ___.",
+      "options": ["döküldü", "büyüdü", "yeşerdi", "çoğaldı"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q41",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "İlkbahar geldi. Hava ısındı. Bahçedeki çiçekler ___.",
+      "options": ["soldu", "açtı", "dondu", "kurudu"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q42",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Arı çiçeğe kondu. Çiçek tozu topladı. Sonra kovanında ___ yaptı.",
+      "options": ["süt", "yumurta", "bal", "reçel"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q43",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Kaan denize girdi. Kollarını salladı. Denizde güzelce ___.",
+      "options": ["uçtu", "koştu", "tırmandı", "yüzdü"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q44",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Sabah oldu. Horoz öttü. Güneş yavaşça ___.",
+      "options": ["doğdu", "battı", "söndü", "kayboldu"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q45",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Akşam oldu. Hava karardı. Gökyüzünde ___ göründü.",
+      "options": ["güneş", "yıldızlar", "gökkuşağı", "kelebekler"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q46",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Selin'in kardeşi ağladı. Karnı acıkmıştı. Selin ona ___ verdi.",
+      "options": ["kalem", "taş", "yemek", "kitap"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o3q47",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Emir top oynarken düştü. Dizi kanadı. Annesi yarasına ___ yapıştırdı.",
+      "options": ["pul", "çıkartma", "kağıt", "yara bandı"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o3q48",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Naz kütüphaneye gitti. Rafları inceledi. Okumak için bir ___ seçti.",
+      "options": ["kitap", "top", "çatal", "yastık"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o3q49",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Arda çok yorgundu. Gözleri kapanıyordu. Uyumak için ___ gitti.",
+      "options": ["okula", "yatağa", "parka", "markete"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o3q50",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 3",
+      "question": "Sude tohumu toprağa ekti. Her gün su verdi. Birkaç gün sonra tohum ___.",
+      "options": ["uçtu", "eridi", "büyüdü", "kırıldı"],
+      "correctAnswer": 2
+    }
+  ]
+}

@@ -54,6 +54,7 @@ const OGRENME = {
   temalar: [
     { tema: 'Tema 1', baslik: 'Soru Kelimeleri', emoji: '❓', renk: '#6366F1', alt: 'Ne? Kim? Nerede? Ne zaman? Neden? Nasıl?' },
     { tema: 'Tema 2', baslik: 'Saat Okuma',      emoji: '🕐', renk: '#0EA5A5', alt: 'Tam, buçuk ve çeyrek saatler' },
+    { tema: 'Tema 3', baslik: 'Boşluk Doldurma', emoji: '✏️', renk: '#F59E0B', alt: 'Cümledeki boşluğu doğru kelimeyle tamamla' },
   ],
 };
 // Klasör/renk/emoji aramaları için birleşik liste (ana ders grid'i yalnız SUBJECTS kullanır).
