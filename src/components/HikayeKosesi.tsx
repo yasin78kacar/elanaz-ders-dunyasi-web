@@ -7,6 +7,56 @@ interface Hikaye { id: string; baslik: string; seviye: number; sayfalar: string[
 
 interface Props { onClose: () => void; }
 
+// --- Turkce ek uretimi (kaynastirma + unlu/unsuz uyumu) ---
+const UNLULER = 'aeıioöuü';
+const KALIN = 'aıou';       // arka unluler
+const SERT = 'fstkçşhp';    // sert (tonsuz) unsuzler -> unsuz benzesmesi
+const trLower = (c: string) => c.toLocaleLowerCase('tr-TR');
+const sonUnlu = (ad: string) => {
+  const a = trLower(ad);
+  for (let i = a.length - 1; i >= 0; i--) if (UNLULER.includes(a[i])) return a[i];
+  return 'a';
+};
+const sonHarf = (ad: string) => trLower(ad).slice(-1);
+const unluBiter = (ad: string) => UNLULER.includes(sonHarf(ad));
+const sertBiter = (ad: string) => SERT.includes(sonHarf(ad));
+// 4'lu buyuk unlu uyumu: I -> ı/i/u/ü
+const I4 = (sv: string) => ('aı'.includes(sv) ? 'ı' : 'ei'.includes(sv) ? 'i' : 'ou'.includes(sv) ? 'u' : 'ü');
+// 2'li kucuk unlu uyumu: A -> a/e
+const A2 = (sv: string) => (KALIN.includes(sv) ? 'a' : 'e');
+
+type EkTipi = 'yonelme' | 'tamlayan' | 'belirtme' | 'vasita' | 'ayrilma' | 'bildirme' | 'ikinci';
+
+const turkceEk = (ad: string, tip: EkTipi): string => {
+  const sv = sonUnlu(ad);
+  const seslimi = unluBiter(ad);
+  const sertmi = sertBiter(ad);
+  switch (tip) {
+    case 'yonelme':   // 'a  -> (y)A
+      return ad + "'" + (seslimi ? 'y' : '') + A2(sv);
+    case 'tamlayan':  // 'ın -> (n)In
+      return ad + "'" + (seslimi ? 'n' : '') + I4(sv) + 'n';
+    case 'belirtme':  // 'ı  -> (y)I
+      return ad + "'" + (seslimi ? 'y' : '') + I4(sv);
+    case 'vasita':    // 'la -> (y)lA
+      return ad + "'" + (seslimi ? 'y' : '') + 'l' + A2(sv);
+    case 'ayrilma':   // 'dan -> dAn/tAn (unsuz benzesmesi, kaynastirma yok)
+      return ad + "'" + (sertmi ? 't' : 'd') + A2(sv) + 'n';
+    case 'bildirme':  // 'dı -> (y)dI/tI
+      return ad + "'" + (seslimi ? 'y' : '') + (sertmi ? 't' : 'd') + I4(sv);
+    case 'ikinci':    // 'sın -> sIn (kaynastirma/benzesme yok)
+      return ad + "'" + 's' + I4(sv) + 'n';
+    default:
+      return ad;
+  }
+};
+
+// Metindeki kaynak ek yazimini gramer tipine esler (kaynak: Elanaz/KAHRAMAN)
+const EK_MAP: Record<string, EkTipi> = {
+  a: 'yonelme', 'ın': 'tamlayan', 'ı': 'belirtme', la: 'vasita',
+  dan: 'ayrilma', 'dı': 'bildirme', 'sın': 'ikinci',
+};
+
 const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   const [dil, setDil] = useState<'tr' | 'en'>('tr');
   const [hikayeler, setHikayeler] = useState<Hikaye[]>([]);
@@ -36,9 +86,16 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
   };
   const isimDegistir = (metin: string, id: string) => {
     const isim = hikayeIsmi(id);
-    return metin
-      .replace(/Elanaz'?/g, (m) => m.endsWith("'") ? isim + "'" : isim)
-      .replace(/KAHRAMAN'?/g, (m) => m.endsWith("'") ? isim + "'" : isim);
+    return metin.replace(
+      /(Elanaz|KAHRAMAN)(['’]([a-zA-ZçğıiöşüâîûÇĞİıÖŞÜ]*))?/g,
+      (_m, _base, apGrup, ek) => {
+        if (apGrup === undefined) return isim;              // eksiz kullanim
+        const s = (ek || '') as string;
+        const tip = EK_MAP[trLower(s)];
+        if (!tip) return isim + "'" + s;                    // taninmayan ek: dokunma
+        return turkceEk(isim, tip);
+      }
+    );
   };
   const [testModu, setTestModu] = useState(false);
   const [soruIndex, setSoruIndex] = useState(0);
