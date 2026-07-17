@@ -499,9 +499,41 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
     ) : null;
 
     return (
+      <>
+        <div className="magic-scene" aria-hidden="true">
+          <div className="ms-stars">
+            <i /><i /><i /><i /><i /><i /><i /><i /><i /><i /><i /><i />
+          </div>
+          <div className="ms-clouds">
+            <div className="ms-cloud ms-cloud-1">
+              <svg viewBox="0 0 160 70" width="160" height="70"><g fill="#ffffff"><ellipse cx="52" cy="44" rx="34" ry="22" /><ellipse cx="86" cy="38" rx="30" ry="26" /><ellipse cx="116" cy="46" rx="26" ry="18" /><rect x="40" y="44" width="86" height="20" rx="10" /></g></svg>
+            </div>
+            <div className="ms-cloud ms-cloud-2">
+              <svg viewBox="0 0 160 70" width="160" height="70"><g fill="#ffffff"><ellipse cx="52" cy="44" rx="34" ry="22" /><ellipse cx="86" cy="38" rx="30" ry="26" /><ellipse cx="116" cy="46" rx="26" ry="18" /><rect x="40" y="44" width="86" height="20" rx="10" /></g></svg>
+            </div>
+            <div className="ms-cloud ms-cloud-3">
+              <svg viewBox="0 0 160 70" width="160" height="70"><g fill="#ffffff"><ellipse cx="52" cy="44" rx="34" ry="22" /><ellipse cx="86" cy="38" rx="30" ry="26" /><ellipse cx="116" cy="46" rx="26" ry="18" /><rect x="40" y="44" width="86" height="20" rx="10" /></g></svg>
+            </div>
+            <div className="ms-cloud ms-cloud-4">
+              <svg viewBox="0 0 160 70" width="160" height="70"><g fill="#ffffff"><ellipse cx="52" cy="44" rx="34" ry="22" /><ellipse cx="86" cy="38" rx="30" ry="26" /><ellipse cx="116" cy="46" rx="26" ry="18" /><rect x="40" y="44" width="86" height="20" rx="10" /></g></svg>
+            </div>
+          </div>
+          <svg className="ms-hills" viewBox="0 0 1440 220" preserveAspectRatio="none" width="100%" height="220">
+            <path fill="#BFE0C2" d="M0 120 C 180 70 320 150 520 120 C 720 90 860 160 1080 120 C 1240 92 1360 140 1440 118 L1440 220 L0 220 Z" />
+            <path fill="#8FCB9B" d="M0 160 C 200 120 360 190 600 160 C 820 134 1000 196 1220 160 C 1330 142 1400 170 1440 158 L1440 220 L0 220 Z" />
+            <g fill="#6FB77E">
+              <path d="M120 175 l18 -46 l18 46 Z" /><path d="M150 180 l22 -56 l22 56 Z" />
+              <path d="M1230 178 l20 -50 l20 50 Z" /><path d="M1265 182 l16 -40 l16 40 Z" />
+              <path d="M660 182 l18 -44 l18 44 Z" /><path d="M690 186 l14 -34 l14 34 Z" />
+            </g>
+          </svg>
+        </div>
       <div className="qv-wrap">
         <div className="home-container">
           <header className="qv-hero">
+            <span className="hero-star hero-star-a" aria-hidden="true">✦</span>
+            <span className="hero-star hero-star-b" aria-hidden="true">✦</span>
+            <span className="hero-star hero-star-c" aria-hidden="true">✧</span>
             <h1 className="home-title">Ders Dünyası 🌈</h1>
             <p className="home-subtitle">Merhaba {profilAdi}! 👋 Dokun ve oyna!</p>
             <p className="home-soru-toplam" style={{ fontSize: '0.85rem', opacity: 0.8, margin: '2px 0 0' }}>{__TOTAL_QUESTIONS__} Soru</p>
@@ -580,6 +612,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
           </footer>
         </div>
       </div>
+      </>
     );
   }
 
