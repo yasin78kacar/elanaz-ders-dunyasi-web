@@ -502,7 +502,8 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
       <>
         <div className="magic-scene" aria-hidden="true">
           <div className="ms-stars">
-            <i /><i /><i /><i /><i /><i /><i /><i /><i /><i /><i /><i />
+            <i /><i /><i /><i /><i /><i /><i /><i /><i /><i />
+            <i /><i /><i /><i /><i /><i /><i /><i /><i /><i />
           </div>
           <div className="ms-clouds">
             <div className="ms-cloud ms-cloud-1">
@@ -517,7 +518,14 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
             <div className="ms-cloud ms-cloud-4">
               <svg viewBox="0 0 160 70" width="160" height="70"><g fill="#ffffff"><ellipse cx="52" cy="44" rx="34" ry="22" /><ellipse cx="86" cy="38" rx="30" ry="26" /><ellipse cx="116" cy="46" rx="26" ry="18" /><rect x="40" y="44" width="86" height="20" rx="10" /></g></svg>
             </div>
+            <div className="ms-cloud ms-cloud-5">
+              <svg viewBox="0 0 160 70" width="160" height="70"><g fill="#ffffff"><ellipse cx="52" cy="44" rx="34" ry="22" /><ellipse cx="86" cy="38" rx="30" ry="26" /><ellipse cx="116" cy="46" rx="26" ry="18" /><rect x="40" y="44" width="86" height="20" rx="10" /></g></svg>
+            </div>
+            <div className="ms-cloud ms-cloud-6">
+              <svg viewBox="0 0 160 70" width="160" height="70"><g fill="#ffffff"><ellipse cx="52" cy="44" rx="34" ry="22" /><ellipse cx="86" cy="38" rx="30" ry="26" /><ellipse cx="116" cy="46" rx="26" ry="18" /><rect x="40" y="44" width="86" height="20" rx="10" /></g></svg>
+            </div>
           </div>
+          <div className="ms-shooting" aria-hidden="true"><span /></div>
           <svg className="ms-hills" viewBox="0 0 1440 220" preserveAspectRatio="none" width="100%" height="220">
             <path fill="#BFE0C2" d="M0 120 C 180 70 320 150 520 120 C 720 90 860 160 1080 120 C 1240 92 1360 140 1440 118 L1440 220 L0 220 Z" />
             <path fill="#8FCB9B" d="M0 160 C 200 120 360 190 600 160 C 820 134 1000 196 1220 160 C 1330 142 1400 170 1440 158 L1440 220 L0 220 Z" />
