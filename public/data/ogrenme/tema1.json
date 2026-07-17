@@ -1,0 +1,1031 @@
+{
+  "questions": [
+    {
+      "id": "o1q01",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ali sabah parka koştu. Parkta arkadaşı Can ile top oynadı. İkisi de çok eğlendi. Ali parka NE ZAMAN koştu?",
+      "options": [
+        "Kışın",
+        "Tatilde",
+        "Sabahları",
+        "Sabah"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q02",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ali sabah parka koştu. Parkta arkadaşı Can ile top oynadı. İkisi de çok eğlendi. Ali ile Can NEREDE top oynadı?",
+      "options": [
+        "Parkta",
+        "Evde",
+        "Markette",
+        "Balkonda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q03",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ali sabah parka koştu. Parkta arkadaşı Can ile top oynadı. İkisi de çok eğlendi. Ali ile Can parkta NE oynadı?",
+      "options": [
+        "Süt",
+        "Gözleme",
+        "Kale",
+        "Top"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q04",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Elif kahvaltıda süt içti. Annesi ona peynir de verdi. Sonra Elif çantasını hazırladı. Elif kahvaltıda NE içti?",
+      "options": [
+        "Defter",
+        "Süt",
+        "Kalem",
+        "Elma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q05",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Elif kahvaltıda süt içti. Annesi ona peynir de verdi. Sonra Elif çantasını hazırladı. Elif'e peyniri KİM verdi?",
+      "options": [
+        "Zeynep",
+        "Ayşe",
+        "Mehmet",
+        "Annesi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q06",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Mehmet'in sevimli bir köpeği var. Köpek bahçede topun peşinden koştu. Mehmet gülerek onu izledi. Köpek topun peşinden NEREDE koştu?",
+      "options": [
+        "Kütüphanede",
+        "Bahçede",
+        "Salonda",
+        "Evde"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q07",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Mehmet'in sevimli bir köpeği var. Köpek bahçede topun peşinden koştu. Mehmet gülerek onu izledi. Mehmet köpeğini NASIL izledi?",
+      "options": [
+        "Yavaşça",
+        "Sevinçle",
+        "Tek tek",
+        "Gülerek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q08",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ayşe akşam annesine mutfakta yardım etti. Birlikte salata yaptılar. Ayşe domatesleri yıkadı. Ayşe annesine NE ZAMAN yardım etti?",
+      "options": [
+        "Dün",
+        "Akşam",
+        "Öğleden sonra",
+        "Gece"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q09",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ayşe akşam annesine mutfakta yardım etti. Birlikte salata yaptılar. Ayşe domatesleri yıkadı. Ayşe annesine NEREDE yardım etti?",
+      "options": [
+        "Kütüphanede",
+        "Mutfakta",
+        "Okulda",
+        "Ormanda"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q10",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ayşe akşam annesine mutfakta yardım etti. Birlikte salata yaptılar. Ayşe domatesleri yıkadı. Ayşe ile annesi salatayı NASIL yaptı?",
+      "options": [
+        "Neşeyle",
+        "Yavaşça",
+        "Gülerek",
+        "Birlikte"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q11",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Dışarıda yağmur yağıyordu. Zeynep üşüdüğü için kalın montunu giydi. Sonra şemsiyesini aldı. Zeynep montunu NEDEN giydi?",
+      "options": [
+        "Yorulduğu için",
+        "Kardeşini güldürmek için",
+        "Canı sıkıldığı için",
+        "Üşüdüğü için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q12",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Dışarıda yağmur yağıyordu. Zeynep üşüdüğü için kalın montunu giydi. Sonra şemsiyesini aldı. Zeynep yağmurda yanına NE aldı?",
+      "options": [
+        "Şemsiye",
+        "Balon",
+        "Su",
+        "Gözleme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q13",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Bugün Efe'nin doğum günü. Arkadaşları ona renkli balonlar aldı. Efe çok sevindi. Efe'ye balonları KİM aldı?",
+      "options": [
+        "Mert",
+        "Komşusu",
+        "Arkadaşları",
+        "Ayşe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q14",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Bugün Efe'nin doğum günü. Arkadaşları ona renkli balonlar aldı. Efe çok sevindi. Arkadaşları Efe'ye NE aldı?",
+      "options": [
+        "Bardak",
+        "Armut",
+        "Balon",
+        "Ekmek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q15",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Bugün Efe'nin doğum günü. Arkadaşları ona renkli balonlar aldı. Efe çok sevindi. Arkadaşları NEDEN balon aldı?",
+      "options": [
+        "Canı sıkıldığı için",
+        "Kuşa yardım etmek için",
+        "Doğum günü olduğu için",
+        "Hava yağmurlu olduğu için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q16",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Poyraz kütüphanede sessizce resim çizdi. Yanında küçük kardeşi oturuyordu. Odada hiç ses yoktu. Poyraz NEREDE resim çizdi?",
+      "options": [
+        "Bahçede",
+        "Salonda",
+        "Balkonda",
+        "Kütüphanede"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q17",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Poyraz kütüphanede sessizce resim çizdi. Yanında küçük kardeşi oturuyordu. Odada hiç ses yoktu. Poyraz resmini NASIL çizdi?",
+      "options": [
+        "Sessizce",
+        "Koşarak",
+        "Birlikte",
+        "Tek tek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q18",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Poyraz kütüphanede sessizce resim çizdi. Yanında küçük kardeşi oturuyordu. Odada hiç ses yoktu. Poyraz'ın yanında KİM oturuyordu?",
+      "options": [
+        "Ninem",
+        "Ali",
+        "Ayşe",
+        "Kardeşi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q19",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Tatilde ailemiz denize gezmeye çıktı. Ben kumdan kale yaptım. Deniz çok maviydi. Ailemiz denize NE ZAMAN gezmeye çıktı?",
+      "options": [
+        "Tatilde",
+        "Gece",
+        "Okuldan sonra",
+        "Kışın"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q20",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Tatilde ailemiz denize gezmeye çıktı. Ben kumdan kale yaptım. Deniz çok maviydi. Ben kumdan NE yaptım?",
+      "options": [
+        "Ekmek",
+        "Çiçek",
+        "Kale",
+        "Armut"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q21",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Öğretmenimiz sınıfta yeni bir masal okudu. Biz dikkatlice dinledik. Masal çok güzeldi. Sınıfta masalı KİM okudu?",
+      "options": [
+        "Ablası",
+        "Öğretmenimiz",
+        "Ayşe",
+        "Arkadaşları"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q22",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Öğretmenimiz sınıfta yeni bir masal okudu. Biz dikkatlice dinledik. Masal çok güzeldi. Masal NEREDE okundu?",
+      "options": [
+        "Evde",
+        "Markette",
+        "Denizde",
+        "Sınıfta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q23",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Öğretmenimiz sınıfta yeni bir masal okudu. Biz dikkatlice dinledik. Masal çok güzeldi. Biz masalı NASIL dinledik?",
+      "options": [
+        "Neşeyle",
+        "Birlikte",
+        "Dikkatlice",
+        "Mutlulukla"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q24",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Babam öğleden sonra markete uğradı. Markette taze ekmek aldı. Sonra eve döndü. Babam markete NE ZAMAN uğradı?",
+      "options": [
+        "Sabahları",
+        "Okuldan sonra",
+        "Tatilde",
+        "Öğleden sonra"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q25",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Babam öğleden sonra markete uğradı. Markette taze ekmek aldı. Sonra eve döndü. Babam ekmeği NEREDE aldı?",
+      "options": [
+        "Salonda",
+        "Markette",
+        "Okulda",
+        "Sınıfta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q26",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Babam öğleden sonra markete uğradı. Markette taze ekmek aldı. Sonra eve döndü. Babam markette NE aldı?",
+      "options": [
+        "Su",
+        "Şapka",
+        "Ekmek",
+        "Armut"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q27",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Dedem sabah bahçede çiçekleri suladı. Kırmızı güller çok güzel açmıştı. Dedem mutlu oldu. Bahçede çiçekleri KİM suladı?",
+      "options": [
+        "Zeynep",
+        "Dedem",
+        "Komşusu",
+        "Kardeşi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q28",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Dedem sabah bahçede çiçekleri suladı. Kırmızı güller çok güzel açmıştı. Dedem mutlu oldu. Dedem çiçekleri NE ZAMAN suladı?",
+      "options": [
+        "Sabah",
+        "Dün",
+        "Kahvaltıda",
+        "Gece"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q29",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Dedem sabah bahçede çiçekleri suladı. Kırmızı güller çok güzel açmıştı. Dedem mutlu oldu. Dedem çiçekleri NEREDE suladı?",
+      "options": [
+        "Evde",
+        "Bahçede",
+        "Ormanda",
+        "Denizde"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q30",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Kedimiz bütün gün salonda uyudu. Akşam acıkınca miyavladı. Ona mama verdik. Kedimiz NEREDE uyudu?",
+      "options": [
+        "Denizde",
+        "Salonda",
+        "Okulda",
+        "Parkta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q31",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Kedimiz bütün gün salonda uyudu. Akşam acıkınca miyavladı. Ona mama verdik. Kedi akşam NEDEN miyavladı?",
+      "options": [
+        "Arkadaşını özlediği için",
+        "Yorulduğu için",
+        "Acıktığı için",
+        "Susadığı için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q32",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Kedimiz bütün gün salonda uyudu. Akşam acıkınca miyavladı. Ona mama verdik. Kedi NE ZAMAN miyavladı?",
+      "options": [
+        "Akşam",
+        "Öğlen",
+        "Okuldan sonra",
+        "Gece"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q33",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Öğrenciler bahçede oynuyordu. Yağmur başlayınca hızlıca sınıfa koştular. İçeride oyunlarına devam ettiler. Öğrenciler sınıfa NASIL koştu?",
+      "options": [
+        "Hızlıca",
+        "Sevinçle",
+        "Neşeyle",
+        "Tek tek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q34",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Öğrenciler bahçede oynuyordu. Yağmur başlayınca hızlıca sınıfa koştular. İçeride oyunlarına devam ettiler. Öğrenciler NEDEN sınıfa koştu?",
+      "options": [
+        "Acıktığı için",
+        "Susadığı için",
+        "Hava yağmurlu olduğu için",
+        "Doğum günü olduğu için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q35",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ece okuldan sonra evde resim çizdi. Bir ağaç ve iki kuş boyadı. Resmini duvara astı. Ece resmi NE ZAMAN çizdi?",
+      "options": [
+        "Öğlen",
+        "Akşam",
+        "Okuldan sonra",
+        "Gece"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q36",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ece okuldan sonra evde resim çizdi. Bir ağaç ve iki kuş boyadı. Resmini duvara astı. Ece resmi NEREDE çizdi?",
+      "options": [
+        "Balkonda",
+        "Mutfakta",
+        "Evde",
+        "Kütüphanede"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q37",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Küçük kardeşi ağlıyordu. Ayşe onu güldürmek için komik bir yüz yaptı. Kardeşi hemen güldü. Ayşe NEDEN komik bir yüz yaptı?",
+      "options": [
+        "Kuşa yardım etmek için",
+        "Canı sıkıldığı için",
+        "Hava yağmurlu olduğu için",
+        "Kardeşini güldürmek için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q38",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Küçük kardeşi ağlıyordu. Ayşe onu güldürmek için komik bir yüz yaptı. Kardeşi hemen güldü. Kardeşe komik yüz yapan KİM?",
+      "options": [
+        "Ayşe",
+        "Ninem",
+        "Ece",
+        "Teyzesi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q39",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ormanda küçük bir tavşan yaşıyordu. Tavşan sabahları havuç yerdi. Bir gün yeni bir arkadaş buldu. Tavşan sabahları NE yerdi?",
+      "options": [
+        "Süt",
+        "Havuç",
+        "Şapka",
+        "Kalem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q40",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ormanda küçük bir tavşan yaşıyordu. Tavşan sabahları havuç yerdi. Bir gün yeni bir arkadaş buldu. Tavşan havucu NE ZAMAN yerdi?",
+      "options": [
+        "Sabahları",
+        "Akşam",
+        "Dün",
+        "Öğleden sonra"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q41",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Sınıfça güzel bir şarkı söyledik. Herkes neşeyle el çırptı. Öğretmenimiz bizi çok beğendi. Öğrenciler NASIL el çırptı?",
+      "options": [
+        "Yüksek sesle",
+        "Dikkatlice",
+        "Neşeyle",
+        "Koşarak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q42",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Mehmet uzun süre koştu. Çok susadığı için mutfağa uğradı. Mutfakta soğuk bir bardak su içti. Mehmet mutfağa NEDEN uğradı?",
+      "options": [
+        "Arkadaşını özlediği için",
+        "Sevindiği için",
+        "Susadığı için",
+        "Canı sıkıldığı için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q43",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Mehmet uzun süre koştu. Çok susadığı için mutfağa uğradı. Mutfakta soğuk bir bardak su içti. Mehmet mutfakta NE içti?",
+      "options": [
+        "Su",
+        "Havuç",
+        "Kalem",
+        "Çiçek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q44",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Mehmet uzun süre koştu. Çok susadığı için mutfağa uğradı. Mutfakta soğuk bir bardak su içti. Mehmet suyu NEREDE içti?",
+      "options": [
+        "Kütüphanede",
+        "Markette",
+        "Sınıfta",
+        "Mutfakta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q45",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Kışın çok kar yağdı. Çocuklar bahçede kardan adam yaptı. Elleri üşüdü ama çok eğlendiler. Çocuklar kardan adamı NE ZAMAN yaptı?",
+      "options": [
+        "Kahvaltıda",
+        "Tatilde",
+        "Kışın",
+        "Öğleden sonra"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q46",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Kışın çok kar yağdı. Çocuklar bahçede kardan adam yaptı. Elleri üşüdü ama çok eğlendiler. Çocuklar kardan adamı NEREDE yaptı?",
+      "options": [
+        "Sınıfta",
+        "Bahçede",
+        "Ormanda",
+        "Mutfakta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q47",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ninem öğlen bize gözleme yaptı. Mutfaktan güzel bir koku geldi. Hepimiz sofraya oturduk. Öğlen gözlemeyi KİM yaptı?",
+      "options": [
+        "Ablası",
+        "Ninem",
+        "Defne",
+        "Kardeşi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q48",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ninem öğlen bize gözleme yaptı. Mutfaktan güzel bir koku geldi. Hepimiz sofraya oturduk. Ninem gözlemeyi NE ZAMAN yaptı?",
+      "options": [
+        "Kışın",
+        "Gece",
+        "Öğlen",
+        "Tatilde"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q49",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ninem öğlen bize gözleme yaptı. Mutfaktan güzel bir koku geldi. Hepimiz sofraya oturduk. Ninem bize NE yaptı?",
+      "options": [
+        "Havuç",
+        "Armut",
+        "Gözleme",
+        "Muz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q50",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Defne ile Mert yapbozu birlikte yaptı. Parçaları tek tek yerleştirdiler. Sonunda güzel bir resim çıktı. Defne ile Mert yapbozu NASIL yaptı?",
+      "options": [
+        "Neşeyle",
+        "Dikkatlice",
+        "Hızlıca",
+        "Birlikte"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q51",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Defne ile Mert yapbozu birlikte yaptı. Parçaları tek tek yerleştirdiler. Sonunda güzel bir resim çıktı. Defne yapbozu KİMİNLE yaptı?",
+      "options": [
+        "Efe",
+        "Mert",
+        "Mehmet",
+        "Öğretmenimiz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q52",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Poyraz sınavdan yüksek not aldı. Çok sevindiği için mutlulukla zıpladı. Ailesi onu kutladı. Poyraz NEDEN zıpladı?",
+      "options": [
+        "Doğum günü olduğu için",
+        "Susadığı için",
+        "Yorulduğu için",
+        "Sevindiği için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q53",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Poyraz sınavdan yüksek not aldı. Çok sevindiği için mutlulukla zıpladı. Ailesi onu kutladı. Poyraz NASIL zıpladı?",
+      "options": [
+        "Gülerek",
+        "Mutlulukla",
+        "Neşeyle",
+        "Tek tek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q54",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Küçük kuş yuvasından düştü. Ali ona yardım etmek için koştu. Kuşu yuvasına geri koydu. Kuşa yardım eden KİM?",
+      "options": [
+        "Arkadaşları",
+        "Ali",
+        "Zeynep",
+        "Ablası"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q55",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Küçük kuş yuvasından düştü. Ali ona yardım etmek için koştu. Kuşu yuvasına geri koydu. Ali NEDEN koştu?",
+      "options": [
+        "Arkadaşını özlediği için",
+        "Kuşa yardım etmek için",
+        "Doğum günü olduğu için",
+        "Üşüdüğü için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q56",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ali topu BAHÇEDE oynadı. 'Bahçede' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nasıl oynadı?",
+        "Ne oynadı?",
+        "Nerede oynadı?",
+        "Neden oynadı?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q57",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Zeynep resmini SINIFTA çizdi. 'Sınıfta' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nerede çizdi?",
+        "Neden çizdi?",
+        "Ne zaman çizdi?",
+        "Nasıl çizdi?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q58",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Dedem çiçekleri BALKONDA suladı. 'Balkonda' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Kim suladı?",
+        "Ne suladı?",
+        "Nerede suladı?",
+        "Ne zaman suladı?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q59",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Kedi MUTFAKTA uyudu. 'Mutfakta' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Kim uyudu?",
+        "Neden uyudu?",
+        "Nerede uyudu?",
+        "Ne zaman uyudu?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q60",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Elif ödevini AKŞAM yaptı. 'Akşam' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Kim yaptı?",
+        "Ne zaman yaptı?",
+        "Ne yaptı?",
+        "Neden yaptı?"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q61",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ailem tatile YAZIN çıktı. 'Yazın' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nerede çıktı?",
+        "Neden çıktı?",
+        "Ne zaman çıktı?",
+        "Kim çıktı?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q62",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Babam SABAH gazete okudu. 'Sabah' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nasıl okudu?",
+        "Neden okudu?",
+        "Ne zaman okudu?",
+        "Nerede okudu?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q63",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Maç HAFTA SONU başladı. 'Hafta sonu' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Ne zaman başladı?",
+        "Nerede başladı?",
+        "Neden başladı?",
+        "Ne başladı?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q64",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Bulaşıkları ANNEM yıkadı. 'Annem' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Ne zaman yıkadı?",
+        "Nasıl yıkadı?",
+        "Kim yıkadı?",
+        "Nerede yıkadı?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q65",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Bahçeyi DEDEM suladı. 'Dedem' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Kim suladı?",
+        "Ne zaman suladı?",
+        "Nasıl suladı?",
+        "Ne suladı?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q66",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Resmi ELİF çizdi. 'Elif' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Neden çizdi?",
+        "Ne çizdi?",
+        "Ne zaman çizdi?",
+        "Kim çizdi?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q67",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Topu ALİ attı. 'Ali' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Neden attı?",
+        "Nerede attı?",
+        "Kim attı?",
+        "Ne zaman attı?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q68",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ayşe ÜŞÜDÜĞÜ İÇİN montunu giydi. 'Üşüdüğü için' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Ne zaman giydi?",
+        "Nerede giydi?",
+        "Nasıl giydi?",
+        "Neden giydi?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q69",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Mehmet ACIKTIĞI İÇİN elma yedi. 'Acıktığı için' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Ne zaman yedi?",
+        "Nasıl yedi?",
+        "Neden yedi?",
+        "Nerede yedi?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q70",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Çocuk YORULDUĞU İÇİN oturdu. 'Yorulduğu için' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nasıl oturdu?",
+        "Ne zaman oturdu?",
+        "Neden oturdu?",
+        "Kim oturdu?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q71",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Elif SUSADIĞI İÇİN su içti. 'Susadığı için' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Ne zaman içti?",
+        "Nasıl içti?",
+        "Nerede içti?",
+        "Neden içti?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q72",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Kaplumbağa YAVAŞÇA yürüdü. 'Yavaşça' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nasıl yürüdü?",
+        "Neden yürüdü?",
+        "Ne yürüdü?",
+        "Kim yürüdü?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o1q73",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Çocuklar NEŞEYLE şarkı söyledi. 'Neşeyle' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Ne söyledi?",
+        "Nerede söyledi?",
+        "Nasıl söyledi?",
+        "Kim söyledi?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q74",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ali ödevini DİKKATLİCE yaptı. 'Dikkatlice' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Ne zaman yaptı?",
+        "Kim yaptı?",
+        "Nerede yaptı?",
+        "Nasıl yaptı?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q75",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Tavşan HIZLICA zıpladı. 'Hızlıca' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Kim zıpladı?",
+        "Nerede zıpladı?",
+        "Nasıl zıpladı?",
+        "Ne zaman zıpladı?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q76",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Elif kahvaltıda SÜT içti. 'Süt' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Ne zaman içti?",
+        "Neden içti?",
+        "Ne içti?",
+        "Nerede içti?"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o1q77",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Mehmet bahçede TOP oynadı. 'Top' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nasıl oynadı?",
+        "Neden oynadı?",
+        "Ne zaman oynadı?",
+        "Ne oynadı?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o1q78",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Ayşe çantasına DEFTER koydu. 'Defter' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nerede koydu?",
+        "Ne koydu?",
+        "Ne zaman koydu?",
+        "Nasıl koydu?"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o1q79",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 1",
+      "question": "Dede sepete ELMA topladı. 'Elma' cevabını almak için hangi soruyu sorarız?",
+      "options": [
+        "Nasıl topladı?",
+        "Nerede topladı?",
+        "Ne topladı?",
+        "Kim topladı?"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

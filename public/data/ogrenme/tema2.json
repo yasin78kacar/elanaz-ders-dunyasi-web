@@ -1,0 +1,937 @@
+{
+  "questions": [
+    {
+      "id": "o2q01",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "8:00",
+        "10:00",
+        "6:00",
+        "1:00"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 1,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q02",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "2:00",
+        "4:00",
+        "6:00",
+        "12:00"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 2,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q03",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "7:00",
+        "1:00",
+        "3:00",
+        "4:00"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 3,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q04",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "2:00",
+        "11:00",
+        "7:00",
+        "4:00"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 4,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q05",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "11:00",
+        "8:00",
+        "5:00",
+        "10:00"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 5,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q06",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "3:00",
+        "8:00",
+        "6:00",
+        "2:00"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 6,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q07",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "5:00",
+        "3:00",
+        "7:00",
+        "9:00"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 7,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q08",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "4:00",
+        "11:00",
+        "1:00",
+        "8:00"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 8,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q09",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "1:00",
+        "10:00",
+        "8:00",
+        "9:00"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 9,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q10",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "6:00",
+        "3:00",
+        "2:00",
+        "10:00"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 10,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q11",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "5:00",
+        "11:00",
+        "4:00",
+        "6:00"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 11,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q12",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "5:00",
+        "10:00",
+        "9:00",
+        "12:00"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 12,
+        "minute": 0
+      }
+    },
+    {
+      "id": "o2q13",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "12:30",
+        "3:30",
+        "7:00",
+        "1:30"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 1,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q14",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "2:00",
+        "3:00",
+        "5:00",
+        "2:30"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 2,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q15",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "3:30",
+        "8:30",
+        "11:00",
+        "2:30"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 3,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q16",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "4:00",
+        "4:30",
+        "1:00",
+        "6:00"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 4,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q17",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "5:30",
+        "7:30",
+        "12:30",
+        "1:30"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 5,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q18",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "9:00",
+        "10:30",
+        "7:30",
+        "6:30"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 6,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q19",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "3:30",
+        "7:30",
+        "11:00",
+        "3:00"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 7,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q20",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "8:30",
+        "1:00",
+        "5:30",
+        "3:30"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 8,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q21",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "4:00",
+        "9:30",
+        "12:00",
+        "2:00"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 9,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q22",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "6:30",
+        "11:00",
+        "10:30",
+        "9:30"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 10,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q23",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "10:30",
+        "7:00",
+        "11:30",
+        "6:00"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 11,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q24",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "10:30",
+        "4:30",
+        "12:30",
+        "3:30"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 12,
+        "minute": 30
+      }
+    },
+    {
+      "id": "o2q25",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "4:00",
+        "1:45",
+        "11:45",
+        "1:15"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 1,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q26",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "2:15",
+        "1:00",
+        "4:00",
+        "8:00"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 2,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q27",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "12:15",
+        "8:15",
+        "12:45",
+        "3:15"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 3,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q28",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "2:00",
+        "6:45",
+        "4:15",
+        "4:45"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 4,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q29",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "5:15",
+        "10:00",
+        "9:45",
+        "3:00"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 5,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q30",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "10:30",
+        "6:15",
+        "7:15",
+        "2:00"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 6,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q31",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "6:45",
+        "7:15",
+        "4:45",
+        "9:30"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 7,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q32",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "10:45",
+        "11:30",
+        "10:15",
+        "8:15"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 8,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q33",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "9:15",
+        "4:30",
+        "5:45",
+        "12:30"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 9,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q34",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "10:15",
+        "2:15",
+        "5:00",
+        "3:45"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 10,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q35",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "2:15",
+        "11:15",
+        "4:30",
+        "8:15"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 11,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q36",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "2:00",
+        "12:15",
+        "11:30",
+        "9:00"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 12,
+        "minute": 15
+      }
+    },
+    {
+      "id": "o2q37",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "3:00",
+        "10:15",
+        "3:30",
+        "1:45"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 1,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q38",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "12:15",
+        "1:30",
+        "12:30",
+        "2:45"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 2,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q39",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "8:15",
+        "11:30",
+        "1:00",
+        "3:45"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 3,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q40",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "9:00",
+        "3:15",
+        "4:45",
+        "1:45"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 4,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q41",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "7:15",
+        "6:45",
+        "1:30",
+        "5:45"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 5,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q42",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "6:30",
+        "6:45",
+        "6:00",
+        "9:00"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 6,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q43",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "7:45",
+        "3:30",
+        "10:30",
+        "12:30"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 7,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q44",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "12:45",
+        "3:00",
+        "8:45",
+        "11:15"
+      ],
+      "correctAnswer": 2,
+      "clock": {
+        "hour": 8,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q45",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "1:00",
+        "9:45",
+        "8:15",
+        "12:15"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 9,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q46",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "10:45",
+        "6:15",
+        "10:00",
+        "3:00"
+      ],
+      "correctAnswer": 0,
+      "clock": {
+        "hour": 10,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q47",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "7:45",
+        "8:00",
+        "11:30",
+        "11:45"
+      ],
+      "correctAnswer": 3,
+      "clock": {
+        "hour": 11,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q48",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saat kaçı gösteriyor?",
+      "options": [
+        "10:45",
+        "12:45",
+        "5:45",
+        "8:45"
+      ],
+      "correctAnswer": 1,
+      "clock": {
+        "hour": 12,
+        "minute": 45
+      }
+    },
+    {
+      "id": "o2q49",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Yelkovan 12'yi, akrep bir sayıyı tam gösterirse saat nasıldır?",
+      "options": [
+        "Çeyrek kala",
+        "Buçuk",
+        "Tam saat",
+        "Çeyrek geçe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o2q50",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Yelkovan 6'yı gösterdiğinde saate ne deriz?",
+      "options": [
+        "Buçuk",
+        "Tam saat",
+        "Çeyrek kala",
+        "Çeyrek geçe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o2q51",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Yelkovan 3'ü gösterdiğinde saate ne deriz?",
+      "options": [
+        "Buçuk",
+        "Çeyrek geçe",
+        "Tam saat",
+        "Çeyrek kala"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "o2q52",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Yelkovan 9'u gösterdiğinde saate ne deriz?",
+      "options": [
+        "Çeyrek geçe",
+        "Buçuk",
+        "Çeyrek kala",
+        "Tam saat"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o2q53",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Bir saat kaç dakikadır?",
+      "options": [
+        "24",
+        "30",
+        "60",
+        "100"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "o2q54",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Yarım saat kaç dakikadır?",
+      "options": [
+        "60",
+        "15",
+        "45",
+        "30"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o2q55",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Çeyrek saat kaç dakikadır?",
+      "options": [
+        "15",
+        "20",
+        "30",
+        "45"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "o2q56",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saatteki kısa ibreye ne denir?",
+      "options": [
+        "Yelkovan",
+        "Sarkaç",
+        "Kordon",
+        "Akrep"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "o2q57",
+      "subject": "Öğrenme Köşesi",
+      "theme": "Tema 2",
+      "question": "Saatteki uzun ibreye ne denir?",
+      "options": [
+        "Akrep",
+        "Zil",
+        "Yelkovan",
+        "Sarkaç"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

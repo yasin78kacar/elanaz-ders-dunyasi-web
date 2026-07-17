@@ -81,6 +81,16 @@ function isValidQuestion(q) {
   const templatePattern = /^\(?(Konu|Soru|Tema|Madde)\s+\d+\)?[:\.\s]*$/i;
   if (templatePattern.test(text.replace(/[^a-zA-ZğüşıöçĞÜŞİÖÇ0-9\s]/g, "").trim())) return false;
 
+  // Görsel analog saat sorusu: clock alanı varsa, işaretli doğru şık clock'un
+  // gösterdiği saatle programatik eşleşmeli (elle yazılan cevaba güvenilmez).
+  if (q.clock && typeof q.clock === "object") {
+    const h = q.clock.hour, m = q.clock.minute;
+    if (typeof h !== "number" || typeof m !== "number") return false;
+    if (h < 1 || h > 12 || m < 0 || m > 59) return false;
+    const derived = `${h}:${m < 10 ? "0" + m : "" + m}`;
+    if (String(opts[ca]).trim() !== derived) return false;
+  }
+
   return true;
 }
 
@@ -106,16 +116,18 @@ function cleanFile(folder, filename) {
   const seenNormTexts = new Set();
   
   const unique = valid.filter(q => {
-    const rawText = q.question.trim();
+    // Saat sorularında aynı metin farklı clock => farklı soru; anahtara clock katılır
+    const clockSig = q.clock ? `|c${q.clock.hour}:${q.clock.minute}` : "";
+    const rawText = q.question.trim() + clockSig;
     // Normalize: küçük harf, fazla boşluk kaldır, noktalama normalize et
-    const normText = rawText
+    const normText = q.question.trim()
       .toLowerCase()
       .replace(/\s+/g, " ")
       .replace(/[.!?,;:'"()]/g, "")
       .replace(/\(soru \d+\)/gi, "")
       .replace(/\(konu \d+\)/gi, "")
       .replace(/\(tema \d+\)/gi, "")
-      .trim();
+      .trim() + clockSig;
 
     // Tamamen aynı ham metin
     if (seenTexts.has(rawText)) return false;
@@ -138,7 +150,7 @@ function cleanFile(folder, filename) {
 
 // ─── Tüm dosyaları tara ───────────────────────────────────────────────────
 function runQC() {
-  const subjects = ["math", "turkce", "fen", "hayat", "english"];
+  const subjects = ["math", "turkce", "fen", "hayat", "english", "ogrenme"];
   const stats = { totalBefore: 0, totalAfter: 0, removed: 0 };
   
   console.log("\n🔍 Kalite Kontrolü Başlıyor...\n");
@@ -183,7 +195,7 @@ function runQC() {
 
 // ─── Ek: Cross-file duplicate kontrolü (farklı tema dosyalarında aynı soru) ─
 function crossFileCheck() {
-  const subjects = ["math", "turkce", "fen", "hayat", "english"];
+  const subjects = ["math", "turkce", "fen", "hayat", "english", "ogrenme"];
   let crossDupes = 0;
   
   console.log("🔍 Çapraz dosya kopya kontrolü...\n");
@@ -213,7 +225,7 @@ function crossFileCheck() {
       let dupes = 0;
 
       for (const q of questions) {
-        const norm = q.question.toLowerCase().replace(/\s+/g, " ").replace(/[.!?,;:'"()]/g, "").replace(/\(soru \d+\)/gi, "").replace(/\(konu \d+\)/gi, "").trim();
+        const norm = q.question.toLowerCase().replace(/\s+/g, " ").replace(/[.!?,;:'"()]/g, "").replace(/\(soru \d+\)/gi, "").replace(/\(konu \d+\)/gi, "").trim() + (q.clock ? `|c${q.clock.hour}:${q.clock.minute}` : "");
         if (globalTexts.has(norm)) {
           dupes++;
           crossDupes++;
@@ -243,7 +255,7 @@ crossFileCheck();
 
 // Final count
 let grand = 0;
-const subjects = ["math", "turkce", "fen", "hayat", "english"];
+const subjects = ["math", "turkce", "fen", "hayat", "english", "ogrenme"];
 console.log("📈 FINAL SAYIM:\n");
 for (const s of subjects) {
   let sub = 0;

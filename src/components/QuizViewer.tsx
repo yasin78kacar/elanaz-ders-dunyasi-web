@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback, useRef, memo } from 'react';
 import '../styles/QuizViewer.css';
+import AnalogClock from './AnalogClock';
 
 interface Question {
   id: string;
@@ -9,6 +10,7 @@ interface Question {
   options: string[];
   correctAnswer: number;
   image?: string;
+  clock?: { hour: number; minute: number };
 }
 
 interface QuizResult {
@@ -42,9 +44,66 @@ const SUBJECTS = [
   { label: 'İngilizce',     folder: 'english', emoji: '🌟', color: '#FFEAA7' },
 ];
 
+// "Öğrenme Köşesi" — mevcut ders sistemine dahil DEĞİL (ana derslerde görünmez),
+// ama AYNI soru şeması ve AYNI yükleme mekanizmasını (./data/{folder}/tema{N}.json) kullanır.
+const OGRENME = {
+  label: 'Öğrenme Köşesi',
+  folder: 'ogrenme',
+  emoji: '🧠',
+  color: '#0EA5A5',
+  temalar: [
+    { tema: 'Tema 1', baslik: 'Soru Kelimeleri', emoji: '❓', renk: '#6366F1', alt: 'Ne? Kim? Nerede? Ne zaman? Neden? Nasıl?' },
+    { tema: 'Tema 2', baslik: 'Saat Okuma',      emoji: '🕐', renk: '#0EA5A5', alt: 'Tam, buçuk ve çeyrek saatler' },
+  ],
+};
+// Klasör/renk/emoji aramaları için birleşik liste (ana ders grid'i yalnız SUBJECTS kullanır).
+const ALL_SUBJECTS = [...SUBJECTS, OGRENME];
+
 const THEMES = Array.from({ length: 10 }, (_, i) => `Tema ${i + 1}`);
 const OPTION_LABELS = ['A', 'B', 'C', 'D'];
 const EMOJI = ['🦁','🌟','🦋','🚀','🌈','🐬','🦄','🍀'];
+
+// Yerinde (in-place) Fisher-Yates karıştırma.
+function fisherYates<T>(arr: T[]): void {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+}
+
+// Tema 2 (Saat Okuma): blok SIRASINI koruyarak yalnızca her bloğun İÇİNDE karıştır.
+// Bloklar clock.minute ile ayrılır (tam=0 → buçuk=30 → çeyrek:15 → çeyrek:45).
+// Kavram soruları (clock alanı olmayanlar) her zaman en sonda kalır.
+const SAAT_BLOK_SIRASI = [0, 30, 15, 45];
+function saatBloklariniKaristir(questions: Question[]): Question[] {
+  const bloklar = new Map<number, Question[]>();
+  const kavram: Question[] = [];
+  for (const q of questions) {
+    const m = q.clock?.minute;
+    if (typeof m === 'number') {
+      const b = bloklar.get(m) ?? [];
+      b.push(q);
+      bloklar.set(m, b);
+    } else {
+      kavram.push(q);
+    }
+  }
+  const sonuc: Question[] = [];
+  const eklenen = new Set<number>();
+  for (const m of SAAT_BLOK_SIRASI) {
+    const b = bloklar.get(m);
+    if (b) { fisherYates(b); sonuc.push(...b); eklenen.add(m); }
+  }
+  // Beklenmeyen bir minute değeri varsa: sırayı bozmadan (artan) ve grup-içi karışık ekle.
+  for (const m of [...bloklar.keys()].filter(x => !eklenen.has(x)).sort((a, b) => a - b)) {
+    const b = bloklar.get(m)!;
+    fisherYates(b);
+    sonuc.push(...b);
+  }
+  fisherYates(kavram);
+  sonuc.push(...kavram);
+  return sonuc;
+}
 
 function playSound(correct: boolean) {
   try {
@@ -134,8 +193,8 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
-  // Views: 'profile_selection' | 'home' | 'theme_selection' | 'quiz' | 'stats' | 'leaderboard' | 'about'
-  const [view, setView] = useState<'profile_selection' | 'home' | 'theme_selection' | 'quiz' | 'stats' | 'leaderboard' | 'about'>(() => {
+  // Views: 'profile_selection' | 'home' | 'theme_selection' | 'ogrenme_home' | 'quiz' | 'stats' | 'leaderboard' | 'about'
+  const [view, setView] = useState<'profile_selection' | 'home' | 'theme_selection' | 'ogrenme_home' | 'quiz' | 'stats' | 'leaderboard' | 'about'>(() => {
     const active = localStorage.getItem(AKTIF_KEY);
     return active ? 'home' : 'profile_selection';
   });
@@ -156,7 +215,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
   const [feedback, setFeedback] = useState<'idle' | 'correct' | 'wrong'>('idle');
   const [hataModu, setHataModu] = useState(false);
 
-  const activeSubject = SUBJECTS.find(s => s.label === selectedSubject) || SUBJECTS[0];
+  const activeSubject = ALL_SUBJECTS.find(s => s.label === selectedSubject) || SUBJECTS[0];
 
   // Auto version update check
   useEffect(() => {
@@ -184,13 +243,19 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
     setCurrentIndex(0);
     setScore(0);
     try {
-      const activeSub = SUBJECTS.find(s => s.label === subjectName) || SUBJECTS[0];
+      const activeSub = ALL_SUBJECTS.find(s => s.label === subjectName) || SUBJECTS[0];
       const folder   = activeSub.folder;
       const temaNum  = themeName.replace('Tema ', '');
       const response = await fetch(`./data/${folder}/tema${temaNum}.json`);
       if (!response.ok) throw new Error('Sorular yüklenemedi.');
       const data = await response.json();
-      setQuestions(data.questions || []);
+      let yuklenen: Question[] = data.questions || [];
+      // Yalnızca Öğrenme Köşesi → Tema 2 (Saat Okuma): blok sırasını koruyup grup-içi
+      // karıştır. Her loadQuestions çağrısında yeniden çalışır → her oturumda farklı sıra.
+      if (subjectName === OGRENME.label && themeName === 'Tema 2') {
+        yuklenen = saatBloklariniKaristir(yuklenen);
+      }
+      setQuestions(yuklenen);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Bir hata oluştu.');
       setQuestions([]);
@@ -443,6 +508,16 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
             <button className="profil-degistir-btn" onClick={() => { localStorage.removeItem(AKTIF_KEY); setProfilAdi(""); setView('profile_selection'); }}>👤 Profil Değiştir</button>
           </header>
 
+          {/* Öğrenme Köşesi — Hikaye Köşesi'nin görsel ailesinden, tam genişlik */}
+          <button className="qv-ogrenme-btn" id="btn-ogrenme-kosesi" onClick={() => setView('ogrenme_home')}>
+            <span className="qv-hikaye-btn-emoji">🧠</span>
+            <span className="qv-hikaye-btn-text">
+              <span className="qv-hikaye-btn-title">Öğrenme Köşesi</span>
+              <span className="qv-hikaye-btn-sub">Soru kelimeleri &amp; saat okuma</span>
+            </span>
+            <span className="qv-hikaye-btn-arrow">›</span>
+          </button>
+
           {/* Green buttons for Story Corner and Games */}
           {(hikayeBtn || oyunlarBtn) && (
             <div className="qv-extra-btns">
@@ -471,8 +546,8 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
             </div>
           </section>
 
-          <footer className="home-actions">
-            <button className="home-action-btn hata-kutusu-btn" onClick={() => {
+          <footer className="home-menu-grid">
+            <button className="home-menu-card hmc-hata" onClick={() => {
               const h = hatalariGetir(profilAdi);
               if (h.length === 0) {
                 alert('Hata kutun şu an boş! Harikasın! 🌟');
@@ -485,10 +560,23 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
               setFeedback('idle');
               setSelectedOption(null);
               setView('quiz');
-            }}>📦 Hata Kutusu ({hatalariGetir(profilAdi).length})</button>
-            <button className="home-action-btn" onClick={() => setView('leaderboard')}>🏆 Sıralama</button>
-            <button className="home-action-btn" onClick={() => setView('stats')}>📊 İlerlemem</button>
-            <button className="home-action-btn" onClick={() => setView('about')}>ℹ️ Hakkında</button>
+            }}>
+              <span className="home-menu-icon">📦</span>
+              <span className="home-menu-label">Hata Kutusu</span>
+              <span className="home-menu-badge">{hatalariGetir(profilAdi).length}</span>
+            </button>
+            <button className="home-menu-card hmc-sira" onClick={() => setView('leaderboard')}>
+              <span className="home-menu-icon">🏆</span>
+              <span className="home-menu-label">Sıralama</span>
+            </button>
+            <button className="home-menu-card hmc-ilerleme" onClick={() => setView('stats')}>
+              <span className="home-menu-icon">📊</span>
+              <span className="home-menu-label">İlerlemem</span>
+            </button>
+            <button className="home-menu-card hmc-hakkinda" onClick={() => setView('about')}>
+              <span className="home-menu-icon">ℹ️</span>
+              <span className="home-menu-label">Hakkında</span>
+            </button>
           </footer>
         </div>
       </div>
@@ -517,6 +605,38 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
               }}
             >
               {t}
+            </button>
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  // 3b. Öğrenme Köşesi — Tema Seçimi
+  if (view === 'ogrenme_home') {
+    return (
+      <div className="qv-wrap">
+        <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
+        <h1 className="home-title" style={{ color: OGRENME.color }}>🧠 Öğrenme Köşesi</h1>
+        <p className="home-subtitle">Bir konu seç, birlikte öğrenelim! ✨</p>
+
+        <div className="ogrenme-tema-grid">
+          {OGRENME.temalar.map(t => (
+            <button
+              key={t.tema}
+              className="ogrenme-tema-kart"
+              style={{ '--card-color': t.renk } as React.CSSProperties}
+              onClick={() => {
+                setSelectedSubject(OGRENME.label);
+                setSelectedTheme(t.tema);
+                setHataModu(false);
+                loadQuestions(OGRENME.label, t.tema);
+                setView('quiz');
+              }}
+            >
+              <span className="ogrenme-tema-emoji">{t.emoji}</span>
+              <span className="ogrenme-tema-baslik">{t.baslik}</span>
+              <span className="ogrenme-tema-alt">{t.alt}</span>
             </button>
           ))}
         </div>
@@ -751,6 +871,11 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
             <div className="qv-question-box">
               {currentQuestion.image && (
                 <img src={currentQuestion.image} alt="Soru görseli" className="qv-question-img" />
+              )}
+              {currentQuestion.clock && (
+                <div className="qv-clock-wrap">
+                  <AnalogClock hour={currentQuestion.clock.hour} minute={currentQuestion.clock.minute} size={200} />
+                </div>
               )}
               <div className="soru-satir">
                 <p className="qv-question-text">{currentQuestion.question}</p>
