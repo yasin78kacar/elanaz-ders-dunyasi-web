@@ -63,61 +63,51 @@
   },
   {
     "id": "elanaz-hikaye-06-kayıp-anahtar",
-    "baslik": "Elanaz ve Kayıp Anahtar",
+    "baslik": "Elanaz ve Tavan Arasındaki Sandık",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz okul ile ilgili bir gün yaşadı. Düzenli olmak hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Düzenli olmak hakkında bir şey öğrendi."
+      "Yağmurlu bir gündü. Elanaz sıkılmıştı ve oynayacak yeni bir şey arıyordu. Annesi ona tavan arasına çıkabileceğini söyledi. Elanaz merdivenleri yavaşça tırmandı.",
+      "Köşede tozlu, eski bir sandık duruyordu. Kapağını açtığında içi eski fotoğraflar ve minik bir müzik kutusuyla doluydu. Müzik kutusunu kurunca yumuşak bir ezgi bütün odayı doldurdu.",
+      "Fotoğraflarda annesinin çocukluğunu gördü ve şaşırdı. Akşam olunca müzik kutusunu odasına, başucuna taşıdı. Artık yağmurlu günleri hiç sıkıcı bulmuyordu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz neden sıkılmıştı?",
         "options": [
-          "Hiçbir şey",
-          "Düzenli olmak",
-          "Korkmak",
-          "Kaçmak"
+          "Okula gitmişti",
+          "Hastaydı",
+          "Hava yağmurluydu ve oynayacak şey arıyordu",
+          "Çok yorgundu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz nereye çıktı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Tavan arasına",
+          "Bahçeye",
+          "Çatıya",
+          "Okula"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Sandığın içinde ne vardı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Kitaplar",
+          "Para",
+          "Oyuncaklar",
+          "Eski fotoğraflar ve müzik kutusu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Elanaz müzik kutusunu ne yaptı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Attı",
+          "Odasına, başucuna taşıdı",
+          "Sattı",
+          "Sakladı"
         ],
         "correctAnswer": 1
       }
@@ -125,247 +115,207 @@
   },
   {
     "id": "elanaz-hikaye-07-yeni-arkadaş",
-    "baslik": "Elanaz ve Yeni Arkadaş",
+    "baslik": "Elanaz ve Unutulan Çanta",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz sosyal ile ilgili bir gün yaşadı. Arkadaşlık hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Arkadaşlık hakkında bir şey öğrendi."
+      "Zil çaldı ve herkes evine gitmek için koşuşturdu. Elanaz sınıftan çıkarken sıranın altında bir çanta gördü. Çanta arkadaşlarından birine aitti ama sahibi çoktan gitmişti.",
+      "İçinde bir beslenme kutusu ve sevimli bir kalem kutusu vardı. Elanaz çantayı orada bırakıp gitmek istemedi. Onu öğretmenine götürdü ve birlikte sahibinin adını buldular.",
+      "Ertesi sabah çantayı arkadaşına uzattı. Arkadaşı çantasını kaybettiğini sanıp çok üzülmüştü, görünce sevinçle gülümsedi. O gün teneffüste ikisi yan yana oturdu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz sıranın altında ne buldu?",
         "options": [
-          "Hiçbir şey",
-          "Arkadaşlık",
-          "Korkmak",
-          "Kaçmak"
+          "Bir top",
+          "Bir çanta",
+          "Bir kitap",
+          "Bir kalem"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Çantayı kime götürdü?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Annesine",
+          "Müdüre",
+          "Komşusuna",
+          "Öğretmenine"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Çantanın içinde ne vardı?",
         "options": [
+          "Beslenme kutusu ve kalem kutusu",
+          "Oyuncak ve top",
+          "Para ve anahtar",
+          "Defter ve silgi"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Arkadaşı çantasını görünce ne yaptı?",
+        "options": [
+          "Kızdı",
           "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
+          "Sevinçle gülümsedi",
           "Kaçtı"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-08-sınıf-görevlisi",
-    "baslik": "Elanaz ve Sınıf Görevlisi",
+    "baslik": "Elanaz ve Bahçedeki Gizemli Kutu",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz okul ile ilgili bir gün yaşadı. Sorumluluk hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Sorumluluk hakkında bir şey öğrendi."
+      "Bahçeden garip bir tıkırtı geliyordu. Elanaz sesin nereden geldiğini çok merak etti. Çalıların arkasında karton bir kutu duruyordu ve kutu hafifçe sallanıyordu.",
+      "Kalbi hızla atarak yavaşça yaklaştı. Kutunun kapağını dikkatle araladı. İçeride kaybolmuş küçük bir kedi yavrusu miyavlıyordu. Yavrunun tüyleri korkudan titriyordu.",
+      "Elanaz onu kucağına aldı ve yumuşacık bir sesle sakinleştirdi. Anneannesi ona bir kâse süt getirdi. O günden sonra kedi, bahçenin en neşeli konuğu oldu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Bahçeden nasıl bir ses geliyordu?",
         "options": [
-          "Hiçbir şey",
-          "Sorumluluk",
-          "Korkmak",
-          "Kaçmak"
+          "Müzik sesi",
+          "Zil sesi",
+          "Hiç ses yoktu",
+          "Garip bir tıkırtı"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Kutunun içinde ne vardı?",
+        "options": [
+          "Bir oyuncak",
+          "Küçük bir kedi yavrusu",
+          "Bir kuş",
+          "Bir top"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Anneannesi ne getirdi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Su",
+          "Ekmek",
+          "Bir kâse süt",
+          "Oyuncak"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Kedi sonunda ne oldu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Bahçenin en neşeli konuğu oldu",
+          "Kayboldu",
+          "Kaçtı",
+          "Uyudu"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       }
     ]
   },
   {
     "id": "elanaz-hikaye-09-doğum-günü-sürprizi",
-    "baslik": "Elanaz ve Doğum Günü Sürprizi",
+    "baslik": "Elanaz ve Karanlık Gece",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz aile ile ilgili bir gün yaşadı. Paylaşmak hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Paylaşmak hakkında bir şey öğrendi."
+      "Elanaz her gece küçük bir lambayla uyurdu. Bir akşam lamba yanmadı, çünkü ampulü bitmişti. Karanlık odaya bakınca içi ürperdi.",
+      "Yorganını burnuna kadar çekti ama gözüne uyku girmedi. Sonra pencereden içeri süzülen ay ışığını fark etti. Tavandaki yıldız çıkartmaları usulca parlıyordu.",
+      "Bunların karanlıkta bile hep yanında durduğunu düşündü. Derin bir nefes aldı ve gözlerini kapadı. Sabah lambasız uyuduğunu hatırlayınca kendiyle gurur duydu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz her gece nasıl uyurdu?",
         "options": [
-          "Hiçbir şey",
-          "Paylaşmak",
-          "Korkmak",
-          "Kaçmak"
+          "Küçük bir lambayla",
+          "Zifiri karanlıkta",
+          "Müzik dinleyerek",
+          "Annesiyle"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Lamba neden yanmadı?",
+        "options": [
+          "Elektrik kesildi",
+          "Kırılmıştı",
+          "Ampulü bitmişti",
+          "Kaybolmuştu"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Pencereden içeri ne süzülüyordu?",
+        "options": [
+          "Yağmur",
+          "Ay ışığı",
+          "Rüzgâr",
+          "Kar"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Sabah Elanaz ne hissetti?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Korktu",
+          "Üzüldü",
+          "Kızdı",
+          "Kendiyle gurur duydu"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-10-korkulan-köpek",
-    "baslik": "Elanaz ve Korkulan Köpek",
+    "baslik": "Elanaz ve Ağaçtaki Uçurtma",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz hayvanlar ile ilgili bir gün yaşadı. Cesaret hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Cesaret hakkında bir şey öğrendi."
+      "Parkta rüzgâr o gün çok güçlü esiyordu. Elanaz, ağlayarak yukarı bakan küçük bir çocuk gördü. Çocuğun uçurtması yüksek bir dalın arasına sıkışmıştı.",
+      "Elanaz önce ağaca korkuyla baktı, dallar epey yüksekti. Yine de ellerini sağlam dallara atıp yavaşça tırmandı. En üstteki dala tutundu ve ipi dikkatle çözdü.",
+      "Uçurtma serbest kalınca havada süzülerek aşağı indi. Çocuk sevinçle zıpladı ve durmadan teşekkür etti. Elanaz aşağı inerken elleri biraz titriyordu ama içi kıpır kıpırdı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "O gün parkta hava nasıldı?",
         "options": [
-          "Hiçbir şey",
-          "Cesaret",
-          "Korkmak",
-          "Kaçmak"
+          "Çok sıcaktı",
+          "Kar yağıyordu",
+          "Rüzgâr çok güçlü esiyordu",
+          "Sisliydi"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Çocuğun uçurtması nereye sıkışmıştı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Çatıya",
+          "Çite",
+          "Direğe",
+          "Yüksek bir dalın arasına"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz ipi nasıl çözdü?",
         "options": [
+          "Ağaca tırmanıp dikkatle",
+          "Makasla kesti",
+          "Zıplayarak",
+          "Çekiştirerek"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Uçurtma kurtulunca çocuk ne yaptı?",
+        "options": [
+          "Kızdı",
+          "Sevinçle zıpladı ve teşekkür etti",
           "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
           "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
         ],
         "correctAnswer": 1
       }
@@ -373,123 +323,103 @@
   },
   {
     "id": "elanaz-hikaye-11-i-lk-diş",
-    "baslik": "Elanaz ve İlk Diş",
+    "baslik": "Elanaz ve Yıkılmayan Kule",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz sağlık ile ilgili bir gün yaşadı. Büyümek hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Büyümek hakkında bir şey öğrendi."
+      "Elanaz o gün kocaman bir kule yapmaya karar verdi. Legoları tek tek üst üste dizdi ve kule gittikçe yükseldi. Tam en üste son parçayı koyacakken kule bir anda devrildi.",
+      "Parçalar yere saçıldı ve Elanaz'ın canı çok sıkıldı. Bir an her şeyi bırakıp gitmek istedi. Sonra derin bir nefes aldı ve parçaları yeniden topladı.",
+      "Bu kez tabanı daha geniş yaptı, böylece kule daha sağlam durdu. Parçaları acele etmeden, sabırla ekledi. Kule tamamlandığında neredeyse boyunu geçmişti. O an pes etmediğine çok sevindi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz ne yapmaya karar verdi?",
         "options": [
-          "Hiçbir şey",
-          "Büyümek",
-          "Korkmak",
-          "Kaçmak"
+          "Bir resim",
+          "Kocaman bir kule",
+          "Bir uçurtma",
+          "Bir kek"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Kule ne zaman devrildi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Tam son parçayı koyacakken",
+          "Hiç devrilmedi",
+          "Sabah erkenden",
+          "Oyun bittikten sonra"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "İkinci kez kuleyi nasıl sağlam yaptı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Yapıştırarak",
+          "Çok küçük yaparak",
+          "Duvara dayayarak",
+          "Tabanı daha geniş yaparak"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Kule bitince Elanaz ne hissetti?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Üzüldü",
+          "Kızdı",
+          "Pes etmediğine sevindi",
+          "Korktu"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-12-pazar-alışverişi",
-    "baslik": "Elanaz ve Pazar Alışverişi",
+    "baslik": "Elanaz ve Gökkuşağının Ucu",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz matematik ile ilgili bir gün yaşadı. Sayma hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Sayma hakkında bir şey öğrendi."
+      "Yağmur yeni dinmişti ve gökyüzünde rengârenk bir gökkuşağı belirdi. Elanaz, gökkuşağının ucunun bahçenin sonunda olduğunu düşündü. Çizmelerini giyip çamurlu patikada yürümeye başladı.",
+      "Her adımda gökkuşağı biraz daha uzaklaşıyor gibiydi. Çiçeklerin üstündeki yağmur damlaları da renk renk parlıyordu. Bir su birikintisine baktığında gökkuşağının orada da yansıdığını gördü.",
+      "Ucunu bulamadı ama her yerin renklerle dolu olduğunu fark etti. Bir avuç ıslak çimeni koklayıp derin bir nefes aldı. Eve döndüğünde yanaklarına yağmurun serinliği sinmişti."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Gökkuşağı ne zaman belirdi?",
         "options": [
-          "Hiçbir şey",
-          "Sayma",
-          "Korkmak",
-          "Kaçmak"
+          "Kar yağarken",
+          "Gece yarısı",
+          "Sabah okulda",
+          "Yağmur yeni dinince"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz dışarı çıkarken ne giydi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Şapkasını",
+          "Eldivenlerini",
+          "Çizmelerini",
+          "Atkısını"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Gökkuşağını başka nerede gördü?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Bir su birikintisinde",
+          "Camda",
+          "Aynada",
+          "Kitapta"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Elanaz sonunda ne fark etti?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Gökkuşağının ucunu bulduğunu",
+          "Her yerin renklerle dolu olduğunu",
+          "Yağmurun yeniden başladığını",
+          "Yolunu kaybettiğini"
         ],
         "correctAnswer": 1
       }
@@ -497,309 +427,259 @@
   },
   {
     "id": "elanaz-hikaye-13-kış-manzarası",
-    "baslik": "Elanaz ve Kış Manzarası",
+    "baslik": "Elanaz ve Kırılan Vazo",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz fen ile ilgili bir gün yaşadı. Mevsimler hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Mevsimler hakkında bir şey öğrendi."
+      "Elanaz salonda topla oynamamalıydı ama dayanamadı. Topu bir kez attı ve top masadaki mavi vazoya çarptı. Vazo yere düştü, küçük parçalara ayrıldı.",
+      "Elanaz'ın yüreği ağzına geldi. Bir an parçaları halının altına saklamayı düşündü. Ama annesinin üzgün yüzünü hayal edince bundan vazgeçti.",
+      "Annesi odaya girince titrek bir sesle olanları anlattı. Annesi kızmadı, doğruyu söylediği için ona sarıldı. Birlikte parçaları topladılar ve yerine küçük bir saksı koydular. O akşam Elanaz'ın içi çok rahattı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz salonda ne yaptı?",
         "options": [
-          "Hiçbir şey",
-          "Mevsimler",
-          "Korkmak",
-          "Kaçmak"
+          "Topla oynadı",
+          "Kitap okudu",
+          "Uyudu",
+          "Resim yaptı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Top neye çarptı?",
+        "options": [
+          "Pencereye",
+          "Mavi vazoya",
+          "Kapıya",
+          "Televizyona"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz önce ne yapmayı düşündü?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Hemen annesine söylemeyi",
+          "Ağlamayı",
+          "Odadan kaçmayı",
+          "Parçaları halının altına saklamayı"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Annesi olanları duyunca ne yaptı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Çok kızdı",
+          "Ceza verdi",
+          "Doğruyu söylediği için ona sarıldı",
+          "Uzun süre üzüldü"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-14-resim-yarışması",
-    "baslik": "Elanaz ve Resim Yarışması",
+    "baslik": "Elanaz ve Kardaki Küçük Kuş",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz resim ile ilgili bir gün yaşadı. Yaratıcılık hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Yaratıcılık hakkında bir şey öğrendi."
+      "Sabah her yer bembeyaz bir kar örtüsüyle kaplanmıştı. Elanaz bahçede yürürken cılız bir cıvıltı duydu. Karların arasında küçük bir kuş yuvası yarı gömülü duruyordu.",
+      "Yuvanın içinde titreyen minik bir kuş vardı. Elanaz ellerini üfleyerek ısıttı, sonra yuvayı avuçlarına aldı. Kuşu paltosunun içine, kalbinin yanına koydu.",
+      "Eve koşup onu yumuşak bir bezin üstüne yerleştirdi. Biraz ekmek kırığı ve ılık su verdi. Kuş ısınınca kanatlarını çırpmaya başladı. Hava düzelince Elanaz onu pencereden gökyüzüne uğurladı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Sabah her yer neyle kaplıydı?",
         "options": [
-          "Hiçbir şey",
-          "Yaratıcılık",
-          "Korkmak",
-          "Kaçmak"
+          "Yağmur suyuyla",
+          "Yapraklarla",
+          "Bembeyaz karla",
+          "Kumla"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Elanaz karların arasında ne buldu?",
+        "options": [
+          "Küçük bir kuş yuvası",
+          "Bir top",
+          "Bir kutu",
+          "Bir çanta"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kuşu ısıtmak için nereye koydu?",
+        "options": [
+          "Bir kutuya",
+          "Paltosunun içine, kalbinin yanına",
+          "Cebine",
+          "Çantasına"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Hava düzelince Elanaz ne yaptı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Kuşu sakladı",
+          "Kafese koydu",
+          "Kuşu komşuya verdi",
+          "Kuşu gökyüzüne uğurladı"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-15-kayıp-çorap",
-    "baslik": "Elanaz ve Kayıp Çorap",
+    "baslik": "Elanaz ve Komşu Amca",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz ev ile ilgili bir gün yaşadı. Dikkat hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Dikkat hakkında bir şey öğrendi."
+      "Elanaz kapının önünde ağır poşetler taşıyan yaşlı komşusunu gördü. Amcanın adımları yavaştı ve poşetler elini acıtıyordu. Elanaz koşup en ağır poşeti taşımak için izin istedi.",
+      "İkisi birlikte merdivenleri yavaş yavaş çıktılar. Amca yolda ona eski günlerden komik bir anı anlattı. Elanaz gülmekten poşeti neredeyse düşürüyordu.",
+      "Kapıya vardıklarında amca ona kocaman, kırmızı bir elma uzattı. Elanaz elmayı alırken yanakları sevinçten pembeleşti. Merdivenleri inerken içi tatlı tatlı ısınmıştı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz kapının önünde kimi gördü?",
         "options": [
-          "Hiçbir şey",
-          "Dikkat",
-          "Korkmak",
-          "Kaçmak"
+          "Öğretmenini",
+          "Ağır poşetler taşıyan yaşlı komşusunu",
+          "Arkadaşını",
+          "Annesini"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz ne yapmak için izin istedi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Dışarıda oynamak",
+          "Eve gitmek",
+          "Alışverişe çıkmak",
+          "En ağır poşeti taşımak"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Amca yolda ona ne anlattı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Bir masal",
+          "Bir şarkı",
+          "Eski günlerden komik bir anı",
+          "Zor bir soru"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Amca kapıda Elanaz'a ne verdi?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Kocaman, kırmızı bir elma",
+          "Para",
+          "Çikolata",
+          "Bir oyuncak"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       }
     ]
   },
   {
     "id": "elanaz-hikaye-16-büyükanne-ziyareti",
-    "baslik": "Elanaz ve Büyükanne Ziyareti",
+    "baslik": "Elanaz ve Şişedeki Not",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz aile ile ilgili bir gün yaşadı. Aile sevgisi hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Aile sevgisi hakkında bir şey öğrendi."
+      "Deniz kıyısında kumlar ıslaktı. Elanaz dalgaların getirdiği bir şişe gördü. Şişenin içinde katlanmış küçük bir kâğıt vardı. Kâğıdı dikkatle çıkardı ve açtı.",
+      "Üstünde \"Merhaba, umarım güzel bir gün geçirirsin!\" yazıyordu. Elanaz gülümsedi, sanki biri ona uzaktan el sallıyordu. Kendisi de bir not yazıp şişeye koydu.",
+      "Şişeyi tekrar denize bıraktı. Dalgalar onu yavaşça uzağa taşıdı. Belki başka bir çocuk onu bulacaktı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz deniz kıyısında ne buldu?",
         "options": [
-          "Hiçbir şey",
-          "Aile sevgisi",
-          "Korkmak",
-          "Kaçmak"
+          "Bir oyuncak",
+          "Dalgaların getirdiği bir şişe",
+          "Bir top",
+          "Bir kova"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Şişenin içinde ne vardı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bir para",
+          "Bir anahtar",
+          "Bir deniz kabuğu",
+          "Katlanmış küçük bir kâğıt"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Kâğıtta ne yazıyordu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "\"Merhaba, umarım güzel bir gün geçirirsin!\"",
+          "Bir telefon numarası",
+          "Bir adres",
+          "Hiçbir şey"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Elanaz kendi notunu yazdıktan sonra ne yaptı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Notu cebine koydu",
+          "Şişeyi eve götürdü",
+          "Şişeyi tekrar denize bıraktı",
+          "Şişeyi kuma gömdü"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-17-i-lk-yardım",
-    "baslik": "Elanaz ve İlk Yardım",
+    "baslik": "Elanaz ve Yeni Komşu",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz sağlık ile ilgili bir gün yaşadı. Yardımseverlik hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Yardımseverlik hakkında bir şey öğrendi."
+      "Karşı daireye yeni bir aile taşındı. Elanaz pencereden kendi yaşında bir çocuk gördü, tek başına duruyordu. Aşağı inip merhaba dedi ve adını sordu.",
+      "Yeni komşu utangaçtı ama tatlı tatlı gülümsedi. Elanaz ona mahalleyi gezdirmeyi önerdi. Önce parkı, sonra en güzel dondurmacıyı gösterdi. Gizli bir kestirme yolu bile anlattı.",
+      "Akşam olduğunda ikisi çoktan arkadaş olmuştu. Yeni komşu, ilk gününün hiç yalnız geçmediğini fark etti."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Karşı daireye kim taşındı?",
         "options": [
-          "Hiçbir şey",
-          "Yardımseverlik",
-          "Korkmak",
-          "Kaçmak"
+          "Elanaz'ın öğretmeni",
+          "Elanaz'ın dedesi",
+          "Yeni bir aile",
+          "Elanaz'ın halası"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz pencereden ne gördü?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Kendi yaşında, tek başına duran bir çocuk",
+          "Bir köpek",
+          "Bir kamyon",
+          "Bir balon"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz yeni komşusuna neleri gösterdi?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Okulu ve sınıfını",
+          "Kütüphaneyi",
+          "Deniz kıyısını",
+          "Parkı ve en güzel dondurmacıyı"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Akşam olduğunda ne oldu?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Yeni komşu evine döndü",
+          "İkisi çoktan arkadaş olmuştu",
+          "Elanaz yorulup uyudu",
+          "İkisi kavga etti"
         ],
         "correctAnswer": 1
       }
@@ -807,247 +687,207 @@
   },
   {
     "id": "elanaz-hikaye-18-sessiz-kütüphane",
-    "baslik": "Elanaz ve Sessiz Kütüphane",
+    "baslik": "Elanaz ve Kayan Yıldız",
     "seviye": 1,
     "sayfalar": [
-      "Elanaz okuma ile ilgili bir gün yaşadı. Kurallar hakkında öğrendi. Arkadaşı Zeynep yanındaydı.",
-      "Bir sorun çıktı ama Elanaz üzülmedi. Zeynep yardım etti. Birlikte çözüm buldular.",
-      "Sonunda her şey yoluna girdi. Elanaz mutlu oldu. Kurallar hakkında bir şey öğrendi."
+      "Yaz gecesi hava sıcak ve durgundu. Elanaz balkonda gökyüzünü izliyordu. Yıldızlar sayısızdı, biri diğerinden parlaktı.",
+      "Tam o sırada bir ışık gökyüzünü hızla çizdi. Bu bir kayan yıldızdı! Elanaz hemen gözlerini kapatıp bir dilek tuttu.",
+      "Dileğini kimseye söylemedi, içinde sakladı. Yüzünde tatlı bir gülümseme belirdi. O gece uykuya dalarken gökyüzü hâlâ gözlerinin önündeydi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz gökyüzünü nereden izliyordu?",
         "options": [
-          "Hiçbir şey",
-          "Kurallar",
-          "Korkmak",
-          "Kaçmak"
+          "Bahçeden",
+          "Çatıdan",
+          "Pencereden",
+          "Balkondan"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Gökyüzünü hızla çizen ışık neydi?",
+        "options": [
+          "Bir uçak",
+          "Bir kayan yıldız",
+          "Bir havai fişek",
+          "Ay"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz kayan yıldızı görünce ne yaptı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bağırdı",
+          "Fotoğraf çekti",
+          "Gözlerini kapatıp bir dilek tuttu",
+          "İçeri koştu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz dileğini ne yaptı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Kimseye söylemedi, içinde sakladı",
+          "Annesine anlattı",
+          "Bir kâğıda yazdı",
+          "Arkadaşına söyledi"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       }
     ]
   },
   {
     "id": "elanaz-hikaye-19-park-macerası",
-    "baslik": "Elanaz ve Park Macerası",
+    "baslik": "Elanaz ve Fesleğen Saksısı",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Çevre dersinde doğa konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz doğa konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Annesi Elanaz'a küçük bir fesleğen saksısı verdi. \"Ona sen bakacaksın,\" dedi gülümseyerek. Elanaz her sabah saksıya birazcık su verdi. Bazen unutacak gibi olsa da hemen hatırlıyordu.",
+      "Fesleğenin yaprakları gün geçtikçe koyulaştı. Bir sabah minik yeni filizler çıktığını gördü. Yaprağı koklayınca mis gibi kokuyordu.",
+      "Saksıyı en çok güneş gören pencereye taşıdı. Kendi baktığı bitkinin büyümesi ona gurur verdi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Annesi Elanaz'a ne verdi?",
         "options": [
-          "Hiçbir şey",
-          "Doğa",
-          "Korkmak",
-          "Kaçmak"
+          "Küçük bir fesleğen saksısı",
+          "Bir kitap",
+          "Bir oyuncak",
+          "Bir kalem"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Elanaz her sabah ne yaptı?",
+        "options": [
+          "Yaprakları kopardı",
+          "Saksıyı balkona attı",
+          "Saksıya birazcık su verdi",
+          "Fesleğeni unuttu"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Bir sabah Elanaz saksıda neyi gördü?",
+        "options": [
+          "Bir böcek",
+          "Minik yeni filizler çıktığını",
+          "Solmuş yapraklar",
+          "Bir çiçek"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz saksıyı nereye taşıdı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Karanlık bir köşeye",
+          "Mutfağa",
+          "Bahçeye",
+          "En çok güneş gören pencereye"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-20-yeni-kardeş",
-    "baslik": "Elanaz ve Yeni Kardeş",
+    "baslik": "Elanaz ve Gizemli Kitap",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Aile dersinde paylaşmak konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz paylaşmak konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Kütüphane sessiz ve serindi. Elanaz raflar arasında dolaşıyordu. Bir rafın arkasından ince bir kitap ucu görünüyordu. Uzanıp kitabı güçlükle çıkardı.",
+      "Kapağı eskiydi ve üstünde altın harfler parlıyordu. İçini açınca rengârenk resimlerle dolu olduğunu gördü. Sayfalar uzak diyarların masallarını anlatıyordu.",
+      "Elanaz kitabı ödünç aldı ve o gece bir solukta okudu. Ertesi gün, başkası da bulsun diye onu özenle rafa geri koydu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz nerede dolaşıyordu?",
         "options": [
-          "Hiçbir şey",
-          "Paylaşmak",
-          "Korkmak",
-          "Kaçmak"
+          "Bahçede",
+          "Kütüphanede, raflar arasında",
+          "Parkta",
+          "Okul koridorunda"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Kitabın kapağında ne parlıyordu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bir resim",
+          "Bir yıldız",
+          "Bir kalp",
+          "Altın harfler"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Kitabın içinde ne vardı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Rengârenk resimler ve uzak diyarların masalları",
+          "Boş sayfalar",
+          "Matematik soruları",
+          "Fotoğraflar"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Elanaz kitabı okuduktan sonra ne yaptı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Sakladı",
+          "Arkadaşına verdi",
+          "Başkası da bulsun diye özenle rafa geri koydu",
+          "Evinde tuttu"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-21-futbol-maçı",
-    "baslik": "Elanaz ve Futbol Maçı",
+    "baslik": "Elanaz ve Barışma",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Spor dersinde takım çalışması konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz takım çalışması konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Elanaz ile arkadaşı aynı oyuncağı istedi. İkisi de bırakmayınca araları bozuldu. Kaşlarını çatıp birbirlerine sırtlarını döndüler. Teneffüs boyunca hiç konuşmadılar.",
+      "Ama Elanaz tek başına oynarken hiç eğlenemedi. Arkadaşının üzgün yüzünü hatırladı ve içi sızladı. Yanına gidip usulca \"Özür dilerim,\" dedi.",
+      "Arkadaşı da gülümseyip elini uzattı. Oyuncakla sırayla oynamaya karar verdiler. O gün en güzel oyunu birlikte kurdular."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz ile arkadaşı neden bozuştu?",
         "options": [
-          "Hiçbir şey",
-          "Takım çalışması",
-          "Korkmak",
-          "Kaçmak"
+          "Bir yarışta kaybettikleri için",
+          "Sıralarını karıştırdıkları için",
+          "Aynı oyuncağı istedikleri için",
+          "Yağmur yağdığı için"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Küsünce teneffüs boyunca ne yaptılar?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Hiç konuşmadılar",
+          "Birlikte oynadılar",
+          "Öğretmene gittiler",
+          "Barıştılar"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz arkadaşının yanına gidip ne dedi?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "\"Hoşça kal\"",
+          "\"Teşekkür ederim\"",
+          "\"Gel oynayalım\"",
+          "\"Özür dilerim\""
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Sonunda oyuncakla nasıl oynamaya karar verdiler?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Oyuncağı ikiye böldüler",
+          "Sırayla oynamaya karar verdiler",
+          "Oyuncağı öğretmene verdiler",
+          "Bir daha hiç oynamadılar"
         ],
         "correctAnswer": 1
       }
@@ -1055,185 +895,155 @@
   },
   {
     "id": "elanaz-hikaye-22-balık-tutma",
-    "baslik": "Elanaz ve Balık Tutma",
+    "baslik": "Elanaz ve Kardaki Ayak İzleri",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Aile dersinde sabır konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz sabır konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Gece sessizce kar yağmıştı. Sabah bahçe bembeyazdı. Elanaz karda küçük ayak izleri fark etti. İzler çalıların dibine doğru gidiyordu.",
+      "Merakla, sessizce izleri takip etti. İzler bir ağacın altında son buluyordu. Orada minik bir tavşan büzülmüş oturuyordu.",
+      "Tavşan Elanaz'ı görünce kulaklarını dikti. Elanaz onu ürkütmemek için geri geri uzaklaştı. Pencereden tavşanın zıplayıp gittiğini izledi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Sabah bahçe neden bembeyazdı?",
         "options": [
-          "Hiçbir şey",
-          "Sabır",
-          "Korkmak",
-          "Kaçmak"
+          "Boya döküldüğü için",
+          "Gece sessizce kar yağdığı için",
+          "Çiçekler açtığı için",
+          "Sis çöktüğü için"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz karda neyi fark etti?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bir top",
+          "Bir eldiven",
+          "Bir kızak",
+          "Küçük ayak izleri"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "İzlerin sonunda ağacın altında ne vardı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Bir kuş",
+          "Bir kedi",
+          "Minik bir tavşan",
+          "Bir sincap"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Elanaz tavşanı ürkütmemek için ne yaptı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Geri geri uzaklaştı",
+          "Onu kucağına aldı",
+          "Yüksek sesle seslendi",
+          "Peşinden koştu"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       }
     ]
   },
   {
     "id": "elanaz-hikaye-23-kamp-gezisi",
-    "baslik": "Elanaz ve Kamp Gezisi",
+    "baslik": "Elanaz ve Büyük Kaydırak",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Çevre dersinde doğa sevgisi konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz doğa sevgisi konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Parktaki büyük kaydırak çok yüksekti. Elanaz her zaman ona uzaktan bakardı. Bugün merdivenin ilk basamağına ayağını koydu. Yukarı çıktıkça kalbi hızlandı.",
+      "En üste vardığında aşağısı çok uzak göründü. Bir an geri dönmek istedi. Sonra derin bir nefes aldı ve kendini bıraktı.",
+      "Rüzgâr saçlarını savururken kahkahayla aşağı indi. \"Bir daha, bir daha!\" diye bağırdı. Artık o kaydıraktan hiç korkmuyordu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz büyük kaydırağa önceleri nasıl bakardı?",
         "options": [
-          "Hiçbir şey",
-          "Doğa sevgisi",
-          "Korkmak",
-          "Kaçmak"
+          "Uzaktan",
+          "Hiç bakmazdı",
+          "Kızgınlıkla",
+          "Gülerek"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Yukarı çıkarken Elanaz'ın kalbi nasıl oldu?",
+        "options": [
+          "Durdu",
+          "Yavaşladı",
+          "Hızlandı",
+          "Hiç değişmedi"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "En üste varınca Elanaz bir an ne yapmak istedi?",
+        "options": [
+          "Zıplamak",
+          "Geri dönmek",
+          "Uyumak",
+          "Şarkı söylemek"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Kayarken Elanaz ne bağırdı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "\"İmdat!\"",
+          "\"Yavaş olun!\"",
+          "\"Eve gidelim!\"",
+          "\"Bir daha, bir daha!\""
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-24-müze-gezisi",
-    "baslik": "Elanaz ve Müze Gezisi",
+    "baslik": "Elanaz ve Parlak Taş",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Kültür dersinde tarih konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz tarih konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Elanaz bahçede küçük bir kürekle toprağı kazıyordu. Solucanları ve minik taşları merakla inceliyordu. Derken küreği sert bir şeye çarptı.",
+      "Toprağı elleriyle eşeledi ve parlak bir taş çıkardı. Taş güneşin altında pırıl pırıl parlıyordu. Onu bir su birikintisinde güzelce yıkadı. Mavimsi renkleri ışıkta dans ediyordu.",
+      "Taşı bir kavanoza koyup rafına yerleştirdi. Her baktığında o günün heyecanını yeniden hissediyordu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz bahçede ne yapıyordu?",
         "options": [
-          "Hiçbir şey",
-          "Tarih",
-          "Korkmak",
-          "Kaçmak"
+          "Çiçek suluyordu",
+          "Top oynuyordu",
+          "Küçük bir kürekle toprağı kazıyordu",
+          "Uyuyordu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz toprağı eşeleyince ne çıkardı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Parlak bir taş",
+          "Bir kemik",
+          "Bir para",
+          "Bir yüzük"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Taşı nerede yıkadı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Mutfakta",
+          "Denizde",
+          "Bir kovada",
+          "Bir su birikintisinde"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Elanaz taşı en sonunda ne yaptı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Arkadaşına verdi",
+          "Bir kavanoza koyup rafına yerleştirdi",
+          "Toprağa geri gömdü",
+          "Denize attı"
         ],
         "correctAnswer": 1
       }
@@ -1241,309 +1051,259 @@
   },
   {
     "id": "elanaz-hikaye-25-yarış-atleti",
-    "baslik": "Elanaz ve Yarış Atleti",
+    "baslik": "Elanaz ve Paylaşılan Kurabiye",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Spor dersinde azim konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz azim konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Tabakta yalnızca bir kurabiye kalmıştı. Elanaz onu yemek için sabırsızlanıyordu. Tam uzanacakken küçük kardeşinin ona baktığını gördü.",
+      "Kardeşi de kurabiyeyi çok istiyordu. Elanaz bir an düşündü, sonra kurabiyeyi ikiye böldü. Yarısını kardeşine uzattı.",
+      "Kardeşi sevinçle güldü ve \"Teşekkür ederim,\" dedi. İkisi kurabiyeyi birlikte, keyifle yediler. Yarım kurabiye, koca bir kurabiyeden daha tatlı gelmişti."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Tabakta kaç kurabiye kalmıştı?",
         "options": [
-          "Hiçbir şey",
-          "Azim",
-          "Korkmak",
-          "Kaçmak"
+          "Üç kurabiye",
+          "İki kurabiye",
+          "Hiç kurabiye",
+          "Yalnızca bir kurabiye"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Elanaz kurabiyeye uzanacakken kimi gördü?",
+        "options": [
+          "Annesini",
+          "Küçük kardeşini",
+          "Arkadaşını",
+          "Dedesini"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz kurabiyeyi ne yaptı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "İkiye böldü",
+          "Tek başına yedi",
+          "Sakladı",
+          "Tabağa geri koydu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Kardeşi kurabiyeyi görünce ne dedi?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "\"Hayır, istemiyorum\"",
+          "\"Ben tokum\"",
+          "\"Teşekkür ederim\"",
+          "\"Sonra yerim\""
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-26-sihirli-kalem",
-    "baslik": "Elanaz ve Sihirli Kalem",
+    "baslik": "Elanaz ve Sisli Sabah",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Resim dersinde hayal gücü konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz hayal gücü konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Sabah bahçe yoğun bir sise bürünmüştü. Elanaz pencereden dışarı baktığında hiçbir şeyi net göremedi. Her zamanki salıncak, sisin içinde bir hayalet gibi duruyordu. Ağaçlar birer gölgeye dönüşmüştü.",
+      "Elanaz merakla bahçeye çıktı ve dikkatle yürüdü. Yaklaştıkça tanıdık şeyler yavaşça belirginleşti. Salıncak yine eski salıncaktı, korkacak bir şey yoktu.",
+      "Sis dağıldıkça bahçe yeniden renklendi. Elanaz, sisin sıradan şeyleri bile gizemli yaptığına gülümsedi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Sabah bahçe neye bürünmüştü?",
         "options": [
-          "Hiçbir şey",
-          "Hayal gücü",
-          "Korkmak",
-          "Kaçmak"
+          "Yoğun bir sise",
+          "Kalın bir kara",
+          "Renkli yapraklara",
+          "Sık bir yağmura"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sisin içinde salıncak neye benziyordu?",
+        "options": [
+          "Bir kuşa",
+          "Bir ağaca",
+          "Bir hayalete",
+          "Bir eve"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Elanaz yaklaşınca salıncağın ne olduğunu gördü?",
+        "options": [
+          "Yeni bir salıncak olduğunu",
+          "Yine eski salıncak olduğunu, korkacak bir şey olmadığını",
+          "Kaybolduğunu",
+          "Kırıldığını"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Sis dağılınca bahçe ne oldu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Karardı",
+          "Islandı",
+          "Boşaldı",
+          "Yeniden renklendi"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-27-kedi-dostu",
-    "baslik": "Elanaz ve Kedi Dostu",
+    "baslik": "Elanaz ve Düşen Arkadaş",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Hayvanlar dersinde hayvan sevgisi konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz hayvan sevgisi konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Teneffüste çocuklar neşeyle koşuşturuyordu. Elanaz'ın arkadaşı koşarken tökezleyip düştü. Dizi sıyrılmış, gözleri dolmuştu. Elanaz hemen yanına koştu.",
+      "Onu yavaşça kaldırıp bir sıraya oturttu. Çantasından çıkardığı mendille dizini nazikçe temizledi. \"Geçecek, merak etme,\" diyerek elini tuttu.",
+      "Arkadaşının gözyaşları yavaşça dindi. Birlikte revire gidip yarayı sardırdılar. O gün arkadaşı, yanında biri olmasının ne güzel olduğunu hissetti."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz'ın arkadaşı koşarken ne oldu?",
         "options": [
-          "Hiçbir şey",
-          "Hayvan sevgisi",
-          "Korkmak",
-          "Kaçmak"
+          "Yarışı kazandı",
+          "Şarkı söyledi",
+          "Elanaz'a çarptı",
+          "Tökezleyip düştü"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Arkadaşının nesi sıyrılmıştı?",
+        "options": [
+          "Eli",
+          "Dizi",
+          "Kolu",
+          "Dirseği"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz arkadaşının dizini neyle temizledi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Çantasından çıkardığı mendille",
+          "Bir peçeteyle",
+          "Suyla",
+          "Eliyle"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Sonra birlikte nereye gittiler?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Sınıfa",
+          "Bahçeye",
+          "Revire",
+          "Eve"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-28-kar-yağışı",
-    "baslik": "Elanaz ve Kar Yağışı",
+    "baslik": "Elanaz ve Çatıdan Şehir",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Fen dersinde mevsim konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz mevsim konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Dedesi Elanaz'ı çatı katındaki küçük odaya çıkardı. Odanın eğimli bir penceresi vardı. Elanaz pencereden dışarı baktığında şaşırıp kaldı.",
+      "Bütün şehir ayaklarının altında gibiydi. Evlerin çatıları minik kutulara benziyordu. Sokaklarda arabalar oyuncak gibi ilerliyordu. Uzakta kuşlar süzülerek uçuyordu.",
+      "Elanaz uzun uzun izledi, gözünü alamadı. Aşağı inerken dünyanın yukarıdan ne kadar farklı göründüğünü düşündü."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Dedesi Elanaz'ı nereye çıkardı?",
         "options": [
-          "Hiçbir şey",
-          "Mevsim",
-          "Korkmak",
-          "Kaçmak"
+          "Bahçedeki kulübeye",
+          "Çatı katındaki küçük odaya",
+          "Parktaki kuleye",
+          "Okulun terasına"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Evlerin çatıları neye benziyordu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Minik kutulara",
+          "Büyük dağlara",
+          "Renkli balonlara",
+          "Küçük gemilere"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Sokaklardaki arabalar nasıl ilerliyordu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Çok hızlı",
+          "Ters yönde",
+          "Durmadan korna çalarak",
+          "Oyuncak gibi"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Aşağı inerken Elanaz ne düşündü?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Acıktığını",
+          "Yorulduğunu",
+          "Dünyanın yukarıdan ne kadar farklı göründüğünü",
+          "Eve geç kaldığını"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-29-okul-tiyatrosu",
-    "baslik": "Elanaz ve Okul Tiyatrosu",
+    "baslik": "Elanaz ve Bulunan Para",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Sanat dersinde sahne sanatı konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz sahne sanatı konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Elanaz okul bahçesinde yerde bir madeni para gördü. Parayı alıp avucunda tuttu. Bir an onunla ne alabileceğini düşündü. Ama bu para başkasına ait olabilirdi.",
+      "İçi rahat etmedi ve öğretmenine gitti. Parayı uzatıp nerede bulduğunu anlattı. Öğretmeni gülümseyip başını okşadı.",
+      "Az sonra parasını arayan bir çocuk sınıfa geldi. Elanaz, doğru olanı yaptığı için içten içe mutluydu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz okul bahçesinde yerde ne gördü?",
         "options": [
-          "Hiçbir şey",
-          "Sahne sanatı",
-          "Korkmak",
-          "Kaçmak"
+          "Bir kalem",
+          "Bir anahtar",
+          "Bir madeni para",
+          "Bir bilezik"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz'ın içi neden rahat etmedi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Para başkasına ait olabilirdi",
+          "Para çok azdı",
+          "Parayı kaybetmişti",
+          "Parayı beğenmemişti"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz parayı kime götürdü?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Annesine",
+          "Arkadaşına",
+          "Müdüre",
+          "Öğretmenine"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Az sonra sınıfa kim geldi?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Elanaz'ın annesi",
+          "Parasını arayan bir çocuk",
+          "Bir öğretmen",
+          "Okul müdürü"
         ],
         "correctAnswer": 1
       }
@@ -1551,185 +1311,155 @@
   },
   {
     "id": "elanaz-hikaye-30-deniz-kenarı",
-    "baslik": "Elanaz ve Deniz Kenarı",
+    "baslik": "Elanaz ve Ateş Böcekleri",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Aile dersinde tatil konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz tatil konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Yaz akşamı hava tatlı tatlı serinlemişti. Elanaz bahçede otların arasında oturuyordu. Karanlık çökerken küçük ışıklar belirmeye başladı.",
+      "Bunlar minik ateş böcekleriydi. Havada yanıp sönerek dans ediyorlardı. Elanaz nefesini tutup onları izledi.",
+      "Bir tanesi eline kondu, minik bir fener gibiydi. Sonra usulca uçup gitti. Elanaz o güzel geceyi hiç unutmayacaktı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz bahçede nerede oturuyordu?",
         "options": [
-          "Hiçbir şey",
-          "Tatil",
-          "Korkmak",
-          "Kaçmak"
+          "Otların arasında",
+          "Bir bankta",
+          "Salıncakta",
+          "Ağacın dalında"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Karanlık çökerken beliren küçük ışıklar neydi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Yıldızlar",
+          "Fenerler",
+          "Mumlar",
+          "Minik ateş böcekleri"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Ateş böcekleri havada ne yapıyordu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Yanıp sönerek dans ediyorlardı",
+          "Uyuyorlardı",
+          "Yere düşüyorlardı",
+          "Ses çıkarıyorlardı"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Eline konan ateş böceği neye benziyordu?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Bir çiçeğe",
+          "Bir taşa",
+          "Minik bir fenere",
+          "Bir yaprağa"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-31-yardım-kampanyası",
-    "baslik": "Elanaz ve Yardım Kampanyası",
+    "baslik": "Elanaz ve Balık Tutma",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Toplum dersinde yardımlaşma konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz yardımlaşma konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Dedesiyle birlikte göl kenarına gittiler. Dedesi ona oltayı nasıl tutacağını gösterdi. Elanaz oltayı suya attı ve beklemeye başladı.",
+      "Dakikalar geçti ama hiçbir şey olmadı. Sıkılıp oltayı bırakmak istedi. Dedesi \"Biraz daha sabret,\" dedi sakince. Elanaz derin bir nefes alıp bekledi.",
+      "Derken olta birden titredi. Yavaşça çekince pırıl pırıl küçük bir balık çıktı. Sabrının karşılığını aldığı için gülümsedi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz dedesiyle nereye gitti?",
         "options": [
-          "Hiçbir şey",
-          "Yardımlaşma",
-          "Korkmak",
-          "Kaçmak"
+          "Ormana",
+          "Göl kenarına",
+          "Dağa",
+          "Pazara"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Dedesi Elanaz'a ne gösterdi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Yüzmeyi",
+          "Kayık kullanmayı",
+          "Balık pişirmeyi",
+          "Oltayı nasıl tutacağını"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz sıkılınca dedesi ne dedi?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "\"Biraz daha sabret\"",
+          "\"Eve gidelim\"",
+          "\"Oltayı bırak\"",
+          "\"Yeter artık\""
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Sonunda oltada ne çıktı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Bir çizme",
+          "Bir dal",
+          "Pırıl pırıl küçük bir balık",
+          "Bir taş"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-32-zaman-makinesi",
-    "baslik": "Elanaz ve Zaman Makinesi",
+    "baslik": "Elanaz ve Eski Bisiklet",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Hikâye dersinde hayal konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz hayal konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Garajda tozlu, eski bir bisiklet duruyordu. Elanaz onu yeniden çalışır hale getirmek istedi. Babasıyla birlikte lastiklerini şişirdi ve zincirini yağladı. Sonra selesini bir bezle sildi.",
+      "Bisiklet yeniden pırıl pırıl olmuştu. Elanaz onu bahçeye çıkarıp üstüne bindi. İlk başta dengesini zor buldu, biraz sallandı.",
+      "Sonra pedallara yüklenince tekerlekler dönmeye başladı. Rüzgârı yüzünde hissederek bütün bahçeyi turladı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Garajda ne duruyordu?",
         "options": [
-          "Hiçbir şey",
-          "Hayal",
-          "Korkmak",
-          "Kaçmak"
+          "Yeni bir araba",
+          "Bir kızak",
+          "Tozlu, eski bir bisiklet",
+          "Bir kaykay"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz babasıyla bisikleti nasıl onardı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Lastiklerini şişirip zincirini yağladı",
+          "Yeni bir tekerlek taktı",
+          "Boyasını değiştirdi",
+          "Zilini değiştirdi"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Bisiklete ilk bindiğinde ne oldu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Hemen hızlandı",
+          "Zincir koptu",
+          "Lastik patladı",
+          "Dengesini zor buldu, biraz sallandı"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Sonunda Elanaz ne yaptı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Bisikleti garaja geri koydu",
+          "Bütün bahçeyi turladı",
+          "Bisikletten indi",
+          "Yardım istedi"
         ],
         "correctAnswer": 1
       }
@@ -1737,185 +1467,155 @@
   },
   {
     "id": "elanaz-hikaye-33-gizli-hazine",
-    "baslik": "Elanaz ve Gizli Hazine",
+    "baslik": "Elanaz ve İyileşme Kartı",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Macera dersinde keşif konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz keşif konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Elanaz'ın arkadaşı birkaç gündür hastaydı, okula gelemiyordu. Elanaz onu çok özlemişti. Renkli kâğıtlardan bir kart yapmaya karar verdi.",
+      "Üstüne kocaman bir güneş ve rengârenk çiçekler çizdi. İçine \"Çabuk iyileş, seni bekliyoruz,\" yazdı. Kartı özenle bir zarfa koydu.",
+      "Annesiyle birlikte arkadaşının evine bıraktılar. Arkadaşı kartı görünce yatağında doğrulup gülümsedi. O küçük kart, hasta odasını bir anda aydınlatmıştı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz'ın arkadaşı neden okula gelemiyordu?",
         "options": [
-          "Hiçbir şey",
-          "Keşif",
-          "Korkmak",
-          "Kaçmak"
+          "Hasta olduğu için",
+          "Taşındığı için",
+          "Tatile gittiği için",
+          "Uyuyakaldığı için"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Elanaz arkadaşı için ne yapmaya karar verdi?",
+        "options": [
+          "Bir pasta",
+          "Bir oyuncak",
+          "Renkli kâğıtlardan bir kart",
+          "Bir kolye"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Kartın içine ne yazdı?",
+        "options": [
+          "\"İyi tatiller\"",
+          "\"Çabuk iyileş, seni bekliyoruz\"",
+          "\"Doğum günün kutlu olsun\"",
+          "\"Hoşça kal\""
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Kartı kiminle arkadaşının evine bıraktı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Dedesiyle",
+          "Öğretmeniyle",
+          "Yalnız başına",
+          "Annesiyle"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-34-uzay-yolculuğu",
-    "baslik": "Elanaz ve Uzay Yolculuğu",
+    "baslik": "Elanaz ve Deniz Kabukları",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Fen dersinde bilim konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz bilim konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Elanaz tatilde her sabah kumsala iniyordu. Dalgaların kıyıya bıraktığı deniz kabuklarını topluyordu. Kimi pembe, kimi sedef gibi parlaktı. En güzellerini küçük bir kovaya koydu.",
+      "Bazıları sarmal, bazıları yelpaze biçimindeydi. Akşamları onları büyüklüğüne göre diziyordu. Küçük bir kutu, rengârenk kabuklarla dolmuştu.",
+      "Tatil bitince kutuyu evine götürdü. Her kabuk ona denizin sesini hatırlatıyordu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz tatilde her sabah nereye iniyordu?",
         "options": [
-          "Hiçbir şey",
-          "Bilim",
-          "Korkmak",
-          "Kaçmak"
+          "Ormana",
+          "Pazara",
+          "Havuza",
+          "Kumsala"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Elanaz kumsalda ne topluyordu?",
+        "options": [
+          "Çakıl taşları",
+          "Deniz kabukları",
+          "Yosunlar",
+          "Deniz yıldızları"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "En güzel kabukları nereye koydu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Küçük bir kovaya",
+          "Cebine",
+          "Bir çantaya",
+          "Bir kavanoza"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Akşamları kabukları neye göre diziyordu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Rengine göre",
+          "Sesine göre",
+          "Büyüklüğüne göre",
+          "Ağırlığına göre"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-35-orman-yangını",
-    "baslik": "Elanaz ve Orman Yangını",
+    "baslik": "Elanaz ve Şiir Okuma",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Çevre dersinde çevre koruma konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz çevre koruma konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Öğretmen sınıfta bir şiir okunmasını istedi. Elanaz'ın kalbi güm güm atıyordu. Parmağını kaldırmak için epey düşündü. Sonra cesaretini toplayıp elini kaldırdı.",
+      "Ayağa kalktığında dizleri hafifçe titriyordu. Derin bir nefes aldı ve okumaya başladı. Sesi önce kısıktı, sonra gitgide güçlendi.",
+      "Şiir bitince bütün sınıf onu alkışladı. Elanaz yerine otururken yüzü sevinçten parlıyordu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Öğretmen sınıfta ne istedi?",
         "options": [
-          "Hiçbir şey",
-          "Çevre koruma",
-          "Korkmak",
-          "Kaçmak"
+          "Bir resim yapılmasını",
+          "Bir şarkı söylenmesini",
+          "Bir şiir okunmasını",
+          "Bir hikâye yazılmasını"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz sonunda ne yaptı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Cesaretini toplayıp elini kaldırdı",
+          "Başını önüne eğdi",
+          "Sınıftan çıktı",
+          "Arkadaşına sordu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz okurken sesi nasıl değişti?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Hep aynı kaldı",
+          "Gitgide kısıldı",
+          "Titreyerek kesildi",
+          "Önce kısıktı, sonra gitgide güçlendi"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Şiir bitince sınıf ne yaptı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Sessiz kaldı",
+          "Onu alkışladı",
+          "Güldü",
+          "Dağıldı"
         ],
         "correctAnswer": 1
       }
@@ -1923,185 +1623,155 @@
   },
   {
     "id": "elanaz-hikaye-36-köy-ziyareti",
-    "baslik": "Elanaz ve Köy Ziyareti",
+    "baslik": "Elanaz ve Kar Tanesi",
     "seviye": 2,
     "sayfalar": [
-      "Elanaz o sabah okula gitti. Toplum dersinde köy hayatı konusunu işlediler. Öğretmeni \"Dikkatle dinleyin\" dedi. Elanaz not aldı.",
-      "Ders sırasında beklenmedik bir durum oldu. Elanaz önce şaşırdı. Sonra düşündü ve doğru kararı verdi. Arkadaşları da ona destek oldu.",
-      "Günün sonunda Elanaz başardı. Öğretmeni onu tebrik etti. Elanaz köy hayatı konusunda artık daha bilgiliydi ve gurur duyuyordu."
+      "Kar sabahtan beri lapa lapa yağıyordu. Elanaz bahçeye çıkıp avucunu açtı. Bir kar tanesi eldiveninin üstüne kondu. Dedesi ona küçük bir büyüteç uzattı.",
+      "Elanaz büyüteci kar tanesine tuttu. O anda gözlerine inanamadı. Kar tanesi minik, altı köşeli bir yıldıza benziyordu. Her tane birbirinden farklıydı.",
+      "Elanaz uzun süre kar tanelerini tek tek inceledi. Soğuğa aldırmadan büyülenmiş gibi baktı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Kar nasıl yağıyordu?",
         "options": [
-          "Hiçbir şey",
-          "Köy hayatı",
-          "Korkmak",
-          "Kaçmak"
+          "Lapa lapa",
+          "Çok hafif",
+          "Yağmurla karışık",
+          "Hiç yağmıyordu"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kar tanesi nereye kondu?",
+        "options": [
+          "Burnuna",
+          "Saçına",
+          "Eldiveninin üstüne",
+          "Ağaca"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Dedesi Elanaz'a ne uzattı?",
+        "options": [
+          "Bir eldiven",
+          "Küçük bir büyüteç",
+          "Bir kürek",
+          "Bir fotoğraf makinesi"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Büyüteçle bakınca kar tanesi neye benziyordu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bir çiçeğe",
+          "Bir kalbe",
+          "Bir yağmur damlasına",
+          "Minik, altı köşeli bir yıldıza"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-37-robot-arkadaş",
-    "baslik": "Elanaz ve Robot Arkadaş",
+    "baslik": "Elanaz ve Sofra Kurma",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte teknoloji deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Bilim konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda teknoloji ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Teknoloji ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Akşam yemeği yaklaşıyordu. Elanaz bu kez sofrayı kendisi kurmak istedi. Annesi gülümseyip \"Tabii, sana güveniyorum,\" dedi.",
+      "Elanaz tabakları dikkatle taşıdı. Her tabağın yanına bir çatal ve kaşık koydu. Peçeteleri düzgünce katladı. Ortaya bir sürahi su yerleştirdi.",
+      "Sofra tertemiz ve düzgün görünüyordu. Aile masaya oturunca herkes onu övdü. Elanaz göğsü kabararak yerine oturdu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz bu kez ne yapmak istedi?",
         "options": [
-          "Hiçbir şey",
-          "Teknoloji",
-          "Korkmak",
-          "Kaçmak"
+          "Yemek pişirmek",
+          "Bulaşık yıkamak",
+          "Alışverişe gitmek",
+          "Sofrayı kendisi kurmak"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Annesi ona ne dedi?",
+        "options": [
+          "\"Sen daha küçüksün\"",
+          "\"Tabii, sana güveniyorum\"",
+          "\"Ben yaparım\"",
+          "\"Sonra kurarsın\""
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Her tabağın yanına ne koydu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bir çatal ve kaşık",
+          "Bir bardak süt",
+          "Bir çiçek",
+          "Bir kitap"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Aile masaya oturunca ne oldu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Kimse fark etmedi",
+          "Sofra dağıldı",
+          "Herkes onu övdü",
+          "Yemek soğumuştu"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-38-göl-kenarı",
-    "baslik": "Elanaz ve Göl Kenarı",
+    "baslik": "Elanaz ve Yaprak Toplama",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte doğa deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Çevre konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda doğa ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Doğa ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Hafta sonu ailece ormanda yürüyüşe çıktılar. Ağaçların altı rengârenk yapraklarla kaplıydı. Elanaz yürürken farklı yapraklar topladı.",
+      "Kimi sarı, kimi kırmızı, kimi kahverengiydi. Bazıları küçük, bazıları kocamandı. Onları avucunda bir demet yaptı. Bir yaprağın kenarları testere gibi tırtıklıydı.",
+      "Elanaz yaprakları evde bir deftere yapıştırmaya karar verdi. Dönüş yolunda çantası bu hazinelerle doluydu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Hafta sonu aile nereye yürüyüşe çıktı?",
         "options": [
-          "Hiçbir şey",
-          "Doğa",
-          "Korkmak",
-          "Kaçmak"
+          "Deniz kıyısına",
+          "Pazara",
+          "Ormana",
+          "Parka"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz yürürken ne topladı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Farklı yapraklar",
+          "Çiçekler",
+          "Taşlar",
+          "Kozalaklar"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Bir yaprağın kenarları neye benziyordu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Yuvarlaktı",
+          "Dümdüzdü",
+          "Kıvrımlıydı",
+          "Testere gibi tırtıklıydı"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Elanaz yaprakları ne yapmaya karar verdi?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Bahçeye atmaya",
+          "Evde bir deftere yapıştırmaya",
+          "Arkadaşına vermeye",
+          "Ağaca geri koymaya"
         ],
         "correctAnswer": 1
       }
@@ -2109,185 +1779,155 @@
   },
   {
     "id": "elanaz-hikaye-39-büyük-proje",
-    "baslik": "Elanaz ve Büyük Proje",
+    "baslik": "Elanaz ve Oyuna Davet",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte planlama deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Okul konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda planlama ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Planlama ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Bahçenin köşesinde bir çocuk tek başına oturuyordu. Diğerleri koşup oynarken o kimseyle konuşmuyordu. Elanaz onun biraz üzgün göründüğünü fark etti.",
+      "Yanına gidip \"Bizimle oynamak ister misin?\" diye sordu. Çocuğun gözleri parladı ve başını salladı. Birlikte diğer arkadaşların yanına koştular.",
+      "Az sonra hep beraber saklambaç oynuyorlardı. Yalnız oturan çocuk artık kahkahalar atıyordu. Elanaz onun gülüşünü görünce içi ısındı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Bahçenin köşesindeki çocuk ne yapıyordu?",
         "options": [
-          "Hiçbir şey",
-          "Planlama",
-          "Korkmak",
-          "Kaçmak"
+          "Tek başına oturuyordu",
+          "Koşuyordu",
+          "Ağlıyordu",
+          "Kitap okuyordu"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Elanaz çocuğun nasıl göründüğünü fark etti?",
+        "options": [
+          "Çok neşeli",
+          "Uykulu",
+          "Biraz üzgün",
+          "Kızgın"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Elanaz çocuğa ne sordu?",
+        "options": [
+          "\"Adın ne?\"",
+          "\"Bizimle oynamak ister misin?\"",
+          "\"Neden buradasın?\"",
+          "\"Kaç yaşındasın?\""
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Az sonra hep beraber ne oynuyorlardı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Futbol",
+          "İp atlama",
+          "Satranç",
+          "Saklambaç"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-40-sihirli-orman",
-    "baslik": "Elanaz ve Sihirli Orman",
+    "baslik": "Elanaz ve Ayın Şekli",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte macera deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Hikâye konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda macera ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Macera ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz birkaç gecedir gökyüzünü izliyordu. İlk gece ay ince bir kayık gibiydi. Ertesi gece biraz daha büyümüştü. Birkaç gün sonra kocaman, yuvarlak bir top oldu.",
+      "Elanaz bunu dedesine anlattı. Dedesi ayın her gece şeklinin değiştiğini söyledi.",
+      "Elanaz her akşam pencereden aya baktı. Bir defter alıp ayın şekillerini çizdi. Gökyüzünün her gece küçük bir sürpriz sakladığını düşündü."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "İlk gece ay neye benziyordu?",
         "options": [
-          "Hiçbir şey",
-          "Macera",
-          "Korkmak",
-          "Kaçmak"
+          "Bir topa",
+          "Bir yıldıza",
+          "Bir buluta",
+          "İnce bir kayığa"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Birkaç gün sonra ay ne oldu?",
+        "options": [
+          "Kayboldu",
+          "Kocaman, yuvarlak bir top oldu",
+          "İkiye bölündü",
+          "Küçüldü"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Dedesi Elanaz'a ne söyledi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Ayın her gece şeklinin değiştiğini",
+          "Ayın hep aynı kaldığını",
+          "Ayın bir yıldız olduğunu",
+          "Ayın gündüz göründüğünü"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz deftere ne çizdi?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Yıldızları",
+          "Bulutları",
+          "Ayın şekillerini",
+          "Güneşi"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-41-zaman-yolculuğu",
-    "baslik": "Elanaz ve Zaman Yolculuğu",
+    "baslik": "Elanaz ve Kumbara",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte tarih deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Kültür konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda tarih ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Tarih ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz vitrindeki oyuncak treni çok istiyordu. Ama treni almaya parası yetmiyordu. Annesi ona küçük bir kumbara verdi.",
+      "Elanaz her harçlığından biraz ayırdı. Kumbaraya attığı her para \"şıngır\" diye ses çıkardı. Bazen şeker almak istese de kendini tuttu. Haftalar geçtikçe kumbara ağırlaştı.",
+      "Sonunda kumbarayı açıp paraları saydı. Treni alacak kadar biriktirdiğini görünce sevinçten zıpladı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz vitrinde neyi çok istiyordu?",
         "options": [
-          "Hiçbir şey",
-          "Tarih",
-          "Korkmak",
-          "Kaçmak"
+          "Bir bebeği",
+          "Bir bisikleti",
+          "Oyuncak treni",
+          "Bir topu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Annesi ona ne verdi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Küçük bir kumbara",
+          "Biraz para",
+          "Bir oyuncak",
+          "Bir defter"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz her harçlığından ne yaptı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Hepsini şekere harcadı",
+          "Arkadaşına verdi",
+          "Kaybetti",
+          "Biraz ayırıp kumbaraya attı"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Kumbarayı açıp sayınca ne gördü?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Kumbaranın boş olduğunu",
+          "Treni alacak kadar biriktirdiğini",
+          "Paraların eksildiğini",
+          "Yeterli olmadığını"
         ],
         "correctAnswer": 1
       }
@@ -2295,247 +1935,207 @@
   },
   {
     "id": "elanaz-hikaye-42-denizaltı",
-    "baslik": "Elanaz ve Denizaltı",
+    "baslik": "Elanaz ve Rüzgârdaki Yapraklar",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte keşif deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Fen konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda keşif ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Keşif ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "O gün rüzgâr bahçede hızla esiyordu. Elanaz kapının önünde durup izledi. Ağaçtan kopan yapraklar havada dönüyordu. Bazıları küçük kelebekler gibi süzülüyordu.",
+      "Rüzgâr bir anda hepsini yukarı savurdu. Elanaz kollarını açıp aralarında koştu. Yapraklar saçlarına ve omuzlarına konuyordu.",
+      "Kahkahalar atarak onları yakalamaya çalıştı. Rüzgâr dinince yapraklar usulca yere indi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "O gün bahçede ne hızla esiyordu?",
         "options": [
-          "Hiçbir şey",
-          "Keşif",
-          "Korkmak",
-          "Kaçmak"
+          "Yağmur",
+          "Rüzgâr",
+          "Kar",
+          "Sis"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Ağaçtan kopan yapraklar neye benziyordu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Kuşlara",
+          "Kar tanelerine",
+          "Balonlara",
+          "Küçük kelebeklere"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz yaprakların arasında ne yaptı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Kollarını açıp koştu",
+          "Yere oturdu",
+          "İçeri kaçtı",
+          "Onları süpürdü"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Rüzgâr dinince yapraklar ne oldu?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
+          "Havada kaldı",
+          "Kayboldu",
+          "Usulca yere indi",
+          "Ağaca geri döndü"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-43-dağ-tırmanışı",
-    "baslik": "Elanaz ve Dağ Tırmanışı",
+    "baslik": "Elanaz ve Sürpriz Kahvaltı",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte cesaret deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Spor konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda cesaret ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Cesaret ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz sabah herkesten önce uyandı. Annesine sürpriz bir kahvaltı hazırlamak istiyordu. Mutfağa sessizce girdi.",
+      "Tabaklara peynir, zeytin ve reçel koydu. Ekmekleri küçük bir sepete dizdi. Ortaya bahçeden topladığı bir çiçek yerleştirdi.",
+      "Annesi uyanıp mutfağa geldiğinde şaşkınlıkla durdu. Gözleri sevinçle doldu ve Elanaz'a sımsıkı sarıldı. O sabah kahvaltı her zamankinden güzeldi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz sabah ne yaptı?",
         "options": [
-          "Hiçbir şey",
-          "Cesaret",
-          "Korkmak",
-          "Kaçmak"
+          "Herkesten önce uyandı",
+          "Geç uyandı",
+          "Okula gitti",
+          "Bahçeye çıktı"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Elanaz annesine ne hazırlamak istiyordu?",
+        "options": [
+          "Bir hediye",
+          "Bir kart",
+          "Sürpriz bir kahvaltı",
+          "Bir resim"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sofranın ortasına ne yerleştirdi?",
+        "options": [
+          "Bir mum",
+          "Bahçeden topladığı bir çiçek",
+          "Bir oyuncak",
+          "Bir sürahi su"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Annesi mutfağa gelince ne yaptı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Kızdı",
+          "Geri döndü",
+          "Hiçbir şey demedi",
+          "Elanaz'a sımsıkı sarıldı"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-44-gizemli-ada",
-    "baslik": "Elanaz ve Gizemli Ada",
+    "baslik": "Elanaz ve Kuş Yemliği",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte macera deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Hikâye konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda macera ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Macera ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Kışın kuşların yiyecek bulması zorlaşmıştı. Elanaz onlara yardım etmek istedi. Babasıyla eski bir şişeden küçük bir yemlik yaptı.",
+      "İçine bir avuç kuş yemi doldurdular. Yemliği bahçedeki ağaca astılar. Elanaz pencerenin önünde sabırla bekledi.",
+      "Az sonra minik bir serçe yemliğe kondu. Ardından birkaç kuş daha geldi. Elanaz onların cıvıltısını dinlerken mutlulukla gülümsedi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Kışın kuşlar için ne zorlaşmıştı?",
         "options": [
-          "Hiçbir şey",
-          "Macera",
-          "Korkmak",
-          "Kaçmak"
+          "Uçmak",
+          "Uyumak",
+          "Ötüşmek",
+          "Yiyecek bulmak"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Elanaz babasıyla neyden yemlik yaptı?",
+        "options": [
+          "Bir kutudan",
+          "Eski bir şişeden",
+          "Bir daldan",
+          "Bir kâğıttan"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Yemliği nereye astılar?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bahçedeki ağaca",
+          "Pencereye",
+          "Kapının önüne",
+          "Çatıya"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Az sonra yemliğe ilk kim kondu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Bir güvercin",
+          "Bir kelebek",
+          "Minik bir serçe",
+          "Bir karga"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-45-bilim-fuarı",
-    "baslik": "Elanaz ve Bilim Fuarı",
+    "baslik": "Elanaz ve Yüzme",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte deney deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Fen konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda deney ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Deney ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz havuzun kenarında duruyordu. Suya girmeye bir türlü cesaret edemiyordu. İçini bir korku kaplamıştı. Öğretmeni elini uzatıp \"Yanındayım,\" dedi.",
+      "Elanaz önce ayaklarını suya soktu. Sonra yavaşça bütün vücuduyla girdi. Kollarını çırpmayı denedi ama başta batar gibi oldu.",
+      "Yılmadan tekrar denedi, sonra bir daha. Birkaç gün sonra suda kısa bir mesafe yüzebildi. Sudan korktuğu günleri hatırlayıp gururla güldü."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz havuzun kenarında neden duruyordu?",
         "options": [
-          "Hiçbir şey",
-          "Deney",
-          "Korkmak",
-          "Kaçmak"
+          "Yorgun olduğu için",
+          "Üşüdüğü için",
+          "Suya girmeye cesaret edemiyordu",
+          "Öğretmeni gelmediği için"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Öğretmeni elini uzatıp ne dedi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "\"Yanındayım\"",
+          "\"Eve git\"",
+          "\"Korkma yasak\"",
+          "\"Yarın gel\""
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz önce ne yaptı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Başını suya soktu",
+          "Havuzdan uzaklaştı",
+          "Kenarda oturdu",
+          "Ayaklarını suya soktu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Birkaç gün sonra Elanaz ne başardı?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Havuzu boşalttı",
+          "Suda kısa bir mesafe yüzebildi",
+          "Yüzmekten vazgeçti",
+          "Sudan hiç çıkmadı"
         ],
         "correctAnswer": 1
       }
@@ -2543,185 +2143,155 @@
   },
   {
     "id": "elanaz-hikaye-46-kış-sporları",
-    "baslik": "Elanaz ve Kış Sporları",
+    "baslik": "Elanaz ve Camdaki Yağmur",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte spor deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Spor konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda spor ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Spor ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Dışarıda yağmur çiseliyordu. Elanaz burnunu cama dayadı. Damlalar camın üstünde küçük yollar çiziyordu.",
+      "Bir damla yavaşça aşağı süzülüyordu. Başka bir damla ona katılıp birlikte kayıyordu. Elanaz parmağıyla en hızlı damlayı takip etti. Kendince damlalara yarış yaptırdı.",
+      "Cam yavaş yavaş buğulandı. Elanaz buğunun üstüne küçük bir kalp çizdi. Yağmuru izlemek ona hiç sıkıcı gelmedi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Dışarıda ne yağıyordu?",
         "options": [
-          "Hiçbir şey",
-          "Spor",
-          "Korkmak",
-          "Kaçmak"
+          "Yağmur",
+          "Kar",
+          "Dolu",
+          "Yaprak"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Damlalar camın üstünde ne çiziyordu?",
+        "options": [
+          "Yıldızlar",
+          "Resimler",
+          "Küçük yollar",
+          "Harfler"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Elanaz parmağıyla neyi takip etti?",
+        "options": [
+          "Bir kuşu",
+          "En hızlı damlayı",
+          "Bir bulutu",
+          "Bir yaprağı"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz buğunun üstüne ne çizdi?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bir güneş",
+          "Bir ev",
+          "Bir yıldız",
+          "Küçük bir kalp"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-47-yıldız-gözlemi",
-    "baslik": "Elanaz ve Yıldız Gözlemi",
+    "baslik": "Elanaz ve Resim Sergisi",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte uzay deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Fen konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda uzay ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Uzay ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz büyük bir resim yapmaya karar verdi. Boyalarını ve fırçasını hazırladı. Önce mavi bir gökyüzü, sonra yemyeşil bir tepe çizdi. Uzun süre uğraştı, elleri boyaya bulandı.",
+      "Resmi bitince biraz geri çekilip baktı. Yaptığı işten çok memnun kaldı. Resmi odasının duvarına özenle astı.",
+      "Ailesini küçük \"sergisini\" görmeye çağırdı. Herkes resmi beğenince yanakları kızardı. Emeğinin karşılığını görmek ona mutluluk verdi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz ne yapmaya karar verdi?",
         "options": [
-          "Hiçbir şey",
-          "Uzay",
-          "Korkmak",
-          "Kaçmak"
+          "Bir şarkı",
+          "Bir kek",
+          "Bir maket",
+          "Büyük bir resim"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Resminde önce neyi çizdi?",
+        "options": [
+          "Bir ev",
+          "Mavi bir gökyüzü",
+          "Bir çiçek",
+          "Bir kuş"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Resmi bitince nereye astı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Odasının duvarına",
+          "Buzdolabına",
+          "Okul panosuna",
+          "Kapıya"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz kimleri sergisini görmeye çağırdı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Öğretmenini",
+          "Komşularını",
+          "Ailesini",
+          "Arkadaşlarını"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-48-el-sanatları",
-    "baslik": "Elanaz ve El Sanatları",
+    "baslik": "Elanaz ve Salyangoz",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte yaratıcılık deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Sanat konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda yaratıcılık ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Yaratıcılık ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Yağmurdan sonra bahçe ıslaktı. Elanaz bir yaprağın üstünde küçük bir salyangoz gördü. Salyangoz kabuğunu sırtında taşıyordu. Çok ama çok yavaş ilerliyordu.",
+      "Elanaz yanına çömelip onu izledi. Salyangoz arkasında parlak, ince bir iz bırakıyordu. Boynuzları havayı usulca yokluyordu.",
+      "Elanaz onun bir sonraki yaprağa ulaşmasını sabırla bekledi. Salyangoz yaprağa varınca Elanaz sevindi. Acele etmeden de yol alınabildiğini düşündü."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz yaprağın üstünde ne gördü?",
         "options": [
-          "Hiçbir şey",
-          "Yaratıcılık",
-          "Korkmak",
-          "Kaçmak"
+          "Bir karınca",
+          "Bir kelebek",
+          "Küçük bir salyangoz",
+          "Bir uğur böceği"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Salyangoz kabuğunu nerede taşıyordu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Sırtında",
+          "Başında",
+          "Ağzında",
+          "Yanında"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Salyangoz arkasında ne bırakıyordu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Bir yaprak",
+          "Bir koku",
+          "Bir çizik",
+          "Parlak, ince bir iz"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Salyangoz yaprağa varınca Elanaz ne hissetti?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "Korktu",
+          "Sevindi",
+          "Sıkıldı",
+          "Kızdı"
         ],
         "correctAnswer": 1
       }
@@ -2729,185 +2299,155 @@
   },
   {
     "id": "elanaz-hikaye-49-çevre-gönüllüsü",
-    "baslik": "Elanaz ve Çevre Gönüllüsü",
+    "baslik": "Elanaz ve Masal Dinleme",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte çevre deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Çevre konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda çevre ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Çevre ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Akşam sıcak ve sessizdi. Büyükannesi Elanaz'ı dizinin dibine çağırdı. \"Sana eski bir masal anlatayım,\" dedi. Elanaz gözlerini kocaman açıp dinlemeye başladı.",
+      "Masalda cesur bir kız ve konuşan bir kuş vardı. Büyükannesinin sesi yükselip alçalıyordu. Elanaz her cümlede biraz daha heyecanlandı.",
+      "Masal bitince biraz daha istedi. Büyükannesi gülüp onun alnından öptü. O gece Elanaz masalın içinde uyuyakaldı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Büyükannesi Elanaz'ı nereye çağırdı?",
         "options": [
-          "Hiçbir şey",
-          "Çevre",
-          "Korkmak",
-          "Kaçmak"
+          "Dizinin dibine",
+          "Bahçeye",
+          "Mutfağa",
+          "Balkona"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Büyükannesi Elanaz'a ne yapmak istedi?",
+        "options": [
+          "Şarkı söylemek",
+          "Yemek yapmak",
+          "Eski bir masal anlatmak",
+          "Resim çizmek"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Masalda kimler vardı?",
+        "options": [
+          "Bir dev ve bir cüce",
+          "Cesur bir kız ve konuşan bir kuş",
+          "Bir kral ve bir at",
+          "İki kardeş"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
-        "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "O gece Elanaz ne oldu?",
         "options": [
           "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Dışarı çıktı",
+          "Masalı yazdı",
+          "Masalın içinde uyuyakaldı"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-50-kitap-yazarı",
-    "baslik": "Elanaz ve Kitap Yazarı",
+    "baslik": "Elanaz ve Gölge Oyunu",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte yazma deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Okuma konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda yazma ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Yazma ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Güneşli bir öğleden sonraydı. Elanaz bahçede kendi gölgesini fark etti. Kollarını kaldırınca gölge de kaldırıyordu. Zıpladığında gölge onunla zıplıyordu.",
+      "Ellerini birleştirip bir kuş şekli yaptı. Duvarda kocaman bir kuş gölgesi belirdi. Sonra bir tavşan, bir de köpek denedi.",
+      "Gölgesiyle uzun uzun oynadı. Güneş alçalınca gölgesi upuzun oldu. Kendi gölgesiyle oynamanın bu kadar eğlenceli olduğunu hiç düşünmemişti."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz bahçede neyi fark etti?",
         "options": [
-          "Hiçbir şey",
-          "Yazma",
-          "Korkmak",
-          "Kaçmak"
+          "Bir kuşu",
+          "Bir kelebeği",
+          "Bir çiçeği",
+          "Kendi gölgesini"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Elanaz kollarını kaldırınca gölge ne yapıyordu?",
+        "options": [
+          "Kayboluyordu",
+          "O da kollarını kaldırıyordu",
+          "Küçülüyordu",
+          "Renk değiştiriyordu"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Ellerini birleştirip önce hangi şekli yaptı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bir kuş",
+          "Bir balık",
+          "Bir at",
+          "Bir yılan"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Güneş alçalınca gölgesi nasıl oldu?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Kayboldu",
+          "Minicik oldu",
+          "Upuzun oldu",
+          "İkiye bölündü"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-51-müzik-grubu",
-    "baslik": "Elanaz ve Müzik Grubu",
+    "baslik": "Elanaz ve Oyuncak Hediye",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte müzik deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Sanat konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda müzik ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Müzik ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz oyuncak kutusunu düzenliyordu. İçinde uzun süredir oynamadığı bir oyuncak ayı vardı. Annesi ona ihtiyacı olan çocuklardan söz etti.",
+      "Elanaz bir an ayısına baktı ve biraz düşündü. Sonra onu güzelce temizleyip bir kutuya koydu. Kutuyu birlikte bağış sandığına götürdüler.",
+      "İçinden \"Umarım biri onu çok sever,\" diye geçirdi. Ayıdan ayrılmak kolay değildi ama içi rahattı. Başka bir çocuğun sevineceğini düşününce gülümsedi."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz ne düzenliyordu?",
         "options": [
-          "Hiçbir şey",
-          "Müzik",
-          "Korkmak",
-          "Kaçmak"
+          "Kitaplığını",
+          "Çekmecesini",
+          "Oyuncak kutusunu",
+          "Çantasını"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Kutunun içinde ne vardı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Uzun süredir oynamadığı bir oyuncak ayı",
+          "Eski bir kitap",
+          "Bir top",
+          "Renkli kalemler"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Elanaz ayıyı temizleyip ne yaptı?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Rafına geri koydu",
+          "Kardeşine verdi",
+          "Sakladı",
+          "Bir kutuya koyup bağış sandığına götürdü"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Ayıyı verirken içinden ne geçirdi?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "\"Keşke vermeseydim\"",
+          "\"Umarım biri onu çok sever\"",
+          "\"Yarın geri alırım\"",
+          "\"Bu ayı çok eski\""
         ],
         "correctAnswer": 1
       }
@@ -2915,247 +2455,207 @@
   },
   {
     "id": "elanaz-hikaye-52-arkeoloji",
-    "baslik": "Elanaz ve Arkeoloji",
+    "baslik": "Elanaz ve Bahçede Kamp",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte tarih deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Kültür konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda tarih ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Tarih ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz bu gece bahçede kamp yapmak istedi. Babasıyla birlikte küçük bir çadır kurdular. İçine yastıklarını ve battaniyesini taşıdı.",
+      "Hava kararınca çadırın önünde oturdular. Gökyüzü yıldızlarla doluydu. Bir el fenerinin ışığında sohbet ettiler. Uzaktan gelen böcek seslerini dinlediler.",
+      "Elanaz çadırda uyumanın heyecanıyla kıpır kıpırdı. Battaniyesine sarılıp mışıl mışıl uyudu."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz bu gece ne yapmak istedi?",
         "options": [
-          "Hiçbir şey",
-          "Tarih",
-          "Korkmak",
-          "Kaçmak"
+          "Bahçede kamp",
+          "Sinemaya gitmek",
+          "Erken uyumak",
+          "Resim yapmak"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Babasıyla birlikte ne kurdular?",
+        "options": [
+          "Bir salıncak",
+          "Bir masa",
+          "Küçük bir çadır",
+          "Bir kulübe"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hava kararınca gökyüzü nasıldı?",
+        "options": [
+          "Bulutluydu",
+          "Yıldızlarla doluydu",
+          "Kapkaranlıktı",
+          "Yağmurluydu"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Neyin ışığında sohbet ettiler?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Bir mumun",
+          "Ay ışığının",
+          "Bir lambanın",
+          "Bir el fenerinin"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-53-geleceğin-şehri",
-    "baslik": "Elanaz ve Geleceğin Şehri",
+    "baslik": "Elanaz ve Merak Ettiği Soru",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte hayal deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Bilim konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda hayal ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Hayal ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz gökyüzünün neden mavi olduğunu merak etti. Annesine sordu ama tam bir cevap alamadı. Sonra evdeki büyük ansiklopediyi açtı.",
+      "Sayfaları tek tek çevirdi. Gökyüzüyle ilgili renkli bir bölüm buldu. Yazıları dikkatle, yavaş yavaş okudu.",
+      "Öğrendiği bilgiye çok şaşırdı. Kitabı kapatırken gülümsüyordu. Bir sorunun cevabını kendi bulmak ona keyif vermişti."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz neyi merak etti?",
         "options": [
-          "Hiçbir şey",
-          "Hayal",
-          "Korkmak",
-          "Kaçmak"
+          "Denizin neden tuzlu olduğunu",
+          "Ayın neden parladığını",
+          "Kuşların nasıl uçtuğunu",
+          "Gökyüzünün neden mavi olduğunu"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Cevabı bulmak için ne yaptı?",
+        "options": [
+          "Uyudu",
+          "Evdeki büyük ansiklopediyi açtı",
+          "Dışarı çıktı",
+          "Vazgeçti"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Ansiklopedide ne buldu?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Gökyüzüyle ilgili renkli bir bölüm",
+          "Bir harita",
+          "Bir masal",
+          "Bir bulmaca"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Kendi bulduğu cevap Elanaz'a nasıl hissettirdi?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Onu üzdü",
+          "Onu yordu",
+          "Ona keyif verdi",
+          "Onu korkuttu"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       }
     ]
   },
   {
     "id": "elanaz-hikaye-54-büyük-keşif",
-    "baslik": "Elanaz ve Büyük Keşif",
+    "baslik": "Elanaz ve Örümcek Ağı",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte merak deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Fen konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda merak ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Merak ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Sabah erkenden bahçeye çıktı. Çalıların arasında ince bir örümcek ağı vardı. Ağın üstünde minik su damlaları asılıydı.",
+      "Güneş vurunca damlalar birer elmas gibi parladı. Elanaz nefesini tutup yaklaştı. Ağ, ışıkta rengârenk parlıyordu. En küçük rüzgârda damlalar titriyordu.",
+      "Elanaz ona hiç dokunmadan uzun uzun baktı. Doğanın böyle küçük bir mücevher sakladığına şaşırdı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Çalıların arasında ne vardı?",
         "options": [
-          "Hiçbir şey",
-          "Merak",
-          "Korkmak",
-          "Kaçmak"
+          "İnce bir örümcek ağı",
+          "Bir kuş yuvası",
+          "Bir çiçek",
+          "Bir yaprak"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Ağın üstünde ne asılıydı?",
+        "options": [
+          "Küçük yapraklar",
+          "Renkli boncuklar",
+          "Minik su damlaları",
+          "İnce iplikler"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Güneş vurunca damlalar neye benzedi?",
+        "options": [
+          "Kar tanelerine",
+          "Birer elmasa",
+          "Yağmura",
+          "Yıldızlara"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz ağa ne yaptı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Eliyle bozdu",
+          "Üfledi",
+          "Bir dalla dürttü",
+          "Hiç dokunmadan uzun uzun baktı"
         ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
-        "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
-        "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
-        ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       }
     ]
   },
   {
     "id": "elanaz-hikaye-55-son-macera",
-    "baslik": "Elanaz ve Son Macera",
+    "baslik": "Elanaz ve Veda Hediyesi",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz hafta sonu ailesiyle birlikte arkadaşlık deneyimi yaşamak istedi. Önce biraz endişelendi. Sonra cesaretini topladı. Hikâye konusunda yeni şeyler öğrenecekti. Yanında en iyi arkadaşı Zeynep de vardı.",
-      "Yolculuk sırasında zorluklarla karşılaştılar. Hava değişti, plan değişti. Elanaz sabırlı oldu. Ailesi ve öğretmeni ona güvendi. Her adımda arkadaşlık ile ilgili yeni bir şey keşfetti.",
-      "Macera bittiğinde Elanaz çok şey öğrenmişti. Arkadaşlık ona sabır, cesaret ve paylaşmanın önemini hatırlattı. Eve dönerken annesine anlattı: \"Yarın yine deneyeceğim!\""
+      "Elanaz'ın en yakın arkadaşı başka şehre taşınıyordu. Elanaz buna çok üzülmüştü. Ona unutulmayacak bir hediye hazırlamak istedi.",
+      "Birlikte çekildikleri fotoğrafları bir deftere yapıştırdı. Her sayfaya küçük notlar yazdı. Defterin kapağına el ele tutuşan iki çocuk çizdi.",
+      "Veda günü hediyeyi arkadaşına uzattı. Arkadaşının gözleri dolarak ona sarıldı. \"Seni hiç unutmayacağım,\" dedi Elanaz. İkisi de gülümseyerek vedalaştı."
     ],
     "sorular": [
       {
-        "question": "Elanaz hikâyede ne öğrendi?",
+        "question": "Elanaz'ın en yakın arkadaşı ne yapıyordu?",
         "options": [
-          "Hiçbir şey",
-          "Arkadaşlık",
-          "Korkmak",
-          "Kaçmak"
+          "Hastalanmıştı",
+          "Tatile gidiyordu",
+          "Başka şehre taşınıyordu",
+          "Okul değiştiriyordu"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Elanaz'a kim yardım etti?",
+        "question": "Elanaz deftere ne yapıştırdı?",
         "options": [
-          "Ali",
-          "Zeynep",
-          "Kimse",
-          "Öğretmen"
+          "Birlikte çekildikleri fotoğrafları",
+          "Renkli kâğıtlar",
+          "Çıkartmalar",
+          "Kuru yapraklar"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
-        "question": "Sorun çıkınca Elanaz ne yaptı?",
+        "question": "Defterin kapağına ne çizdi?",
         "options": [
-          "Ağladı",
-          "Çözüm aradı",
-          "Pes etti",
-          "Kaçtı"
+          "Bir güneş",
+          "Bir kalp",
+          "Bir ev",
+          "El ele tutuşan iki çocuk"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Hikâyenin sonunda Elanaz nasıl hissetti?",
+        "question": "Elanaz veda ederken ne dedi?",
         "options": [
-          "Kızgın",
-          "Mutlu",
-          "Korkmuş",
-          "Üzgün"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Hikâyenin ana fikri nedir?",
-        "options": [
-          "Vazgeçmek gerekir",
-          "Sabırlı ve cesur olmak gerekir",
-          "Yardım etmemek gerekir",
-          "Korkmak gerekir"
+          "\"Güle güle\"",
+          "\"Seni hiç unutmayacağım\"",
+          "\"Yakında görüşürüz\"",
+          "\"İyi yolculuklar\""
         ],
         "correctAnswer": 1
       }
