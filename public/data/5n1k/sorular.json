@@ -2,38 +2,1998 @@
   "questions": [
     {
       "id": "q01",
-      "tablo": { "kim": "Ali", "nerede": "okulda", "nicin": "öğrenmek için", "nasil": "dikkatlice", "ne": "kitap", "neZaman": "sabah" },
+      "tablo": {
+        "kim": "Ali",
+        "nerede": "okulda",
+        "nicin": "öğrenmek için",
+        "nasil": "dikkatlice",
+        "ne": "kitap",
+        "neZaman": "sabah"
+      },
       "sorulan": "nerede",
-      "options": ["Okulda", "Bahçede", "Evde", "Parkta"],
+      "options": [
+        "Okulda",
+        "Bahçede",
+        "Evde",
+        "Parkta"
+      ],
       "correctAnswer": 0
     },
     {
       "id": "q02",
-      "tablo": { "kim": "Elif", "nerede": "kütüphanede", "nicin": "canı sıkıldığı için", "nasil": "sessizce", "ne": "masal", "neZaman": "öğleden sonra" },
+      "tablo": {
+        "kim": "Elif",
+        "nerede": "kütüphanede",
+        "nicin": "canı sıkıldığı için",
+        "nasil": "sessizce",
+        "ne": "masal",
+        "neZaman": "öğleden sonra"
+      },
       "sorulan": "neZaman",
-      "options": ["Sabah", "Öğleden sonra", "Gece", "Akşam"],
+      "options": [
+        "Sabah",
+        "Öğleden sonra",
+        "Gece",
+        "Akşam"
+      ],
       "correctAnswer": 1
     },
     {
       "id": "q03",
-      "tablo": { "kim": "Deniz", "nerede": "parkta", "nicin": "eğlenmek için", "nasil": "neşeyle", "ne": "top", "neZaman": "hafta sonu" },
+      "tablo": {
+        "kim": "Deniz",
+        "nerede": "parkta",
+        "nicin": "eğlenmek için",
+        "nasil": "neşeyle",
+        "ne": "top",
+        "neZaman": "hafta sonu"
+      },
       "sorulan": "kim",
-      "options": ["Ali", "Zeynep", "Deniz", "Can"],
+      "options": [
+        "Ali",
+        "Zeynep",
+        "Deniz",
+        "Can"
+      ],
       "correctAnswer": 2
     },
     {
       "id": "q04",
-      "tablo": { "kim": "Zeynep", "nerede": "evde", "nicin": "hasta olduğu için", "nasil": "yavaşça", "ne": "çorba", "neZaman": "akşam" },
+      "tablo": {
+        "kim": "Zeynep",
+        "nerede": "evde",
+        "nicin": "hasta olduğu için",
+        "nasil": "yavaşça",
+        "ne": "çorba",
+        "neZaman": "akşam"
+      },
       "sorulan": "nicin",
-      "options": ["Acıktığı için", "Yorulduğu için", "Susadığı için", "Hasta olduğu için"],
+      "options": [
+        "Acıktığı için",
+        "Yorulduğu için",
+        "Susadığı için",
+        "Hasta olduğu için"
+      ],
       "correctAnswer": 3
     },
     {
       "id": "q05",
-      "tablo": { "kim": "Kaan", "nerede": "sınıfta", "nicin": "öğretmen istediği için", "nasil": "istekle", "ne": "resim", "neZaman": "öğlen" },
+      "tablo": {
+        "kim": "Kaan",
+        "nerede": "sınıfta",
+        "nicin": "öğretmen istediği için",
+        "nasil": "istekle",
+        "ne": "resim",
+        "neZaman": "öğlen"
+      },
       "sorulan": "ne",
-      "options": ["Resim", "Kek", "Top", "Kalem"],
+      "options": [
+        "Resim",
+        "Kek",
+        "Top",
+        "Kalem"
+      ],
       "correctAnswer": 0
+    },
+    {
+      "id": "q06",
+      "tablo": {
+        "kim": "Ali",
+        "nerede": "mutfakta",
+        "nicin": "acıktığı için",
+        "nasil": "hızlıca",
+        "ne": "elma",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Canı sıkıldığı için",
+        "Acıktığı için",
+        "Uyumak için",
+        "Eğlenmek için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q07",
+      "tablo": {
+        "kim": "Ece",
+        "nerede": "bahçede",
+        "nicin": "eğlenmek için",
+        "nasil": "neşeyle",
+        "ne": "salıncak",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Hastanede",
+        "Kütüphanede",
+        "Bahçede",
+        "Pazarda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q08",
+      "tablo": {
+        "kim": "Mert",
+        "nerede": "denizde",
+        "nicin": "serinlemek için",
+        "nasil": "keyifle",
+        "ne": "can simidi",
+        "neZaman": "yazın"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Öğlen",
+        "Yazın",
+        "Tatilde",
+        "Hafta sonu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q09",
+      "tablo": {
+        "kim": "Ayşe",
+        "nerede": "kütüphanede",
+        "nicin": "ödevini bitirmek için",
+        "nasil": "sessizce",
+        "ne": "ansiklopedi",
+        "neZaman": "akşam"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Çorba",
+        "Top",
+        "Ansiklopedi",
+        "Elma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q10",
+      "tablo": {
+        "kim": "Can",
+        "nerede": "parkta",
+        "nicin": "köpeğini gezdirmek için",
+        "nasil": "yavaşça",
+        "ne": "tasma",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Ormanda",
+        "Okulda",
+        "Mutfakta",
+        "Parkta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q11",
+      "tablo": {
+        "kim": "Defne",
+        "nerede": "sınıfta",
+        "nicin": "öğretmenini dinlemek için",
+        "nasil": "dikkatlice",
+        "ne": "defter",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Yardım etmek için",
+        "Öğrenmek için",
+        "Hasta olduğu için",
+        "Öğretmenini dinlemek için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q12",
+      "tablo": {
+        "kim": "Efe",
+        "nerede": "bahçede",
+        "nicin": "çiçekleri sulamak için",
+        "nasil": "özenle",
+        "ne": "kova",
+        "neZaman": "sabahleyin"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Efe",
+        "Ece",
+        "Melis",
+        "Tuna"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q13",
+      "tablo": {
+        "kim": "Naz",
+        "nerede": "evde",
+        "nicin": "üşüdüğü için",
+        "nasil": "yavaşça",
+        "ne": "battaniye",
+        "neZaman": "gece"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Üşüdüğü için",
+        "Canı sıkıldığı için",
+        "Hasta olduğu için",
+        "Meraklandığı için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q14",
+      "tablo": {
+        "kim": "Ömer",
+        "nerede": "pazarda",
+        "nicin": "annesine yardım için",
+        "nasil": "isteyerek",
+        "ne": "sepet",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Yorulduğu için",
+        "Acıktığı için",
+        "Canı sıkıldığı için",
+        "Annesine yardım için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q15",
+      "tablo": {
+        "kim": "Selin",
+        "nerede": "mutfakta",
+        "nicin": "kek yapmak için",
+        "nasil": "neşeyle",
+        "ne": "yumurta",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Mutfakta",
+        "Evde",
+        "Odasında",
+        "Bahçede"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q16",
+      "tablo": {
+        "kim": "Yusuf",
+        "nerede": "okulda",
+        "nicin": "arkadaşlarıyla oynamak için",
+        "nasil": "koşarak",
+        "ne": "top",
+        "neZaman": "teneffüste"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Yusuf",
+        "Elif",
+        "Umut",
+        "Sıla"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q17",
+      "tablo": {
+        "kim": "Aslı",
+        "nerede": "odasında",
+        "nicin": "uyumak için",
+        "nasil": "sessizce",
+        "ne": "yastık",
+        "neZaman": "gece"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Öğleden sonra",
+        "Gece",
+        "Akşamüstü",
+        "Sabah"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q18",
+      "tablo": {
+        "kim": "Berk",
+        "nerede": "parkta",
+        "nicin": "bisiklet sürmek için",
+        "nasil": "hızlıca",
+        "ne": "bisiklet",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Elma",
+        "Su",
+        "Kalem",
+        "Bisiklet"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q19",
+      "tablo": {
+        "kim": "Ceren",
+        "nerede": "sınıfta",
+        "nicin": "resim yapmak için",
+        "nasil": "özenle",
+        "ne": "boya",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Keyifle",
+        "Neşeyle",
+        "Yavaşça",
+        "Özenle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q20",
+      "tablo": {
+        "kim": "Emir",
+        "nerede": "bahçede",
+        "nicin": "kardan adam yapmak için",
+        "nasil": "gülerek",
+        "ne": "kar",
+        "neZaman": "kışın"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Kışın",
+        "Sabah",
+        "Gece",
+        "Akşam"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q21",
+      "tablo": {
+        "kim": "Buse",
+        "nerede": "mutfakta",
+        "nicin": "susadığı için",
+        "nasil": "hızlıca",
+        "ne": "su",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Cem",
+        "Kuzey",
+        "Buse",
+        "Aslı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q22",
+      "tablo": {
+        "kim": "Arda",
+        "nerede": "okulda",
+        "nicin": "kitap okumak için",
+        "nasil": "sessizce",
+        "ne": "hikâye kitabı",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Yavaşça",
+        "Sessizce",
+        "Sabırla",
+        "Koşarak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q23",
+      "tablo": {
+        "kim": "Duru",
+        "nerede": "evde",
+        "nicin": "dişlerini fırçalamak için",
+        "nasil": "dikkatlice",
+        "ne": "diş fırçası",
+        "neZaman": "sabah"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Yazın",
+        "Sabah",
+        "Sabahleyin",
+        "Gece"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q24",
+      "tablo": {
+        "kim": "Kerem",
+        "nerede": "bahçede",
+        "nicin": "futbol oynamak için",
+        "nasil": "neşeyle",
+        "ne": "kale",
+        "neZaman": "akşamüstü"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Futbol oynamak için",
+        "Eğlenmek için",
+        "Yardım etmek için",
+        "Canı sıkıldığı için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q25",
+      "tablo": {
+        "kim": "Melis",
+        "nerede": "kütüphanede",
+        "nicin": "masal okumak için",
+        "nasil": "sessizce",
+        "ne": "masal kitabı",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Top",
+        "Kek",
+        "Masal kitabı",
+        "Fırça"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q26",
+      "tablo": {
+        "kim": "Poyraz",
+        "nerede": "denizde",
+        "nicin": "kumdan kale yapmak için",
+        "nasil": "keyifle",
+        "ne": "kova",
+        "neZaman": "yazın"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Fırça",
+        "Kova",
+        "Elma",
+        "Kek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q27",
+      "tablo": {
+        "kim": "Zehra",
+        "nerede": "mutfakta",
+        "nicin": "annesine yardım için",
+        "nasil": "özenle",
+        "ne": "tabak",
+        "neZaman": "akşam"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Akşamüstü",
+        "Kışın",
+        "Akşam",
+        "Öğleden sonra"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q28",
+      "tablo": {
+        "kim": "Bora",
+        "nerede": "parkta",
+        "nicin": "uçurtma uçurmak için",
+        "nasil": "neşeyle",
+        "ne": "uçurtma",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Berk",
+        "Doruk",
+        "Selin",
+        "Bora"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q29",
+      "tablo": {
+        "kim": "Nil",
+        "nerede": "sınıfta",
+        "nicin": "şarkı söylemek için",
+        "nasil": "neşeyle",
+        "ne": "şarkı",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Yorulduğu için",
+        "Hasta olduğu için",
+        "Şarkı söylemek için",
+        "Dinlenmek için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q30",
+      "tablo": {
+        "kim": "Tuna",
+        "nerede": "evde",
+        "nicin": "dinlenmek için",
+        "nasil": "keyifle",
+        "ne": "çizgi film",
+        "neZaman": "akşam"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Yavaşça",
+        "Heyecanla",
+        "Keyifle",
+        "Dikkatlice"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q31",
+      "tablo": {
+        "kim": "Umut",
+        "nerede": "bahçede",
+        "nicin": "ağaca tırmanmak için",
+        "nasil": "dikkatlice",
+        "ne": "ağaç",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Fırça",
+        "Kalem",
+        "Ağaç",
+        "Resim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q32",
+      "tablo": {
+        "kim": "Sıla",
+        "nerede": "mutfakta",
+        "nicin": "acıktığı için",
+        "nasil": "hızlıca",
+        "ne": "sandviç",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Akşam",
+        "Sabahleyin",
+        "Öğlen",
+        "Yazın"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q33",
+      "tablo": {
+        "kim": "Doruk",
+        "nerede": "okulda",
+        "nicin": "matematik öğrenmek için",
+        "nasil": "dikkatlice",
+        "ne": "sayılar",
+        "neZaman": "sabah"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Akşamüstü",
+        "Akşam",
+        "Sabah",
+        "Yazın"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q34",
+      "tablo": {
+        "kim": "Lara",
+        "nerede": "parkta",
+        "nicin": "sallanmak için",
+        "nasil": "neşeyle",
+        "ne": "salıncak",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Okulda",
+        "Ormanda",
+        "Denizde",
+        "Parkta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q35",
+      "tablo": {
+        "kim": "Kuzey",
+        "nerede": "denizde",
+        "nicin": "balık tutmak için",
+        "nasil": "sabırla",
+        "ne": "olta",
+        "neZaman": "sabahleyin"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Meraklandığı için",
+        "Eğlenmek için",
+        "Dinlenmek için",
+        "Balık tutmak için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q36",
+      "tablo": {
+        "kim": "Mira",
+        "nerede": "evde",
+        "nicin": "annesine hediye için",
+        "nasil": "özenle",
+        "ne": "kart",
+        "neZaman": "akşam"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Kütüphanede",
+        "Denizde",
+        "Evde",
+        "Okulda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q37",
+      "tablo": {
+        "kim": "Ege",
+        "nerede": "bahçede",
+        "nicin": "köpeğiyle oynamak için",
+        "nasil": "neşeyle",
+        "ne": "top",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Melis",
+        "Ege",
+        "Can",
+        "Emir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q38",
+      "tablo": {
+        "kim": "Yağmur",
+        "nerede": "sınıfta",
+        "nicin": "yazı yazmak için",
+        "nasil": "dikkatlice",
+        "ne": "kalem",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Nil",
+        "Yağmur",
+        "Defne",
+        "Efe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q39",
+      "tablo": {
+        "kim": "Toprak",
+        "nerede": "bahçede",
+        "nicin": "sebze ekmek için",
+        "nasil": "özenle",
+        "ne": "tohum",
+        "neZaman": "ilkbaharda"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Koşarak",
+        "Özenle",
+        "Hızlıca",
+        "İsteyerek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q40",
+      "tablo": {
+        "kim": "Derin",
+        "nerede": "mutfakta",
+        "nicin": "kahvaltı yapmak için",
+        "nasil": "keyifle",
+        "ne": "peynir",
+        "neZaman": "sabah"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Selin",
+        "Doruk",
+        "Derin",
+        "Mert"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q41",
+      "tablo": {
+        "kim": "Eylül",
+        "nerede": "okulda",
+        "nicin": "arkadaş edinmek için",
+        "nasil": "güler yüzle",
+        "ne": "oyun",
+        "neZaman": "teneffüste"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Top",
+        "Elma",
+        "Defter",
+        "Oyun"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q42",
+      "tablo": {
+        "kim": "Kayra",
+        "nerede": "parkta",
+        "nicin": "paten kaymak için",
+        "nasil": "dikkatlice",
+        "ne": "paten",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Paten",
+        "Defter",
+        "Kalem",
+        "Kek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q43",
+      "tablo": {
+        "kim": "Pınar",
+        "nerede": "evde",
+        "nicin": "piyano çalmak için",
+        "nasil": "özenle",
+        "ne": "piyano",
+        "neZaman": "akşam"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Mutfakta",
+        "Bahçede",
+        "Okulda",
+        "Evde"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q44",
+      "tablo": {
+        "kim": "Barış",
+        "nerede": "bahçede",
+        "nicin": "çiçek toplamak için",
+        "nasil": "neşeyle",
+        "ne": "papatya",
+        "neZaman": "ilkbaharda"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Buse",
+        "Doruk",
+        "Naz",
+        "Barış"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q45",
+      "tablo": {
+        "kim": "Elanaz",
+        "nerede": "kütüphanede",
+        "nicin": "yeni şeyler öğrenmek için",
+        "nasil": "meraklıca",
+        "ne": "ansiklopedi",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Teneffüste",
+        "Kışın",
+        "Sabah",
+        "Öğleden sonra"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q46",
+      "tablo": {
+        "kim": "Cem",
+        "nerede": "mutfakta",
+        "nicin": "susadığı için",
+        "nasil": "hızlıca",
+        "ne": "meyve suyu",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Odasında",
+        "Bahçede",
+        "Mutfakta",
+        "Hastanede"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q47",
+      "tablo": {
+        "kim": "Alp",
+        "nerede": "okulda",
+        "nicin": "yarışı kazanmak için",
+        "nasil": "hızlıca",
+        "ne": "madalya",
+        "neZaman": "sabah"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Resim",
+        "Su",
+        "Madalya",
+        "Kitap"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q48",
+      "tablo": {
+        "kim": "Su",
+        "nerede": "denizde",
+        "nicin": "yüzmek için",
+        "nasil": "keyifle",
+        "ne": "mayo",
+        "neZaman": "yazın"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Hızlıca",
+        "Heyecanla",
+        "Sabırla",
+        "Keyifle"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q49",
+      "tablo": {
+        "kim": "Bade",
+        "nerede": "evde",
+        "nicin": "hasta olduğu için",
+        "nasil": "yavaşça",
+        "ne": "ilaç",
+        "neZaman": "gece"
+      },
+      "sorulan": "ne",
+      "options": [
+        "İlaç",
+        "Çorba",
+        "Kek",
+        "Kalem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q50",
+      "tablo": {
+        "kim": "Ozan",
+        "nerede": "parkta",
+        "nicin": "kaydıraktan kaymak için",
+        "nasil": "neşeyle",
+        "ne": "kaydırak",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Odasında",
+        "Evde",
+        "Denizde",
+        "Parkta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q51",
+      "tablo": {
+        "kim": "Nehir",
+        "nerede": "sınıfta",
+        "nicin": "kitap okumak için",
+        "nasil": "sessizce",
+        "ne": "kitap",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Keyifle",
+        "Neşeyle",
+        "Sessizce",
+        "Hızlıca"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q52",
+      "tablo": {
+        "kim": "Aylin",
+        "nerede": "mutfakta",
+        "nicin": "limonata yapmak için",
+        "nasil": "neşeyle",
+        "ne": "limon",
+        "neZaman": "yazın"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Yavaşça",
+        "Neşeyle",
+        "Sabırla",
+        "Hızlıca"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q53",
+      "tablo": {
+        "kim": "Kağan",
+        "nerede": "bahçede",
+        "nicin": "top oynamak için",
+        "nasil": "hızlıca",
+        "ne": "top",
+        "neZaman": "akşamüstü"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Buse",
+        "Kerem",
+        "Kağan",
+        "Defne"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q54",
+      "tablo": {
+        "kim": "Sena",
+        "nerede": "evde",
+        "nicin": "ödev yapmak için",
+        "nasil": "dikkatlice",
+        "ne": "defter",
+        "neZaman": "akşam"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Yardım etmek için",
+        "Ödev yapmak için",
+        "Hasta olduğu için",
+        "Canı sıkıldığı için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q55",
+      "tablo": {
+        "kim": "Tarık",
+        "nerede": "okulda",
+        "nicin": "deney yapmak için",
+        "nasil": "dikkatlice",
+        "ne": "mikroskop",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Sessizce",
+        "Gülerek",
+        "Keyifle",
+        "Dikkatlice"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q56",
+      "tablo": {
+        "kim": "Çınar",
+        "nerede": "ormanda",
+        "nicin": "mantar toplamak için",
+        "nasil": "dikkatlice",
+        "ne": "mantar",
+        "neZaman": "sabahleyin"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Odun",
+        "Balık",
+        "Mantar",
+        "Havuç"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q57",
+      "tablo": {
+        "kim": "Işıl",
+        "nerede": "müzede",
+        "nicin": "tabloları görmek için",
+        "nasil": "sessizce",
+        "ne": "tablo",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Akşamüstü",
+        "Tatilde",
+        "Öğleden sonra",
+        "İlkbaharda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q58",
+      "tablo": {
+        "kim": "Bulut",
+        "nerede": "çiftlikte",
+        "nicin": "inekleri beslemek için",
+        "nasil": "isteyerek",
+        "ne": "saman",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Stadyumda",
+        "Çiftlikte",
+        "Ormanda",
+        "Hastanede"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q59",
+      "tablo": {
+        "kim": "Aleyna",
+        "nerede": "plajda",
+        "nicin": "deniz yıldızı aramak için",
+        "nasil": "neşeyle",
+        "ne": "deniz yıldızı",
+        "neZaman": "yazın"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Fırında",
+        "Sinemada",
+        "Plajda",
+        "Bakkalda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q60",
+      "tablo": {
+        "kim": "Berkay",
+        "nerede": "manavda",
+        "nicin": "meyve almak için",
+        "nasil": "hızlıca",
+        "ne": "muz",
+        "neZaman": "akşamüstü"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Taner",
+        "Berkay",
+        "Mehmet",
+        "Yaren"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q61",
+      "tablo": {
+        "kim": "Ceyda",
+        "nerede": "fırında",
+        "nicin": "ekmek almak için",
+        "nasil": "aceleyle",
+        "ne": "ekmek",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Azimle",
+        "Aceleyle",
+        "Cesaretle",
+        "İsteyerek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q62",
+      "tablo": {
+        "kim": "Deren",
+        "nerede": "gölette",
+        "nicin": "ördekleri beslemek için",
+        "nasil": "sabırla",
+        "ne": "yem",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Yem",
+        "Balık",
+        "Oyuncak",
+        "Kil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q63",
+      "tablo": {
+        "kim": "Ferhat",
+        "nerede": "dağda",
+        "nicin": "kamp kurmak için",
+        "nasil": "dikkatlice",
+        "ne": "çadır",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Uğur",
+        "Deren",
+        "Işıl",
+        "Ferhat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q64",
+      "tablo": {
+        "kim": "Gökçe",
+        "nerede": "serada",
+        "nicin": "domates yetiştirmek için",
+        "nasil": "özenle",
+        "ne": "fide",
+        "neZaman": "ilkbaharda"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Acıktığı için",
+        "Alışveriş için",
+        "Eğlenmek için",
+        "Domates yetiştirmek için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q65",
+      "tablo": {
+        "kim": "Hakan",
+        "nerede": "atölyede",
+        "nicin": "oyuncak yapmak için",
+        "nasil": "dikkatlice",
+        "ne": "çekiç",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Atölyede",
+        "Bakkalda",
+        "Plajda",
+        "Pazarda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q66",
+      "tablo": {
+        "kim": "İpek",
+        "nerede": "spor salonunda",
+        "nicin": "güçlenmek için",
+        "nasil": "azimle",
+        "ne": "halter",
+        "neZaman": "akşam"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Lale",
+        "Beren",
+        "Ada",
+        "İpek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q67",
+      "tablo": {
+        "kim": "Kaya",
+        "nerede": "sinemada",
+        "nicin": "film izlemek için",
+        "nasil": "keyifle",
+        "ne": "patlamış mısır",
+        "neZaman": "akşam"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Hafta sonu",
+        "Akşam",
+        "Sabahleyin",
+        "Gece"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q68",
+      "tablo": {
+        "kim": "Leyla",
+        "nerede": "akvaryumda",
+        "nicin": "balıkları izlemek için",
+        "nasil": "sessizce",
+        "ne": "balık",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Sahilde",
+        "Plajda",
+        "Akvaryumda",
+        "Ormanda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q69",
+      "tablo": {
+        "kim": "Metin",
+        "nerede": "terzide",
+        "nicin": "pantolon diktirmek için",
+        "nasil": "sabırla",
+        "ne": "kumaş",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Kumaş",
+        "Teleskop",
+        "Havuç",
+        "Pasta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q70",
+      "tablo": {
+        "kim": "Neşe",
+        "nerede": "bakkalda",
+        "nicin": "şeker almak için",
+        "nasil": "neşeyle",
+        "ne": "şeker",
+        "neZaman": "akşamüstü"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Markette",
+        "Fırında",
+        "Müzede",
+        "Bakkalda"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q71",
+      "tablo": {
+        "kim": "Onur",
+        "nerede": "tiyatroda",
+        "nicin": "oyun izlemek için",
+        "nasil": "sessizce",
+        "ne": "bilet",
+        "neZaman": "akşam"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Emre",
+        "Beren",
+        "Mehmet",
+        "Onur"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q72",
+      "tablo": {
+        "kim": "Öykü",
+        "nerede": "kuaförde",
+        "nicin": "saçını kestirmek için",
+        "nasil": "sakince",
+        "ne": "ayna",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Ayna",
+        "Gül",
+        "Mantar",
+        "Kil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q73",
+      "tablo": {
+        "kim": "Petek",
+        "nerede": "balkonda",
+        "nicin": "kuşları izlemek için",
+        "nasil": "sessizce",
+        "ne": "dürbün",
+        "neZaman": "sabah"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Dürbün",
+        "Kayak",
+        "Havuç",
+        "Pasta"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q74",
+      "tablo": {
+        "kim": "Rana",
+        "nerede": "garajda",
+        "nicin": "bisikletini tamir etmek için",
+        "nasil": "dikkatlice",
+        "ne": "tornavida",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Yarışmak için",
+        "Bisikletini tamir etmek için",
+        "Öğrenmek için",
+        "Gezmek için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q75",
+      "tablo": {
+        "kim": "Serkan",
+        "nerede": "tarlada",
+        "nicin": "buğday biçmek için",
+        "nasil": "isteyerek",
+        "ne": "orak",
+        "neZaman": "yazın"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Cesaretle",
+        "Hızlıca",
+        "Azimle",
+        "İsteyerek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q76",
+      "tablo": {
+        "kim": "Şevval",
+        "nerede": "köyde",
+        "nicin": "tavukları beslemek için",
+        "nasil": "neşeyle",
+        "ne": "mısır",
+        "neZaman": "sabahleyin"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Eğlenmek için",
+        "Tavukları beslemek için",
+        "Meraklandığı için",
+        "Üşüdüğü için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q77",
+      "tablo": {
+        "kim": "Taner",
+        "nerede": "buz pistinde",
+        "nicin": "buzda kaymak için",
+        "nasil": "dikkatlice",
+        "ne": "eldiven",
+        "neZaman": "kışın"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Sabah",
+        "Kışın",
+        "Akşam",
+        "Yazın"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q78",
+      "tablo": {
+        "kim": "Ufuk",
+        "nerede": "oyun bahçesinde",
+        "nicin": "tahterevallide sallanmak için",
+        "nasil": "neşeyle",
+        "ne": "tahterevalli",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Sessizce",
+        "İsteyerek",
+        "Neşeyle",
+        "Keyifle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q79",
+      "tablo": {
+        "kim": "Vefa",
+        "nerede": "kampta",
+        "nicin": "ateş yakmak için",
+        "nasil": "dikkatlice",
+        "ne": "odun",
+        "neZaman": "gece"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Emre",
+        "Berkay",
+        "Gizem",
+        "Vefa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q80",
+      "tablo": {
+        "kim": "Yaren",
+        "nerede": "kreşte",
+        "nicin": "boyama yapmak için",
+        "nasil": "neşeyle",
+        "ne": "oyun hamuru",
+        "neZaman": "sabah"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Berkay",
+        "Mehmet",
+        "Yaren",
+        "Serkan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q81",
+      "tablo": {
+        "kim": "Zafer",
+        "nerede": "çarşıda",
+        "nicin": "hediye almak için",
+        "nasil": "keyifle",
+        "ne": "oyuncak",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Hediye almak için",
+        "Yarışmak için",
+        "Öğrenmek için",
+        "Yardım etmek için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q82",
+      "tablo": {
+        "kim": "Beren",
+        "nerede": "lokantada",
+        "nicin": "karnını doyurmak için",
+        "nasil": "keyifle",
+        "ne": "köfte",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Öğleden sonra",
+        "Öğlen",
+        "Hafta sonu",
+        "Tatilde"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q83",
+      "tablo": {
+        "kim": "Ada",
+        "nerede": "hastanede",
+        "nicin": "muayene olmak için",
+        "nasil": "sakince",
+        "ne": "reçete",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Öğrenmek için",
+        "Gezmek için",
+        "Muayene olmak için",
+        "Meraklandığı için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q84",
+      "tablo": {
+        "kim": "Ela",
+        "nerede": "piknik alanında",
+        "nicin": "ailesiyle vakit geçirmek için",
+        "nasil": "neşeyle",
+        "ne": "meyve",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Neşeyle",
+        "Özenle",
+        "Sakince",
+        "Hızlıca"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q85",
+      "tablo": {
+        "kim": "Timur",
+        "nerede": "stadyumda",
+        "nicin": "maç izlemek için",
+        "nasil": "heyecanla",
+        "ne": "forma",
+        "neZaman": "akşamüstü"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Özenle",
+        "Sevgiyle",
+        "Heyecanla",
+        "Meraklıca"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q86",
+      "tablo": {
+        "kim": "Uğur",
+        "nerede": "havuzda",
+        "nicin": "yüzme öğrenmek için",
+        "nasil": "cesaretle",
+        "ne": "kolluk",
+        "neZaman": "yazın"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Yardım etmek için",
+        "Yüzme öğrenmek için",
+        "Dinlenmek için",
+        "Üşüdüğü için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q87",
+      "tablo": {
+        "kim": "Yiğit",
+        "nerede": "sınıfta",
+        "nicin": "deney izlemek için",
+        "nasil": "dikkatlice",
+        "ne": "büyüteç",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Tatilde",
+        "Öğleden sonra",
+        "Öğlen",
+        "İlkbaharda"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q88",
+      "tablo": {
+        "kim": "Zara",
+        "nerede": "resim atölyesinde",
+        "nicin": "tablo yapmak için",
+        "nasil": "özenle",
+        "ne": "fırça",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Fırça",
+        "Maket",
+        "Kayak",
+        "Ekmek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q89",
+      "tablo": {
+        "kim": "Batu",
+        "nerede": "marangozhanede",
+        "nicin": "sandalye yapmak için",
+        "nasil": "dikkatlice",
+        "ne": "tahta",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Manavda",
+        "Plajda",
+        "Sinemada",
+        "Marangozhanede"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q90",
+      "tablo": {
+        "kim": "Ceylin",
+        "nerede": "pastanede",
+        "nicin": "pasta seçmek için",
+        "nasil": "neşeyle",
+        "ne": "pasta",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Sinemada",
+        "Markette",
+        "Hastanede",
+        "Pastanede"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q91",
+      "tablo": {
+        "kim": "Dora",
+        "nerede": "çiftlikte",
+        "nicin": "atları beslemek için",
+        "nasil": "sevgiyle",
+        "ne": "havuç",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Sevgiyle",
+        "İsteyerek",
+        "Sessizce",
+        "Sakince"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q92",
+      "tablo": {
+        "kim": "Emre",
+        "nerede": "halı sahada",
+        "nicin": "futbol oynamak için",
+        "nasil": "hızlıca",
+        "ne": "krampon",
+        "neZaman": "akşamüstü"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Akşamüstü",
+        "Yazın",
+        "Sabah",
+        "Öğlen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q93",
+      "tablo": {
+        "kim": "Gizem",
+        "nerede": "çalışma odasında",
+        "nicin": "ders çalışmak için",
+        "nasil": "dikkatlice",
+        "ne": "ders kitabı",
+        "neZaman": "akşam"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Yazın",
+        "İlkbaharda",
+        "Öğleden sonra",
+        "Akşam"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q94",
+      "tablo": {
+        "kim": "Halil",
+        "nerede": "fırında",
+        "nicin": "poğaça almak için",
+        "nasil": "hızlıca",
+        "ne": "poğaça",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Poğaça almak için",
+        "Yardım etmek için",
+        "Alışveriş için",
+        "Acıktığı için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q95",
+      "tablo": {
+        "kim": "Irmak",
+        "nerede": "hayvanat bahçesinde",
+        "nicin": "aslanları görmek için",
+        "nasil": "heyecanla",
+        "ne": "fotoğraf makinesi",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Ufuk",
+        "Irmak",
+        "Sude",
+        "Uğur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q96",
+      "tablo": {
+        "kim": "Kartal",
+        "nerede": "terasta",
+        "nicin": "yıldızları izlemek için",
+        "nasil": "sessizce",
+        "ne": "teleskop",
+        "neZaman": "gece"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Öğlen",
+        "İlkbaharda",
+        "Gece",
+        "Sabahleyin"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q97",
+      "tablo": {
+        "kim": "Lale",
+        "nerede": "seramik atölyesinde",
+        "nicin": "vazo yapmak için",
+        "nasil": "özenle",
+        "ne": "kil",
+        "neZaman": "öğlen"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Poşet",
+        "Kil",
+        "Süt",
+        "Şeker"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q98",
+      "tablo": {
+        "kim": "Mehmet",
+        "nerede": "sebze bahçesinde",
+        "nicin": "salatalık toplamak için",
+        "nasil": "özenle",
+        "ne": "salatalık",
+        "neZaman": "sabahleyin"
+      },
+      "sorulan": "kim",
+      "options": [
+        "Vefa",
+        "Mehmet",
+        "İpek",
+        "Ceyda"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q99",
+      "tablo": {
+        "kim": "Nazlı",
+        "nerede": "anaokulunda",
+        "nicin": "şarkı öğrenmek için",
+        "nasil": "neşeyle",
+        "ne": "tef",
+        "neZaman": "sabah"
+      },
+      "sorulan": "nicin",
+      "options": [
+        "Eğlenmek için",
+        "Öğrenmek için",
+        "Gezmek için",
+        "Şarkı öğrenmek için"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q100",
+      "tablo": {
+        "kim": "Okan",
+        "nerede": "kayak merkezinde",
+        "nicin": "kayak yapmak için",
+        "nasil": "cesaretle",
+        "ne": "kayak",
+        "neZaman": "kışın"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Fırında",
+        "Kayak merkezinde",
+        "Havuzda",
+        "Ormanda"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q101",
+      "tablo": {
+        "kim": "Pelin",
+        "nerede": "çiçekçide",
+        "nicin": "çiçek almak için",
+        "nasil": "neşeyle",
+        "ne": "gül",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "neZaman",
+      "options": [
+        "Öğleden sonra",
+        "Tatilde",
+        "Gece",
+        "Akşamüstü"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q102",
+      "tablo": {
+        "kim": "Rüzgar",
+        "nerede": "sahilde",
+        "nicin": "kabuk toplamak için",
+        "nasil": "neşeyle",
+        "ne": "deniz kabuğu",
+        "neZaman": "yazın"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Aceleyle",
+        "Dikkatlice",
+        "Neşeyle",
+        "Özenle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q103",
+      "tablo": {
+        "kim": "Sude",
+        "nerede": "markette",
+        "nicin": "sebze almak için",
+        "nasil": "dikkatlice",
+        "ne": "poşet",
+        "neZaman": "hafta sonu"
+      },
+      "sorulan": "nasil",
+      "options": [
+        "Cesaretle",
+        "Özenle",
+        "Dikkatlice",
+        "Hızlıca"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q104",
+      "tablo": {
+        "kim": "Tolga",
+        "nerede": "oyun odasında",
+        "nicin": "lego yapmak için",
+        "nasil": "dikkatlice",
+        "ne": "lego",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "ne",
+      "options": [
+        "Lego",
+        "Kil",
+        "Forma",
+        "Havuç"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q105",
+      "tablo": {
+        "kim": "Yasemin",
+        "nerede": "bilim merkezinde",
+        "nicin": "gezegenleri öğrenmek için",
+        "nasil": "meraklıca",
+        "ne": "maket",
+        "neZaman": "öğleden sonra"
+      },
+      "sorulan": "nerede",
+      "options": [
+        "Stadyumda",
+        "Havuzda",
+        "Sinemada",
+        "Bilim merkezinde"
+      ],
+      "correctAnswer": 3
     }
   ]
 }
