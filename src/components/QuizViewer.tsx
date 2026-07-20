@@ -165,6 +165,7 @@ function hataCikar(ad: string, soru: Question) {
 interface Props {
   onHikayeAc?: () => void;
   onOyunlarAc?: () => void;
+  onBesN1KAc?: () => void;
 }
 
 // Sayac kendi state'ini tutar; boylece saniyelik tik yalniz bu minik bileseni
@@ -193,7 +194,7 @@ const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTi
   return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
 });
 
-const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
+const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
@@ -561,6 +562,18 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc }) => {
             </span>
             <span className="qv-hikaye-btn-arrow">›</span>
           </button>
+
+          {/* 5N1K — kendi bölümü (tablo doldurma) */}
+          {onBesN1KAc && (
+            <button className="qv-besnik-btn" id="btn-5n1k" onClick={onBesN1KAc}>
+              <span className="qv-hikaye-btn-emoji">🔍</span>
+              <span className="qv-hikaye-btn-text">
+                <span className="qv-hikaye-btn-title">5N1K</span>
+                <span className="qv-hikaye-btn-sub">Kim? Ne? Nerede? Ne zaman? Neden? Nasıl?</span>
+              </span>
+              <span className="qv-hikaye-btn-arrow">›</span>
+            </button>
+          )}
 
           {/* Green buttons for Story Corner and Games */}
           {(hikayeBtn || oyunlarBtn) && (

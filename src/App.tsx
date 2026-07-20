@@ -2,9 +2,10 @@ import { useState } from 'react';
 import QuizViewer from './components/QuizViewer';
 import HikayeKosesi from './components/HikayeKosesi';
 import Oyunlar from './components/Oyunlar';
+import BesN1K from './components/BesN1K';
 import './App.css';
 
-type Screen = 'quiz' | 'hikaye' | 'oyunlar';
+type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k';
 
 function App() {
   const [screen, setScreen] = useState<Screen>('quiz');
@@ -15,6 +16,7 @@ function App() {
         <QuizViewer
           onHikayeAc={() => setScreen('hikaye')}
           onOyunlarAc={() => setScreen('oyunlar')}
+          onBesN1KAc={() => setScreen('besn1k')}
         />
       )}
       {screen === 'hikaye' && (
@@ -22,6 +24,9 @@ function App() {
       )}
       {screen === 'oyunlar' && (
         <Oyunlar onClose={() => setScreen('quiz')} />
+      )}
+      {screen === 'besn1k' && (
+        <BesN1K onClose={() => setScreen('quiz')} />
       )}
     </div>
   );

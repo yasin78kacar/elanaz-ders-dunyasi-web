@@ -1,0 +1,39 @@
+{
+  "questions": [
+    {
+      "id": "q01",
+      "tablo": { "kim": "Ali", "nerede": "okulda", "nicin": "öğrenmek için", "nasil": "dikkatlice", "ne": "kitap", "neZaman": "sabah" },
+      "sorulan": "nerede",
+      "options": ["Okulda", "Bahçede", "Evde", "Parkta"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q02",
+      "tablo": { "kim": "Elif", "nerede": "kütüphanede", "nicin": "canı sıkıldığı için", "nasil": "sessizce", "ne": "masal", "neZaman": "öğleden sonra" },
+      "sorulan": "neZaman",
+      "options": ["Sabah", "Öğleden sonra", "Gece", "Akşam"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q03",
+      "tablo": { "kim": "Deniz", "nerede": "parkta", "nicin": "eğlenmek için", "nasil": "neşeyle", "ne": "top", "neZaman": "hafta sonu" },
+      "sorulan": "kim",
+      "options": ["Ali", "Zeynep", "Deniz", "Can"],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q04",
+      "tablo": { "kim": "Zeynep", "nerede": "evde", "nicin": "hasta olduğu için", "nasil": "yavaşça", "ne": "çorba", "neZaman": "akşam" },
+      "sorulan": "nicin",
+      "options": ["Acıktığı için", "Yorulduğu için", "Susadığı için", "Hasta olduğu için"],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q05",
+      "tablo": { "kim": "Kaan", "nerede": "sınıfta", "nicin": "öğretmen istediği için", "nasil": "istekle", "ne": "resim", "neZaman": "öğlen" },
+      "sorulan": "ne",
+      "options": ["Resim", "Kek", "Top", "Kalem"],
+      "correctAnswer": 0
+    }
+  ]
+}

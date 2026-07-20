@@ -731,6 +731,46 @@ body::before {
   transform: translateX(4px);
 }
 
+/* ── 5N1K butonu (Öğrenme ailesinden, tam genişlik) ──────── */
+.qv-besnik-btn {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  background: linear-gradient(135deg, #6366F1 0%, #22D3EE 100%);
+  border: none;
+  border-radius: var(--qv-radius);
+  cursor: pointer;
+  text-align: left;
+  box-shadow: 0 8px 22px rgba(79, 70, 229, 0.30), inset 0 -5px 0 rgba(0,0,0,0.12), inset 0 2px 0 rgba(255,255,255,0.28);
+  transition: transform 0.18s var(--qv-ease-bounce), box-shadow 0.18s ease;
+  position: relative;
+  overflow: hidden;
+}
+.qv-besnik-btn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, rgba(255,255,255,0.20) 0%, transparent 55%);
+  pointer-events: none;
+}
+.qv-besnik-btn:hover {
+  transform: translateY(-3px) scale(1.01);
+  box-shadow: 0 14px 30px rgba(79, 70, 229, 0.40), inset 0 -5px 0 rgba(0,0,0,0.12), inset 0 2px 0 rgba(255,255,255,0.28);
+}
+.qv-besnik-btn:active {
+  transform: scale(0.98) translateY(0);
+}
+.qv-besnik-btn .qv-hikaye-btn-arrow {
+  color: rgba(255, 255, 255, 0.85);
+  transition: transform 0.15s ease;
+}
+.qv-besnik-btn:hover .qv-hikaye-btn-arrow {
+  transform: translateX(4px);
+}
+
 /* ── Öğrenme Köşesi tema seçim kartları ─────────────────── */
 .ogrenme-tema-grid {
   display: grid;
