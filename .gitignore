@@ -23,6 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
+# Yerel yedek ve önizleme taslakları (diskte kalır, repo'ya girmez)
+tmp/
+
 # Geliştirme/üretim scriptleri (repo'ya dahil edilmez)
 augment*.mjs
 augment_questions.mjs
