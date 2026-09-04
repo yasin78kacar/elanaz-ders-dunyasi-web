@@ -428,6 +428,617 @@
         "Virgül (,)"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_001",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Portakal mandalina üzüm\" listesine virgül nereye gelir?",
+      "options": [
+        "Portakal mandalina üzüm",
+        "Portakal, mandalina, üzüm",
+        "Portakal mandalina, üzüm",
+        "Portakal, mandalina üzüm"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_002",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlede noktalama doğrudur?",
+      "options": [
+        "Lale, Can ve Efe oynadı.",
+        "lale can ve efe oynadı",
+        "lale, Can ve efe oynadı.",
+        "Lale Can ve Efe, oynadı."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_003",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Kaç noktalama işareti var: \"Elif, Arda ve Mert geldi. Hava sıcak mı?\"",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_004",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Virgül olmadan doğru yazılan cümle hangisidir?",
+      "options": [
+        "\"Elma armut kiraz aldım\"",
+        "\"Ali ve Ayşe geldi.\"",
+        "\"Koştum oynadım geldim\"",
+        "\"Ali Ayşe Mert geldi\""
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_005",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Noktalama işaretleri neden kullanılır?",
+      "options": [
+        "Anlamı netleştirmek için",
+        "Cümleyi uzatmak için",
+        "Kelime saymak için",
+        "Yazıyı süslemek için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_006",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Pazardan elma, armut, muz aldık. Virgül ne amaçla kullanılmış?",
+      "options": [
+        "Eş görevli kelimeleri ayırmak",
+        "Hitap kelimesinden sonra",
+        "Sayıların yazımında",
+        "Sıralı cümleleri ayırmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_007",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "'Sevgili Öğretmenim ( ) sizi çok özledim.' Boşluğa ne gelir?",
+      "options": [
+        ",",
+        "?",
+        ".",
+        "!"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_008",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Eve geldim, ellerimi yıkadım, oturdum. Virgüller ne için konmuş?",
+      "options": [
+        "Sıralı cümleleri ayırmak için",
+        "Korku ifadesi için",
+        "Soru sormak için",
+        "Tarih belirtmek için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_009",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlenin sonuna SORU İŞARETİ konmalıdır?",
+      "options": [
+        "Yarın sinemaya gelecek misin",
+        "Kitap okumayı severim",
+        "Bugün hava yağmurlu",
+        "Ne kadar güzel bir gün"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_010",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlenin sonuna ÜNLEM konmalıdır?",
+      "options": [
+        "Akşam ders çalıştım",
+        "Yarın okul var mı",
+        "İmdat, yangın var",
+        "Kardeşim uyuyor"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_011",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangisi özel isimdir ve kesme işaretiyle ayrılır?",
+      "options": [
+        "okula",
+        "İstanbul'a",
+        "eve",
+        "şehire"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_012",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Tarihlerin gün, ay, yıl bölümleri arasına ne konabilir? '23____Nisan____1920'",
+      "options": [
+        "nokta veya eğik çizgi",
+        "soru işareti",
+        "noktalı virgül",
+        "ünlem"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_013",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Sıralama bildiren sayılardan sonra hangisi konur? '3____ sınıfa geçtim'",
+      "options": [
+        "kesme (')",
+        "ünlem (!)",
+        "nokta (.)",
+        "virgül (,)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_014",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümle nokta ile bitmelidir?",
+      "options": [
+        "Okula gittim",
+        "Aman dikkat et",
+        "Kaçta geldin",
+        "Nasılsın"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_015",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Dr.\" ve \"Prof.\" kısaltmalarında hangi işaret vardır?",
+      "options": [
+        "Virgül (,)",
+        "Nokta (.)",
+        "Ünlem (!)",
+        "Kesme (')"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_016",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Bahçede oynadık\" cümlesi nasıl bitirilmelidir?",
+      "options": [
+        "Soru işareti ile",
+        "Nokta ile",
+        "Ünlem ile",
+        "İki nokta ile"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_017",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Ali, Ayşe ve Mert geldi.\" cümlesinde virgül ne yapar?",
+      "options": [
+        "Cümleyi bitirir",
+        "Şaşkınlık katar",
+        "Adları ayırır",
+        "Soru sorar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_018",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Hayır, ben gelmeyeceğim.\" Virgül nereye konmuş?",
+      "options": [
+        "Cümlenin sonuna",
+        "Özneden önce",
+        "\"Hayır\" sözünden sonra",
+        "Yüklemden sonra"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_019",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlede virgül eksiktir?",
+      "options": [
+        "Kitap, defter aldım",
+        "Elma armut kiraz aldım",
+        "Dur, bekle beni",
+        "Ali, buraya gel"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_020",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Kalem, silgi, defter ve kitap aldım.\" Kaç virgül var?",
+      "options": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_021",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Sinemaya gittik, çok eğlendik.\" Virgül neyi ayırır?",
+      "options": [
+        "İki sayıyı",
+        "İki ismi",
+        "İki cümleyi",
+        "İki sıfatı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_022",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlenin sonuna soru işareti gelir?",
+      "options": [
+        "Kitabı okudum",
+        "Aman düşeceksin",
+        "Hava çok soğuk",
+        "Bu kitap kimin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_023",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlede soru işareti yanlış kullanılmıştır?",
+      "options": [
+        "Kaçta geldin?",
+        "Nereye gittin?",
+        "Ne yapıyorsun?",
+        "Bugün hava güzel?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_024",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Saat kaç\" cümlesi nasıl bitirilmelidir?",
+      "options": [
+        "İki nokta ile",
+        "Nokta ile",
+        "Soru işareti ile",
+        "Virgül ile"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_025",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlenin sonuna ünlem gelir?",
+      "options": [
+        "Saat üç oldu",
+        "Hava soğuk",
+        "Aman, dikkat et",
+        "Kitabı okudum"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_026",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Çabuk buraya gel\" cümlesi hangi işaretle biter?",
+      "options": [
+        "Kesme (')",
+        "İki nokta (:)",
+        "Virgül (,)",
+        "Ünlem (!)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_027",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlede ünlem gereksiz kullanılmıştır?",
+      "options": [
+        "Yaşasın!",
+        "Bugün pazartesi!",
+        "Dikkat et!",
+        "İmdat!"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_028",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "İki nokta hangi cümlede doğru kullanılmıştır?",
+      "options": [
+        "Renkler mavi sarı:",
+        "Renkler, mavi: sarı",
+        "Renkler; mavi sarı",
+        "Renkler: mavi, sarı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_029",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Bir sözü aktarmadan önce hangi işaret kullanılabilir?",
+      "options": [
+        "Kesme (')",
+        "Kısa çizgi (-)",
+        "İki nokta (:)",
+        "Üç nokta (...)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_030",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlede tırnak işareti doğru kullanılmıştır?",
+      "options": [
+        "Ali \"geliyorum dedi",
+        "Ali geliyorum\" dedi",
+        "Ali geliyorum dedi",
+        "Ali \"geliyorum\" dedi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_031",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Tırnak işareti nasıl kullanılır?",
+      "options": [
+        "Üç kez yazılır",
+        "Sadece açılır",
+        "Açılır ve kapanır",
+        "Sadece kapanır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_032",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi kelime kesme işareti ister?",
+      "options": [
+        "İzmir'e",
+        "bahçeye",
+        "okula",
+        "eve"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_033",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlede kesme işareti yanlış kullanılmıştır?",
+      "options": [
+        "Ankara'da yaşar",
+        "Ayşe'ye verdim",
+        "Kalem'i aldım",
+        "Ali'nin evi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_034",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"2026( )da\" yazımında boşluğa ne gelir?",
+      "options": [
+        "Virgül (,)",
+        "Kısa çizgi (-)",
+        "Nokta (.)",
+        "Kesme işareti (')"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_035",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Örnekler sıralanıp bitirilmediğinde ne konur?",
+      "options": [
+        "Ünlem (!)",
+        "Virgül (,)",
+        "Nokta (.)",
+        "Üç nokta (...)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_036",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Elma, armut, kiraz...\" yazımında üç nokta ne anlatır?",
+      "options": [
+        "Soru sorulduğunu",
+        "Devamı olduğunu",
+        "Şaşırıldığını",
+        "Cümlenin bittiğini"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_037",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Ka-lem\" yazımında hangi işaret kullanılmıştır?",
+      "options": [
+        "Virgül (,)",
+        "Kesme (')",
+        "Nokta (.)",
+        "Kısa çizgi (-)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_038",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Türkçe-Matematik\" yazımında kelimeleri ne bağlar?",
+      "options": [
+        "Tırnak işareti",
+        "Kısa çizgi (-)",
+        "Parantez ( )",
+        "Üç nokta (...)"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_039",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi cümlede parantez doğru kullanılmıştır?",
+      "options": [
+        "Atatürk (1881-1938",
+        "Atatürk 1881-1938)",
+        "Atatürk )1881-1938(",
+        "Atatürk (1881-1938)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t5_yeni_040",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Sınıfımız (2-A) kalabalık.\" Parantez içi ne verir?",
+      "options": [
+        "Emir",
+        "Ek bilgi",
+        "Ünlem",
+        "Soru"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_041",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Ali, dur! Nereye gidiyorsun?\" Kaç noktalama işareti var?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_042",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Noktalama işaretleri yanlış kullanılırsa ne olur?",
+      "options": [
+        "Ses değişir",
+        "Kelime artar",
+        "Anlam bozulur",
+        "Yazı kısalır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t5_yeni_043",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Yazıda nerede duracağımızı ne gösterir?",
+      "options": [
+        "Noktalama işaretleri",
+        "Sayılar",
+        "Büyük harfler",
+        "Boşluklar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_044",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Hangi işaret okurken duraklama sağlar?",
+      "options": [
+        "Kısa çizgi (-)",
+        "Virgül (,)",
+        "Kesme (')",
+        "Parantez ( )"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_045",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "\"Ali gel\" ile \"Ali, gel\" arasındaki fark nedir?",
+      "options": [
+        "Virgül seslenme katar",
+        "Anlamları aynıdır",
+        "İkisi de ünlemdir",
+        "İkisi de sorudur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t5_yeni_046",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Cümlenin bittiğini hangi işaretler gösterir?",
+      "options": [
+        "Sadece parantez",
+        "Nokta, ünlem, soru işareti",
+        "Sadece kesme",
+        "Sadece virgül"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t5_yeni_047",
+      "subject": "Türkçe",
+      "theme": "Tema 5",
+      "question": "Aşağıdakilerden hangisi noktalama işareti değildir?",
+      "options": [
+        "Ç harfi",
+        "Ünlem (!)",
+        "Virgül (,)",
+        "Parantez ( )"
+      ],
+      "correctAnswer": 0
     }
   ]
 }
