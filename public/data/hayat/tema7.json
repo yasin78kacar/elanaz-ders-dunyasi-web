@@ -467,6 +467,656 @@
         "Panik doğru düşünüp hareket etmeyi engeller, hayati tehlike yaratır"
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_001",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Hava kirliliği en çok hangi sağlığı etkiler?",
+      "options": [
+        "Sindirim sağlığını",
+        "İşitme sağlığını",
+        "Solunum sağlığını",
+        "Kemik sağlığını"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_002",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Fabrika bacasından çıkan duman neye örnektir?",
+      "options": [
+        "Geri dönüşüme",
+        "Su tasarrufuna",
+        "Hava kirliliğine",
+        "Ağaç dikmeye"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_003",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Gürültü kirliliği nedir?",
+      "options": [
+        "Temiz hava",
+        "Temiz deniz suyu",
+        "Yeşil orman",
+        "Aşırı ve rahatsız eden ses"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_004",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Toprağa zehirli kimyasal dökmek neye yol açar?",
+      "options": [
+        "Toprağın iyileşmesine",
+        "Havanın temizlenmesine",
+        "Ormanın çoğalmasına",
+        "Toprak kirliliğine"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_005",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Denize petrol karışması hangi kirliliktir?",
+      "options": [
+        "Su kirliliği",
+        "Gürültü kirliliği",
+        "Toprak verimliliği",
+        "Işık kirliliği"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_006",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Ağaç dikmek erozyonu nasıl etkiler?",
+      "options": [
+        "Erozyonu artırır",
+        "Toprağı yok eder",
+        "Hiçbir etkisi yoktur",
+        "Azaltmaya yardım eder"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_007",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Yamaçlara ağaç dikmek neden yararlıdır?",
+      "options": [
+        "Toprağın kaymasını önler",
+        "Rüzgârı yok eder",
+        "Yağmuru durdurur tamamen",
+        "Denizi kurutur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_008",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Çıplak toprağı uzun süre açık bırakmak neye yol açabilir?",
+      "options": [
+        "Suyun artmasına",
+        "Erozyona",
+        "Ormanın büyümesine",
+        "Havanın temizlenmesine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_009",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Erozyonu azaltmak için hangisi doğrudur?",
+      "options": [
+        "Yamaçları kazımak",
+        "Bitki örtüsünü korumak",
+        "Toprağı yakmak",
+        "Tüm ağaçları kesmek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_010",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Orman yangınını önlemek için ne yapmalıyız?",
+      "options": [
+        "Kuru otlara ateş atmak",
+        "Cam şişeyi ormanda bırakmak",
+        "Izgarayı otların yanında yakmak",
+        "Ateşi denetimli kullanmak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_011",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Kağıt atıklar genelde hangi kutuya atılır?",
+      "options": [
+        "Yemek artığı kutusu",
+        "Kağıt geri dönüşüm kutusu",
+        "Cam kutusu",
+        "Pil kutusu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_012",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Cam şişe hangi atık grubuna girer?",
+      "options": [
+        "Yemek artığı",
+        "Cam geri dönüşüm",
+        "Organik atık",
+        "Tehlikeli atık değil her zaman"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_013",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Plastik poşet yerine ne kullanmak daha iyidir?",
+      "options": [
+        "Tek kullanımlık poşet",
+        "Daha çok poşet",
+        "İnce naylon",
+        "Bez çanta"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_014",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Kullanılmış pilleri çöpe atmak neden yanlıştır?",
+      "options": [
+        "Havayı temizler",
+        "Toprağı iyileştirir",
+        "Toprağı ve suyu kirletir",
+        "Ağaç büyütür"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_015",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Kompost nedir?",
+      "options": [
+        "Petrole çevirmek",
+        "Camı kırmak",
+        "Plastiği yakmak",
+        "Organik atıktan gübre yapmak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_016",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Muz kabuğu hangi atığa örnektir?",
+      "options": [
+        "Cam atık",
+        "Pil atığı",
+        "Organik atık",
+        "Metal atık"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_017",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Alüminyum kutu genelde nereye ayrılır?",
+      "options": [
+        "Cam atık",
+        "Bahçe toprağı",
+        "Metal geri dönüşüm",
+        "Organik atık"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_018",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Doğal kaynaklara örnek hangisidir?",
+      "options": [
+        "Naylon poşet",
+        "Plastik oyuncak",
+        "Su, toprak, orman",
+        "Kullanılmış pil"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_019",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Suyu boşa akıtmamak neyi korur?",
+      "options": [
+        "Trafiği",
+        "Su kaynağını",
+        "Saatleri",
+        "Gürültüyü"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_020",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Gereksiz yanan lambayı kapatmak neye yardım eder?",
+      "options": [
+        "Enerji tasarrufuna",
+        "Erozyona",
+        "Çöp çoğaltmaya",
+        "Gürültü artırmaya"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_021",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Toplu taşıma kullanmak çevreye nasıl yarar?",
+      "options": [
+        "Suyu kirletir",
+        "Daha çok duman çıkarır",
+        "Ormanı yok eder",
+        "Hava kirliliğini azaltabilir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_022",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Bisikletle kısa yol gitmek neyi destekler?",
+      "options": [
+        "Daha çok egzozu",
+        "Petrol israfını",
+        "Gürültü kirliliğini",
+        "Temiz ulaşımı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_023",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Parktaki çöpleri yere atmak hangi kirliliğe girer?",
+      "options": [
+        "Temiz enerji",
+        "Çevre kirliliği",
+        "Ağaçlandırma",
+        "Su tasarrufu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_024",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Sokak hayvanlarına zarar vermek neden yanlıştır?",
+      "options": [
+        "Çünkü yasak değildir",
+        "Canlılara saygı göstermek gerekir",
+        "Çünkü kimse görmez",
+        "Çünkü oyun gibi gelir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_025",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Milli parklar ne işe yarar?",
+      "options": [
+        "Doğayı ve canlıları korumaya",
+        "Sadece alışveriş yapmaya",
+        "Sadece araba yarışına",
+        "Sadece gürültü çıkarmaya"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_026",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Avlanması yasak hayvanları avlamak doğru mudur?",
+      "options": [
+        "Hayır, doğaya zarar verir",
+        "Evet, fotoğraf için",
+        "Evet, eğlence için",
+        "Evet, her zaman serbest"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_027",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Ormanda iz bırakmadan piknik yapmak ne demektir?",
+      "options": [
+        "Ateşi bırakmak",
+        "Çöpü toplayıp temizlemek",
+        "Çöpü gömmek",
+        "Dal kırmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_028",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Tek kullanımlık plastik tabak yerine ne tercih edilebilir?",
+      "options": [
+        "Daha çok poşet",
+        "Daha ince plastik",
+        "Kırık cam",
+        "Yeniden kullanılabilir tabak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_029",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Fabrika atık sularının nehre karışması neyi bozar?",
+      "options": [
+        "Su kaynağını",
+        "Sadece saati",
+        "Sadece gölgeyi",
+        "Sadece rengi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_030",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Hava kirliliğini azaltmak için hangisi doğrudur?",
+      "options": [
+        "Yeşil alanları artırmak",
+        "Ormanı kesmek",
+        "Çöpleri yakmak",
+        "Daha çok kömür yakmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_031",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Çöpleri yakmak neden zararlı olabilir?",
+      "options": [
+        "Havayı kirletebilir",
+        "Ağaç sayısını artırır",
+        "Havayı hep temizler",
+        "Suyu çoğaltır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_032",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Geri dönüşüm yapmanın amacı nedir?",
+      "options": [
+        "Ormanı kesmek",
+        "Suyu kirletmek",
+        "Çöpü çoğaltmak",
+        "Kaynakları korumak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_033",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Evde atıkları ayırmak neye örnektir?",
+      "options": [
+        "Geri dönüşüme hazırlığa",
+        "Erozyona",
+        "Yangına",
+        "Depreme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_034",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Karton kutu hangi gruba daha yakındır?",
+      "options": [
+        "Yağ atığı",
+        "Cam atık",
+        "Kağıt/karton atık",
+        "Pil atığı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_035",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Yağmur ormanları azalınca ne olur?",
+      "options": [
+        "Canlılar çoğalır hep",
+        "Birçok canlı yaşam alanı kaybeder",
+        "Kirlilik kendiliğinden biter",
+        "Ağaçlar kendiliğinden artar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_036",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Bitki örtüsü yok olursa toprak ne olabilir?",
+      "options": [
+        "Denize dönüşür",
+        "Daha korumalı olur",
+        "Hiç değişmez",
+        "Daha kolay aşınabilir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_037",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Çölleşmeyi yavaşlatmaya yardım eden nedir?",
+      "options": [
+        "Aşırı otlatma",
+        "Anız yakma",
+        "Ağaçlandırma",
+        "Ağaç kesme"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_038",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Anız yakmak çevreye nasıl zarar verebilir?",
+      "options": [
+        "Havayı hep temizler",
+        "Ormanı büyütür",
+        "Toprağa ve havaya zarar",
+        "Toprağı hep iyileştirir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_039",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Göl kenarına çöp bırakmak kimi etkiler?",
+      "options": [
+        "Sadece bulutları",
+        "Su canlılarını",
+        "Sadece ayı",
+        "Sadece yıldızları"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_040",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Temiz enerji kaynaklarına örnek hangisidir?",
+      "options": [
+        "Lastik yakma",
+        "Benzin egzozu",
+        "Kömür dumanı",
+        "Güneş enerjisi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_041",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Rüzgâr türbini ne üretir?",
+      "options": [
+        "Temiz elektrik",
+        "Çöp",
+        "Petrol",
+        "Plastik"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_042",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Su tasarrufu için doğru davranış hangisidir?",
+      "options": [
+        "Diş fırçalarken musluğu kapatmak",
+        "Suyu yere dökmek",
+        "Bahçeyi gece boyu sulamak",
+        "Musluğu açık bırakmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_043",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Bahçeyi aşırı sulamak neden doğru olmayabilir?",
+      "options": [
+        "Havayı temizler hep",
+        "Hep daha iyidir",
+        "Su israfına yol açar",
+        "Erozyonu durdurur hep"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_044",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Plastik atığın doğada uzun kalması neyi gösterir?",
+      "options": [
+        "Hemen gübre olduğunu",
+        "Su olduğunu",
+        "Ağaç olduğunu",
+        "Kolay bozulmadığını"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t7_yeni_045",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Geri dönüştürülmüş kağıt kullanmak neyi destekler?",
+      "options": [
+        "Çöp yakmayı",
+        "Ormanların korunmasını",
+        "Orman kesimini",
+        "Su kirliliğini"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_046",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Şehirde ağaç dikmek neye yarar?",
+      "options": [
+        "Trafiği çoğaltır",
+        "Gürültüyü artırır",
+        "Havayı ve gölgeyi iyileştirir",
+        "Çöpü çoğaltır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_047",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Toprağın verimli kalması için ne yapılmamalı?",
+      "options": [
+        "Ağaç dikmek",
+        "Kimyasalları rastgele dökmek",
+        "Bitki örtüsünü korumak",
+        "Suyla dikkatli sulamak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t7_yeni_048",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Çevre bilinci olan bir öğrenci ne yapar?",
+      "options": [
+        "Ağacı kırar",
+        "Ateşi ormanda bırakır",
+        "Çöpünü kutuya atar",
+        "Çöpünü denize atar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t7_yeni_049",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Hangi davranış çevre dostudur?",
+      "options": [
+        "Atıkları ayırmak",
+        "Poşeti doğaya atmak",
+        "Suyu boşa akıtmak",
+        "Lambayı boşuna yakmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t7_yeni_050",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 7",
+      "question": "Doğal denge bozulunca ne olabilir?",
+      "options": [
+        "Canlılar zarar görebilir",
+        "Kirlilik hemen biter",
+        "Ormanlar hep çoğalır",
+        "Hiçbir şey değişmez"
+      ],
+      "correctAnswer": 0
     }
   ]
 }
