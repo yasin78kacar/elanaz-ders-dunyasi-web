@@ -255,9 +255,12 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
       if (!response.ok) throw new Error('Sorular yüklenemedi.');
       const data = await response.json();
       let yuklenen: Question[] = data.questions || [];
-      // Yalnızca Öğrenme Köşesi → Tema 2 (Saat Okuma): blok sırasını koruyup grup-içi
-      // karıştır. Her loadQuestions çağrısında yeniden çalışır → her oturumda farklı sıra.
-      if (subjectName === OGRENME.label && themeName === 'Tema 2') {
+      // Öğrenme Köşesi oturum karıştırması (her loadQuestions → farklı sıra):
+      // Tema 1: tüm soruları düz Fisher-Yates (zorluk bloğu yok).
+      // Tema 2: blok sırasını koruyup yalnızca grup-içi karıştır.
+      if (subjectName === OGRENME.label && themeName === 'Tema 1') {
+        fisherYates(yuklenen);
+      } else if (subjectName === OGRENME.label && themeName === 'Tema 2') {
         yuklenen = saatBloklariniKaristir(yuklenen);
       }
       setQuestions(yuklenen);
