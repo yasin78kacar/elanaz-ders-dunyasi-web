@@ -338,13 +338,13 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
           throw new Error(`${sinif}. sınıf için bu ${subjectName === 'Sosyal Bilgiler' ? 'temada' : 'kategoride'} soru yok.`);
         }
       }
-      // Öğrenme Köşesi oturum karıştırması (her loadQuestions → farklı sıra):
-      // Tema 1: tüm soruları düz Fisher-Yates (zorluk bloğu yok).
-      // Tema 2: blok sırasını koruyup yalnızca grup-içi karıştır.
-      if (subjectName === OGRENME.label && themeName === 'Tema 1') {
-        fisherYates(yuklenen);
-      } else if (subjectName === OGRENME.label && themeName === 'Tema 2') {
+      // Oturum karıştırması (her loadQuestions → farklı sıra). Sınıf filtresinden SONRA çalışır.
+      // Öğrenme Köşesi Tema 2: blok sırasını koruyup yalnızca grup-içi karıştır.
+      // Diğer tüm dersler ve temalar: düz Fisher-Yates.
+      if (subjectName === OGRENME.label && themeName === 'Tema 2') {
         yuklenen = saatBloklariniKaristir(yuklenen);
+      } else {
+        fisherYates(yuklenen);
       }
       setQuestions(yuklenen);
     } catch (err) {
