@@ -210,9 +210,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
+        "2:30",
         "12:30",
         "3:30",
-        "7:00",
         "1:30"
       ],
       "correctAnswer": 3,
@@ -227,9 +227,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "2:00",
-        "3:00",
-        "5:00",
+        "3:30",
+        "1:30",
+        "4:30",
         "2:30"
       ],
       "correctAnswer": 3,
@@ -245,9 +245,9 @@
       "question": "Saat kaçı gösteriyor?",
       "options": [
         "3:30",
-        "8:30",
-        "11:00",
-        "2:30"
+        "4:30",
+        "2:30",
+        "5:30"
       ],
       "correctAnswer": 0,
       "clock": {
@@ -261,10 +261,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "4:00",
+        "5:30",
         "4:30",
-        "1:00",
-        "6:00"
+        "3:30",
+        "6:30"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -295,9 +295,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "9:00",
-        "10:30",
         "7:30",
+        "5:30",
+        "8:30",
         "6:30"
       ],
       "correctAnswer": 3,
@@ -312,10 +312,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "3:30",
+        "8:30",
         "7:30",
-        "11:00",
-        "3:00"
+        "6:30",
+        "9:30"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -330,9 +330,9 @@
       "question": "Saat kaçı gösteriyor?",
       "options": [
         "8:30",
-        "1:00",
-        "5:30",
-        "3:30"
+        "9:30",
+        "7:30",
+        "10:30"
       ],
       "correctAnswer": 0,
       "clock": {
@@ -346,10 +346,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "4:00",
+        "10:30",
         "9:30",
-        "12:00",
-        "2:00"
+        "8:30",
+        "11:30"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -363,10 +363,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "6:30",
-        "11:00",
+        "11:30",
+        "9:30",
         "10:30",
-        "9:30"
+        "12:30"
       ],
       "correctAnswer": 2,
       "clock": {
@@ -380,10 +380,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
+        "12:30",
         "10:30",
-        "7:00",
         "11:30",
-        "6:00"
+        "1:30"
       ],
       "correctAnswer": 2,
       "clock": {
@@ -414,9 +414,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "4:00",
-        "1:45",
-        "11:45",
+        "2:15",
+        "12:15",
+        "3:15",
         "1:15"
       ],
       "correctAnswer": 3,
@@ -432,9 +432,9 @@
       "question": "Saat kaçı gösteriyor?",
       "options": [
         "2:15",
-        "1:00",
-        "4:00",
-        "8:00"
+        "3:15",
+        "1:15",
+        "4:15"
       ],
       "correctAnswer": 0,
       "clock": {
@@ -448,9 +448,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "12:15",
-        "8:15",
-        "12:45",
+        "4:15",
+        "2:15",
+        "5:15",
         "3:15"
       ],
       "correctAnswer": 3,
@@ -465,10 +465,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "2:00",
-        "6:45",
+        "5:15",
+        "3:15",
         "4:15",
-        "4:45"
+        "6:15"
       ],
       "correctAnswer": 2,
       "clock": {
@@ -483,9 +483,9 @@
       "question": "Saat kaçı gösteriyor?",
       "options": [
         "5:15",
-        "10:00",
-        "9:45",
-        "3:00"
+        "6:15",
+        "4:15",
+        "7:15"
       ],
       "correctAnswer": 0,
       "clock": {
@@ -499,10 +499,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "10:30",
-        "6:15",
         "7:15",
-        "2:00"
+        "6:15",
+        "5:15",
+        "8:15"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -516,10 +516,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "6:45",
+        "8:15",
         "7:15",
-        "4:45",
-        "9:30"
+        "6:15",
+        "9:15"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -533,8 +533,8 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "10:45",
-        "11:30",
+        "9:15",
+        "7:15",
         "10:15",
         "8:15"
       ],
@@ -551,9 +551,9 @@
       "question": "Saat kaçı gösteriyor?",
       "options": [
         "9:15",
-        "4:30",
-        "5:45",
-        "12:30"
+        "10:15",
+        "8:15",
+        "11:15"
       ],
       "correctAnswer": 0,
       "clock": {
@@ -568,9 +568,9 @@
       "question": "Saat kaçı gösteriyor?",
       "options": [
         "10:15",
-        "2:15",
-        "5:00",
-        "3:45"
+        "11:15",
+        "9:15",
+        "12:15"
       ],
       "correctAnswer": 0,
       "clock": {
@@ -584,10 +584,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "2:15",
+        "12:15",
         "11:15",
-        "4:30",
-        "8:15"
+        "10:15",
+        "1:15"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -601,10 +601,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "2:00",
+        "1:15",
         "12:15",
-        "11:30",
-        "9:00"
+        "11:15",
+        "2:15"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -618,9 +618,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "3:00",
-        "10:15",
-        "3:30",
+        "2:45",
+        "12:45",
+        "3:45",
         "1:45"
       ],
       "correctAnswer": 3,
@@ -635,9 +635,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "12:15",
-        "1:30",
-        "12:30",
+        "3:45",
+        "1:45",
+        "4:45",
         "2:45"
       ],
       "correctAnswer": 3,
@@ -652,9 +652,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "8:15",
-        "11:30",
-        "1:00",
+        "4:45",
+        "2:45",
+        "5:45",
         "3:45"
       ],
       "correctAnswer": 3,
@@ -669,10 +669,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "9:00",
-        "3:15",
+        "5:45",
+        "3:45",
         "4:45",
-        "1:45"
+        "6:45"
       ],
       "correctAnswer": 2,
       "clock": {
@@ -686,9 +686,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "7:15",
         "6:45",
-        "1:30",
+        "4:45",
+        "7:45",
         "5:45"
       ],
       "correctAnswer": 3,
@@ -703,10 +703,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "6:30",
+        "7:45",
         "6:45",
-        "6:00",
-        "9:00"
+        "5:45",
+        "8:45"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -721,9 +721,9 @@
       "question": "Saat kaçı gösteriyor?",
       "options": [
         "7:45",
-        "3:30",
-        "10:30",
-        "12:30"
+        "8:45",
+        "6:45",
+        "9:45"
       ],
       "correctAnswer": 0,
       "clock": {
@@ -737,10 +737,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "12:45",
-        "3:00",
+        "9:45",
+        "7:45",
         "8:45",
-        "11:15"
+        "10:45"
       ],
       "correctAnswer": 2,
       "clock": {
@@ -754,10 +754,10 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "1:00",
+        "10:45",
         "9:45",
-        "8:15",
-        "12:15"
+        "8:45",
+        "11:45"
       ],
       "correctAnswer": 1,
       "clock": {
@@ -772,9 +772,9 @@
       "question": "Saat kaçı gösteriyor?",
       "options": [
         "10:45",
-        "6:15",
-        "10:00",
-        "3:00"
+        "11:45",
+        "9:45",
+        "12:45"
       ],
       "correctAnswer": 0,
       "clock": {
@@ -788,9 +788,9 @@
       "theme": "Tema 2",
       "question": "Saat kaçı gösteriyor?",
       "options": [
-        "7:45",
-        "8:00",
-        "11:30",
+        "12:45",
+        "10:45",
+        "1:45",
         "11:45"
       ],
       "correctAnswer": 3,
@@ -914,8 +914,8 @@
       "question": "Saatteki kısa ibreye ne denir?",
       "options": [
         "Yelkovan",
-        "Sarkaç",
-        "Kordon",
+        "Kadran",
+        "Rakam",
         "Akrep"
       ],
       "correctAnswer": 3
@@ -927,9 +927,9 @@
       "question": "Saatteki uzun ibreye ne denir?",
       "options": [
         "Akrep",
-        "Zil",
+        "Kadran",
         "Yelkovan",
-        "Sarkaç"
+        "Rakam"
       ],
       "correctAnswer": 2
     }

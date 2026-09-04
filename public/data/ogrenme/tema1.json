@@ -8,7 +8,7 @@
       "options": [
         "Kışın",
         "Tatilde",
-        "Sabahları",
+        "Öğlen",
         "Sabah"
       ],
       "correctAnswer": 3
@@ -32,9 +32,9 @@
       "theme": "Tema 1",
       "question": "Ali sabah parka koştu. Parkta arkadaşı Can ile top oynadı. İkisi de çok eğlendi. Ali ile Can parkta NE oynadı?",
       "options": [
-        "Süt",
-        "Gözleme",
-        "Kale",
+        "Saklambaç",
+        "Yakalamaç",
+        "Futbol",
         "Top"
       ],
       "correctAnswer": 3
@@ -45,10 +45,10 @@
       "theme": "Tema 1",
       "question": "Elif kahvaltıda süt içti. Annesi ona peynir de verdi. Sonra Elif çantasını hazırladı. Elif kahvaltıda NE içti?",
       "options": [
-        "Defter",
+        "Su",
         "Süt",
-        "Kalem",
-        "Elma"
+        "Çay",
+        "Ayran"
       ],
       "correctAnswer": 1
     },
@@ -86,7 +86,7 @@
       "options": [
         "Yavaşça",
         "Sevinçle",
-        "Tek tek",
+        "Üzgünce",
         "Gülerek"
       ],
       "correctAnswer": 3
@@ -150,9 +150,9 @@
       "question": "Dışarıda yağmur yağıyordu. Zeynep üşüdüğü için kalın montunu giydi. Sonra şemsiyesini aldı. Zeynep yağmurda yanına NE aldı?",
       "options": [
         "Şemsiye",
-        "Balon",
-        "Su",
-        "Gözleme"
+        "Yağmurluk",
+        "Çizme",
+        "Bere"
       ],
       "correctAnswer": 0
     },
@@ -175,10 +175,10 @@
       "theme": "Tema 1",
       "question": "Bugün Efe'nin doğum günü. Arkadaşları ona renkli balonlar aldı. Efe çok sevindi. Arkadaşları Efe'ye NE aldı?",
       "options": [
-        "Bardak",
-        "Armut",
+        "Pasta",
+        "Mum",
         "Balon",
-        "Ekmek"
+        "Hediye"
       ],
       "correctAnswer": 2
     },
@@ -253,10 +253,10 @@
       "theme": "Tema 1",
       "question": "Tatilde ailemiz denize gezmeye çıktı. Ben kumdan kale yaptım. Deniz çok maviydi. Ben kumdan NE yaptım?",
       "options": [
-        "Ekmek",
-        "Çiçek",
+        "Ev",
+        "Yol",
         "Kale",
-        "Armut"
+        "Köprü"
       ],
       "correctAnswer": 2
     },
@@ -331,10 +331,10 @@
       "theme": "Tema 1",
       "question": "Babam öğleden sonra markete uğradı. Markette taze ekmek aldı. Sonra eve döndü. Babam markette NE aldı?",
       "options": [
-        "Su",
-        "Şapka",
+        "Süt",
+        "Peynir",
         "Ekmek",
-        "Armut"
+        "Yumurta"
       ],
       "correctAnswer": 2
     },
@@ -500,10 +500,10 @@
       "theme": "Tema 1",
       "question": "Ormanda küçük bir tavşan yaşıyordu. Tavşan sabahları havuç yerdi. Bir gün yeni bir arkadaş buldu. Tavşan sabahları NE yerdi?",
       "options": [
-        "Süt",
+        "Marul",
         "Havuç",
-        "Şapka",
-        "Kalem"
+        "Elma",
+        "Lahana"
       ],
       "correctAnswer": 1
     },
@@ -529,7 +529,7 @@
         "Yüksek sesle",
         "Dikkatlice",
         "Neşeyle",
-        "Koşarak"
+        "Sessizce"
       ],
       "correctAnswer": 2
     },
@@ -553,9 +553,9 @@
       "question": "Mehmet uzun süre koştu. Çok susadığı için mutfağa uğradı. Mutfakta soğuk bir bardak su içti. Mehmet mutfakta NE içti?",
       "options": [
         "Su",
-        "Havuç",
-        "Kalem",
-        "Çiçek"
+        "Süt",
+        "Ayran",
+        "Çay"
       ],
       "correctAnswer": 0
     },
@@ -630,10 +630,10 @@
       "theme": "Tema 1",
       "question": "Ninem öğlen bize gözleme yaptı. Mutfaktan güzel bir koku geldi. Hepimiz sofraya oturduk. Ninem bize NE yaptı?",
       "options": [
-        "Havuç",
-        "Armut",
+        "Börek",
+        "Çorba",
         "Gözleme",
-        "Muz"
+        "Kek"
       ],
       "correctAnswer": 2
     },
@@ -685,7 +685,7 @@
         "Gülerek",
         "Mutlulukla",
         "Neşeyle",
-        "Tek tek"
+        "Hızlıca"
       ],
       "correctAnswer": 1
     },
