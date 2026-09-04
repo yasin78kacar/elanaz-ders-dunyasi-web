@@ -3,7 +3,7 @@ interface DigitalClockProps {
   minute: number;
   /** 12 → 12 saat biçimi ("3:00", başa 0 yok); 24 → 24 saat biçimi ("13:00", başa 0 var). */
   format?: number;
-  /** Ekran taban genişliği (px) — rakam boyutu buna göre ölçeklenir. En az 260px. */
+  /** Ekran taban genişliği (px) — rakam boyutu buna göre ölçeklenir. Şık/mini için ~90, soru için ~200–280. */
   size?: number;
 }
 
@@ -21,8 +21,11 @@ const DigitalClock: React.FC<DigitalClockProps> = ({ hour, minute, format = 12, 
     saatMetni = `${h12}:${mm}`;
   }
 
-  const w = Math.max(260, size);
-  const fontSize = Math.round(w * 0.4);
+  // Mini şık (Tema 2) ~90–120px; soru görseli 200+. Alt sınır düşük tutulur.
+  const w = Math.max(72, size);
+  const compact = w < 160;
+  const fontSize = Math.round(w * (compact ? 0.34 : 0.4));
+  const borderW = Math.max(2, Math.round(w * 0.018));
   const amber = '#FFC24B';
 
   return (
@@ -34,14 +37,18 @@ const DigitalClock: React.FC<DigitalClockProps> = ({ hour, minute, format = 12, 
         display: 'inline-flex',
         alignItems: 'center',
         justifyContent: 'center',
-        minWidth: w,
-        padding: `${Math.round(w * 0.11)}px ${Math.round(w * 0.16)}px`,
+        width: compact ? '100%' : undefined,
+        minWidth: compact ? 0 : w,
+        maxWidth: '100%',
+        padding: `${Math.round(w * (compact ? 0.1 : 0.11))}px ${Math.round(w * (compact ? 0.1 : 0.14))}px`,
         boxSizing: 'border-box',
         borderRadius: Math.round(w * 0.1),
         background: 'linear-gradient(160deg, #0E1B33 0%, #0A1220 100%)',
-        border: '4px solid #1E2A45',
+        border: `${borderW}px solid #1E2A45`,
         boxShadow:
-          '0 10px 24px rgba(10,18,32,0.35), inset 0 2px 6px rgba(0,0,0,0.6), inset 0 0 0 3px #060B15',
+          compact
+            ? '0 3px 8px rgba(10,18,32,0.28), inset 0 1px 3px rgba(0,0,0,0.5)'
+            : '0 10px 24px rgba(10,18,32,0.35), inset 0 2px 6px rgba(0,0,0,0.6), inset 0 0 0 3px #060B15',
       }}
     >
       <span

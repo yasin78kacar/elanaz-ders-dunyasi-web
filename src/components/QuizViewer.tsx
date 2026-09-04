@@ -109,6 +109,16 @@ function saatBloklariniKaristir(questions: Question[]): Question[] {
   return sonuc;
 }
 
+/** "3:30" / "12:00" → {hour, minute}; değilse null (kavram şıkları metin kalır). */
+function parseTimeOption(opt: string): { hour: number; minute: number } | null {
+  const m = /^(\d{1,2}):(\d{2})$/.exec(opt.trim());
+  if (!m) return null;
+  const hour = Number(m[1]);
+  const minute = Number(m[2]);
+  if (hour < 0 || hour > 23 || minute < 0 || minute > 59) return null;
+  return { hour, minute };
+}
+
 function playSound(correct: boolean) {
   try {
     const ctx = new (window.AudioContext || (window as any).webkitAudioContext)();
@@ -948,7 +958,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
               </div>
             </div>
 
-            <div className="qv-options">
+            <div className={`qv-options${currentQuestion.clock && selectedSubject === OGRENME.label && selectedTheme === 'Tema 2' ? ' qv-options--digi' : ''}`}>
               {currentQuestion.options.map((opt, i) => {
                 let cls = 'qv-option';
                 if (selectedOption !== null) {
@@ -956,6 +966,14 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
                   else if (i === selectedOption) cls += ' qv-option--wrong';
                   else cls += ' qv-option--dim';
                 }
+                // Tema 2 kadran soruları: şık = mini DigitalClock. Kavram (clock yok) → metin.
+                const digi =
+                  currentQuestion.clock &&
+                  selectedSubject === OGRENME.label &&
+                  selectedTheme === 'Tema 2'
+                    ? parseTimeOption(opt)
+                    : null;
+                if (digi) cls += ' qv-option--digi';
                 return (
                   <button
                     key={i}
@@ -963,9 +981,14 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
                     className={cls}
                     onClick={() => handleAnswer(i)}
                     disabled={feedback !== 'idle'}
+                    aria-label={digi ? `Seçenek ${OPTION_LABELS[i]}: Saat ${opt}` : undefined}
                   >
                     <span className="qv-option-label">{OPTION_LABELS[i]}</span>
-                    <span className="qv-option-text">{opt}</span>
+                    {digi ? (
+                      <DigitalClock hour={digi.hour} minute={digi.minute} format={12} size={110} />
+                    ) : (
+                      <span className="qv-option-text">{opt}</span>
+                    )}
                   </button>
                 );
               })}

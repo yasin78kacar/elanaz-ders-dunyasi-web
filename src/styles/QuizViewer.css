@@ -387,6 +387,39 @@ body::before {
   margin-bottom: 16px;
 }
 
+/* Tema 2 kadran soruları: 2×2 mini dijital saat şıkları */
+.qv-options--digi {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.qv-option--digi {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 8px;
+  text-align: center;
+}
+.qv-option--digi:hover:not(:disabled) {
+  transform: translateY(-2px);
+}
+.qv-option--digi .digital-clock {
+  width: 100%;
+  max-width: 100%;
+}
+.qv-option--digi .qv-option-label {
+  width: 28px;
+  height: 28px;
+  font-size: 0.78rem;
+}
+@media (max-width: 380px) {
+  .qv-option--digi {
+    padding: 8px 6px;
+    gap: 6px;
+  }
+}
+
 .qv-option {
   display: flex;
   align-items: center;
