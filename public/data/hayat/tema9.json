@@ -402,6 +402,721 @@
         "Her bilgiyi doğru kabul etmek"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_001",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "İnternette şifreni arkadaşınla paylaşmak doğru mudur?",
+      "options": [
+        "Hayır, gizli tutulmalıdır",
+        "Evet, sınıfa yaz",
+        "Evet, herkese söyle",
+        "Evet, yabancılara ver"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_002",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Güçlü bir şifre nasıl olmalıdır?",
+      "options": [
+        "Doğum tarihi gibi kolay",
+        "İsim gibi açık",
+        "1234 gibi basit",
+        "Uzun ve tahmin edilmesi zor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_003",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Şifreni unutursan ne yapmalısın?",
+      "options": [
+        "Rastgele siteye yazmak",
+        "Büyüğünden yardım istemek",
+        "Aynı şifreyi duvara yazmak",
+        "Herkese sormak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_004",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Adresini tanımadığın birine yazmak doğru mudur?",
+      "options": [
+        "Evet, her zaman",
+        "Hayır, kişisel bilgidir",
+        "Evet, oyun için",
+        "Evet, hediye vaat ederse"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_005",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Telefon numaranı yabancıyla paylaşmak risk midir?",
+      "options": [
+        "Hayır, zorunludur",
+        "Hayır, daha güvenlidir",
+        "Evet, güvenlik riskidir",
+        "Hayır, hiç risk değildir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_006",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Okul adını herkese açık paylaşmak neden riskli olabilir?",
+      "options": [
+        "Virüsü temizler",
+        "Cihazı hızlandırır",
+        "Şifreyi güçlendirir",
+        "Konum bilgisi verebilir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_007",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Ailenin izni olmadan uygulama indirmek doğru mudur?",
+      "options": [
+        "Hayır, birlikte karar verilmeli",
+        "Evet, renkliyse serbest",
+        "Evet, her zaman serbest",
+        "Evet, bedava ise serbest"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_008",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Tanımadığın biriyle görüntülü konuşmak doğru mudur?",
+      "options": [
+        "Evet, her zaman",
+        "Evet, hediye isterse",
+        "Evet, oyun için",
+        "Hayır, güvenli değildir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_009",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "İnternette biri 'sır sakla' derse ne yapmalısın?",
+      "options": [
+        "Şifreni göndermek",
+        "Sırrı tutup gizlemek",
+        "Adresini yazmak",
+        "Büyüğüne anlatmak"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_010",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Oyun içinde yabancı arkadaş eklemek güvenli midir?",
+      "options": [
+        "Evet, hep güvenlidir",
+        "Evet, puan için serbest",
+        "Hayır, dikkatli olunmalı",
+        "Evet, zorunludur"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_011",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Tanımadığın biri buluşma isterse ne yapmalısın?",
+      "options": [
+        "Hemen kabul etmek",
+        "Adresini vermek",
+        "Yalnız gitmek",
+        "Reddedip büyüğe söylemek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_012",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "İnternette kibar görünmek güvenli olmak demek midir?",
+      "options": [
+        "Hayır, yine dikkat gerekir",
+        "Evet, hep yeterlidir",
+        "Evet, şifre gerekmez",
+        "Evet, kural yoktur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_013",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Gece geç saatlere kadar tablet kullanmak neden önerilmez?",
+      "options": [
+        "Gözü dinlendirir",
+        "Uykuyu bozabilir",
+        "Dersi artırır",
+        "Uykuyu iyileştirir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_014",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Ekran molası vermek ne işe yarar?",
+      "options": [
+        "Dikkati yok eder",
+        "Uykuyu bozar",
+        "Bağımlılığı artırır",
+        "Göz ve zihin dinlenir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_015",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Ödev varken sadece oyun oynamak doğru mudur?",
+      "options": [
+        "Evet, kural yoktur",
+        "Evet, oyun önce gelir",
+        "Hayır, önce ödev yapılmalı",
+        "Evet, ödev önemsizdir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_016",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Günde saatlerce oyun oynamak neye yol açabilir?",
+      "options": [
+        "Daha iyi uykuya",
+        "Yorgunluk ve ihmal",
+        "Daha iyi spora",
+        "Daha iyi dinlenmeye"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_017",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Ekran süresini aileyle konuşmak neden iyidir?",
+      "options": [
+        "Süreyi sonsuz yapmak için",
+        "Şifreyi paylaşmak için",
+        "Dengeli kullanım için",
+        "Kuralları silmek için"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_018",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Dışarıda oyun oynamak ekrana göre nasıl bir seçenektir?",
+      "options": [
+        "Zararlı bir seçenektir",
+        "Yasak bir seçenektir",
+        "Sağlıklı bir alternatiftir",
+        "Gereksiz bir seçenektir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_019",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Yemek sırasında telefon kullanmak neden uygun olmayabilir?",
+      "options": [
+        "Dikkati artırır",
+        "Sohbeti güçlendirir",
+        "Yemeği iyileştirir",
+        "Sohbeti ve dikkati bozar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_020",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Başkasının telefonunu izinsiz açmak doğru mudur?",
+      "options": [
+        "Evet, her zaman serbest",
+        "Evet, şaka ise serbest",
+        "Hayır, izinsiz olmaz",
+        "Evet, yakınsa serbest"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_021",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Tableti ıslak elle tutmak neden risklidir?",
+      "options": [
+        "Cihaza zarar verebilir",
+        "Şarjı artırır",
+        "Ekranı temizler",
+        "Cihazı iyileştirir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_022",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Kulaklıkla çok yüksek ses dinlemek neye zarar verebilir?",
+      "options": [
+        "Sesini güçlendirmeye",
+        "İşitmeye",
+        "Uykuyu düzeltmeye",
+        "Daha iyi duymaya"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_023",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Yolda yürürken telefona bakmak neden tehlikelidir?",
+      "options": [
+        "Trafiği azaltır",
+        "Yolu kısaltır",
+        "Daha güvenli yapar",
+        "Dikkatsizlik kaza riski yaratır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_024",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Şarj aletini ıslak prizde kullanmak doğru mudur?",
+      "options": [
+        "Hayır, tehlike oluşturur",
+        "Evet, her zaman serbest",
+        "Evet, oyun için",
+        "Evet, daha hızlı şarj olur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_025",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Ailenin koyduğu tablet kuralına uymak neyi gösterir?",
+      "options": [
+        "Umursamazlığı",
+        "Sorumluluk bilincini",
+        "Bencilliği",
+        "Kuralsızlığı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_026",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Birinin seni internette kırıcı yazılarla üzmesi nedir?",
+      "options": [
+        "Ödül mesajıdır",
+        "Güvenli oyundur",
+        "Siber zorbalık olabilir",
+        "Zorunlu ödevdir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_027",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Siber zorbalık görürsen ne yapmalısın?",
+      "options": [
+        "Büyüğe haber vermek",
+        "Gizleyip unutmak",
+        "Beğenip paylaşmak",
+        "Aynı şekilde cevap vermek"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_028",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Arkadaşına kırıcı mesaj atmak doğru mudur?",
+      "options": [
+        "Evet, kimse görmezse",
+        "Hayır, rencide eder",
+        "Evet, şaka ise serbest",
+        "Evet, her zaman serbest"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_029",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Birinin fotoğrafıyla alay etmek nasıl bir davranıştır?",
+      "options": [
+        "Güvenli bir paylaşımdır",
+        "Yanlış ve kırıcıdır",
+        "Doğru ve zorunludur",
+        "Zararsız bir oyundur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_030",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Grup sohbetinde birini dışlamak doğru mudur?",
+      "options": [
+        "Evet, eğlencelidir",
+        "Evet, puan kazandırır",
+        "Hayır, incitici olabilir",
+        "Evet, kuraldır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_031",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Kırıcı bir mesaj gelince ilk doğru adım nedir?",
+      "options": [
+        "Daha sert yazmak",
+        "Kaydedip büyüğe göstermek",
+        "Adresini yazmak",
+        "Şifreni göndermek"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_032",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "İnternette gördüğün her yazı doğru mudur?",
+      "options": [
+        "Evet, uzunsa doğrudur",
+        "Hayır, kontrol edilmelidir",
+        "Evet, resimliyse doğrudur",
+        "Evet, hepsi doğrudur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_033",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Bir haberin doğru olup olmadığını anlamak için ne yapılabilir?",
+      "options": [
+        "Paylaşıp geçmek",
+        "Sadece başlığa bakmak",
+        "Güvenilir kaynaktan bakmak",
+        "İlk siteye inanmak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_034",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "'Bedava telefon kazandın' yazısı çoğu zaman nedir?",
+      "options": [
+        "Tuzak veya risk",
+        "Zorunlu ödev",
+        "Kesin gerçek",
+        "Okul kuralı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_035",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Tanımadığın bir linke tıklamak neden risklidir?",
+      "options": [
+        "Şifreyi güçlendirir",
+        "Cihazı hızlandırır",
+        "Her zaman ödül verir",
+        "Zararlı site açabilir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_036",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Ödev için bilgi ararken neye dikkat etmelisin?",
+      "options": [
+        "Güvenilir kaynağa",
+        "Sadece renge",
+        "Sadece reklama",
+        "Sadece ilk sonuca"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_037",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Bir bilgiyi birkaç yerden kontrol etmek ne sağlar?",
+      "options": [
+        "Bilgiyi bozmayı",
+        "Virüs indirmeyi",
+        "Şifreyi açmayı",
+        "Daha doğru bilgiye yaklaşmayı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_038",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Reklamlar her zaman doğru bilgi midir?",
+      "options": [
+        "Evet, zorunludur",
+        "Evet, okul kuralıdır",
+        "Evet, hep doğrudur",
+        "Hayır, abartılı olabilir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_039",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "İnternette korkutan bir şey görürsen ne yapmalısın?",
+      "options": [
+        "Yalnız çözmek zorunda",
+        "Daha çok bakmak",
+        "Büyüğüne anlatmak",
+        "Kimseye söylememek"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_040",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Şüpheli bir mesaj gelince kime sormalısın?",
+      "options": [
+        "Ailene veya öğretmenine",
+        "Rastgele oyuncuya",
+        "Tanımadığın kişiye",
+        "Hiç kimseye"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_041",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Uygulama izin isterse ne yapmak iyidir?",
+      "options": [
+        "Büyüğüyle birlikte bakmak",
+        "Okumadan onaylamak",
+        "Hemen kabul etmek",
+        "Herkese açmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_042",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Cihazda garip bir uyarı çıkınca ne yapılmalı?",
+      "options": [
+        "Büyüğünden yardım istemek",
+        "Hemen tıklayıp geçmek",
+        "Şifreyi yazıp göndermek",
+        "Cihazı ıslatmak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_043",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "İnternet kuralını anlamadıysan ne yapmalısın?",
+      "options": [
+        "Arkadaşa zorla yaptırmak",
+        "Sormaktan çekinmemek",
+        "Kuralı yok saymak",
+        "Gizlice bozmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_044",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Ev anahtarının yerini internette yazmak doğru mudur?",
+      "options": [
+        "Hayır, çok tehlikelidir",
+        "Evet, zorunludur",
+        "Evet, puan için",
+        "Evet, eğlencelidir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_045",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Başkasının şifresini istemek doğru mudur?",
+      "options": [
+        "Evet, şaka ise serbest",
+        "Hayır, özeldir",
+        "Evet, arkadaşsa serbest",
+        "Evet, ödev için serbest"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_046",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Kameranı açık bırakıp tanımadığına göstermek doğru mudur?",
+      "options": [
+        "Evet, hediye vaat ederse",
+        "Evet, her zaman",
+        "Evet, oyun için",
+        "Hayır, güvenli değildir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_047",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Konumunu herkese açık paylaşmak risk midir?",
+      "options": [
+        "Evet, yerini belli eder",
+        "Hayır, hiç risk değildir",
+        "Hayır, daha güvenlidir",
+        "Hayır, zorunludur"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_048",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Aile fotoğrafını herkese açık atmadan önce ne yapılmalı?",
+      "options": [
+        "Hemen paylaşmak",
+        "Rastgele etiketlemek",
+        "İzin almak",
+        "Kimseye sormamak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_049",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Dijital ortamda nazik olmak neden önemlidir?",
+      "options": [
+        "Zorbalık yapmak için",
+        "İnsanları incitmemek için",
+        "Kuralları bozmak için",
+        "Şifreyi çalmak için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_050",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Güvenli internet kullanımı kime yarar?",
+      "options": [
+        "Sadece uzak ülkelere",
+        "Sadece reklamlara",
+        "Kendine ve çevrene",
+        "Sadece oyunlara"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "hayat_t9_yeni_051",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Tablet kullanırken mola vermek hangi bilince örnektir?",
+      "options": [
+        "Zorbalığa",
+        "Şifre paylaşmaya",
+        "Tuzak linke",
+        "Ekran süresi bilincine"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_052",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "İnternette 'kimse bilmez' düşüncesi doğru mudur?",
+      "options": [
+        "Evet, kural yoktur",
+        "Evet, hep gizlidir",
+        "Evet, hiç iz kalmaz",
+        "Hayır, izler kalabilir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "hayat_t9_yeni_053",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Güvenli şifreyi sınıfın ortasında bırakmak doğru mudur?",
+      "options": [
+        "Hayır, başkası görebilir",
+        "Evet, öğretmen yasaklar",
+        "Evet, herkese açık olmalı",
+        "Evet, daha güvenlidir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t9_yeni_054",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Ödev için video izlerken dikkat edilmesi gereken nedir?",
+      "options": [
+        "Şifreyi videoya yazmak",
+        "Uygun ve güvenli içerik",
+        "Yorumlara adres yazmak",
+        "Her videoyu açmak"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "hayat_t9_yeni_055",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 9",
+      "question": "Teknolojiyi doğru kullanmak neyi gerektirir?",
+      "options": [
+        "Sınırsız ekran",
+        "Şifre paylaşmayı",
+        "Bilinç ve sorumluluk",
+        "Kuralsızlığı"
+      ],
+      "correctAnswer": 2
     }
   ]
 }
