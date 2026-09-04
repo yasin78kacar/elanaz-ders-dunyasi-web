@@ -279,12 +279,12 @@
       "theme": "Tema 7",
       "question": "\"masal\" türünü tanımlayan hangisidir?",
       "options": [
+        "Ölçü ve uyakla yazılan edebî tür",
+        "Gerçek olayları bildiren yazı",
         "Hayali olayları anlatan tür",
-        "şiir",
-        "roman",
-        "haber"
+        "Birine yazılan kişisel yazı"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
       "id": "qb90920",
@@ -292,12 +292,12 @@
       "theme": "Tema 7",
       "question": "\"şiir\" türünü tanımlayan hangisidir?",
       "options": [
-        "roman",
         "Ölçü ve uyakla yazılan edebî tür",
-        "masal",
-        "haber"
+        "Gerçek olayları bildiren yazı",
+        "Birine yazılan kişisel yazı",
+        "Bir kişinin yaşamını anlatan yazı"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "qb90921",
@@ -305,12 +305,12 @@
       "theme": "Tema 7",
       "question": "\"roman\" türünü tanımlayan hangisidir?",
       "options": [
-        "şiir",
-        "masal",
-        "Uzun, kurgu içeren edebî tür",
-        "hikâye"
+        "Kısa ve yoğun kurgu türü",
+        "Ölçü ve uyakla yazılan edebî tür",
+        "Gerçek olayları bildiren yazı",
+        "Uzun, kurgu içeren edebî tür"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "qb90922",
@@ -318,12 +318,12 @@
       "theme": "Tema 7",
       "question": "\"hikâye\" türünü tanımlayan hangisidir?",
       "options": [
+        "Uzun, kurgu içeren edebî tür",
         "Kısa ve yoğun kurgu türü",
-        "masal",
-        "şiir",
-        "roman"
+        "Ölçü ve uyakla yazılan edebî tür",
+        "Gerçek olayları bildiren yazı"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qb90923",
@@ -331,12 +331,12 @@
       "theme": "Tema 7",
       "question": "\"fıkra\" türünü tanımlayan hangisidir?",
       "options": [
-        "roman",
-        "şiir",
         "Kısa, güldürücü ve öğretici anlatı",
-        "masal"
+        "Ölçü ve uyakla yazılan edebî tür",
+        "Gerçek olayları bildiren yazı",
+        "Bir kişinin yaşamını anlatan yazı"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "qb90924",
@@ -344,12 +344,12 @@
       "theme": "Tema 7",
       "question": "\"fabl\" türünü tanımlayan hangisidir?",
       "options": [
-        "şiir",
-        "Hayvanların konuştuğu öğütlü hikâye",
-        "masal",
-        "roman"
+        "Ölçü ve uyakla yazılan edebî tür",
+        "Gerçek olayları bildiren yazı",
+        "Birine yazılan kişisel yazı",
+        "Hayvanların konuştuğu öğütlü hikâye"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 3
     },
     {
       "id": "qb90925",
@@ -357,10 +357,10 @@
       "theme": "Tema 7",
       "question": "\"biyografi\" türünü tanımlayan hangisidir?",
       "options": [
-        "şiir",
+        "Ölçü ve uyakla yazılan edebî tür",
         "Bir kişinin yaşamını anlatan yazı",
-        "haber",
-        "roman"
+        "Hayali olayları anlatan tür",
+        "Uzun, kurgu içeren edebî tür"
       ],
       "correctAnswer": 1
     },
@@ -370,12 +370,12 @@
       "theme": "Tema 7",
       "question": "\"günlük\" türünü tanımlayan hangisidir?",
       "options": [
-        "şiir",
+        "Ölçü ve uyakla yazılan edebî tür",
+        "Hayali olayları anlatan tür",
         "Kişisel yaşananların yazıldığı tür",
-        "haber",
-        "roman"
+        "Gerçek olayları bildiren yazı"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "qb90927",
@@ -383,12 +383,12 @@
       "theme": "Tema 7",
       "question": "\"haber\" türünü tanımlayan hangisidir?",
       "options": [
-        "roman",
-        "şiir",
-        "Gerçek olayları bildiren yazı",
-        "masal"
+        "Hayali olayları anlatan tür",
+        "Ölçü ve uyakla yazılan edebî tür",
+        "Hayvanların konuştuğu öğütlü hikâye",
+        "Gerçek olayları bildiren yazı"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 3
     },
     {
       "id": "qb90928",
@@ -397,9 +397,9 @@
       "question": "\"mektup\" türünü tanımlayan hangisidir?",
       "options": [
         "Birine yazılan kişisel yazı",
-        "masal",
-        "haber",
-        "roman"
+        "Hayali olayları anlatan tür",
+        "Ölçü ve uyakla yazılan edebî tür",
+        "Gerçek olayları bildiren yazı"
       ],
       "correctAnswer": 0
     },
