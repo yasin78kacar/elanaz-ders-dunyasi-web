@@ -688,6 +688,396 @@
         "Toplama, birlikte olma: 'Hem çalıştı hem de oynadı.'"
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "qe600834",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "İsim ne demektir?",
+      "options": [
+        "Eylemlerin adı",
+        "Varlıkların, kavramların, niteliklerin adı",
+        "Zarfların adı",
+        "Sıfatların adı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600835",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Eylem (fiil) nedir?",
+      "options": [
+        "Niteleme sözcüğü",
+        "Yön bildiren sözcük",
+        "Kılış, oluş ya da durum bildiren sözcük",
+        "Varlıkların adı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600836",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Sıfat nedir?",
+      "options": [
+        "Eylemleri niteleyen",
+        "İsimlerin kendisi",
+        "İsimleri niteleyen ya da belirten sözcük",
+        "Zamirler"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600837",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Zarf nedir?",
+      "options": [
+        "İsimleri niteleyen sözcük",
+        "Eylemleri, sıfatları ya da zarfları niteleyen sözcük",
+        "Bağlaç",
+        "Eylem eki"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qe600838",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Zamir nedir?",
+      "options": [
+        "Eylem",
+        "İsmin kendisi",
+        "İsmin yerini tutan sözcük",
+        "Bağlaç"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600839",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Bağlaç nedir?",
+      "options": [
+        "Sözcük ve cümleleri birbirine bağlayan sözcük",
+        "Eylem",
+        "İsim",
+        "Sıfat"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600840",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Edat nedir?",
+      "options": [
+        "Zarf",
+        "Bağlaç",
+        "İsimlerle anlam ilişkisi kuran sözcük",
+        "Zamir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600841",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Ünlem nedir?",
+      "options": [
+        "Zamir",
+        "Bağlaç",
+        "Edat",
+        "Duygu ve coşku ifade eden sözcük"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600842",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Somut isim örnekleri hangileridir?",
+      "options": [
+        "Kalem, masa, ağaç, araba",
+        "Güzel, iyi, büyük",
+        "Koş, gel, git",
+        "Sevgi, özgürlük, düşünce"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600843",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Soyut isim örnekleri hangileridir?",
+      "options": [
+        "Kalem, masa, ağaç",
+        "Güzel, iyi, büyük",
+        "Koş, gel, git",
+        "Sevgi, özgürlük, düşünce"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600844",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Özel isim nedir?",
+      "options": [
+        "Eylem adı",
+        "Genel varlık adı",
+        "Niteleme sözcüğü",
+        "Belirli bir varlığa verilen ad (Ayşe, Ankara)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600845",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Cins (tür) isim nedir?",
+      "options": [
+        "Belirli bir varlığın adı",
+        "Eylem adı",
+        "Soyut kavram",
+        "Aynı türden tüm varlıkları kapsayan ad (çocuk, dağ)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600846",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Çoğul eki hangisidir?",
+      "options": [
+        "-lar / -ler",
+        "-a / -e",
+        "-dan / -den",
+        "-da / -de"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qe600847",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "İyelik eki nedir?",
+      "options": [
+        "Zaman eki",
+        "Soru eki",
+        "Çoğul eki",
+        "Bir şeyin kime ait olduğunu gösteren ek"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qe600848",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Soru eki hangisidir?",
+      "options": [
+        "-dan / -den",
+        "mi / mı / mü / mü",
+        "-da / -de",
+        "-lar / -ler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800601",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Hangi sözcük isimdir?",
+      "options": [
+        "Güzel (sıfat)",
+        "Koşmak (eylem)",
+        "Hızla (zarf)",
+        "Güzellik (isim)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800602",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Hangi sözcük sıfattır?",
+      "options": [
+        "Koşmak (eylem)",
+        "Ve (bağlaç)",
+        "Yeşil (isim niteliyor)",
+        "Orada (zarf)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800603",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Hangi sözcük eylemdir?",
+      "options": [
+        "Uyumak",
+        "İle",
+        "Güzel",
+        "Çok"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800604",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Hangi sözcük zarftır?",
+      "options": [
+        "Koşmak",
+        "Güzel",
+        "Çiçek",
+        "Hızlıca (eylemi niteliyor)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800605",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Hangi sözcük zamirdir?",
+      "options": [
+        "Ben (öznenin yerini tutar)",
+        "Koşmak",
+        "Kitap",
+        "Güzel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qf800606",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Hangi sözcük bağlaçtır?",
+      "options": [
+        "Güzel",
+        "Ve (iki ögeyi birleştiriyor)",
+        "Koşmak",
+        "Kitap"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800607",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Çiçek açtı.' cümlesinde kaç sözcük vardır?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800608",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'kırmızı gül' tamlamasında sıfat hangi sözcüktür?",
+      "options": [
+        "tamlamanın tamamı",
+        "hiçbiri",
+        "gül",
+        "kırmızı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800609",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'büyük bir ev' tamlamasında hangi sözcük sıfattır?",
+      "options": [
+        "bir",
+        "ev",
+        "büyük",
+        "tamamı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800610",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'O kitabı okudu.' cümlesinde 'O' sözcüğü nedir?",
+      "options": [
+        "Eylem",
+        "Sıfat",
+        "Zamir (ismin yerini tutar)",
+        "İsim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800611",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Masanın üstünde kitap var.' cümlesinde 'üstünde' sözcüğü nedir?",
+      "options": [
+        "Sıfat",
+        "Bağlaç",
+        "Zamir",
+        "Edat (yer ilgisi kuran)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800612",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "Hangi sözcük ünlemdir?",
+      "options": [
+        "Güzel",
+        "Ah!",
+        "Kitap",
+        "Ve"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qf800613",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Çok güzel bir gün.' cümlesinde 'çok' sözcüğü nedir?",
+      "options": [
+        "Sıfat",
+        "Eylem",
+        "Zarf (sıfatı niteliyor)",
+        "İsim"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qf800614",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'Onların evi büyük.' cümlesinde 'onların' sözcüğü nedir?",
+      "options": [
+        "Eylem",
+        "Sıfat",
+        "İsim",
+        "Zamir (tamlayan)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qf800615",
+      "subject": "Türkçe",
+      "theme": "Tema 9",
+      "question": "'ile' sözcüğü hangi sözcük türüdür?",
+      "options": [
+        "Bağlaç ya da edat",
+        "Sıfat",
+        "İsim",
+        "Eylem"
+      ],
+      "correctAnswer": 0
     }
   ]
 }

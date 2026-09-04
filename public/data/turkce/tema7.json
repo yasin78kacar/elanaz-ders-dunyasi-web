@@ -1117,6 +1117,62 @@
         "Bağırarak hızlıca"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "q-b3-turkce-129",
+      "subject": "Türkçe",
+      "theme": "Tema 7",
+      "question": "Hayali bir karakter uçabilir mi?",
+      "options": [
+        "Hayır",
+        "Evet",
+        "Sadece yürür",
+        "Asla"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-236",
+      "subject": "Türkçe",
+      "theme": "Tema 7",
+      "question": "Ejderhalar gerçek midir?",
+      "options": [
+        "Evet",
+        "Hayır",
+        "Bazen",
+        "Bilmiyorum"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Kolay"
+    },
+    {
+      "id": "q-b3-turkce-163",
+      "subject": "Türkçe",
+      "theme": "Tema 7",
+      "question": "Bir masalın sonunda genellikle ne denir?",
+      "options": [
+        "Hoşça kal",
+        "Gökten üç elma düşmüş",
+        "Yarın görüşürüz",
+        "Merhaba"
+      ],
+      "correctAnswer": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "q-b3-turkce-162",
+      "subject": "Türkçe",
+      "theme": "Tema 7",
+      "question": "Aşağıdakilerden hangisi bir masal kahramanıdır?",
+      "options": [
+        "Keloğlan",
+        "Öğretmen",
+        "Doktor",
+        "Polis"
+      ],
+      "correctAnswer": 0,
+      "difficulty": "Zor"
     }
   ]
 }
