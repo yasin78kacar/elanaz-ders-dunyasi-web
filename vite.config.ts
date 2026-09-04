@@ -1,19 +1,27 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import { readFileSync, existsSync } from 'node:fs'
+import { readFileSync, existsSync, readdirSync } from 'node:fs'
 
 const buildId = Date.now().toString();
 
-// Tum tema dosyalarindaki questions.length toplamini build aninda hesaplar; boylece
+// Tum tema/kategori dosyalarindaki questions.length toplamini build aninda hesaplar; boylece
 // ana ekranda gercek toplam, runtime'da hicbir veri dosyasi indirmeden gosterilir.
 // Ceviri/format burada yapilir ("4790" -> "4.790") -> tarayici locale'ine bagli degil.
+// math/turkce/.../sosyal: temaN.json; zeka: kategori*.json — klasordeki tum .json taraniyor.
 function toplamSoruSayisi(): number {
-  const klasorler = ['math', 'turkce', 'fen', 'hayat', 'english'];
+  const klasorler = ['math', 'turkce', 'fen', 'hayat', 'english', 'sosyal', 'zeka'];
   let toplam = 0;
   for (const k of klasorler) {
-    for (let t = 1; t <= 10; t++) {
-      const yol = `public/data/${k}/tema${t}.json`;
-      if (!existsSync(yol)) continue;
+    const dir = `public/data/${k}`;
+    if (!existsSync(dir)) continue;
+    let dosyalar: string[] = [];
+    try {
+      dosyalar = readdirSync(dir).filter((f) => f.endsWith('.json'));
+    } catch {
+      continue;
+    }
+    for (const f of dosyalar) {
+      const yol = `${dir}/${f}`;
       try {
         const veri = JSON.parse(readFileSync(yol, 'utf8'));
         toplam += Array.isArray(veri.questions) ? veri.questions.length : 0;

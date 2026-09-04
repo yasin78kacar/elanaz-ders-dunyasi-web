@@ -25,6 +25,16 @@ interface ZekaKategori {
   siniflar: number[];
 }
 
+interface SubjectTema {
+  tema: string;
+  baslik: string;
+  emoji: string;
+  /** Öğrenme Köşesi kart rengi (opsiyonel). */
+  renk?: string;
+  /** Öğrenme Köşesi alt açıklama (opsiyonel). */
+  alt?: string;
+}
+
 interface SubjectDef {
   label: string;
   folder: string;
@@ -32,6 +42,10 @@ interface SubjectDef {
   color: string;
   /** Varsa Tema 1–10 yerine bu kategori menüsü kullanılır (Zeka-Dikkat). */
   kategoriler?: ZekaKategori[];
+  /** Varsa Tema 1–10 yerine adlı tema listesi kullanılır (Sosyal Bilgiler). */
+  temalar?: SubjectTema[];
+  /** Varsa ders yalnızca bu sınıfların ana menüsünde görünür. */
+  siniflar?: number[];
 }
 
 interface QuizResult {
@@ -66,13 +80,23 @@ const ZEKA_KATEGORILER: ZekaKategori[] = [
   { dosya: 'karma.json',            baslik: 'Karma Örüntü',             emoji: '🌀', siniflar: [1, 2] },
 ];
 
+const SOSYAL_TEMALAR: SubjectTema[] = [
+  { tema: 'Tema 1', baslik: 'Birlikte Yaşamak',              emoji: '🤝' },
+  { tema: 'Tema 2', baslik: 'Evimiz Dünya',                  emoji: '🗺️' },
+  { tema: 'Tema 3', baslik: 'Ortak Mirasımız',               emoji: '🏛️' },
+  { tema: 'Tema 4', baslik: 'Yaşayan Demokrasimiz',          emoji: '🗳️' },
+  { tema: 'Tema 5', baslik: 'Hayatımızdaki Ekonomi',         emoji: '💰' },
+  { tema: 'Tema 6', baslik: 'Teknoloji ve Sosyal Bilimler',  emoji: '💻' },
+];
+
 const SUBJECTS: SubjectDef[] = [
-  { label: 'Matematik',     folder: 'math',    emoji: '🔢', color: '#FF6B6B' },
-  { label: 'Türkçe',        folder: 'turkce',  emoji: '📖', color: '#4ECDC4' },
-  { label: 'Fen Bilimleri', folder: 'fen',     emoji: '🔬', color: '#45B7D1' },
-  { label: 'Hayat Bilgisi', folder: 'hayat',   emoji: '🌍', color: '#96CEB4' },
-  { label: 'İngilizce',     folder: 'english', emoji: '🌟', color: '#FFEAA7' },
-  { label: 'Zeka-Dikkat',   folder: 'zeka',    emoji: '🧩', color: '#A78BFA', kategoriler: ZEKA_KATEGORILER },
+  { label: 'Matematik',        folder: 'math',    emoji: '🔢', color: '#FF6B6B' },
+  { label: 'Türkçe',           folder: 'turkce',  emoji: '📖', color: '#4ECDC4' },
+  { label: 'Fen Bilimleri',    folder: 'fen',     emoji: '🔬', color: '#45B7D1' },
+  { label: 'Hayat Bilgisi',    folder: 'hayat',   emoji: '🌍', color: '#96CEB4' },
+  { label: 'İngilizce',        folder: 'english', emoji: '🌟', color: '#FFEAA7' },
+  { label: 'Sosyal Bilgiler',  folder: 'sosyal',  emoji: '🧭', color: '#F97316', temalar: SOSYAL_TEMALAR, siniflar: [4] },
+  { label: 'Zeka-Dikkat',      folder: 'zeka',    emoji: '🧩', color: '#A78BFA', kategoriler: ZEKA_KATEGORILER },
 ];
 
 // "Öğrenme Köşesi" — mevcut ders sistemine dahil DEĞİL (ana derslerde görünmez),
@@ -306,12 +330,12 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
       if (!response.ok) throw new Error('Sorular yüklenemedi.');
       const data = await response.json();
       let yuklenen: Question[] = data.questions || [];
-      // Zeka-Dikkat: yalnızca profil sınıfıyla eşleşen sorular
-      if (subjectName === 'Zeka-Dikkat') {
+      // Zeka-Dikkat / Sosyal Bilgiler: yalnızca profil sınıfıyla eşleşen sorular
+      if (subjectName === 'Zeka-Dikkat' || subjectName === 'Sosyal Bilgiler') {
         const sinif = Number(aktifSinif(profilAdi));
         yuklenen = yuklenen.filter(q => Number(q.grade) === sinif);
         if (yuklenen.length === 0) {
-          throw new Error(`${sinif}. sınıf için bu kategoride soru yok.`);
+          throw new Error(`${sinif}. sınıf için bu ${subjectName === 'Sosyal Bilgiler' ? 'temada' : 'kategoride'} soru yok.`);
         }
       }
       // Öğrenme Köşesi oturum karıştırması (her loadQuestions → farklı sıra):
@@ -541,7 +565,12 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
   // 2. Home Dashboard View
   if (view === 'home') {
     const activeGrade = aktifSinif(profilAdi);
-    const visibleSubjects = SUBJECTS.filter(s => !(activeGrade === '1' && s.label === 'İngilizce'));
+    const sinifNoHome = Number(activeGrade);
+    const visibleSubjects = SUBJECTS.filter(s => {
+      if (activeGrade === '1' && s.label === 'İngilizce') return false;
+      if (s.siniflar && !s.siniflar.includes(sinifNoHome)) return false;
+      return true;
+    });
 
     const hikayeBtn = onHikayeAc ? (
       <button className="qv-hikaye-btn" id="btn-hikaye-kosesi" onClick={onHikayeAc}>
@@ -709,6 +738,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
     const kategoriMenusu = activeSubject.kategoriler?.filter(k =>
       !k.siniflar || k.siniflar.includes(sinifNo)
     );
+    const adliTemalar = activeSubject.temalar;
     return (
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
@@ -732,6 +762,22 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
                 }}
               >
                 {k.emoji} {k.baslik}
+              </button>
+            ))
+          ) : adliTemalar ? (
+            adliTemalar.map(t => (
+              <button
+                key={t.tema}
+                className={`qv-theme-pill`}
+                style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px' } as React.CSSProperties}
+                onClick={() => {
+                  setSelectedTheme(t.tema);
+                  setHataModu(false);
+                  loadQuestions(selectedSubject, t.tema);
+                  setView('quiz');
+                }}
+              >
+                {t.emoji} {t.tema}: {t.baslik}
               </button>
             ))
           ) : (

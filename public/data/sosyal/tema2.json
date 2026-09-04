@@ -1,0 +1,1124 @@
+{
+  "questions": [
+    {
+      "id": "sb_t2_001",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada yönleri bulmak için hangi aracı kullanırız?",
+      "options": [
+        "Boya fırçası",
+        "Cetvel",
+        "Yön oku",
+        "Makas"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_002",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada yön oku genellikle hangi yönü gösterir?",
+      "options": [
+        "Doğuyu",
+        "Batıyı",
+        "Kuzeyi",
+        "Güneyi"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_003",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Güneş genellikle hangi yönden doğar?",
+      "options": [
+        "Kuzeyden",
+        "Doğudan",
+        "Batıdan",
+        "Güneyden"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_004",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Güneş genellikle hangi yönde batar?",
+      "options": [
+        "Batıda",
+        "Güneyde",
+        "Kuzeyde",
+        "Doğuda"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_005",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Kuzeyin tam karşısındaki yön hangisidir?",
+      "options": [
+        "Doğu",
+        "Kuzeydoğu",
+        "Batı",
+        "Güney"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_006",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Doğunun tam karşısındaki yön hangisidir?",
+      "options": [
+        "Güney",
+        "Güneydoğu",
+        "Batı",
+        "Kuzey"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_007",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada mavi renk çoğu zaman neyi gösterir?",
+      "options": [
+        "Dağları",
+        "Ormanları",
+        "Şehirleri",
+        "Deniz ve gölleri"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_008",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada yeşil alanlar çoğunlukla neyi gösterir?",
+      "options": [
+        "Orman veya ovaları",
+        "Yolları",
+        "Binaları",
+        "Okyanusları"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_009",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada kahverengi tonlar çoğu zaman neyi gösterir?",
+      "options": [
+        "Parkları",
+        "Dağlık yerleri",
+        "Yolları",
+        "Denizleri"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_010",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada yollar genelde nasıl gösterilir?",
+      "options": [
+        "Çizgi ile",
+        "Dalga çizgisi ile",
+        "Nokta ile",
+        "Sadece renk lekesi ile"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_011",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada ölçek ne işe yarar?",
+      "options": [
+        "Rengi seçmeye",
+        "Başlığı değiştirmeye",
+        "Gerçek uzaklığı bulmaya",
+        "Sembolü silmeye"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_012",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Harita anahtarı (lejant) neyi açıklar?",
+      "options": [
+        "Sadece sayıları",
+        "Sadece isimleri",
+        "Sadece renkleri",
+        "Sembollerin anlamını"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_013",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Küre modeli Dünya'yı nasıl gösterir?",
+      "options": [
+        "Üçgen biçimde",
+        "Düz kâğıt gibi",
+        "Kare biçimde",
+        "Yuvarlak biçimde"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_014",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Düz harita ile küre arasındaki fark nedir?",
+      "options": [
+        "Küre daha gerçekçi yuvarlaktır",
+        "Harita daha yuvarlaktır",
+        "Harita sadece okyanustur",
+        "Küre sadece şehirdir"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_015",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Sınıfta haritada sınıfın kuzeyi hangi taraftır?",
+      "options": [
+        "Pencerenin her zaman olduğu yer",
+        "Yön okunun gösterdiği taraf",
+        "Kapının her zaman olduğu yer",
+        "Rastgele bir köşe"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_016",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Bir yerin haritadaki konumunu anlatırken ne kullanırız?",
+      "options": [
+        "Sadece başlık",
+        "Sadece renk",
+        "Yön ve yer bilgisi",
+        "Sadece çerçeve"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_017",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada iki şehir arasındaki uzaklığı anlamak için neye bakarız?",
+      "options": [
+        "Ölçeğe",
+        "Sadece başlığa",
+        "Sadece renge",
+        "Sadece çerçeveye"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_018",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Yön bulurken gölge yöntemi hangi kaynağa dayanır?",
+      "options": [
+        "Yağmura",
+        "Rüzgâra",
+        "Güneşe",
+        "Aya"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_019",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Okulun bahçesinde doğuyu bulmak için ne yapabiliriz?",
+      "options": [
+        "Kuzey yerine güney sanmak",
+        "Güneşin doğduğu yana bakmak",
+        "Batıyı doğu sanmak",
+        "Rastgele bir duvara bakmak"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_020",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada bir sembolün anlamını nereden öğreniriz?",
+      "options": [
+        "Harita anahtarından",
+        "Sadece başlıktan",
+        "Sadece kenar boşluğundan",
+        "Sadece sayfa numarasından"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_021",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Dünya'nın büyük kara parçalarına ne denir?",
+      "options": [
+        "Köy",
+        "Kıta",
+        "Mahalle",
+        "Ada"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_022",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Dünya'nın büyük su kütlelerine ne denir?",
+      "options": [
+        "Dere",
+        "Okyanus",
+        "Çeşme",
+        "Havuz"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_023",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Türkiye hangi kıtada yer alır?",
+      "options": [
+        "Sadece Avustralya'da",
+        "Asya ve Avrupa'da",
+        "Sadece Amerika'da",
+        "Sadece Afrika'da"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_024",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "İstanbul bir … örneğidir.",
+      "options": [
+        "okyanus",
+        "kıta",
+        "şehir",
+        "yıldız"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_025",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Türkiye bir … örneğidir.",
+      "options": [
+        "ay",
+        "okyanus",
+        "ülke",
+        "kıta"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_026",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Ankara Türkiye'nin … şehridir.",
+      "options": [
+        "en küçük",
+        "en yağışlı",
+        "başkent",
+        "en soğuk"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_027",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Kıta ile ülke arasındaki fark nedir?",
+      "options": [
+        "Kıta daha büyük kara parçasıdır",
+        "İkisi aynıdır",
+        "Kıta sadece bir şehirdir",
+        "Ülke her zaman kıtadan büyüktür"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_028",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Şehir ile köy arasında genel fark nedir?",
+      "options": [
+        "Şehir daha kalabalık ve büyüktür",
+        "Köy her zaman daha kalabalıktır",
+        "İkisi aynıdır",
+        "Şehir sadece bir ormandır"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_029",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Okyanus ile göl arasındaki fark nedir?",
+      "options": [
+        "Okyanus sadece bir deredir",
+        "İkisi aynıdır",
+        "Okyanus çok daha büyüktür",
+        "Göl her zaman okyanustan büyüktür"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_030",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Dünya'nın çevresinin büyük kısmını ne kaplar?",
+      "options": [
+        "Yollar",
+        "Sular",
+        "Çöller",
+        "Şehirler"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_031",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Bir ülkenin sınırları haritada genelde nasıl görülür?",
+      "options": [
+        "Sadece üçgenlerle",
+        "Sadece dalgalarla",
+        "Sadece noktalarla",
+        "Çizgilerle"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_032",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Komşu ülke ne demektir?",
+      "options": [
+        "Sadece soğuk ülke",
+        "Çok uzak ülke",
+        "Sınırı ortak olan ülke",
+        "Sadece ada ülke"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_033",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Türkiye'nin başkenti hangi şehirdir?",
+      "options": [
+        "İzmir",
+        "Ankara",
+        "Antalya",
+        "Bursa"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_034",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Bir kıta içinde neler bulunabilir?",
+      "options": [
+        "Sadece bir okul",
+        "Sadece bir ev",
+        "Birçok ülke",
+        "Sadece bir park"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_035",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Ada nedir?",
+      "options": [
+        "Sadece dağ tepesi",
+        "Sadece çöl",
+        "Her yanı suyla çevrili kara",
+        "Sadece orman yolu"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_036",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Yarımada nedir?",
+      "options": [
+        "Üç yanı suyla çevrili kara",
+        "Her yanı kapalı oda",
+        "Sadece bir göl",
+        "Sadece bir nehir"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_037",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Ülke, şehir, mahalle sıralaması nasıldır?",
+      "options": [
+        "Şehir > ülke > kıta",
+        "Mahalle > kıta > ülke",
+        "Mahalle > ülke > şehir",
+        "Ülke > şehir > mahalle"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_038",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Dünya haritasında ülkeler neden farklı renkte boyanır?",
+      "options": [
+        "Ölçeği değiştirmek için",
+        "Yönü gizlemek için",
+        "Sembolleri silmek için",
+        "Ayırt etmeyi kolaylaştırmak için"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_039",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Kıtalar arası yolculukta büyük su geçmek gerekirse ne geçeriz?",
+      "options": [
+        "Sadece dere",
+        "Okyanus veya deniz",
+        "Sadece çeşme",
+        "Sadece havuz"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_040",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Yaşadığımız yerin adını söylemek hangisine örnektir?",
+      "options": [
+        "Konum bilgisi vermeye",
+        "İklimi değiştirmeye",
+        "Ölçeği silmeye",
+        "Lejantı boyamaya"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_041",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Dağ, deniz, orman hangi unsur grubundadır?",
+      "options": [
+        "Beşeri unsurlar",
+        "Sadece binalar",
+        "Sadece yollar",
+        "Doğal unsurlar"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_042",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Yol, köprü, bina hangi unsur grubundadır?",
+      "options": [
+        "Sadece dağlar",
+        "Sadece göller",
+        "Beşeri unsurlar",
+        "Doğal unsurlar"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_043",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Aşağıdakilerden hangisi doğal unsurdur?",
+      "options": [
+        "Köprü",
+        "Nehir",
+        "Cadde",
+        "Okul"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_044",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Aşağıdakilerden hangisi beşeri unsurdur?",
+      "options": [
+        "Dağ",
+        "Hastane",
+        "Orman",
+        "Göl"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_045",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "İnsanların yaptığı yapılara ne denir?",
+      "options": [
+        "Sadece yön",
+        "Sadece iklim",
+        "Doğal unsur",
+        "Beşeri unsur"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_046",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Doğa tarafından oluşan yer şekillerine ne denir?",
+      "options": [
+        "Sadece ülke",
+        "Sadece şehir",
+        "Doğal unsur",
+        "Beşeri unsur"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_047",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Parktaki ağaç doğal mı, beşeri mi?",
+      "options": [
+        "Sadece yön",
+        "Doğal unsur",
+        "Ne doğal ne beşeri",
+        "Beşeri unsur"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_048",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Parktaki bank beşeri midir?",
+      "options": [
+        "Evet, insanlar yapmıştır",
+        "Hayır, sadece sudur",
+        "Hayır, doğa yapmıştır",
+        "Hayır, sadece buluttur"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_049",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Haritada doğal unsurları tanımak neden önemlidir?",
+      "options": [
+        "Sadece yönü unutmak için",
+        "Sadece boyamak için",
+        "Sadece ölçeği silmek için",
+        "Çevreyi doğru anlamak için"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_050",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Şehirde yol ve bina görmek neyi gösterir?",
+      "options": [
+        "Beşeri unsurların varlığını",
+        "Sadece dağların varlığını",
+        "Sadece okyanusun varlığını",
+        "Sadece kıtayı"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_051",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Hava durumu neyi anlatır?",
+      "options": [
+        "Sadece yol uzunluğunu",
+        "Bir yerdeki kısa süreli havayı",
+        "Sadece dağ yüksekliğini",
+        "Sadece şehir adını"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_052",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "İklim neyi anlatır?",
+      "options": [
+        "Sadece bugünkü yağmuru",
+        "Sadece bir rüzgârı",
+        "Uzun yılların ortalama havasını",
+        "Sadece bir bulutu"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_053",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Yağmurlu bir günde dışarı çıkarken ne işe yarar?",
+      "options": [
+        "Yağmurluk veya şemsiye",
+        "Güneş kremi",
+        "Kalın kış montu her zaman",
+        "Mayo her zaman"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_054",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Sıcak bir yaz gününde doğru davranış nedir?",
+      "options": [
+        "Sobayı yakmak",
+        "Kar topu oynamak",
+        "Kalın palto giymek",
+        "Bol su içmek"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_055",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Soğuk kış gününde doğru giysi hangisidir?",
+      "options": [
+        "İnce tişört",
+        "Sandalet",
+        "Mayo",
+        "Kalın mont ve atkı"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_056",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Rüzgârlı havada ne olabilir?",
+      "options": [
+        "Şehir yer değiştirir",
+        "Dağ yok olur",
+        "Deniz hemen buz keser",
+        "Yapraklar hareket eder"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_057",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Hava durumunu öğrenmek günlük yaşamda ne işe yarar?",
+      "options": [
+        "Kıyafet ve plan seçmeye",
+        "Ülke sınırını değiştirmeye",
+        "Kıta adını değiştirmeye",
+        "Okyanus kazmaya"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_058",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "İklim ile hava durumu farkı nedir?",
+      "options": [
+        "İklim sadece bir gündür",
+        "İklim uzun, hava kısa sürelidir",
+        "Hava her zaman daha uzundur",
+        "İkisi tamamen aynıdır"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_059",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Nemli hava nasıl hissedilir?",
+      "options": [
+        "Yapışkan ve ağır",
+        "Her zaman kuru toz gibi",
+        "Her zaman rüzgârsız",
+        "Her zaman buz gibi"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_060",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Kurak bir yerde ne az görülür?",
+      "options": [
+        "Yağış",
+        "Güneş",
+        "Rüzgâr",
+        "Sıcak hava"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_061",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Çevreyi korumak için ne yapmalıyız?",
+      "options": [
+        "Çöpleri denize atmak",
+        "Ağaçları gereksiz kesmek",
+        "Çöpleri çöp kutusuna atmak",
+        "Suyu boşa akıtmak"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_062",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Geri dönüşüm kutusu ne işe yarar?",
+      "options": [
+        "Atıkları yeniden kullanmaya",
+        "Havayı bozmaya",
+        "Suyu kirletmeye",
+        "Çöpü çoğaltmaya"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_063",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Suyu boşa harcamamak neden önemlidir?",
+      "options": [
+        "Dağı büyütür",
+        "İklimi yok eder",
+        "Su kaynaklarını korur",
+        "Yolu kısaltır"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_064",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Ağaç dikmek çevreye nasıl yarar?",
+      "options": [
+        "Denizi yok eder",
+        "Şehri siler",
+        "Yağmuru sonsuza kadar durdurur",
+        "Havayı temizlemeye yardım eder"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_065",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Plastik atıkları doğaya atmak neden zararlıdır?",
+      "options": [
+        "Havayı hep güzelleştirir",
+        "Canlılara ve doğaya zarar verir",
+        "Suyu hep temizler",
+        "Toprağı hep iyileştirir"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_066",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Okul bahçesini temiz tutmak kime yarar?",
+      "options": [
+        "Sadece uzak ülkelere",
+        "Sadece okyanuslara",
+        "Sadece bir kıtaya",
+        "Herkese ve çevreye"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_067",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Gereksiz elektrik yakmak çevreye ne yapar?",
+      "options": [
+        "Ağaç sayısını artırır",
+        "Denizi temizler",
+        "Yağmuru çoğaltır",
+        "Kaynak israfına yol açar"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_068",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Doğaya saygı göstermek ne demektir?",
+      "options": [
+        "Suyu kirletmek",
+        "Çöpü her yere bırakmak",
+        "Ağaçları yakmak",
+        "Canlıları ve çevreyi korumak"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_069",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Alışverişte bez çanta kullanmak neye örnektir?",
+      "options": [
+        "Gereksiz plastik kullanmaya",
+        "Çöpü çoğaltmaya",
+        "Çevreye duyarlılığa",
+        "Suyu boşa harcamaya"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_070",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Gürültü kirliliği nedir?",
+      "options": [
+        "Yeşil orman",
+        "Aşırı ve rahatsız edici ses",
+        "Temiz hava",
+        "Temiz deniz suyu"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_071",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Deprem nedir?",
+      "options": [
+        "Yerin sarsılması",
+        "Sadece kar yağması",
+        "Sadece rüzgâr esmesi",
+        "Sadece yağmur yağması"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_072",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Deprem çantasında bulunması gerekenlerden biri nedir?",
+      "options": [
+        "Su ve el feneri",
+        "Sadece boya",
+        "Sadece oyuncak",
+        "Sadece top"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_073",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Deprem sırasında güvenli davranış hangisidir?",
+      "options": [
+        "Asansöre binmek",
+        "Balkona koşmak",
+        "Camın yanına durmak",
+        "Çök-kapan-tutun yapmak"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_074",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Sel tehlikesi olduğunda ne yapmalıyız?",
+      "options": [
+        "Suya doğru koşmak",
+        "Köprü altında beklemek",
+        "Dere yatağına inmek",
+        "Yüksek ve güvenli yere geçmek"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_075",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Yangın gördüğümüzde ilk doğru davranış nedir?",
+      "options": [
+        "Kendi başımıza söndürmeye çalışmak",
+        "Yetişkinlere haber vermek",
+        "Kapıları kilitleyip beklemek",
+        "Saklanıp kimseye söylememek"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_076",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Fırtına uyarısı olunca ne yapmalıyız?",
+      "options": [
+        "Denize girmek",
+        "Açık alanda uçurtma uçurmak",
+        "Ağacın altına yatmak",
+        "Güvenli kapalı yerde kalmak"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_077",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Doğal afet bilinci ne işe yarar?",
+      "options": [
+        "Afetleri çoğaltır",
+        "Kendimizi korumaya yardım eder",
+        "Tehlikeyi artırır",
+        "Hazırlığı azaltır"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_078",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Heyelan (toprak kayması) riski nerede artar?",
+      "options": [
+        "Kapalı sınıfta",
+        "Düz ve kuru masada",
+        "Yağışlı dik yamaçlarda",
+        "Kütüphane rafında"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_079",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Afet sonrası yardımlaşmak neden önemlidir?",
+      "options": [
+        "Çevreyi kirletir",
+        "Birlikte daha çabuk toparlanırız",
+        "Kuralları kaldırır",
+        "Afetleri artırır"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "sb_t2_080",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Tema 2",
+      "question": "Erken uyarı almak doğal afette ne sağlar?",
+      "options": [
+        "Zamanında güvenliğe geçmeyi",
+        "Panik yapmayı",
+        "Uyarıyı yok saymayı",
+        "Tehlikeli yere gitmeyi"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    }
+  ]
+}
