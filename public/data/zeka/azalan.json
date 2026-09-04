@@ -1,0 +1,589 @@
+{
+  "questions": [
+    {
+      "id": "zd_1174",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "20, 19, 18, 17, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "17",
+        "16",
+        "15",
+        "18"
+      ],
+      "correctAnswer": 1,
+      "grade": 1,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1175",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "30, 27, 24, 21, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "21",
+        "18",
+        "15",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1176",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "35, 30, 25, 20, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "10",
+        "15",
+        "17",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1177",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "45, 44, 43, 42, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "42",
+        "41",
+        "40",
+        "43"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1178",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "55, 52, 49, 46, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "45",
+        "40",
+        "46",
+        "43"
+      ],
+      "correctAnswer": 3,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1179",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "60, 55, 50, 45, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "35",
+        "40",
+        "42",
+        "45"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1180",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "65, 55, 45, 35, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "27",
+        "15",
+        "25",
+        "35"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1181",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "70, 69, 68, 67, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "67",
+        "68",
+        "66",
+        "65"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1182",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "80, 77, 74, 71, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "70",
+        "65",
+        "68",
+        "71"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1183",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "85, 80, 75, 70, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "67",
+        "65",
+        "70",
+        "60"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1184",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "90, 80, 70, 60, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "40",
+        "52",
+        "60",
+        "50"
+      ],
+      "correctAnswer": 3,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1185",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "95, 94, 93, 92, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "91",
+        "93",
+        "92",
+        "90"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1186",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "105, 102, 99, 96, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "90",
+        "96",
+        "93",
+        "95"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1187",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "110, 105, 100, 95, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "92",
+        "85",
+        "95",
+        "90"
+      ],
+      "correctAnswer": 3,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1188",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "115, 105, 95, 85, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "75",
+        "65",
+        "85",
+        "77"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1189",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "120, 119, 118, 117, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "117",
+        "118",
+        "115",
+        "116"
+      ],
+      "correctAnswer": 3,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1190",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "130, 127, 124, 121, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "118",
+        "121",
+        "115",
+        "120"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1191",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "135, 130, 125, 120, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "110",
+        "120",
+        "115",
+        "117"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1192",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "140, 130, 120, 110, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "100",
+        "90",
+        "102",
+        "110"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1193",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "145, 144, 143, 142, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "143",
+        "140",
+        "141",
+        "142"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1194",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "155, 152, 149, 146, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "146",
+        "140",
+        "143",
+        "145"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1195",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "160, 155, 150, 145, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "140",
+        "145",
+        "142",
+        "135"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1196",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "165, 155, 145, 135, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "127",
+        "125",
+        "115",
+        "135"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1197",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "170, 169, 168, 167, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "167",
+        "166",
+        "165",
+        "168"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1198",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "180, 177, 174, 171, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "168",
+        "171",
+        "165",
+        "170"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1199",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "185, 180, 175, 170, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "160",
+        "170",
+        "165",
+        "167"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1200",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "190, 180, 170, 160, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "152",
+        "150",
+        "160",
+        "140"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1201",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "195, 194, 193, 192, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "193",
+        "192",
+        "191",
+        "190"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1202",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "205, 202, 199, 196, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "190",
+        "193",
+        "196",
+        "195"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1203",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "210, 205, 200, 195, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "190",
+        "192",
+        "195",
+        "185"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1204",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "215, 205, 195, 185, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "177",
+        "185",
+        "175",
+        "165"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1205",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "220, 219, 218, 217, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "216",
+        "218",
+        "215",
+        "217"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1206",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "230, 227, 224, 221, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "220",
+        "221",
+        "215",
+        "218"
+      ],
+      "correctAnswer": 3,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1207",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "235, 230, 225, 220, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "215",
+        "217",
+        "210",
+        "220"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1208",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "240, 230, 220, 210, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "210",
+        "200",
+        "202",
+        "190"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1209",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "245, 244, 243, 242, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "241",
+        "242",
+        "240",
+        "243"
+      ],
+      "correctAnswer": 0,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1210",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "255, 252, 249, 246, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "240",
+        "243",
+        "245",
+        "246"
+      ],
+      "correctAnswer": 1,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1211",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "260, 255, 250, 245, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "235",
+        "245",
+        "240",
+        "242"
+      ],
+      "correctAnswer": 2,
+      "grade": 2,
+      "difficulty": "Orta"
+    },
+    {
+      "id": "zd_1212",
+      "subject": "Zeka-Dikkat",
+      "theme": "Sayı Örüntüleri (Azalan)",
+      "question": "265, 255, 245, 235, ? örüntüsünde eksik sayı hangisidir?",
+      "options": [
+        "235",
+        "215",
+        "227",
+        "225"
+      ],
+      "correctAnswer": 3,
+      "grade": 2,
+      "difficulty": "Orta"
+    }
+  ]
+}

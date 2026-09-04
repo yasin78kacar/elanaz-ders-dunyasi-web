@@ -1,0 +1,998 @@
+{
+  "questions": [
+    {
+      "id": "zd_1103",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'G' harfi hangi sayıdır?",
+      "options": [
+        "8",
+        "5",
+        "6",
+        "18"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1104",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 10 sayısı hangi harftir?",
+      "options": [
+        "N",
+        "L",
+        "H",
+        "G"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1105",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 5 sayısı hangi harftir?",
+      "options": [
+        "Ğ",
+        "S",
+        "Ş",
+        "D"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1106",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'L' harfi hangi sayıdır?",
+      "options": [
+        "15",
+        "20",
+        "12",
+        "13"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1107",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'V' harfi hangi sayıdır?",
+      "options": [
+        "17",
+        "27",
+        "32",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1108",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 25 sayısı hangi harftir?",
+      "options": [
+        "U",
+        "P",
+        "L",
+        "Ü"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1109",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 20 sayısı hangi harftir?",
+      "options": [
+        "P",
+        "L",
+        "Ö",
+        "V"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1110",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 11 sayısı hangi harftir?",
+      "options": [
+        "G",
+        "Ç",
+        "I",
+        "C"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1111",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'J' harfi hangi sayıdır?",
+      "options": [
+        "11",
+        "8",
+        "23",
+        "13"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1112",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'YOL' kelimesinin şifresi hangisidir?",
+      "options": [
+        "14-1-21",
+        "28-18-15",
+        "5-1-9",
+        "8-19-29"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1113",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'KUŞ' kelimesinin şifresi hangisidir?",
+      "options": [
+        "14-1-21",
+        "8-19-29",
+        "14-25-23",
+        "28-18-15"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1114",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 12 sayısı hangi harftir?",
+      "options": [
+        "İ",
+        "M",
+        "Ğ",
+        "T"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1115",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'BAL' kelimesinin şifresi hangisidir?",
+      "options": [
+        "2-1-15",
+        "14-1-21",
+        "24-18-20",
+        "28-18-15"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1116",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 27 sayısı hangi harftir?",
+      "options": [
+        "N",
+        "V",
+        "H",
+        "Ş"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1117",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'GÖZ' kelimesinin şifresi hangisidir?",
+      "options": [
+        "14-1-21",
+        "28-18-15",
+        "8-19-29",
+        "2-1-15"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1118",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 14 sayısı hangi harftir?",
+      "options": [
+        "B",
+        "J",
+        "K",
+        "S"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1119",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 28 sayısı hangi harftir?",
+      "options": [
+        "Y",
+        "J",
+        "Ç",
+        "K"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1120",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'Y' harfi hangi sayıdır?",
+      "options": [
+        "25",
+        "29",
+        "27",
+        "28"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1121",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 15 sayısı hangi harftir?",
+      "options": [
+        "J",
+        "K",
+        "L",
+        "A"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1122",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'KAR' kelimesinin şifresi hangisidir?",
+      "options": [
+        "28-18-15",
+        "8-26-15",
+        "8-19-29",
+        "14-1-21"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1123",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'Ç' harfi hangi sayıdır?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1124",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 24 sayısı hangi harftir?",
+      "options": [
+        "M",
+        "Ş",
+        "T",
+        "Ğ"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1125",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'D' harfi hangi sayıdır?",
+      "options": [
+        "7",
+        "15",
+        "2",
+        "5"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1126",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'O' harfi hangi sayıdır?",
+      "options": [
+        "28",
+        "8",
+        "18",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1127",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'Z' harfi hangi sayıdır?",
+      "options": [
+        "19",
+        "26",
+        "29",
+        "34"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1128",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 22 sayısı hangi harftir?",
+      "options": [
+        "S",
+        "F",
+        "M",
+        "T"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1129",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'R' harfi hangi sayıdır?",
+      "options": [
+        "21",
+        "18",
+        "24",
+        "20"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1130",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'T' harfi hangi sayıdır?",
+      "options": [
+        "22",
+        "29",
+        "25",
+        "24"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1131",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 26 sayısı hangi harftir?",
+      "options": [
+        "G",
+        "Ü",
+        "Z",
+        "K"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1132",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 29 sayısı hangi harftir?",
+      "options": [
+        "Z",
+        "I",
+        "H",
+        "B"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1133",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'DAĞ' kelimesinin şifresi hangisidir?",
+      "options": [
+        "24-18-20",
+        "28-18-15",
+        "5-1-9",
+        "14-25-23"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1134",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 7 sayısı hangi harftir?",
+      "options": [
+        "V",
+        "P",
+        "Ç",
+        "F"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1135",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 13 sayısı hangi harftir?",
+      "options": [
+        "J",
+        "U",
+        "L",
+        "T"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1136",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'SU' kelimesinin şifresi hangisidir?",
+      "options": [
+        "22-25",
+        "6-27",
+        "6-15",
+        "1-28"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1137",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'EL' kelimesinin şifresi hangisidir?",
+      "options": [
+        "6-15",
+        "22-25",
+        "1-28",
+        "6-27"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1138",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'AY' kelimesinin şifresi hangisidir?",
+      "options": [
+        "6-27",
+        "6-15",
+        "1-28",
+        "18-17"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1139",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'U' harfi hangi sayıdır?",
+      "options": [
+        "25",
+        "28",
+        "30",
+        "15"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1140",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'EV' kelimesinin şifresi hangisidir?",
+      "options": [
+        "6-27",
+        "6-15",
+        "1-28",
+        "22-25"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1141",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 2 sayısı hangi harftir?",
+      "options": [
+        "S",
+        "B",
+        "I",
+        "H"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1142",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 8 sayısı hangi harftir?",
+      "options": [
+        "G",
+        "S",
+        "U",
+        "Y"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1143",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'A' harfi hangi sayıdır?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1144",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'M' harfi hangi sayıdır?",
+      "options": [
+        "16",
+        "17",
+        "26",
+        "13"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1145",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 9 sayısı hangi harftir?",
+      "options": [
+        "Ğ",
+        "L",
+        "A",
+        "Ü"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1146",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'N' harfi hangi sayıdır?",
+      "options": [
+        "27",
+        "7",
+        "12",
+        "17"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1147",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 16 sayısı hangi harftir?",
+      "options": [
+        "F",
+        "M",
+        "A",
+        "J"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1148",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'S' harfi hangi sayıdır?",
+      "options": [
+        "22",
+        "17",
+        "20",
+        "24"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1149",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 23 sayısı hangi harftir?",
+      "options": [
+        "L",
+        "P",
+        "Ş",
+        "I"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1150",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'P' harfi hangi sayıdır?",
+      "options": [
+        "23",
+        "22",
+        "20",
+        "21"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1151",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'GÜL' kelimesinin şifresi hangisidir?",
+      "options": [
+        "8-19-29",
+        "14-1-21",
+        "14-25-23",
+        "8-26-15"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1152",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'K' harfi hangi sayıdır?",
+      "options": [
+        "14",
+        "19",
+        "9",
+        "15"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1153",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'İ' harfi hangi sayıdır?",
+      "options": [
+        "12",
+        "22",
+        "7",
+        "14"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1154",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 21 sayısı hangi harftir?",
+      "options": [
+        "Z",
+        "R",
+        "Ç",
+        "L"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1155",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'B' harfi hangi sayıdır?",
+      "options": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1156",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 4 sayısı hangi harftir?",
+      "options": [
+        "Ç",
+        "B",
+        "R",
+        "G"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1157",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'H' harfi hangi sayıdır?",
+      "options": [
+        "12",
+        "9",
+        "10",
+        "20"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1158",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'F' harfi hangi sayıdır?",
+      "options": [
+        "9",
+        "7",
+        "5",
+        "17"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1159",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'E' harfi hangi sayıdır?",
+      "options": [
+        "6",
+        "11",
+        "3",
+        "1"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1160",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'TOP' kelimesinin şifresi hangisidir?",
+      "options": [
+        "8-26-15",
+        "28-18-15",
+        "8-19-29",
+        "24-18-20"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1161",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'C' harfi hangi sayıdır?",
+      "options": [
+        "1",
+        "4",
+        "5",
+        "3"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1162",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 3 sayısı hangi harftir?",
+      "options": [
+        "Ğ",
+        "P",
+        "O",
+        "C"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1163",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'Ğ' harfi hangi sayıdır?",
+      "options": [
+        "10",
+        "4",
+        "11",
+        "9"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1164",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'I' harfi hangi sayıdır?",
+      "options": [
+        "12",
+        "11",
+        "1",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1165",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 17 sayısı hangi harftir?",
+      "options": [
+        "S",
+        "G",
+        "Z",
+        "N"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1166",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'ON' kelimesinin şifresi hangisidir?",
+      "options": [
+        "1-28",
+        "6-15",
+        "18-17",
+        "22-25"
+      ],
+      "correctAnswer": 2,
+      "grade": 4
+    },
+    {
+      "id": "zd_1167",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'Ü' harfi hangi sayıdır?",
+      "options": [
+        "26",
+        "29",
+        "31",
+        "27"
+      ],
+      "correctAnswer": 0,
+      "grade": 4
+    },
+    {
+      "id": "zd_1168",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'Ö' harfi hangi sayıdır?",
+      "options": [
+        "22",
+        "19",
+        "21",
+        "29"
+      ],
+      "correctAnswer": 1,
+      "grade": 4
+    },
+    {
+      "id": "zd_1169",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 18 sayısı hangi harftir?",
+      "options": [
+        "H",
+        "L",
+        "C",
+        "O"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1170",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 19 sayısı hangi harftir?",
+      "options": [
+        "E",
+        "D",
+        "R",
+        "Ö"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1171",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 'Ş' harfi hangi sayıdır?",
+      "options": [
+        "28",
+        "20",
+        "22",
+        "23"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1172",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 1 sayısı hangi harftir?",
+      "options": [
+        "L",
+        "M",
+        "D",
+        "A"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    },
+    {
+      "id": "zd_1173",
+      "subject": "Zeka-Dikkat",
+      "theme": "Şifre Çözme",
+      "question": "A=1, B=2, C=3... kuralına göre 6 sayısı hangi harftir?",
+      "options": [
+        "T",
+        "H",
+        "N",
+        "E"
+      ],
+      "correctAnswer": 3,
+      "grade": 4
+    }
+  ]
+}

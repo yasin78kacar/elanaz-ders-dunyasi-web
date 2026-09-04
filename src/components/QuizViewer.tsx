@@ -13,6 +13,25 @@ interface Question {
   image?: string;
   clock?: { hour: number; minute: number };
   format?: number;
+  /** Zeka-Dikkat vb. sınıf filtresi (1–4). Yoksa tüm sınıflara açık. */
+  grade?: number;
+}
+
+interface ZekaKategori {
+  dosya: string;
+  baslik: string;
+  emoji: string;
+  /** Bu kategoride soru bulunan sınıflar (menü filtresi). */
+  siniflar: number[];
+}
+
+interface SubjectDef {
+  label: string;
+  folder: string;
+  emoji: string;
+  color: string;
+  /** Varsa Tema 1–10 yerine bu kategori menüsü kullanılır (Zeka-Dikkat). */
+  kategoriler?: ZekaKategori[];
 }
 
 interface QuizResult {
@@ -38,17 +57,29 @@ const AKTIF_KEY = 'dersdunyasi_aktif';
 const statsKey = (ad: string) => `dersdunyasi_${ad}_stats`;
 const hatalarKey = (ad: string) => `dersdunyasi_${ad}_hatalar`;
 
-const SUBJECTS = [
+const ZEKA_KATEGORILER: ZekaKategori[] = [
+  { dosya: 'oruntu.json',           baslik: 'Örüntü',                   emoji: '🔁', siniflar: [1, 2, 3, 4] },
+  { dosya: 'farkli-olani-bul.json', baslik: 'Farklı Olanı Bul',         emoji: '🔍', siniflar: [1] },
+  { dosya: 'mantik.json',           baslik: 'Mantık',                   emoji: '🧠', siniflar: [3] },
+  { dosya: 'sifre-cozme.json',      baslik: 'Şifre Çözme',              emoji: '🔐', siniflar: [4] },
+  { dosya: 'azalan.json',           baslik: 'Sayı Örüntüleri (Azalan)', emoji: '📉', siniflar: [1, 2] },
+  { dosya: 'karma.json',            baslik: 'Karma Örüntü',             emoji: '🌀', siniflar: [1, 2] },
+];
+
+const SUBJECTS: SubjectDef[] = [
   { label: 'Matematik',     folder: 'math',    emoji: '🔢', color: '#FF6B6B' },
   { label: 'Türkçe',        folder: 'turkce',  emoji: '📖', color: '#4ECDC4' },
   { label: 'Fen Bilimleri', folder: 'fen',     emoji: '🔬', color: '#45B7D1' },
   { label: 'Hayat Bilgisi', folder: 'hayat',   emoji: '🌍', color: '#96CEB4' },
   { label: 'İngilizce',     folder: 'english', emoji: '🌟', color: '#FFEAA7' },
+  { label: 'Zeka-Dikkat',   folder: 'zeka',    emoji: '🧩', color: '#A78BFA', kategoriler: ZEKA_KATEGORILER },
 ];
 
 // "Öğrenme Köşesi" — mevcut ders sistemine dahil DEĞİL (ana derslerde görünmez),
 // ama AYNI soru şeması ve AYNI yükleme mekanizmasını (./data/{folder}/tema{N}.json) kullanır.
-const OGRENME = {
+const OGRENME: SubjectDef & {
+  temalar: { tema: string; baslik: string; emoji: string; renk: string; alt: string }[];
+} = {
   label: 'Öğrenme Köşesi',
   folder: 'ogrenme',
   emoji: '🧠',
@@ -61,7 +92,7 @@ const OGRENME = {
   ],
 };
 // Klasör/renk/emoji aramaları için birleşik liste (ana ders grid'i yalnız SUBJECTS kullanır).
-const ALL_SUBJECTS = [...SUBJECTS, OGRENME];
+const ALL_SUBJECTS: SubjectDef[] = [...SUBJECTS, OGRENME];
 
 const THEMES = Array.from({ length: 10 }, (_, i) => `Tema ${i + 1}`);
 const OPTION_LABELS = ['A', 'B', 'C', 'D'];
@@ -259,12 +290,30 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
     setScore(0);
     try {
       const activeSub = ALL_SUBJECTS.find(s => s.label === subjectName) || SUBJECTS[0];
-      const folder   = activeSub.folder;
-      const temaNum  = themeName.replace('Tema ', '');
-      const response = await fetch(`./data/${folder}/tema${temaNum}.json`);
+      const folder = activeSub.folder;
+      let url: string;
+      if (activeSub.kategoriler && activeSub.kategoriler.length > 0) {
+        const kat =
+          activeSub.kategoriler.find(k => k.baslik === themeName) ||
+          activeSub.kategoriler.find(k => k.dosya === themeName);
+        if (!kat) throw new Error('Kategori bulunamadı.');
+        url = `./data/${folder}/${kat.dosya}`;
+      } else {
+        const temaNum = themeName.replace('Tema ', '');
+        url = `./data/${folder}/tema${temaNum}.json`;
+      }
+      const response = await fetch(url);
       if (!response.ok) throw new Error('Sorular yüklenemedi.');
       const data = await response.json();
       let yuklenen: Question[] = data.questions || [];
+      // Zeka-Dikkat: yalnızca profil sınıfıyla eşleşen sorular
+      if (subjectName === 'Zeka-Dikkat') {
+        const sinif = Number(aktifSinif(profilAdi));
+        yuklenen = yuklenen.filter(q => Number(q.grade) === sinif);
+        if (yuklenen.length === 0) {
+          throw new Error(`${sinif}. sınıf için bu kategoride soru yok.`);
+        }
+      }
       // Öğrenme Köşesi oturum karıştırması (her loadQuestions → farklı sıra):
       // Tema 1: tüm soruları düz Fisher-Yates (zorluk bloğu yok).
       // Tema 2: blok sırasını koruyup yalnızca grup-içi karıştır.
@@ -280,7 +329,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
     } finally {
       setLoading(false);
     }
-  }, []);
+  }, [profilAdi]);
 
   const handleAnswer = (optionIndex: number) => {
     if (feedback !== 'idle' || questions.length === 0) return;
@@ -656,28 +705,52 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
 
   // 3. Theme Selection View
   if (view === 'theme_selection') {
+    const sinifNo = Number(aktifSinif(profilAdi));
+    const kategoriMenusu = activeSubject.kategoriler?.filter(k =>
+      !k.siniflar || k.siniflar.includes(sinifNo)
+    );
     return (
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
         <h1 className="home-title" style={{ color: activeSubject.color }}>{activeSubject.emoji} {selectedSubject}</h1>
-        <h2 className="qv-section-title" style={{ marginTop: '20px', textAlign: 'center' }}>🗂️ Bir Tema Seç ve Başla!</h2>
+        <h2 className="qv-section-title" style={{ marginTop: '20px', textAlign: 'center' }}>
+          {kategoriMenusu ? '🗂️ Bir Kategori Seç ve Başla!' : '🗂️ Bir Tema Seç ve Başla!'}
+        </h2>
         
         <div className="qv-theme-grid" style={{ marginTop: '20px' }}>
-          {THEMES.map(t => (
-            <button
-              key={t}
-              className={`qv-theme-pill`}
-              style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px' } as React.CSSProperties}
-              onClick={() => {
-                setSelectedTheme(t);
-                setHataModu(false);
-                loadQuestions(selectedSubject, t);
-                setView('quiz');
-              }}
-            >
-              {t}
-            </button>
-          ))}
+          {kategoriMenusu ? (
+            kategoriMenusu.map(k => (
+              <button
+                key={k.dosya}
+                className={`qv-theme-pill`}
+                style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px' } as React.CSSProperties}
+                onClick={() => {
+                  setSelectedTheme(k.baslik);
+                  setHataModu(false);
+                  loadQuestions(selectedSubject, k.baslik);
+                  setView('quiz');
+                }}
+              >
+                {k.emoji} {k.baslik}
+              </button>
+            ))
+          ) : (
+            THEMES.map(t => (
+              <button
+                key={t}
+                className={`qv-theme-pill`}
+                style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px' } as React.CSSProperties}
+                onClick={() => {
+                  setSelectedTheme(t);
+                  setHataModu(false);
+                  loadQuestions(selectedSubject, t);
+                  setView('quiz');
+                }}
+              >
+                {t}
+              </button>
+            ))
+          )}
         </div>
       </div>
     );

@@ -1,0 +1,1124 @@
+{
+  "questions": [
+    {
+      "id": "zd_1023",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Zeynep, Ayşe'den büyüktür. Hande, Zeynep'ten büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Ayşe",
+        "Hepsi eşit",
+        "Zeynep",
+        "Hande"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1024",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali, Yusuf'tan büyüktür. Hande, Ali'den büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ali",
+        "Yusuf",
+        "Hande"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1025",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe koşuda Ali'yi geçti. Ali de Can'ı geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Ali",
+        "Hepsi eşit",
+        "Ayşe",
+        "Can"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1026",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin, Hande'den uzundur. Hande de Berk'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hande",
+        "Selin",
+        "Hepsi eşit",
+        "Berk"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1027",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Hande, Zeynep'ten büyüktür. Can, Hande'den büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Zeynep",
+        "Hande",
+        "Can",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1028",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma'nın çantası Hande'ninkinden ağırdır. Ayşe'nin çantası Fatma'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Fatma",
+        "Ayşe",
+        "Hande",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1029",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Berk koşuda Can'ı geçti. Can da Ali'yi geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ali",
+        "Can",
+        "Berk"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1030",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali'nin çantası Berk'inkinden ağırdır. Zeynep'in çantası Ali'ninkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Zeynep",
+        "Ali",
+        "Berk",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1031",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Berk, Fatma'dan büyüktür. Selin, Berk'ten büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Fatma",
+        "Selin",
+        "Berk",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1032",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali, Yusuf'tan uzundur. Yusuf da Berk'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Yusuf",
+        "Berk",
+        "Ali"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1033",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin koşuda Can'ı geçti. Can da Ali'yi geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Ali",
+        "Selin",
+        "Hepsi eşit",
+        "Can"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1034",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Zeynep, Ali'den uzundur. Ali de Yusuf'tan uzundur. EN UZUN kimdir?",
+      "options": [
+        "Zeynep",
+        "Yusuf",
+        "Ali",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1035",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Hande, Can'dan büyüktür. Ali, Hande'den büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Ali",
+        "Hepsi eşit",
+        "Hande",
+        "Can"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1036",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Yusuf, Can'dan büyüktür. Berk, Yusuf'tan büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Yusuf",
+        "Berk",
+        "Can"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1037",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Can'ın çantası Fatma'nınkinden ağırdır. Mehmet'in çantası Can'ınkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Can",
+        "Mehmet",
+        "Fatma",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1038",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe, Fatma'dan büyüktür. Can, Ayşe'den büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Ayşe",
+        "Hepsi eşit",
+        "Can",
+        "Fatma"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1039",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Yusuf'un çantası Berk'inkinden ağırdır. Ayşe'nin çantası Yusuf'unkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Ayşe",
+        "Yusuf",
+        "Berk",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1040",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Can koşuda Zeynep'i geçti. Zeynep de Mehmet'i geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Mehmet",
+        "Zeynep",
+        "Hepsi eşit",
+        "Can"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1041",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Berk, Yusuf'tan uzundur. Yusuf da Ayşe'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Yusuf",
+        "Ayşe",
+        "Berk"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1042",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Can, Hande'den uzundur. Hande de Zeynep'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hande",
+        "Can",
+        "Zeynep",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1043",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma, Zeynep'ten büyüktür. Selin, Fatma'dan büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Fatma",
+        "Selin",
+        "Zeynep"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1044",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe, Can'dan uzundur. Can da Fatma'dan uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ayşe",
+        "Fatma",
+        "Can"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1045",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin koşuda Ayşe'yi geçti. Ayşe de Yusuf'u geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ayşe",
+        "Selin",
+        "Yusuf"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1046",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe, Selin'den büyüktür. Yusuf, Ayşe'den büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Ayşe",
+        "Yusuf",
+        "Selin",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1047",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali, Mehmet'ten uzundur. Mehmet de Ayşe'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ayşe",
+        "Mehmet",
+        "Ali"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1048",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet, Ali'den uzundur. Ali de Berk'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Ali",
+        "Mehmet",
+        "Berk",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1049",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe, Ali'den uzundur. Ali de Hande'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Ali",
+        "Hande",
+        "Hepsi eşit",
+        "Ayşe"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1050",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet koşuda Fatma'yı geçti. Fatma da Berk'i geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Fatma",
+        "Berk",
+        "Hepsi eşit",
+        "Mehmet"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1051",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma koşuda Zeynep'i geçti. Zeynep de Berk'i geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Zeynep",
+        "Berk",
+        "Hepsi eşit",
+        "Fatma"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1052",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet koşuda Zeynep'i geçti. Zeynep de Ali'yi geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Zeynep",
+        "Ali",
+        "Mehmet"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1053",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Zeynep'in çantası Berk'inkinden ağırdır. Can'ın çantası Zeynep'inkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Berk",
+        "Hepsi eşit",
+        "Zeynep",
+        "Can"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1054",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Berk koşuda Selin'i geçti. Selin de Fatma'yı geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Berk",
+        "Selin",
+        "Fatma"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1055",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin koşuda Zeynep'i geçti. Zeynep de Berk'i geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Berk",
+        "Hepsi eşit",
+        "Selin",
+        "Zeynep"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1056",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Yusuf, Mehmet'ten uzundur. Mehmet de Can'dan uzundur. EN UZUN kimdir?",
+      "options": [
+        "Mehmet",
+        "Hepsi eşit",
+        "Yusuf",
+        "Can"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1057",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma, Berk'ten uzundur. Berk de Selin'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Berk",
+        "Hepsi eşit",
+        "Fatma",
+        "Selin"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1058",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe koşuda Ali'yi geçti. Ali de Hande'yi geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ali",
+        "Ayşe",
+        "Hande"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1059",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Zeynep, Ayşe'den büyüktür. Fatma, Zeynep'ten büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Ayşe",
+        "Hepsi eşit",
+        "Zeynep",
+        "Fatma"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1060",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma'nın çantası Hande'ninkinden ağırdır. Mehmet'in çantası Fatma'nınkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Hepsi eşit",
+        "Fatma",
+        "Mehmet",
+        "Hande"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1061",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet koşuda Hande'yi geçti. Hande de Zeynep'i geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Mehmet",
+        "Hande",
+        "Zeynep",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1062",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet koşuda Ayşe'yi geçti. Ayşe de Fatma'yı geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Ayşe",
+        "Hepsi eşit",
+        "Mehmet",
+        "Fatma"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1063",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin, Berk'ten uzundur. Berk de Ali'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Selin",
+        "Hepsi eşit",
+        "Ali",
+        "Berk"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1064",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma koşuda Mehmet'i geçti. Mehmet de Ali'yi geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Fatma",
+        "Hepsi eşit",
+        "Ali",
+        "Mehmet"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1065",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin, Hande'den büyüktür. Berk, Selin'den büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Hande",
+        "Hepsi eşit",
+        "Berk",
+        "Selin"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1066",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali koşuda Can'ı geçti. Can da Berk'i geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Ali",
+        "Hepsi eşit",
+        "Can",
+        "Berk"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1067",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe'nin çantası Selin'inkinden ağırdır. Ali'nin çantası Ayşe'ninkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Ali",
+        "Hepsi eşit",
+        "Ayşe",
+        "Selin"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1068",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali, Hande'den uzundur. Hande de Zeynep'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hande",
+        "Ali",
+        "Hepsi eşit",
+        "Zeynep"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1069",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali'nin çantası Mehmet'inkinden ağırdır. Can'ın çantası Ali'ninkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Can",
+        "Ali",
+        "Hepsi eşit",
+        "Mehmet"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1070",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet, Ayşe'den büyüktür. Berk, Mehmet'ten büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Mehmet",
+        "Berk",
+        "Hepsi eşit",
+        "Ayşe"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1071",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali, Fatma'dan büyüktür. Can, Ali'den büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Ali",
+        "Hepsi eşit",
+        "Fatma",
+        "Can"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1072",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma, Hande'den büyüktür. Mehmet, Fatma'dan büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Fatma",
+        "Hepsi eşit",
+        "Mehmet",
+        "Hande"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1073",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet, Zeynep'ten uzundur. Zeynep de Berk'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Mehmet",
+        "Zeynep",
+        "Hepsi eşit",
+        "Berk"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1074",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin'in çantası Yusuf'unkinden ağırdır. Hande'nin çantası Selin'inkinden ağırdır. EN HAFİF çanta kimindir?",
+      "options": [
+        "Selin",
+        "Hepsi eşit",
+        "Yusuf",
+        "Hande"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1075",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Yusuf koşuda Berk'i geçti. Berk de Mehmet'i geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Yusuf",
+        "Mehmet",
+        "Berk"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1076",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin, Ayşe'den büyüktür. Yusuf, Selin'den büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Ayşe",
+        "Selin",
+        "Yusuf",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1077",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet, Can'dan uzundur. Can da Ali'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Mehmet",
+        "Ali",
+        "Can"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1078",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin, Yusuf'tan uzundur. Yusuf da Zeynep'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Yusuf",
+        "Zeynep",
+        "Selin",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1079",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Zeynep, Hande'den uzundur. Hande de Berk'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hande",
+        "Hepsi eşit",
+        "Zeynep",
+        "Berk"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1080",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Selin, Ayşe'den uzundur. Ayşe de Mehmet'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Mehmet",
+        "Hepsi eşit",
+        "Selin",
+        "Ayşe"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1081",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Can, Hande'den uzundur. Hande de Fatma'dan uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Can",
+        "Hande",
+        "Fatma"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1082",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali, Zeynep'ten uzundur. Zeynep de Hande'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Zeynep",
+        "Hande",
+        "Hepsi eşit",
+        "Ali"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1083",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Can, Berk'ten uzundur. Berk de Mehmet'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Berk",
+        "Can",
+        "Hepsi eşit",
+        "Mehmet"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1084",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Yusuf, Berk'ten uzundur. Berk de Fatma'dan uzundur. EN UZUN kimdir?",
+      "options": [
+        "Fatma",
+        "Hepsi eşit",
+        "Yusuf",
+        "Berk"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1085",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Can, Yusuf'tan büyüktür. Ali, Can'dan büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ali",
+        "Yusuf",
+        "Can"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1086",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet, Fatma'dan büyüktür. Can, Mehmet'ten büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Fatma",
+        "Hepsi eşit",
+        "Mehmet",
+        "Can"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1087",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe, Hande'den uzundur. Hande de Yusuf'tan uzundur. EN UZUN kimdir?",
+      "options": [
+        "Ayşe",
+        "Yusuf",
+        "Hande",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1088",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Hande, Selin'den uzundur. Selin de Zeynep'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Zeynep",
+        "Hande",
+        "Selin",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1089",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Zeynep, Berk'ten uzundur. Berk de Fatma'dan uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Fatma",
+        "Berk",
+        "Zeynep"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1090",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Hande koşuda Berk'i geçti. Berk de Ali'yi geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ali",
+        "Berk",
+        "Hande"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1091",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Yusuf, Ali'den uzundur. Ali de Selin'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Yusuf",
+        "Ali",
+        "Selin"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1092",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ali, Zeynep'ten uzundur. Zeynep de Fatma'dan uzundur. EN UZUN kimdir?",
+      "options": [
+        "Fatma",
+        "Ali",
+        "Hepsi eşit",
+        "Zeynep"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1093",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Hande koşuda Can'ı geçti. Can da Ali'yi geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Hande",
+        "Can",
+        "Ali"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1094",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Yusuf, Ali'den uzundur. Ali de Ayşe'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ayşe",
+        "Ali",
+        "Yusuf"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1095",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe, Can'dan uzundur. Can da Zeynep'ten uzundur. EN UZUN kimdir?",
+      "options": [
+        "Can",
+        "Ayşe",
+        "Zeynep",
+        "Hepsi eşit"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    },
+    {
+      "id": "zd_1096",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Zeynep, Ali'den büyüktür. Hande, Zeynep'ten büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Ali",
+        "Zeynep",
+        "Hande"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1097",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Ayşe koşuda Ali'yi geçti. Ali de Mehmet'i geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Mehmet",
+        "Hepsi eşit",
+        "Ayşe",
+        "Ali"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1098",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Zeynep koşuda Fatma'yı geçti. Fatma da Ali'yi geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Ali",
+        "Hepsi eşit",
+        "Fatma",
+        "Zeynep"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1099",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma, Yusuf'tan uzundur. Yusuf da Ayşe'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Fatma",
+        "Ayşe",
+        "Hepsi eşit",
+        "Yusuf"
+      ],
+      "correctAnswer": 0,
+      "grade": 3
+    },
+    {
+      "id": "zd_1100",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma koşuda Berk'i geçti. Berk de Yusuf'u geçti. EN YAVAŞ kimdir?",
+      "options": [
+        "Berk",
+        "Hepsi eşit",
+        "Yusuf",
+        "Fatma"
+      ],
+      "correctAnswer": 2,
+      "grade": 3
+    },
+    {
+      "id": "zd_1101",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Mehmet, Can'dan uzundur. Can da Hande'den uzundur. EN UZUN kimdir?",
+      "options": [
+        "Hande",
+        "Can",
+        "Hepsi eşit",
+        "Mehmet"
+      ],
+      "correctAnswer": 3,
+      "grade": 3
+    },
+    {
+      "id": "zd_1102",
+      "subject": "Zeka-Dikkat",
+      "theme": "Mantık",
+      "question": "Fatma, Mehmet'ten büyüktür. Selin, Fatma'dan büyüktür. EN BÜYÜK kimdir?",
+      "options": [
+        "Hepsi eşit",
+        "Selin",
+        "Fatma",
+        "Mehmet"
+      ],
+      "correctAnswer": 1,
+      "grade": 3
+    }
+  ]
+}
