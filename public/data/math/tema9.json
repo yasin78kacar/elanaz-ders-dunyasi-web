@@ -493,6 +493,604 @@
         "Portakal"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_001",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "3 çocuğun her birinde 3 balon var. Hepsinin toplam kaç balonu vardır?",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_002",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "3 çocuğun her birinde 7 kalem var. Hepsinin toplam kaç kalemi vardır?",
+      "options": [
+        "21",
+        "10",
+        "11",
+        "16"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_003",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "5 çocuğun her birinde 7 şeker var. Hepsinin toplam kaç şekeri vardır?",
+      "options": [
+        "32",
+        "38",
+        "34",
+        "35"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_004",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "5 çocuğun her birinde 8 elma var. Hepsinin toplam kaç elması vardır?",
+      "options": [
+        "40",
+        "41",
+        "37",
+        "35"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_005",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "6 çocuğun her birinde 6 balon var. Hepsinin toplam kaç balonu vardır?",
+      "options": [
+        "33",
+        "35",
+        "36",
+        "34"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_006",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "6 çocuğun her birinde 8 elma var. Hepsinin toplam kaç elması vardır?",
+      "options": [
+        "48",
+        "38",
+        "43",
+        "45"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_007",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "7 çocuğun her birinde 7 kitap var. Hepsinin toplam kaç kitabı vardır?",
+      "options": [
+        "49",
+        "44",
+        "14",
+        "39"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_008",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "8 çocuğun her birinde 3 kalem var. Hepsinin toplam kaç kalemi vardır?",
+      "options": [
+        "24",
+        "34",
+        "11",
+        "14"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_009",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "8 çocuğun her birinde 8 elma var. Hepsinin toplam kaç elması vardır?",
+      "options": [
+        "66",
+        "64",
+        "74",
+        "69"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_010",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "Berk'in 9 kutusu var. Her kutuda 8 elma var. Toplam kaç elma vardır?",
+      "options": [
+        "72",
+        "67",
+        "74",
+        "71"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_011",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "Can'ın 6 kutusu var. Her kutuda 5 şeker var. Toplam kaç şeker vardır?",
+      "options": [
+        "35",
+        "32",
+        "30",
+        "40"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_012",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "Yusuf'un 4 kutusu var. Her kutuda 9 elma var. Toplam kaç elma vardır?",
+      "options": [
+        "33",
+        "38",
+        "34",
+        "36"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_013",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "6 × 7 = ?",
+      "options": [
+        "41",
+        "44",
+        "43",
+        "42"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_014",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "6 × 9 = ?",
+      "options": [
+        "53",
+        "54",
+        "56",
+        "55"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_015",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "7 × 4 = ?",
+      "options": [
+        "27",
+        "29",
+        "30",
+        "28"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_016",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "11 × 8 = ?",
+      "options": [
+        "288",
+        "68",
+        "88",
+        "99"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_017",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "11 × 9 = ?",
+      "options": [
+        "98",
+        "99",
+        "199",
+        "104"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_018",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "12 × 7 = ?",
+      "options": [
+        "84",
+        "64",
+        "96",
+        "77"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_019",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "13 × 4 = ?",
+      "options": [
+        "72",
+        "65",
+        "52",
+        "32"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_020",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "15 × 4 = ?",
+      "options": [
+        "60",
+        "65",
+        "70",
+        "260"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_021",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "17 × 4 = ?",
+      "options": [
+        "68",
+        "64",
+        "67",
+        "69"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_022",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "19 × 7 = ?",
+      "options": [
+        "128",
+        "132",
+        "133",
+        "138"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_023",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "20 × 5 = ?",
+      "options": [
+        "100",
+        "105",
+        "99",
+        "101"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_024",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "20 × 6 = ?",
+      "options": [
+        "130",
+        "100",
+        "120",
+        "140"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_025",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "22 × 7 = ?",
+      "options": [
+        "144",
+        "134",
+        "174",
+        "154"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_026",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "23 × 7 = ?",
+      "options": [
+        "163",
+        "161",
+        "162",
+        "160"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_027",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "24 × 4 = ?",
+      "options": [
+        "101",
+        "96",
+        "97",
+        "106"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_028",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "24 × 5 = ?",
+      "options": [
+        "130",
+        "120",
+        "140",
+        "110"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_029",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "25 × 3 = ?",
+      "options": [
+        "72",
+        "100",
+        "75",
+        "70"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_030",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "25 × 6 = ?",
+      "options": [
+        "160",
+        "150",
+        "170",
+        "175"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_031",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "27 × 7 = ?",
+      "options": [
+        "209",
+        "169",
+        "199",
+        "189"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_032",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "31 × 4 = ?",
+      "options": [
+        "134",
+        "124",
+        "144",
+        "129"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_033",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "31 × 6 = ?",
+      "options": [
+        "206",
+        "166",
+        "186",
+        "196"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_034",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "34 × 5 = ?",
+      "options": [
+        "171",
+        "165",
+        "160",
+        "170"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_035",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "35 × 3 = ?",
+      "options": [
+        "100",
+        "102",
+        "105",
+        "104"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_036",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "38 × 3 = ?",
+      "options": [
+        "134",
+        "111",
+        "114",
+        "109"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_037",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "39 × 4 = ?",
+      "options": [
+        "195",
+        "161",
+        "166",
+        "156"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_038",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "40 × 4 = ?",
+      "options": [
+        "162",
+        "160",
+        "161",
+        "260"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_039",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "42 × 3 = ?",
+      "options": [
+        "136",
+        "128",
+        "168",
+        "126"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_040",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "45 × 4 = ?",
+      "options": [
+        "225",
+        "176",
+        "180",
+        "200"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t9_yeni_041",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "48 × 4 = ?",
+      "options": [
+        "192",
+        "197",
+        "172",
+        "193"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t9_yeni_042",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "12 × 53 = ?",
+      "options": [
+        "736",
+        "836",
+        "641",
+        "636"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_043",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "14 × 13 = ?",
+      "options": [
+        "202",
+        "196",
+        "169",
+        "182"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_044",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "Bir kolide 100 kalem var. 12 kolide toplam kaç kalem vardır?",
+      "options": [
+        "1188",
+        "1200",
+        "1190",
+        "1195"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t9_yeni_045",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "Bir kolide 49 kalem var. 11 kolide toplam kaç kalem vardır?",
+      "options": [
+        "588",
+        "528",
+        "529",
+        "539"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t9_yeni_046",
+      "subject": "Matematik",
+      "theme": "Tema 9",
+      "question": "Bir kolide 80 kalem var. 12 kolide toplam kaç kalem vardır?",
+      "options": [
+        "962",
+        "940",
+        "960",
+        "1060"
+      ],
+      "correctAnswer": 2
     }
   ]
 }
