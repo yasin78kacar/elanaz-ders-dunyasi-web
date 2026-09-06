@@ -19,10 +19,10 @@
       "theme": "Tema 3",
       "question": "Kahvaltı neden önemlidir?",
       "options": [
-        "Sadece lezzetli olduğu için",
-        "Öğretmen istediği için",
-        "Zorunlu olduğu için",
-        "Gün boyu enerji verir, beyin çalışmasını sağlar"
+        "Yalnızca lezzetli olduğu için",
+        "Öğretmen istediği için önemli",
+        "Zorunlu olduğu için yapılır",
+        "Gün boyu enerji verir, beyni çalıştırır"
       ],
       "correctAnswer": 3
     },
@@ -84,10 +84,10 @@
       "theme": "Tema 3",
       "question": "Temiz kıyafet giymek neden önemlidir?",
       "options": [
-        "Zorunlu olduğu için",
+        "Zorunlu olduğu için giyilir",
         "Başkalarını etkilemek için",
-        "Mikropları azaltır ve kendinizi iyi hissettirirsiniz",
-        "Sadece güzel görünmek için"
+        "Mikropları azaltır, iyi hissettirir",
+        "Yalnızca güzel görünmek için"
       ],
       "correctAnswer": 2
     },
@@ -357,10 +357,10 @@
       "theme": "Tema 3",
       "question": "Empati nedir? (Tema 3)",
       "options": [
-        "Disiplin",
-        "Kendi duyguları",
-        "Sempatik olmak",
-        "Baskasinin duygularini anlamaya calisma"
+        "Kuralları uygulatmaya çalışma hâli",
+        "Kendi duygularını öne çıkarma hâli",
+        "Birine acıyıp üzülme durumu",
+        "Başkasının duygularını anlamaya çalışma"
       ],
       "correctAnswer": 3
     },
@@ -370,10 +370,10 @@
       "theme": "Tema 3",
       "question": "Sorumluluk nedir? (Tema 3)",
       "options": [
-        "Hak",
-        "Özgürlük",
-        "Yapilmasi gerekenlerle hesap verebilme",
-        "Imtiyaz"
+        "Yasaların tanıdığı yetki durumu",
+        "Dilediğini yapabilme durumu",
+        "Üstlendiği işi yapıp hesap verebilme",
+        "Başkalarından üstün tutulma hâli"
       ],
       "correctAnswer": 2
     },
@@ -381,11 +381,11 @@
       "id": "qc200813",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3",
-      "question": "Dayanisma nedir? (Tema 3)",
+      "question": "Dayanışma nedir? (Tema 3)",
       "options": [
-        "Bireycilik",
-        "Yalnizlik",
-        "Rekabet",
+        "Yalnız kendi işini düşünme hâli",
+        "Kimseye ihtiyaç duymadan yaşama",
+        "Öne geçmek için yarışma durumu",
         "Birlikte hareket edip birbirini destekleme"
       ],
       "correctAnswer": 3
@@ -407,12 +407,12 @@
       "id": "qc200815",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3",
-      "question": "Dogruluk neden önemlidir? (Tema 3)",
+      "question": "Doğruluk neden önemlidir? (Tema 3)",
       "options": [
-        "Faydasiz",
-        "Para kazandirir",
-        "Zorunluluk",
-        "Güveni tesis eder ve toplumu güçlendirir"
+        "Hiçbir yararı olmayan bir davranış",
+        "Çabuk para kazanmayı sağladığı için",
+        "Zorunlu tutulduğu için yapılır",
+        "Güven oluşturur ve toplumu güçlendirir"
       ],
       "correctAnswer": 3
     },
@@ -435,10 +435,10 @@
       "theme": "Tema 3",
       "question": "Kültür nedir? (Tema 3)",
       "options": [
-        "Sadece sanat",
-        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
-        "Sadece müzik",
-        "Sadece edebiyat"
+        "Yalnızca resim ve heykel sanatı",
+        "Toplumun yaşam biçimi ve gelenekleri",
+        "Yalnızca müzik ve şarkı söyleme",
+        "Yalnızca roman ve şiir yazmak"
       ],
       "correctAnswer": 1
     },
@@ -459,12 +459,12 @@
       "id": "qc200819",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3",
-      "question": "Vatandaslik neden önemlidir? (Tema 3)",
+      "question": "Vatandaşlık neden önemlidir? (Tema 3)",
       "options": [
-        "Sadece oy icin",
-        "Topluma katilim ve sorumluluklar icin",
-        "Sadece hak icin",
-        "Zorunluluk"
+        "Yalnızca oy kullanmak amacıyla",
+        "Topluma katılım ve sorumluluklar için",
+        "Yalnızca hak istemek amacıyla",
+        "Zorunlu tutulduğu için gerekli"
       ],
       "correctAnswer": 1
     },
@@ -474,10 +474,10 @@
       "theme": "Tema 3",
       "question": "Her gün düzenli uyumanın yararı nedir?",
       "options": [
-        "Bedenin ve beynin dinlenmesini sağlar, büyümeye yardımcı olur",
-        "Yalnızca dinlenmektir",
+        "Beden ve beyin dinlenir, büyüme sağlanır",
+        "Yalnızca dinlenmiş olmaktır",
         "Sadece yorgunluğu gidermektir",
-        "Zaman kaybıdır"
+        "Boşa geçen bir zaman kaybıdır"
       ],
       "correctAnswer": 0
     },
@@ -487,10 +487,10 @@
       "theme": "Tema 3",
       "question": "Dengeli beslenme neden önemlidir?",
       "options": [
-        "Yalnızca kilo kontrolü için",
-        "Yalnızca güçlü olmak için",
-        "Yalnızca güzel görünmek için",
-        "Büyüme, sağlık ve enerji için gerekli tüm besinleri sağlar"
+        "Yalnızca kilo kontrolü içindir",
+        "Yalnızca güçlü olmak içindir",
+        "Yalnızca güzel görünmek içindir",
+        "Büyüme, sağlık ve enerji için gereklidir"
       ],
       "correctAnswer": 3
     },
@@ -513,10 +513,10 @@
       "theme": "Tema 3",
       "question": "Sebze ve meyve neden önemlidir?",
       "options": [
-        "Vitamin, mineral ve lif içerir; bağışıklığı güçlendirir",
-        "Sadece lezzet için",
-        "Yalnızca renk için",
-        "Enerji vermez"
+        "Vitamin ve lif verir, bağışıklığı güçlendirir",
+        "Yalnızca lezzet katmak içindir",
+        "Yalnızca tabağa renk katmak içindir",
+        "Hiç enerji vermedikleri için"
       ],
       "correctAnswer": 0
     },
@@ -526,10 +526,10 @@
       "theme": "Tema 3",
       "question": "Yemekten önce ve sonra neden el yıkanmalıdır?",
       "options": [
-        "Zorunluluk olduğu için",
-        "Sadece koku için",
-        "Mikropları temizlemek ve hastalıktan korunmak için",
-        "Görüntü için"
+        "Zorunlu tutulduğu için yıkanır",
+        "Yalnızca koku gitsin diye yıkanır",
+        "Mikroplardan ve hastalıktan korunmak için",
+        "Yalnızca görüntü güzel olsun diye"
       ],
       "correctAnswer": 2
     },
@@ -539,10 +539,10 @@
       "theme": "Tema 3",
       "question": "Gazlı içecekler neden sağlıklı değildir?",
       "options": [
-        "Her zaman sağlıklıdır",
-        "Vitamin içerir",
-        "Çok lezzetlidir",
-        "Fazla şeker içerir, diş çürümesine ve şişmanlığa neden olabilir"
+        "Her zaman sağlıklı sayılırlar",
+        "Bol vitamin içerdikleri için",
+        "Çok lezzetli oldukları için",
+        "Çok şeker içerir, dişleri çürütür"
       ],
       "correctAnswer": 3
     },
@@ -552,10 +552,10 @@
       "theme": "Tema 3",
       "question": "Egzersiz yapmanın zihne faydası nedir?",
       "options": [
-        "Zihin ile ilgisi yoktur",
-        "Stres azaltır, odaklanmayı ve ruh halini iyileştirir",
+        "Zihinle hiçbir ilgisi yoktur",
+        "Stresi azaltır, odaklanmayı artırır",
         "Yalnızca fiziksel fayda sağlar",
-        "Fayda yoktur"
+        "Hiçbir faydası bulunmamaktadır"
       ],
       "correctAnswer": 1
     },
@@ -565,10 +565,10 @@
       "theme": "Tema 3",
       "question": "Temiz hava solumak neden önemlidir?",
       "options": [
-        "Sadece koku için",
-        "Akciğerlerin sağlıklı çalışması ve oksijen alımı için",
-        "Yalnızca dışarıda gereklidir",
-        "Fark etmez"
+        "Yalnızca güzel koku almak için",
+        "Akciğerlerin sağlıklı çalışması için",
+        "Yalnızca dışarıda gerekli olur",
+        "Hiçbir fark yaratmadığı için"
       ],
       "correctAnswer": 1
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 3",
       "question": "Stresten nasıl korunuruz?",
       "options": [
-        "Egzersiz, uyku, sevdiklerle vakit geçirme ve hobiler ile",
-        "Stresten korunmak mümkün değil",
-        "Yalnızca uyku ile",
-        "Yalnızca yeme ile"
+        "Egzersiz, uyku ve hobilerle korunuruz",
+        "Stresten korunmak mümkün değildir",
+        "Yalnızca çok uyuyarak korunuruz",
+        "Yalnızca çok yiyerek korunuruz"
       ],
       "correctAnswer": 0
     },
@@ -589,12 +589,12 @@
       "id": "qe601078",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3",
-      "question": "Bağışıklık sistemi nedir ve nasıl güçlendirilir?",
+      "question": "Bağışıklık sistemi nedir?",
       "options": [
-        "Sinir sistemi",
-        "Dolaşım sistemi",
-        "Vücudun hastalıklarla savaş mekanizması; dengeli beslenme, uyku ve egzersizle güçlendirilir",
-        "Vücudun görsel sistemi"
+        "Kanı taşıyan dolaşım sistemi",
+        "Duyuları taşıyan sinir sistemi",
+        "Hastalıklara karşı savunma sistemi",
+        "Görmeyi sağlayan görme sistemi"
       ],
       "correctAnswer": 2
     },
@@ -630,9 +630,9 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Sağlığımız için gün içinde ne kadar su tüketmeliyiz?",
       "options": [
-        "Hiç su içmemeliyiz.",
-        "Vücudumuzun ihtiyacı kadar düzenli ve yeterli miktarda",
-        "Sadece kola içmeliyiz.",
+        "Gün içinde hiç su içmemeliyiz.",
+        "Düzenli ve yeterli miktarda içmeliyiz",
+        "Su yerine kola içmeliyiz.",
         "Sadece susayınca bir yudum içmeliyiz."
       ],
       "correctAnswer": 1
@@ -708,10 +708,10 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Aşağıdakilerden hangisi kişisel bakımımıza girer?",
       "options": [
-        "Evimizi temizlemek",
-        "Sıraları temizlemek",
-        "Dişlerimizi fırçalamak, saçımızı taramak ve tırnaklarımızı kesmek",
-        "Bahçeyi sulamak"
+        "Evimizi süpürüp temizlemek",
+        "Sınıftaki sıraları silmek",
+        "Diş fırçalamak, saç ve tırnak bakımı",
+        "Bahçedeki çiçekleri sulamak"
       ],
       "correctAnswer": 2
     },
@@ -736,8 +736,8 @@
       "options": [
         "Her gün hazır gıdalar yemek",
         "Sadece patates cipsi yemek",
-        "Yazın taze domates, karpuz ve şeftali tüketmek",
-        "Kışın karpuz yemek"
+        "Yazın taze domates ve karpuz yemek",
+        "Kışın karpuz ve kavun yemek"
       ],
       "correctAnswer": 2
     },
@@ -760,10 +760,10 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Sağlığımız için spor yapmak hangisine katkı sağlar?",
       "options": [
-        "Vücudumuzun güçlenmesine ve sağlıklı kalmamıza",
-        "Boyumuzun kısalmasına",
-        "Uykusuz kalmamıza",
-        "Daha çabuk yorulmamıza"
+        "Vücudumuzun güçlenmesine ve sağlığa",
+        "Boyumuzun kısalıp durmasına",
+        "Uykusuz kalıp yorulmamıza",
+        "Günlük işlerde zorlanmamıza"
       ],
       "correctAnswer": 0
     },
@@ -864,10 +864,10 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Aşağıdakilerden hangisi spor yapmanın faydalarından biridir?",
       "options": [
-        "Bizi tembelleştirir.",
+        "Bizi tembelleştirip halsiz bırakır.",
         "Kemik ve kaslarımızın gelişmesini sağlar.",
-        "Uykumuzu bozar.",
-        "Boyumuzu kısaltır."
+        "Gece uykumuzu tamamen bozar.",
+        "Boyumuzun kısalmasına yol açar."
       ],
       "correctAnswer": 1
     },
@@ -877,9 +877,9 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Açıkta satılan yiyecekleri satın almak neden sağlığımız için zararlıdır?",
       "options": [
-        "Üzerine mikrop ve toz bulaşmış olabileceği için",
-        "Pahalı olacağı için",
-        "Rengi soluk olacağı için",
+        "Üzerine mikrop ve toz bulaşabildiği için",
+        "Fiyatı pahalı olacağı için",
+        "Rengi soluk görüneceği için",
         "Tadı çok güzel olacağı için"
       ],
       "correctAnswer": 0
@@ -903,10 +903,10 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Aşağıdakilerden hangisi sağlığımız için zararlı alışkanlıklardan biridir?",
       "options": [
-        "Kitap okumak",
-        "Düzenli spor yapmak",
-        "Dengeli beslenmek",
-        "Televizyon ve tablet ekranına çok yakından uzun süre bakmak"
+        "Her akşam düzenli kitap okumak",
+        "Her gün düzenli spor yapmak",
+        "Dengeli ve düzenli beslenmek",
+        "Ekrana çok yakından uzun süre bakmak"
       ],
       "correctAnswer": 3
     },
@@ -916,9 +916,9 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Okulda hapşırırken veya öksürürken ne yapmalıyız?",
       "options": [
-        "Hiç kapatmamalıyız.",
+        "Ağzımızı hiç kapatmamalıyız.",
         "Elimizle kapatıp yıkamamalıyız.",
-        "Ağzımızı tek kullanımlık mendille veya dirsek içimizle kapatmalıyız.",
+        "Mendille ya da dirsek içimizle kapatmalıyız.",
         "Arkadaşımızın yüzüne doğru hapşırmalıyız."
       ],
       "correctAnswer": 2
@@ -942,9 +942,9 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Yaz mevsiminde sıcaktan korunmak için nasıl giyinmeliyiz?",
       "options": [
-        "Deri ceketler",
-        "Kalın palto ve bere",
-        "Yünlü kazaklar",
+        "Deri ceket ve kalın montlar",
+        "Yünlü kazak ve kalın çorap",
+        "Palto, bere ve eldivenler",
         "İnce, açık renkli ve pamuklu giysiler"
       ],
       "correctAnswer": 3
@@ -1033,10 +1033,10 @@
       "theme": "Tema 3: Sağlıklı Hayat",
       "question": "Okul kantininden yiyecek alırken neye dikkat etmeliyiz?",
       "options": [
-        "Rengine",
-        "Boyutuna",
-        "Son kullanma tarihine ve paketinin temiz olmasına",
-        "Sadece oyuncağına"
+        "Paketinin rengine ve şekline",
+        "Ürünün boyutuna ve ağırlığına",
+        "Son kullanma tarihine ve temizliğine",
+        "İçindeki oyuncağa ve hediyeye"
       ],
       "correctAnswer": 2
     },
@@ -1328,9 +1328,9 @@
       "question": "Sağlık ocağı ve hastaneler hangi amaçla hizmet veren kurumlardır?",
       "options": [
         "Sağlığımızı korumak ve tedavi etmek için",
-        "Kitap okumak için",
-        "Spor yapmak için",
-        "Eğitim vermek için"
+        "Kitap okuyup ödünç almak için",
+        "Spor yapıp antrenman için",
+        "Eğitim ve öğretim vermek için"
       ],
       "correctAnswer": 0
     },
@@ -1374,6 +1374,19 @@
         "Şampuan"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t3_ek_001",
+      "subject": "Hayat Bilgisi",
+      "question": "Bağışıklığımızı güçlendirmek için ne yapmalıyız?",
+      "options": [
+        "Sürekli hazır gıda yemeliyiz",
+        "Dengeli beslenip düzenli uyumalıyız",
+        "Geceleri hiç uyumamalıyız",
+        "Hiç hareket etmemeliyiz"
+      ],
+      "correctAnswer": 1,
+      "theme": "Tema 3"
     }
   ]
 }

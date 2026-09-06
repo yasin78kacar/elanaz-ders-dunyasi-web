@@ -240,10 +240,10 @@
       "theme": "Tema 4",
       "question": "Karanlıkta yürürken ne yapmalısınız?",
       "options": [
-        "Hızlı koşmalısınız",
-        "Yol ortasında yürümelisiniz",
-        "Hiçbir önlem gerekmez",
-        "Parlak renkli kıyafet giyip dikkatli yürümelisiniz"
+        "Karanlıkta hızlı hızlı koşmalısınız",
+        "Yolun tam ortasından yürümelisiniz",
+        "Hiçbir önlem almadan yürümelisiniz",
+        "Parlak renkli giyinip dikkatli yürümelisiniz"
       ],
       "correctAnswer": 3
     },
@@ -266,10 +266,10 @@
       "theme": "Tema 4",
       "question": "Yolda yabancı biri durdurup arabasına bindirmek isterse ne yapmalısınız?",
       "options": [
-        "Düşünebilirsiniz",
-        "Sorabilirsiniz",
-        "Binebilirsiniz",
-        "Kesinlikle binmeyip güvendiğiniz bir yere gitmelisiniz"
+        "Nereye gittiğini sorabilirsiniz",
+        "Bir kez düşünüp karar verebilirsiniz",
+        "Yakın bir yere kadar binebilirsiniz",
+        "Kesinlikle binmeyip güvenli yere gitmelisiniz"
       ],
       "correctAnswer": 3
     },
@@ -279,10 +279,10 @@
       "theme": "Tema 4",
       "question": "Okul servisinde doğru davranış nedir?",
       "options": [
-        "Sürücüyü rahatsız etmek",
-        "Oturduğunuz yerde kalmak, gürültü yapmamak, kurallara uymak",
-        "Dışarı sarkarak gitmek",
-        "Yüksek sesle bağırmak"
+        "Sürücüyü sürekli rahatsız etmek",
+        "Yerinizde oturup gürültü yapmamak",
+        "Pencereden dışarı sarkarak gitmek",
+        "Yüksek sesle bağırıp konuşmak"
       ],
       "correctAnswer": 1
     },
@@ -292,10 +292,10 @@
       "theme": "Tema 4",
       "question": "Trafik ışıkları bozulunca ne yapılmalıdır?",
       "options": [
-        "Karşıdan karşıya geçilmez",
-        "Polis memuruna ya da işaretlere uyulur; çok dikkatli geçilir",
-        "Hızla geçilir",
-        "Durup beklenir çok uzun"
+        "Hiç kimse karşıya geçemez",
+        "Polisin işaretlerine uyup dikkatli geçilir",
+        "Hızla koşarak karşıya geçilir",
+        "Araçlara bakılmadan geçilir"
       ],
       "correctAnswer": 1
     },
@@ -305,10 +305,10 @@
       "theme": "Tema 4",
       "question": "Yangın söndürücü nerede bulunmalıdır?",
       "options": [
-        "Yalnızca okullarda",
-        "Gerekmez",
+        "Yalnızca okul binalarında",
+        "Yalnızca hastanelerde ve okullarda",
         "Her bina ve araçta erişilebilir bir yerde",
-        "Yalnızca hastanelerde"
+        "Hiçbir yerde bulunması gerekmez"
       ],
       "correctAnswer": 2
     },
@@ -318,10 +318,10 @@
       "theme": "Tema 4",
       "question": "Doğal gaz kaçağı hissedilirse ne yapılmalıdır?",
       "options": [
-        "Elektrikli alet açılır",
-        "Ateş yakılır",
-        "Beklenilir",
-        "Pencereleri açıp gaz vanasını kapatın, elektrik kullanmayın, binanı terk edin ve yetkilileri arayın"
+        "Elektrikli aletleri açıp bakmalı",
+        "Ateş yakıp kokuyu bastırmalı",
+        "Hiçbir şey yapmadan beklemeli",
+        "Vanayı kapatıp pencereleri açmalı"
       ],
       "correctAnswer": 3
     },
@@ -331,10 +331,10 @@
       "theme": "Tema 4",
       "question": "Su baskınına karşı önlem olarak ne yapılabilir?",
       "options": [
-        "Araçlarla girilmek",
-        "Yüksek alanlara geçmek, yetkililerin uyarılarına uymak",
-        "Beklenmek",
-        "Selleri yüzerek geçmek"
+        "Araçlarla su içine girmek",
+        "Yüksek yerlere çıkıp uyarılara uymak",
+        "Selleri yüzerek geçmeye çalışmak",
+        "Yerinde durup hiç önlem almamak"
       ],
       "correctAnswer": 1
     },
@@ -344,9 +344,9 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Karşıdan karşıya geçerken aşağıdakilerden hangisini kullanmak güvenlidir?",
       "options": [
-        "Yaya ve okul geçitlerini, alt ve üst geçitleri",
-        "Araçların arasını",
-        "Kavşakların ortasını",
+        "Yaya geçidi, alt ve üst geçitleri",
+        "Duran araçların arasını",
+        "Kavşakların tam ortasını",
         "Hızlı akan araç yolunu"
       ],
       "correctAnswer": 0
@@ -383,9 +383,9 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Yabancı ve tanımadığımız bir kişi bize şeker veya hediye vermek istediğinde ne yapmalıyız?",
       "options": [
-        "Kabul etmeyip oradan uzaklaşmalı ve ailemize haber vermeliyiz.",
-        "Hemen almalıyız.",
-        "Teşekkür edip almalıyız.",
+        "Almayı reddedip hemen uzaklaşmalıyız.",
+        "Hemen alıp hepsini yemeliyiz.",
+        "Teşekkür ederek kabul etmeliyiz.",
         "Hediyeyi arkadaşımıza vermeliyiz."
       ],
       "correctAnswer": 0
@@ -422,9 +422,9 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Yaya kaldırımı olmayan yollarda yolun hangi tarafından yürümeliyiz?",
       "options": [
-        "Yolun tam ortasından",
-        "Sağ taraftan",
-        "Araçlarla aynı yönde",
+        "Yolun tam ortasındaki şeritten",
+        "Araçların arkasından, ortadan",
+        "Araçlarla aynı yönde sağ taraftan",
         "Gelen araçları görebilmek için sol taraftan"
       ],
       "correctAnswer": 3
@@ -461,10 +461,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Okul servis aracından inerken ne zaman hareket etmeliyiz?",
       "options": [
-        "Araç yavaşlarken",
-        "Şoför frene bastığında",
-        "Araç tamamen durduğunda ve kapısı açıldığında",
-        "Araç hareket halindeyken"
+        "Araç yavaşlamaya başladığında",
+        "Şoför frene bastığı anda",
+        "Araç tam durup kapısı açıldığında",
+        "Araç hareket hâlindeyken"
       ],
       "correctAnswer": 2
     },
@@ -526,9 +526,9 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Islak elle elektrik düğmelerine dokunmak neden tehlikelidir?",
       "options": [
-        "Düğme bozulacağı için",
-        "Fatura artacağı için",
-        "Lamba söneceği için",
+        "Düğmenin bozulacağı düşünüldüğü için",
+        "Elektrik faturası artacağı için",
+        "Lambanın söneceği düşünüldüğü için",
         "Elektrik çarpma riski yüksek olduğu için"
       ],
       "correctAnswer": 3
@@ -553,9 +553,9 @@
       "question": "Evde yangın çıktığında ilk olarak ne yapmalıyız?",
       "options": [
         "Oyun oynamaya devam etmeliyiz.",
-        "Hemen evden güvenli şekilde çıkmalı ve büyüklere/112'ye haber vermeliyiz.",
+        "Hemen dışarı çıkıp 112'ye haber vermeliyiz.",
         "Dolabın içine saklanmalıyız.",
-        "Yangını kendimiz söndürmeye çalışmalıyız."
+        "Yangını kendimiz söndürmeliyiz."
       ],
       "correctAnswer": 1
     },
@@ -565,10 +565,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Asansöre binerken uymamız gereken güvenlik kuralı hangisidir?",
       "options": [
-        "Asansörün içinde zıplamak",
-        "Tüm düğmelere basmak",
-        "Kapının arasına el sıkıştırmak",
-        "Büyüklerimiz yanımızdayken binmek ve kabin durmadan adım atmamak"
+        "Asansörün içinde zıplamalıyız",
+        "Bütün düğmelere basmalıyız",
+        "Kapı arasına elimizi sokmalıyız",
+        "Büyüğümüz yanımızdayken binmeliyiz"
       ],
       "correctAnswer": 3
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Oyun oynarken topumuz yola kaçarsa ne yapmalıyız?",
       "options": [
-        "Araçların geçmesini beklemeden koşmalıyız.",
+        "Araçları beklemeden koşmalıyız.",
         "Ağlayarak yola oturmalıyız.",
-        "Hemen topun arkasından yola koşmalıyız.",
-        "Yola hemen koşmamalı, büyüklerimizden yardım istemeliyiz."
+        "Hemen topun arkasından gitmeliyiz.",
+        "Yola koşmamalı, büyüklerden yardım istemeliyiz."
       ],
       "correctAnswer": 3
     },
@@ -591,9 +591,9 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "İnşaat alanlarının yakınında oynamak neden tehlikelidir?",
       "options": [
-        "Çok gürültülü olduğu için",
-        "Üzerimize ağır cisimler düşebileceği veya çukurlara düşebileceğimiz için",
-        "Toprak kirli olduğu için",
+        "Ortam çok gürültülü olduğu için",
+        "Üzerimize ağır cisim düşebileceği için",
+        "Toprağın kirli olması nedeniyle",
         "Oyun alanı küçük olduğu için"
       ],
       "correctAnswer": 1
@@ -604,12 +604,12 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Evde balkon demirliklerine tırmanmak veya aşağıya sarkmak nasıl bir davranıştır?",
       "options": [
-        "Faydalıdır.",
-        "Eğlenceli bir spordur.",
-        "Güvenlidir.",
-        "Düşme tehlikesi olan çok riskli bir davranıştır."
+        "Sağlığa faydalı bir davranıştır.",
+        "Eğlenceli ve güvenli bir spordur.",
+        "Düşme tehlikesi olan riskli bir davranıştır.",
+        "Hiçbir riski olmayan bir oyundur."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "q-h-tema4gvenlihayat-127",
@@ -657,9 +657,9 @@
       "question": "Evdeki ilaçları şeker sanıp içmek neye yol açar?",
       "options": [
         "Zehirlenmeye ve büyük sağlık sorunlarına",
-        "Uykunun gelmesine",
-        "Daha hızlı büyümeye",
-        "Tatlı tat almaya"
+        "Uykumuzun hemen gelmesine",
+        "Daha hızlı büyümemize",
+        "Ağzımızda tatlı tat kalmasına"
       ],
       "correctAnswer": 0
     },
@@ -669,10 +669,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Deprem anında okulda veya evde yapılması gereken güvenli hareket hangisidir?",
       "options": [
-        "Pencereden aşağı atlamak",
-        "Çök - Kapan - Tutun hareketiyle sağlam bir eşyanın yanında beklemek",
-        "Asansöre binip kaçmak",
-        "Hızlanarak merdivenlerden aşağı koşmak"
+        "Pencereden aşağı atlayıp kaçmak",
+        "Çök-Kapan-Tutun yapıp sağlam yerde beklemek",
+        "Asansöre binip aşağı inmek",
+        "Merdivenlerden koşarak inmek"
       ],
       "correctAnswer": 1
     },
@@ -684,8 +684,8 @@
       "options": [
         "Hızla akan yolun ortasından",
         "Virajların tam arkasından",
-        "Tepelerin arkasından",
-        "Yolun en güvenli ve görüş açısı açık olan yerinden, araçları kontrol ederek"
+        "Tepelerin arka tarafından",
+        "Görüşün açık ve güvenli olduğu yerden"
       ],
       "correctAnswer": 3
     },
@@ -708,10 +708,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Yabancı bir kişi bizi zorla bir yere götürmek istediğinde ne yapmalıyız?",
       "options": [
-        "Ona oyuncak vermeliyiz.",
-        "Sessizce onunla gitmeliyiz.",
-        "Yüksek sesle bağırarak çevredekilerden yardım istemeliyiz.",
-        "Ağlamadan beklemeliyiz."
+        "Ona oyuncağımızı vermeliyiz.",
+        "Sessizce onunla birlikte gitmeliyiz.",
+        "Bağırarak çevredekilerden yardım istemeliyiz.",
+        "Ağlamadan sırayla beklemeliyiz."
       ],
       "correctAnswer": 2
     },
@@ -721,10 +721,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Kesici ve delici aletlerle (bıçak, makas) çalışırken neye dikkat etmeliyiz?",
       "options": [
-        "Hızlıca sallamaya",
-        "Büyüklerimizin gözetiminde ve dikkatlice kullanmaya",
+        "Hızlıca sallayıp oynamaya",
+        "Büyüklerimizin gözetiminde kullanmaya",
         "Arkadaşımıza doğru fırlatmaya",
-        "Onlarla oyun oynamaya"
+        "Onlarla kılıç oyunu oynamaya"
       ],
       "correctAnswer": 1
     },
@@ -734,10 +734,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "İnternette veya bilgisayarda oyun oynarken neye dikkat etmeliyiz?",
       "options": [
-        "Her gelen reklamı tıklamaya",
-        "Süre sınırına uymaya ve sadece yaşımıza uygun oyunları oynamaya",
-        "Kişisel bilgilerimizi yabancılara vermeye",
-        "Tüm gün bilgisayar başında kalmaya"
+        "Gelen her reklamı tıklamaya",
+        "Süre sınırına ve yaş uygunluğuna",
+        "Kişisel bilgileri paylaşmaya",
+        "Tüm gün ekran başında kalmaya"
       ],
       "correctAnswer": 1
     },
@@ -748,11 +748,11 @@
       "question": "Doğal gaz sızıntısı veya gaz kokusu hissettiğimizde ne yapmalıyız?",
       "options": [
         "Kapıyı kilitleyip uyumalıyız.",
-        "Kibrit veya çakmak yakmalıyız.",
-        "Elektrik düğmelerini açıp kapatmalıyız.",
-        "Hemen büyüklere haber vermeli ve pencereleri açmalıyız."
+        "Kibrit ya da çakmak yakmalıyız.",
+        "Büyüklere haber verip pencereleri açmalıyız.",
+        "Elektrik düğmelerini açmalıyız."
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "q-h-tema4gvenlihayat-138",
@@ -760,10 +760,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Trafik polisinin işaretleri ne işe yarar?",
       "options": [
-        "Arabaları durdurmaya",
-        "Trafiğin güvenli ve düzenli akmasını sağlamaya",
-        "Yolcuları eğlendirmeye",
-        "Sadece ceza yazmaya"
+        "Yalnızca arabaları durdurmaya",
+        "Trafiğin güvenli ve düzenli akmasına",
+        "Yolcuları eğlendirip oyalamaya",
+        "Yalnızca ceza yazıp para almaya"
       ],
       "correctAnswer": 1
     },
@@ -773,10 +773,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Karşıdan karşıya geçerken yeşil ışık yandığında ne yapmalıyız?",
       "options": [
-        "Hiç geçmemeliyiz.",
-        "Koşarak geçmeliyiz.",
-        "Araçların tamamen durduğundan emin olduktan sonra hızlı adımlarla geçmeliyiz.",
-        "Yavaşça yürüyüp yolda durmalıyız."
+        "Işığa bakmadan hemen koşmalıyız.",
+        "Hiç geçmeyip yolda beklemeliyiz.",
+        "Araçların durduğuna emin olup geçmeliyiz.",
+        "Yolun ortasında durup beklemeliyiz."
       ],
       "correctAnswer": 2
     },
@@ -786,10 +786,10 @@
       "theme": "Tema 4: Güvenli Hayat",
       "question": "Güvenliğimiz için pencerelerden veya camlardan aşağı sarkmak neden yanlıştır?",
       "options": [
-        "Rüzgar eseceği için",
-        "Hava soğuyacağı için",
-        "Dengemizi kaybedip aşağı düşme riski olduğu için",
-        "Gözümüz kamaşacağı için"
+        "Rüzgarda saçımız dağılacağı için",
+        "Havanın soğuk olabileceği için",
+        "Dengemizi kaybedip düşme riski olduğu için",
+        "Gözümüzün kamaşabileceği için"
       ],
       "correctAnswer": 2
     },
@@ -799,10 +799,10 @@
       "theme": "Tema Eki",
       "question": "Asansörü tek başımıza kullanmak neden tehlikelidir?",
       "options": [
-        "Asansör yavaşlayacağı için",
-        "Asansör bozulacağı için",
-        "Asansör kaldığında ne yapacağımızı bilemeyebileceğimiz için",
-        "Fatura artacağı için"
+        "Asansörün yavaşlayacağı için",
+        "Asansörün bozulacağı için",
+        "Kapalı kalma tehlikesi olduğu için",
+        "Elektrik faturası artacağı için"
       ],
       "correctAnswer": 2
     },
@@ -933,12 +933,12 @@
       "theme": "Tema Eki",
       "question": "Trafik kuralları kimlerin güvenliği içindir?",
       "options": [
-        "Kimsenin",
-        "Sadece sürücülerin",
-        "Sadece yayaların",
-        "Tüm insanların (sürücüler ve yayalar)"
+        "Yalnızca araç sürücülerinin",
+        "Yalnızca yolda yürüyenlerin",
+        "Tüm insanların (sürücüler ve yayalar)",
+        "Hiç kimsenin güvenliği için değil"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "q-b3-hayat-212",
@@ -1127,6 +1127,19 @@
         "Araçların arasını"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "hayat_t4_ek_001",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 4: Güvenli Hayat",
+      "question": "Asansöre adım atmadan önce neye dikkat etmeliyiz?",
+      "options": [
+        "Kapının yarı açık kalmasına",
+        "Kabinin tam durmuş olmasına",
+        "Kabinin hâlâ hareket etmesine",
+        "Işıkların yanıp sönmesine"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

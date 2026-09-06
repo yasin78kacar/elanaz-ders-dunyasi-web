@@ -6,10 +6,10 @@
       "theme": "Tema 7",
       "question": "Orman neden önemlidir?",
       "options": [
-        "Su sağlar yalnızca",
-        "Oksijen üretir, hayvan barınağı sağlar",
-        "Yakıt sağlar yalnızca",
-        "Faydasızdır"
+        "Yalnızca su kaynağı sağlar",
+        "Oksijen üretir, hayvana yuva olur",
+        "Yalnızca yakıt odunu verir",
+        "Aslında hiçbir faydası yok"
       ],
       "correctAnswer": 1
     },
@@ -188,10 +188,10 @@
       "theme": "Tema 7",
       "question": "Toprağı korumanın yolları nelerdir?",
       "options": [
-        "Çok su dökmek",
-        "Erozyon önleme, ağaç dikme, kimyasal azaltma",
-        "Yakma",
-        "Toprağı atmak"
+        "Toprağa çok su dökmek",
+        "Ağaç dikip erozyonu önlemek",
+        "Anız yakıp temizlemek",
+        "Toprağı kazıp taşımak"
       ],
       "correctAnswer": 1
     },
@@ -214,10 +214,10 @@
       "theme": "Tema 7",
       "question": "Piknik alanlarını temiz tutmak neden önemlidir?",
       "options": [
-        "Sadece görüntü için",
-        "Doğayı ve diğer insanları korumak için",
-        "Zorunluluk",
-        "Yasak olduğu için"
+        "Yalnızca güzel görünsün diye",
+        "Doğayı ve insanları korumak için",
+        "Zorunlu tutulduğu için",
+        "Yasak konulduğu için"
       ],
       "correctAnswer": 1
     },
@@ -240,10 +240,10 @@
       "theme": "Tema 7",
       "question": "Doğal afet türleri nelerdir?",
       "options": [
-        "Sadece sel",
-        "Sadece yangın",
-        "Sadece deprem",
-        "Deprem, sel, yangın, tsunami, fırtına"
+        "Yalnızca sel ve taşkın",
+        "Yalnızca orman yangını",
+        "Yalnızca deprem sarsıntısı",
+        "Deprem, sel, yangın ve fırtına"
       ],
       "correctAnswer": 3
     },
@@ -253,10 +253,10 @@
       "theme": "Tema 7",
       "question": "Deprem öncesi alınacak önlemler nelerdir?",
       "options": [
-        "Hiçbir şey",
-        "Sadece bina",
-        "Sadece tatbikat",
-        "Sağlam bina, hazırlık çantası, tatbikat"
+        "Hiçbir hazırlık gerekmez",
+        "Yalnızca binayı sağlam yapmak",
+        "Yalnızca tatbikat yapmak",
+        "Sağlam bina, çanta ve tatbikat"
       ],
       "correctAnswer": 3
     },
@@ -303,12 +303,12 @@
       "id": "qb91249",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 7",
-      "question": "Sel neden olusur?",
+      "question": "Sel neden oluşur?",
       "options": [
-        "Deprem",
-        "Yanardaag",
-        "Firtina",
-        "Asiri yagis, baraj patlamasi veya kiyi taskini"
+        "Yer kabuğunun sarsılmasıyla",
+        "Yanardağın patlamasıyla",
+        "Şiddetli rüzgâr yüzünden",
+        "Aşırı yağış ve taşkın yüzünden"
       ],
       "correctAnswer": 3
     },
@@ -318,10 +318,10 @@
       "theme": "Tema 7",
       "question": "Tsunami nedir?",
       "options": [
-        "Deniz tabanindan depremden olusan dev dalga",
-        "Firtina",
-        "Sel",
-        "Kasirga"
+        "Deprem sonrası oluşan dev dalga",
+        "Şiddetli esen güçlü rüzgâr",
+        "Suların taşıp yayılması",
+        "Dönerek ilerleyen kasırga"
       ],
       "correctAnswer": 0
     },
@@ -345,9 +345,9 @@
       "question": "Deprem sonrası neden enkaza yaklaşılmamalıdır?",
       "options": [
         "Çünkü kurtarıcılar gelecektir",
-        "İkinci bir sarsıntı ya da enkaz çökmesi tehlikesi vardır",
-        "Çünkü yardım gerekmez",
-        "Çünkü güvenlidir"
+        "İkinci sarsıntı tehlikesi vardır",
+        "Çünkü yardıma gerek yoktur",
+        "Çünkü enkaz artık güvenlidir"
       ],
       "correctAnswer": 1
     },
@@ -370,10 +370,10 @@
       "theme": "Tema 7",
       "question": "Yangından kaçarken asansör neden kullanılmamalıdır?",
       "options": [
-        "Tehlikeli değildir",
-        "Elektrik kesintisi durumunda asansör mahsur bırakabilir",
-        "Asansör hızlıdır",
-        "Merdiven daha uzundur"
+        "Asansör hiç tehlikeli değildir",
+        "Elektrik kesilirse mahsur kalınır",
+        "Asansör merdivenden hızlıdır",
+        "Merdiven yolu daha uzundur"
       ],
       "correctAnswer": 1
     },
@@ -383,10 +383,10 @@
       "theme": "Tema 7",
       "question": "Tahliye tatbikatlarının önemi nedir?",
       "options": [
-        "Yalnızca eğlence için",
-        "Gereksizdir",
-        "Sadece büyükler için",
-        "Gerçek bir afette insanları doğru ve hızlı hareket etmeye hazırlar"
+        "Yalnızca eğlence olsun diye",
+        "Aslında hiç gerekli değildir",
+        "Yalnızca büyükler için gerekir",
+        "Afette doğru davranmayı öğretir"
       ],
       "correctAnswer": 3
     },
@@ -396,12 +396,12 @@
       "theme": "Tema 7",
       "question": "Deprem çantasında neler bulunmalıdır?",
       "options": [
-        "Yalnızca su",
-        "Yalnızca yiyecek",
-        "Hiçbir şey",
-        "Su, ilk yardım malzemeleri, el feneri, battaniye, kimlik fotokopisi"
+        "İçine yalnızca su konur",
+        "İçine yalnızca yiyecek konur",
+        "Su, ilk yardım, el feneri, kimlik",
+        "İçine oyuncak ve kitap konur"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe601114",
@@ -409,10 +409,10 @@
       "theme": "Tema 7",
       "question": "Sel sırasında araçla sel suyuna girilmeli midir?",
       "options": [
-        "Hayır, sel suyu görünenden derin olabilir ve araç sürüklenir",
+        "Hayır, su derin olabilir",
         "Yüzme bilenler girebilir",
-        "Evet, araç güvenlidir",
-        "Dikkatli sürünce sorun yok"
+        "Evet, araç güvenli sayılır",
+        "Dikkatli sürünce sorun olmaz"
       ],
       "correctAnswer": 0
     },
@@ -435,10 +435,10 @@
       "theme": "Tema 7",
       "question": "Kış fırtınasına karşı önlem olarak ne yapılabilir?",
       "options": [
-        "Sıcak giyinmek, içeride kalmak, taşıt yedeği bulundurmak",
-        "Dışarıda oynamak",
-        "Isınmamak",
-        "Pencereleri açmak"
+        "Sıcak giyinip içeride kalmak",
+        "Dışarıda uzun süre oynamak",
+        "Evi hiç ısıtmadan durmak",
+        "Pencereleri açık bırakmak"
       ],
       "correctAnswer": 0
     },
@@ -448,12 +448,12 @@
       "theme": "Tema 7",
       "question": "Yangın merdiveninin işlevi nedir?",
       "options": [
-        "Eşyaları taşımak",
-        "Egzersiz için",
-        "Temizlik için",
-        "Yangın durumunda güvenli tahliyeyi sağlamak"
+        "Eşyaları yukarı taşımak",
+        "Egzersiz yapıp spor etmek",
+        "Yangında güvenli çıkış sağlamak",
+        "Bina cephesini temizlemek"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe601118",
@@ -461,12 +461,12 @@
       "theme": "Tema 7",
       "question": "Afet anında neden paniğe kapılmamalısınız?",
       "options": [
-        "Panik normaldir",
-        "Panik hız kazandırır",
-        "Panik yardım çeker",
-        "Panik doğru düşünüp hareket etmeyi engeller, hayati tehlike yaratır"
+        "Panik tamamen normaldir",
+        "Panik hızlı hareket ettirir",
+        "Doğru düşünmeyi engeller",
+        "Panik yardımı çabuk getirir"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "hayat_t7_yeni_001",

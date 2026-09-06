@@ -474,10 +474,10 @@
       "theme": "Tema 6",
       "question": "Bir hikâyede düğüm kısmı nedir?",
       "options": [
-        "Başlangıç kısmı",
-        "Sonuç kısmı",
-        "Çözüm kısmı",
-        "Olayların karmaşıklaştığı ve gerilimin arttığı bölüm"
+        "Hikâyenin başlangıç bölümü",
+        "Hikâyenin bitiş bölümü",
+        "Sorunun çözüldüğü bölüm",
+        "Olayların karmaşıklaştığı bölüm"
       ],
       "correctAnswer": 3
     },
@@ -514,11 +514,11 @@
       "question": "Masal ile hikâye arasındaki temel fark nedir?",
       "options": [
         "Hikâyede hayvanlar konuşur",
-        "Masal daha kısadır",
-        "Masalda daha fazla kişi vardır",
-        "Masalda olaylar gerçek dışı, hikâyede gerçekçidir"
+        "Masal her zaman daha kısadır",
+        "Masal gerçek dışı, hikâye gerçekçi",
+        "Masalda daha fazla kişi vardır"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe600854",
@@ -526,10 +526,10 @@
       "theme": "Tema 6",
       "question": "Şiirde tema ne demektir?",
       "options": [
-        "Şiirin işlediği temel konu ya da duygu",
-        "Şiirin başlığı",
-        "Şiirin uzunluğu",
-        "Şiirin uyak düzeni"
+        "Şiirin işlediği temel konu",
+        "Şiire verilen başlığın adı",
+        "Şiirin kaç dize olduğu",
+        "Şiirdeki uyak düzeni"
       ],
       "correctAnswer": 0
     },
@@ -539,10 +539,10 @@
       "theme": "Tema 6",
       "question": "Bilgilendirici metin ile edebi metin farkı nedir?",
       "options": [
-        "Bilgilendirici gerçek bilgi verir, edebi his ve hayal uyandırır",
-        "Edebi metin daha kolaydır",
-        "İkisi aynıdır",
-        "Bilgilendirici daha kısadır"
+        "Biri bilgi verir, biri his uyandırır",
+        "Edebi metin daha kolay okunur",
+        "İkisi tamamen aynı şeydir",
+        "Bilgilendirici metin daha kısadır"
       ],
       "correctAnswer": 0
     },
@@ -552,10 +552,10 @@
       "theme": "Tema 6",
       "question": "Gazetede haber metni ne amaçla yazılır?",
       "options": [
-        "Eğlendirmek",
-        "Okuyucuyu gerçek olaylar hakkında bilgilendirmek",
-        "Duygu aktarmak",
-        "Hayal gücü geliştirmek"
+        "Okuru eğlendirmek için yazılır",
+        "Gerçek olaylar hakkında bilgi verir",
+        "Duygu aktarmak için yazılır",
+        "Hayal gücünü geliştirmek için"
       ],
       "correctAnswer": 1
     },
@@ -565,10 +565,10 @@
       "theme": "Tema 6",
       "question": "Ansiklopedi ne tür bir kaynaktır?",
       "options": [
-        "Hikâye kitabı",
-        "Şiir kitabı",
-        "Bilgilendirici, gerçek bilgi içeren kaynak",
-        "Roman"
+        "Hikâyeler anlatan kitap",
+        "Şiirler toplanan kitap",
+        "Gerçek bilgi veren kaynak",
+        "Uzun bir roman kitabı"
       ],
       "correctAnswer": 2
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 6",
       "question": "Günlük (journal) ne tür bir yazıdır?",
       "options": [
-        "Roman",
-        "Kişinin günlük yaşamını anlattığı kişisel yazı türü",
-        "Haber metni",
-        "Şiir"
+        "Uzun bir roman türüdür",
+        "Günü gününe tutulan yazı",
+        "Gerçek olayı duyuran haber",
+        "Dizelerden oluşan şiir"
       ],
       "correctAnswer": 1
     },
@@ -604,10 +604,10 @@
       "theme": "Tema 6",
       "question": "Bir metnin başlığı ne olmalıdır?",
       "options": [
-        "Metnin ilk cümlesi",
-        "En uzun cümle",
-        "Konuyu yansıtan, merak uyandıran ifade",
-        "Yazarın adı"
+        "Metnin ilk cümlesi olmalı",
+        "Metnin en uzun cümlesi",
+        "Konuyu yansıtan, merak uyandıran",
+        "Yazarın kendi adı olmalı"
       ],
       "correctAnswer": 2
     },
@@ -630,10 +630,10 @@
       "theme": "Tema 6",
       "question": "Fabl nedir?",
       "options": [
-        "Şiir türü",
-        "Uzun roman",
-        "Hayvanların konuştuğu öğüt veren kısa hikâye",
-        "Bilimsel makale"
+        "Dizelerden oluşan şiir türü",
+        "Çok uzun bir roman türü",
+        "Hayvanların konuştuğu öğüt hikâyesi",
+        "Bilimsel bilgi veren makale"
       ],
       "correctAnswer": 2
     },
@@ -643,10 +643,10 @@
       "theme": "Tema 6",
       "question": "Biyografi nedir?",
       "options": [
-        "Gerçek bir kişinin yaşamını anlatan yazı",
-        "Uydurma hikâye",
-        "Masal",
-        "Şiir"
+        "Gerçek bir kişinin yaşam öyküsü",
+        "Uydurma olayları anlatan öykü",
+        "Olağanüstü olaylı masal",
+        "Dizelerden oluşan şiir"
       ],
       "correctAnswer": 0
     },
@@ -669,10 +669,10 @@
       "theme": "Tema 6",
       "question": "Gezi yazısı nedir?",
       "options": [
-        "Gezilen yerlerin izlenimlerini anlatan yazı",
-        "Roman",
-        "Şiir",
-        "Ders kitabı"
+        "Gezilen yerleri anlatan yazı",
+        "Uzun bir roman türüdür",
+        "Dizelerden oluşan şiir",
+        "Bilgi veren ders kitabı"
       ],
       "correctAnswer": 0
     },
@@ -682,10 +682,10 @@
       "theme": "Tema 6",
       "question": "Deneme nedir?",
       "options": [
-        "Yazarın bir konudaki kişisel görüşlerini aktardığı yazı",
-        "Roman",
-        "Şiir",
-        "Haber"
+        "Yazarın kişisel görüşünü aktarır",
+        "Uzun bir roman türüdür",
+        "Dizelerden oluşan şiir",
+        "Olayı duyuran haber yazısı"
       ],
       "correctAnswer": 0
     },
@@ -695,10 +695,10 @@
       "theme": "Tema 6",
       "question": "Anı (hatıra) nedir?",
       "options": [
-        "Uydurma hikâye",
-        "Yaşanmış olayları ilk elden aktaran yazı",
-        "Masal",
-        "Şiir"
+        "Başkasının yaşamını anlatır",
+        "Yaşanmış olayları aktaran yazı",
+        "Hayal ürünü olan masal",
+        "Bilgi veren ansiklopedi"
       ],
       "correctAnswer": 1
     },
@@ -734,10 +734,10 @@
       "theme": "Tema 6",
       "question": "Redif nedir?",
       "options": [
-        "Kıta",
-        "Dize",
-        "Uyaktan önce gelen aynı ek ya da sözcük",
-        "Uyak"
+        "Şiirdeki dörtlük bölümü",
+        "Şiirdeki her bir satır",
+        "Uyaktan sonra gelen aynı ek",
+        "Dize sonundaki ses benzerliği"
       ],
       "correctAnswer": 2
     },
@@ -773,10 +773,10 @@
       "theme": "Tema 6",
       "question": "Şiir ile düzyazı arasındaki temel fark nedir?",
       "options": [
-        "Yazar farkı",
-        "Konu farkı",
-        "Şiirde ölçü/uyak olabilir, düzyazıda olmaz",
-        "Uzunluk farkı"
+        "Yazarlarının farklı olması",
+        "İşledikleri konu farkı",
+        "Şiirde ölçü ve uyak bulunabilir",
+        "Metin uzunluğu farkı"
       ],
       "correctAnswer": 2
     }

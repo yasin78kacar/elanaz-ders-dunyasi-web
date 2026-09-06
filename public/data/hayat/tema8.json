@@ -188,10 +188,10 @@
       "theme": "Tema 8",
       "question": "Kişisel mahremiyet nedir?",
       "options": [
-        "Faydasız kavram",
-        "Herkesle paylaşım",
-        "Zorunlu bilgi",
-        "Kişinin özel alanı ve bilgilerinin korunması"
+        "Faydası olmayan bir kavram",
+        "Her şeyi herkesle paylaşmak",
+        "Zorunlu paylaşılan bilgi",
+        "Özel alan ve bilgilerin korunması"
       ],
       "correctAnswer": 3
     },
@@ -238,12 +238,12 @@
       "id": "qb91261",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 8",
-      "question": "Ayrimcilik nedir?",
+      "question": "Ayrımcılık nedir?",
       "options": [
-        "Yardim etmek",
-        "Sevmek",
-        "Kabullenmek",
-        "Birini farkli ozellikleri nedeniyle dislamak"
+        "Zor durumda yardım etmek",
+        "Herkesi olduğu gibi sevmek",
+        "Farklılıkları kabullenmek",
+        "Farklı olduğu için dışlamak"
       ],
       "correctAnswer": 3
     },
@@ -264,14 +264,14 @@
       "id": "qb91265",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 8",
-      "question": "Secim nedir?",
+      "question": "Seçim nedir?",
       "options": [
-        "Para vermek",
-        "Atama",
-        "Kura cekmek",
-        "Demokratik yöntemle yoneticileri belirlemek"
+        "Yöneticilere para vermek",
+        "Yöneticileri oyla belirlemek",
+        "Yöneticileri atayıp görevlendirmek",
+        "Kura çekerek belirlemek"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qb91266",
@@ -292,10 +292,10 @@
       "theme": "Tema 8",
       "question": "Çocukların temel hakları nelerdir?",
       "options": [
-        "Yalnızca eğitim",
-        "Eğitim, sağlık, oyun, güvenlik ve aile hakları",
-        "Yalnızca oyun",
-        "Yalnızca sağlık"
+        "Yalnızca okula gitme hakkı",
+        "Eğitim, sağlık, oyun ve güvenlik",
+        "Yalnızca oyun oynama hakkı",
+        "Yalnızca sağlık hizmeti hakkı"
       ],
       "correctAnswer": 1
     },
@@ -318,10 +318,10 @@
       "theme": "Tema 8",
       "question": "Seçim hakkı kime verilmiştir?",
       "options": [
-        "Yalnızca erkeklere",
-        "Yalnızca büyüklere",
-        "Yalnızca öğretmenlere",
-        "18 yaşını doldurmuş her Türk vatandaşına"
+        "Yalnızca erkek vatandaşlara",
+        "Yalnızca yaşlı vatandaşlara",
+        "Yalnızca öğretmen olanlara",
+        "18 yaşını dolduran vatandaşlara"
       ],
       "correctAnswer": 3
     },
@@ -344,12 +344,12 @@
       "theme": "Tema 8",
       "question": "Bir çocuk zorbalığa maruz kalırsa ne yapmalıdır?",
       "options": [
-        "Sessiz kalmalıdır",
-        "Öfkelenerek karşılık vermelidir",
-        "Okula gitmemelidir",
-        "Güvendiği bir yetişkine söylemeli ve yardım istemelidir"
+        "Sessiz kalıp hiç anlatmamalı",
+        "Öfkelenip karşılık vermeli",
+        "Güvendiği yetişkine söylemeli",
+        "Okula gitmeyi bırakmalı"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe601124",
@@ -370,10 +370,10 @@
       "theme": "Tema 8",
       "question": "Serbest ifade özgürlüğü ne demektir?",
       "options": [
-        "Başkalarına zarar vermeden görüş ve düşüncelerini dile getirebilme hakkı",
-        "Her şeyi söyleyebilmek",
-        "Yalnızca yazılı ifade",
-        "Yalnızca gazete için"
+        "Zarar vermeden düşünceyi söylemek",
+        "Aklına her şeyi söyleyebilmek",
+        "Yalnızca yazıyla anlatabilmek",
+        "Yalnızca gazetede yazabilmek"
       ],
       "correctAnswer": 0
     },
@@ -396,10 +396,10 @@
       "theme": "Tema 8",
       "question": "Çocukların öğrenim hakkı neden güvence altındadır?",
       "options": [
-        "Sadece para için",
-        "Sadece hükümet kararı",
-        "Önemsizdir",
-        "Eğitim bireyin ve toplumun gelişimi için temeldir"
+        "Yalnızca para kazanmak için",
+        "Yalnızca hükümet kararı olduğu için",
+        "Aslında önemli değildir",
+        "Eğitim kişinin ve toplumun temeli"
       ],
       "correctAnswer": 3
     },
@@ -409,10 +409,10 @@
       "theme": "Tema 8",
       "question": "Vatandaşlık görevi nedir?",
       "options": [
-        "Yalnızca askerlik",
-        "Kanunlara uymak, oy kullanmak, vergisini ödemek, ülkeye katkı sağlamak",
-        "Sadece vergi ödemek",
-        "Sadece oy kullanmak"
+        "Yalnızca askerlik görevini yapmak",
+        "Kanuna uymak, oy vermek, vergi ödemek",
+        "Yalnızca vergi ödemek yeterli",
+        "Yalnızca oy kullanmak yeterli"
       ],
       "correctAnswer": 1
     },

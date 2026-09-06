@@ -188,9 +188,9 @@
       "theme": "Tema 1",
       "question": "Büyüklerimize saygı nasıl gösterilir?",
       "options": [
-        "Sürekli oyun oynayarak",
-        "Onları görmezden gelerek",
-        "Emirler vererek",
+        "Sözünü keserek ve emirler vererek",
+        "Görmezden gelerek ve oyuna dalarak",
+        "Yüksek sesle bağırarak konuşarak",
         "Söylediklerini dinleyerek ve yardım ederek"
       ],
       "correctAnswer": 3
@@ -228,9 +228,9 @@
       "question": "Evimde herkes birbirini seviyor mu?",
       "options": [
         "Evet, aile sevgi ve saygı üzerine kurulur",
-        "Hayır",
-        "Sadece büyükler",
-        "Bazen"
+        "Hayır, ailede sevgi hiç bulunmaz",
+        "Sadece büyükler birbirini sever",
+        "Bazen sever, çoğu zaman sevmez"
       ],
       "correctAnswer": 0
     },
@@ -446,12 +446,12 @@
       "id": "qb91144",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Ikizler\" sana gore ne demektir?",
+      "question": "İkizler ne demektir?",
       "options": [
-        "Iki kisinin ayni anda dogan cocuklari",
-        "Ogretmenim",
-        "Annen",
-        "Baban"
+        "Aynı anda doğan iki kardeş",
+        "Aynı sınıfta okuyan iki kardeş",
+        "Bir yıl arayla doğan kardeşler",
+        "Anne ile babanın kardeşleri"
       ],
       "correctAnswer": 0
     },
@@ -500,10 +500,10 @@
       "theme": "Tema 1",
       "question": "Empati nedir? (Tema 1)",
       "options": [
-        "Disiplin",
-        "Baskasinin duygularini anlamaya calisma",
-        "Sempatik olmak",
-        "Kendi duyguları"
+        "Kurallara uyulmasını sağlama işi",
+        "Başkasının duygularını anlamaya çalışma",
+        "Kendi duygularını başkasına anlatma",
+        "Birine acıyıp üzüntü duyma hâli"
       ],
       "correctAnswer": 1
     },
@@ -513,10 +513,10 @@
       "theme": "Tema 1",
       "question": "Sorumluluk nedir? (Tema 1)",
       "options": [
-        "Imtiyaz",
-        "Yapilmasi gerekenlerle hesap verebilme",
-        "Hak",
-        "Özgürlük"
+        "İstediğini seçebilme durumu",
+        "Üstlendiği işi yapıp hesap verebilme",
+        "Herkese tanınan yasal yetki",
+        "Kurallara uymayı sağlayan düzen"
       ],
       "correctAnswer": 1
     },
@@ -524,12 +524,12 @@
       "id": "qc200793",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "Dayanisma nedir? (Tema 1)",
+      "question": "Dayanışma nedir? (Tema 1)",
       "options": [
-        "Bireycilik",
+        "Kendi çıkarını önde tutma anlayışı",
         "Birlikte hareket edip birbirini destekleme",
-        "Rekabet",
-        "Yalnizlik"
+        "Başkalarını geçmek için yarışma",
+        "Kimseyle iletişim kurmadan yaşama"
       ],
       "correctAnswer": 1
     },
@@ -550,12 +550,12 @@
       "id": "qc200795",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "Dogruluk neden önemlidir? (Tema 1)",
+      "question": "Doğruluk neden önemlidir? (Tema 1)",
       "options": [
-        "Zorunluluk",
-        "Faydasiz",
-        "Güveni tesis eder ve toplumu güçlendirir",
-        "Para kazandirir"
+        "Zorunlu olduğu için yapılması gerekir",
+        "Aslında hiçbir yararı bulunmaz",
+        "Güven oluşturur ve toplumu güçlendirir",
+        "Kısa yolda para kazanmayı sağlar"
       ],
       "correctAnswer": 2
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 1",
       "question": "Kültür nedir? (Tema 1)",
       "options": [
-        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
-        "Sadece sanat",
-        "Sadece müzik",
-        "Sadece edebiyat"
+        "Toplumun yaşam biçimi ve gelenekleri",
+        "Resim ve heykel gibi sanat dalları",
+        "Şarkı söyleme ve müzik dinleme",
+        "Kitap okuma ve şiir yazma işi"
       ],
       "correctAnswer": 0
     },
@@ -602,12 +602,12 @@
       "id": "qc200799",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "Vatandaslik neden önemlidir? (Tema 1)",
+      "question": "Vatandaşlık neden önemlidir? (Tema 1)",
       "options": [
-        "Sadece hak icin",
-        "Sadece oy icin",
-        "Topluma katilim ve sorumluluklar icin",
-        "Zorunluluk"
+        "Yalnızca hak istemek için gerekir",
+        "Yalnızca oy kullanmak için gerekir",
+        "Topluma katılım ve sorumluluklar için",
+        "Zorunlu olduğu için önemsenir"
       ],
       "correctAnswer": 2
     },
@@ -617,10 +617,10 @@
       "theme": "Tema 1",
       "question": "Bir çocuk ailesinde hangi sorumlulukları üstlenebilir?",
       "options": [
-        "Sadece ders çalışmak",
-        "Sadece oynamak",
-        "Hiçbir şey yapmamak",
-        "Odasını toplamak, sofrayı hazırlamak, küçüklere yardım etmek"
+        "Yalnızca ders çalışıp başka iş yapmamak",
+        "Yalnızca oyun oynayıp hiç yardım etmemek",
+        "Evde hiçbir işe karışmadan durmak",
+        "Odasını toplayıp sofra kurmaya yardım etmek"
       ],
       "correctAnswer": 3
     },
@@ -630,9 +630,9 @@
       "theme": "Tema 1",
       "question": "Aile üyeleri birbirlerine nasıl destek olmalıdır?",
       "options": [
-        "Görmezden gelerek",
-        "Yalnız bırakarak",
-        "Eleştirerek",
+        "Sorunları görmezden gelerek susarak",
+        "Herkesi kendi başına bırakarak",
+        "Sürekli eleştirip suç bularak",
         "Sevgi, saygı, yardımlaşma ve anlayışla"
       ],
       "correctAnswer": 3
@@ -643,10 +643,10 @@
       "theme": "Tema 1",
       "question": "Bir büyük konuşurken ne yapmalısınız?",
       "options": [
-        "Konuşturmadan çıkmalıyız",
-        "Başka şeylerle ilgilenmeliyiz",
+        "Sözünü kesip odadan çıkmalısınız",
+        "Yüksek sesle konuşmaya başlamalısınız",
         "Dikkatle dinlemeli ve saygılı davranmalısınız",
-        "Yarıda kesmeliyiz"
+        "Başka şeylerle ilgilenmelisiniz"
       ],
       "correctAnswer": 2
     },
@@ -656,10 +656,10 @@
       "theme": "Tema 1",
       "question": "Ailenizle birlikte vakit geçirmenin önemi nedir?",
       "options": [
-        "Yalnızca yemek içindir",
+        "Yalnızca yemek yemek için gereklidir",
         "Aile bağlarını güçlendirir ve mutluluk sağlar",
-        "Zaman israfıdır",
-        "Anlamsızdır"
+        "Zaman kaybı olduğu için gereksizdir",
+        "Hiçbir yararı olmayan bir alışkanlıktır"
       ],
       "correctAnswer": 1
     },
@@ -669,10 +669,10 @@
       "theme": "Tema 1",
       "question": "Bir aile üyesi hastalandığında ne yapmalısınız?",
       "options": [
-        "Uzak durmalıyız",
-        "Yalnız bırakmalıyız",
+        "Ondan uzak durup odaya girmemelisiniz",
+        "Kendi başına iyileşmesini beklemelisiniz",
         "İlgilenip bakımına yardımcı olmalısınız",
-        "Görmezden gelmeliyiz"
+        "Hiç ilgilenmeden oyununuza dönmelisiniz"
       ],
       "correctAnswer": 2
     },
@@ -682,10 +682,10 @@
       "theme": "Tema 1",
       "question": "Evde misafir geldiğinde nasıl davranmalısınız?",
       "options": [
-        "Odaya kapanmalıyız",
-        "Misafirle konuşmamalıyız",
-        "Sesli müzik açmalıyız",
-        "Kibarca selamlayıp misafirperver davranmalısınız"
+        "Odanıza kapanıp hiç çıkmamalısınız",
+        "Misafirle hiç konuşmamalısınız",
+        "Sesli müzik açıp yüksek sesle oynamalısınız",
+        "Kibarca selamlayıp saygılı davranmalısınız"
       ],
       "correctAnswer": 3
     },
@@ -695,10 +695,10 @@
       "theme": "Tema 1",
       "question": "Ailenizden bir şey istediğinizde nasıl istemelisiniz?",
       "options": [
-        "Israr ederek",
-        "Ağlayarak",
-        "Saygıyla, 'lütfen' diyerek ve gerekirse açıklayarak",
-        "Bağırarak"
+        "Israr edip aynı şeyi tekrar etmelisiniz",
+        "Ağlayarak ve surat yaparak istemelisiniz",
+        "Saygıyla ve \"lütfen\" diyerek istemelisiniz",
+        "Bağırarak hemen olmasını beklemelisiniz"
       ],
       "correctAnswer": 2
     },
@@ -709,9 +709,9 @@
       "question": "Kardeşinizle anlaşmazlık yaşarsanız ne yapmalısınız?",
       "options": [
         "Sakin konuşup ortak çözüm aramalısınız",
-        "Kavga etmeliyiz",
-        "Sessiz kalmalıyız",
-        "Şikâyet etmeliyiz"
+        "Kavga edip odadan çıkmalısınız",
+        "Hiç konuşmadan sessiz kalmalısınız",
+        "Hemen büyüklere şikâyet etmelisiniz"
       ],
       "correctAnswer": 0
     },
@@ -734,10 +734,10 @@
       "theme": "Tema 1",
       "question": "Büyük aile toplantılarında bir çocuk ne yapmalıdır?",
       "options": [
-        "Gürültü yapmalıdır",
-        "Saygıyla dinlemeli, gerektiğinde kibarca söz almalıdır",
-        "Oyun oynamalıdır",
-        "Toplantıya katılmamalıdır"
+        "Gürültü yapıp herkesin sözünü kesmelidir",
+        "Saygıyla dinlemeli, kibarca söz almalıdır",
+        "Odada tek başına oyun oynamalıdır",
+        "Toplantıya hiç katılmadan beklemelidir"
       ],
       "correctAnswer": 1
     },
@@ -747,9 +747,9 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıf kurallarını kimlerle birlikte belirlemeliyiz?",
       "options": [
-        "Sadece okul müdürüyle",
-        "Tek başımıza",
-        "Okul servis şoförüyle",
+        "Yalnızca okul müdürüyle birlikte",
+        "Kimseye sormadan tek başımıza",
+        "Okul servisinin şoförüyle birlikte",
         "Öğretmenimiz ve sınıf arkadaşlarımızla"
       ],
       "correctAnswer": 3
@@ -786,10 +786,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okulda grup çalışmalarında başarılı olmak için hangisi gereklidir?",
       "options": [
-        "Çalışmaya hiç katılmamak",
-        "Sadece kendi istediğimizi yapmak",
-        "Dışlayıcı davranmak",
-        "İş birliği yapmak ve arkadaş fikirlerine saygı duymak"
+        "Çalışmaya hiç katılmadan izlemek",
+        "Yalnızca kendi istediğimizi yaptırmaya çalışmak",
+        "Arkadaşlarımızı gruptan dışlamak",
+        "İş birliği yapıp arkadaş fikrine saygı duymak"
       ],
       "correctAnswer": 3
     },
@@ -812,10 +812,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okul bahçesinde oyun oynarken bir arkadaşımız yere düştüğünde ne yapmalıyız?",
       "options": [
-        "Ona yardım etmeli ve yerden kalkmasını sağlamalıyız.",
-        "Gülüp dalga geçmeliyiz.",
-        "Oyunumuza devam etmeliyiz.",
-        "Görmezden gelmeliyiz."
+        "Ona yardım edip kalkmasına destek olmalıyız.",
+        "Gülüp dalga geçerek oyuna devam etmeliyiz.",
+        "Hiç ilgilenmeden oyunumuzu sürdürmeliyiz.",
+        "Görmezden gelip başka yere gitmeliyiz."
       ],
       "correctAnswer": 0
     },
@@ -825,10 +825,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıfta ders dinlerken söz almak istediğimizde ne yapmalıyız?",
       "options": [
-        "Parmak kaldırıp öğretmenimizden izin istemeliyiz.",
-        "Sıramızın üzerine çıkmalıyız.",
-        "Arkadaşımızın sözünü kesmeliyiz.",
-        "Bağırarak konuşmalıyız."
+        "Parmak kaldırıp öğretmenden izin istemeliyiz.",
+        "Sıramızın üzerine çıkıp el sallamalıyız.",
+        "Arkadaşımızın sözünü keserek konuşmalıyız.",
+        "Bağırarak dikkat çekmeye çalışmalıyız."
       ],
       "correctAnswer": 0
     },
@@ -838,10 +838,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okul çantamızı hazırlarken neye dikkat etmeliyiz?",
       "options": [
-        "Tüm oyuncaklarımızı koymaya",
+        "Tüm oyuncaklarımızı yanımıza almaya",
         "Kitaplarımızın tamamını her gün taşımaya",
-        "Ders programına bakarak o günkü ders araç gereçlerini koymaya",
-        "Çantayı tamamen boş bırakmaya"
+        "Ders programına bakıp o günün gereçlerini koymaya",
+        "Çantayı tamamen boş bırakıp gitmeye"
       ],
       "correctAnswer": 2
     },
@@ -955,9 +955,9 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıf panosunu hazırlarken kimlerle yardımlaşmalıyız?",
       "options": [
-        "Tek başımıza",
-        "Sadece sınıf başkanıyla",
-        "Okul servisi şoförüyle",
+        "Kimseden yardım almadan tek başımıza",
+        "Yalnızca sınıf başkanıyla birlikte",
+        "Okul servisinin şoförüyle birlikte",
         "Öğretmenimiz ve sınıf arkadaşlarımızla"
       ],
       "correctAnswer": 3
@@ -968,9 +968,9 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okul kurallarına uymak okuldaki yaşamımızı nasıl etkiler?",
       "options": [
-        "Zorlaştırır.",
-        "Karışıklığa yol açar.",
-        "Düzenli ve huzurlu bir ortam oluşmasını sağlar.",
+        "Okul yaşamını daha da zorlaştırır.",
+        "Sınıfta karışıklığa yol açar.",
+        "Düzenli ve huzurlu bir ortam sağlar.",
         "Arkadaşlarımızla aramızı bozar."
       ],
       "correctAnswer": 2
@@ -981,10 +981,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıfımızdaki panoya zarar veren bir arkadaşımızı gördüğümüzde ne yapmalıyız?",
       "options": [
-        "Görmezden gelmeliyiz.",
-        "Biz de zarar vermeliyiz.",
-        "Onu kibarca uyarmalı ve öğretmenimize haber vermeliyiz.",
-        "Onunla kavga etmeliyiz."
+        "Görmezden gelip hiçbir şey söylememeliyiz.",
+        "Biz de panoya zarar vererek karşılık vermeliyiz.",
+        "Kibarca uyarıp öğretmenimize haber vermeliyiz.",
+        "Onunla kavga edip tartışmalıyız."
       ],
       "correctAnswer": 2
     },
@@ -1007,10 +1007,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıfımızda yeni gelen bir öğrenciye karşı nasıl davranmalıyız?",
       "options": [
-        "Onu dışlamalıyız.",
-        "Onunla konuşmamalıyız.",
-        "Güler yüzle karşılayıp onunla arkadaş olmalıyız.",
-        "Görmezden gelmeliyiz."
+        "Onu dışlayıp oyunlara almamalıyız.",
+        "Onunla hiç konuşmadan durmalıyız.",
+        "Güler yüzle karşılayıp arkadaş olmalıyız.",
+        "Görmezden gelip ilgilenmemeliyiz."
       ],
       "correctAnswer": 2
     },
@@ -1033,10 +1033,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıfımızın havalandırılması neden önemlidir?",
       "options": [
-        "Dersin bitmesi için",
+        "Dersin daha çabuk bitmesi için",
         "Temiz hava solumak ve sağlıklı kalmak için",
-        "Sınıfın soğuması için",
-        "Sesimizi duyurmak için"
+        "Sınıfın iyice soğuması için",
+        "Sesimizi daha iyi duyurmak için"
       ],
       "correctAnswer": 1
     },
@@ -1046,10 +1046,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okul kütüphanesinde nasıl davranmalıyız?",
       "options": [
-        "Yüksek sesle konuşmalıyız.",
-        "Kitapları yere atmalıyız.",
-        "Sessiz olmalı ve kitapları özenle okumalıyız.",
-        "Koşup oynamalıyız."
+        "Yüksek sesle konuşup gülmeliyiz.",
+        "Kitapları yere atıp gitmeliyiz.",
+        "Sessiz olmalı, kitapları özenle okumalıyız.",
+        "Raflar arasında koşup oynamalıyız."
       ],
       "correctAnswer": 2
     },
@@ -1059,9 +1059,9 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıf nöbetçisinin görevi aşağıdakilerden hangisidir?",
       "options": [
-        "Sınıftan en önce çıkmak",
-        "Teneffüste tahtayı silmek ve sınıfın düzenine yardımcı olmak",
-        "Ders anlatmak",
+        "Sınıftan en önce çıkıp gitmek",
+        "Tahtayı silmek ve sınıf düzenine yardım etmek",
+        "Öğretmen yerine ders anlatmak",
         "Sadece kendi sırasını temizlemek"
       ],
       "correctAnswer": 1
@@ -1072,9 +1072,9 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okul müdürünün görevi nedir?",
       "options": [
-        "Sadece kantinde durmak",
-        "Bahçeyi temizlemek",
-        "Sadece ders anlatmak",
+        "Kantinde durup satış yapmak",
+        "Bahçeyi süpürüp temizlemek",
+        "Yalnızca sınıflarda ders anlatmak",
         "Okulun genel yönetimini ve düzenini sağlamak"
       ],
       "correctAnswer": 3
@@ -1098,10 +1098,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okulda yangın veya deprem tatbikatı yapıldığında nasıl davranmalıyız?",
       "options": [
-        "Bağırarak kaçmalıyız.",
+        "Bağırarak koridora doğru kaçmalıyız.",
         "Oyun oynamaya devam etmeliyiz.",
-        "Sakin olmalı ve öğretmenimizin talimatlarına uymalıyız.",
-        "Sıranın altında kalmalıyız."
+        "Sakin olup öğretmenin talimatlarına uymalıyız.",
+        "Sıranın altında saklanıp kalmalıyız."
       ],
       "correctAnswer": 2
     },
@@ -1124,10 +1124,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıfımızdaki panoda neler sergilenir?",
       "options": [
-        "Boş kağıtlar",
-        "Öğrencilerin yaptığı resimler ve eğitici afişler",
-        "Sadece kantin fiyatları",
-        "Sadece oyuncaklar"
+        "Yalnızca boş beyaz kağıtlar",
+        "Öğrencilerin resimleri ve eğitici afişler",
+        "Yalnızca kantin fiyat listesi",
+        "Evden getirilen oyuncaklar"
       ],
       "correctAnswer": 1
     },
@@ -1137,10 +1137,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okulumuzun bölümlerinden biri olan revir ne işe yarar?",
       "options": [
-        "Rahatsızlanan öğrencilere ilk yardım yapılması için",
-        "Yemek yemek için",
-        "Spor yapmak için",
-        "Kitap okumak için"
+        "Rahatsızlanana ilk yardım yapılması için",
+        "Öğrencilerin yemek yemesi için",
+        "Beden eğitimi dersleri için",
+        "Sessizce kitap okumak için"
       ],
       "correctAnswer": 0
     },
@@ -1150,9 +1150,9 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okulumuzdaki spor salonunda hangi aktiviteler yapılır?",
       "options": [
-        "Yemek pişirme",
-        "Kitap okuma",
-        "Resim yapma",
+        "Yemek pişirme ve mutfak işleri",
+        "Kitap okuma ve sessiz çalışma",
+        "Resim yapma ve boyama etkinliği",
         "Beden eğitimi dersleri ve spor faaliyetleri"
       ],
       "correctAnswer": 3
@@ -1176,10 +1176,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Sınıfta parmak kaldırmadan konuşmak neye yol açar?",
       "options": [
-        "Öğretmenin sevinmesine",
-        "Daha iyi anlaşılmaya",
+        "Öğretmenin sevinmesine yol açar.",
+        "Dersin daha iyi anlaşılmasına.",
         "Sınıfta gürültü ve karmaşaya neden olur.",
-        "Dersin erken bitmesine"
+        "Dersin erken bitmesine yol açar."
       ],
       "correctAnswer": 2
     },
@@ -1189,10 +1189,10 @@
       "theme": "Tema 1: Okulumuzda Hayat",
       "question": "Okula gelirken hangi kıyafeti giymeliyiz?",
       "options": [
-        "Süslü parti elbiselerini",
-        "Yazlık plaj kıyafetlerini",
-        "Okul formamızı veya okulun belirlediği kıyafetleri",
-        "Pijamalarımızı"
+        "Süslü parti elbiselerimizi",
+        "Yazlık plaj kıyafetlerimizi",
+        "Okul formamızı ya da belirlenen kıyafeti",
+        "Evde giydiğimiz pijamalarımızı"
       ],
       "correctAnswer": 2
     },
@@ -1228,10 +1228,10 @@
       "theme": "Tema Eki",
       "question": "Sınıfımıza yeni katılan yabancı uyruklu bir öğrenciye nasıl davranmalıyız?",
       "options": [
-        "Uzak durmalıyız.",
-        "Güler yüzle karşılayıp arkadaş olmaya çalışmalıyız.",
-        "Onu oyuna almamalıyız.",
-        "Onunla hiç konuşmamalıyız."
+        "Uzak durup hiç konuşmamalıyız.",
+        "Selam verip oyunlarımıza katmalıyız.",
+        "Dilini bilmediğimiz için susmalıyız.",
+        "Onunla alay edip gülmeliyiz."
       ],
       "correctAnswer": 1
     },
@@ -1254,10 +1254,10 @@
       "theme": "Tema Eki",
       "question": "Revir okulumuzun hangi durumlar için ayrılmış bir bölümüdür?",
       "options": [
-        "Sağlık sorunları ve ilk yardım durumları için",
-        "Yemek yemek için",
-        "Tiyatro izlemek için",
-        "Beden eğitimi dersleri için"
+        "Sağlık sorunu ve ilk yardım durumları",
+        "Yemek yeme ve beslenme saatleri",
+        "Tiyatro ve gösteri izleme günleri",
+        "Beden eğitimi ders saatleri"
       ],
       "correctAnswer": 0
     },
@@ -1280,10 +1280,10 @@
       "theme": "Tema Eki",
       "question": "Islak elle elektrik anahtarını açmak neden tehlikelidir?",
       "options": [
-        "Lamba bozulacağı için",
+        "Lambanın bozulacağı düşünüldüğü için",
         "Elektrik çarpma riski yüksek olduğu için",
-        "Musluk bozulacağı için",
-        "Fatura artacağı için"
+        "Musluğun bozulma riski olduğu için",
+        "Elektrik faturası artacağı için"
       ],
       "correctAnswer": 1
     },
@@ -1293,10 +1293,10 @@
       "theme": "Tema Eki",
       "question": "Grup çalışmalarında arkadaşımızın fikrini beğenmediğimizde nasıl davranmalıyız?",
       "options": [
-        "Onu öğretmene şikayet etmeliyiz.",
+        "Onu hemen öğretmene şikâyet etmeliyiz.",
         "Gruptan çıkmasını istemeliyiz.",
-        "Onunla kavga etmeliyiz.",
-        "Fikrine saygı duymalı ve kendi fikrimizi kibarca açıklamalıyız."
+        "Onunla tartışıp kavga etmeliyiz.",
+        "Fikrine saygı duyup kendi fikrimizi söylemeliyiz."
       ],
       "correctAnswer": 3
     },
@@ -1332,10 +1332,10 @@
       "theme": "Tema Eki",
       "question": "Servis aracından inerken neye dikkat etmeliyiz?",
       "options": [
-        "Aracın tamamen durmasına ve kapının açılmasına",
-        "Aracın hareket etmesine",
-        "Aracın yavaşlamasına",
-        "Şoförün frene basmasına"
+        "Aracın tam durmasına ve kapının açılmasına",
+        "Aracın hareket hâlinde olmasına",
+        "Aracın biraz yavaşlamasına",
+        "Şoförün frene basmaya başlamasına"
       ],
       "correctAnswer": 0
     },
@@ -1372,9 +1372,9 @@
       "question": "Okul bahçesindeki bankları ve oyun araçlarını nasıl kullanmalıyız?",
       "options": [
         "Zarar vermeden, temiz ve özenli tutarak",
-        "Üzerine yazı yazarak",
-        "Hiç oturmayarak",
-        "Kırıp dökerek"
+        "Üzerlerine yazı yazıp çizerek",
+        "Hiç oturmayıp uzak durarak",
+        "Kırıp dökerek ve sallayarak"
       ],
       "correctAnswer": 0
     },
@@ -1476,9 +1476,9 @@
       "theme": "Tema Eki",
       "question": "Sınıfta öğretmenimizin ders anlatırken dikkatini dağıtmamak için ne yapmalıyız?",
       "options": [
-        "Sınıfta ayağa kalkmalıyız",
-        "Sessizce dinlemeli ve parmak kaldırıp söz istemeliyiz",
-        "Resim yapmalıyız",
+        "Sınıfta ayağa kalkıp dolaşmalıyız",
+        "Sessizce dinleyip parmak kaldırmalıyız",
+        "Defterimize resim yapmalıyız",
         "Arkadaşımızla fısıldaşmalıyız"
       ],
       "correctAnswer": 1
@@ -1638,10 +1638,10 @@
       "theme": "Tema Eki",
       "question": "Tanımadığımız biri bize hediye veya yiyecek uzatırsa ne yapmalıyız?",
       "options": [
-        "Hemen yemeliyiz.",
-        "Kabul etmeyip oradan uzaklaşmalı ve ailemize söylemeliyiz.",
-        "Arkadaşımıza vermeliyiz.",
-        "Teşekkür edip almalıyız."
+        "Hemen alıp hepsini yemeliyiz.",
+        "Kabul etmeyip ailemize söylemeliyiz.",
+        "Arkadaşımıza verip paylaşmalıyız.",
+        "Teşekkür edip hediyeyi almalıyız."
       ],
       "correctAnswer": 1
     },
@@ -1704,9 +1704,9 @@
       "question": "Okul bahçesinde koşarken önümüzdeki arkadaşımıza çarpmamak için ne yapmalıyız?",
       "options": [
         "Dikkatli olmalı ve hızımızı ayarlamalıyız.",
-        "Arkadaşımızı itmeliyiz.",
-        "Daha hızlı koşmalıyız.",
-        "Gözlerimizi kapatmalıyız."
+        "Arkadaşımızı iterek geçmeliyiz.",
+        "Daha da hızlı koşup geçmeliyiz.",
+        "Gözlerimizi kapatıp koşmalıyız."
       ],
       "correctAnswer": 0
     },
@@ -1729,10 +1729,10 @@
       "theme": "Tema Eki",
       "question": "Aşağıdakilerden hangisi planlı bir öğrencinin yapacağı davranıştır?",
       "options": [
-        "Ders çalışma, oyun ve uyku saatlerini planlamak",
-        "Sadece televizyon izlemek",
+        "Ders, oyun ve uyku saatlerini planlamak",
+        "Bütün gün televizyon izlemek",
         "Tüm gün bilgisayar oyunu oynamak",
-        "Hiç ders çalışmamak"
+        "Hiç ders çalışmadan yatmak"
       ],
       "correctAnswer": 0
     },
@@ -1807,10 +1807,10 @@
       "theme": "Tema Eki",
       "question": "Kaldırımı olmayan yollarda yolun hangi tarafından yürünmelidir?",
       "options": [
-        "Araçlarla aynı yönde",
+        "Araçlarla aynı yönde, sağ taraftan",
         "Gelen araçları görecek şekilde sol taraftan",
-        "Yolun tam ortasından",
-        "Sağ taraftan"
+        "Yolun tam ortasından yürünmelidir",
+        "Kaldırım olmadığı için yürünmez"
       ],
       "correctAnswer": 1
     },
@@ -1874,7 +1874,7 @@
       "options": [
         "Sıranın üzerine çıkıp bağırmak",
         "Pencereleri açıp aşağı bakmak",
-        "Sakin olup öğretmen eşliğinde tahliye planına uymak",
+        "Sakin olup tahliye planına uymak",
         "Çığlık atarak kapıya koşmak"
       ],
       "correctAnswer": 2
@@ -1913,9 +1913,9 @@
       "question": "Okul kütüphanesinden aldığımız bir kitabı ne zaman iade etmeliyiz?",
       "options": [
         "Belirlenen sürede ve kitaba zarar vermeden",
-        "Hiç iade etmemeliyiz.",
-        "Evde saklamalıyız.",
-        "Kitabı yırtıp atmalıyız."
+        "Hiç iade etmeyip evde tutmalıyız.",
+        "Kitabı evde saklayıp beklemeliyiz.",
+        "Kitabı yırtıp çöpe atmalıyız."
       ],
       "correctAnswer": 0
     },
@@ -1990,10 +1990,10 @@
       "theme": "Tema Eki",
       "question": "Okulda çalışan temizlik görevlilerine nasıl saygı gösterebiliriz?",
       "options": [
-        "Onları görmezden gelerek",
-        "Çevremizi temiz tutarak ve çöpleri yere atmayarak",
+        "Onları görmezden gelip susarak",
+        "Çevremizi temiz tutup çöp atmayarak",
         "Çöpleri bilerek yere atarak",
-        "Odalarını kilitleyerek"
+        "Odalarını kilitleyip kaçarak"
       ],
       "correctAnswer": 1
     },
@@ -2017,9 +2017,9 @@
       "question": "Okul çantamızı hazırlarken hangisini yapmalıyız?",
       "options": [
         "Sadece kalem kutumuzu koymalıyız.",
-        "Ders programına bakıp gerekli defter ve kitapları koymalıyız.",
-        "Çantayı boş götürmeliyiz.",
-        "Tüm oyuncaklarımızı çantaya doldurmalıyız."
+        "Gerekli defter ve kitapları koymalıyız.",
+        "Çantayı boş bırakıp gitmeliyiz.",
+        "Tüm oyuncaklarımızı doldurmalıyız."
       ],
       "correctAnswer": 1
     },
@@ -2147,10 +2147,10 @@
       "theme": "Tema Eki",
       "question": "Yemeklerden sonra ellerimizi sabunlamanın temel faydası nedir?",
       "options": [
-        "Uykumuzu getirmek",
+        "Uykumuzun daha çabuk gelmesi",
         "Mikroplardan korunmak ve temiz kalmak",
-        "Boyumuzu uzatmak",
-        "Daha hızlı koşmak"
+        "Boyumuzun daha hızlı uzaması",
+        "Daha hızlı koşabilir olmamız"
       ],
       "correctAnswer": 1
     },

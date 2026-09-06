@@ -383,10 +383,10 @@
       "theme": "Tema 9",
       "question": "Sözcük nedir?",
       "options": [
-        "Bağımsız olarak kullanılabilen anlamlı dil birimi",
-        "Cümle",
-        "Hece",
-        "Paragraf"
+        "Tek başına anlamı olan dil birimi",
+        "Sözcüklerden oluşan cümle",
+        "Tek soluk çıkan ses parçası",
+        "Cümlelerden oluşan paragraf"
       ],
       "correctAnswer": 0
     },
@@ -396,10 +396,10 @@
       "theme": "Tema 9",
       "question": "Kök nedir?",
       "options": [
-        "Sözcüğün ek alınmamış, bölünemeyen en küçük anlamlı parçası",
-        "Ek",
-        "Cümle",
-        "Hece"
+        "Sözcüğün bölünemeyen anlamlı parçası",
+        "Sözcüğe eklenen küçük parça",
+        "Sözcüklerden kurulan cümle",
+        "Bir soluğa çıkan ses grubu"
       ],
       "correctAnswer": 0
     },
@@ -409,10 +409,10 @@
       "theme": "Tema 9",
       "question": "Yapım eki örneği hangisidir?",
       "options": [
-        "gel + di (zaman eki)",
-        "ev + ler (çoğul eki)",
-        "göz + lük = gözlük (-lük yeni kelime yapıyor)",
-        "okul + da (yer eki)"
+        "gel + di (zaman bildirir)",
+        "ev + ler (çokluk bildirir)",
+        "göz + lük (yeni sözcük yapar)",
+        "okul + da (yer bildirir)"
       ],
       "correctAnswer": 2
     },
@@ -513,10 +513,10 @@
       "theme": "Tema 9",
       "question": "Anlam daralması nedir?",
       "options": [
-        "Anlam kayması",
-        "Anlam bozulması",
-        "Bir sözcüğün zamanla daha dar anlamda kullanılması",
-        "Anlam genişlemesi"
+        "Sözcüğün anlamının kayması",
+        "Sözcüğün anlamının bozulması",
+        "Sözcüğün daha dar anlamda kullanımı",
+        "Sözcüğün geniş anlamda kullanımı"
       ],
       "correctAnswer": 2
     },
@@ -526,10 +526,10 @@
       "theme": "Tema 9",
       "question": "Anlam genişlemesi nedir?",
       "options": [
-        "Anlam bozulması",
-        "Anlam daralması",
-        "Bir sözcüğün zamanla daha geniş anlamda kullanılması",
-        "Anlam kayması"
+        "Sözcüğün anlamının bozulması",
+        "Sözcüğün dar anlamda kullanımı",
+        "Sözcüğün daha geniş anlamda kullanımı",
+        "Sözcüğün anlamının kayması"
       ],
       "correctAnswer": 2
     },
@@ -539,10 +539,10 @@
       "theme": "Tema 9",
       "question": "Mecaz anlam nedir?",
       "options": [
-        "Yan anlam",
-        "Sözlük anlamı",
-        "Temel anlam",
-        "Bir sözcüğün gerçek anlamının dışında kullanılması"
+        "Sözcüğün ikinci yan anlamı",
+        "Sözlükteki ilk karşılığı",
+        "Akla ilk gelen temel anlamı",
+        "Gerçek anlamının dışında kullanım"
       ],
       "correctAnswer": 3
     },
@@ -591,12 +591,12 @@
       "theme": "Tema 9",
       "question": "Atasözü ile deyim arasındaki fark nedir?",
       "options": [
-        "İkisi aynıdır",
-        "Deyim daha eskidir",
-        "Atasözü daha kısadır",
-        "Atasözü yargı bildirir, deyim yargı bildirmez"
+        "İkisi tamamen aynı şeydir",
+        "Deyimler atasözünden eskidir",
+        "Atasözü yargı bildirir, deyim değil",
+        "Atasözleri daha kısa olur"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qf800669",
@@ -604,10 +604,10 @@
       "theme": "Tema 9",
       "question": "Terim nedir?",
       "options": [
-        "Deyim",
-        "Atasözü",
-        "Bir bilim ya da meslek alanına özgü sözcük",
-        "Argo"
+        "Kalıplaşmış bir söz öbeği",
+        "Öğüt veren kalıplaşmış söz",
+        "Bilim ya da meslek alanı sözcüğü",
+        "Bir gruba özgü kaba söz"
       ],
       "correctAnswer": 2
     },
@@ -617,10 +617,10 @@
       "theme": "Tema 9",
       "question": "Argo nedir?",
       "options": [
-        "Atasözü",
-        "Terim",
-        "Belirli bir topluluk tarafından kullanılan özel sözvarlığı",
-        "Deyim"
+        "Öğüt veren kalıplaşmış söz",
+        "Bilim alanına özgü sözcük",
+        "Belirli bir topluluğun özel sözleri",
+        "Kalıplaşmış bir söz öbeği"
       ],
       "correctAnswer": 2
     },
@@ -643,10 +643,10 @@
       "theme": "Tema 9",
       "question": "Yansıma sözcük nedir?",
       "options": [
-        "Sıfat",
-        "Zarf",
-        "Bir sesi taklit eden sözcük: vızıldamak, gümbüldamak",
-        "İsim"
+        "Varlıkları niteleyen sözcük",
+        "Eylemi niteleyen sözcük",
+        "Sesi taklit eden sözcük: vızıldamak",
+        "Varlıklara verilen ad"
       ],
       "correctAnswer": 2
     },
@@ -656,10 +656,10 @@
       "theme": "Tema 9",
       "question": "İkileme nedir?",
       "options": [
-        "Aynı ya da yakın anlamlı sözcüklerin tekrarı: yavaş yavaş",
-        "Terim",
-        "Deyim",
-        "Atasözü"
+        "Sözcük tekrarı: yavaş yavaş",
+        "Bilim alanına özgü sözcük",
+        "Kalıplaşmış söz öbeği",
+        "Öğüt veren kalıp söz"
       ],
       "correctAnswer": 0
     },
@@ -669,12 +669,12 @@
       "theme": "Tema 9",
       "question": "Bağlaç 'ama' nerede kullanılır?",
       "options": [
-        "Ek bilgi için",
-        "Neden bildirmek için",
-        "Sıralama için",
-        "Zıt düşünceleri bağlamak için: 'Geldi ama gitmedi.'"
+        "Araya ek bilgi katmak için",
+        "Bir sebep bildirmek için",
+        "Zıt düşünceleri bağlamak için",
+        "Sırayla saymak için"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qf800675",
@@ -682,12 +682,12 @@
       "theme": "Tema 9",
       "question": "'Hem...hem de' bağlacı ne anlatır?",
       "options": [
-        "Koşul",
-        "Zıtlık",
-        "Sıralama",
-        "Toplama, birlikte olma: 'Hem çalıştı hem de oynadı.'"
+        "Bir koşul bildirir",
+        "Zıtlık ve karşıtlık bildirir",
+        "Toplama, birlikte olma bildirir",
+        "Yalnızca sıralama bildirir"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe600834",
@@ -695,10 +695,10 @@
       "theme": "Tema 9",
       "question": "İsim ne demektir?",
       "options": [
-        "Eylemlerin adı",
-        "Varlıkların, kavramların, niteliklerin adı",
-        "Zarfların adı",
-        "Sıfatların adı"
+        "Yalnızca eylemlerin adı",
+        "Varlıkların ve kavramların adı",
+        "Yalnızca zarfların adı",
+        "Yalnızca sıfatların adı"
       ],
       "correctAnswer": 1
     },
@@ -708,10 +708,10 @@
       "theme": "Tema 9",
       "question": "Eylem (fiil) nedir?",
       "options": [
-        "Niteleme sözcüğü",
-        "Yön bildiren sözcük",
-        "Kılış, oluş ya da durum bildiren sözcük",
-        "Varlıkların adı"
+        "Varlıkları niteleyip belirtir",
+        "Yalnızca yön bildirir",
+        "Kılış, oluş ya da durum bildirir",
+        "Varlıklara verilen addır"
       ],
       "correctAnswer": 2
     },
@@ -721,10 +721,10 @@
       "theme": "Tema 9",
       "question": "Sıfat nedir?",
       "options": [
-        "Eylemleri niteleyen",
-        "İsimlerin kendisi",
-        "İsimleri niteleyen ya da belirten sözcük",
-        "Zamirler"
+        "Eylemleri niteleyen sözcük",
+        "İsimlerin kendisi olan sözcük",
+        "İsimleri niteleyen sözcük",
+        "İsmin yerini tutan sözcük"
       ],
       "correctAnswer": 2
     },
@@ -735,9 +735,9 @@
       "question": "Zarf nedir?",
       "options": [
         "İsimleri niteleyen sözcük",
-        "Eylemleri, sıfatları ya da zarfları niteleyen sözcük",
-        "Bağlaç",
-        "Eylem eki"
+        "Eylemi ve sıfatı niteleyen sözcük",
+        "Cümleleri bağlayan sözcük",
+        "Eyleme eklenen zaman eki"
       ],
       "correctAnswer": 1
     },
@@ -760,10 +760,10 @@
       "theme": "Tema 9",
       "question": "Bağlaç nedir?",
       "options": [
-        "Sözcük ve cümleleri birbirine bağlayan sözcük",
-        "Eylem",
-        "İsim",
-        "Sıfat"
+        "Sözcük ve cümleleri bağlayan söz",
+        "İş ve oluş bildiren sözcük",
+        "Varlıklara verilen addır",
+        "İsimleri niteleyen sözcük"
       ],
       "correctAnswer": 0
     },
@@ -773,10 +773,10 @@
       "theme": "Tema 9",
       "question": "Edat nedir?",
       "options": [
-        "Zarf",
-        "Bağlaç",
-        "İsimlerle anlam ilişkisi kuran sözcük",
-        "Zamir"
+        "Eylemi niteleyip belirtir",
+        "Cümleleri birbirine bağlar",
+        "İsimlerle anlam ilişkisi kurar",
+        "İsmin yerine kullanılır"
       ],
       "correctAnswer": 2
     },
@@ -825,10 +825,10 @@
       "theme": "Tema 9",
       "question": "Özel isim nedir?",
       "options": [
-        "Eylem adı",
-        "Genel varlık adı",
-        "Niteleme sözcüğü",
-        "Belirli bir varlığa verilen ad (Ayşe, Ankara)"
+        "Eylemlere verilen genel ad",
+        "Aynı türden varlıkların adı",
+        "Varlığı niteleyen sözcük",
+        "Tek bir varlığa verilen ad: Ankara"
       ],
       "correctAnswer": 3
     },
@@ -838,10 +838,10 @@
       "theme": "Tema 9",
       "question": "Cins (tür) isim nedir?",
       "options": [
-        "Belirli bir varlığın adı",
-        "Eylem adı",
-        "Soyut kavram",
-        "Aynı türden tüm varlıkları kapsayan ad (çocuk, dağ)"
+        "Tek bir varlığa verilen ad",
+        "Eylemlere verilen genel ad",
+        "Elle tutulmayan kavram adı",
+        "Aynı türden varlıkların adı: dağ"
       ],
       "correctAnswer": 3
     },
@@ -864,10 +864,10 @@
       "theme": "Tema 9",
       "question": "İyelik eki nedir?",
       "options": [
-        "Zaman eki",
-        "Soru eki",
-        "Çoğul eki",
-        "Bir şeyin kime ait olduğunu gösteren ek"
+        "Eylemin zamanını gösteren ek",
+        "Cümleye soru anlamı katan ek",
+        "Birden çok olduğunu gösteren ek",
+        "Bir şeyin kime ait olduğunu gösterir"
       ],
       "correctAnswer": 3
     },

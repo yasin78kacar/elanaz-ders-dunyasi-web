@@ -409,10 +409,10 @@
       "theme": "Tema 7",
       "question": "Okuma akıcılığı neden önemlidir?",
       "options": [
-        "Yalnızca hız için",
-        "Dikkat dağılması için",
-        "Yazım kuralları için",
-        "Anlamayı kolaylaştırır ve okuma hızını artırır"
+        "Yalnızca hız kazandırmak için",
+        "Dikkatin dağılması için",
+        "Yazım kurallarını öğretir",
+        "Anlamayı ve hızı birlikte artırır"
       ],
       "correctAnswer": 3
     },
@@ -422,10 +422,10 @@
       "theme": "Tema 7",
       "question": "Sesli okuma ne zaman tercih edilir?",
       "options": [
-        "Yalnızca şiir okurken",
-        "Her zaman sessiz okunur",
-        "Yalnızca test çözerken",
-        "Anlamayı paylaşmak, başkalarına okumak için"
+        "Yalnızca şiir okunurken",
+        "Her metin sessiz okunmalıdır",
+        "Yalnızca test çözülürken",
+        "Başkalarına okuyup paylaşırken"
       ],
       "correctAnswer": 3
     },
@@ -433,12 +433,12 @@
       "id": "qe600861",
       "subject": "Türkçe",
       "theme": "Tema 7",
-      "question": "Sesiz okuma neden etkilidir?",
+      "question": "Sessiz okuma neden etkilidir?",
       "options": [
         "Yalnızca hızlı okumak için",
-        "Konsantrasyonu artırır ve bağımsız anlama sağlar",
+        "Dikkati toplar, anlamayı artırır",
         "Daha az anlamayı sağlar",
-        "Dikkat dağıtır"
+        "Dikkati dağıtıp zorlaştırır"
       ],
       "correctAnswer": 1
     },
@@ -448,10 +448,10 @@
       "theme": "Tema 7",
       "question": "Bir metni özetlemek ne demektir?",
       "options": [
-        "Metni aynen kopyalamak",
-        "Metni uzatmak",
-        "Yeni fikirler eklemek",
-        "Ana fikirleri kısa ve kendi cümlelerimizle anlatmak"
+        "Metni olduğu gibi kopyalamak",
+        "Metni daha da uzatmak",
+        "Metne yeni fikirler eklemek",
+        "Ana fikri kısaca kendi sözlerimizle"
       ],
       "correctAnswer": 3
     },
@@ -461,10 +461,10 @@
       "theme": "Tema 7",
       "question": "Metinde geçen bilinmeyen bir kelime için ne yapılmalıdır?",
       "options": [
-        "Kelime atlanmalıdır",
-        "Kelime değiştirilmelidir",
-        "Cümle okunmamalıdır",
-        "Cümle içindeki anlam ipuçlarından yararlanılmalı ya da sözlüğe bakılmalıdır"
+        "Kelime atlanıp geçilmelidir",
+        "Kelime başkasıyla değiştirilir",
+        "Cümle hiç okunmamalıdır",
+        "Bağlama bakmak ya da sözlük açmak"
       ],
       "correctAnswer": 3
     },
@@ -475,9 +475,9 @@
       "question": "Yazarın amacı nedir?",
       "options": [
         "Sadece kendisi için yazmak",
-        "Para kazanmak",
-        "Okuyucuya bilgi vermek, eğlendirmek ya da ikna etmek",
-        "Kitap doldurmak"
+        "Yalnızca para kazanmak istemek",
+        "Bilgi vermek, eğlendirmek, ikna etmek",
+        "Kitabın sayfasını doldurmak"
       ],
       "correctAnswer": 2
     },
@@ -500,10 +500,10 @@
       "theme": "Tema 7",
       "question": "Metin içindeki neden-sonuç ilişkisi nedir?",
       "options": [
-        "Olayların yeri",
-        "Olayların zamanı",
-        "Bir olayın başka bir olaya yol açması",
-        "Olayların sırası"
+        "Olayların geçtiği yerin bilgisi",
+        "Olayların geçtiği zaman dilimi",
+        "Bir olayın başka olaya yol açması",
+        "Olayların anlatılma sırası"
       ],
       "correctAnswer": 2
     },
@@ -513,10 +513,10 @@
       "theme": "Tema 7",
       "question": "Bir metnin başlığı ne işe yarar?",
       "options": [
-        "Sonucu verir",
+        "Metnin sonucunu önceden verir",
         "Kelime sayısını gösterir",
-        "Konuyu özetler ve okuyucuyu metnin konusuna hazırlar",
-        "Yazarı tanıtır"
+        "Konuyu özetler, okuru hazırlar",
+        "Yazarın kim olduğunu tanıtır"
       ],
       "correctAnswer": 2
     },
@@ -526,10 +526,10 @@
       "theme": "Tema 7",
       "question": "Paragraftaki konu cümlesi nerede bulunur?",
       "options": [
-        "Her zaman ortada",
-        "Sadece son paragrafta",
-        "Genellikle paragrafın başında ya da sonunda",
-        "Hiçbir zaman başta"
+        "Her zaman paragrafın ortasında",
+        "Sadece son paragrafta olur",
+        "Paragrafın başında ya da sonunda",
+        "Hiçbir zaman başta olmaz"
       ],
       "correctAnswer": 2
     },
@@ -539,10 +539,10 @@
       "theme": "Tema 7",
       "question": "Anlatıcı bakış açısı nedir?",
       "options": [
-        "Hikâyenin yeri",
-        "Hikâyenin zamanı",
-        "Hikâyenin konusu",
-        "Olayların kim tarafından anlatıldığına dair perspektif"
+        "Hikâyenin geçtiği yer",
+        "Hikâyenin geçtiği zaman",
+        "Hikâyenin konusu ve teması",
+        "Olayları kimin anlattığı"
       ],
       "correctAnswer": 3
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 7",
       "question": "Bir metinde 'neden-sonuç' ilişkisi nedir?",
       "options": [
-        "Olayların zamanı",
-        "Kişi sayısı",
-        "Bir olayın başka bir olaya yol açması",
-        "Olayların yeri"
+        "Olayların kaç kişiyle geçtiği",
+        "Olayların geçtiği mekân bilgisi",
+        "Bir olayın başka olaya yol açması",
+        "Olayların anlatım biçimi"
       ],
       "correctAnswer": 2
     },
@@ -591,10 +591,10 @@
       "theme": "Tema 7",
       "question": "Metin türü nasıl belirlenir?",
       "options": [
-        "Yazarına bakılır",
-        "Amacı, yapısı ve dil özelliklerine bakılır",
-        "Uzunluğuna bakılır",
-        "Tarihine bakılır"
+        "Yazarının kim olduğuna bakılır",
+        "Amaç, yapı ve dil özelliklerine",
+        "Metnin uzunluğuna bakılır",
+        "Yazıldığı tarihe bakılır"
       ],
       "correctAnswer": 1
     },
@@ -604,10 +604,10 @@
       "theme": "Tema 7",
       "question": "Okuma hızını artırmak için ne yapılmalıdır?",
       "options": [
-        "Düzenli okuma alışkanlığı ve kelime haznesi geliştirme",
-        "Kelimeleri atlamak",
-        "Hızlı geçmek",
-        "Yalnızca başlık okumak"
+        "Düzenli okumak, kelime dağarcığı",
+        "Kelimeleri atlayarak geçmek",
+        "Sayfaları hızlıca çevirmek",
+        "Yalnızca başlıkları okumak"
       ],
       "correctAnswer": 0
     },
@@ -617,10 +617,10 @@
       "theme": "Tema 7",
       "question": "Metin içinde geçen yeni bir kelimeyi anlamak için ne yapılabilir?",
       "options": [
-        "Cümlenin bağlamından anlam çıkarılır ya da sözlüğe bakılır",
-        "Yalnızca resme bakılır",
-        "Kelime atlanır",
-        "Metin bırakılır"
+        "Bağlamdan anlamak ya da sözlük",
+        "Yalnızca resimlere bakılır",
+        "Kelime atlanıp geçilir",
+        "Metin okumak bırakılır"
       ],
       "correctAnswer": 0
     },
@@ -630,10 +630,10 @@
       "theme": "Tema 7",
       "question": "Bir haberin '5N 1K' kuralı nedir?",
       "options": [
-        "5 paragraf 1 başlık",
-        "5 cümle 1 kelime",
-        "Kim, ne, nerede, ne zaman, neden, nasıl sorularına yanıt verme",
-        "5 haber 1 röportaj"
+        "Beş paragraf ve bir başlık",
+        "Beş cümle ve bir kelime",
+        "Kim, ne, nerede, ne zaman, neden",
+        "Beş haber ve bir röportaj"
       ],
       "correctAnswer": 2
     },
@@ -643,10 +643,10 @@
       "theme": "Tema 7",
       "question": "Propaganda metni nedir?",
       "options": [
-        "Ansiklopedi maddesi",
-        "Haber",
-        "Roman",
-        "Belirli bir görüşü kabul ettirmeye çalışan ikna edici metin"
+        "Bilgi veren ansiklopedi maddesi",
+        "Olayı aktaran haber metni",
+        "Hayal ürünü olan roman",
+        "Bir görüşü kabul ettirmeye çalışır"
       ],
       "correctAnswer": 3
     },
@@ -656,10 +656,10 @@
       "theme": "Tema 7",
       "question": "Reklam metninin amacı nedir?",
       "options": [
-        "Tarihi aktarmak",
-        "Bilgi vermek",
-        "Eğlendirmek",
-        "İzleyici ya da okuyucuyu bir ürün/fikre ikna etmek"
+        "Geçmişteki tarihi aktarmak",
+        "Sadece bilgi verip öğretmek",
+        "Sadece okuru eğlendirmek",
+        "Bir ürüne ya da fikre ikna etmek"
       ],
       "correctAnswer": 3
     },
@@ -669,10 +669,10 @@
       "theme": "Tema 7",
       "question": "Anlatı metninin temel özelliği nedir?",
       "options": [
-        "Olayları sıralı ya da nedensel bağlarla aktarma",
-        "İkna etme",
-        "Bilgi verme",
-        "Açıklama yapma"
+        "Olayları sırayla aktarması",
+        "Okuru ikna etmeye çalışması",
+        "Bilgi verip öğretmesi",
+        "Kavramları açıklaması"
       ],
       "correctAnswer": 0
     },
@@ -682,10 +682,10 @@
       "theme": "Tema 7",
       "question": "Bir metni okurken not almanın yararı nedir?",
       "options": [
-        "Hatırlamayı, anlamayı ve özet yapmayı kolaylaştırır",
-        "Kâğıt harcamak",
-        "Vakit kaybı",
-        "Sadece ödev için gerekli"
+        "Hatırlamayı ve anlamayı artırır",
+        "Yalnızca kâğıt harcamaya yarar",
+        "Boşuna vakit kaybettirir",
+        "Sadece ödev için gereklidir"
       ],
       "correctAnswer": 0
     },
@@ -695,10 +695,10 @@
       "theme": "Tema 7",
       "question": "Tahmin yürütme stratejisi nedir?",
       "options": [
-        "Metni sondan okumak",
-        "Sadece resimlere bakmak",
-        "Okumadan önce ya da okuma sırasında içerik hakkında tahmin etmek",
-        "Başlığı okuyup geçmek"
+        "Metni sondan başlayarak okumak",
+        "Sadece resimlere bakıp geçmek",
+        "Okumadan önce içeriği tahmin etmek",
+        "Başlığı okuyup kapatmak"
       ],
       "correctAnswer": 2
     },
@@ -708,12 +708,12 @@
       "theme": "Tema 7",
       "question": "Görsel okuma nedir?",
       "options": [
-        "Yalnızca metin okuma",
-        "Hızlı okuma",
-        "Sesli okuma",
-        "Resim, grafik, şema gibi görselleri anlama ve yorumlama"
+        "Yalnızca metni okuyup anlamak",
+        "Metni çok hızlı okuyup geçmek",
+        "Resim, grafik ve şemayı yorumlamak",
+        "Metni sesli biçimde okumak"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qf800645",
@@ -721,10 +721,10 @@
       "theme": "Tema 7",
       "question": "Metin haritası nedir?",
       "options": [
-        "Coğrafi harita",
-        "Paragraf özeti",
-        "Okunan metnin şema ya da grafik olarak görselleştirilmesi",
-        "Kelime listesi"
+        "Ülkeleri gösteren coğrafi harita",
+        "Paragrafların kısa özeti",
+        "Metni şema olarak görselleştirmek",
+        "Bilinmeyen kelime listesi"
       ],
       "correctAnswer": 2
     },

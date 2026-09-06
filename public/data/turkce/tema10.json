@@ -188,10 +188,10 @@
       "theme": "Tema 10",
       "question": "Anlatım bozukluğu nedir?",
       "options": [
-        "Kısa cümle",
-        "Yanlış anlaşılan ya da çelişkili cümle",
-        "Soru cümlesi",
-        "Uzun cümle"
+        "Çok kısa kurulmuş cümle",
+        "Yanlış anlaşılan çelişkili cümle",
+        "Soru anlamı taşıyan cümle",
+        "Çok uzun kurulmuş cümle"
       ],
       "correctAnswer": 1
     },
@@ -409,10 +409,10 @@
       "theme": "Tema 10",
       "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 1)",
       "options": [
-        "Cümleyi olusturan anlam ve görev tasiyan birimler",
-        "Sadece fiiller",
-        "Sadece sifatlar",
-        "Sadece isimler"
+        "Cümleyi oluşturan görevli birimler",
+        "Yalnızca fiiller ve ekleri",
+        "Yalnızca sıfat türü sözcükler",
+        "Yalnızca isim türü sözcükler"
       ],
       "correctAnswer": 0
     },
@@ -422,12 +422,12 @@
       "theme": "Tema 10",
       "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 2)",
       "options": [
-        "Cümleyi olusturan anlam ve görev tasiyan birimler",
-        "Sadece isimler",
-        "Sadece sifatlar",
-        "Sadece fiiller"
+        "Yalnızca cümledeki isimler",
+        "Cümleyi oluşturan görevli birimler",
+        "Yalnızca cümledeki sıfatlar",
+        "Yalnızca cümledeki fiiller"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qc200665",
@@ -435,10 +435,10 @@
       "theme": "Tema 10",
       "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 3)",
       "options": [
-        "Sadece sifatlar",
-        "Sadece isimler",
-        "Cümleyi olusturan anlam ve görev tasiyan birimler",
-        "Sadece fiiller"
+        "Sadece niteleyen sözcükler",
+        "Sadece varlık adları",
+        "Cümleyi oluşturan görevli birimler",
+        "Sadece eylem sözcükleri"
       ],
       "correctAnswer": 2
     },
@@ -448,10 +448,10 @@
       "theme": "Tema 10",
       "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 4)",
       "options": [
-        "Sadece sifatlar",
-        "Sadece isimler",
-        "Sadece fiiller",
-        "Cümleyi olusturan anlam ve görev tasiyan birimler"
+        "Cümledeki noktalama işaretleri",
+        "Cümledeki tüm hece sayısı",
+        "Cümledeki harflerin sırası",
+        "Cümleyi oluşturan görevli birimler"
       ],
       "correctAnswer": 3
     },
@@ -474,10 +474,10 @@
       "theme": "Tema 10",
       "question": "Birleşik kelime nedir?",
       "options": [
-        "İki ya da daha fazla sözcüğün birleşmesiyle oluşan kelime",
-        "Tek köklü kelime",
-        "Yabancı kelime",
-        "Ekli kelime"
+        "İki sözcüğün birleşmesiyle oluşan",
+        "Tek kökten oluşan kelime",
+        "Yabancı dilden alınan kelime",
+        "Sonuna ek almış olan kelime"
       ],
       "correctAnswer": 0
     },
@@ -500,10 +500,10 @@
       "theme": "Tema 10",
       "question": "Kısaltma (yeni kelime yapma) nedir?",
       "options": [
-        "Yabancı sözcük alma",
-        "Sözcük birleştirme",
-        "Sözcüğe ek ekleme",
-        "Uzun sözcük veya tamlamanın kısa hale getirilmesi: TDK"
+        "Yabancı dilden sözcük almak",
+        "İki sözcüğü birleştirmek",
+        "Sözcüğün sonuna ek eklemek",
+        "Uzun adın kısa hâli: TDK"
       ],
       "correctAnswer": 3
     },
@@ -526,12 +526,12 @@
       "theme": "Tema 10",
       "question": "Dil neden önemlidir?",
       "options": [
-        "Sadece edebiyat için",
-        "Yalnızca konuşmak için",
-        "Yalnızca yazmak için",
-        "Düşünce ve duyguları aktarmanın temel aracıdır"
+        "Yalnızca edebiyat için gerekli",
+        "Düşünce ve duyguları aktarır",
+        "Yalnızca konuşmaya yarar",
+        "Yalnızca yazmaya yarar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qe600895",
@@ -539,10 +539,10 @@
       "theme": "Tema 10",
       "question": "Türkçede hangi ek zaman bildirir?",
       "options": [
-        "-lar (çoğul)",
-        "-dan (ayrılma)",
-        "-yor (şimdiki zaman), -di (geçmiş), -ecek (gelecek)",
-        "-da (yer)"
+        "-lar eki (çokluk bildirir)",
+        "-dan eki (ayrılma bildirir)",
+        "-yor, -di, -ecek ekleri",
+        "-da eki (yer bildirir)"
       ],
       "correctAnswer": 2
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 10",
       "question": "İstek kipi nedir?",
       "options": [
-        "İstek-arzu bildiren eylem kipi (-a/-e)",
-        "Geçmiş zaman",
-        "Koşul kipi",
-        "Emir kipi"
+        "İstek ve arzu bildiren kip",
+        "Geçmiş zaman bildiren kip",
+        "Koşul anlamı bildiren kip",
+        "Emir anlamı bildiren kip"
       ],
       "correctAnswer": 0
     },
@@ -604,10 +604,10 @@
       "theme": "Tema 10",
       "question": "Dinleme becerisi neden önemlidir?",
       "options": [
-        "Gereksizdir",
-        "Yalnızca müzik için",
-        "Bilgi edinme, empati kurma ve iletişim için temeldir",
-        "Yalnızca ders için"
+        "Aslında hiç gerekli değildir",
+        "Yalnızca müzik dinlemek için",
+        "Bilgi edinme ve iletişim için",
+        "Yalnızca derste gerekli olur"
       ],
       "correctAnswer": 2
     },
@@ -617,10 +617,10 @@
       "theme": "Tema 10",
       "question": "Konuşma kuralları nelerdir?",
       "options": [
-        "Bağırmak",
-        "Hep söz almak",
-        "Konuşmayı kesmek",
-        "Sırayla konuşmak, saygılı dil kullanmak, dinleyeni gözetmek"
+        "Yüksek sesle bağırarak konuşmak",
+        "Her zaman sözü kendi almak",
+        "Karşıdakinin sözünü kesmek",
+        "Sırayla ve saygılı konuşmak"
       ],
       "correctAnswer": 3
     },
@@ -630,10 +630,10 @@
       "theme": "Tema 10",
       "question": "Yazılı anlatımda paragraf neden önemlidir?",
       "options": [
-        "Gereksizdir",
-        "Yalnızca süsleme",
-        "Düşünceleri düzenli aktarır ve okunmayı kolaylaştırır",
-        "Harf sınırı için"
+        "Aslında hiç gerekli değildir",
+        "Yalnızca sayfayı süslemek için",
+        "Düşünceyi düzenli aktarmak için",
+        "Harf sınırını tutturmak için"
       ],
       "correctAnswer": 2
     },
@@ -656,10 +656,10 @@
       "theme": "Tema 10",
       "question": "Türk Dil Kurumu (TDK) ne işe yarar?",
       "options": [
-        "Türkçeyi korumak, geliştirmek ve standart kurallar belirlemek",
-        "Yalnızca edebi eserler",
-        "Yalnızca sözlük basmak",
-        "Tarih araştırmak"
+        "Türkçeyi korur, kurallarını belirler",
+        "Yalnızca edebi eser yazdırır",
+        "Yalnızca sözlük basıp satar",
+        "Yalnızca tarih araştırması yapar"
       ],
       "correctAnswer": 0
     },
@@ -721,10 +721,10 @@
       "theme": "Tema 10",
       "question": "'ne...ne de' bağlacı ne anlatır?",
       "options": [
-        "Hem olumsuzluk hem de seçenek dışı bırakma",
-        "Koşul",
-        "Toplama",
-        "Zıtlık"
+        "Olumsuzluk bildirir: ne o ne bu",
+        "Koşul bildirir: gelirsen olur",
+        "Toplama bildirir: hem o hem bu",
+        "Zıtlık bildirir: geldi ama"
       ],
       "correctAnswer": 0
     },
@@ -734,10 +734,10 @@
       "theme": "Tema 10",
       "question": "Pekiştirmeli sıfat nedir?",
       "options": [
-        "Belirtici sıfat",
-        "Sayı sıfatı",
-        "Sıfatın anlamını güçlendiren biçim: 'kapkara', 'simsiyah'",
-        "Normal sıfat"
+        "İsmi belirten sıfat: bu ev",
+        "Sayı belirten sıfat: üç ev",
+        "Anlamı güçlendirir: kapkara",
+        "Niteleme sıfatı: güzel ev"
       ],
       "correctAnswer": 2
     },
@@ -747,12 +747,12 @@
       "theme": "Tema 10",
       "question": "Sayı sıfatı nedir?",
       "options": [
-        "Belirtme sıfatı",
-        "Niteleme sıfatı",
-        "Zamir",
-        "İsmin sayısını belirten sıfat: 'üç elma', 'beş kalem'"
+        "İsmi göstererek belirtir",
+        "İsmin niteliğini bildirir",
+        "Sayı belirtir: üç elma",
+        "İsmin yerini tutan sözcük"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qf800689",
@@ -760,10 +760,10 @@
       "theme": "Tema 10",
       "question": "İşaret sıfatı nedir?",
       "options": [
-        "İsimleri göstererek belirten sıfat: 'bu kitap, şu çiçek'",
-        "Sayı sıfatı",
-        "Niteleme sıfatı",
-        "Zamir"
+        "Göstererek belirtir: bu kitap",
+        "Sayı belirtir: üç kitap",
+        "Niteliği bildirir: eski kitap",
+        "İsmin yerini tutan sözcük"
       ],
       "correctAnswer": 0
     },
@@ -773,12 +773,12 @@
       "theme": "Tema 10",
       "question": "Belirsizlik sıfatı nedir?",
       "options": [
-        "İsimleri belirsiz miktarda belirten: 'bazı, birkaç, hiçbir'",
-        "Sayı sıfatı",
-        "Niteleme sıfatı",
-        "İşaret sıfatı"
+        "Kesin sayı: üç, beş, on",
+        "Nitelik: güzel, eski, yeni",
+        "Belirsiz miktar: bazı, birkaç",
+        "Gösterme: bu, şu, o"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ]
 }

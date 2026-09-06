@@ -58,8 +58,8 @@
       "theme": "Tema 6",
       "question": "19 Mayıs ne günüdür?",
       "options": [
-        "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-        "Çocuk Bayramı",
+        "Gençlik ve Spor Bayramı",
+        "Ulusal Egemenlik Bayramı",
         "Zafer Bayramı",
         "Cumhuriyet Bayramı"
       ],
@@ -227,10 +227,10 @@
       "theme": "Tema 6",
       "question": "Atatürk'ün önemi nedir?",
       "options": [
-        "Bir sporcudur",
-        "Türkiye Cumhuriyeti'nin kurucusu ve milli kahramanımız",
-        "Bir bilim insanıdır",
-        "Bir sanatçıdır"
+        "Ünlü bir sporcumuzdur",
+        "Cumhuriyetimizin kurucusudur",
+        "Ünlü bir bilim insanıdır",
+        "Ünlü bir sanatçımızdır"
       ],
       "correctAnswer": 1
     },
@@ -240,10 +240,10 @@
       "theme": "Tema 6",
       "question": "Cumhuriyet ne demektir?",
       "options": [
-        "Halkın kendi kendini yönettiği devlet sistemi",
-        "Krallık",
-        "Diktatörlük",
-        "İmparatorluk"
+        "Halkın kendini yönettiği düzen",
+        "Tek kişinin yönettiği düzen",
+        "Kralın yönettiği düzen",
+        "Padişahın yönettiği düzen"
       ],
       "correctAnswer": 0
     },
@@ -253,10 +253,10 @@
       "theme": "Tema 6",
       "question": "23 Nisan neden çocuklara armağan edilmiştir?",
       "options": [
-        "Oyun için",
-        "Para verildiği için",
-        "Atatürk çocukların geleceğin teminatı olduğuna inandığı için",
-        "Tatil için"
+        "Çocuklar oyun oynasın diye",
+        "Çocuklara para verilsin diye",
+        "Çocuklara güvendiği ve inandığı için",
+        "Okullar tatil olsun diye"
       ],
       "correctAnswer": 2
     },
@@ -266,10 +266,10 @@
       "theme": "Tema 6",
       "question": "Türk bayrağı ne anlama gelir?",
       "options": [
-        "Vatanı ve milletin bağımsızlığını simgeler",
-        "Sadece güzel",
-        "Hiçbir anlamı yok",
-        "Sadece renk"
+        "Vatanın bağımsızlığını simgeler",
+        "Yalnızca güzel göründüğü için",
+        "Hiçbir anlamı bulunmuyor",
+        "Yalnızca bir renk seçimidir"
       ],
       "correctAnswer": 0
     },
@@ -279,10 +279,10 @@
       "theme": "Tema 6",
       "question": "Milli marşımız ne zaman okunur?",
       "options": [
-        "Sadece sabahları",
-        "Her yemekte",
-        "Resmi törenlerde ve milli bayramlarda",
-        "Sadece geceleri"
+        "Yalnızca sabah saatlerinde",
+        "Her yemek öncesinde",
+        "Resmi tören ve bayramlarda",
+        "Yalnızca gece yatmadan önce"
       ],
       "correctAnswer": 2
     },
@@ -316,7 +316,7 @@
       "id": "qb91237",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
-      "question": "Türkiye Cumhuriyeti hangi yil kuruldu?",
+      "question": "Türkiye Cumhuriyeti hangi yıl kuruldu?",
       "options": [
         "1918",
         "1920",
@@ -329,10 +329,10 @@
       "id": "qb91238",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
-      "question": "Türkiyenin baskenti neresidir?",
+      "question": "Türkiye'nin başkenti neresidir?",
       "options": [
-        "Izmir",
-        "Istanbul",
+        "İzmir",
+        "İstanbul",
         "Ankara",
         "Bursa"
       ],
@@ -342,12 +342,12 @@
       "id": "qb91239",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
-      "question": "29 Ekim ne olarak kutlanir?",
+      "question": "29 Ekim ne olarak kutlanır?",
       "options": [
-        "Cocuk Bayrami",
-        "Zafer Bayrami",
-        "Cumhuriyet Bayrami",
-        "Ulusal Egemenlik Bayrami"
+        "Çocuk Bayramı",
+        "Zafer Bayramı",
+        "Cumhuriyet Bayramı",
+        "Ulusal Egemenlik Bayramı"
       ],
       "correctAnswer": 2
     },
@@ -355,12 +355,12 @@
       "id": "qb91240",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
-      "question": "19 Mayis ne olarak kutlanir?",
+      "question": "19 Mayıs ne olarak kutlanır?",
       "options": [
-        "Ataturku Anma ve Genclik Bayrami",
-        "Zafer Bayrami",
-        "Cocuk Bayrami",
-        "Cumhuriyet Bayrami"
+        "Atatürk'ü Anma ve Gençlik Bayramı",
+        "Zafer Bayramı",
+        "Çocuk Bayramı",
+        "Cumhuriyet Bayramı"
       ],
       "correctAnswer": 0
     },
@@ -368,12 +368,12 @@
       "id": "qb91241",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
-      "question": "30 Agustos ne olarak kutlanir?",
+      "question": "30 Ağustos ne olarak kutlanır?",
       "options": [
-        "Genclik Bayrami",
-        "Zafer Bayrami",
-        "Cocuk Bayrami",
-        "Cumhuriyet Bayrami"
+        "Gençlik Bayramı",
+        "Zafer Bayramı",
+        "Çocuk Bayramı",
+        "Cumhuriyet Bayramı"
       ],
       "correctAnswer": 1
     },
@@ -381,12 +381,12 @@
       "id": "qb91242",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
-      "question": "Turk milli marsi hangisidir?",
+      "question": "Türk millî marşı hangisidir?",
       "options": [
-        "Istiklal Marsi",
-        "Cumhuriyet Marsi",
-        "Vatan Marsi",
-        "Genclik Marsi"
+        "İstiklal Marşı",
+        "Cumhuriyet Marşı",
+        "Vatan Marşı",
+        "Gençlik Marşı"
       ],
       "correctAnswer": 0
     },
@@ -394,7 +394,7 @@
       "id": "qb91245",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
-      "question": "Türkiye kac ile ayrilir?",
+      "question": "Türkiye kaç ile ayrılır?",
       "options": [
         "81 il",
         "50 il",
@@ -407,12 +407,12 @@
       "id": "qb91246",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 6",
-      "question": "Türkiyenin resmi dini var midir?",
+      "question": "Türkiye'nin resmî dini var mıdır?",
       "options": [
-        "Islam",
-        "Hayir, laik bir devlettir",
+        "İslam",
+        "Hayır, laik bir devlettir",
         "Yahudilik",
-        "Hristiyanlik"
+        "Hristiyanlık"
       ],
       "correctAnswer": 1
     },
@@ -423,9 +423,9 @@
       "question": "Cumhuriyet neden önemlidir?",
       "options": [
         "Yalnızca tarihsel bir olaydır",
-        "Halkın yönetime katılmasını ve haklarını güvence altına alır",
-        "Yalnızca bayram için",
-        "Önemsizdir"
+        "Halkın yönetime katılmasını sağlar",
+        "Yalnızca bayram yapmak içindir",
+        "Aslında önemli değildir"
       ],
       "correctAnswer": 1
     },
@@ -448,10 +448,10 @@
       "theme": "Tema 6",
       "question": "Atatürk'ün Türkiye'ye en önemli katkısı nedir?",
       "options": [
-        "Cumhuriyeti kurması, hukuk, eğitim ve kültürde devrimler yapması",
-        "Sadece alfabe değiştirmesi",
-        "Sadece savaş kazanması",
-        "Sadece okul açması"
+        "Cumhuriyeti kurup devrimler yaptı",
+        "Yalnızca alfabeyi değiştirdi",
+        "Yalnızca savaşları kazandı",
+        "Yalnızca okullar açtırdı"
       ],
       "correctAnswer": 0
     },
@@ -461,10 +461,10 @@
       "theme": "Tema 6",
       "question": "Seçimler neden önemlidir?",
       "options": [
-        "Halk, yöneticilerini özgürce seçer, demokratik katılım sağlanır",
-        "Zorunluluk olduğu için",
-        "Önemsizdir",
-        "Yalnızca gösteriş için"
+        "Halk yöneticisini özgürce seçer",
+        "Yalnızca zorunlu olduğu için",
+        "Aslında önemli değildir",
+        "Yalnızca gösteriş olsun diye"
       ],
       "correctAnswer": 0
     },
@@ -474,10 +474,10 @@
       "theme": "Tema 6",
       "question": "İnsan hakları neden evrenseldir?",
       "options": [
-        "Yalnızca yetişkinler için",
-        "Her insanın doğuştan sahip olduğu, hiç kimse tarafından alınamayan haklardır",
-        "Yalnızca bazı ülkeler için",
-        "Tarihsel bir belgedir"
+        "Yalnızca yetişkinleri kapsadığı için",
+        "Her insan doğuştan sahip olduğu için",
+        "Sadece bazı ülkeleri kapsadığı için",
+        "Eski bir tarih belgesi olduğu için"
       ],
       "correctAnswer": 1
     },
@@ -487,9 +487,9 @@
       "theme": "Tema 6",
       "question": "Bir ülkede anayasa neden gereklidir?",
       "options": [
-        "Gereksizdir",
-        "Yalnızca seçimler için",
-        "Devletin temel kurallarını ve bireylerin haklarını güvence altına alır",
+        "Aslında hiç gerekli değildir",
+        "Yalnızca seçimleri düzenler",
+        "Devletin temel kurallarını belirler",
         "Yalnızca hükümeti sınırlar"
       ],
       "correctAnswer": 2
@@ -500,10 +500,10 @@
       "theme": "Tema 6",
       "question": "Birleşmiş Milletler (BM) neden kurulmuştur?",
       "options": [
-        "Dünya barışını, insan haklarını ve uluslararası işbirliğini korumak için",
-        "Yalnızca spor için",
-        "Yalnızca savaş için",
-        "Yalnızca ekonomi için"
+        "Dünya barışını korumak için",
+        "Yalnızca spor yarışmaları için",
+        "Yalnızca savaş çıkarmak için",
+        "Yalnızca ticaret yapmak için"
       ],
       "correctAnswer": 0
     },
@@ -513,10 +513,10 @@
       "theme": "Tema 6",
       "question": "Kültürel çeşitlilik neden zenginliktir?",
       "options": [
-        "Önemsizdir",
-        "Yalnızca tek kültür olmalı",
-        "Farklılık sorun yaratır",
-        "Farklı bakış açıları ve değerler toplumu güçlendirir"
+        "Aslında önemli değildir",
+        "Tek kültür olması daha iyidir",
+        "Farklılıklar sorun yaratır",
+        "Farklı bakışlar toplumu güçlendirir"
       ],
       "correctAnswer": 3
     },
@@ -526,10 +526,10 @@
       "theme": "Tema 6",
       "question": "Türkiye'nin coğrafi konumu neden önemlidir?",
       "options": [
-        "Yalnızca iklim için",
-        "Yalnızca sınır için",
-        "Önemsizdir",
-        "Asya ve Avrupa arasındaki stratejik konumu ticareti ve kültürü etkiler"
+        "Yalnızca iklimi etkilediği için",
+        "Yalnızca sınırları belirlediği için",
+        "Aslında önemli değildir",
+        "Asya ile Avrupa arasında olması"
       ],
       "correctAnswer": 3
     },
@@ -630,10 +630,10 @@
       "theme": "Tema 6: Doğada Hayat",
       "question": "Aşağıdakilerden hangisi doğayı korumaya yönelik olumlu bir davranıştır?",
       "options": [
-        "Çöpleri yere atmak",
-        "Ağaçları kesmek",
-        "Suyu boşa akıtmak",
-        "Fidan dikmek ve yeşil alanları korumak"
+        "Çöpleri yere atıp gitmek",
+        "Ağaçları keserek odun yapmak",
+        "Suyu boşa akıtıp harcamak",
+        "Fidan dikip yeşil alanı korumak"
       ],
       "correctAnswer": 3
     },
@@ -656,10 +656,10 @@
       "theme": "Tema 6: Doğada Hayat",
       "question": "Atık pilleri neden normal çöpe atmamalıyız?",
       "options": [
-        "Pillerin patlamaması için",
-        "Çöplerin kokmaması için",
-        "İçindeki kimyasalların toprağa ve suya karışıp doğayı zehirlememesi için",
-        "Pillerin kaybolmaması için"
+        "Piller patlayıp yanmasın diye",
+        "Çöp kutusu kirlenmesin diye",
+        "Kimyasalları doğaya karışmasın diye",
+        "Piller kaybolup gitmesin diye"
       ],
       "correctAnswer": 2
     },
@@ -669,10 +669,10 @@
       "theme": "Tema 6: Doğada Hayat",
       "question": "Fidan dikmek çevreye nasıl katkı sağlar?",
       "options": [
-        "Rüzgarı durdurur.",
-        "Havanın temizlenmesini ve doğanın yeşillenmesini sağlar.",
+        "Rüzgarı tamamen durdurur.",
+        "Havayı temizler, doğayı yeşillendirir.",
         "Yağmurun yağmasını engeller.",
-        "Toprağın azalmasını sağlar."
+        "Toprağın azalmasına yol açar."
       ],
       "correctAnswer": 1
     },
@@ -721,10 +721,10 @@
       "theme": "Tema 6: Doğada Hayat",
       "question": "Sonbahar mevsiminde havada ve doğada ne gibi değişimler olur?",
       "options": [
-        "Ağaçlar çiçek açar.",
-        "Kar yağar.",
-        "Hava çok sıcak olur.",
-        "Hava serinler, yağmurlar başlar ve yapraklar sararıp dökülür."
+        "Ağaçlar çiçek açıp yeşillenir.",
+        "Her yer karla kaplanır.",
+        "Hava çok sıcak ve kurak olur.",
+        "Hava serinler, yapraklar dökülür."
       ],
       "correctAnswer": 3
     },
@@ -890,10 +890,10 @@
       "theme": "Tema 6: Doğada Hayat",
       "question": "Çevre kirliliği en çok kimlere zarar verir?",
       "options": [
-        "Sadece insanlara",
-        "Doğadaki tüm canlılara (insanlar, bitkiler, hayvanlar)",
-        "Sadece kuşlara",
-        "Hiç kimseye"
+        "Yalnızca insanlara",
+        "Doğadaki tüm canlılara",
+        "Yalnızca kuşlara ve kedilere",
+        "Hiçbir canlıya zarar vermez"
       ],
       "correctAnswer": 1
     },
@@ -903,10 +903,10 @@
       "theme": "Tema 6: Doğada Hayat",
       "question": "Doğayı ve hayvanları korumak neden vatandaşlık görevidir?",
       "options": [
-        "Para kazanmak için",
-        "Sadece ödül almak için",
-        "Zaman geçirmek için",
-        "Dünyanın dengesini korumak ve sağlıklı yaşamak için"
+        "Para kazanmak amacıyla",
+        "Yalnızca ödül almak için",
+        "Vakit geçirmek amacıyla",
+        "Sağlıklı bir dünyada yaşamak için"
       ],
       "correctAnswer": 3
     },
@@ -916,7 +916,7 @@
       "theme": "Tema 6: Doğada Hayat",
       "question": "Su tasarrufu sağlamak için hangisini yapmalıyız?",
       "options": [
-        "Bozuk muslukları tamir ettirmeli ve suyu boşa akıtmamalıyız.",
+        "Bozuk muslukları tamir ettirmeliyiz.",
         "Duşta saatlerce kalmalıyız.",
         "Halıları hortumla yıkamalıyız.",
         "Suyu sonuna kadar açmalıyız."
@@ -1046,10 +1046,10 @@
       "theme": "Tema Eki",
       "question": "Fidan dikmenin doğaya en büyük yararı nedir?",
       "options": [
-        "Toprağı azaltır.",
-        "Yağmuru engeller.",
-        "Havamızı temizler ve yeşillik sağlar.",
-        "Rüzgarı durdurur."
+        "Toprağı azaltıp verimsiz yapar.",
+        "Havayı daha da kirletir.",
+        "Havamızı temizler, yeşillik sağlar.",
+        "Suyu tamamen tüketir."
       ],
       "correctAnswer": 2
     },
@@ -1059,10 +1059,10 @@
       "theme": "Tema Eki",
       "question": "Kişisel bakım yaparken su tasarrufu nasıl sağlanır?",
       "options": [
-        "Diş fırçalarken veya sabunlanırken musluğu kapatarak",
-        "Suyu boşa akıtarak",
+        "Fırçalarken musluğu kapatarak",
+        "Suyu boşa akıtıp harcayarak",
         "Çok uzun süre yıkanarak",
-        "Musluğu sonuna kadar açık bırakarak"
+        "Musluğu sonuna kadar açarak"
       ],
       "correctAnswer": 0
     },

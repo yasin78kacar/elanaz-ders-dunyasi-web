@@ -19,10 +19,10 @@
       "theme": "Tema 5",
       "question": "Öğretmen ne iş yapar?",
       "options": [
-        "Araba tamir eder",
-        "Öğrencilere bilgi ve beceri kazandırır",
-        "Yemek pişirir",
-        "Binaları temizler"
+        "Arabaları tamir eder",
+        "Öğrencilere bilgi kazandırır",
+        "Lokantada yemek pişirir",
+        "Binaları temizler ve bakar"
       ],
       "correctAnswer": 1
     },
@@ -45,10 +45,10 @@
       "theme": "Tema 5",
       "question": "İtfaiyeci ne iş yapar?",
       "options": [
-        "Yangınları söndürür ve kurtarma yapar",
-        "Araba satar",
-        "Yemek pişirir",
-        "Ev yapar"
+        "Yangın söndürür, can kurtarır",
+        "Araba satar ve tamir eder",
+        "Lokantada yemek pişirir",
+        "Ev ve bina inşa eder"
       ],
       "correctAnswer": 0
     },
@@ -97,10 +97,10 @@
       "theme": "Tema 5",
       "question": "Avukat ne iş yapar?",
       "options": [
-        "Yemek pişirir",
-        "İlaç satar",
-        "Araba tamir eder",
-        "Hukuki davalarda müvekkilleri savunur"
+        "Lokantada yemek pişirir",
+        "Eczanede ilaç satar",
+        "Arabaları tamir eder",
+        "Davalarda insanları savunur"
       ],
       "correctAnswer": 3
     },
@@ -149,10 +149,10 @@
       "theme": "Tema 5",
       "question": "Hemşire ne iş yapar?",
       "options": [
-        "Bina yapar",
-        "Hasta bakımı yapar, doktora yardım eder",
-        "Araba tamir eder",
-        "Yemek pişirir"
+        "Bina ve köprü inşa eder",
+        "Hasta bakar, doktora yardım eder",
+        "Okulda ders anlatır, not verir",
+        "Lokantada yemek pişirir"
       ],
       "correctAnswer": 1
     },
@@ -292,10 +292,10 @@
       "theme": "Tema 5",
       "question": "Gönüllü çalışma nedir?",
       "options": [
-        "Hobileri geliştirmek",
-        "Ücret almadan topluma katkıda bulunmak",
-        "Zorunlu çalışma",
-        "Paralı iş"
+        "Hobilerini geliştirme işi",
+        "Ücret almadan topluma katkı",
+        "Zorunlu tutulan çalışma",
+        "Yüksek ücretli bir iş"
       ],
       "correctAnswer": 1
     },
@@ -358,8 +358,8 @@
       "question": "Doktor ile hemşirenin farkı nedir?",
       "options": [
         "Doktor daha az çalışır",
-        "Doktor tanı koyar, hemşire bakım yapar",
-        "İkisi aynı işi yapar",
+        "Doktor tanı koyar, hemşire bakar",
+        "İkisi de aynı işi yapar",
         "Hemşire daha önemlidir"
       ],
       "correctAnswer": 1
@@ -407,12 +407,12 @@
       "id": "qb91228",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 5",
-      "question": "Gönüllü calisma nedir?",
+      "question": "Gönüllü çalışma nedir?",
       "options": [
-        "Ücret almadan topluma katkida bulunmak",
-        "Zorunlu calisma",
-        "Parali is",
-        "Hobi gelistirmek"
+        "Karşılık beklemeden yardım etmek",
+        "Zorunlu tutulan bir görev",
+        "Yüksek ücretli bir meslek",
+        "Hobi edinmek için yapılan iş"
       ],
       "correctAnswer": 0
     },
@@ -459,12 +459,12 @@
       "id": "qb91233",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 5",
-      "question": "Doktor ile hemsire arasindaki fark nedir?",
+      "question": "Doktor ile hemşire arasındaki fark nedir?",
       "options": [
-        "Doktor tani koyar, hemsire bakim yapar",
-        "Ikisi ayni isi yapar",
-        "Doktor daha az calisir",
-        "Hemsire daha onemlidir"
+        "Doktor tedavi eder, hemşire bakar",
+        "İkisi de aynı işi yapar",
+        "Doktor daha az çalışır",
+        "Hemşire daha önemlidir"
       ],
       "correctAnswer": 0
     },
@@ -487,10 +487,10 @@
       "theme": "Tema 5",
       "question": "Toplumun işlemesi için neden farklı meslekler gereklidir?",
       "options": [
-        "Bir meslek yeterlidir",
+        "Tek bir meslek yeterlidir",
         "Herkes aynı işi yapmalıdır",
-        "Her meslek toplumun farklı bir ihtiyacını karşılar",
-        "Meslekler önemsizdir"
+        "Her meslek farklı ihtiyacı karşılar",
+        "Meslekler aslında önemsizdir"
       ],
       "correctAnswer": 2
     },
@@ -513,10 +513,10 @@
       "theme": "Tema 5",
       "question": "Hemşire ve doktor birbirinden nasıl farklıdır?",
       "options": [
-        "Aynı işi yaparlar",
-        "Doktor tanı koyar ve tedavi planlar, hemşire bakım uygular",
-        "Doktor daha az çalışır",
-        "Hemşire daha önemlidir"
+        "İkisi tamamen aynı işi yapar",
+        "Doktor tanı koyar, hemşire uygular",
+        "Doktor çok daha az çalışır",
+        "Hemşirenin işi daha önemlidir"
       ],
       "correctAnswer": 1
     },
@@ -527,9 +527,9 @@
       "question": "Mühendisler topluma nasıl katkı sağlar?",
       "options": [
         "Yalnızca fabrikada çalışırlar",
-        "Katkı sağlamazlar",
-        "Sadece hesap yaparlar",
-        "Köprü, bina, teknoloji ve altyapı tasarlarlar"
+        "Topluma katkı sağlamazlar",
+        "Yalnızca hesap yaparlar",
+        "Köprü, bina ve teknoloji tasarlar"
       ],
       "correctAnswer": 3
     },
@@ -540,9 +540,9 @@
       "question": "Öğretmenlerin topluma katkısı nedir?",
       "options": [
         "Yalnızca para için çalışırlar",
-        "Sadece ders anlatırlar",
-        "Yeni nesle bilgi, beceri ve değer kazandırırlar",
-        "Katkı önemsizdir"
+        "Sadece ders anlatıp giderler",
+        "Yeni nesle bilgi ve değer katar",
+        "Katkıları aslında önemsizdir"
       ],
       "correctAnswer": 2
     },
@@ -552,10 +552,10 @@
       "theme": "Tema 5",
       "question": "Gönüllü çalışma nedir ve neden önemlidir?",
       "options": [
-        "Ücret almaksızın topluma faydalı olmak; dayanışma ve sorumluluk geliştirir",
-        "İlgisiz bir etkinlik",
-        "Zorunlu bir görev",
-        "Para kazanmak için"
+        "Ücretsiz yardım, dayanışma kazandırır",
+        "İlgisiz, gereksiz bir etkinlik",
+        "Zorunlu tutulan bir görev",
+        "Para kazanmak için yapılan iş"
       ],
       "correctAnswer": 0
     },
@@ -566,9 +566,9 @@
       "question": "Bir çocuk ileride hangi mesleği seçerken neyi düşünmelidir?",
       "options": [
         "Yalnızca ailesinin isteğini",
-        "Yalnızca prestiji",
-        "Yalnızca maaşı",
-        "İlgi alanları, yetenekleri ve topluma katkı"
+        "Yalnızca mesleğin prestijini",
+        "Yalnızca kazanacağı maaşı",
+        "İlgisini, yeteneğini ve katkısını"
       ],
       "correctAnswer": 3
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 5",
       "question": "Atıkları geri dönüştürmek hangi meslek grubuyla ilgilidir?",
       "options": [
-        "Çevre mühendisleri ve atık yönetim uzmanları",
-        "Yalnızca öğretmenler",
-        "Yalnızca çiftçiler",
-        "Yalnızca doktorlar"
+        "Çevre mühendisleri ve uzmanları",
+        "Yalnızca sınıf öğretmenleri",
+        "Yalnızca tarlada çiftçiler",
+        "Yalnızca hastane doktorları"
       ],
       "correctAnswer": 0
     },
@@ -591,10 +591,10 @@
       "theme": "Tema 5",
       "question": "Bir sanatçı topluma nasıl katkı sağlar?",
       "options": [
-        "Fayda sağlamaz",
-        "Sadece para kazanır",
-        "Kültürel değerler üretir, estetik duyguyu geliştirir",
-        "Yalnızca eğlence sunar"
+        "Topluma fayda sağlamaz",
+        "Sadece para kazanmayı sağlar",
+        "Kültürel değer ve estetik üretir",
+        "Yalnızca eğlence için çalışır"
       ],
       "correctAnswer": 2
     },
@@ -604,10 +604,10 @@
       "theme": "Tema 5",
       "question": "Kooperatif nedir?",
       "options": [
-        "Şirket",
-        "Dernek",
-        "Okul",
-        "Ortak çıkarlar için bir araya gelen kişilerin kurduğu ekonomik birlik"
+        "Kâr amaçlı özel bir şirket",
+        "Yardım amaçlı bir dernek",
+        "Eğitim veren bir okul",
+        "Ortak çıkar için kurulan birlik"
       ],
       "correctAnswer": 3
     },
@@ -617,9 +617,9 @@
       "theme": "Tema 5: Ülkemizde Hayat",
       "question": "Milli marşımız olan İstiklal Marşı okunurken nasıl durmalıyız?",
       "options": [
-        "Telefonla oynayarak",
-        "Yatarak",
-        "Hazırolda, saygıyla dinleyerek ve eşlik ederek",
+        "Telefonla oynayıp gülerek",
+        "Sıraya oturup yatarak",
+        "Hazırolda, saygıyla dinleyerek",
         "Arkadaşımızla konuşarak"
       ],
       "correctAnswer": 2
@@ -721,7 +721,7 @@
       "theme": "Tema 5: Ülkemizde Hayat",
       "question": "Her yıl 19 Mayıs günü kutladığımız bayramın adı nedir?",
       "options": [
-        "Çocuk Bayramı",
+        "Ulusal Egemenlik ve Çocuk Bayramı",
         "Zafer Bayramı",
         "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
         "Cumhuriyet Bayramı"
@@ -799,9 +799,9 @@
       "theme": "Tema 5: Ülkemizde Hayat",
       "question": "Dini bayramlarda genellikle ne yapılır?",
       "options": [
-        "Büyükler ziyaret edilir, bayramlaşılır ve harçlık/şeker dağıtılır.",
-        "Sadece okula gidilir.",
-        "Erken yatılır.",
+        "Büyükler ziyaret edilip bayramlaşılır.",
+        "Kimseyle görüşülmez, evde kalınır.",
+        "Bütün gün okula gidilir.",
         "Sadece televizyon izlenir."
       ],
       "correctAnswer": 0
@@ -1007,10 +1007,10 @@
       "theme": "Tema Eki",
       "question": "19 Mayıs günü hangi milli bayramı kutlarız?",
       "options": [
-        "Çocuk Bayramı",
-        "Zafer Bayramı",
+        "Cumhuriyet Bayramı ve Fener Alayı",
+        "Demokrasi ve Millî Birlik Günü",
         "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-        "Cumhuriyet Bayramı"
+        "Zafer Bayramı"
       ],
       "correctAnswer": 2
     },

@@ -6,10 +6,10 @@
       "theme": "Tema 8",
       "question": "Ana fikir nedir?",
       "options": [
-        "Yazarın okuyucuya vermek istediği temel mesaj",
-        "En uzun cümle",
-        "Son cümle",
-        "İlk cümle"
+        "Yazarın vermek istediği mesaj",
+        "Metnin en uzun cümlesi",
+        "Paragrafın son cümlesi",
+        "Paragrafın ilk cümlesi"
       ],
       "correctAnswer": 0
     },
@@ -290,12 +290,12 @@
       "id": "qb90932",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Ozet yapmak ne demektir?",
+      "question": "Özet yapmak ne demektir?",
       "options": [
-        "Kelime eklemek",
-        "Metni kisaltarak ana fikri ifade etmek",
-        "Fikir eklemek",
-        "Metni uzatmak"
+        "Metne yeni kelime eklemek",
+        "Metni kısaltıp ana fikri vermek",
+        "Metne yeni fikir eklemek",
+        "Metni daha da uzatmak"
       ],
       "correctAnswer": 1
     },
@@ -305,10 +305,10 @@
       "theme": "Tema 8",
       "question": "Metin analizi yaparken ne sorulur?",
       "options": [
-        "Kim, ne, nerede, ne zaman, neden, nasil",
-        "Sadece nerede",
-        "Sadece kim",
-        "Sadece ne"
+        "Kim, ne, nerede, ne zaman soruları",
+        "Yalnızca nerede ve kim soruları",
+        "Yalnızca kim sorusu",
+        "Yalnızca ne sorusu"
       ],
       "correctAnswer": 0
     },
@@ -329,12 +329,12 @@
       "id": "qb90935",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Not almanin amaci nedir?",
+      "question": "Not almanın amacı nedir?",
       "options": [
-        "Hatirlamaya ve anlamaya yardimci olmak",
-        "Zorunluluk",
-        "Kursun harcamak",
-        "Sadece yazi pratigi"
+        "Hatırlamaya ve anlamaya yardım",
+        "Zorunlu olduğu için yapılır",
+        "Kurşun kalem harcamak için",
+        "Sadece yazı pratiği yapmak"
       ],
       "correctAnswer": 0
     },
@@ -342,12 +342,12 @@
       "id": "qb90936",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Cikarsama ne demektir?",
+      "question": "Çıkarsama ne demektir?",
       "options": [
-        "Metinde yazmayanin ima edileni bulmak",
-        "Paragraf bolmek",
-        "Metni okumak",
-        "Kelime saymak"
+        "Yazmayanı ima edilenden bulmak",
+        "Paragrafı ikiye bölmek",
+        "Metni sesli okuyup geçmek",
+        "Metindeki kelimeleri saymak"
       ],
       "correctAnswer": 0
     },
@@ -396,10 +396,10 @@
       "theme": "Tema 8",
       "question": "Büyük ünlü uyumu nedir?",
       "options": [
-        "Ek uyumu",
-        "Kalın sesli - kalın sesli, ince sesli - ince sesli uyumu",
-        "Sessizlerin uyumu",
-        "Cümle uyumu"
+        "Eklerin birbirine uyumu",
+        "Kalın ünlüyle kalın, inceyle ince",
+        "Ünsüzlerin birbiriyle uyumu",
+        "Cümlelerin birbirine uyumu"
       ],
       "correctAnswer": 1
     },
@@ -449,7 +449,7 @@
       "question": "Hangi kelimede büyük ünlü uyumu yoktur?",
       "options": [
         "Gül",
-        "Kitap (Kural: kalın-ince uyumsuzluğu)",
+        "Kitap",
         "Okul",
         "Köprü"
       ],
@@ -539,10 +539,10 @@
       "theme": "Tema 8",
       "question": "Türkçede fiil kökleri nasıl bilinir?",
       "options": [
-        "Emir kipindeki halidir: 'gel', 'git', 'gör'",
-        "Mastar hali",
-        "Sözlükteki hali",
-        "-mak ekli hali"
+        "Emir kipindeki hâli: gel, git",
+        "Mastar hâli: gelmek, gitmek",
+        "Sözlükteki yazılı hâli",
+        "-mak eki almış olan hâli"
       ],
       "correctAnswer": 0
     },
@@ -552,10 +552,10 @@
       "theme": "Tema 8",
       "question": "'-di'li geçmiş zaman kipi ne bildirir?",
       "options": [
-        "Şimdiki",
-        "Konuşmacının tanık olduğu, kesin geçmiş olayları",
-        "Belirsiz geçmiş",
-        "Gelecek"
+        "Şimdiki zamanı bildirir",
+        "Tanık olunan kesin geçmişi",
+        "Duyuma dayalı belirsiz geçmişi",
+        "Gelecek zamanı bildirir"
       ],
       "correctAnswer": 1
     },
@@ -565,12 +565,12 @@
       "theme": "Tema 8",
       "question": "'-miş'li geçmiş zaman kipi ne bildirir?",
       "options": [
-        "Kesin geçmiş",
-        "Şimdiki",
-        "Gelecek",
-        "Konuşmacının bizzat görmediği, duyuma dayalı geçmiş"
+        "Tanık olunan kesin geçmişi",
+        "Şimdiki zamanı bildirir",
+        "Görülmeyen, duyulan geçmişi",
+        "Gelecek zamanı bildirir"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qf800653",
@@ -630,10 +630,10 @@
       "theme": "Tema 8",
       "question": "Soru eki 'mi' fiille birleşince ne olur?",
       "options": [
-        "Olumsuz yapar",
-        "Çoğul yapar",
-        "Fiili soru kimine çevirir: 'Geldi mi?'",
-        "Zaman değiştirir"
+        "Fiili olumsuz hâle getirir",
+        "Fiili çoğul hâle getirir",
+        "Fiili soru kipine çevirir",
+        "Fiilin zamanını değiştirir"
       ],
       "correctAnswer": 2
     },

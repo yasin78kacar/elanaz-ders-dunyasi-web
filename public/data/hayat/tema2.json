@@ -175,9 +175,9 @@
       "theme": "Tema 2",
       "question": "Okulda neden grup çalışması yapılır?",
       "options": [
-        "Sadece eğlence için",
-        "Zorunlu olduğu için",
-        "Öğretmen istediği için",
+        "Yalnızca eğlenmek olduğu için",
+        "Zorunlu tutulduğu için yapılır",
+        "Öğretmen istediği için yapılır",
         "Birbirinden öğrenme ve işbirliği için"
       ],
       "correctAnswer": 3
@@ -186,12 +186,12 @@
       "id": "qb91183",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 2",
-      "question": "Arkadasin uzgunse ne yaparsın?",
+      "question": "Arkadaşın üzgünse ne yaparsın?",
       "options": [
-        "Kacarim",
-        "Yaninda olur, dinler ve destek veririm",
-        "Gülerim",
-        "Görmezden gelirim"
+        "Hemen yanından kaçıp uzaklaşırım",
+        "Yanında olur, dinler ve destek veririm",
+        "Gülerim ve durumla alay ederim",
+        "Görmezden gelip oyuna dönerim"
       ],
       "correctAnswer": 1
     },
@@ -238,12 +238,12 @@
       "id": "qb91192",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 2",
-      "question": "\"Gulumseyerek selamla...\" hangi durumda dogru davranis?",
+      "question": "Sınıfa yeni gelen bir arkadaşla nasıl tanışırız?",
       "options": [
-        "Görmezden gelme",
-        "Gülerek bakma",
-        "Kovma",
-        "Sinifta yeni bir arkadasla nasil tanisilir"
+        "Görmezden gelip yerimize otururuz",
+        "Uzaktan gülüp arkadaşlara bakarız",
+        "Sınıftan çıkmasını söyleriz",
+        "Gülümseyerek selam verip adımızı söyleriz"
       ],
       "correctAnswer": 3
     },
@@ -253,10 +253,10 @@
       "theme": "Tema 2",
       "question": "Empati nedir? (Tema 2)",
       "options": [
-        "Sempatik olmak",
-        "Kendi duyguları",
-        "Baskasinin duygularini anlamaya calisma",
-        "Disiplin"
+        "Birine acıyıp üzülmek anlamına gelir",
+        "Kendi duygularını anlatmaya çalışmak",
+        "Başkasının duygularını anlamaya çalışma",
+        "Kurallara uymayı sağlayan davranış"
       ],
       "correctAnswer": 2
     },
@@ -266,10 +266,10 @@
       "theme": "Tema 2",
       "question": "Sorumluluk nedir? (Tema 2)",
       "options": [
-        "Imtiyaz",
-        "Özgürlük",
-        "Hak",
-        "Yapilmasi gerekenlerle hesap verebilme"
+        "Herkese tanınan yasal yetki demek",
+        "İstediğini özgürce seçebilme hâli",
+        "Başkalarından ayrıcalık görme hâli",
+        "Üstlendiği işi yapıp hesap verebilme"
       ],
       "correctAnswer": 3
     },
@@ -277,12 +277,12 @@
       "id": "qc200803",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 2",
-      "question": "Dayanisma nedir? (Tema 2)",
+      "question": "Dayanışma nedir? (Tema 2)",
       "options": [
-        "Bireycilik",
+        "Yalnızca kendini düşünerek yaşama",
         "Birlikte hareket edip birbirini destekleme",
-        "Rekabet",
-        "Yalnizlik"
+        "Başkasını geçmek için çabalama",
+        "Kimseye yaklaşmadan tek yaşama"
       ],
       "correctAnswer": 1
     },
@@ -303,12 +303,12 @@
       "id": "qc200805",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 2",
-      "question": "Dogruluk neden önemlidir? (Tema 2)",
+      "question": "Doğruluk neden önemlidir? (Tema 2)",
       "options": [
-        "Para kazandirir",
-        "Güveni tesis eder ve toplumu güçlendirir",
-        "Zorunluluk",
-        "Faydasiz"
+        "Kısa yolda para kazandırdığı için",
+        "Güven oluşturur ve toplumu güçlendirir",
+        "Zorunlu olduğu için yapılır",
+        "Aslında hiçbir işe yaramaz"
       ],
       "correctAnswer": 1
     },
@@ -331,10 +331,10 @@
       "theme": "Tema 2",
       "question": "Kültür nedir? (Tema 2)",
       "options": [
-        "Sadece edebiyat",
-        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
-        "Sadece sanat",
-        "Sadece müzik"
+        "Yalnızca kitap ve şiir demektir",
+        "Toplumun yaşam biçimi ve gelenekleri",
+        "Yalnızca resim ve heykel demektir",
+        "Yalnızca şarkı ve türkü demektir"
       ],
       "correctAnswer": 1
     },
@@ -355,12 +355,12 @@
       "id": "qc200809",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 2",
-      "question": "Vatandaslik neden önemlidir? (Tema 2)",
+      "question": "Vatandaşlık neden önemlidir? (Tema 2)",
       "options": [
-        "Sadece oy icin",
-        "Topluma katilim ve sorumluluklar icin",
-        "Zorunluluk",
-        "Sadece hak icin"
+        "Yalnızca oy kullanabilmek içindir",
+        "Topluma katılım ve sorumluluklar için",
+        "Zorunlu olduğu için gereklidir",
+        "Yalnızca hak isteyebilmek içindir"
       ],
       "correctAnswer": 1
     },
@@ -370,9 +370,9 @@
       "theme": "Tema 2",
       "question": "Sınıf kurallarına neden uymalıyız?",
       "options": [
-        "Yalnızca ceza almamak için",
-        "Öğretmen istediği için",
-        "Zorunluluk olduğu için",
+        "Yalnızca ceza almamak için gerekir",
+        "Öğretmen istediği için gerekir",
+        "Zorunluluk olduğu için gerekir",
         "Düzenli ve verimli bir öğrenme ortamı için"
       ],
       "correctAnswer": 3
@@ -383,10 +383,10 @@
       "theme": "Tema 2",
       "question": "Okul arkadaşınız zorbalığa uğruyorsa ne yapmalısınız?",
       "options": [
-        "Görmezden gelmeliyiz",
-        "Seyretmeliyiz",
-        "Gülmeliyiz",
-        "Öğretmene ya da güvendiğiniz bir yetişkine söylemelisiniz"
+        "Görmezden gelip uzaklaşıp beklemek",
+        "Kenarda durup olanları seyretmek",
+        "Gülüp geçerek oyununa dönmek",
+        "Öğretmene ya da bir yetişkine söylemek"
       ],
       "correctAnswer": 3
     },
@@ -396,10 +396,10 @@
       "theme": "Tema 2",
       "question": "Sınıfta bir arkadaşınız yanlış bir cevap verirse ne yapmalısınız?",
       "options": [
-        "Saygılı davranıp doğru cevabı düşündürmeye çalışmalısınız",
-        "Gülerek alay etmeliyiz",
-        "Umursamamalıyız",
-        "Bağırarak yanlış diyebiliriz"
+        "Saygılı davranıp doğru cevabı düşündürmek",
+        "Gülerek alay edip yanlış demek",
+        "Hiç umursamayıp sessiz kalmak",
+        "Bağırarak yanlış olduğunu söylemek"
       ],
       "correctAnswer": 0
     },
@@ -409,10 +409,10 @@
       "theme": "Tema 2",
       "question": "Okul malzemelerinize neden iyi bakmalısınız?",
       "options": [
-        "Kaynakları verimli kullanmak ve saygı göstermek için",
-        "Gerek yok",
-        "Gösteriş için",
-        "Sadece fiyatlandığı için"
+        "Kaynakları verimli ve saygılı kullanmak için",
+        "Yalnızca gösteriş yapabilmek için",
+        "Pahalı oldukları düşünüldüğü için",
+        "Aslında iyi bakmaya gerek yoktur"
       ],
       "correctAnswer": 0
     },
@@ -422,9 +422,9 @@
       "theme": "Tema 2",
       "question": "Teneffüste oynanan oyunlarda kurallara neden uyulmalıdır?",
       "options": [
-        "Yalnızca kazanmak için",
-        "Öğretmen izlediği için",
-        "Kurallar önemsizdir",
+        "Yalnızca kazanmayı sağladığı için",
+        "Öğretmen izlediği için gereklidir",
+        "Oyunda kurallar hiç önemli değildir",
         "Adil ve güvenli bir oyun ortamı sağlar"
       ],
       "correctAnswer": 3
@@ -435,9 +435,9 @@
       "theme": "Tema 2",
       "question": "Başka bir çocuk yalnız kalıyorsa ne yapmalısınız?",
       "options": [
-        "Görmezden gelmeliyiz",
-        "Kaçmalıyız",
-        "Onunla alay etmeliyiz",
+        "Görmezden gelip oyuna dönmelisiniz",
+        "Yanından kaçıp uzaklaşmalısınız",
+        "Onunla alay edip gülmelisiniz",
         "Ona katılıp arkadaşlık teklif etmelisiniz"
       ],
       "correctAnswer": 3
@@ -448,10 +448,10 @@
       "theme": "Tema 2",
       "question": "Okula düzenli ve zamanında gitmenin önemi nedir?",
       "options": [
-        "Yalnızca not için",
-        "Öğretmen istediği için",
-        "Öğrenmeyi aksatmaz, sorumluluk bilincini geliştirir",
-        "Önemsizdir"
+        "Yalnızca iyi not almak içindir",
+        "Öğretmen istediği için önemlidir",
+        "Öğrenmeyi aksatmaz, sorumluluk kazandırır",
+        "Aslında hiçbir önemi bulunmaz"
       ],
       "correctAnswer": 2
     },
@@ -474,9 +474,9 @@
       "theme": "Tema 2",
       "question": "Okul kütüphanesinden kitap alırken ne yapmalısınız?",
       "options": [
-        "Yalnızca öğretmen alabilir",
-        "İade etmeyebilirsiniz",
-        "İzinsiz alabilirsiniz",
+        "Kitapları yalnızca öğretmen alabilir",
+        "İade etmeden yanınızda tutabilirsiniz",
+        "İzin almadan alıp götürebilirsiniz",
         "Kayıt yaptırıp zamanında iade etmelisiniz"
       ],
       "correctAnswer": 3
@@ -487,10 +487,10 @@
       "theme": "Tema 2",
       "question": "Sınıfta bir arkadaşınız ağlıyorsa ne yapmalısınız?",
       "options": [
-        "Diğerlerine anlatmalıyız",
-        "Görmezden gelmeliyiz",
-        "Yaklaşıp ne olduğunu sorabilir, destek olabilirsiniz",
-        "Gülerek geçmeliyiz"
+        "Herkese anlatıp dedikodu yapmak",
+        "Görmezden gelip oyuna dönmek",
+        "Yaklaşıp ne olduğunu sorup destek olmak",
+        "Gülerek yanından geçip gitmek"
       ],
       "correctAnswer": 2
     },
@@ -526,10 +526,10 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Aşağıdakilerden hangisi evde üstlenmemiz gereken sorumluluklardan biridir?",
       "options": [
-        "Faturaları ödemek",
-        "Yemek pişirmek",
-        "Odamızı toplamak ve oyuncaklarımızı düzenlemek",
-        "Evi boyamak"
+        "Evin faturalarını ödemek işi",
+        "Ocakta yemek pişirmek işi",
+        "Odamızı toplayıp oyuncakları düzenlemek",
+        "Duvarları boyayıp badana yapmak"
       ],
       "correctAnswer": 2
     },
@@ -565,10 +565,10 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Aşağıdakilerden hangisi evde yapabileceğimiz planlı yaşam davranışıdır?",
       "options": [
-        "Ders çalışma, oyun ve uyku saatlerimizi belirleyip buna uymak",
-        "Sadece televizyon izlemek",
-        "Sürekli uyumak",
-        "Hiç ders çalışmamak"
+        "Ders, oyun ve uyku saatlerine uymak",
+        "Bütün gün televizyon izlemek",
+        "Sürekli uyuyup hiç kalkmamak",
+        "Hiç ders çalışmadan oyun oynamak"
       ],
       "correctAnswer": 0
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Aşağıdakilerden hangisi ailemizin bütçesini korumak için yapabileceğimiz bir davranıştır?",
       "options": [
-        "İsteklerimizden önce temel ihtiyaçlarımızı belirleyip ona göre alışveriş yapmak",
+        "Önce temel ihtiyaçları belirleyip almak",
         "Gereksiz yere ışıkları açık bırakmak",
         "Sürekli yeni oyuncaklar istemek",
-        "Suyu boşa harcamak"
+        "Suyu boşa akıtıp harcamak"
       ],
       "correctAnswer": 0
     },
@@ -721,10 +721,10 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Aile içi yardımlaşma aile bağlarını nasıl etkiler?",
       "options": [
-        "Etkilemez.",
-        "Zayıflatır.",
-        "Sevgi ve saygıyı artırır, bağları güçlendirir.",
-        "Kavgaya yol açar."
+        "Aile bağlarını hiç etkilemez.",
+        "Bağları zayıflatıp uzaklaştırır.",
+        "Sevgi ve saygıyı artırır, bağı güçlendirir.",
+        "Sürekli kavgaya yol açar."
       ],
       "correctAnswer": 2
     },
@@ -747,9 +747,9 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Evimizin adresini ve anne babamızın telefon numarasını bilmek neden önemlidir?",
       "options": [
-        "Oyun oynamak için",
-        "Acil bir durumda veya kaybolduğumuzda yardım alabilmek için",
-        "Sadece derslerde başarılı olmak için",
+        "Oyun oynarken kullanmak için",
+        "Acil durumda yardım alabilmek için",
+        "Derslerde başarılı olmak için",
         "Arkadaşımıza hava atmak için"
       ],
       "correctAnswer": 1
@@ -760,10 +760,10 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Evde tek başımıza olduğumuzda kapı çaldığında ne yapmalıyız?",
       "options": [
-        "Tanımadığımız kişilere kapıyı kesinlikle açmamalıyız.",
+        "Tanımadığımız kişilere kapıyı açmamalıyız.",
         "Anahtarı kapının dışına bırakmalıyız.",
         "Kapıyı açıp içeri davet etmeliyiz.",
-        "Hemen kapıyı açmalıyız."
+        "Hemen koşup kapıyı açmalıyız."
       ],
       "correctAnswer": 0
     },
@@ -799,9 +799,9 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Evdeki çöpleri biriktirmeden çöpe atmak ne için önemlidir?",
       "options": [
-        "Evin ısınması için",
-        "Zaman kazanmak için",
-        "Ders çalışmak için",
+        "Evin daha iyi ısınması için",
+        "Daha çok zaman kazanmak için",
+        "Ders çalışmaya vakit bulmak için",
         "Evimizin temiz ve sağlıklı kalması için"
       ],
       "correctAnswer": 3
@@ -877,9 +877,9 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Ailemizle birlikte akşam yemeğinde günümüzün nasıl geçtiğini konuşmak neyi sağlar?",
       "options": [
-        "Uykumuzun gelmesini",
-        "Yemeğin erken bitmesini",
-        "Zaman kaybetmeyi",
+        "Uykumuzun daha çabuk gelmesini",
+        "Herkesin sofradan erken kalkmasını",
+        "Boşa zaman kaybetmemizi",
         "Aile içi iletişimin ve paylaşımın artmasını"
       ],
       "correctAnswer": 3
@@ -903,10 +903,10 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Evcil hayvanımızın bakımında hangisini yapabiliriz?",
       "options": [
-        "Onunla hiç ilgilenmemeyi",
+        "Onunla hiç ilgilenmeden durmayı",
         "Suyunu ve mamasını kontrol edip vermeyi",
-        "Onu sokağa bırakmayı",
-        "Onu korkutmayı"
+        "Onu sokağa bırakıp gitmeyi",
+        "Sesle korkutup kaçırmayı"
       ],
       "correctAnswer": 1
     },
@@ -916,10 +916,10 @@
       "theme": "Tema 2: Evimizde Hayat",
       "question": "Evde odamızı topladıktan sonra ne hissetmeliyiz?",
       "options": [
-        "Sıkılmış",
-        "Çok kızgın ve yorgun",
-        "Düzenli bir ortamda olmanın huzurunu ve mutluluğunu",
-        "Üzgün"
+        "Canımızın sıkıldığını ve bıktığımızı",
+        "Kızgınlık ve büyük bir yorgunluk",
+        "Düzenli bir ortamın huzurunu ve mutluluğunu",
+        "Üzüntü ve pişmanlık duygusunu"
       ],
       "correctAnswer": 2
     },
@@ -930,9 +930,9 @@
       "question": "Aşağıdakilerden hangisi evde aile içi iş bölümüne örnektir?",
       "options": [
         "Tüm işleri sadece annenin yapması",
-        "Herkesin kendi odasını toplaması ve masayı kurmaya yardım etmesi",
+        "Herkesin kendi odasını toplaması",
         "İşlerin hiçbirinin yapılmaması",
-        "İşlerin sadece babaya bırakılması"
+        "Bütün işlerin babaya bırakılması"
       ],
       "correctAnswer": 1
     },
@@ -968,9 +968,9 @@
       "theme": "Tema Eki",
       "question": "Mevsimine uygun beslenmek ne demektir?",
       "options": [
-        "Kışın karpuz yemek",
+        "Kışın karpuz ve kavun yemek",
         "Sürekli dondurulmuş gıda yemek",
-        "Meyve ve sebzeleri kendi mevsiminde taze tüketmek",
+        "Meyve sebzeyi kendi mevsiminde yemek",
         "Sadece patates kızartması yemek"
       ],
       "correctAnswer": 2
@@ -1048,10 +1048,10 @@
       "theme": "Tema Eki",
       "question": "Evde yangın başladığını görürsek ilk yapmamız gereken nedir?",
       "options": [
-        "Dolaba saklanmak",
-        "Oyun oynamaya devam etmek",
-        "Hemen güvenli şekilde dışarı çıkıp büyüklere haber vermek",
-        "Yangını kendimiz söndürmek"
+        "Dolaba saklanıp beklemeyi denemek",
+        "Oyun oynamaya devam edip beklemek",
+        "Hemen dışarı çıkıp büyüklere haber vermek",
+        "Yangını kendimiz söndürmeye çalışmak"
       ],
       "correctAnswer": 2
     },
@@ -1196,9 +1196,9 @@
       "theme": "Tema Eki",
       "question": "Evimize gelen misafirlere karşı uymamız gereken kural hangisidir?",
       "options": [
-        "Görmezden gelmek",
-        "Onlara kızgın davranmak",
-        "Onları güler yüzle karşılamak ve hoş geldiniz demek",
+        "Görmezden gelip odaya gitmek",
+        "Onlara kızgın davranıp susmak",
+        "Güler yüzle karşılayıp hoş geldiniz demek",
         "Odadan çıkmayıp hiç konuşmamak"
       ],
       "correctAnswer": 2
@@ -1249,10 +1249,10 @@
       "theme": "Tema Eki",
       "question": "Evimizin adresini ve anne babamızın telefon numarasını öğrenmek neden gereklidir?",
       "options": [
-        "Acil durumlarda veya kaybolduğumuzda yardım almak için",
-        "Oyun oynamak için",
+        "Kaybolduğumuzda yardım isteyebilmek için",
+        "Oyun oynarken kullanmak için",
         "Arkadaşlara hava atmak için",
-        "Sadece sınavda çıkacağı için"
+        "Sınavda çıkacağı düşünüldüğü için"
       ],
       "correctAnswer": 0
     },
@@ -1367,10 +1367,10 @@
       "theme": "Tema Eki",
       "question": "Evdeki çöpleri biriktirmeden dışarı atmak ne için önemlidir?",
       "options": [
-        "Evin ısınması için",
+        "Evin daha iyi ısınması için gerekir",
         "Evin hijyenik ve kokusuz kalması için",
-        "Ders çalışmak için",
-        "Zaman kazanmak için"
+        "Ders çalışmaya vakit bulmak için",
+        "Daha çok zaman kazanmak için"
       ],
       "correctAnswer": 1
     },
@@ -1393,12 +1393,12 @@
       "theme": "Tema Eki",
       "question": "Ev bütçesini hazırlarken öncelik hangisinde olmalıdır?",
       "options": [
-        "Oyuncak ve tatil planlarında",
-        "Yeni kıyafetlerde",
-        "Eğlence biletlerinde",
-        "Kira, faturalar ve temel gıda malzemelerinde"
+        "Yeni oyuncak ve tatil planlarında",
+        "Yeni kıyafet ve ayakkabılarda",
+        "Kira, fatura ve temel gıda alışverişinde",
+        "Sinema ve eğlence biletlerinde"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "q-b3-hayat-489",

@@ -1033,12 +1033,12 @@
       "theme": "Tema 5",
       "question": "\"Dikdörtgen\"in temel özelliği nedir?",
       "options": [
-        "3 kenar",
-        "Karşılıklı kenarları eşit ve 4 dik açı",
-        "5 kenar",
-        "4 eşit kenar"
+        "3 kenarı ve 3 açısı vardır",
+        "5 kenarı ve 5 açısı vardır",
+        "Karşılıklı kenarlar eşit, 4 dik açı",
+        "Dört kenarı da eşit olmalıdır"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "qe600309",
@@ -1161,12 +1161,12 @@
       "id": "qe600318",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Yamuk\"in temel özelliği nedir?",
+      "question": "\"Yamuk\"un temel özelliği nedir?",
       "options": [
-        "Hiç paralel kenar yok",
-        "3 çift paralel",
-        "Yalnızca 1 çifti paralel kenara sahip dörtgen",
-        "2 çift paralel"
+        "Hiç paralel kenarı bulunmaz",
+        "Üç çift paralel kenarı vardır",
+        "Yalnızca bir çift paralel kenarı var",
+        "İki çift paralel kenarı vardır"
       ],
       "correctAnswer": 2
     },

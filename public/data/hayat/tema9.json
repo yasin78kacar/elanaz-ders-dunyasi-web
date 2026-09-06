@@ -110,10 +110,10 @@
       "theme": "Tema 9",
       "question": "Trafik ışıkları akıllı hale gelebilir mi?",
       "options": [
-        "Hayır",
-        "Sadece büyük şehirlerde",
-        "Zaten mükemmel",
-        "Evet, trafik durumuna göre ayarlanabilir"
+        "Hayır, hiç değiştirilemez",
+        "Sadece büyük şehirlerde olur",
+        "Şimdiki hâli zaten mükemmel",
+        "Evet, trafiğe göre ayarlanabilir"
       ],
       "correctAnswer": 3
     },
@@ -188,10 +188,10 @@
       "theme": "Tema 9",
       "question": "Akıllı telefon bağımlılığı nasıl önlenir?",
       "options": [
-        "Belirli kullanım saati ve etkinlikler",
-        "Daha fazla kullanmak",
-        "Sadece izin almak",
-        "Hiç kullanmamak"
+        "Kullanım saati ve etkinlik koymak",
+        "Her gün daha fazla kullanmak",
+        "Sadece izin alıp kullanmak",
+        "Telefonu hiç kullanmamak"
       ],
       "correctAnswer": 0
     },
@@ -214,10 +214,10 @@
       "theme": "Tema 9",
       "question": "Yapay zeka nedir?",
       "options": [
-        "Bilgisayarların insan gibi düşünmesini sağlayan teknoloji",
-        "Robot oyuncak",
-        "İnsan beyni",
-        "Telefon uygulaması"
+        "İnsan gibi düşünebilen teknoloji",
+        "Uzaktan çalışan robot oyuncak",
+        "İnsan beynindeki sinir ağı",
+        "Telefona kurulan bir uygulama"
       ],
       "correctAnswer": 0
     },
@@ -266,10 +266,10 @@
       "theme": "Tema 9",
       "question": "Uygulama nedir?",
       "options": [
-        "Telefon veya bilgisayarda calisan program",
-        "Telefonun kendisi",
-        "Oyun sadece",
-        "Kamera"
+        "Telefonda çalışan program",
+        "Telefonun kendi gövdesi",
+        "Yalnızca oyun programı",
+        "Fotoğraf çeken kamera"
       ],
       "correctAnswer": 0
     },
@@ -279,10 +279,10 @@
       "theme": "Tema 9",
       "question": "İnternette güvenli olmak için ne yapmalısınız?",
       "options": [
-        "Tanımadığım kişilerle sohbet etmek",
-        "Kişisel bilgilerimi paylaşmamak, güçlü şifre kullanmak, tanımadığım kişilerle görüşmemek",
-        "Her şeyi paylaşmak",
-        "Her linke tıklamak"
+        "Tanımadığı kişilerle sohbet etmek",
+        "Bilgi paylaşmamak, güçlü şifre",
+        "Her şeyi herkesle paylaşmak",
+        "Gelen her linke tıklamak"
       ],
       "correctAnswer": 1
     },
@@ -292,10 +292,10 @@
       "theme": "Tema 9",
       "question": "Siber zorbalık nedir?",
       "options": [
-        "İnternet veya telefon üzerinden birine kasıtlı zarar verme",
-        "Oyun oynamak",
-        "Arkadaşlık etmek",
-        "Yüz yüze zorbalık"
+        "İnternetten kasıtlı zarar verme",
+        "İnternette oyun oynamak",
+        "İnternette arkadaş edinmek",
+        "Yüz yüze yapılan zorbalık"
       ],
       "correctAnswer": 0
     },
@@ -305,10 +305,10 @@
       "theme": "Tema 9",
       "question": "Sosyal medyada başkasının fotoğrafını paylaşmak doğru mudur?",
       "options": [
-        "Hayır, izin alınmadan başkasının fotoğrafı paylaşılamaz",
-        "Hayır ama küçük fotoğraflar olur",
-        "Evet, eğlenceli",
-        "Evet, serbesttir"
+        "Hayır, izin almadan paylaşılamaz",
+        "Hayır ama küçük fotoğraf olur",
+        "Evet, eğlenceli olduğu için",
+        "Evet, tamamen serbesttir"
       ],
       "correctAnswer": 0
     },
@@ -318,10 +318,10 @@
       "theme": "Tema 9",
       "question": "Ekran karşısında geçirilen zamanın çocuklara zararı nelerdir?",
       "options": [
-        "Göz bozukluğu, uyku bozukluğu, dikkat dağınıklığı",
-        "Faydası vardır",
-        "Yalnızca göz bozukluğu",
-        "Zararı yoktur"
+        "Göz, uyku ve dikkat bozukluğu",
+        "Aslında hiçbir zararı yoktur",
+        "Yalnızca gözleri bozar",
+        "Tersine faydası bile vardır"
       ],
       "correctAnswer": 0
     },
@@ -331,10 +331,10 @@
       "theme": "Tema 9",
       "question": "Bilgisayarda virüsten nasıl korunulur?",
       "options": [
-        "Şifre paylaşmak",
-        "Her programı yüklemek",
-        "Güncel antivirüs kullanmak, güvenilmez sitelere girmemek",
-        "Güvenilmez mail açmak"
+        "Şifreleri herkesle paylaşmak",
+        "Gördüğü her programı yüklemek",
+        "Antivirüs ve güvenli site kullanmak",
+        "Bilinmeyen e-postayı açmak"
       ],
       "correctAnswer": 2
     },
@@ -344,10 +344,10 @@
       "theme": "Tema 9",
       "question": "Teknoloji kullanımında bağımlılık nasıl önlenir?",
       "options": [
-        "Belirli süreler koymak, egzersiz ve sosyal aktivite ile",
-        "Daha çok kullanmak",
-        "Tamamen bırakmak",
-        "Görmezden gelmek"
+        "Süre koymak, spor ve arkadaşlık",
+        "Her gün daha çok kullanmak",
+        "Teknolojiyi tamamen bırakmak",
+        "Sorunu görmezden gelmek"
       ],
       "correctAnswer": 0
     },
@@ -357,10 +357,10 @@
       "theme": "Tema 9",
       "question": "Fotoğraf düzenleme uygulamaları neden dikkatli kullanılmalıdır?",
       "options": [
-        "Gerçekçi olmayan görüntüler oluşturabilir ve yanıltabilir",
-        "Çünkü yasaktır",
-        "Çünkü pahalı",
-        "Çünkü zor"
+        "Gerçek olmayan görüntü oluşturur",
+        "Çünkü kullanımı yasaktır",
+        "Çünkü çok pahalı programlar",
+        "Çünkü kullanımı zordur"
       ],
       "correctAnswer": 0
     },
@@ -370,10 +370,10 @@
       "theme": "Tema 9",
       "question": "Dijital okuryazarlık ne demektir?",
       "options": [
-        "Yazı yazmak",
-        "Teknolojiyi bilinçli, güvenli ve etkin kullanabilme becerisi",
-        "Kod yazmak",
-        "Klavye kullanmak"
+        "Bilgisayarda yazı yazabilmek",
+        "Teknolojiyi bilinçli kullanabilme",
+        "Program kodu yazabilmek",
+        "Klavyeyi hızlı kullanmak"
       ],
       "correctAnswer": 1
     },
@@ -383,10 +383,10 @@
       "theme": "Tema 9",
       "question": "Hangi bilgiyi internette paylaşmamalısınız?",
       "options": [
-        "Sevdiğiniz müziği",
-        "Okuduğunuz kitabı",
-        "Favori rengi",
-        "Adres, telefon, okul adı, fotoğraf gibi kişisel bilgileri"
+        "Sevdiğiniz müzik türünü",
+        "Okuduğunuz kitabın adını",
+        "En sevdiğiniz rengi",
+        "Adres, telefon ve okul adını"
       ],
       "correctAnswer": 3
     },

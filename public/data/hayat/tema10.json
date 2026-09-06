@@ -82,12 +82,12 @@
       "id": "q1567",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Türk Dil Kurumu ne yapır?",
+      "question": "Türk Dil Kurumu ne yapar?",
       "options": [
-        "Sağlık hizmetleri",
-        "Hukuk işleri",
-        "Trafik düzenlemesi",
-        "Türkçenin gelişimi ve korunmasından sorumludur"
+        "Sağlık hizmetlerini yürütür",
+        "Hukuk işlerini düzenler",
+        "Trafik düzenini sağlar",
+        "Türkçeyi korur ve geliştirir"
       ],
       "correctAnswer": 3
     },
@@ -97,10 +97,10 @@
       "theme": "Tema 10",
       "question": "Türkiye'nin iklimi nasıldır?",
       "options": [
-        "Sadece tropikal",
-        "Karasal, Akdeniz ve Karadeniz iklimi bir arada",
-        "Sadece çöl",
-        "Sadece arktik"
+        "Her yerinde tropikal iklim vardır",
+        "Karasal, Akdeniz ve Karadeniz bir arada",
+        "Baştan sona çöl iklimi görülür",
+        "Tamamında arktik iklim hâkimdir"
       ],
       "correctAnswer": 1
     },
@@ -266,10 +266,10 @@
       "theme": "Tema 10",
       "question": "Kapadokya'yı özel yapan nedir?",
       "options": [
-        "Plajları",
-        "Nehirleri",
-        "Peri bacaları ve tarihi yeraltı şehirleri",
-        "Ormanları"
+        "Uzun kumsalları ve plajları",
+        "Büyük nehirleri ve gölleri",
+        "Peri bacaları ve yeraltı şehirleri",
+        "Geniş ormanları ve dağları"
       ],
       "correctAnswer": 2
     },
@@ -290,14 +290,14 @@
       "id": "qa51188",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Türkiye ile hangi ülkeler komşudur?",
+      "question": "Türkiye'nin batı komşuları hangileridir?",
       "options": [
-        "Sadece Yunanistan",
-        "Yunanistan, Bulgaristan, Gürcistan, Ermenistan, İran, Irak, Suriye",
-        "Sadece İran",
-        "Sadece Irak"
+        "Yunanistan ve Bulgaristan",
+        "Gürcistan ve Ermenistan",
+        "İran, Irak ve Suriye",
+        "Azerbaycan ve Suriye"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "qa51189",
@@ -305,10 +305,10 @@
       "theme": "Tema 10",
       "question": "Türk mutfağının dünya mutfağına katkısı nedir?",
       "options": [
-        "Köfte, kebap, baklava gibi evrensel yiyecekler",
-        "Sadece ekmek",
-        "Hiçbir katkı",
-        "Sadece çay"
+        "Köfte, kebap ve baklava gibi yemekler",
+        "Yalnızca ekmek ve simit çeşitleri",
+        "Hiçbir katkısı bulunmamıştır",
+        "Yalnızca çay ve kahve içmek"
       ],
       "correctAnswer": 0
     },
@@ -318,10 +318,10 @@
       "theme": "Tema 10",
       "question": "Türkiye'nin iki kıtada olması nasıl bir avantaj sağlar?",
       "options": [
-        "Hiçbir avantaj",
-        "Sadece tarım",
-        "Kültürel zenginlik ve ticaret merkezi olma",
-        "Sadece turizm"
+        "Hiçbir avantaj sağlamamaktadır",
+        "Yalnızca tarımda avantaj sağlar",
+        "Kültürel zenginlik ve ticaret merkezi",
+        "Yalnızca turizmde avantaj sağlar"
       ],
       "correctAnswer": 2
     },
@@ -335,19 +335,6 @@
         "İzmir'de, Ege medeniyeti",
         "Ankara'da, Cumhuriyet dönemi",
         "Bursa'da, ilk Osmanlı sarayı"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa51193",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 10",
-      "question": "Türkiye'de yılın en çok hangi dilden yabancı turist gelir?",
-      "options": [
-        "Rusça konuşan ülkelerden (Rusya, eski Sovyet ülkeleri)",
-        "Çin",
-        "İngiltere",
-        "Amerika"
       ],
       "correctAnswer": 0
     },
@@ -420,10 +407,10 @@
       "id": "qb91284",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Türkiye kac ülkeyle komsutur?",
+      "question": "Türkiye kaç ülkeyle komşudur?",
       "options": [
         "5 ülke",
-        "8 ülke (Yunanistan, Bulgaristan, Gürcistan, Ermenistan, Azerbaycan, Iran, Irak, Suriye)",
+        "8 ülke",
         "3 ülke",
         "10 ülke"
       ],
@@ -446,11 +433,11 @@
       "id": "qb91286",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Türkiyenin en büyük gölü hangisidir?",
+      "question": "Türkiye'nin en büyük gölü hangisidir?",
       "options": [
-        "Egirdir Gölü",
+        "Eğirdir Gölü",
         "Tuz Gölü",
-        "Beysehir Gölü",
+        "Beyşehir Gölü",
         "Van Gölü"
       ],
       "correctAnswer": 3
@@ -461,10 +448,10 @@
       "theme": "Tema 10",
       "question": "Empati nedir? (Tema 10)",
       "options": [
-        "Sempatik olmak",
-        "Kendi duyguları",
-        "Baskasinin duygularini anlamaya calisma",
-        "Disiplin"
+        "Sevimli ve hoş biri olma durumu",
+        "Kendi duygularına odaklanma hâli",
+        "Başkasının duygularını anlamaya çalışma",
+        "Kurallara sıkı sıkıya uyma hâli"
       ],
       "correctAnswer": 2
     },
@@ -474,10 +461,10 @@
       "theme": "Tema 10",
       "question": "Sorumluluk nedir? (Tema 10)",
       "options": [
-        "Özgürlük",
-        "Yapilmasi gerekenlerle hesap verebilme",
-        "Imtiyaz",
-        "Hak"
+        "Serbestçe davranabilme durumu",
+        "Üstlendiği işi yapıp hesap verebilme",
+        "Ayrıcalıklı sayılma durumu",
+        "Yasayla tanınan yetki durumu"
       ],
       "correctAnswer": 1
     },
@@ -485,12 +472,12 @@
       "id": "qc200883",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Dayanisma nedir? (Tema 10)",
+      "question": "Dayanışma nedir? (Tema 10)",
       "options": [
         "Birlikte hareket edip birbirini destekleme",
-        "Bireycilik",
-        "Yalnizlik",
-        "Rekabet"
+        "Yalnızca kendi çıkarını gözetme",
+        "Kimseyle görüşmeden yaşama hâli",
+        "Birbirini geçmeye çalışma hâli"
       ],
       "correctAnswer": 0
     },
@@ -498,11 +485,11 @@
       "id": "qc200884",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Paylasmak neden önemlidir? (Tema 10)",
+      "question": "Paylaşmak neden önemlidir? (Tema 10)",
       "options": [
-        "Para kazandirir",
-        "Faydasiz",
-        "Toplumsal uyum ve mutluluk saglar",
+        "Para kazandırır",
+        "Faydasız",
+        "Toplumsal uyum ve mutluluk sağlar",
         "Zorunluluk"
       ],
       "correctAnswer": 2
@@ -511,12 +498,12 @@
       "id": "qc200885",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Dogruluk neden önemlidir? (Tema 10)",
+      "question": "Doğruluk neden önemlidir? (Tema 10)",
       "options": [
-        "Para kazandirir",
-        "Güveni tesis eder ve toplumu güçlendirir",
-        "Zorunluluk",
-        "Faydasiz"
+        "Kolay para kazanmayı sağladığı için",
+        "Güven oluşturur ve toplumu güçlendirir",
+        "Yasa gereği zorunlu olduğu için",
+        "Hiçbir yararı bulunmadığı için"
       ],
       "correctAnswer": 1
     },
@@ -526,10 +513,10 @@
       "theme": "Tema 10",
       "question": "Centilmenlik nedir? (Tema 10)",
       "options": [
-        "Kazanmak icin her yolu denemek",
-        "Baskalarina zarar verme",
+        "Kazanmak için her yolu denemek",
+        "Başkalarına zarar vermek",
         "Sadece bireysel yarar",
-        "Dürüst, kibar ve adaletli davranis"
+        "Dürüst, kibar ve adaletli davranış"
       ],
       "correctAnswer": 3
     },
@@ -539,10 +526,10 @@
       "theme": "Tema 10",
       "question": "Kültür nedir? (Tema 10)",
       "options": [
-        "Bir toplumun yasam bicimi, degerleri ve gelenekleri",
-        "Sadece müzik",
-        "Sadece sanat",
-        "Sadece edebiyat"
+        "Toplumun yaşam biçimi ve gelenekleri",
+        "Yalnızca müzik ve dans türleri",
+        "Yalnızca resim ve heykeller",
+        "Yalnızca şiir ve romanlar"
       ],
       "correctAnswer": 0
     },
@@ -550,11 +537,11 @@
       "id": "qc200888",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Hosgorü nedir? (Tema 10)",
+      "question": "Hoşgörü nedir? (Tema 10)",
       "options": [
-        "Herkesin ayni olmasi",
-        "Farkli görüslere saygi ve kabul",
-        "Kendi görüsünü dayatma",
+        "Herkesin aynı olması",
+        "Farklı görüşlere saygı ve kabul",
+        "Kendi görüşünü dayatmak",
         "Fark etmeme"
       ],
       "correctAnswer": 1
@@ -563,12 +550,12 @@
       "id": "qc200889",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Vatandaslik neden önemlidir? (Tema 10)",
+      "question": "Vatandaşlık neden önemlidir? (Tema 10)",
       "options": [
-        "Sadece oy icin",
-        "Topluma katilim ve sorumluluklar icin",
-        "Zorunluluk",
-        "Sadece hak icin"
+        "Yalnızca oy vermek amacıyla",
+        "Topluma katılım ve sorumluluklar için",
+        "Yasa zorunlu kıldığı için",
+        "Yalnızca hak aramak amacıyla"
       ],
       "correctAnswer": 1
     },
@@ -578,10 +565,10 @@
       "theme": "Tema 10",
       "question": "Sürdürülebilir yaşam ne demektir?",
       "options": [
-        "Lüks yaşamak",
-        "Daha fazla tüketmek",
-        "Teknoloji kullanmamak",
-        "Doğal kaynakları gelecek nesillere aktarabilecek şekilde yaşamak"
+        "Lüks ve rahat bir yaşam sürmek",
+        "Her şeyden daha fazla tüketmek",
+        "Hiç teknoloji kullanmadan yaşamak",
+        "Kaynakları geleceğe bırakarak yaşamak"
       ],
       "correctAnswer": 3
     },
@@ -591,10 +578,10 @@
       "theme": "Tema 10",
       "question": "Plastik poşet yerine ne kullanılabilir?",
       "options": [
-        "Cam",
-        "Plastik kutu",
-        "Metal kap",
-        "Bez torba, kâğıt çanta ya da doğal malzeme torbası"
+        "Cam kavanoz ve şişeler",
+        "Kalın plastik kutu ve kap",
+        "Metal kap ve tencereler",
+        "Bez torba ya da kâğıt çanta"
       ],
       "correctAnswer": 3
     },
@@ -604,10 +591,10 @@
       "theme": "Tema 10",
       "question": "Geri dönüşüm kutuları neden farklı renklerdedir?",
       "options": [
-        "Farklı malzemeleri (kâğıt, cam, plastik, metal) ayırmak için",
-        "Renk estetiği için",
-        "Sadece mavi kullanalım",
-        "Güzel görünmek için"
+        "Kâğıt, cam, plastiği ayırmak için",
+        "Renk uyumu ve estetik için",
+        "Yalnızca mavi renk yeterlidir",
+        "Daha güzel görünsün diye"
       ],
       "correctAnswer": 0
     },
@@ -617,10 +604,10 @@
       "theme": "Tema 10",
       "question": "Elektriği tasarruflu kullanmak için ne yapılabilir?",
       "options": [
-        "Fark etmez",
-        "Daha çok enerji kullanmak",
+        "Aletleri fişte takılı bırakmak",
+        "Daha çok enerji harcamak",
         "Gece tüm ışıkları açık bırakmak",
-        "Kullanılmayan aletleri kapatmak, enerji tasarruflu ampul kullanmak"
+        "Kullanılmayan aletleri kapatmak"
       ],
       "correctAnswer": 3
     },
@@ -630,10 +617,10 @@
       "theme": "Tema 10",
       "question": "Suyu tasarruflu kullanmak için ne yapılabilir?",
       "options": [
-        "Dişleri fırçalarken musluğu kapatmak, kısa duş almak",
-        "Musluğu açık bırakmak",
-        "Her gün duş almak yerine banyo yapmak",
-        "Bulaşığı uzun süre akıtarak yıkamak"
+        "Musluğu kapatıp kısa duş almak",
+        "Musluğu sürekli açık bırakmak",
+        "Duş yerine küvette banyo yapmak",
+        "Bulaşığı akıtarak uzun yıkamak"
       ],
       "correctAnswer": 0
     },
@@ -643,10 +630,10 @@
       "theme": "Tema 10",
       "question": "Organik tarım ne demektir?",
       "options": [
-        "Yapay gübre kullanımı",
-        "Fabrika üretimi",
-        "Kimyasal gübre ve ilaç kullanmadan doğal yöntemlerle üretim",
-        "Genetik değişim"
+        "Yapay gübreyle yapılan üretim",
+        "Fabrikada makineyle üretim",
+        "Kimyasal ilaç kullanmadan üretim",
+        "Genetiği değiştirilmiş üretim"
       ],
       "correctAnswer": 2
     },
@@ -656,10 +643,10 @@
       "theme": "Tema 10",
       "question": "Kompost nedir ve ne işe yarar?",
       "options": [
-        "Plastik geri dönüşümü",
-        "Organik atıkların gübreye dönüştürülmesi; toprağı zenginleştirir",
-        "Çöp deposu",
-        "Kimyasal ürün"
+        "Plastiklerin geri dönüşümü",
+        "Organik atıkların gübreye dönüşmesi",
+        "Çöplerin toplandığı depo",
+        "Kimyasal bir temizlik ürünü"
       ],
       "correctAnswer": 1
     },
@@ -669,10 +656,10 @@
       "theme": "Tema 10",
       "question": "Biyoçeşitlilik neden korunmalıdır?",
       "options": [
-        "Sadece güzel görünmek için",
-        "Sadece turistler için",
-        "Ekosistemin dengesi bozulmadan insanlığın geleceği güvence altına alınır",
-        "Önemli değildir"
+        "Yalnızca güzel görünsün diye",
+        "Yalnızca turistler gelsin diye",
+        "Ekosistemin dengesi bozulmasın diye",
+        "Aslında korunması gerekmez"
       ],
       "correctAnswer": 2
     },
@@ -682,10 +669,10 @@
       "theme": "Tema 10",
       "question": "Hangi davranış enerji tasarrufuna katkı sağlar?",
       "options": [
-        "Toplu taşıma kullanmak, bisiklet ya da yürüyüşü tercih etmek",
-        "Uzun duş almak",
-        "Işıkları açık bırakmak",
-        "Hergün araba kullanmak"
+        "Toplu taşıma ve bisiklet kullanmak",
+        "Her gün uzun uzun duş almak",
+        "Işıkları açık bırakıp çıkmak",
+        "Kısa yollara araba kullanmak"
       ],
       "correctAnswer": 0
     },
@@ -695,10 +682,10 @@
       "theme": "Tema 10",
       "question": "Doğaya atılan çöplerin sonuçları nelerdir?",
       "options": [
-        "Önemi yoktur",
-        "Doğa temizler",
-        "Toprak ve su kirliliği, hayvan ölümleri ve ekosistem bozulması",
-        "Faydalıdır"
+        "Hiçbir önemi bulunmamaktadır",
+        "Doğa kendi kendini temizler",
+        "Toprak, su kirliliği ve hayvan ölümü",
+        "Doğaya faydalı bir davranıştır"
       ],
       "correctAnswer": 2
     }
