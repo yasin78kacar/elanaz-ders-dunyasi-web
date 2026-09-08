@@ -381,103 +381,103 @@
       "id": "qb90860",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Ocak\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Yılın ilk ayı hangisidir?",
       "options": [
-        "Buyuk harfle",
-        "Hicbiri",
-        "Ikisi de olur",
-        "Kucuk harfle"
+        "şubat",
+        "aralık",
+        "ocak",
+        "mart"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qb90861",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Subat\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "En kısa ay hangisidir?",
       "options": [
-        "Kucuk harfle",
-        "Ikisi de olur",
-        "Hicbiri",
-        "Buyuk harfle"
+        "ocak",
+        "şubat",
+        "mart",
+        "nisan"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qb90862",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Mart\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Mart ayı hangi mevsimdedir?",
       "options": [
-        "Buyuk harfle",
-        "Hicbiri",
-        "Kucuk harfle",
-        "Ikisi de olur"
+        "kış",
+        "ilkbahar",
+        "yaz",
+        "sonbahar"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "qb90863",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Nisan\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Hangi cümlede ay adı doğru yazılmıştır?",
       "options": [
-        "Hicbiri",
-        "Buyuk harfle",
-        "Kucuk harfle",
-        "Ikisi de olur"
+        "Bahar Nisan ayında gelir.",
+        "Bahar nisan ayında gelir.",
+        "Bahar NİSAN ayında gelir.",
+        "Bahar nısan ayında gelir."
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "qb90864",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Mayis\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Boşluğa hangisi gelir? \"Doğum günüm ___ ayında.\"",
       "options": [
-        "Kucuk harfle",
-        "Buyuk harfle",
-        "Ikisi de olur",
-        "Hicbiri"
+        "Mayıs",
+        "mayıs",
+        "MAYIS",
+        "Maiıs"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qb90865",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Haziran\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Okullar genellikle hangi ayda kapanır?",
       "options": [
-        "Ikisi de olur",
-        "Buyuk harfle",
-        "Hicbiri",
-        "Kucuk harfle"
+        "eylül",
+        "haziran",
+        "ocak",
+        "mayıs"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qb90866",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Temmuz\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Temmuz ayı hangi mevsimdedir?",
       "options": [
-        "Hicbiri",
-        "Ikisi de olur",
-        "Buyuk harfle",
-        "Kucuk harfle"
+        "kış",
+        "ilkbahar",
+        "yaz",
+        "sonbahar"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qb90867",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Agustos\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Hangi cümle doğru yazılmıştır?",
       "options": [
-        "Buyuk harfle",
-        "Kucuk harfle",
-        "Hicbiri",
-        "Ikisi de olur"
+        "Bu yıl Ağustos ayı sıcaktı.",
+        "Bu yıl ağustos ayı sıcaktı.",
+        "Bu yıl agustos ayı sıcaktı.",
+        "Bu yıl AĞUSTOS ayı sıcaktı."
       ],
       "correctAnswer": 1
     },
@@ -485,144 +485,144 @@
       "id": "qb90868",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Eylul\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Okullar genellikle hangi ayda açılır?",
       "options": [
-        "Buyuk harfle",
-        "Kucuk harfle",
-        "Hicbiri",
-        "Ikisi de olur"
+        "eylül",
+        "haziran",
+        "ocak",
+        "temmuz"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "qb90869",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Ekim\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Ekim ayı hangi mevsimdedir?",
       "options": [
-        "Kucuk harfle",
-        "Ikisi de olur",
-        "Buyuk harfle",
-        "Hicbiri"
+        "yaz",
+        "kış",
+        "ilkbahar",
+        "sonbahar"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 3
     },
     {
       "id": "qb90870",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Kasim\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Hangisi bir sonbahar ayıdır?",
       "options": [
-        "Kucuk harfle",
-        "Buyuk harfle",
-        "Ikisi de olur",
-        "Hicbiri"
+        "temmuz",
+        "kasım",
+        "ocak",
+        "mayıs"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qb90871",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Aralik\" ay adi buyuk harfle mi kucuk harfle mi yazilir?",
+      "question": "Yılın son ayı hangisidir?",
       "options": [
-        "Ikisi de olur",
-        "Buyuk harfle",
-        "Hicbiri",
-        "Kucuk harfle"
+        "ocak",
+        "kasım",
+        "aralık",
+        "eylül"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qb90872",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Pazartesi\" gun adi buyuk harfle mi basar?",
+      "question": "Haftanın ilk günü hangisidir?",
       "options": [
-        "Evet",
-        "Fark etmez",
-        "Sadece cumle basinda",
-        "Hayir, kucuk harfle"
+        "pazar",
+        "pazartesi",
+        "cuma",
+        "salı"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qb90873",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Sali\" gun adi buyuk harfle mi basar?",
+      "question": "Pazartesiden sonra hangi gün gelir?",
       "options": [
-        "Evet",
-        "Sadece cumle basinda",
-        "Fark etmez",
-        "Hayir, kucuk harfle"
+        "çarşamba",
+        "pazar",
+        "salı",
+        "cuma"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qb90874",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Çarsamba\" gun adi buyuk harfle mi basar?",
+      "question": "Hangi cümlede gün adı doğru yazılmıştır?",
       "options": [
-        "Hayir, kucuk harfle",
-        "Fark etmez",
-        "Evet",
-        "Sadece cumle basinda"
+        "Yarın Çarşamba okula giderim.",
+        "Yarın çarşamba okula giderim.",
+        "Yarın çarsamba okula giderim.",
+        "Yarın ÇARŞAMBA okula giderim."
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qb90875",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Persembe\" gun adi buyuk harfle mi basar?",
+      "question": "Çarşambadan sonra hangi gün gelir?",
       "options": [
-        "Evet",
-        "Fark etmez",
-        "Sadece cumle basinda",
-        "Hayir, kucuk harfle"
+        "cuma",
+        "salı",
+        "perşembe",
+        "pazartesi"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qb90876",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Cuma\" gun adi buyuk harfle mi basar?",
+      "question": "Hangisi bir okul günüdür?",
       "options": [
-        "Sadece cumle basinda",
-        "Hayir, kucuk harfle",
-        "Fark etmez",
-        "Evet"
+        "cumartesi",
+        "pazar",
+        "cuma",
+        "bayram"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "qb90877",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Cumartesi\" gun adi buyuk harfle mi basar?",
+      "question": "Hafta sonu günlerinden biri hangisidir?",
       "options": [
-        "Hayir, kucuk harfle",
-        "Sadece cumle basinda",
-        "Fark etmez",
-        "Evet"
+        "salı",
+        "cumartesi",
+        "çarşamba",
+        "perşembe"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qb90878",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Pazar\" gun adi buyuk harfle mi basar?",
+      "question": "Bir haftada kaç okul günü vardır?",
       "options": [
-        "Fark etmez",
-        "Evet",
-        "Sadece cumle basinda",
-        "Hayir, kucuk harfle"
+        "7",
+        "5",
+        "2",
+        "4"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qe600819",

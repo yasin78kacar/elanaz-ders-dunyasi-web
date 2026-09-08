@@ -264,14 +264,14 @@
       "id": "qb90900",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"mutluluk\" kelimesi hangi tur bir sozcuktur?",
+      "question": "Hangisi soyut isimdir?",
       "options": [
-        "Eylem",
-        "Sifat",
-        "Somut isim",
-        "Soyut isim (duygu sozcugu)"
+        "masa",
+        "elma",
+        "mutluluk",
+        "kalem"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qb90901",
@@ -290,38 +290,38 @@
       "id": "qb90902",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"uzuntu\" kelimesi hangi tur bir sozcuktur?",
+      "question": "Hangisi somut isimdir?",
       "options": [
-        "Soyut isim (duygu sozcugu)",
-        "Eylem",
-        "Somut isim",
-        "Sifat"
+        "üzüntü",
+        "masa",
+        "korku",
+        "sevgi"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qb90904",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"korku\" kelimesi hangi tur bir sozcuktur?",
+      "question": "\"Ece'nin korkusu geçti.\" cümlesinde soyut isim hangisidir?",
       "options": [
-        "Sifat",
-        "Somut isim",
-        "Soyut isim (duygu sozcugu)",
-        "Eylem"
+        "Ece",
+        "korkusu",
+        "geçti",
+        "nokta"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "qb90906",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"saskinlik\" kelimesi hangi tur bir sozcuktur?",
+      "question": "Birden \"Aaa!\" diye bağırdı. Bu duygu adı hangisidir?",
       "options": [
-        "Soyut isim (duygu sozcugu)",
-        "Sifat",
-        "Eylem",
-        "Somut isim"
+        "şaşkınlık",
+        "masa",
+        "koşmak",
+        "kırmızı"
       ],
       "correctAnswer": 0
     },
@@ -342,25 +342,25 @@
       "id": "qb90908",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"kizginlik\" kelimesi hangi tur bir sozcuktur?",
+      "question": "\"defter\" ve \"kızgınlık\" için hangisi doğrudur?",
       "options": [
-        "Eylem",
-        "Sifat",
-        "Somut isim",
-        "Soyut isim (duygu sozcugu)"
+        "İkisi de soyut",
+        "İkisi de somut",
+        "Defter somut, öteki soyut",
+        "Yalnız kızgınlık somut"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qb90912",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"heyecan\" kelimesi hangi tur bir sozcuktur?",
+      "question": "\"heyecan\" ne tür bir sözcüktür?",
       "options": [
-        "Sifat",
-        "Soyut isim (duygu sozcugu)",
-        "Somut isim",
-        "Eylem"
+        "somut isim",
+        "soyut isim",
+        "sıfat",
+        "eylem"
       ],
       "correctAnswer": 1
     },
@@ -368,12 +368,12 @@
       "id": "qb90913",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"utan\" kelimesi hangi duyguyu ifade eder?",
+      "question": "\"utanç\" kelimesi hangi duyguyu ifade eder?",
       "options": [
-        "yaptigimdan pismanlik",
-        "cosku",
-        "gurur",
-        "sevinc"
+        "pişmanlık duygusu",
+        "coşku duygusu",
+        "gurur duygusu",
+        "sevinç duygusu"
       ],
       "correctAnswer": 0
     },
@@ -381,14 +381,14 @@
       "id": "qb90914",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"utan\" kelimesi hangi tur bir sozcuktur?",
+      "question": "Hangisi bir duygunun adıdır?",
       "options": [
-        "Somut isim",
-        "Eylem",
-        "Sifat",
-        "Soyut isim (duygu sozcugu)"
+        "kalem",
+        "utanç",
+        "koşmak",
+        "kırmızı"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qb90915",
@@ -407,14 +407,14 @@
       "id": "qb90916",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"hasret\" kelimesi hangi tur bir sozcuktur?",
+      "question": "\"Ali evine hasret kaldı.\" cümlesinde soyut isim hangisidir?",
       "options": [
-        "Somut isim",
-        "Soyut isim (duygu sozcugu)",
-        "Eylem",
-        "Sifat"
+        "Ali",
+        "evine",
+        "hasret",
+        "kaldı"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "qb90917",
@@ -433,12 +433,12 @@
       "id": "qb90918",
       "subject": "Türkçe",
       "theme": "Tema 6",
-      "question": "\"sevgi\" kelimesi hangi tur bir sozcuktur?",
+      "question": "\"Annemin sevgisi büyüktür.\" cümlesinde soyut isim hangisidir?",
       "options": [
-        "Sifat",
-        "Soyut isim (duygu sozcugu)",
-        "Somut isim",
-        "Eylem"
+        "Annemin",
+        "sevgisi",
+        "büyüktür",
+        "nokta"
       ],
       "correctAnswer": 1
     },
