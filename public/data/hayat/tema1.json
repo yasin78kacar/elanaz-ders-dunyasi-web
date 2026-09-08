@@ -251,10 +251,10 @@
       "id": "qb91127",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Annenin erkek kardesi\" benim icin kim olur?",
+      "question": "\"Annenin erkek kardeşi\" benim için kim olur?",
       "options": [
         "Kuzen",
-        "Dayi",
+        "Dayı",
         "Amca",
         "Eniste"
       ],
@@ -264,10 +264,10 @@
       "id": "qb91128",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Dayi\" sana gore ne demektir?",
+      "question": "\"Dayı\" sana göre ne demektir?",
       "options": [
-        "Annenin erkek kardesi",
-        "Ogretmenim",
+        "Annenin erkek kardeşi",
+        "Öğretmenim",
         "Baban",
         "Annen"
       ],
@@ -277,11 +277,11 @@
       "id": "qb91129",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Babanin erkek kardesi\" benim icin kim olur?",
+      "question": "\"Babanın erkek kardeşi\" benim için kim olur?",
       "options": [
         "Kuzen",
         "Amca",
-        "Dayi",
+        "Dayı",
         "Eniste"
       ],
       "correctAnswer": 1
@@ -290,12 +290,12 @@
       "id": "qb91130",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Amca\" sana gore ne demektir?",
+      "question": "\"Amca\" sana göre ne demektir?",
       "options": [
-        "Babanin erkek kardesi",
+        "Babanın erkek kardeşi",
         "Baban",
         "Annen",
-        "Ogretmenim"
+        "Öğretmenim"
       ],
       "correctAnswer": 0
     },
@@ -303,7 +303,7 @@
       "id": "qb91131",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Annenin kiz kardesi\" benim icin kim olur?",
+      "question": "\"Annenin kız kardeşi\" benim için kim olur?",
       "options": [
         "Kuzen",
         "Yenge",
@@ -316,12 +316,12 @@
       "id": "qb91132",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Teyze\" sana gore ne demektir?",
+      "question": "\"Teyze\" sana göre ne demektir?",
       "options": [
         "Baban",
         "Annen",
-        "Ogretmenim",
-        "Annenin kiz kardesi"
+        "Öğretmenim",
+        "Annenin kız kardeşi"
       ],
       "correctAnswer": 3
     },
@@ -329,7 +329,7 @@
       "id": "qb91133",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Babanin kiz kardesi\" benim icin kim olur?",
+      "question": "\"Babanın kız kardeşi\" benim için kim olur?",
       "options": [
         "Kuzen",
         "Hala",
@@ -342,11 +342,11 @@
       "id": "qb91134",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Hala\" sana gore ne demektir?",
+      "question": "\"Hala\" sana göre ne demektir?",
       "options": [
-        "Babanin kiz kardesi",
+        "Babanın kız kardeşi",
         "Annen",
-        "Ogretmenim",
+        "Öğretmenim",
         "Baban"
       ],
       "correctAnswer": 0
@@ -355,10 +355,10 @@
       "id": "qb91135",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Amca veya dayinin cocugu\" benim icin kim olur?",
+      "question": "\"Amca veya dayının çocuğu\" benim için kim olur?",
       "options": [
-        "Yegen",
-        "Kardes",
+        "Yeğen",
+        "Kardeş",
         "Kuzen",
         "Torun"
       ],
@@ -381,12 +381,12 @@
       "id": "qb91137",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Kardesimin cocugu\" benim icin kim olur?",
+      "question": "\"Kardeşimin çocuğu\" benim için kim olur?",
       "options": [
         "Torunum",
         "Yegenim",
         "Kuzenum",
-        "Kardesim"
+        "Kardeşim"
       ],
       "correctAnswer": 1
     },
@@ -394,12 +394,12 @@
       "id": "qb91138",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Yegenim\" sana gore ne demektir?",
+      "question": "\"Yeğenim\" sana göre ne demektir?",
       "options": [
         "Annen",
         "Baban",
-        "Ogretmenim",
-        "Kardesimin cocugu"
+        "Öğretmenim",
+        "Kardeşimin çocuğu"
       ],
       "correctAnswer": 3
     },
@@ -433,9 +433,9 @@
       "id": "qb91143",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Iki kisinin ayni anda dogan cocuklari\" benim icin kim olur?",
+      "question": "\"İki kişinin aynı anda doğan çocukları\" benim için kim olur?",
       "options": [
-        "Kardesler",
+        "Kardeşler",
         "Kuzenler",
         "Yegenler",
         "Ikizler"
@@ -459,10 +459,10 @@
       "id": "qb91145",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Kardes ciftler\" benim icin kim olur?",
+      "question": "\"Kardeş çiftler\" benim için kim olur?",
       "options": [
-        "Yegen",
-        "Sibling (birden fazla kardes)",
+        "Yeğen",
+        "Sibling (birden fazla kardeş)",
         "Kuzen",
         "Torun"
       ],
@@ -472,10 +472,10 @@
       "id": "qb91146",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
-      "question": "\"Sibling (birden fazla kardes)\" sana gore ne demektir?",
+      "question": "\"Sibling (birden fazla kardeş)\" sana göre ne demektir?",
       "options": [
-        "Kardes ciftler",
-        "Ogretmenim",
+        "Kardeş çiftler",
+        "Öğretmenim",
         "Baban",
         "Annen"
       ],
