@@ -812,10 +812,10 @@
       "theme": "Tema 4",
       "question": "Kesme işareti nerede kullanılır?",
       "options": [
-        "Sıfatlarda",
-        "Her isimde",
-        "Özel isimlere takı eklendiğinde: 'Ankara'ya'",
-        "Fiillerde"
+        "Bütün sıfatların sonunda",
+        "Her ismin sonunda kullanılır",
+        "Özel isim ek alınca: Ankara'ya",
+        "Bütün fiillerin sonunda"
       ],
       "correctAnswer": 2
     },
@@ -838,10 +838,10 @@
       "theme": "Tema 4",
       "question": "Kısa çizgi (-) ne zaman kullanılır?",
       "options": [
-        "Cümle ortasında vurgu için",
-        "Konuşma metinlerinde konuşanı belirtmek için",
-        "Paragraf başında",
-        "Her zaman"
+        "Cümle ortasında vurgu yapmak için",
+        "Satır sonunda kelime bölünürken",
+        "Konuşan kişiyi belirtmek için",
+        "Paragraf başına konmak için"
       ],
       "correctAnswer": 1
     },
@@ -904,7 +904,7 @@
       "question": "Hangi kelime küçük harfle yazılır?",
       "options": [
         "İstanbul",
-        "Mevsim adları (ilkbahar, yaz, sonbahar, kış)",
+        "İlkbahar",
         "Mustafa",
         "Türkçe"
       ],
@@ -916,10 +916,10 @@
       "theme": "Tema 4",
       "question": "Cümle sonunda hangi işaret kullanılır?",
       "options": [
-        "Nokta, soru işareti ya da ünlem işareti",
-        "Kısa çizgi",
-        "Virgül",
-        "İki nokta"
+        "Nokta, soru işareti ya da ünlem",
+        "Kısa çizgi işareti kullanılır",
+        "Virgül işareti kullanılır",
+        "İki nokta işareti kullanılır"
       ],
       "correctAnswer": 0
     },
@@ -942,10 +942,10 @@
       "theme": "Tema 4",
       "question": "Alfabemizde 'Q', 'W', 'X' harfleri var mı?",
       "options": [
-        "Bazen kullanılır.",
-        "Hayır, Türk alfabesinde bu harfler yoktur.",
-        "Evet, vardır.",
-        "Yalnızca 'W' vardır."
+        "Bazen kullanılabilirler",
+        "Hayır, alfabemizde yoktur",
+        "Evet, üçü de alfabemizde var",
+        "Yalnızca W harfi vardır"
       ],
       "correctAnswer": 1
     },
@@ -955,10 +955,10 @@
       "theme": "Tema 4",
       "question": "Bir cümlede kaç tane yüklem olabilir?",
       "options": [
-        "Bir tane yüklem zorunludur (birden fazla da olabilir)",
-        "En fazla beş tane",
-        "Her zaman iki tane",
-        "Hiç olmayabilir"
+        "En az bir tane yüklem bulunur",
+        "En fazla beş tane olabilir",
+        "Her zaman iki tane olur",
+        "Hiç yüklem olmayabilir"
       ],
       "correctAnswer": 0
     },

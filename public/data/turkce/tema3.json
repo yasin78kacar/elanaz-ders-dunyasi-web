@@ -526,10 +526,10 @@
       "theme": "Tema 3",
       "question": "İsim cümlesi nedir?",
       "options": [
-        "Yüklemi isim ya da isim soylu sözcük olan cümle",
-        "Öznesiz cümle",
+        "Yüklemi isim olan cümle",
+        "Öznesi olmayan cümle",
         "Yüklemi fiil olan cümle",
-        "İsim tamlaması içeren cümle"
+        "İsim tamlaması olan cümle"
       ],
       "correctAnswer": 0
     },
@@ -565,12 +565,12 @@
       "theme": "Tema 3",
       "question": "Soru cümlesi nasıl oluşturulur?",
       "options": [
-        "İsim ekleyerek",
-        "Cümleyi kısaltarak",
-        "Cümle başına soru kelimesi ekleyerek",
-        "Cümle sonuna soru işareti koyarak ya da -mi eki ekleyerek"
+        "Cümleye bir isim ekleyerek",
+        "Cümleyi kısaltıp yazarak",
+        "-mi eki ya da soru işaretiyle",
+        "Cümlenin sonuna nokta koyarak"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe600810",
@@ -656,9 +656,9 @@
       "theme": "Tema 3",
       "question": "Okuma alışkanlığı neden önemlidir?",
       "options": [
-        "Öğretmen istediği için",
+        "Öğretmen istediği için önemli",
         "Zorunlu bir görev olduğu için",
-        "Dil gelişimi, kelime haznesi ve düşünme becerisini artırır",
+        "Dil ve düşünme becerisini artırır",
         "Sadece ders notu almak için"
       ],
       "correctAnswer": 2
@@ -2175,14 +2175,14 @@
       "id": "q-t-noun-10",
       "subject": "Türkçe",
       "theme": "Tema 3: Dil Bilgisi ve İmla",
-      "question": "Aşağıdaki kelimelerden hangisi sadece ünsüz harflerden oluşamaz?",
+      "question": "Türkçede bir kelime sadece ünsüzlerden oluşabilir mi?",
       "options": [
-        "Plan",
-        "Spor",
-        "Türkçe",
-        "Hiçbir Türkçe kelime sadece ünsüzlerden oluşamaz."
+        "Evet, her zaman olabilir",
+        "Hayır, mutlaka ünlü olmalı",
+        "Evet, kısa kelimelerde olur",
+        "Sadece özel isimlerde olur"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "q-t-noun-11",
