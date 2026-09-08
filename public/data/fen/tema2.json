@@ -443,123 +443,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qc200701",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Bilim nedir? (Tema 2)",
-      "options": [
-        "Sanat",
-        "Dogayi inceleme ve anlama yöntemi",
-        "Edebiyat",
-        "Müzik"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200702",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Deney neden yapılır? (Tema 2)",
-      "options": [
-        "Öğretmen istediği için yapılır",
-        "Hipotezi test edip bilgi üretmek",
-        "Ders saatini doldurmak için",
-        "Sadece eğlenmek için yapılır"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200703",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Gözlem nedir? (Tema 2)",
-      "options": [
-        "Duyu organlariyla bilgi toplama",
-        "Varsayim yapma",
-        "Deney yapma",
-        "Rapor yazma"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200704",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Hipotez nedir? (Tema 2)",
-      "options": [
-        "Bilim yasasi",
-        "Kesin sonuc",
-        "Onaylanmis kural",
-        "Denenmemis tahmin veya varsayim"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200705",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Sonuc cikarma ne demektir? (Tema 2)",
-      "options": [
-        "Gözlem yapmak",
-        "Veri toplamak",
-        "Deneyin bulgularini yorumlamak",
-        "Deney yapmak"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200706",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Enerji korunumu yasası ne der? (Tema 2)",
-      "options": [
-        "Enerji kullanınca biter",
-        "Enerji her gün azalır",
-        "Enerji kendiliğinden çoğalır",
-        "Enerji yok olmaz, dönüşür"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200707",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Hucre nedir? (Tema 2)",
-      "options": [
-        "Doku",
-        "Organ",
-        "Sistem",
-        "Canliların en kucuk yapısal birimi"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200709",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Fotosantez neden önemlidir? (Tema 2)",
-      "options": [
-        "Su tüketir",
-        "Sadece güzel görünür",
-        "Oksijen üretir ve besin saglar",
-        "Isi üretir"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200710",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Besin zinciri neden önemlidir? (Tema 2)",
-      "options": [
-        "Ortamı ısıttığı için önemli",
-        "Doğayı güzel gösterdiği için",
-        "Para kazandırdığı için önemli",
-        "Enerjinin nasıl aktığını gösterir"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qe600914",
       "subject": "Fen Bilimleri",
       "theme": "Tema 2",
@@ -1357,6 +1240,19 @@
       ],
       "correctAnswer": 1,
       "difficulty": "Orta"
+    },
+    {
+      "id": "qc200709",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 2",
+      "question": "Fotosentez neden önemlidir?",
+      "options": [
+        "Topraktaki suyu tüketir",
+        "Yalnızca güzel görünmesini sağlar",
+        "Oksijen üretir ve besin sağlar",
+        "Ortama ısı üretip yayar"
+      ],
+      "correctAnswer": 2
     }
   ]
 }

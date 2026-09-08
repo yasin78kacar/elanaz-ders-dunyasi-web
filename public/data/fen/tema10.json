@@ -430,123 +430,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qc200781",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Bilim nedir? (Tema 10)",
-      "options": [
-        "Müzik",
-        "Sanat",
-        "Dogayi inceleme ve anlama yöntemi",
-        "Edebiyat"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200782",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Deney neden yapılır? (Tema 10)",
-      "options": [
-        "Hipotezi test edip bilgi üretmek",
-        "Para kazanmak için yapılır",
-        "Zorunlu olduğu için yapılır",
-        "Sadece eğlenmek için yapılır"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200783",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Gözlem nedir? (Tema 10)",
-      "options": [
-        "Varsayim yapma",
-        "Rapor yazma",
-        "Duyu organlariyla bilgi toplama",
-        "Deney yapma"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200784",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Hipotez nedir? (Tema 10)",
-      "options": [
-        "Onaylanmis kural",
-        "Bilim yasasi",
-        "Kesin sonuc",
-        "Denenmemis tahmin veya varsayim"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200785",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Sonuc cikarma ne demektir? (Tema 10)",
-      "options": [
-        "Gözlem yapmak",
-        "Veri toplamak",
-        "Deney yapmak",
-        "Deneyin bulgularini yorumlamak"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200786",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Enerji korunumu yasası ne der? (Tema 10)",
-      "options": [
-        "Enerji yok olmaz, dönüşür",
-        "Enerji zamanla yok olur",
-        "Enerji sürekli azalır",
-        "Enerji kendiliğinden artar"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200787",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Hucre nedir? (Tema 10)",
-      "options": [
-        "Sistem",
-        "Canliların en kucuk yapısal birimi",
-        "Organ",
-        "Doku"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200789",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Fotosantez neden önemlidir? (Tema 10)",
-      "options": [
-        "Su tüketir",
-        "Sadece güzel görünür",
-        "Oksijen üretir ve besin saglar",
-        "Isi üretir"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200790",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 10",
-      "question": "Besin zinciri neden önemlidir? (Tema 10)",
-      "options": [
-        "Güzel göründüğü için",
-        "Isı sağladığı için",
-        "Para ürettiği için",
-        "Enerji akışını gösterdiği için"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qe601034",
       "subject": "Fen Bilimleri",
       "theme": "Tema 10",
@@ -714,6 +597,19 @@
         "Oksijen, azot"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "qc200710",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 10",
+      "question": "Besin zinciri neden önemlidir?",
+      "options": [
+        "Ortamı ısıttığı için önemli",
+        "Doğayı güzel gösterdiği için",
+        "Para kazandırdığı için önemli",
+        "Enerjinin nasıl aktığını gösterir"
+      ],
+      "correctAnswer": 3
     }
   ]
 }
