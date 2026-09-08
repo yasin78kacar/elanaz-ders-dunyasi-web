@@ -303,12 +303,12 @@
       "id": "qc200692",
       "subject": "Fen Bilimleri",
       "theme": "Tema 1",
-      "question": "Deney neden yapilir? (Tema 1)",
+      "question": "Deney neden yapılır? (Tema 1)",
       "options": [
-        "Hipotezi test etmek ve bilgi üretmek icin",
-        "Eglence icin",
-        "Zorunlu oldugu icin",
-        "Para kazanmak icin"
+        "Hipotezi test edip bilgi üretmek",
+        "Sadece eğlenmek için yapılır",
+        "Zorunlu olduğu için yapılır",
+        "Para kazanmak için yapılır"
       ],
       "correctAnswer": 0
     },
@@ -355,12 +355,12 @@
       "id": "qc200696",
       "subject": "Fen Bilimleri",
       "theme": "Tema 1",
-      "question": "Enerji korunumu yasasi ne der? (Tema 1)",
+      "question": "Enerji korunumu yasası ne der? (Tema 1)",
       "options": [
-        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
-        "Enerji artar",
-        "Enerji azalir",
-        "Enerji yok olur"
+        "Enerji yok olmaz, dönüşür",
+        "Enerji kendiliğinden artar",
+        "Enerji zamanla azalır",
+        "Enerji tamamen yok olur"
       ],
       "correctAnswer": 0
     },
@@ -396,10 +396,10 @@
       "theme": "Tema 1",
       "question": "Besin zinciri neden önemlidir? (Tema 1)",
       "options": [
-        "Guzel görünür",
-        "Ekosistemdeki enerji akisini gösterir",
-        "Para üretir",
-        "Isi saglar"
+        "Güzel göründüğü için önemli",
+        "Enerji akışını gösterdiği için",
+        "Para ürettiği için önemli",
+        "Isı sağladığı için önemli"
       ],
       "correctAnswer": 1
     },
@@ -474,10 +474,10 @@
       "theme": "Tema 1",
       "question": "Bitkiler besinlerini nasıl üretir?",
       "options": [
-        "Hareket ederek",
-        "Topraktan emerek",
-        "Hayvanlara benzeyerek",
-        "Fotosentez yoluyla güneş ışığı, su ve karbondioksit kullanarak"
+        "Hareket ederek besin bulur",
+        "Besini topraktan emerek alır",
+        "Hayvanlara benzeyerek üretir",
+        "Fotosentezle, güneş ışığı ve su ile"
       ],
       "correctAnswer": 3
     },
@@ -539,10 +539,10 @@
       "theme": "Tema 1",
       "question": "Kartal neden memeli değildir?",
       "options": [
-        "Çünkü büyüktür",
-        "Çünkü yumurta bırakır ve gagası/kanatları vardır",
-        "Çünkü et yer",
-        "Çünkü uçar"
+        "Çünkü çok büyük bir kuştur",
+        "Çünkü yumurtayla çoğalır",
+        "Çünkü etle besleniyor",
+        "Çünkü gökyüzünde uçar"
       ],
       "correctAnswer": 1
     },
@@ -552,10 +552,10 @@
       "theme": "Tema 1",
       "question": "Hangi canlı grubu deri solunumu yapar?",
       "options": [
-        "Kurbağa (hem akciğer hem deri ile solur)",
-        "Balık",
-        "Memeli",
-        "Kuş"
+        "Kurbağa (hem akciğer hem deri)",
+        "Solungaçla soluyan balık",
+        "Akciğerle soluyan memeli",
+        "Akciğerle soluyan kuş"
       ],
       "correctAnswer": 0
     },
@@ -1192,10 +1192,10 @@
       "theme": "Tema 1: Beş Duyumuz",
       "question": "Nezle veya grip olduğumuzda yiyeceklerin tadını iyi alamamamızın nedeni nedir?",
       "options": [
-        "Koku ve tat duyularımızın birlikte çalışması",
+        "Koku ve tat birlikte çalışır",
         "Gözlerimizin kızarması",
         "Kulaklarımızın tıkanması",
-        "Deri hassasiyetimizin artması"
+        "Derimizin hassaslaşması"
       ],
       "correctAnswer": 0
     },

@@ -131,19 +131,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q1334",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 8",
-      "question": "Mevsimlerin oluşma nedeni nedir?",
-      "options": [
-        "İnsan faaliyetleri",
-        "Yıldızların konumu",
-        "Ayın hareketleri",
-        "Dünya'nın eksen eğikliği ve Güneş'e uzaklığı"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "q1336",
       "subject": "Fen Bilimleri",
       "theme": "Tema 8",
@@ -214,10 +201,10 @@
       "theme": "Tema 8",
       "question": "Mevsimlerin oluşmasını sağlayan nedir?",
       "options": [
-        "Ay'ın hareketleri",
-        "Dünya'nın Güneş etrafındaki dönüşü ve eksen eğikliği",
-        "Yıldızların konumu",
-        "Denizlerin büyüklüğü"
+        "Ay'ın hareketleri yüzünden",
+        "Eksen eğikliği ve yıllık dönüş",
+        "Yıldızların konumu yüzünden",
+        "Denizlerin büyüklüğü yüzünden"
       ],
       "correctAnswer": 1
     },
@@ -277,12 +264,12 @@
       "id": "qb91079",
       "subject": "Fen Bilimleri",
       "theme": "Tema 8",
-      "question": "\"Günes Sistemi\" nedir?",
+      "question": "Güneş Sistemi nedir?",
       "options": [
-        "Günes ve cevresindeki tüm gök cisimleri",
-        "Evren",
-        "Andromeda",
-        "Samanyolu"
+        "Güneş ve çevresindeki gök cisimleri",
+        "Var olan her şey, evren",
+        "Andromeda adlı galaksi",
+        "Samanyolu adlı galaksi"
       ],
       "correctAnswer": 0
     },
@@ -342,12 +329,12 @@
       "id": "qb91084",
       "subject": "Fen Bilimleri",
       "theme": "Tema 8",
-      "question": "\"Meteor\" nedir?",
+      "question": "Meteor nedir?",
       "options": [
-        "Uzaydan atmosfere giren küçük tas parcasi",
-        "Gezegen",
-        "Günes",
-        "Ay"
+        "Atmosfere giren taş parçası",
+        "Güneş çevresinde dönen gezegen",
+        "Işık ve ısı yayan Güneş",
+        "Dünya çevresinde dönen Ay"
       ],
       "correctAnswer": 0
     },
@@ -355,12 +342,12 @@
       "id": "qb91085",
       "subject": "Fen Bilimleri",
       "theme": "Tema 8",
-      "question": "\"Kuzey Yildizi\" nedir?",
+      "question": "Kuzey Yıldızı nedir?",
       "options": [
-        "Venüs",
-        "Pülasüsüz yon bulmada kullanilan yildiz",
-        "Günes",
-        "Ay"
+        "Sabahları görünen Venüs",
+        "Pusulasız yön bulmayı sağlar",
+        "Işık ve ısı yayan Güneş",
+        "Dünya çevresinde dönen Ay"
       ],
       "correctAnswer": 1
     },
@@ -368,12 +355,12 @@
       "id": "qb91086",
       "subject": "Fen Bilimleri",
       "theme": "Tema 8",
-      "question": "\"Galaksi\" nedir?",
+      "question": "Galaksi nedir?",
       "options": [
-        "Küme",
-        "Sistem",
-        "Milyarlarca yildizdan olusan evren yapisi",
-        "Yörünge"
+        "Birkaç yıldızdan oluşan küme",
+        "Gezegenlerden oluşan sistem",
+        "Milyarlarca yıldızdan oluşur",
+        "Gezegenin izlediği yörünge"
       ],
       "correctAnswer": 2
     },
@@ -566,9 +553,9 @@
       "question": "Mars'ta hayat var mı?",
       "options": [
         "Hayır, hiç araştırılmadı",
-        "Kesinlikle var",
-        "Bilinen bir yaşam formu yok, araştırmalar sürüyor",
-        "Evet, keşfedildi"
+        "Evet, kesinlikle vardır",
+        "Bilinen yaşam yok, araştırılıyor",
+        "Evet, yaşam keşfedildi"
       ],
       "correctAnswer": 2
     },
@@ -591,10 +578,10 @@
       "theme": "Tema 8",
       "question": "Kuyruklu yıldız nedir?",
       "options": [
-        "Gezegen",
-        "Buz ve tozdan oluşan, Güneş'e yaklaştığında kuyruk oluşturan cisim",
-        "Asteroit",
-        "Ay"
+        "Güneş çevresinde dönen gezegen",
+        "Buz ve tozdan oluşan kuyruklu cisim",
+        "Kayadan oluşan asteroit",
+        "Dünya çevresinde dönen Ay"
       ],
       "correctAnswer": 1
     },
@@ -604,10 +591,10 @@
       "theme": "Tema 8",
       "question": "Kara delik nedir?",
       "options": [
-        "Yıldız",
-        "Gezegen",
-        "Nebula",
-        "Çekim kuvveti o kadar büyük ki ışık dahi kaçamaz"
+        "Işık saçan büyük yıldız",
+        "Yıldız çevresinde gezegen",
+        "Gaz ve tozdan oluşan nebula",
+        "Işığın bile kaçamadığı çekim"
       ],
       "correctAnswer": 3
     },
@@ -617,12 +604,12 @@
       "theme": "Tema 8",
       "question": "Işık yılı nedir?",
       "options": [
-        "Bir ışığın parlaklığı",
-        "Bir yıllık süre",
-        "Bir gezegenin dönüşü",
-        "Işığın bir yılda aldığı yol (yaklaşık 9,46 trilyon km)"
+        "Bir ışığın parlaklık ölçüsü",
+        "Bir yıl süren zaman dilimi",
+        "Işığın bir yılda aldığı yol",
+        "Bir gezegenin dönüş süresi"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe601015",
@@ -630,10 +617,10 @@
       "theme": "Tema 8",
       "question": "Uydu nedir?",
       "options": [
-        "Kuyruklu yıldız",
-        "Gezegen",
-        "Yıldız",
-        "Bir gezegen ya da cismin etrafında dönen doğal ya da yapay cisim"
+        "Kuyruklu yıldız çeşidi",
+        "Güneş çevresinde gezegen",
+        "Işık saçan büyük yıldız",
+        "Bir gezegen çevresinde dönen cisim"
       ],
       "correctAnswer": 3
     },
@@ -643,10 +630,10 @@
       "theme": "Tema 8",
       "question": "Uluslararası Uzay İstasyonu (ISS) nedir?",
       "options": [
-        "Uzayda insanların yaşayıp çalıştığı yapay istasyon",
-        "Bir yıldız",
-        "Bir gezegen",
-        "Bir uydu"
+        "İnsanların uzayda yaşadığı yapı",
+        "Işık saçan büyük bir yıldız",
+        "Güneş çevresinde gezegen",
+        "Dünya çevresinde doğal uydu"
       ],
       "correctAnswer": 0
     },

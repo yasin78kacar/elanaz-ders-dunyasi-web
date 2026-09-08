@@ -58,9 +58,9 @@
       "theme": "Tema 5",
       "question": "Yerçekimi nedir?",
       "options": [
-        "Mıknatıs kuvveti",
-        "Rüzgar kuvveti",
-        "Dünyanın her şeyi kendine çekme kuvveti",
+        "Mıknatısın çekme kuvveti",
+        "Rüzgârın itme kuvveti",
+        "Dünyanın cisimleri çekme kuvveti",
         "İnsanın uçma kuvveti"
       ],
       "correctAnswer": 2
@@ -69,12 +69,12 @@
       "id": "q1266",
       "subject": "Fen Bilimleri",
       "theme": "Tema 5",
-      "question": "Ağır mi, hafif mi daha hızlı düşer?",
+      "question": "Ağır mı, hafif mi daha hızlı düşer?",
       "options": [
-        "İkisi de aynı hızda düşer (havada farklı olabilir)",
-        "Ağır",
-        "Hafif",
-        "Renklisi"
+        "İkisi de aynı hızda düşer",
+        "Her zaman ağır olan düşer",
+        "Her zaman hafif olan düşer",
+        "Rengi koyu olan düşer"
       ],
       "correctAnswer": 0
     },
@@ -188,10 +188,10 @@
       "theme": "Tema 5",
       "question": "Makara ne işe yarar?",
       "options": [
-        "İpin yönünü değiştirerek kolaylaştırır",
-        "Işık sağlar",
-        "Ses yükseltir",
-        "Su pompalar"
+        "İpin yönünü değiştirir",
+        "Ortamı ışıkla aydınlatır",
+        "Sesi yükseltip çoğaltır",
+        "Suyu yukarı pompalar"
       ],
       "correctAnswer": 0
     },
@@ -227,10 +227,10 @@
       "theme": "Tema 5",
       "question": "Gemilerin suda batmaması hangi prensiple açıklanır?",
       "options": [
-        "Archimedes prensibi (kaldırma kuvveti)",
-        "Manyetik kuvvet",
-        "Yerçekimi",
-        "Sürtünme"
+        "Kaldırma kuvveti (Arşimet)",
+        "Manyetik çekim kuvveti",
+        "Yerin çekim kuvveti",
+        "Yüzeyin sürtünme kuvveti"
       ],
       "correctAnswer": 0
     },
@@ -279,10 +279,10 @@
       "theme": "Tema 5",
       "question": "Atalet nedir?",
       "options": [
-        "Cisimlerin hareketini değiştirmeye direnç",
-        "Kuvvet",
-        "Ağırlık",
-        "Hız"
+        "Hareket değişimine direnç",
+        "İtme ya da çekme kuvveti",
+        "Cismin ağırlık ölçüsü",
+        "Cismin hareket hızı"
       ],
       "correctAnswer": 0
     },
@@ -305,10 +305,10 @@
       "theme": "Tema 5",
       "question": "Rüzgar bir kuvvet midir?",
       "options": [
-        "Sadece fırtınada",
-        "Hayır",
-        "Bazen",
-        "Evet, hava basıncından kaynaklı kuvvet"
+        "Sadece fırtınada kuvvettir",
+        "Hayır, kuvvet değildir",
+        "Bazen kuvvet sayılır",
+        "Evet, havanın itme kuvveti"
       ],
       "correctAnswer": 3
     },
@@ -342,12 +342,12 @@
       "id": "qb91046",
       "subject": "Fen Bilimleri",
       "theme": "Tema 5",
-      "question": "\"Surtunme kuvveti\" nedir?",
+      "question": "Sürtünme kuvveti nedir?",
       "options": [
-        "Manyetik",
-        "Yercekimi",
-        "Kaldirma",
-        "Iki yuzey arasindaki karsı koyma kuvveti"
+        "Mıknatısın çekme kuvveti",
+        "Yerin cisimleri çekmesi",
+        "Sıvının yukarı itmesi",
+        "İki yüzey arası karşı koyma"
       ],
       "correctAnswer": 3
     },
@@ -368,12 +368,12 @@
       "id": "qb91048",
       "subject": "Fen Bilimleri",
       "theme": "Tema 5",
-      "question": "\"Kaldirma kuvveti\" nedir?",
+      "question": "Kaldırma kuvveti nedir?",
       "options": [
-        "Sivi ve gazlarin cisimlere uygladigi yukari kuvvet",
-        "Manyetik",
-        "Yercekimi",
-        "Surtunme"
+        "Sıvının cismi yukarı itmesi",
+        "Mıknatısın çekme kuvveti",
+        "Yerin cisimleri çekmesi",
+        "İki yüzey arası direnç"
       ],
       "correctAnswer": 0
     },
@@ -565,10 +565,10 @@
       "theme": "Tema 5",
       "question": "Sürtünme kuvveti faydalı mı zararlı mı?",
       "options": [
-        "Sadece zararlı",
-        "Fark etmez",
-        "Her ikisi de: frenler, yürüme (fayda); motor aşınma (zarar)",
-        "Sadece faydalı"
+        "Her durumda zararlıdır",
+        "Hiçbir etkisi yoktur",
+        "Hem faydalı hem zararlı olabilir",
+        "Her durumda faydalıdır"
       ],
       "correctAnswer": 2
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 5",
       "question": "Bir kuvvet uygulandığında cisim ne yapabilir?",
       "options": [
-        "Hareket eder, şekil değiştirir ya da durur",
-        "Hiçbir şey olmaz",
-        "Sadece şekil değişir",
-        "Sadece hareket eder"
+        "Hareket eder ya da şekil değişir",
+        "Hiçbir değişiklik olmaz",
+        "Yalnızca şekli değişebilir",
+        "Yalnızca hareket edebilir"
       ],
       "correctAnswer": 0
     },
@@ -591,10 +591,10 @@
       "theme": "Tema 5",
       "question": "Denge nedir?",
       "options": [
-        "Cisme etki eden kuvvetlerin birbirini dengelediği durum",
-        "Yalnızca sıvılarda",
-        "Sadece durağan cisim",
-        "Sadece hareketli cisim"
+        "Kuvvetlerin birbirini dengelemesi",
+        "Yalnızca sıvılarda olur",
+        "Yalnızca duran cisimde olur",
+        "Yalnızca hareketlide olur"
       ],
       "correctAnswer": 0
     },
@@ -604,10 +604,10 @@
       "theme": "Tema 5",
       "question": "Basit makine nedir?",
       "options": [
-        "Bilgisayar",
-        "Motor",
-        "İşi kolaylaştıran araç (kaldıraç, makara, eğik düzlem)",
-        "Elektrikli alet"
+        "Ekran ve tuşlu bilgisayar",
+        "Yakıtla çalışan motor",
+        "İşi kolaylaştıran basit araç",
+        "Elektrikle çalışan alet"
       ],
       "correctAnswer": 2
     },
@@ -617,10 +617,10 @@
       "theme": "Tema 5",
       "question": "Kaldıraç nedir?",
       "options": [
-        "Makara",
-        "Eğik düzlem",
-        "Destek noktası etrafında dönen, kuvvet kazandıran basit makine",
-        "Motor"
+        "İple yük çeken makara düzeneği",
+        "Eğimli düzlem yüzeyi",
+        "Destek noktasıyla kuvvet kazandırır",
+        "Yakıtla çalışan motor"
       ],
       "correctAnswer": 2
     },
@@ -643,10 +643,10 @@
       "theme": "Tema 5",
       "question": "Yavaşlama nasıl gerçekleşir?",
       "options": [
-        "Daha hızlı koşunca",
-        "Kütle azalınca",
-        "Hareket yönüne zıt bir kuvvet uygulandığında",
-        "Isı verilince"
+        "Daha hızlı koşulduğunda",
+        "Cismin kütlesi azalınca",
+        "Zıt yönde kuvvet uygulanınca",
+        "Cisme ısı verildiğinde"
       ],
       "correctAnswer": 2
     },
@@ -1033,8 +1033,8 @@
       "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
       "question": "Aşağıdakilerden hangisi pilin bittiğini gösteren bir durumdur?",
       "options": [
-        "Cihazın ışık saçması",
-        "Cihazın hiç çalışmaması veya yavaş çalışması",
+        "Cihazın parlak ışık saçması",
+        "Cihazın hiç ya da yavaş çalışması",
         "Cihazın sesinin artması",
         "Cihazın daha hızlı çalışması"
       ],
@@ -1137,10 +1137,10 @@
       "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
       "question": "Canlıların ortak özelliklerinden biri olan beslenme neden gereklidir?",
       "options": [
-        "Oyun oynamak için",
-        "Uyumak için",
-        "Büyümek ve yaşam enerjisi kazanmak için",
-        "Boyamış olmak için"
+        "Oyun oynayabilmek için",
+        "Rahatça uyuyabilmek için",
+        "Büyümek ve enerji kazanmak için",
+        "Resim yapabilmek için"
       ],
       "correctAnswer": 2
     },

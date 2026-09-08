@@ -526,10 +526,10 @@
       "theme": "Tema 4",
       "question": "Maddenin gaz halinin özelliği nedir?",
       "options": [
-        "Belirli şekil var",
-        "Belirli hacim var",
-        "Hem hacim hem şekil belirsiz, bulunduğu kaba yayılır",
-        "Katı gibi davranır"
+        "Belirli bir şekli vardır",
+        "Belirli bir hacmi vardır",
+        "Şekli ve hacmi belirsizdir",
+        "Katı gibi sert davranır"
       ],
       "correctAnswer": 2
     },
@@ -552,10 +552,10 @@
       "theme": "Tema 4",
       "question": "Hangi madde değişimi kimyasal değişimdir?",
       "options": [
-        "Camı kırmak",
-        "Kâğıdı kesmek",
-        "Buzu eritmek",
-        "Demir paslanmak (farklı madde oluşur)"
+        "Camın kırılıp parçalanması",
+        "Kâğıdın makasla kesilmesi",
+        "Buzun ısıyla erimesi",
+        "Demirin paslanıp çürümesi"
       ],
       "correctAnswer": 3
     },
@@ -565,10 +565,10 @@
       "theme": "Tema 4",
       "question": "Çözünme nedir?",
       "options": [
-        "Bir maddenin başka bir maddede dağılması",
-        "Maddenin donması",
-        "Maddenin katılaşması",
-        "Maddenin buharlaşması"
+        "Bir maddenin başkasında dağılması",
+        "Maddenin donup katılaşması",
+        "Maddenin sertleşip katılaşması",
+        "Maddenin ısınıp buharlaşması"
       ],
       "correctAnswer": 0
     },
@@ -578,10 +578,10 @@
       "theme": "Tema 4",
       "question": "Şeker suda çözündüğünde ne olur?",
       "options": [
-        "Şeker görünmez ama hâlâ suda vardır (tat verir)",
-        "Şeker katılaşır",
-        "Şeker yok olur",
-        "Su bozulur"
+        "Görünmez ama suda vardır",
+        "Şeker katı hâle geçer",
+        "Şeker tamamen yok olur",
+        "Su bozulup içilmez olur"
       ],
       "correctAnswer": 0
     },
@@ -604,10 +604,10 @@
       "theme": "Tema 4",
       "question": "Erime ve çözünme arasındaki fark nedir?",
       "options": [
-        "Erime hal değişimidir, çözünme bir maddenin diğerinde dağılmasıdır",
-        "İkisi aynı şeydir",
-        "Çözünme hal değişimidir",
-        "Erime kimyasal değişimdir"
+        "Erime hâl değişimi, çözünme dağılma",
+        "İkisi tamamen aynı şeydir",
+        "Çözünme bir hâl değişimidir",
+        "Erime kimyasal bir değişimdir"
       ],
       "correctAnswer": 0
     },
@@ -630,10 +630,10 @@
       "theme": "Tema 4",
       "question": "Su kaynayınca ne olur?",
       "options": [
-        "Buharlaşarak su buharına (gaz) dönüşür",
-        "Donar",
-        "Çözünür",
-        "Katılaşır"
+        "Buharlaşıp gaz hâline geçer",
+        "Donarak buz hâline gelir",
+        "Suda çözünerek dağılır",
+        "Katılaşarak sertleşir"
       ],
       "correctAnswer": 0
     },
@@ -669,10 +669,10 @@
       "theme": "Tema 4",
       "question": "Demirin paslanması hangi tür değişimdir?",
       "options": [
-        "Elektriksel",
-        "Kimyasal (yeni madde oluşur: pas=demir oksit)",
-        "Isısal",
-        "Fiziksel"
+        "Elektriksel bir değişim",
+        "Kimyasal (yeni madde oluşur)",
+        "Isısal bir değişimdir",
+        "Fiziksel bir değişimdir"
       ],
       "correctAnswer": 1
     },
@@ -1245,9 +1245,9 @@
       "question": "İşitme kaybı yaşamamak için çok yüksek sesli ortamlarda ne yapmalıyız?",
       "options": [
         "Gözlerimizi kapatmalıyız",
-        "Kulaklarımızı koruyucu kulaklıkla kapatmalıyız",
+        "Koruyucu kulaklık takmalıyız",
         "Daha yüksek sesle konuşmalıyız",
-        "Hızlıca koşmalıyız"
+        "Hızlıca koşup uzaklaşmalıyız"
       ],
       "correctAnswer": 1
     },

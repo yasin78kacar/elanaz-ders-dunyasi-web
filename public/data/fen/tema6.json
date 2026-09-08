@@ -316,12 +316,12 @@
       "id": "qb91061",
       "subject": "Fen Bilimleri",
       "theme": "Tema 6",
-      "question": "\"Isigin kirılması\" nedir?",
+      "question": "Işığın kırılması nedir?",
       "options": [
-        "Emilme",
-        "Isigin bir ortamdan digerine gécerken yon degistirmesi",
-        "Dagılma",
-        "Yansima"
+        "Işığın yüzeyde emilmesi",
+        "Ortam değişince yön değiştirmesi",
+        "Işığın renklere dağılması",
+        "Işığın geri yansıması"
       ],
       "correctAnswer": 1
     },
@@ -357,10 +357,10 @@
       "theme": "Tema 6",
       "question": "Işık neden gölge oluşturur?",
       "options": [
-        "Işık bükülür",
-        "Gölge yoktur",
-        "Işık düz ilerler ve geçirgen olmayan cisimler ışığı engeller",
-        "Işık yavaşlar"
+        "Işık bükülüp döndüğü için",
+        "Aslında gölge oluşmaz",
+        "Işık düz gider, cisim engeller",
+        "Işık yavaşladığı için"
       ],
       "correctAnswer": 2
     },
@@ -422,12 +422,12 @@
       "theme": "Tema 6",
       "question": "Saydam, yarı saydam, saydam olmayan nedir?",
       "options": [
-        "Sadece katılar",
-        "Hepsi aynı",
-        "Sadece gazlar",
-        "Cam (saydam), buzlu cam (yarı saydam), kerpiç (saydam olmayan)"
+        "Yalnızca katılar için",
+        "Üçü de aynı anlamdadır",
+        "Işığı geçirme derecesidir",
+        "Yalnızca gazlar için"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe600980",
@@ -448,10 +448,10 @@
       "theme": "Tema 6",
       "question": "Teleskop ne işe yarar?",
       "options": [
-        "Sesi büyütmek",
-        "Kokuyu algılamak",
-        "Uzak nesneleri büyütüp yakın göstermek",
-        "Sıcaklığı ölçmek"
+        "Sesi büyütüp yükseltir",
+        "Kokuları algılayıp ölçer",
+        "Uzak nesneleri yakın gösterir",
+        "Sıcaklığı ölçüp gösterir"
       ],
       "correctAnswer": 2
     },
@@ -461,10 +461,10 @@
       "theme": "Tema 6",
       "question": "Mikroskop ne işe yarar?",
       "options": [
-        "Uzaktaki nesneleri görmek",
-        "Gözle görülemeyen çok küçük nesneleri büyütmek",
-        "Kimyasal madde belirlemek",
-        "Sesi ölçmek"
+        "Uzaktaki nesneleri gösterir",
+        "Çok küçük nesneleri büyütür",
+        "Kimyasal maddeyi belirler",
+        "Sesin şiddetini ölçer"
       ],
       "correctAnswer": 1
     },
@@ -474,10 +474,10 @@
       "theme": "Tema 6",
       "question": "Renkli ışık prizmayla nasıl elde edilir?",
       "options": [
-        "Sadece lazer ile",
-        "Sadece güneşten",
-        "Beyaz ışık prizmadan geçince 7 renge ayrılır (tayfına göre)",
-        "Her renkli cisimden"
+        "Yalnızca lazer ışığıyla",
+        "Yalnızca ampul ışığıyla",
+        "Beyaz ışık 7 renge ayrılır",
+        "Her renkli cisim yapar"
       ],
       "correctAnswer": 2
     },
@@ -500,10 +500,10 @@
       "theme": "Tema 6",
       "question": "Hangi frekans insanlar tarafından duyulamaz?",
       "options": [
-        "20 Hz'den düşük ya da 20.000 Hz'den yüksek",
-        "Yalnızca yüksek",
-        "Yalnızca alçak",
-        "Her frekans"
+        "20 Hz altı ve 20.000 Hz üstü",
+        "Yalnızca yüksek sesler",
+        "Yalnızca alçak sesler",
+        "Her frekans duyulamaz"
       ],
       "correctAnswer": 0
     },
@@ -513,10 +513,10 @@
       "theme": "Tema 6",
       "question": "Güneş gözlüğü ne işe yarar?",
       "options": [
-        "Zararlı UV ışınlarını filtreleyerek gözü korur",
-        "Güzel görünmek için",
-        "Rüzgardan korumak için",
-        "Karanlıkta görmek için"
+        "Zararlı UV ışınlarından korur",
+        "Güzel görünmeyi sağlar",
+        "Rüzgârdan korunmayı sağlar",
+        "Karanlıkta görmeyi sağlar"
       ],
       "correctAnswer": 0
     },
@@ -526,10 +526,10 @@
       "theme": "Tema 6",
       "question": "Sesin yüksekliği (perde) neye bağlıdır?",
       "options": [
-        "Ortama",
-        "Titreşim frekansına (yüksek frekans=tiz, düşük frekans=pes)",
-        "Sesin hızına",
-        "Sesin şiddetine"
+        "Sesin yayıldığı ortama",
+        "Titreşim frekansına bağlıdır",
+        "Sesin yayılma hızına",
+        "Sesin şiddetine bağlıdır"
       ],
       "correctAnswer": 1
     },

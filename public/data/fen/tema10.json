@@ -19,10 +19,10 @@
       "theme": "Tema 10",
       "question": "Geri dönüşüm ne demektir?",
       "options": [
-        "Atıkları yeniden kullanılabilir hale getirme",
-        "Toprağa gömme",
-        "Çöpleri denize dökme",
-        "Yakma"
+        "Atığı yeniden kullanılır yapmak",
+        "Atıkları toprağa gömmek",
+        "Çöpleri denize dökmek",
+        "Çöpleri yakıp yok etmek"
       ],
       "correctAnswer": 0
     },
@@ -58,10 +58,10 @@
       "theme": "Tema 10",
       "question": "Çevre için neler yapabiliriz?",
       "options": [
-        "Araba egzozu bırakmak",
+        "Çok araba egzozu salmak",
         "Çok plastik kullanmak",
-        "Ormanları kesmek",
-        "Geri dönüşüm, su tasarrufu, ağaç dikme"
+        "Ormanları kesip yok etmek",
+        "Geri dönüşüm ve ağaç dikmek"
       ],
       "correctAnswer": 3
     },
@@ -123,10 +123,10 @@
       "theme": "Tema 10",
       "question": "Plastik torbalar neden zararlıdır?",
       "options": [
-        "Güzeldir",
-        "Çabuk erir",
-        "Yararlıdır",
-        "Uzun yıllar bozulmaz, canlılara zarar verir"
+        "Doğada çabuk erir gider",
+        "Toprağa yarar sağlar",
+        "Havayı temizlemeye yarar",
+        "Uzun yıllar doğada bozulmaz"
       ],
       "correctAnswer": 3
     },
@@ -188,10 +188,10 @@
       "theme": "Tema 10",
       "question": "Karbon ayak izi nedir?",
       "options": [
-        "İnsanın çevreye bıraktığı CO2 miktarı",
-        "Karbonun ağırlığı",
-        "Karbon rengi",
-        "Karbon elementi"
+        "Çevreye bıraktığımız CO2 miktarı",
+        "Karbonun ağırlık ölçüsü",
+        "Karbon elementinin rengi",
+        "Karbon elementinin adı"
       ],
       "correctAnswer": 0
     },
@@ -227,10 +227,10 @@
       "theme": "Tema 10",
       "question": "Su döngüsü nedir?",
       "options": [
-        "Su temizleme",
-        "Su satın alma",
-        "Suyun buharlaşıp yağmur olarak dönmesi",
-        "Su tasarrufu"
+        "Suyun temizlenip içilmesi",
+        "Suyun şişede satılması",
+        "Suyun buharlaşıp yağmur olması",
+        "Suyun tasarruflu kullanımı"
       ],
       "correctAnswer": 2
     },
@@ -277,12 +277,12 @@
       "id": "qb91111",
       "subject": "Fen Bilimleri",
       "theme": "Tema 10",
-      "question": "\"Ozon tabakasi\" nedir?",
+      "question": "Ozon tabakası nedir?",
       "options": [
-        "Günesin zararlı UV isinlarini filtreler",
-        "Yagmur yagdirir",
-        "Iklimi isindirir",
-        "Rüzgar estirir"
+        "Zararlı UV ışınlarını süzen katman",
+        "Yağmur yağdıran katman",
+        "İklimi ısıtan katman",
+        "Rüzgâr estiren katman"
       ],
       "correctAnswer": 0
     },
@@ -329,12 +329,12 @@
       "id": "qb91115",
       "subject": "Fen Bilimleri",
       "theme": "Tema 10",
-      "question": "\"Küresel isinma\" nedir?",
+      "question": "Küresel ısınma nedir?",
       "options": [
-        "Yagis artisi",
-        "Sera gazlari nedeniyle dünya sicakliginin artmasi",
-        "Ozon erimesi",
-        "Kar artisi"
+        "Yağışların artması olayı",
+        "Sera gazlarıyla sıcaklık artışı",
+        "Ozon tabakasının erimesi",
+        "Kar yağışının artması"
       ],
       "correctAnswer": 1
     },
@@ -381,12 +381,12 @@
       "id": "qb91121",
       "subject": "Fen Bilimleri",
       "theme": "Tema 10",
-      "question": "\"Geri dönüsüm\" nedir?",
+      "question": "Geri dönüşüm nedir?",
       "options": [
-        "Cop atmak",
-        "Atmak",
-        "Yeni ürün almak",
-        "Atiklarin yeniden kullanilabilir hale getirilmesi"
+        "Çöpleri sokağa atmak",
+        "Her şeyi yenisiyle almak",
+        "Atıkları denize dökmek",
+        "Atıkları hammadde olarak kullanmak"
       ],
       "correctAnswer": 3
     },
@@ -407,12 +407,12 @@
       "id": "qb91123",
       "subject": "Fen Bilimleri",
       "theme": "Tema 10",
-      "question": "\"Yenilenebilir enerji\" nedir?",
+      "question": "Yenilenebilir enerji nedir?",
       "options": [
-        "Petrol",
-        "Komür",
-        "Tükenmez dogal kaynaklar: günes, rüzgar",
-        "Dogalgaz"
+        "Yer altından çıkan petrol",
+        "Madenden çıkarılan kömür",
+        "Tükenmeyen kaynak: güneş, rüzgâr",
+        "Borularla gelen doğal gaz"
       ],
       "correctAnswer": 2
     },
@@ -446,12 +446,12 @@
       "id": "qc200782",
       "subject": "Fen Bilimleri",
       "theme": "Tema 10",
-      "question": "Deney neden yapilir? (Tema 10)",
+      "question": "Deney neden yapılır? (Tema 10)",
       "options": [
-        "Hipotezi test etmek ve bilgi üretmek icin",
-        "Para kazanmak icin",
-        "Zorunlu oldugu icin",
-        "Eglence icin"
+        "Hipotezi test edip bilgi üretmek",
+        "Para kazanmak için yapılır",
+        "Zorunlu olduğu için yapılır",
+        "Sadece eğlenmek için yapılır"
       ],
       "correctAnswer": 0
     },
@@ -498,12 +498,12 @@
       "id": "qc200786",
       "subject": "Fen Bilimleri",
       "theme": "Tema 10",
-      "question": "Enerji korunumu yasasi ne der? (Tema 10)",
+      "question": "Enerji korunumu yasası ne der? (Tema 10)",
       "options": [
-        "Enerji yaratılamaz veya yok edilemez, sadece donusur",
-        "Enerji yok olur",
-        "Enerji azalir",
-        "Enerji artar"
+        "Enerji yok olmaz, dönüşür",
+        "Enerji zamanla yok olur",
+        "Enerji sürekli azalır",
+        "Enerji kendiliğinden artar"
       ],
       "correctAnswer": 0
     },
@@ -539,10 +539,10 @@
       "theme": "Tema 10",
       "question": "Besin zinciri neden önemlidir? (Tema 10)",
       "options": [
-        "Guzel görünür",
-        "Isi saglar",
-        "Para üretir",
-        "Ekosistemdeki enerji akisini gösterir"
+        "Güzel göründüğü için",
+        "Isı sağladığı için",
+        "Para ürettiği için",
+        "Enerji akışını gösterdiği için"
       ],
       "correctAnswer": 3
     },
@@ -552,10 +552,10 @@
       "theme": "Tema 10",
       "question": "Ekosistem nedir?",
       "options": [
-        "Yalnızca bitkiler",
-        "Bir bölgedeki canlılar ile onların yaşam ortamının bütünü",
-        "Yalnızca toprak",
-        "Yalnızca hayvanlar"
+        "Yalnızca bitkilerin tümü",
+        "Canlılar ve yaşadıkları ortam",
+        "Yalnızca topraklı alanlar",
+        "Yalnızca hayvanların tümü"
       ],
       "correctAnswer": 1
     },
@@ -580,8 +580,8 @@
       "options": [
         "Tek bir besin zinciri",
         "Bir hayvanın besinleri",
-        "Bitki ağı",
-        "Bir ekosistemde birden fazla besin zincirinin birbirine bağlanması"
+        "Bitkilerden oluşan ağ",
+        "Birbirine bağlı besin zincirleri"
       ],
       "correctAnswer": 3
     },
@@ -591,10 +591,10 @@
       "theme": "Tema 10",
       "question": "Yok olmakla tehlike altındaki türler neden korunmalı?",
       "options": [
-        "Sadece merak için",
-        "Biyoçeşitliliği ve ekosistemin dengesini sürdürmek için",
-        "Güzel görüntü için",
-        "Para için"
+        "Sadece merak ettiğimiz için",
+        "Doğadaki dengeyi sürdürmek için",
+        "Güzel göründükleri için",
+        "Para kazandırdıkları için"
       ],
       "correctAnswer": 1
     },
@@ -618,9 +618,9 @@
       "question": "Su kaynaklarını korumak için ne yapılabilir?",
       "options": [
         "Su kullanımını artırmak",
-        "Su tasarrufu, kirliliği önleme, geri dönüşüm",
+        "Tasarruf edip kirliliği önlemek",
         "Daha fazla fabrika açmak",
-        "Kimyasal atmak"
+        "Suya kimyasal madde atmak"
       ],
       "correctAnswer": 1
     },
@@ -630,10 +630,10 @@
       "theme": "Tema 10",
       "question": "Hava kirliliğinin nedenleri nelerdir?",
       "options": [
-        "Egzoz gazları, fabrika dumanı, ısınma amaçlı yakıt",
-        "Rüzgar",
-        "Yağmur",
-        "Oksijen fazlalığı"
+        "Egzoz gazı, fabrika dumanı",
+        "Rüzgârın hızlı esmesi",
+        "Yağmurun çok yağması",
+        "Havadaki oksijen fazlalığı"
       ],
       "correctAnswer": 0
     },
@@ -643,10 +643,10 @@
       "theme": "Tema 10",
       "question": "Toprak kirliliğinin önlenmesi için ne yapılmalı?",
       "options": [
-        "Ağaç kesmek",
+        "Ağaçları kesip yok etmek",
         "Daha fazla kimyasal kullanmak",
-        "Toprağı kazmak",
-        "Kimyasal kullanımını azaltmak, organik tarım, geri dönüşüm"
+        "Toprağı sürekli kazmak",
+        "Kimyasalı azaltmak, organik tarım"
       ],
       "correctAnswer": 3
     },
@@ -656,10 +656,10 @@
       "theme": "Tema 10",
       "question": "Kuraklık neden tehlikelidir?",
       "options": [
-        "Toprağı güçlendirir",
-        "Su kaynakları dolar",
-        "Su ve tarım ürünleri azalır, canlılar zarar görür",
-        "Zararlı değildir"
+        "Toprağı daha da güçlendirir",
+        "Su kaynakları dolup taşar",
+        "Su azalır, canlılar zarar görür",
+        "Hiçbir zararı bulunmaz"
       ],
       "correctAnswer": 2
     },
@@ -669,10 +669,10 @@
       "theme": "Tema 10",
       "question": "Orman yangınının çevreye etkisi nedir?",
       "options": [
-        "Oksijen artar",
-        "Faydalıdır",
-        "Toprağı güçlendirir",
-        "Habitat yok olur, hava kirlenir, karbondioksit artar"
+        "Havadaki oksijen artar",
+        "Doğaya faydalı bir olaydır",
+        "Toprağı daha güçlü yapar",
+        "Yaşam alanı yok olur, hava kirlenir"
       ],
       "correctAnswer": 3
     },

@@ -329,14 +329,14 @@
       "id": "qa51019",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Hangi hayvan en uzun uyku yapabilir?",
+      "question": "Kış uykusuna yatan hayvan hangisidir?",
       "options": [
         "İnek",
+        "Ayı",
         "Kedi",
-        "At",
-        "Şahin (uzun süre uyumaz), ayı kışın uyur"
+        "At"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qa51020",
@@ -966,12 +966,12 @@
       "id": "qc200712",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Deney neden yapilir? (Tema 3)",
+      "question": "Deney neden yapılır? (Tema 3)",
       "options": [
-        "Zorunlu oldugu icin",
-        "Eglence icin",
-        "Para kazanmak icin",
-        "Hipotezi test etmek ve bilgi üretmek icin"
+        "Zorunlu olduğu için yapılır",
+        "Sadece eğlenmek için yapılır",
+        "Para kazanmak için yapılır",
+        "Hipotezi test edip bilgi üretmek"
       ],
       "correctAnswer": 3
     },
@@ -1018,12 +1018,12 @@
       "id": "qc200716",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Enerji korunumu yasasi ne der? (Tema 3)",
+      "question": "Enerji korunumu yasası ne der? (Tema 3)",
       "options": [
-        "Enerji azalir",
-        "Enerji yok olur",
-        "Enerji artar",
-        "Enerji yaratılamaz veya yok edilemez, sadece donusur"
+        "Enerji zamanla azalır",
+        "Enerji tamamen yok olur",
+        "Enerji kendiliğinden artar",
+        "Enerji yok olmaz, dönüşür"
       ],
       "correctAnswer": 3
     },
@@ -1059,10 +1059,10 @@
       "theme": "Tema 3",
       "question": "Besin zinciri neden önemlidir? (Tema 3)",
       "options": [
-        "Guzel görünür",
-        "Ekosistemdeki enerji akisini gösterir",
-        "Para üretir",
-        "Isi saglar"
+        "Güzel göründüğü için önemli",
+        "Enerji akışını gösterdiği için",
+        "Para ürettiği için önemli",
+        "Isı sağladığı için önemli"
       ],
       "correctAnswer": 1
     },
@@ -1189,10 +1189,10 @@
       "theme": "Tema 3",
       "question": "Göç neden gerçekleşir?",
       "options": [
-        "Düşmandan kaçmak için",
-        "Sadece gezi için",
-        "Yuva bulmak için",
-        "Besin bulmak ve iklime göre yer değiştirmek için"
+        "Düşmandan kaçabilmek için",
+        "Sadece gezip dolaşmak için",
+        "Yalnızca yuva yapmak için",
+        "Besin ve uygun iklim bulmak için"
       ],
       "correctAnswer": 3
     },
@@ -1242,9 +1242,9 @@
       "question": "Evcil hayvan ile yaban hayvanı arasındaki fark nedir?",
       "options": [
         "Evcil hayvanlar daha büyüktür",
-        "Evcil hayvanlar insanlarla birlikte yaşar, yaban hayvanları özgür yaşar",
+        "Evcil insanla, yaban doğada yaşar",
         "Yaban hayvanları daha zekidir",
-        "İkisi aynıdır"
+        "Aralarında hiç fark yoktur"
       ],
       "correctAnswer": 1
     },
@@ -1579,10 +1579,10 @@
       "theme": "Tema 3: Maddeyi Tanıyalım",
       "question": "Zımpara kağıdı hangi amaçla kullanılır?",
       "options": [
-        "Pürüzlü yüzeyleri pürüzsüzleştirmek için",
-        "Maddeleri kırmak için",
-        "Sıvıları ölçmek için",
-        "Maddeleri ısıtmak için"
+        "Pürüzlü yüzeyi pürüzsüz yapar",
+        "Maddeleri kırmaya yarar",
+        "Sıvıları ölçmeye yarar",
+        "Maddeleri ısıtmaya yarar"
       ],
       "correctAnswer": 0
     },
@@ -1644,10 +1644,10 @@
       "theme": "Tema 3: Maddeyi Tanıyalım",
       "question": "Bilinmeyen bir sıvıyı koklamak veya tadına bakmak neden yanlıştır?",
       "options": [
-        "Rengi değişeceği için",
-        "Zehirli veya zararlı olabileceği için",
+        "Rengi değişebileceği için",
+        "Zehirli ya da zararlı olabilir",
         "Tadı kötü olacağı için",
-        "Sıvı döküleceği için"
+        "Sıvı dökülebileceği için"
       ],
       "correctAnswer": 1
     },

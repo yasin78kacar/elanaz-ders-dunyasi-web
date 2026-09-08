@@ -6,10 +6,10 @@
       "theme": "Tema 7",
       "question": "Hava kirliliği nasıl oluşur?",
       "options": [
-        "Güneş batmasıyla",
-        "Rüzgar esmesiyle",
-        "Yağmur yağmasıyla",
-        "Zararlı maddelerin havaya karışmasıyla"
+        "Güneşin batıp doğmasıyla",
+        "Rüzgârın hızlı esmesiyle",
+        "Yağmurun bol yağmasıyla",
+        "Zararlı maddelerin havaya karışması"
       ],
       "correctAnswer": 3
     },
@@ -84,10 +84,10 @@
       "theme": "Tema 7",
       "question": "Fırtına nedir?",
       "options": [
-        "Kar fırtınası",
-        "Sıcak hava",
-        "Hafif yağmur",
-        "Kuvvetli rüzgar, yağmur ve şimşekli hava"
+        "Hafifçe kar yağan hava",
+        "Sıcak ve durgun hava",
+        "Hafif yağmur yağan hava",
+        "Kuvvetli rüzgâr ve şimşekli hava"
       ],
       "correctAnswer": 3
     },
@@ -149,10 +149,10 @@
       "theme": "Tema 7",
       "question": "İklim nedir?",
       "options": [
-        "Günlük hava",
-        "Saatlik hava",
-        "Uzun yıllar ortalaması alınan hava durumu",
-        "Aylık hava"
+        "Bir günlük hava durumu",
+        "Bir saatlik hava durumu",
+        "Uzun yılların hava ortalaması",
+        "Bir aylık hava durumu"
       ],
       "correctAnswer": 2
     },
@@ -215,9 +215,9 @@
       "question": "Hava kirliliği nasıl önlenir?",
       "options": [
         "Daha fazla araba kullanmak",
-        "Orman kesmek",
-        "Elektrikli araç, ağaç dikme, sanayi denetimi",
-        "Çöp yakmak"
+        "Ormanları kesip azaltmak",
+        "Ağaç dikmek, elektrikli araç",
+        "Çöpleri açıkta yakmak"
       ],
       "correctAnswer": 2
     },
@@ -318,10 +318,10 @@
       "theme": "Tema 7",
       "question": "El Niño nedir?",
       "options": [
-        "Bir yağış türü",
-        "Bir rüzgar çeşidi",
-        "Pasifik Okyanusu sıcaklığındaki değişim",
-        "Bir fırtına türü"
+        "Bir yağış çeşidinin adı",
+        "Bir rüzgâr çeşidinin adı",
+        "Pasifik'te sıcaklık değişimi",
+        "Bir fırtına çeşidinin adı"
       ],
       "correctAnswer": 2
     },
@@ -383,10 +383,10 @@
       "theme": "Tema 7",
       "question": "Dünya'nın şekli nedir?",
       "options": [
-        "Küreye benzeyen geoid (kutuplardan basık)",
-        "Düz",
-        "Elips",
-        "Tam küre"
+        "Kutuplardan basık küre (geoid)",
+        "Tamamen düz bir tabaka",
+        "Uzun ve ince bir elips",
+        "Kusursuz bir tam küre"
       ],
       "correctAnswer": 0
     },
@@ -409,10 +409,10 @@
       "theme": "Tema 7",
       "question": "Mantle (Manto) nedir?",
       "options": [
-        "Yer kabuğunun altındaki kısmen erimiş kayaç tabakası",
-        "Çekirdek",
-        "Atmosfer",
-        "Yer kabuğu"
+        "Yer kabuğu altındaki erimiş kayaç",
+        "Dünya'nın en dış tabakası",
+        "Dünya'yı saran hava tabakası",
+        "Dünya'nın merkez tabakası"
       ],
       "correctAnswer": 0
     },
@@ -422,10 +422,10 @@
       "theme": "Tema 7",
       "question": "Çekirdek nedir?",
       "options": [
-        "Yer kabuğu",
-        "Manto",
-        "Atmosfer",
-        "Dünya'nın merkezindeki çok sıcak katman"
+        "Dünya'nın en dış katmanı",
+        "Kabuk altındaki katman",
+        "Dünya'yı saran hava katmanı",
+        "Dünya'nın merkezindeki katman"
       ],
       "correctAnswer": 3
     },
@@ -435,10 +435,10 @@
       "theme": "Tema 7",
       "question": "Levha tektoniği nedir?",
       "options": [
-        "Yer kabuğunun hareketli parçaları (levhalar)",
-        "Okyanus oluşumu",
-        "Atmosfer",
-        "Manto"
+        "Yer kabuğunun hareketli parçaları",
+        "Okyanusların oluşum biçimi",
+        "Dünya'yı saran hava tabakası",
+        "Erimiş kayaçtan oluşan katman"
       ],
       "correctAnswer": 0
     },
@@ -448,10 +448,10 @@
       "theme": "Tema 7",
       "question": "Deprem nasıl oluşur?",
       "options": [
-        "Levhaların birbirine sürtünmesi ya da kırılması",
-        "Volkanik patlama",
-        "Sel",
-        "Fırtına"
+        "Levhaların sürtünüp kırılması",
+        "Volkanın patlaması olayı",
+        "Suların taşıp yayılması",
+        "Şiddetli fırtına çıkması"
       ],
       "correctAnswer": 0
     },
@@ -461,10 +461,10 @@
       "theme": "Tema 7",
       "question": "Volkan neden patlar?",
       "options": [
-        "Sellden",
-        "Yer altındaki magmanın basınç yaparak yüzeye çıkması",
-        "İklimden",
-        "Depremden"
+        "Sel sularının yükselmesi",
+        "Magmanın basınçla yüzeye çıkması",
+        "İklimin aniden değişmesi",
+        "Depremin şiddetlenmesi"
       ],
       "correctAnswer": 1
     },
@@ -474,10 +474,10 @@
       "theme": "Tema 7",
       "question": "Erozyon neden tehlikelidir?",
       "options": [
-        "Verimli toprak tabakasını aşındırarak tarım alanlarını azaltır",
-        "Zararlı değildir",
+        "Verimli toprağın aşınıp gitmesi",
+        "Hiçbir zararı bulunmaz",
         "Toprağı zenginleştirir",
-        "Suyu artırır"
+        "Yer altı suyunu artırır"
       ],
       "correctAnswer": 0
     },
@@ -487,10 +487,10 @@
       "theme": "Tema 7",
       "question": "Hava durumu ile iklim arasındaki fark nedir?",
       "options": [
-        "Aynı şeydir",
-        "Hava daha uzun sürer",
-        "Hava durumu anlık, iklim uzun dönem ortalamasıdır",
-        "İklim daha kısadır"
+        "İkisi tamamen aynı şeydir",
+        "Hava durumu daha uzun sürer",
+        "Hava anlık, iklim uzun dönemli",
+        "İklim daha kısa sürelidir"
       ],
       "correctAnswer": 2
     },
@@ -500,10 +500,10 @@
       "theme": "Tema 7",
       "question": "Okyanus akıntıları neden önemlidir?",
       "options": [
-        "Sadece balık taşır",
-        "Önemsizdir",
-        "İklimi dengeler, besin ve ısıyı taşır",
-        "Sadece su taşır"
+        "Yalnızca balıkları taşır",
+        "Hiçbir önemi bulunmaz",
+        "İklimi dengeler, ısı taşır",
+        "Yalnızca tuzlu suyu taşır"
       ],
       "correctAnswer": 2
     },
@@ -513,9 +513,9 @@
       "theme": "Tema 7",
       "question": "Güneş tutulması nedir?",
       "options": [
-        "Bulutların kapanması",
-        "Güneş'in sönmesi",
-        "Ay'ın Güneş ile Dünya arasına girerek Güneşi kapatması",
+        "Bulutların Güneş'i kapatması",
+        "Güneş'in ışığını kaybetmesi",
+        "Ay, Güneş ile Dünya arasına girer",
         "Dünya'nın Ay'ı kapatması"
       ],
       "correctAnswer": 2
@@ -526,10 +526,10 @@
       "theme": "Tema 7",
       "question": "Ay tutulması nedir?",
       "options": [
-        "Bulutların kapanması",
-        "Ay'ın Güneşi kapatması",
-        "Güneş'in sönmesi",
-        "Dünya'nın Ay ile Güneş arasına girerek Ay'ı karartması"
+        "Bulutların Ay'ı kapatması",
+        "Ay'ın Güneş'i kapatması",
+        "Ay'ın ışığını kaybetmesi",
+        "Dünya, Ay ile Güneş arasına girer"
       ],
       "correctAnswer": 3
     },
@@ -552,12 +552,12 @@
       "theme": "Tema 7",
       "question": "Ozon tabakası neden önemlidir?",
       "options": [
-        "Yağmur yağdırır",
-        "Isı depolar",
-        "Oksijen üretir",
-        "Zararlı UV ışınlarına karşı canlıları korur"
+        "Yağmur yağmasını sağlar",
+        "Isıyı depolayıp tutar",
+        "Zararlı UV ışınlarından korur",
+        "Havaya oksijen üretir"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe601003",
@@ -643,12 +643,12 @@
       "theme": "Tema 7: Elektrikli Araçlar",
       "question": "Elektriği güvenli kullanmak için aşağıdakilerden hangisini yapmalıyız?",
       "options": [
-        "Islak ellerle elektrik düğmelerine dokunmak",
-        "Yıpranmış kabloları kullanmak",
-        "Prizlere yabancı cisimler sokmak",
-        "Elektrikli aletleri kablosundan çekmeyip fişinden tutarak çıkarmak"
+        "Islak elle düğmeye dokunmak",
+        "Yıpranmış kabloyu kullanmak",
+        "Fişinden tutarak çıkarmak",
+        "Prize yabancı cisim sokmak"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "q-b3-fen-461",

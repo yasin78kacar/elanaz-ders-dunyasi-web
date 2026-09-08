@@ -459,12 +459,12 @@
       "id": "qc200702",
       "subject": "Fen Bilimleri",
       "theme": "Tema 2",
-      "question": "Deney neden yapilir? (Tema 2)",
+      "question": "Deney neden yapılır? (Tema 2)",
       "options": [
-        "Para kazanmak icin",
-        "Hipotezi test etmek ve bilgi üretmek icin",
-        "Zorunlu oldugu icin",
-        "Eglence icin"
+        "Öğretmen istediği için yapılır",
+        "Hipotezi test edip bilgi üretmek",
+        "Ders saatini doldurmak için",
+        "Sadece eğlenmek için yapılır"
       ],
       "correctAnswer": 1
     },
@@ -511,12 +511,12 @@
       "id": "qc200706",
       "subject": "Fen Bilimleri",
       "theme": "Tema 2",
-      "question": "Enerji korunumu yasasi ne der? (Tema 2)",
+      "question": "Enerji korunumu yasası ne der? (Tema 2)",
       "options": [
-        "Enerji azalir",
-        "Enerji artar",
-        "Enerji yok olur",
-        "Enerji yaratılamaz veya yok edilemez, sadece donusur"
+        "Enerji kullanınca biter",
+        "Enerji her gün azalır",
+        "Enerji kendiliğinden çoğalır",
+        "Enerji yok olmaz, dönüşür"
       ],
       "correctAnswer": 3
     },
@@ -552,10 +552,10 @@
       "theme": "Tema 2",
       "question": "Besin zinciri neden önemlidir? (Tema 2)",
       "options": [
-        "Isi saglar",
-        "Guzel görünür",
-        "Para üretir",
-        "Ekosistemdeki enerji akisini gösterir"
+        "Ortamı ısıttığı için önemli",
+        "Doğayı güzel gösterdiği için",
+        "Para kazandırdığı için önemli",
+        "Enerjinin nasıl aktığını gösterir"
       ],
       "correctAnswer": 3
     },
@@ -565,10 +565,10 @@
       "theme": "Tema 2",
       "question": "Kökün görevi nedir?",
       "options": [
-        "Tohumları yaymak",
-        "Oksijen üretmek",
-        "Fotosentez yapmak",
-        "Bitkiyi toprağa bağlamak ve su-mineral emimi"
+        "Tohumları uzağa yaymak",
+        "Havaya oksijen üretmek",
+        "Işıkla fotosentez yapmak",
+        "Bitkiyi tutar, su ve mineral alır"
       ],
       "correctAnswer": 3
     },
@@ -591,10 +591,10 @@
       "theme": "Tema 2",
       "question": "Yaprak hücrelerindeki kloroplastta ne gerçekleşir?",
       "options": [
-        "Büyüme",
-        "Fotosentez (güneş enerjisini besin enerjisine dönüştürme)",
-        "Solunum",
-        "Üreme"
+        "Bitkinin boyca büyümesi",
+        "Fotosentez, yani besin üretimi",
+        "Solunum, yani nefes alma",
+        "Üreme, yani çoğalma"
       ],
       "correctAnswer": 1
     },
@@ -604,10 +604,10 @@
       "theme": "Tema 2",
       "question": "Tohum neden önemlidir?",
       "options": [
-        "Bitkinin besin deposudur",
-        "Yaprağın işlevi",
-        "Yeni bir bitki oluşturma potansiyeli taşır",
-        "Çiçek üretir"
+        "Kökün görevini üstlenir",
+        "Yaprağın görevini yapar",
+        "Yeni bitki oluşturabilir",
+        "Çiçekleri renklendirir"
       ],
       "correctAnswer": 2
     },
@@ -617,12 +617,12 @@
       "theme": "Tema 2",
       "question": "Çiçeğin üreme organları nelerdir?",
       "options": [
-        "Kök",
-        "Yalnızca yaprak",
-        "Gövde",
-        "Erkek organ (stamen) ve dişi organ (pistil)"
+        "Kök ile gövde kısımları",
+        "Yalnızca yaprak kısmı",
+        "Erkek organ ve dişi organ",
+        "Gövde ile dal kısımları"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe600919",
@@ -630,10 +630,10 @@
       "theme": "Tema 2",
       "question": "Meyve ne işe yarar?",
       "options": [
-        "Yaprak dökümü",
-        "Tohumu korur ve yayılmasına yardımcı olur",
-        "Kök büyütür",
-        "Fotosentez yapar"
+        "Yaprakların dökülmesini sağlar",
+        "Tohumu korur ve yayılmasını sağlar",
+        "Kökün uzamasını sağlar",
+        "Fotosentez yapmayı sağlar"
       ],
       "correctAnswer": 1
     },
@@ -643,10 +643,10 @@
       "theme": "Tema 2",
       "question": "Güneşe dönen bitkiler bu davranışı neden gösterir?",
       "options": [
-        "Kök uzattıkları için",
-        "Gölge sevdikleri için",
-        "Su içtikleri için",
-        "Işıktan maksimum yararlanmak için (fototropizm)"
+        "Köklerini uzatmak için",
+        "Gölgede kalabilmek için",
+        "Daha çok su içmek için",
+        "Işıktan en iyi yararlanmak için"
       ],
       "correctAnswer": 3
     },
@@ -669,12 +669,12 @@
       "theme": "Tema 2",
       "question": "İğne yapraklı ağaçlar neden kışın yaprak dökmez?",
       "options": [
-        "Çünkü güneş görür",
-        "Çünkü kökü derindir",
-        "Çünkü soğuğu sevmez",
-        "İnce iğne yaprakları sayesinde su kaybı az olur"
+        "Çünkü sürekli güneş görür",
+        "Çünkü kökleri çok derindir",
+        "İğne yaprakla su kaybı az olur",
+        "Çünkü soğuk havayı sevmez"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe600923",
@@ -695,10 +695,10 @@
       "theme": "Tema 2",
       "question": "Çiçeklenme ne zaman gerçekleşir?",
       "options": [
-        "Kışın",
-        "Sonbaharda",
-        "Her mevsim",
-        "Genellikle ilkbaharda (iklime göre değişir)"
+        "Genellikle kış mevsiminde",
+        "Genellikle sonbaharda olur",
+        "Her mevsim aynı şekilde",
+        "Genellikle ilkbahar mevsiminde"
       ],
       "correctAnswer": 3
     },
@@ -708,10 +708,10 @@
       "theme": "Tema 2",
       "question": "Tozlaşma (polinasyon) nedir?",
       "options": [
-        "Yaprağın büyümesi",
-        "Tohumun açılması",
-        "Polenlerin erkek organdan dişi organa taşınması",
-        "Kökün uzaması"
+        "Yaprakların büyümesi olayı",
+        "Tohumun açılması olayı",
+        "Polenin dişi organa taşınması",
+        "Kökün uzaması olayı"
       ],
       "correctAnswer": 2
     },
@@ -734,10 +734,10 @@
       "theme": "Tema 2",
       "question": "Su bitkinin büyümesi için neden şarttır?",
       "options": [
-        "Renk verir",
-        "Sert yapar",
-        "Fotosentez, madde taşıma ve hücre canlılığı için gereklidir",
-        "Koku verir"
+        "Bitkiye renk verdiği için",
+        "Bitkiyi sertleştirdiği için",
+        "Fotosentez ve madde taşıma için",
+        "Bitkiye koku verdiği için"
       ],
       "correctAnswer": 2
     },
@@ -1008,9 +1008,9 @@
       "question": "Hava katmanının varlığını en iyi nasıl hissederiz?",
       "options": [
         "Gözümüzü kapattığımızda",
-        "Toprağı kazdığımızda",
-        "Rüzgar estiğinde yaprakların sallanmasıyla",
-        "Su içtiğimizde"
+        "Toprağı kazdığımız zaman",
+        "Rüzgârda yaprakların sallanması",
+        "Su içtiğimiz her seferde"
       ],
       "correctAnswer": 2
     },
@@ -1111,9 +1111,9 @@
       "theme": "Tema 2: Dünyamız ve Gökyüzü",
       "question": "Aşağıdakilerden hangisi hava katmanının canlılar için önemini belirtir?",
       "options": [
-        "Denizleri doldurması",
-        "Toprak üretmesi",
-        "Nefes almamızı sağlayan oksijeni bulundurması",
+        "Denizleri doldurup taşırması",
+        "Toprağı üretip çoğaltması",
+        "Soluduğumuz oksijeni taşıması",
         "Yürüyüş yapmamızı sağlaması"
       ],
       "correctAnswer": 2
@@ -1150,10 +1150,10 @@
       "theme": "Tema 2: Dünyamız ve Gökyüzü",
       "question": "Güneş olmasaydı Dünyamız nasıl bir yer olurdu?",
       "options": [
-        "Hiçbir şey değişmezdi.",
-        "Karanlık ve tamamen buzla kaplı bir yer olurdu.",
-        "Sadece yağmur yağardı.",
-        "Daha sıcak olurdu."
+        "Hiçbir şey değişmez olurdu",
+        "Karanlık ve buzlu bir yer olurdu",
+        "Sadece yağmur yağan yer olurdu",
+        "Daha sıcak bir yer olurdu"
       ],
       "correctAnswer": 1
     },
@@ -1176,10 +1176,10 @@
       "theme": "Tema 2: Dünyamız ve Gökyüzü",
       "question": "Gece ile gündüz arasındaki sıcaklık farkının temel sebebi nedir?",
       "options": [
-        "Havanın gece uyuması",
-        "Gündüz Güneş ışığı almamız, gece almamamız",
-        "Denizlerin soğuması",
-        "Bulutların birikmesi"
+        "Havanın geceleri uyuması",
+        "Gündüz Güneş ışığı almamız",
+        "Denizlerin gece soğuması",
+        "Bulutların gece birikmesi"
       ],
       "correctAnswer": 1
     },
@@ -1189,10 +1189,10 @@
       "theme": "Tema 2: Dünyamız ve Gökyüzü",
       "question": "Gökyüzündeki Ay her gece aynı şekil ve boyutta mı görünür?",
       "options": [
-        "Evet, her zaman tam yuvarlaktır.",
-        "Evet, her zaman görünmez.",
-        "Evet, sadece gündüz görünür.",
-        "Hayır, farklı evrelerde (hilal, dolunay) görünür."
+        "Evet, her zaman tam yuvarlaktır",
+        "Evet, her zaman görünmez",
+        "Evet, sadece gündüz görünür",
+        "Hayır, farklı evrelerde görünür"
       ],
       "correctAnswer": 3
     },
@@ -1215,10 +1215,10 @@
       "theme": "Tema 2: Dünyamız ve Gökyüzü",
       "question": "Toprak bitkiler için neden önemlidir?",
       "options": [
-        "Hava ürettiği için",
-        "Kökleriyle tutunmalarını ve su almalarını sağladığı için",
+        "Bitkiye hava ürettiği için",
+        "Tutunup su almalarını sağlar",
         "Güneş ışığı verdiği için",
-        "Sıcak tuttuğu için"
+        "Bitkiyi sıcak tuttuğu için"
       ],
       "correctAnswer": 1
     },
