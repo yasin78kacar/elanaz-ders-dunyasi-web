@@ -1,19 +1,6 @@
 {
   "questions": [
     {
-      "id": "q1161",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Türkçede sesli uyumu nedir?",
-      "options": [
-        "Hece sayısı",
-        "Anlam birliği",
-        "Kelimenin eklerindeki seslerin uyumu",
-        "Kelimenin uzunluğu"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q1162",
       "subject": "Türkçe",
       "theme": "Tema 10",
@@ -105,32 +92,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q1173",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "'Yağmur yağıyor.' cümlesinde özne nedir?",
-      "options": [
-        "Bugün",
-        "Yağmur",
-        "Dışarıda",
-        "Yağıyor"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q1174",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "'Elanaz resim yaptı.' cümlesinde yüklem nedir?",
-      "options": [
-        "Güzel",
-        "Yaptı",
-        "Elanaz",
-        "Resim"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q1175",
       "subject": "Türkçe",
       "theme": "Tema 10",
@@ -181,19 +142,6 @@
         "Yukarıdan aşağıya"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "q1179",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Anlatım bozukluğu nedir?",
-      "options": [
-        "Çok kısa kurulmuş cümle",
-        "Yanlış anlaşılan çelişkili cümle",
-        "Soru anlamı taşıyan cümle",
-        "Çok uzun kurulmuş cümle"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q1180",
@@ -625,19 +573,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qf800685",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Hangi sözcük türü cümlede mutlaka bulunmalıdır?",
-      "options": [
-        "Nesne",
-        "Özne",
-        "Zarf",
-        "Yüklem (fiil ya da isim yüklemi)"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qf800686",
       "subject": "Türkçe",
       "theme": "Tema 10",
@@ -651,32 +586,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qf800687",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Pekiştirmeli sıfat nedir?",
-      "options": [
-        "İsmi belirten sıfat: bu ev",
-        "Sayı belirten sıfat: üç ev",
-        "Anlamı güçlendirir: kapkara",
-        "Niteleme sıfatı: güzel ev"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qf800688",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Sayı sıfatı nedir?",
-      "options": [
-        "İsmi göstererek belirtir",
-        "İsmin niteliğini bildirir",
-        "Sayı belirtir: üç elma",
-        "İsmin yerini tutan sözcük"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qf800689",
       "subject": "Türkçe",
       "theme": "Tema 10",
@@ -688,19 +597,6 @@
         "İsmin yerini tutan sözcük"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qf800690",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Belirsizlik sıfatı nedir?",
-      "options": [
-        "Kesin sayı: üç, beş, on",
-        "Nitelik: güzel, eski, yeni",
-        "Belirsiz miktar: bazı, birkaç",
-        "Gösterme: bu, şu, o"
-      ],
-      "correctAnswer": 2
     }
   ]
 }

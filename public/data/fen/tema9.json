@@ -170,19 +170,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qa51082",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Bağışıklık sistemi nedir?",
-      "options": [
-        "Kanı taşıyan dolaşım sistemi",
-        "Hastalıklara karşı koruyan sistem",
-        "Besini öğüten sindirim sistemi",
-        "Kasları çalıştıran hareket sistemi"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qa51083",
       "subject": "Fen Bilimleri",
       "theme": "Tema 9",
@@ -261,71 +248,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qe601019",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Beyin hangi sistem içindedir?",
-      "options": [
-        "Sinir sistemi",
-        "Dolaşım sistemi",
-        "Sindirim sistemi",
-        "Solunum sistemi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe601020",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Kalp hangi sistem içindedir?",
-      "options": [
-        "Sindirim sistemi",
-        "Sinir sistemi",
-        "Solunum sistemi",
-        "Dolaşım (Kan dolaşımı) sistemi"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe601021",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Akciğerler hangi sistemdedir?",
-      "options": [
-        "Sindirim sistemi",
-        "Dolaşım sistemi",
-        "Solunum sistemi",
-        "Sinir sistemi"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe601022",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Mide hangi sistemdedir?",
-      "options": [
-        "Solunum sistemi",
-        "Dolaşım sistemi",
-        "Sindirim sistemi",
-        "Sinir sistemi"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe601023",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Böbrekler hangi sistemdedir?",
-      "options": [
-        "Solunum sistemi",
-        "Dolaşım sistemi",
-        "Boşaltım sistemi",
-        "Sinir sistemi"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qe601024",
       "subject": "Fen Bilimleri",
       "theme": "Tema 9",
@@ -391,19 +313,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qe601029",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Sindirim neden önemlidir?",
-      "options": [
-        "Besini kullanılır hâle getirir",
-        "Yalnızca karnı doyurur",
-        "Vücut için su üretir",
-        "Yalnızca enerji verir"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe601030",
       "subject": "Fen Bilimleri",
       "theme": "Tema 9",
@@ -415,32 +324,6 @@
         "A vitamini"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qe601031",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Hangi besin grubu enerji verir?",
-      "options": [
-        "Karbonhidratlar (ekmek, pirinç)",
-        "Yalnızca vitaminler verir",
-        "Yalnızca yağlar enerji verir",
-        "Yalnızca proteinler verir"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe601032",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 9",
-      "question": "Hangi besin grubu büyüme için gereklidir?",
-      "options": [
-        "Karbonhidratlar (ekmek, pirinç)",
-        "Yağlar (tereyağı, zeytinyağı)",
-        "Proteinler (et, süt, yumurta)",
-        "Su ve madensel tuzlar"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qe601033",

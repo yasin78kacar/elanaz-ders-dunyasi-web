@@ -183,32 +183,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q1318",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Ozon tabakası ne işe yarar?",
-      "options": [
-        "Oksijen üretir",
-        "Zararlı UV ışınlarına karşı korur",
-        "Sıcaklık sağlar",
-        "Yağmur oluşturur"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q1319",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Sera etkisi ne demektir?",
-      "options": [
-        "Sera içinde ısınma",
-        "Kışın soğuma",
-        "Dünya'nın ısının tutulması",
-        "Yaz sıcağı"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qa51054",
       "subject": "Fen Bilimleri",
       "theme": "Tema 7",
@@ -313,19 +287,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qa51063",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "El Niño nedir?",
-      "options": [
-        "Bir yağış çeşidinin adı",
-        "Bir rüzgâr çeşidinin adı",
-        "Pasifik'te sıcaklık değişimi",
-        "Bir fırtına çeşidinin adı"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qb91071",
       "subject": "Fen Bilimleri",
       "theme": "Tema 7",
@@ -378,45 +339,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qe600989",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Dünya'nın şekli nedir?",
-      "options": [
-        "Kutuplardan basık küre (geoid)",
-        "Tamamen düz bir tabaka",
-        "Uzun ve ince bir elips",
-        "Kusursuz bir tam küre"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600990",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Yer kabuğu nedir?",
-      "options": [
-        "İç katman",
-        "Manto",
-        "Çekirdek",
-        "Dünya'nın en dış katmanı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600991",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Mantle (Manto) nedir?",
-      "options": [
-        "Yer kabuğu altındaki erimiş kayaç",
-        "Dünya'nın en dış tabakası",
-        "Dünya'yı saran hava tabakası",
-        "Dünya'nın merkez tabakası"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe600992",
       "subject": "Fen Bilimleri",
       "theme": "Tema 7",
@@ -430,19 +352,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qe600993",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Levha tektoniği nedir?",
-      "options": [
-        "Yer kabuğunun hareketli parçaları",
-        "Okyanusların oluşum biçimi",
-        "Dünya'yı saran hava tabakası",
-        "Erimiş kayaçtan oluşan katman"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe600994",
       "subject": "Fen Bilimleri",
       "theme": "Tema 7",
@@ -454,19 +363,6 @@
         "Şiddetli fırtına çıkması"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qe600995",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Volkan neden patlar?",
-      "options": [
-        "Sel sularının yükselmesi",
-        "Magmanın basınçla yüzeye çıkması",
-        "İklimin aniden değişmesi",
-        "Depremin şiddetlenmesi"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qe600996",
@@ -508,32 +404,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qe600999",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Güneş tutulması nedir?",
-      "options": [
-        "Bulutların Güneş'i kapatması",
-        "Güneş'in ışığını kaybetmesi",
-        "Ay, Güneş ile Dünya arasına girer",
-        "Dünya'nın Ay'ı kapatması"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe601000",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Ay tutulması nedir?",
-      "options": [
-        "Bulutların Ay'ı kapatması",
-        "Ay'ın Güneş'i kapatması",
-        "Ay'ın ışığını kaybetmesi",
-        "Dünya, Ay ile Güneş arasına girer"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qe601001",
       "subject": "Fen Bilimleri",
       "theme": "Tema 7",
@@ -545,32 +415,6 @@
         "Sirius"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "qe601002",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Ozon tabakası neden önemlidir?",
-      "options": [
-        "Yağmur yağmasını sağlar",
-        "Isıyı depolayıp tutar",
-        "Zararlı UV ışınlarından korur",
-        "Havaya oksijen üretir"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe601003",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 7",
-      "question": "Hangi gaz sera etkisine en çok katkı sağlar?",
-      "options": [
-        "Argon (Ar)",
-        "Azot (N₂)",
-        "Karbondioksit (CO₂)",
-        "Oksijen (O₂)"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "q-b3-fen-122",

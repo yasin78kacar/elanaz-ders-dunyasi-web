@@ -339,45 +339,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qa51030",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Kaynama noktası nedir?",
-      "options": [
-        "Soğuma noktası",
-        "Sıvının gaz haline geçtiği sıcaklık",
-        "Donma noktası",
-        "Erime noktası"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa51031",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Donma noktası nedir?",
-      "options": [
-        "Buharlaşma noktası",
-        "Erime noktası",
-        "Sıvının katı hale geçtiği sıcaklık",
-        "Kaynama noktası"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa51032",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Hacim nedir?",
-      "options": [
-        "Maddenin kapladığı yer",
-        "Maddenin rengi",
-        "Maddenin kokusu",
-        "Maddenin ağırlığı"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb91026",
       "subject": "Fen Bilimleri",
       "theme": "Tema 4",
@@ -534,45 +495,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qe600948",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Hangi madde değişimi fiziksel değişimdir?",
-      "options": [
-        "Ekmek yakmak",
-        "Buz eritmek (suyun hali değişir)",
-        "Demir paslanmak",
-        "Ekmeği kesmek (şekli değişir ama maddesi aynı)"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600949",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Hangi madde değişimi kimyasal değişimdir?",
-      "options": [
-        "Camın kırılıp parçalanması",
-        "Kâğıdın makasla kesilmesi",
-        "Buzun ısıyla erimesi",
-        "Demirin paslanıp çürümesi"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600950",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Çözünme nedir?",
-      "options": [
-        "Bir maddenin başkasında dağılması",
-        "Maddenin donup katılaşması",
-        "Maddenin sertleşip katılaşması",
-        "Maddenin ısınıp buharlaşması"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qe600951",
       "subject": "Fen Bilimleri",
       "theme": "Tema 4",
@@ -597,19 +519,6 @@
         "Zeytinyağı"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qe600953",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Erime ve çözünme arasındaki fark nedir?",
-      "options": [
-        "Erime hâl değişimi, çözünme dağılma",
-        "İkisi tamamen aynı şeydir",
-        "Çözünme bir hâl değişimidir",
-        "Erime kimyasal bir değişimdir"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qe600954",
@@ -660,19 +569,6 @@
         "Evet, madde yok olmaz, dönüşür",
         "Hayır, yok olabilir",
         "Sadece gazlar yok olur"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600958",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 4",
-      "question": "Demirin paslanması hangi tür değişimdir?",
-      "options": [
-        "Elektriksel bir değişim",
-        "Kimyasal (yeni madde oluşur)",
-        "Isısal bir değişimdir",
-        "Fiziksel bir değişimdir"
       ],
       "correctAnswer": 1
     },

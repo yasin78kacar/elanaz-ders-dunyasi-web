@@ -261,19 +261,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qb90934",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Okuma stratejisi nedir?",
-      "options": [
-        "Sadece hizli okuma",
-        "Oneeden okuma, not alma, ozet yapma",
-        "Sadece basliga bakma",
-        "Sadece son paragrafi okuma"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb90935",
       "subject": "Türkçe",
       "theme": "Tema 8",
@@ -283,19 +270,6 @@
         "Zorunlu olduğu için yapılır",
         "Kurşun kalem harcamak için",
         "Sadece yazı pratiği yapmak"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qb90936",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Çıkarsama ne demektir?",
-      "options": [
-        "Yazmayanı ima edilenden bulmak",
-        "Paragrafı ikiye bölmek",
-        "Metni sesli okuyup geçmek",
-        "Metindeki kelimeleri saymak"
       ],
       "correctAnswer": 0
     },
@@ -339,32 +313,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qe600872",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Büyük ünlü uyumu nedir?",
-      "options": [
-        "Eklerin birbirine uyumu",
-        "Kalın ünlüyle kalın, inceyle ince",
-        "Ünsüzlerin birbiriyle uyumu",
-        "Cümlelerin birbirine uyumu"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600873",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Küçük ünlü uyumu nedir?",
-      "options": [
-        "Hecelerin uyumu",
-        "Sessizlerin uyumu",
-        "Kalın ve ince seslilerin uyumu",
-        "Yuvarlak ve düz seslilerin uyumu"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qe600874",
       "subject": "Türkçe",
       "theme": "Tema 8",
@@ -389,19 +337,6 @@
         "1 sesli harf ile"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qe600876",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Hangi kelimede büyük ünlü uyumu yoktur?",
-      "options": [
-        "Gül",
-        "Kitap",
-        "Okul",
-        "Köprü"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qe600877",
@@ -430,19 +365,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qf800646",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Türkçede kaç tür ek vardır?",
-      "options": [
-        "Dört tür",
-        "Üç tür",
-        "İki tür: yapım eki ve çekim eki",
-        "Bir tür"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qf800647",
       "subject": "Türkçe",
       "theme": "Tema 8",
@@ -454,19 +376,6 @@
         "3"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qf800648",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "'Taş-lık' sözcüğünde '-lık' eki ne işlevi görür?",
-      "options": [
-        "Yeni sözcük türetir (yapım eki)",
-        "Çoğul yapar",
-        "Yeri bildirir",
-        "Zamanı bildirir"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qf800649",
@@ -517,45 +426,6 @@
         "Şimdiki zamanı bildirir",
         "Görülmeyen, duyulan geçmişi",
         "Gelecek zamanı bildirir"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qf800653",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Gelecek zaman eki hangisidir?",
-      "options": [
-        "-iyor / -ıyor",
-        "-miş / -mış",
-        "-di / -dı",
-        "-ecek / -acak"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qf800654",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Şimdiki zaman eki hangisidir?",
-      "options": [
-        "-ecek / -acak",
-        "-iyor / -ıyor",
-        "-miş / -mış",
-        "-di / -dı"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qf800655",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Geniş zaman eki hangisidir?",
-      "options": [
-        "-di",
-        "-iyor",
-        "-ir / -er / -ar / -ur",
-        "-ecek"
       ],
       "correctAnswer": 2
     },
@@ -621,19 +491,6 @@
         "-iyor (şimdiki)",
         "-lık/-lik (tuz→tuzluk)",
         "-di (geçmiş)"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600815",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Yardımcı fikir nedir?",
-      "options": [
-        "Ana fikrin kendisi",
-        "Başlık",
-        "Ana fikri destekleyen yan düşünceler",
-        "Son paragraf"
       ],
       "correctAnswer": 2
     }

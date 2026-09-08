@@ -1,32 +1,6 @@
 {
   "questions": [
     {
-      "id": "q1101",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Şiirde satırlara ne denir?",
-      "options": [
-        "Dörtlük",
-        "Paragraf",
-        "Cümle",
-        "Dize"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q1102",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "4 dizeden oluşan şiir bölümüne ne denir?",
-      "options": [
-        "Dörtlük",
-        "Dize",
-        "Paragraf",
-        "Bölüm"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q1103",
       "subject": "Türkçe",
       "theme": "Tema 7",
@@ -51,19 +25,6 @@
         "Tarihsel"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "q1107",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Şiirde aynı seslerin tekrarlanmasına ne denir?",
-      "options": [
-        "Bölüm",
-        "Dörtlük",
-        "Dize",
-        "Uyak (Kafiye)"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "q1109",
@@ -170,19 +131,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q1119",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Destanlar neleri anlatır?",
-      "options": [
-        "Yemek tariflerini",
-        "Büyük kahramanlıkları",
-        "Günlük yaşamı",
-        "Çocuk oyunlarını"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q1120",
       "subject": "Türkçe",
       "theme": "Tema 7",
@@ -207,19 +155,6 @@
         "Habere"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qa50955",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Şiir ve düzyazının farkı nedir?",
-      "options": [
-        "Şiirde paragraf olur",
-        "Düzyazıda uyak olur",
-        "İkisi aynıdır",
-        "Şiirde ölçü ve uyak olabilir"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qa50958",
@@ -311,19 +246,6 @@
         "Bir kişinin yaşamını anlatan yazı"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qb90924",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "\"fabl\" türünü tanımlayan hangisidir?",
-      "options": [
-        "Ölçü ve uyakla yazılan edebî tür",
-        "Gerçek olayları bildiren yazı",
-        "Birine yazılan kişisel yazı",
-        "Hayvanların konuştuğu öğütlü hikâye"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qb90925",
@@ -521,32 +443,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qf800632",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "1. Şahıs anlatıcı nedir?",
-      "options": [
-        "Olayları 'ben' diyerek anlatan",
-        "Olayları 'o' diyerek anlatan",
-        "Adı bilinmeyen anlatıcı",
-        "Olayları 'biz' diyerek anlatan"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qf800633",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "3. Şahıs anlatıcı nedir?",
-      "options": [
-        "Olayları 'ben' diyerek anlatan",
-        "Birden fazla anlatıcı",
-        "Olayları 'o, onlar' diyerek anlatan",
-        "Olayları 'sen' diyerek anlatan"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qf800635",
       "subject": "Türkçe",
       "theme": "Tema 7",
@@ -584,19 +480,6 @@
         "Metin okumak bırakılır"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qf800638",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Bir haberin '5N 1K' kuralı nedir?",
-      "options": [
-        "Beş paragraf ve bir başlık",
-        "Beş cümle ve bir kelime",
-        "Kim, ne, nerede, ne zaman, neden",
-        "Beş haber ve bir röportaj"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qf800639",
@@ -677,19 +560,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qf800645",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Metin haritası nedir?",
-      "options": [
-        "Ülkeleri gösteren coğrafi harita",
-        "Paragrafların kısa özeti",
-        "Metni şema olarak görselleştirmek",
-        "Bilinmeyen kelime listesi"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "turkce_t7_yeni_001",
       "subject": "Türkçe",
       "theme": "Tema 7",
@@ -699,32 +569,6 @@
         "Kalbin hastalandığını",
         "Arkadaşını beklediğini",
         "Bir oyuncağı sakladığını"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "turkce_t7_yeni_002",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "\"Kar taneleri dans ediyor\" ifadesi hangi sanatlı söyleyişe örnektir?",
-      "options": [
-        "Soru cümlesi",
-        "Abartma",
-        "Karşılaştırma",
-        "Kişileştirme"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "turkce_t7_yeni_003",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Şiirde kıta nedir?",
-      "options": [
-        "Bir grup dizedir",
-        "Uzun cümledir",
-        "Noktadır",
-        "Başlıktır"
       ],
       "correctAnswer": 0
     },
@@ -859,19 +703,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "turkce_t7_yeni_014",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "\"Dalgalar oynar benimle\" ifadesi ne tür bir anlatım?",
-      "options": [
-        "Kişileştirme",
-        "Kafiye",
-        "Gerçek",
-        "Zıtlık"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "turkce_t7_yeni_015",
       "subject": "Türkçe",
       "theme": "Tema 7",
@@ -922,58 +753,6 @@
         "Ormana"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "turkce_t7_yeni_019",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Bir şiirde tekrar eden dize bölümüne ne denir?",
-      "options": [
-        "Nakarat",
-        "Başlık",
-        "Dipnot",
-        "Paragraf"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "turkce_t7_yeni_020",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "\"Dal\" ve \"bal\" kelimeleri şiirde neyi oluşturur?",
-      "options": [
-        "Ölçü",
-        "Kıta",
-        "Kafiye",
-        "Başlık"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "turkce_t7_yeni_021",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "\"Bahar\" kelimesiyle kafiyeli olan hangisidir?",
-      "options": [
-        "Deniz",
-        "Bulut",
-        "Kitap",
-        "Duvar"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "turkce_t7_yeni_022",
-      "subject": "Türkçe",
-      "theme": "Tema 7",
-      "question": "Üç kıtalık bir şiirde her kıta 4 dizeyse kaç dize olur?",
-      "options": [
-        "9",
-        "7",
-        "16",
-        "12"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "turkce_t7_yeni_023",

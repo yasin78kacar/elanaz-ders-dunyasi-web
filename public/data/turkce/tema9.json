@@ -40,19 +40,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "q1148",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Eril ve dişil ayrımı Türkçede var mıdır?",
-      "options": [
-        "Sadece özel isimlerde",
-        "Hayır",
-        "Bazen",
-        "Evet"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q1149",
       "subject": "Türkçe",
       "theme": "Tema 9",
@@ -62,45 +49,6 @@
         "-da/-de",
         "-la/-le",
         "Çoğul: -ın/-in"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q1150",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "'Çocuklar oynuyor.' cümlesinde özne nedir?",
-      "options": [
-        "Güzel",
-        "Çocuklar",
-        "Hızlı",
-        "Oynuyor"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q1151",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "'Arabalar yolda gidiyordu.' cümlesinde yüklem nedir?",
-      "options": [
-        "Hızlı",
-        "Gidiyordu",
-        "Arabalar",
-        "Yolda"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q1152",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "'Kedi masanın üstünde uyuyor.' cümlesinde nesne nedir?",
-      "options": [
-        "Yok (nesnesiz cümle)",
-        "Üstünde",
-        "Kedi",
-        "Masanın"
       ],
       "correctAnswer": 0
     },
@@ -313,32 +261,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb90943",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "'-yor' eki ne görevlidir?",
-      "options": [
-        "Şimdiki zaman eki",
-        "Emir eki",
-        "Gelecek zaman eki",
-        "Geçmiş zaman eki"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qb90944",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "'-mak/-mek' eki ne görevlidir?",
-      "options": [
-        "Zaman eki",
-        "Mastar (eylem adı) eki",
-        "Çoğul eki",
-        "Yer eki"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb90945",
       "subject": "Türkçe",
       "theme": "Tema 9",
@@ -389,32 +311,6 @@
         "Bir soluğa çıkan ses grubu"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qe600881",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Yapım eki örneği hangisidir?",
-      "options": [
-        "gel + di (zaman bildirir)",
-        "ev + ler (çokluk bildirir)",
-        "göz + lük (yeni sözcük yapar)",
-        "okul + da (yer bildirir)"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600882",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Çekim eki örneği hangisidir?",
-      "options": [
-        "göz + lük (-lük yeni kelime yapıyor)",
-        "su + lu (-lu özellik katıyor)",
-        "gel + iyor (-iyor zaman bildiriyor)",
-        "taş + lık (-lık yeni anlam veriyor)"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qe600883",
@@ -478,19 +374,6 @@
         "-lar / -ler",
         "-ın / -in",
         "-a / -e"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600888",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "'gözlük' sözcüğündeki '-lük' eki hangi tür ektir?",
-      "options": [
-        "Çekim eki",
-        "Yapım eki (yeni sözcük türetiyor)",
-        "Kişi eki",
-        "Zaman eki"
       ],
       "correctAnswer": 1
     },
@@ -712,58 +595,6 @@
         "İsimlerin kendisi olan sözcük",
         "İsimleri niteleyen sözcük",
         "İsmin yerini tutan sözcük"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600837",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Zarf nedir?",
-      "options": [
-        "İsimleri niteleyen sözcük",
-        "Eylemi ve sıfatı niteleyen sözcük",
-        "Cümleleri bağlayan sözcük",
-        "Eyleme eklenen zaman eki"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qe600838",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Zamir nedir?",
-      "options": [
-        "Eylem",
-        "İsmin kendisi",
-        "İsmin yerini tutan sözcük",
-        "Bağlaç"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600839",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Bağlaç nedir?",
-      "options": [
-        "Sözcük ve cümleleri bağlayan söz",
-        "İş ve oluş bildiren sözcük",
-        "Varlıklara verilen addır",
-        "İsimleri niteleyen sözcük"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600840",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "Edat nedir?",
-      "options": [
-        "Eylemi niteleyip belirtir",
-        "Cümleleri birbirine bağlar",
-        "İsimlerle anlam ilişkisi kurar",
-        "İsmin yerine kullanılır"
       ],
       "correctAnswer": 2
     },
@@ -1052,19 +883,6 @@
         "Zamir (tamlayan)"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qf800615",
-      "subject": "Türkçe",
-      "theme": "Tema 9",
-      "question": "'ile' sözcüğü hangi sözcük türüdür?",
-      "options": [
-        "Bağlaç ya da edat",
-        "Sıfat",
-        "İsim",
-        "Eylem"
-      ],
-      "correctAnswer": 0
     }
   ]
 }

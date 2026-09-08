@@ -1,19 +1,6 @@
 {
   "questions": [
     {
-      "id": "q1084",
-      "subject": "Türkçe",
-      "theme": "Tema 6",
-      "question": "'Ama' hangi görev sözcüğüdür?",
-      "options": [
-        "Bağlaç",
-        "Sıfat",
-        "Zamir",
-        "Eylem"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q1085",
       "subject": "Türkçe",
       "theme": "Tema 6",
@@ -612,19 +599,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qf800619",
-      "subject": "Türkçe",
-      "theme": "Tema 6",
-      "question": "Fabl nedir?",
-      "options": [
-        "Dizelerden oluşan şiir türü",
-        "Çok uzun bir roman türü",
-        "Hayvanların konuştuğu öğüt hikâyesi",
-        "Bilimsel bilgi veren makale"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qf800620",
       "subject": "Türkçe",
       "theme": "Tema 6",
@@ -664,19 +638,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qf800623",
-      "subject": "Türkçe",
-      "theme": "Tema 6",
-      "question": "Deneme nedir?",
-      "options": [
-        "Yazarın kişisel görüşünü aktarır",
-        "Uzun bir roman türüdür",
-        "Dizelerden oluşan şiir",
-        "Olayı duyuran haber yazısı"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qf800624",
       "subject": "Türkçe",
       "theme": "Tema 6",
@@ -703,45 +664,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qf800626",
-      "subject": "Türkçe",
-      "theme": "Tema 6",
-      "question": "Şiirde uyak (kafiye) ne anlama gelir?",
-      "options": [
-        "Dize sonlarındaki ses uyumu",
-        "Şiirin anlamı",
-        "Şairin adı",
-        "Şiirin uzunluğu"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qf800627",
-      "subject": "Türkçe",
-      "theme": "Tema 6",
-      "question": "Redif nedir?",
-      "options": [
-        "Şiirdeki dörtlük bölümü",
-        "Şiirdeki her bir satır",
-        "Uyaktan sonra gelen aynı ek",
-        "Dize sonundaki ses benzerliği"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qf800628",
-      "subject": "Türkçe",
-      "theme": "Tema 6",
-      "question": "Bir şiirde 'bende' → 'sende' → 'elde' uyağı nasıl bir uyaktır?",
-      "options": [
-        "Tam uyak (-de eki aynı)",
-        "Yarım uyak",
-        "Cinaslı uyak",
-        "Tunç uyak"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qf800629",
       "subject": "Türkçe",
       "theme": "Tema 6",
@@ -753,19 +675,6 @@
         "Şiir türü"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qf800630",
-      "subject": "Türkçe",
-      "theme": "Tema 6",
-      "question": "Şiir ile düzyazı arasındaki temel fark nedir?",
-      "options": [
-        "Yazarlarının farklı olması",
-        "İşledikleri konu farkı",
-        "Şiirde ölçü ve uyak bulunabilir",
-        "Metin uzunluğu farkı"
-      ],
-      "correctAnswer": 2
     }
   ]
 }

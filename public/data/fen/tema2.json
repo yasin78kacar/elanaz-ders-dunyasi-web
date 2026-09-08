@@ -1,19 +1,6 @@
 {
   "questions": [
     {
-      "id": "q1206",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Fotosentez için hangi enerji kullanılır?",
-      "options": [
-        "Güneş ışığı",
-        "Rüzgar",
-        "Toprak",
-        "Su"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q1209",
       "subject": "Fen Bilimleri",
       "theme": "Tema 2",
@@ -92,19 +79,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qa51007",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Çiçeklerin renkleri ne için önemlidir?",
-      "options": [
-        "Besin için",
-        "Su için",
-        "Güzel görünmek için",
-        "Böcekleri çekerek tozlaşmayı sağlar"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qa51008",
       "subject": "Fen Bilimleri",
       "theme": "Tema 2",
@@ -129,19 +103,6 @@
         "Yıllık halka sayısıyla"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qa51012",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Çiçek tozu neden önemlidir?",
-      "options": [
-        "Tozlaşma ve üreme için",
-        "Renk için",
-        "Besin için",
-        "Koku için"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "qb91002",
@@ -456,32 +417,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qe600915",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Yaprak neden yeşildir?",
-      "options": [
-        "İçerdiği klorofil pigmenti sayesinde",
-        "Güneş gördüğü için",
-        "Su içerdiği için",
-        "İnce olduğu için"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qe600916",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Yaprak hücrelerindeki kloroplastta ne gerçekleşir?",
-      "options": [
-        "Bitkinin boyca büyümesi",
-        "Fotosentez, yani besin üretimi",
-        "Solunum, yani nefes alma",
-        "Üreme, yani çoğalma"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qe600917",
       "subject": "Fen Bilimleri",
       "theme": "Tema 2",
@@ -491,19 +426,6 @@
         "Yaprağın görevini yapar",
         "Yeni bitki oluşturabilir",
         "Çiçekleri renklendirir"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600918",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Çiçeğin üreme organları nelerdir?",
-      "options": [
-        "Kök ile gövde kısımları",
-        "Yalnızca yaprak kısmı",
-        "Erkek organ ve dişi organ",
-        "Gövde ile dal kısımları"
       ],
       "correctAnswer": 2
     },
@@ -586,45 +508,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qe600925",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Tozlaşma (polinasyon) nedir?",
-      "options": [
-        "Yaprakların büyümesi olayı",
-        "Tohumun açılması olayı",
-        "Polenin dişi organa taşınması",
-        "Kökün uzaması olayı"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qe600926",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Böcekler bitkiler için neden önemlidir?",
-      "options": [
-        "Zararlıdır",
-        "Yaprak yer",
-        "Kök keser",
-        "Tozlaşmayı sağlarlar"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qe600927",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Su bitkinin büyümesi için neden şarttır?",
-      "options": [
-        "Bitkiye renk verdiği için",
-        "Bitkiyi sertleştirdiği için",
-        "Fotosentez ve madde taşıma için",
-        "Bitkiye koku verdiği için"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qe600928",
       "subject": "Fen Bilimleri",
       "theme": "Tema 2",
@@ -660,19 +543,6 @@
         "Silindir",
         "Küp",
         "Küre (top)"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q-f-sky-43",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2: Dünyamız ve Gökyüzü",
-      "question": "Dünyamızın dış yüzeyinde en fazla yer kaplayan katman hangisidir?",
-      "options": [
-        "Taş katmanı",
-        "Hava katmanı",
-        "Kara katmanı",
-        "Su katmanı"
       ],
       "correctAnswer": 3
     },
@@ -924,19 +794,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q-f-sky-63",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2: Dünyamız ve Gökyüzü",
-      "question": "Dağlar, taşlar ve topraklar Dünyanın hangi kısmını oluşturur?",
-      "options": [
-        "Yer kabuğunu (Kara katmanı)",
-        "Atmosferi",
-        "Çekirdeği",
-        "Su katmanını"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q-f-sky-64",
       "subject": "Fen Bilimleri",
       "theme": "Tema 2: Dünyamız ve Gökyüzü",
@@ -961,19 +818,6 @@
         "Atmosferde"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q-f-sky-66",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2: Dünyamız ve Gökyüzü",
-      "question": "Denizlerin altındaki yanardağlar patladığında çıkan lavlar hangi katmana aittir?",
-      "options": [
-        "Atmosfere",
-        "Dünyanın iç katmanlarına (magma)",
-        "Hava katmanına",
-        "Bulutlara"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q-f-sky-67",
@@ -1240,19 +1084,6 @@
       ],
       "correctAnswer": 1,
       "difficulty": "Orta"
-    },
-    {
-      "id": "qc200709",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 2",
-      "question": "Fotosentez neden önemlidir?",
-      "options": [
-        "Topraktaki suyu tüketir",
-        "Yalnızca güzel görünmesini sağlar",
-        "Oksijen üretir ve besin sağlar",
-        "Ortama ısı üretip yayar"
-      ],
-      "correctAnswer": 2
     }
   ]
 }
