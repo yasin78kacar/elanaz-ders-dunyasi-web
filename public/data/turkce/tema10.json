@@ -209,19 +209,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qa50984",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Türkçe sağdan mı, soldan mı yazılır?",
-      "options": [
-        "Yukarıdan aşağıya",
-        "Aşağıdan yukarıya",
-        "Sağdan sola",
-        "Soldan sağa"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qa50985",
       "subject": "Türkçe",
       "theme": "Tema 10",
@@ -313,19 +300,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qb90947",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Turkçede sesli uyumu nedir?",
-      "options": [
-        "Eklerin sözcugun sesine gore degismesi",
-        "Sessiz harflerin degismesi",
-        "Sözcuklerin eslesmesi",
-        "Her kelimenin ayni ek almasi"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb90948",
       "subject": "Türkçe",
       "theme": "Tema 10",
@@ -391,23 +365,10 @@
       "correctAnswer": 2
     },
     {
-      "id": "qb90953",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Türkçeye özgu harfler hangileridir?",
-      "options": [
-        "b, c, d, f",
-        "j, k, l, m",
-        "a, e, i, o",
-        "ç, g, i, ö, s, ü"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qc200661",
       "subject": "Türkçe",
       "theme": "Tema 10",
-      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 1)",
+      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir?",
       "options": [
         "Cümleyi oluşturan görevli birimler",
         "Yalnızca fiiller ve ekleri",
@@ -415,45 +376,6 @@
         "Yalnızca isim türü sözcükler"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qc200663",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 2)",
-      "options": [
-        "Yalnızca cümledeki isimler",
-        "Cümleyi oluşturan görevli birimler",
-        "Yalnızca cümledeki sıfatlar",
-        "Yalnızca cümledeki fiiller"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200665",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 3)",
-      "options": [
-        "Sadece niteleyen sözcükler",
-        "Sadece varlık adları",
-        "Cümleyi oluşturan görevli birimler",
-        "Sadece eylem sözcükleri"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200667",
-      "subject": "Türkçe",
-      "theme": "Tema 10",
-      "question": "Türkçe dilbilgisinde \"öge\" ne anlama gelir? (Soru 4)",
-      "options": [
-        "Cümledeki noktalama işaretleri",
-        "Cümledeki tüm hece sayısı",
-        "Cümledeki harflerin sırası",
-        "Cümleyi oluşturan görevli birimler"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qe600889",

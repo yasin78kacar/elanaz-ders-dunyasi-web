@@ -1,19 +1,6 @@
 {
   "questions": [
     {
-      "id": "q1041",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Özel isimler büyük harfle mi küçük harfle mi yazılır?",
-      "options": [
-        "Sadece bazen büyük",
-        "Büyük harfle",
-        "Farketmez",
-        "Küçük harfle"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q1042",
       "subject": "Türkçe",
       "theme": "Tema 4",
@@ -40,19 +27,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q1044",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Virgül (,) nerede kullanılır?",
-      "options": [
-        "Sayma sıralamasında",
-        "Cümle sonunda",
-        "Ünlem cümlelerinde",
-        "Soru cümlelerinde"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q1045",
       "subject": "Türkçe",
       "theme": "Tema 4",
@@ -64,19 +38,6 @@
         "Elma armut ve muz aldım."
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "q1047",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "Ay isimleri büyük harfle mi yazılır?",
-      "options": [
-        "Fark etmez",
-        "Sadece bazen",
-        "Evet, büyük harfle",
-        "Hayır, küçük harfle"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "q1049",
@@ -220,19 +181,6 @@
         "Küçük harfle"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qa50925",
-      "subject": "Türkçe",
-      "theme": "Tema 4",
-      "question": "\"Ankara\" neden büyük harfle başlar?",
-      "options": [
-        "Uzun olduğu için",
-        "Özel isim olduğu için",
-        "Zor olduğu için",
-        "Güzel olduğu için"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qa50926",

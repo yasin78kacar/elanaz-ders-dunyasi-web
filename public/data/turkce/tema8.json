@@ -222,45 +222,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qa50966",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "\"Neden\" sorusu metinde ne arar?",
-      "options": [
-        "Neden-sonuç ilişkisi",
-        "Kişi",
-        "Yer",
-        "Zaman"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qa50967",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "\"Nerede\" sorusu metinde ne arar?",
-      "options": [
-        "Kişi",
-        "Neden",
-        "Zaman",
-        "Yer bilgisi"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qa50968",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "\"Ne zaman\" sorusu metinde ne arar?",
-      "options": [
-        "Zaman bilgisi",
-        "Neden",
-        "Yer",
-        "Kişi"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qb90929",
       "subject": "Türkçe",
       "theme": "Tema 8",
@@ -270,19 +231,6 @@
         "Sadece ilk paragraftan",
         "Tüm metinden, tekrarlanan dusunceden",
         "Basliktan"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qb90931",
-      "subject": "Türkçe",
-      "theme": "Tema 8",
-      "question": "Yardimci fikir nedir?",
-      "options": [
-        "Baslik",
-        "Sonuc",
-        "Metni destekleyen ikincil dusunce",
-        "Ana fikir"
       ],
       "correctAnswer": 2
     },
@@ -673,6 +621,19 @@
         "-iyor (şimdiki)",
         "-lık/-lik (tuz→tuzluk)",
         "-di (geçmiş)"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qe600815",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Yardımcı fikir nedir?",
+      "options": [
+        "Ana fikrin kendisi",
+        "Başlık",
+        "Ana fikri destekleyen yan düşünceler",
+        "Son paragraf"
       ],
       "correctAnswer": 2
     }

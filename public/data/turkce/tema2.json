@@ -1,19 +1,6 @@
 {
   "questions": [
     {
-      "id": "q986",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Büyük' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "Uzun",
-        "Ağır",
-        "Küçük",
-        "Kısa"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q987",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -23,19 +10,6 @@
         "Islak",
         "Soğuk",
         "Serin"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q988",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Hızlı' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "Hafif",
-        "Sessiz",
-        "Yavaş",
-        "Ağır"
       ],
       "correctAnswer": 2
     },
@@ -53,19 +27,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q991",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Temiz' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "Kirli",
-        "Pis",
-        "Kaba",
-        "Bozuk"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q992",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -77,19 +38,6 @@
         "Kısa"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "q993",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Uzun' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "İnce",
-        "Küçük",
-        "Dar",
-        "Kısa"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "q994",
@@ -105,19 +53,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q995",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Gece' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "Öğle",
-        "Sabah",
-        "Akşam",
-        "Gündüz"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "q996",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -129,19 +64,6 @@
         "Endişeli"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "q997",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Yeni' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "Paslı",
-        "Bozuk",
-        "Kullanılmış",
-        "Eski"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "q999",
@@ -162,7 +84,7 @@
       "theme": "Tema 2",
       "question": "'Zengin' kelimesinin zıt anlamlısı nedir?",
       "options": [
-        "Yoksul",
+        "Yaşlı",
         "Fakir",
         "Mutsuz",
         "Zayıf"
@@ -209,19 +131,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q1004",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Hızlı' kelimesinin eş anlamlısı nedir?",
-      "options": [
-        "Güçlü",
-        "Süratli",
-        "Enerjik",
-        "Canlı"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q1005",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -259,32 +168,6 @@
         "Coşku"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "q1008",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Cevap' kelimesinin eş anlamlısı nedir?",
-      "options": [
-        "Talep",
-        "Soru",
-        "İstek",
-        "Yanıt"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q1010",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'Yüksek' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "İnce",
-        "Alçak",
-        "Düşük",
-        "Kısa"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q1011",
@@ -365,19 +248,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qa50866",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'sağ' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "güçlü",
-        "cansız",
-        "küçük",
-        "sol"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qa50867",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -400,19 +270,6 @@
         "ileri",
         "iç",
         "huzurlu"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50870",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'iç' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "yavaş",
-        "dış",
-        "kirli",
-        "dolu"
       ],
       "correctAnswer": 1
     },
@@ -495,32 +352,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qa50877",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'boş' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "hasta",
-        "dolu",
-        "canlı",
-        "yukarı"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qa50878",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'erken' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "geç",
-        "sağlıklı",
-        "cansız",
-        "zayıf"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qa50880",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -571,19 +402,6 @@
         "güçlü"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qa50890",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'dar' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "kirli",
-        "geniş",
-        "büyük",
-        "hasta"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qa50891",
@@ -649,19 +467,6 @@
         "yarım"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "qa50896",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "'güçlü' kelimesinin zıt anlamlısı nedir?",
-      "options": [
-        "geniş",
-        "korkak",
-        "canlı",
-        "zayıf"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qa50897",
@@ -1340,19 +1145,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qf800513",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "\"kolay\" sözcüğünün zıt anlamlısı hangisidir?",
-      "options": [
-        "basit",
-        "zor",
-        "karmaşık",
-        "anlaşılmaz"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qf800514",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -1457,19 +1249,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qf800522",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "\"hızlı\" sözcüğünün zıt anlamlısı hangisidir?",
-      "options": [
-        "yavaş",
-        "durgun",
-        "çabuk",
-        "ağır"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "qf800523",
       "subject": "Türkçe",
       "theme": "Tema 2",
@@ -1572,19 +1351,6 @@
         "acı"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qf800531",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "\"tatlı\" sözcüğünün zıt anlamlısı hangisidir?",
-      "options": [
-        "ekşi",
-        "şekerli",
-        "tuzlu",
-        "acı"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qf800532",
@@ -1891,10 +1657,10 @@
       "theme": "Tema 2",
       "question": "\"güçlü\" sözcüğünün zıt anlamlısı hangisidir?",
       "options": [
-        "bitkin",
+        "sağlam",
         "kuvvetli",
         "güçsüz",
-        "zayıf"
+        "dinç"
       ],
       "correctAnswer": 2
     },
@@ -1923,19 +1689,6 @@
         "esnek"
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "qf800558",
-      "subject": "Türkçe",
-      "theme": "Tema 2",
-      "question": "\"yumuşak\" sözcüğünün zıt anlamlısı hangisidir?",
-      "options": [
-        "esnek",
-        "kırılgan",
-        "sert",
-        "katı"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "qf800559",
@@ -2419,19 +2172,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "q-t-ant-1",
-      "subject": "Türkçe",
-      "theme": "Tema 2: Söz Varlığı",
-      "question": "\"zor\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
-      "options": [
-        "güç",
-        "ağır",
-        "basit",
-        "kolay"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "q-t-ant-2",
       "subject": "Türkçe",
       "theme": "Tema 2: Söz Varlığı",
@@ -2469,19 +2209,6 @@
         "hızlı"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q-t-ant-5",
-      "subject": "Türkçe",
-      "theme": "Tema 2: Söz Varlığı",
-      "question": "\"zengin\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
-      "options": [
-        "akıllı",
-        "para",
-        "genç",
-        "yoksul"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "q-t-ant-6",
@@ -2560,19 +2287,6 @@
         "yeni"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q-t-ant-12",
-      "subject": "Türkçe",
-      "theme": "Tema 2: Söz Varlığı",
-      "question": "\"açık\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
-      "options": [
-        "koyu",
-        "kapalı",
-        "boş",
-        "dar"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q-t-ant-13",
@@ -2664,19 +2378,6 @@
         "eğri"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q-t-ant-20",
-      "subject": "Türkçe",
-      "theme": "Tema 2: Söz Varlığı",
-      "question": "\"giriş\" kelimesinin zıt (karşıt) anlamlısı aşağıdakilerden hangisidir?",
-      "options": [
-        "oda",
-        "çıkış",
-        "pencere",
-        "kapı"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q-t-ant-21",
@@ -2809,19 +2510,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q-b3-turkce-16",
-      "subject": "Türkçe",
-      "theme": "Tema 2: Söz Varlığı",
-      "question": "'Hediye' kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
-      "options": [
-        "Ödül",
-        "Armağan",
-        "Hatıra",
-        "Konuk"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q-b3-turkce-460",
       "subject": "Türkçe",
       "theme": "Tema 2: Milli Kültürümüz",
@@ -2848,19 +2536,6 @@
       ],
       "correctAnswer": 1,
       "difficulty": "Orta"
-    },
-    {
-      "id": "q-b3-turkce-263",
-      "subject": "Türkçe",
-      "theme": "Tema 2: Söz Varlığı",
-      "question": "'Misafir' kelimesinin eş anlamlısı nedir?",
-      "options": [
-        "Yolcu",
-        "Dost",
-        "Konuk",
-        "Akraba"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "q-b3-turkce-100",
@@ -2902,19 +2577,6 @@
       ],
       "correctAnswer": 1,
       "difficulty": "Zor"
-    },
-    {
-      "id": "q-b3-turkce-339",
-      "subject": "Türkçe",
-      "theme": "Tema 2: Söz Varlığı",
-      "question": "'Taze' sözcüğünün zıt anlamlısı hangisidir?",
-      "options": [
-        "Yeni",
-        "Bayat",
-        "Eski",
-        "Çürük"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q-b3-turkce-80",
