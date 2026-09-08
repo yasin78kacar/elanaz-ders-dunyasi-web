@@ -27,19 +27,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "q1424",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Hangi içecek en sağlıklıdır?",
-      "options": [
-        "Gazlı içecek",
-        "Su",
-        "Çay",
-        "Meyve suyu"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q1426",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3",
@@ -196,45 +183,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qb91198",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Saglikli bir cocuk icin \"Günde en az 2 k...\" gerekli midir?",
-      "options": [
-        "Evet, onemlidir",
-        "Hayir",
-        "Fark etmez",
-        "Bazen"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qb91200",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Saglikli bir cocuk icin \"Ilkokul cocukla...\" gerekli midir?",
-      "options": [
-        "Fark etmez",
-        "Hayir",
-        "Bazen",
-        "Evet, onemlidir"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qb91204",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Saglikli bir cocuk icin \"Haftada en az 5...\" gerekli midir?",
-      "options": [
-        "Bazen",
-        "Evet, onemlidir",
-        "Hayir",
-        "Fark etmez"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qb91205",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3",
@@ -246,32 +194,6 @@
         "Sadece gölgede durulur"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qb91206",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Saglikli bir cocuk icin \"Günes kremi ve ...\" gerekli midir?",
-      "options": [
-        "Fark etmez",
-        "Evet, onemlidir",
-        "Hayir",
-        "Bazen"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb91208",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Saglikli bir cocuk icin \"Bir yetiskine s...\" gerekli midir?",
-      "options": [
-        "Hayir",
-        "Evet, onemlidir",
-        "Fark etmez",
-        "Bazen"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qb91209",
@@ -287,19 +209,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb91210",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Saglikli bir cocuk icin \"Mikroplara kars...\" gerekli midir?",
-      "options": [
-        "Hayir",
-        "Bazen",
-        "Evet, onemlidir",
-        "Fark etmez"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qb91211",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3",
@@ -313,19 +222,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qb91212",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Saglikli bir cocuk icin \"Duygusal ve zih...\" gerekli midir?",
-      "options": [
-        "Bazen",
-        "Hayir",
-        "Evet, onemlidir",
-        "Fark etmez"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qb91215",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3",
@@ -337,136 +233,6 @@
         "Zorunluluk"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "qb91216",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Saglikli bir cocuk icin \"Saglik ve sosya...\" gerekli midir?",
-      "options": [
-        "Bazen",
-        "Hayir",
-        "Evet, onemlidir",
-        "Fark etmez"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200811",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Empati nedir? (Tema 3)",
-      "options": [
-        "Kuralları uygulatmaya çalışma hâli",
-        "Kendi duygularını öne çıkarma hâli",
-        "Birine acıyıp üzülme durumu",
-        "Başkasının duygularını anlamaya çalışma"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200812",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Sorumluluk nedir? (Tema 3)",
-      "options": [
-        "Yasaların tanıdığı yetki durumu",
-        "Dilediğini yapabilme durumu",
-        "Üstlendiği işi yapıp hesap verebilme",
-        "Başkalarından üstün tutulma hâli"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200813",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Dayanışma nedir? (Tema 3)",
-      "options": [
-        "Yalnız kendi işini düşünme hâli",
-        "Kimseye ihtiyaç duymadan yaşama",
-        "Öne geçmek için yarışma durumu",
-        "Birlikte hareket edip birbirini destekleme"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200814",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Paylasmak neden önemlidir? (Tema 3)",
-      "options": [
-        "Para kazandirir",
-        "Zorunluluk",
-        "Toplumsal uyum ve mutluluk saglar",
-        "Faydasiz"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200815",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Doğruluk neden önemlidir? (Tema 3)",
-      "options": [
-        "Hiçbir yararı olmayan bir davranış",
-        "Çabuk para kazanmayı sağladığı için",
-        "Zorunlu tutulduğu için yapılır",
-        "Güven oluşturur ve toplumu güçlendirir"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200816",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Centilmenlik nedir? (Tema 3)",
-      "options": [
-        "Dürüst, kibar ve adaletli davranis",
-        "Sadece bireysel yarar",
-        "Kazanmak icin her yolu denemek",
-        "Baskalarina zarar verme"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200817",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Kültür nedir? (Tema 3)",
-      "options": [
-        "Yalnızca resim ve heykel sanatı",
-        "Toplumun yaşam biçimi ve gelenekleri",
-        "Yalnızca müzik ve şarkı söyleme",
-        "Yalnızca roman ve şiir yazmak"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200818",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Hosgorü nedir? (Tema 3)",
-      "options": [
-        "Herkesin ayni olmasi",
-        "Farkli görüslere saygi ve kabul",
-        "Fark etmeme",
-        "Kendi görüsünü dayatma"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200819",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3",
-      "question": "Vatandaşlık neden önemlidir? (Tema 3)",
-      "options": [
-        "Yalnızca oy kullanmak amacıyla",
-        "Topluma katılım ve sorumluluklar için",
-        "Yalnızca hak istemek amacıyla",
-        "Zorunlu tutulduğu için gerekli"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "qe601069",
@@ -599,32 +365,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q-h-tema3salklhayat-71",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3: Sağlıklı Hayat",
-      "question": "Dengeli ve sağlıklı beslenmek isteyen bir öğrenci kahvaltıda hangisini tüketmelidir?",
-      "options": [
-        "Yumurta, peynir, zeytin, bal ve süt",
-        "Hazır kek ve bisküvi",
-        "Cips ve gazoz",
-        "Asitli içecekler"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "q-h-tema3salklhayat-72",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3: Sağlıklı Hayat",
-      "question": "Dişlerimizi günde en az kaç kez fırçalamalıyız?",
-      "options": [
-        "Haftada bir",
-        "1 kez",
-        "Hiç",
-        "En az 2 kez (sabah ve akşam)"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "q-h-tema3salklhayat-73",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 3: Sağlıklı Hayat",
@@ -662,19 +402,6 @@
         "Çok fazla yemek yemek"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q-h-tema3salklhayat-76",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 3: Sağlıklı Hayat",
-      "question": "Yemek yemeden önce ve sonra ellerimizi neyle yıkmalıyız?",
-      "options": [
-        "Kolonyayla",
-        "Islak mendille",
-        "Sadece suyla",
-        "Su ve sabunla"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "q-h-tema3salklhayat-77",
@@ -1213,19 +940,6 @@
         "Okul temizliğine"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "q-b3-hayat-260",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Yemeklerden sonra dişlerimizi fırçalamazsak ne olur?",
-      "options": [
-        "Hiçbir şey olmaz.",
-        "Dişlerimiz çürür ve ağrır.",
-        "Dişlerimiz daha sert olur.",
-        "Dişlerimiz beyazlar."
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q-b3-hayat-259",

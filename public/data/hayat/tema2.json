@@ -248,123 +248,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "qc200801",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Empati nedir? (Tema 2)",
-      "options": [
-        "Birine acıyıp üzülmek anlamına gelir",
-        "Kendi duygularını anlatmaya çalışmak",
-        "Başkasının duygularını anlamaya çalışma",
-        "Kurallara uymayı sağlayan davranış"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200802",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Sorumluluk nedir? (Tema 2)",
-      "options": [
-        "Herkese tanınan yasal yetki demek",
-        "İstediğini özgürce seçebilme hâli",
-        "Başkalarından ayrıcalık görme hâli",
-        "Üstlendiği işi yapıp hesap verebilme"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200803",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Dayanışma nedir? (Tema 2)",
-      "options": [
-        "Yalnızca kendini düşünerek yaşama",
-        "Birlikte hareket edip birbirini destekleme",
-        "Başkasını geçmek için çabalama",
-        "Kimseye yaklaşmadan tek yaşama"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200804",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Paylasmak neden önemlidir? (Tema 2)",
-      "options": [
-        "Toplumsal uyum ve mutluluk saglar",
-        "Para kazandirir",
-        "Zorunluluk",
-        "Faydasiz"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200805",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Doğruluk neden önemlidir? (Tema 2)",
-      "options": [
-        "Kısa yolda para kazandırdığı için",
-        "Güven oluşturur ve toplumu güçlendirir",
-        "Zorunlu olduğu için yapılır",
-        "Aslında hiçbir işe yaramaz"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200806",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Centilmenlik nedir? (Tema 2)",
-      "options": [
-        "Baskalarina zarar verme",
-        "Kazanmak icin her yolu denemek",
-        "Sadece bireysel yarar",
-        "Dürüst, kibar ve adaletli davranis"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200807",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Kültür nedir? (Tema 2)",
-      "options": [
-        "Yalnızca kitap ve şiir demektir",
-        "Toplumun yaşam biçimi ve gelenekleri",
-        "Yalnızca resim ve heykel demektir",
-        "Yalnızca şarkı ve türkü demektir"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200808",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Hosgorü nedir? (Tema 2)",
-      "options": [
-        "Fark etmeme",
-        "Kendi görüsünü dayatma",
-        "Herkesin ayni olmasi",
-        "Farkli görüslere saygi ve kabul"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200809",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2",
-      "question": "Vatandaşlık neden önemlidir? (Tema 2)",
-      "options": [
-        "Yalnızca oy kullanabilmek içindir",
-        "Topluma katılım ve sorumluluklar için",
-        "Zorunlu olduğu için gereklidir",
-        "Yalnızca hak isteyebilmek içindir"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "qe601059",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 2",
@@ -1123,20 +1006,6 @@
       "correctAnswer": 3
     },
     {
-      "id": "q-b3-hayat-590",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2: Evimizde Hayat",
-      "question": "Misafir geldiğinde nasıl davranmalıyız?",
-      "options": [
-        "Görmezden gelmeliyiz",
-        "Kibarca karşılamalıyız",
-        "Odadan çıkmamalıyız",
-        "Sessizce kaçmalıyız"
-      ],
-      "correctAnswer": 1,
-      "difficulty": "Orta"
-    },
-    {
       "id": "q-b3-hayat-100",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1244,19 +1113,6 @@
       "difficulty": "Zor"
     },
     {
-      "id": "q-b3-hayat-524",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Evimizin adresini ve anne babamızın telefon numarasını öğrenmek neden gereklidir?",
-      "options": [
-        "Kaybolduğumuzda yardım isteyebilmek için",
-        "Oyun oynarken kullanmak için",
-        "Arkadaşlara hava atmak için",
-        "Sınavda çıkacağı düşünüldüğü için"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q-b3-hayat-379",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1296,19 +1152,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q-b3-hayat-543",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Türkiye'nin üç tarafı ne ile çevrilidir?",
-      "options": [
-        "Gölcüklerle",
-        "Dağlarla",
-        "Barajlarla",
-        "Denizlerle"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "q-b3-hayat-266",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1320,19 +1163,6 @@
         "Hiç konuşmadan"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "q-b3-hayat-430",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 2: Evimizde Hayat",
-      "question": "Aşağıdakilerden hangisi evde üstlenebileceğimiz sorumluluklardan biridir?",
-      "options": [
-        "Yemek pişirmek",
-        "Faturaları ödemek",
-        "Odamızı temiz ve düzenli tutmak",
-        "Ev alışverişini tek başına yapmak"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "q-b3-hayat-278",
@@ -1358,19 +1188,6 @@
         "Tasarruflu ve bilinçli kullanmaya",
         "Suyu her zaman sonuna kadar açmaya",
         "Gereksiz yere elektrik harcamaya"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q-b3-hayat-151",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Evdeki çöpleri biriktirmeden dışarı atmak ne için önemlidir?",
-      "options": [
-        "Evin daha iyi ısınması için gerekir",
-        "Evin hijyenik ve kokusuz kalması için",
-        "Ders çalışmaya vakit bulmak için",
-        "Daha çok zaman kazanmak için"
       ],
       "correctAnswer": 1
     },

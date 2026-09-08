@@ -14,19 +14,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q1522",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 8",
-      "question": "Sorumluluk nedir?",
-      "options": [
-        "Üstlenilen görev veya ödev",
-        "Hak",
-        "Para",
-        "Seçim"
-      ],
-      "correctAnswer": 0
-    },
-    {
       "id": "q1524",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 8",
@@ -1117,6 +1104,123 @@
         "Sadece güçlü olmak"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "qc200881",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Empati nedir?",
+      "options": [
+        "Sevimli ve hoş biri olma durumu",
+        "Kendi duygularına odaklanma hâli",
+        "Başkasının duygularını anlamaya çalışma",
+        "Kurallara sıkı sıkıya uyma hâli"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "qc200882",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Sorumluluk nedir?",
+      "options": [
+        "Serbestçe davranabilme durumu",
+        "Üstlendiği işi yapıp hesap verebilme",
+        "Ayrıcalıklı sayılma durumu",
+        "Yasayla tanınan yetki durumu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200883",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Dayanışma nedir?",
+      "options": [
+        "Birlikte hareket edip birbirini destekleme",
+        "Yalnızca kendi çıkarını gözetme",
+        "Kimseyle görüşmeden yaşama hâli",
+        "Birbirini geçmeye çalışma hâli"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200884",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Paylaşmak neden önemlidir?",
+      "options": [
+        "Kişiye para kazandırmayı sağlar",
+        "Toplumsal uyum ve mutluluk sağlar",
+        "Eşyaların çabuk bitmesini sağlar",
+        "Herkesin yalnız kalmasını sağlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200885",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Doğruluk neden önemlidir?",
+      "options": [
+        "Kolay para kazanmayı sağladığı için",
+        "Güven oluşturur ve toplumu güçlendirir",
+        "Yasa gereği zorunlu olduğu için",
+        "Hiçbir yararı bulunmadığı için"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200886",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Centilmenlik nedir?",
+      "options": [
+        "Kazanmak için her yolu denemek",
+        "Başkalarına zarar vermek",
+        "Sadece bireysel yarar",
+        "Dürüst, kibar ve adaletli davranış"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "qc200887",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Kültür nedir?",
+      "options": [
+        "Toplumun yaşam biçimi ve gelenekleri",
+        "Yalnızca müzik ve dans türleri",
+        "Yalnızca resim ve heykeller",
+        "Yalnızca şiir ve romanlar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "qc200888",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Hoşgörü nedir?",
+      "options": [
+        "Herkesin aynı olması",
+        "Farklı görüşlere saygı ve kabul",
+        "Kendi görüşünü dayatmak",
+        "Fark etmeme"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "qc200889",
+      "subject": "Hayat Bilgisi",
+      "theme": "Tema 8",
+      "question": "Vatandaşlık neden önemlidir?",
+      "options": [
+        "Yalnızca oy vermek amacıyla",
+        "Topluma katılım ve sorumluluklar için",
+        "Yasa zorunlu kıldığı için",
+        "Yalnızca hak aramak amacıyla"
+      ],
+      "correctAnswer": 1
     }
   ]
 }

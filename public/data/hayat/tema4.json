@@ -183,32 +183,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "qb91225",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Araclarda emniyet kemeri kimin icin onemlidir?",
-      "options": [
-        "Sadece yolcular icin",
-        "Hem surucu hem yolcular icin",
-        "Sadece arka koltuk icin",
-        "Sadece surucu icin"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qb91226",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4",
-      "question": "Okul onundeki yavas gecis isareti ne anlama gelir?",
-      "options": [
-        "Hizlan",
-        "Gec",
-        "Dur",
-        "Cocuklar var, yavasla"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "qe601079",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 4",
@@ -834,32 +808,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q-b3-hayat-68",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Trafik lambasında sarı ışık yandığında ne yapılır?",
-      "options": [
-        "Geri dönülür.",
-        "Hazırlanılır.",
-        "Koşarak geçilir.",
-        "Durup beklenir."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "q-b3-hayat-295",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Karşıdan karşıya geçerken hangisini kullanmak güvenlidir?",
-      "options": [
-        "Kavşakların ortasını",
-        "Yaya geçidini ve üst geçitleri",
-        "Hızlı akan araç yolunu",
-        "Araçların arkasını"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q-b3-hayat-303",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 4: Güvenli Hayat",
@@ -969,32 +917,6 @@
       "difficulty": "Orta"
     },
     {
-      "id": "q-b3-hayat-417",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Oyun oynamak için hangi alanlar güvenlidir?",
-      "options": [
-        "İnşaat alanları",
-        "Su kanalı kenarları",
-        "Çocuk parkları ve okul bahçeleri",
-        "Taşıt geçen sokaklar"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q-b3-hayat-239",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Elektrik prizlerine yabancı cisimler sokmak neye yol açar?",
-      "options": [
-        "Evin aydınlanmasına",
-        "Elektrik çarpmasına",
-        "Lamba sönmesine",
-        "Tasarruf edilmesine"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q-b3-hayat-469",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 4: Güvenli Hayat",
@@ -1035,19 +957,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q-b3-hayat-294",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Sürücüler için kırmızı ışık ne anlama gelir?",
-      "options": [
-        "Geç",
-        "Hazırlan",
-        "Hızlan",
-        "Dur"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "q-b3-hayat-30",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 4: Güvenli Hayat",
@@ -1073,19 +982,6 @@
         "Sarı ışık"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "q-b3-hayat-207",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4: Güvenli Hayat",
-      "question": "Trafikte yanan kırmızı ışık sürücüler için ne anlama gelir?",
-      "options": [
-        "Geç",
-        "Hazırlan",
-        "Dur",
-        "Hızlan"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "q-b3-hayat-209",
@@ -1114,19 +1010,6 @@
       ],
       "correctAnswer": 0,
       "difficulty": "Zor"
-    },
-    {
-      "id": "q-b3-hayat-139",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 4: Güvenli Hayat",
-      "question": "Karşıdan karşıya geçerken aşağıdakilerden hangisini kullanmak en güvenlidir?",
-      "options": [
-        "Yaya ve okul geçitlerini",
-        "Hızlı akan araç yolunu",
-        "Virajlı yolları",
-        "Araçların arasını"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "hayat_t4_ek_001",

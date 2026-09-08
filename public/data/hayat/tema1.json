@@ -495,123 +495,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "qc200791",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Empati nedir? (Tema 1)",
-      "options": [
-        "Kurallara uyulmasını sağlama işi",
-        "Başkasının duygularını anlamaya çalışma",
-        "Kendi duygularını başkasına anlatma",
-        "Birine acıyıp üzüntü duyma hâli"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200792",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Sorumluluk nedir? (Tema 1)",
-      "options": [
-        "İstediğini seçebilme durumu",
-        "Üstlendiği işi yapıp hesap verebilme",
-        "Herkese tanınan yasal yetki",
-        "Kurallara uymayı sağlayan düzen"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200793",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Dayanışma nedir? (Tema 1)",
-      "options": [
-        "Kendi çıkarını önde tutma anlayışı",
-        "Birlikte hareket edip birbirini destekleme",
-        "Başkalarını geçmek için yarışma",
-        "Kimseyle iletişim kurmadan yaşama"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": "qc200794",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Paylasmak neden önemlidir? (Tema 1)",
-      "options": [
-        "Faydasiz",
-        "Para kazandirir",
-        "Zorunluluk",
-        "Toplumsal uyum ve mutluluk saglar"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200795",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Doğruluk neden önemlidir? (Tema 1)",
-      "options": [
-        "Zorunlu olduğu için yapılması gerekir",
-        "Aslında hiçbir yararı bulunmaz",
-        "Güven oluşturur ve toplumu güçlendirir",
-        "Kısa yolda para kazanmayı sağlar"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qc200796",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Centilmenlik nedir? (Tema 1)",
-      "options": [
-        "Sadece bireysel yarar",
-        "Kazanmak icin her yolu denemek",
-        "Baskalarina zarar verme",
-        "Dürüst, kibar ve adaletli davranis"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "qc200797",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Kültür nedir? (Tema 1)",
-      "options": [
-        "Toplumun yaşam biçimi ve gelenekleri",
-        "Resim ve heykel gibi sanat dalları",
-        "Şarkı söyleme ve müzik dinleme",
-        "Kitap okuma ve şiir yazma işi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200798",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Hosgorü nedir? (Tema 1)",
-      "options": [
-        "Farkli görüslere saygi ve kabul",
-        "Herkesin ayni olmasi",
-        "Fark etmeme",
-        "Kendi görüsünü dayatma"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": "qc200799",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1",
-      "question": "Vatandaşlık neden önemlidir? (Tema 1)",
-      "options": [
-        "Yalnızca hak istemek için gerekir",
-        "Yalnızca oy kullanmak için gerekir",
-        "Topluma katılım ve sorumluluklar için",
-        "Zorunlu olduğu için önemsenir"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qe601049",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 1",
@@ -1197,19 +1080,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "q-b3-hayat-580",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Koyunların barındığı yer neresidir?",
-      "options": [
-        "Ahır",
-        "Kümes",
-        "Ağıl",
-        "Kovan"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q-b3-hayat-577",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1236,19 +1106,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q-b3-hayat-50",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Arıların bal yapıp yaşadığı yer neresidir?",
-      "options": [
-        "Ahır",
-        "Kümes",
-        "Kovan",
-        "Ağıl"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q-b3-hayat-222",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1262,32 +1119,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q-b3-hayat-26",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Yemek yerken uymamız gereken sofra kuralı hangisidir?",
-      "options": [
-        "Sofra başında ayağa kalkmak",
-        "Çok hızlı yemek yemek",
-        "Ağzımızda yemek varken konuşmamak",
-        "Çorbayı ses çıkararak içmek"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q-b3-hayat-593",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Islak elle elektrik anahtarını açmak neden tehlikelidir?",
-      "options": [
-        "Lambanın bozulacağı düşünüldüğü için",
-        "Elektrik çarpma riski yüksek olduğu için",
-        "Musluğun bozulma riski olduğu için",
-        "Elektrik faturası artacağı için"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q-b3-hayat-130",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1299,19 +1130,6 @@
         "Fikrine saygı duyup kendi fikrimizi söylemeliyiz."
       ],
       "correctAnswer": 3
-    },
-    {
-      "id": "q-b3-hayat-563",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Karşıdan karşıya geçerken yola adım atmadan önce ilk olarak nereye bakılır?",
-      "options": [
-        "Yukarıya",
-        "Sağa",
-        "Sola",
-        "Arkaya"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "q-b3-hayat-59",
@@ -1620,19 +1438,6 @@
       "difficulty": "Orta"
     },
     {
-      "id": "q-b3-hayat-168",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1: Okulumuzda Hayat",
-      "question": "Okuldaki öğretmenlerimize, çalışanlara ve arkadaşlarımıza karşı nasıl konuşmalıyız?",
-      "options": [
-        "Bağırarak",
-        "Kibarca ve saygılı",
-        "Kızgın bir sesle",
-        "Alay ederek"
-      ],
-      "correctAnswer": 1
-    },
-    {
       "id": "q-b3-hayat-364",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1670,19 +1475,6 @@
         "Kura çekilmesini beklemelidir."
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q-b3-hayat-206",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1: Okulumuzda Hayat",
-      "question": "Okul çantası hazırlarken neye dikkat etmeliyiz?",
-      "options": [
-        "Tüm kitaplarımızı çantaya koymaya",
-        "Ders programına uygun araç gereçleri koymaya",
-        "Sadece oyuncaklarımızı koymaya",
-        "Çantayı tamamen boş bırakmaya"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q-b3-hayat-80",
@@ -1737,19 +1529,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q-b3-hayat-119",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Yemek yemeden önce ellerimizi neyle yıkamalıyız?",
-      "options": [
-        "Sadece suyla",
-        "Islak mendille",
-        "Su ve sabunla",
-        "Kolonyayla"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q-b3-hayat-229",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1776,19 +1555,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q-b3-hayat-7",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Dini bayramlarda genellikle hangisi yapılır?",
-      "options": [
-        "Sadece televizyon izlemek",
-        "Bütün gün uyumak",
-        "Okula gitmek",
-        "Akraba ve büyüklerin ziyareti"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "q-b3-hayat-156",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1800,19 +1566,6 @@
         "Trafik levhaları"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q-b3-hayat-269",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Kaldırımı olmayan yollarda yolun hangi tarafından yürünmelidir?",
-      "options": [
-        "Araçlarla aynı yönde, sağ taraftan",
-        "Gelen araçları görecek şekilde sol taraftan",
-        "Yolun tam ortasından yürünmelidir",
-        "Kaldırım olmadığı için yürünmez"
-      ],
-      "correctAnswer": 1
     },
     {
       "id": "q-b3-hayat-460",
@@ -1920,19 +1673,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q-b3-hayat-420",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Sağlığımız için gün içinde ne kadar su içmeliyiz?",
-      "options": [
-        "Hiç içmemeliyiz.",
-        "Sadece susayınca bir yudum.",
-        "Yeterli ve düzenli miktarda",
-        "Sadece kola içmeliyiz."
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q-b3-hayat-534",
       "subject": "Hayat Bilgisi",
       "theme": "Tema Eki",
@@ -1944,45 +1684,6 @@
         "Topun kirlenme riski olduğu için"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q-b3-hayat-372",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Masallarımızda saçsız olmasıyla tanınan iyi kalpli kahraman kimdir?",
-      "options": [
-        "Karagöz",
-        "Hacivat",
-        "Nasreddin Hoca",
-        "Keloğlan"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": "q-b3-hayat-128",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema 1: Okulumuzda Hayat",
-      "question": "Okulda arkadaşlarımızla oynarken hangisini yapmamalıyız?",
-      "options": [
-        "Oyun kurallarına uymak",
-        "Kaybeden arkadaşımızı tebrik etmek",
-        "Mızıkçılık yapıp kavga etmek",
-        "Arkadaşlarımızla paylaşımcı olmak"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "q-b3-hayat-220",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Her besin grubundan yeteri kadar tüketmeye ne ad verilir?",
-      "options": [
-        "Yetersiz beslenme",
-        "Tek yönlü beslenme",
-        "Çok beslenme",
-        "Dengeli beslenme"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "q-b3-hayat-162",
@@ -2022,19 +1723,6 @@
         "Tüm oyuncaklarımızı doldurmalıyız."
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "q-b3-hayat-390",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "Aşağıdakilerden hangisi zorunlu olmayan bir 'istek'tir?",
-      "options": [
-        "Yeni bir oyun konsolu",
-        "İçme suyu",
-        "Ekmek",
-        "Kışlık mont"
-      ],
-      "correctAnswer": 0
     },
     {
       "id": "q-b3-hayat-58",
@@ -2166,19 +1854,6 @@
         "Suyun temiz kalmasına"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": "q-b3-hayat-281",
-      "subject": "Hayat Bilgisi",
-      "theme": "Tema Eki",
-      "question": "İneklerin barındığı yer neresidir?",
-      "options": [
-        "Kovan",
-        "Kümes",
-        "Ahır",
-        "Ağıl"
-      ],
-      "correctAnswer": 2
     }
   ]
 }
