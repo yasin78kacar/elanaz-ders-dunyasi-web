@@ -253,9 +253,9 @@
       "theme": "Tema 4",
       "question": "\"Türkiye\" bir özel isim midir?",
       "options": [
-        "Sadece cumle basinda",
+        "Sadece cümle başında",
         "Bazen",
-        "Hayir",
+        "Hayır",
         "Evet"
       ],
       "correctAnswer": 3
@@ -267,8 +267,8 @@
       "question": "\"Ankara\" bir özel isim midir?",
       "options": [
         "Bazen",
-        "Hayir",
-        "Sadece cumle basinda",
+        "Hayır",
+        "Sadece cümle başında",
         "Evet"
       ],
       "correctAnswer": 3
@@ -277,10 +277,10 @@
       "id": "qb90844",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Istanbul\" bir özel isim midir?",
+      "question": "\"İstanbul\" bir özel isim midir?",
       "options": [
-        "Hayir",
-        "Sadece cumle basinda",
+        "Hayır",
+        "Sadece cümle başında",
         "Bazen",
         "Evet"
       ],
@@ -290,10 +290,10 @@
       "id": "qb90846",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Ataturk\" bir özel isim midir?",
+      "question": "\"Atatürk\" bir özel isim midir?",
       "options": [
-        "Hayir",
-        "Sadece cumle basinda",
+        "Hayır",
+        "Sadece cümle başında",
         "Evet",
         "Bazen"
       ],
@@ -306,9 +306,9 @@
       "question": "\"Karadeniz\" bir özel isim midir?",
       "options": [
         "Bazen",
-        "Sadece cumle basinda",
+        "Sadece cümle başında",
         "Evet",
-        "Hayir"
+        "Hayır"
       ],
       "correctAnswer": 2
     },
@@ -318,10 +318,10 @@
       "theme": "Tema 4",
       "question": "\"Ege\" bir özel isim midir?",
       "options": [
-        "Hayir",
+        "Hayır",
         "Evet",
         "Bazen",
-        "Sadece cumle basinda"
+        "Sadece cümle başında"
       ],
       "correctAnswer": 1
     },
@@ -331,10 +331,10 @@
       "theme": "Tema 4",
       "question": "\"Antalya\" bir özel isim midir?",
       "options": [
-        "Sadece cumle basinda",
+        "Sadece cümle başında",
         "Bazen",
         "Evet",
-        "Hayir"
+        "Hayır"
       ],
       "correctAnswer": 2
     },
@@ -342,12 +342,12 @@
       "id": "qb90854",
       "subject": "Türkçe",
       "theme": "Tema 4",
-      "question": "\"Izmir\" bir özel isim midir?",
+      "question": "\"İzmir\" bir özel isim midir?",
       "options": [
-        "Hayir",
+        "Hayır",
         "Bazen",
         "Evet",
-        "Sadece cumle basinda"
+        "Sadece cümle başında"
       ],
       "correctAnswer": 2
     },
@@ -357,9 +357,9 @@
       "theme": "Tema 4",
       "question": "\"Bursa\" bir özel isim midir?",
       "options": [
-        "Hayir",
+        "Hayır",
         "Evet",
-        "Sadece cumle basinda",
+        "Sadece cümle başında",
         "Bazen"
       ],
       "correctAnswer": 1
@@ -371,8 +371,8 @@
       "question": "\"Trabzon\" bir özel isim midir?",
       "options": [
         "Evet",
-        "Hayir",
-        "Sadece cumle basinda",
+        "Hayır",
+        "Sadece cümle başında",
         "Bazen"
       ],
       "correctAnswer": 0
