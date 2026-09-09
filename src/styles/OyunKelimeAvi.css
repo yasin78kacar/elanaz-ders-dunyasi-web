@@ -1,0 +1,61 @@
+.ka-oyun { width: 100%; max-width: 100%; overflow-x: hidden; display: flex; flex-direction: column; align-items: center; gap: 10px; }
+.ka-ust {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-weight: 800;
+  font-size: 0.95rem;
+}
+.ka-liste {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+}
+.ka-kelime {
+  padding: 6px 12px;
+  border-radius: 999px;
+  font-weight: 800;
+  font-size: 0.95rem;
+  background: #fffbe9;
+  box-shadow: 0 2px 0 #e2c48a;
+}
+.ka-kelime.bulundu {
+  text-decoration: line-through;
+  text-decoration-thickness: 3px;
+  color: #fff;
+}
+.ka-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 4px;
+  width: 100%;
+  max-width: 360px;
+}
+.ka-hucre {
+  aspect-ratio: 1;
+  min-width: 0;
+  min-height: 48px;
+  border: none;
+  border-radius: 10px;
+  padding: 0;
+  font-size: 1.15rem;
+  font-weight: 800;
+  cursor: pointer;
+  background: #fff;
+  color: #333;
+  box-shadow: 0 3px 0 #d4c4a8;
+  touch-action: manipulation;
+}
+.ka-hucre.secili { background: #7F77DD; color: #fff; transform: scale(0.96); }
+.ka-hucre.salla { animation: ka-salla 0.4s ease; }
+@keyframes ka-salla {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+
+@media (max-width: 400px) {
+  .ka-hucre { font-size: 1.05rem; border-radius: 8px; }
+}

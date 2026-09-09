@@ -3,8 +3,12 @@ import '../styles/Oyunlar.css';
 import OyunGolge from './OyunGolge';
 import OyunEslestirme from './OyunEslestirme';
 import OyunHizliYakalama from './OyunHizliYakalama';
+import OyunKelimeAvi from './OyunKelimeAvi';
 import { OyunKart } from '../oyunlar/OyunKart';
 import type { EslestirmeEk } from './OyunEslestirme';
+import type { AviEk } from './OyunKelimeAvi';
+
+type SonucEk = Partial<EslestirmeEk & AviEk>;
 
 interface Props { onClose: () => void; }
 
@@ -466,11 +470,11 @@ const DinlemeOyunu: React.FC<{ onBitti: (puan: number) => void }> = ({ onBitti }
 
 // ==================== ANA MENU ====================
 const Oyunlar: React.FC<Props> = ({ onClose }) => {
-  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme' | 'golge' | 'eslestirme' | 'hizli'>('');
+  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme' | 'golge' | 'eslestirme' | 'hizli' | 'avi'>('');
   const [sonuc, setSonuc] = useState<number | null>(null);
-  const [sonucEk, setSonucEk] = useState<EslestirmeEk | null>(null);
+  const [sonucEk, setSonucEk] = useState<SonucEk | null>(null);
 
-  const oyunBitti = (puan: number, ek?: EslestirmeEk) => {
+  const oyunBitti = (puan: number, ek?: SonucEk) => {
     setSonuc(puan);
     setSonucEk(ek ?? null);
   };
@@ -479,23 +483,28 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
   if (sonuc !== null) {
     const eslestirme = aktifOyun === 'eslestirme';
     const hizli = aktifOyun === 'hizli';
+    const avi = aktifOyun === 'avi';
     const puanli = eslestirme || hizli;
     const kupa = eslestirme
       ? (sonuc >= 160 ? '🏆' : sonuc >= 110 ? '🌟' : '💪')
       : hizli
         ? (sonuc >= 100 ? '🏆' : sonuc >= 50 ? '🌟' : '💪')
-        : (sonuc >= 4 ? '🏆' : sonuc >= 2 ? '🌟' : '💪');
+        : avi
+          ? '🏆'
+          : (sonuc >= 4 ? '🏆' : sonuc >= 2 ? '🌟' : '💪');
     return (
       <div className="oyunlar-container">
         <div className="oyun-sonuc">
           <div className="oyun-sonuc-emoji">{kupa}</div>
-          <h2>{puanli ? `${sonuc} puan` : `${sonuc} / ${TUR_SAYISI} doğru!`}</h2>
+          <h2>{avi ? `${sonuc} kelime bulundu` : puanli ? `${sonuc} puan` : `${sonuc} / ${TUR_SAYISI} doğru!`}</h2>
           <p>
             {eslestirme
               ? `En yüksek seri: ${sonucEk?.enIyiSeri ?? 0}`
               : hizli
                 ? `${Math.round(sonuc / 10)} yakalama`
-                : sonuc >= 4 ? 'Muhteşemsin!' : sonuc >= 2 ? 'Çok iyi gidiyorsun!' : 'Denedikçe daha iyi olacak!'}
+                : avi
+                  ? `${sonucEk?.sureSn ?? 0} sn · ${sonucEk?.hamle ?? 0} hamle`
+                  : sonuc >= 4 ? 'Muhteşemsin!' : sonuc >= 2 ? 'Çok iyi gidiyorsun!' : 'Denedikçe daha iyi olacak!'}
           </p>
           <button className="oyun-kontrol" onClick={() => { const o = aktifOyun; menuyeDon(); setTimeout(() => setAktifOyun(o), 0); }}>🔄 Tekrar Oyna</button>
           <button className="oyun-geri" onClick={menuyeDon}>← Oyun Menüsü</button>
@@ -514,6 +523,7 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
   if (aktifOyun === 'golge') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunGolge onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'eslestirme') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunEslestirme onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'hizli') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunHizliYakalama onBitti={oyunBitti} /></div>;
+  if (aktifOyun === 'avi') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunKelimeAvi onBitti={oyunBitti} /></div>;
 
   return (
     <div className="oyunlar-container">
@@ -568,6 +578,13 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
           baslik="Hızlı Yakalama"
           alt="Belireni zamanında yakala"
           onClick={() => setAktifOyun('hizli')}
+        />
+        <OyunKart
+          renk="#0d9488"
+          emoji="🔎"
+          baslik="Kelime Avı"
+          alt="Izgara içinde gizli kelimeyi bul"
+          onClick={() => setAktifOyun('avi')}
         />
       </div>
     </div>
