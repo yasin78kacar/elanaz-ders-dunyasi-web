@@ -597,6 +597,448 @@
         "İsmin yerini tutan sözcük"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_001",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"elma\" kelimesi kaç heceli?",
+      "options": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t10_yeni_002",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Aşağıdakilerden hangisi sesli harftir?",
+      "options": [
+        "k",
+        "ö",
+        "s",
+        "t"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_003",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"defter\" kelimesini doğru heceleyen hangisi?",
+      "options": [
+        "de-ft-er",
+        "def-ter",
+        "d-ef-ter",
+        "deft-er"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_004",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"araba\" kelimesinde kaç sesli harf var?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_005",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"kuş\" kelimesi kaç heceli?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_006",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi kelimede sessiz harf, sesli harften fazladır?",
+      "options": [
+        "ev",
+        "araba",
+        "anne",
+        "kitap"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_007",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"pencere\" kelimesini doğru heceleyen hangisi?",
+      "options": [
+        "pen-ce-re",
+        "p-en-cere",
+        "penc-e-re",
+        "pe-nce-re"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_008",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Aşağıdakilerden hangisi sessiz harftir?",
+      "options": [
+        "m",
+        "e",
+        "a",
+        "i"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_009",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"okul\" kelimesini doğru heceleyen hangisi?",
+      "options": [
+        "oku-l",
+        "o-ku-l",
+        "o-kul",
+        "ok-ul"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t10_yeni_010",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"çikolata\" kelimesi kaç heceli?",
+      "options": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_011",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Aşağıdaki kelimelerden hangisi 4 heceli?",
+      "options": [
+        "televizyon",
+        "defter",
+        "kalem",
+        "araba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_012",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Aşağıdaki sesli harflerden hangisi Türkçede yoktur?",
+      "options": [
+        "ı",
+        "ö",
+        "ü",
+        "w"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_013",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Bir kelimede 3 sesli harf varsa kaç heceli olur?",
+      "options": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_014",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"tavşan\" kelimesini doğru heceleyen hangisi?",
+      "options": [
+        "tavş-an",
+        "ta-vşan",
+        "t-avşan",
+        "tav-şan"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_015",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"karpuz\" kelimesini doğru heceleyen hangisi?",
+      "options": [
+        "karp-uz",
+        "ka-rpuz",
+        "kar-puz",
+        "karpu-z"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t10_yeni_016",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"ceviz\" kelimesinde kaç sessiz harf var?",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_017",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Cümleye sıfat eklemek ne işe yarar?",
+      "options": [
+        "Harfi değiştirir",
+        "Anlamı zenginleştirir",
+        "Kelimeyi kısaltır",
+        "Noktayı siler"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_018",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"Kırmızı\" hangi sözcük türüdür?",
+      "options": [
+        "İsim",
+        "Fiil",
+        "Zamir",
+        "Sıfat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_019",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"Büyük ev\" sözünde sıfat hangisidir?",
+      "options": [
+        "ikisi de değil",
+        "büyük",
+        "ikisi de",
+        "ev"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_020",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"Üç kırmızı elma\" sözünde kaç sıfat var?",
+      "options": [
+        "0",
+        "2",
+        "3",
+        "1"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_021",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi cümle sıfat içerir?",
+      "options": [
+        "Ali koştu",
+        "Güneş battı",
+        "Kedi uyudu",
+        "Mavi araba geçti"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_022",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Sıfat hangi soruya cevap verir?",
+      "options": [
+        "Ne yaptı?",
+        "Nasıl / kaç tane?",
+        "Nerede?",
+        "Kim?"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_023",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi cümle olumsuzdur?",
+      "options": [
+        "Ali koştu",
+        "Mehmet gelmedi",
+        "Hava güzel",
+        "Kuşlar uçtu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_024",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi cümle soru cümlesidir?",
+      "options": [
+        "Hava güzel mi?",
+        "Hava güzeldi.",
+        "Hava güzel.",
+        "Ne güzel hava!"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_025",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"Elanaz kitap okumadı\" cümlesi hangi türdür?",
+      "options": [
+        "Ünlem",
+        "Soru",
+        "Olumlu",
+        "Olumsuz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_026",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"Ali koştu\" cümlesini soruya çevirirsek ne olur?",
+      "options": [
+        "Koşan Ali",
+        "Ali koşmadı",
+        "Ali koştu!",
+        "Ali koştu mu?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_027",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Ünlem cümlesi hangisidir?",
+      "options": [
+        "Yağmur yağmıyor.",
+        "Ne güzel yağmur!",
+        "Yağmur yağıyor.",
+        "Yağmur yağıyor mu?"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_028",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"Kedi balık yedi\" cümlesini olumsuza çevir.",
+      "options": [
+        "Kedi balık yemedi",
+        "Kedi yemedi",
+        "Kedi balık yer",
+        "Kedi balık yedi mi?"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_029",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi cümle olumludur?",
+      "options": [
+        "Ali gelmedi",
+        "Hava güzel değil",
+        "Elanaz uyumadı",
+        "Mehmet koştu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t10_yeni_030",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "\"Ne güzel bir gün!\" cümlesinin türü nedir?",
+      "options": [
+        "Soru",
+        "Ünlem",
+        "Olumlu",
+        "Olumsuz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t10_yeni_031",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Elanaz büyük topu aldı. \"büyük\" kelimesi neyi anlatır?",
+      "options": [
+        "Topun nasıl olduğunu",
+        "Topun yerini",
+        "Kim aldığını",
+        "Ne zaman aldığını"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_032",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangisi \"küçük\" kelimesini doğru kullanır?",
+      "options": [
+        "Küçük kuş dalda öttü.",
+        "Kuş küçük öttü dalda.",
+        "Küçük.",
+        "Dalda öttü küçük."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_033",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangisinde \"güzel\" var ve cümle anlamlıdır?",
+      "options": [
+        "Elanaz güzel resim yaptı.",
+        "Güzel Elanaz yaptı resim.",
+        "Yaptı güzel Elanaz resim.",
+        "Güzel."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t10_yeni_034",
+      "subject": "Türkçe",
+      "theme": "Tema 10",
+      "question": "Hangi cümle tam ve anlamlıdır?",
+      "options": [
+        "Kedi minderde uyudu.",
+        "Kedi minderde.",
+        "Uyudu.",
+        "Minderde kedi."
+      ],
+      "correctAnswer": 0
     }
   ]
 }
