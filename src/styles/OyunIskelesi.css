@@ -1,0 +1,26 @@
+/* QuizViewer .konfeti / @keyframes fall kopyası — oyun iskelesi */
+.oyun-konfeti {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 40;
+  overflow: hidden;
+}
+.oyun-konfeti-parca {
+  position: absolute;
+  top: -20px;
+  width: 10px;
+  height: 20px;
+  border-radius: 2px;
+  animation: oyun-konfeti-fall 1.5s linear forwards;
+}
+.oyun-konfeti-0 { background: #7F77DD; }
+.oyun-konfeti-1 { background: #D4537E; }
+.oyun-konfeti-2 { background: #EF9F27; }
+.oyun-konfeti-3 { background: #1D9E75; }
+.oyun-konfeti-4 { background: #378ADD; }
+.oyun-konfeti-5 { background: #D85A30; }
+.oyun-konfeti-6 { background: #2a9db8; }
+@keyframes oyun-konfeti-fall {
+  to { transform: translateY(100vh) rotate(360deg); }
+}

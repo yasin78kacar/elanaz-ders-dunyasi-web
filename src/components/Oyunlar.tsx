@@ -1,5 +1,7 @@
 import { useState } from 'react';
 import '../styles/Oyunlar.css';
+import OyunGolge from './OyunGolge';
+import { OyunKart } from '../oyunlar/OyunKart';
 
 interface Props { onClose: () => void; }
 
@@ -461,7 +463,7 @@ const DinlemeOyunu: React.FC<{ onBitti: (puan: number) => void }> = ({ onBitti }
 
 // ==================== ANA MENU ====================
 const Oyunlar: React.FC<Props> = ({ onClose }) => {
-  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme'>('');
+  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme' | 'golge'>('');
   const [sonuc, setSonuc] = useState<number | null>(null);
 
   const oyunBitti = (puan: number) => setSonuc(puan);
@@ -488,6 +490,7 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
   if (aktifOyun === 'siralama') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><SiralamaOyunu onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'kelime') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><KelimeOyunu onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'dinleme') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><DinlemeOyunu onBitti={oyunBitti} /></div>;
+  if (aktifOyun === 'golge') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunGolge onBitti={oyunBitti} /></div>;
 
   return (
     <div className="oyunlar-container">
@@ -522,6 +525,13 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
           <span className="oyun-kart-emoji">🎧</span><span>English Listen</span>
           <span className="oyun-kart-alt">Dinle, doğru resmi bul</span>
         </button>
+        <OyunKart
+          renk="#5a4a7a"
+          emoji="🌑"
+          baslik="Gölge Bulma"
+          alt="Doğru gölgeyi seç"
+          onClick={() => setAktifOyun('golge')}
+        />
       </div>
     </div>
   );
