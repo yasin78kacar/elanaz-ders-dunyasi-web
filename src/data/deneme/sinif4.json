@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "id": "deneme_s4_01",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Eş anlam",
+      "grade": 4,
+      "question": "\"nazik\" kelimesinin eş anlamlısı hangisidir?",
+      "options": [
+        "kaba",
+        "yorgun",
+        "kibar",
+        "sessiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s4_02",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Zıt anlam",
+      "grade": 4,
+      "question": "\"ağır\" kelimesinin zıt anlamlısı hangisidir?",
+      "options": [
+        "hafif",
+        "sert",
+        "koyu",
+        "sıcak"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s4_03",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Yüklem",
+      "grade": 4,
+      "question": "Balıklar gölde yüzüyor. Cümledeki yüklem hangisidir?",
+      "options": [
+        "Balıklar",
+        "gölde",
+        "balık",
+        "yüzüyor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s4_04",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Noktalama",
+      "grade": 4,
+      "question": "Elanaz elma armut muz aldı. Bu listede eksik olan nedir?",
+      "options": [
+        "Soru işareti",
+        "Virgül",
+        "Ünlem",
+        "İki nokta"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s4_05",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Anlama",
+      "grade": 4,
+      "question": "Deniz saatlerce yürüdü. Ayakları ağrıdı. Deniz'in ayakları neden ağrıdı?",
+      "options": [
+        "Çok yürüdüğü için",
+        "Şarkı söylediği için",
+        "Erken yediği için",
+        "Kitap okuduğu için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s4_06",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Toplama",
+      "grade": 4,
+      "question": "Elanaz'ın 148 pulu vardı. 276 pul daha aldı. Kaç pulu oldu?",
+      "options": [
+        "324",
+        "414",
+        "424",
+        "128"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s4_07",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Çıkarma",
+      "grade": 4,
+      "question": "Ece'nin 500 lirası vardı. 173 lira harcadı. Kaç lirası kaldı?",
+      "options": [
+        "427",
+        "327",
+        "673",
+        "373"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s4_08",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Çarpma",
+      "grade": 4,
+      "question": "Salonda 12 sıra var. Her sırada 8 sandalye var. Toplam kaç sandalye vardır?",
+      "options": [
+        "20",
+        "4",
+        "88",
+        "96"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s4_09",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Bölme",
+      "grade": 4,
+      "question": "72 sayfalık kitabı 9 günde eşit okursak her gün kaç sayfa okunur?",
+      "options": [
+        "8",
+        "63",
+        "81",
+        "9"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s4_10",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Çevre",
+      "grade": 4,
+      "question": "Bir dikdörtgenin kenarları 9 cm ve 5 cm'dir. Çevresi kaç cm'dir?",
+      "options": [
+        "14",
+        "45",
+        "28",
+        "19"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s4_11",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Madde",
+      "grade": 4,
+      "question": "Süt dondurucuya konunca ne olur?",
+      "options": [
+        "Kaynar",
+        "Donar, katılaşır",
+        "Buhar olur",
+        "Yok olur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s4_12",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Su döngüsü",
+      "grade": 4,
+      "question": "Buhar soğuyunca neye dönüşür?",
+      "options": [
+        "Su",
+        "Ateş",
+        "Taş",
+        "Kum"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s4_13",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Bitki",
+      "grade": 4,
+      "question": "Saksı çiçeği karanlık dolapta günlerce kalırsa ne olur?",
+      "options": [
+        "Daha hızlı büyür",
+        "Çiçek açar",
+        "Solar, güçsüzleşir",
+        "Taşa döner"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s4_14",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Güvenlik",
+      "grade": 4,
+      "question": "Sarsıntı başlayınca asansöre binmek doğru mudur?",
+      "options": [
+        "Evet, daha hızlı ineriz",
+        "Evet, asansör daha sağlamdır",
+        "Evet, ışık olduğu için",
+        "Hayır, asansör kullanılmaz"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s4_15",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Deneme",
+      "konu": "Birlikte Yaşamak",
+      "grade": 4,
+      "question": "Komşu uyurken yüksek müzik açmak nasıl bir davranıştır?",
+      "options": [
+        "Nazik bir davranıştır",
+        "Saygısız bir davranıştır",
+        "Zorunlu bir davranıştır",
+        "Yararlı bir davranıştır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s4_16",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Deneme",
+      "konu": "Evimiz Dünya",
+      "grade": 4,
+      "question": "Haritada genellikle üst taraf hangi yöndür?",
+      "options": [
+        "Kuzey",
+        "Güney",
+        "Doğu",
+        "Batı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s4_17",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Deneme",
+      "konu": "Ortak Mirasımız",
+      "grade": 4,
+      "question": "Tarihi bir köprüye isim yazmak neden yanlıştır?",
+      "options": [
+        "Köprüyü güzelleştirir",
+        "Trafiği açar",
+        "Tarihi eseri bozar",
+        "Yağmuru durdurur"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s4_18",
+      "subject": "Sosyal Bilgiler",
+      "theme": "Deneme",
+      "konu": "Yaşayan Demokrasimiz",
+      "grade": 4,
+      "question": "Sınıf temsilcisini seçerken ne yaparız?",
+      "options": [
+        "Zar atarız",
+        "Oy kullanırız",
+        "Kura çekeriz",
+        "İsim çekeriz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s4_19",
+      "subject": "İngilizce",
+      "theme": "Deneme",
+      "konu": "Opposites",
+      "grade": 4,
+      "question": "The opposite of big is ___.",
+      "options": [
+        "hot",
+        "long",
+        "new",
+        "small"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s4_20",
+      "subject": "İngilizce",
+      "theme": "Deneme",
+      "konu": "Days",
+      "grade": 4,
+      "question": "We usually rest on ___.",
+      "options": [
+        "Monday",
+        "Sunday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}

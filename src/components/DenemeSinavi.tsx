@@ -6,13 +6,14 @@ const AKTIF_KEY = 'dersdunyasi_aktif';
 const denemelerKey = (ad: string) => `dersdunyasi_${ad}_denemeler`;
 
 const SIK_HARF = ['A', 'B', 'C', 'D'];
-const DESTEKLENEN_SINIFLAR = [1, 2, 3] as const;
-const DERS_SIRASI = ['Türkçe', 'Matematik', 'Fen Bilimleri', 'Hayat Bilgisi', 'İngilizce'];
+const DESTEKLENEN_SINIFLAR = [1, 2, 3, 4] as const;
+const DERS_SIRASI = ['Türkçe', 'Matematik', 'Fen Bilimleri', 'Hayat Bilgisi', 'Sosyal Bilgiler', 'İngilizce'];
 const DERS_RENK: Record<string, string> = {
   Türkçe: '#14B8A6',
   Matematik: '#EF4444',
   'Fen Bilimleri': '#38BDF8',
   'Hayat Bilgisi': '#84CC16',
+  'Sosyal Bilgiler': '#F97316',
   İngilizce: '#F59E0B',
 };
 
@@ -58,6 +59,7 @@ const DENEME_YUKLE: Record<number, () => Promise<{ default: { questions: DenemeS
   1: () => import('../data/deneme/sinif1.json'),
   2: () => import('../data/deneme/sinif2.json'),
   3: () => import('../data/deneme/sinif3.json'),
+  4: () => import('../data/deneme/sinif4.json'),
 };
 
 function aktifProfil(): { ad: string; sinif: number } {
@@ -223,9 +225,7 @@ const DenemeSinavi: React.FC<Props> = ({ onClose }) => {
         <button className="deneme-geri" onClick={onClose}>← Ana Sayfa</button>
         <h1 className="deneme-baslik">📝 Deneme Sınavı</h1>
         <p className="deneme-uyari">
-          Deneme şimdilik 1, 2 ve 3. sınıf için hazır.<br />
-          Senin profilin {sinif}. sınıf.<br />
-          4. sınıf denemesi sonraki turda gelecek.
+          Bu profil için deneme bulunamadı.
         </p>
       </div>
     );
