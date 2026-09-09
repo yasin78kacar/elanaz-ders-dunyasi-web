@@ -1,0 +1,201 @@
+.deneme-wrap {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 16px 16px 48px;
+}
+
+.deneme-geri {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 16px;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.deneme-baslik {
+  margin: 0 0 8px;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.deneme-alt {
+  margin: 0 0 20px;
+  text-align: center;
+  color: #555;
+  font-weight: 600;
+}
+
+.deneme-kart {
+  background: #fff;
+  border-radius: 20px;
+  padding: 18px 16px 22px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border-top: 6px solid #F59E0B;
+}
+
+.deneme-ust {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #666;
+}
+
+.deneme-ilerleme-yazi {
+  margin: 8px 0 14px;
+  text-align: right;
+  font-weight: 800;
+}
+
+.deneme-soru {
+  margin: 0 0 18px;
+  font-size: 1.15rem;
+  font-weight: 800;
+  line-height: 1.45;
+  text-align: center;
+}
+
+.deneme-siklar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.deneme-sik {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 2.5px solid #E8E4DC;
+  border-radius: 14px;
+  background: #FAFAFA;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+}
+
+.deneme-sik:disabled {
+  cursor: default;
+}
+
+.deneme-sik-harf {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #E8E4DC;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  font-size: 0.85rem;
+}
+
+.deneme-sik--dogru {
+  border-color: #22C55E;
+  background: #ECFDF5;
+}
+
+.deneme-sik--dogru .deneme-sik-harf {
+  background: #22C55E;
+  color: #fff;
+}
+
+.deneme-sik--yanlis {
+  border-color: #EF4444;
+  background: #FEF2F2;
+}
+
+.deneme-sik--yanlis .deneme-sik-harf {
+  background: #EF4444;
+  color: #fff;
+}
+
+.deneme-sik--soluk {
+  opacity: 0.45;
+}
+
+.deneme-sonuc-skor {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 900;
+  margin: 8px 0 20px;
+  color: #B45309;
+}
+
+.deneme-cubuk-satir {
+  margin-bottom: 14px;
+}
+
+.deneme-cubuk-etiket {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.92rem;
+  font-weight: 800;
+  margin-bottom: 6px;
+}
+
+.deneme-cubuk-iz {
+  height: 14px;
+  border-radius: 999px;
+  background: #F3E8D8;
+  overflow: hidden;
+}
+
+.deneme-cubuk-dolgu {
+  height: 100%;
+  border-radius: 999px;
+  background: #F59E0B;
+}
+
+.deneme-zayif {
+  margin-top: 18px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: #FFF7ED;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.deneme-tekrar {
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+  padding: 14px;
+  border: none;
+  border-radius: 14px;
+  background: #F59E0B;
+  color: #fff;
+  font-weight: 800;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.deneme-uyari {
+  text-align: center;
+  font-weight: 700;
+  line-height: 1.5;
+  padding: 24px 8px;
+}
+
+@media (max-width: 390px) {
+  .deneme-wrap {
+    padding: 12px 12px 40px;
+  }
+
+  .deneme-soru {
+    font-size: 1.05rem;
+  }
+
+  .deneme-sik {
+    padding: 11px 12px;
+    font-size: 0.95rem;
+  }
+}

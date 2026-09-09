@@ -3,9 +3,10 @@ import QuizViewer from './components/QuizViewer';
 import HikayeKosesi from './components/HikayeKosesi';
 import Oyunlar from './components/Oyunlar';
 import BesN1K from './components/BesN1K';
+import DenemeSinavi from './components/DenemeSinavi';
 import './App.css';
 
-type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k';
+type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k' | 'deneme';
 
 function App() {
   const [screen, setScreen] = useState<Screen>('quiz');
@@ -17,6 +18,7 @@ function App() {
           onHikayeAc={() => setScreen('hikaye')}
           onOyunlarAc={() => setScreen('oyunlar')}
           onBesN1KAc={() => setScreen('besn1k')}
+          onDenemeAc={() => setScreen('deneme')}
         />
       )}
       {screen === 'hikaye' && (
@@ -27,6 +29,9 @@ function App() {
       )}
       {screen === 'besn1k' && (
         <BesN1K onClose={() => setScreen('quiz')} />
+      )}
+      {screen === 'deneme' && (
+        <DenemeSinavi onClose={() => setScreen('quiz')} />
       )}
     </div>
   );

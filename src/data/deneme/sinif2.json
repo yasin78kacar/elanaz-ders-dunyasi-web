@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "id": "deneme_s2_01",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Sıfat",
+      "grade": 2,
+      "question": "Elanaz sarı topu tuttu. Sıfat hangisidir?",
+      "options": [
+        "Elanaz",
+        "sarı",
+        "topu",
+        "tuttu"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s2_02",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Anlamlı cümle",
+      "grade": 2,
+      "question": "Hangisi tam ve anlamlı bir cümledir?",
+      "options": [
+        "Elanaz parkta ip atladı.",
+        "Parkta Elanaz.",
+        "İp atladı.",
+        "Elanaz parkta."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s2_03",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Hece",
+      "grade": 2,
+      "question": "\"sandalye\" kelimesi kaç hecelidir?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s2_04",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Ses bilgisi",
+      "grade": 2,
+      "question": "\"top\" kelimesindeki sesli harf hangisidir?",
+      "options": [
+        "o",
+        "k",
+        "l",
+        "ş"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s2_05",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Cümle türü",
+      "grade": 2,
+      "question": "Hangisi soru cümlesidir?",
+      "options": [
+        "Elanaz geldi.",
+        "Elanaz gelmedi.",
+        "Ne güzel geldin!",
+        "Elanaz geldi mi?"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s2_06",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Toplama",
+      "grade": 2,
+      "question": "7 + 5 işleminin sonucu kaçtır?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "2"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s2_07",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Çıkarma",
+      "grade": 2,
+      "question": "15 − 8 işleminin sonucu kaçtır?",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "23"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s2_08",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Basamak",
+      "grade": 2,
+      "question": "34 sayısında onlar basamağı hangi rakamdır?",
+      "options": [
+        "4",
+        "34",
+        "3",
+        "7"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s2_09",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Geometri",
+      "grade": 2,
+      "question": "Hangisinin 3 kenarı vardır?",
+      "options": [
+        "Kare",
+        "Üçgen",
+        "Daire",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s2_10",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Problem",
+      "grade": 2,
+      "question": "Elanaz'ın 9 bilyesi vardı. 4 tane daha aldı. Kaç bilyesi oldu?",
+      "options": [
+        "5",
+        "94",
+        "12",
+        "13"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s2_11",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Hava",
+      "grade": 2,
+      "question": "Yerler ıslak, damlalar düşüyor. Hava nasıldır?",
+      "options": [
+        "Yağmurlu",
+        "Güneşli",
+        "Karlı",
+        "Rüzgarlı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s2_12",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Bitkiler",
+      "grade": 2,
+      "question": "Çiçeğin büyümesi için hangisi gerekir?",
+      "options": [
+        "Oyuncak",
+        "Müzik",
+        "Su ve güneş",
+        "Taş"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s2_13",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Duyu",
+      "grade": 2,
+      "question": "Burnumuzla ne yaparız?",
+      "options": [
+        "Görürüz",
+        "Koklarız",
+        "Duyarız",
+        "Tadarız"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s2_14",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Trafik",
+      "grade": 2,
+      "question": "Karşıdan karşıya geçerken önce neye bakarız?",
+      "options": [
+        "Trafik ışığına",
+        "Oyuncağa",
+        "Buluta",
+        "Topa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s2_15",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Temizlik",
+      "grade": 2,
+      "question": "Tuvaletten çıkınca ne yapmalıyız?",
+      "options": [
+        "Diş fırçalamalıyız",
+        "Televizyon açmalıyız",
+        "Ellerimizi yıkamalıyız",
+        "Ayakkabı giymeliyiz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s2_16",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Okul",
+      "grade": 2,
+      "question": "Sınıfta söz almak için ne yaparız?",
+      "options": [
+        "Ayağa fırlar bağırırız",
+        "Parmağımızı kaldırırız",
+        "Sırayı iteriz",
+        "Kapıyı çarparız"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s2_17",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Paylaşma",
+      "grade": 2,
+      "question": "Oyuncağı arkadaşınla paylaşmak nasıl bir davranıştır?",
+      "options": [
+        "Kötü bir davranıştır",
+        "Tehlikeli bir davranıştır",
+        "Tembel bir davranıştır",
+        "Güzel bir davranıştır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s2_18",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Çevre",
+      "grade": 2,
+      "question": "Yerde gördüğümüz kâğıdı nereye atmalıyız?",
+      "options": [
+        "Çöp kutusuna",
+        "Denize",
+        "Sıranın içine",
+        "Ağacın dibine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s2_19",
+      "subject": "İngilizce",
+      "theme": "Deneme",
+      "konu": "Colors",
+      "grade": 2,
+      "question": "What color is snow?",
+      "options": [
+        "Blue",
+        "White",
+        "Green",
+        "Black"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s2_20",
+      "subject": "İngilizce",
+      "theme": "Deneme",
+      "konu": "Animals",
+      "grade": 2,
+      "question": "Which animal has four legs?",
+      "options": [
+        "Fish",
+        "Bird",
+        "Cat",
+        "Snake"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}

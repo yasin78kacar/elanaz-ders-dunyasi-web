@@ -70,6 +70,7 @@ const PROFIL_KEY = 'dersdunyasi_profiller';
 const AKTIF_KEY = 'dersdunyasi_aktif';
 const statsKey = (ad: string) => `dersdunyasi_${ad}_stats`;
 const hatalarKey = (ad: string) => `dersdunyasi_${ad}_hatalar`;
+const denemelerKey = (ad: string) => `dersdunyasi_${ad}_denemeler`;
 
 const ZEKA_KATEGORILER: ZekaKategori[] = [
   { dosya: 'oruntu.json',           baslik: 'Örüntü',                   emoji: '🔁', siniflar: [1, 2, 3, 4] },
@@ -231,6 +232,7 @@ interface Props {
   onHikayeAc?: () => void;
   onOyunlarAc?: () => void;
   onBesN1KAc?: () => void;
+  onDenemeAc?: () => void;
 }
 
 // Sayac kendi state'ini tutar; boylece saniyelik tik yalniz bu minik bileseni
@@ -259,7 +261,7 @@ const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTi
   return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
 });
 
-const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) => {
+const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
@@ -495,6 +497,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
       setProfiller(guncel);
       localStorage.removeItem(statsKey(ad));
       localStorage.removeItem(hatalarKey(ad));
+      localStorage.removeItem(denemelerKey(ad));
     };
 
     if (profiller.length > 0 && !yeniProfilModu) {
@@ -661,6 +664,17 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc }) =>
               <span className="qv-hikaye-btn-text">
                 <span className="qv-hikaye-btn-title">5N1K</span>
                 <span className="qv-hikaye-btn-sub">Kim? Ne? Nerede? Ne zaman? Neden? Nasıl?</span>
+              </span>
+              <span className="qv-hikaye-btn-arrow">›</span>
+            </button>
+          )}
+
+          {onDenemeAc && (
+            <button className="qv-deneme-btn" id="btn-deneme-sinavi" onClick={onDenemeAc}>
+              <span className="qv-hikaye-btn-emoji">📝</span>
+              <span className="qv-hikaye-btn-text">
+                <span className="qv-hikaye-btn-title">Test Soruları</span>
+                <span className="qv-hikaye-btn-sub">Karışık ders deneme sınavı</span>
               </span>
               <span className="qv-hikaye-btn-arrow">›</span>
             </button>
