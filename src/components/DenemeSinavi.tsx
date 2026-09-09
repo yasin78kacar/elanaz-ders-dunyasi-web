@@ -6,7 +6,7 @@ const AKTIF_KEY = 'dersdunyasi_aktif';
 const denemelerKey = (ad: string) => `dersdunyasi_${ad}_denemeler`;
 
 const SIK_HARF = ['A', 'B', 'C', 'D'];
-const DESTEKLENEN_SINIFLAR = [1, 2] as const;
+const DESTEKLENEN_SINIFLAR = [1, 2, 3] as const;
 const DERS_SIRASI = ['Türkçe', 'Matematik', 'Fen Bilimleri', 'Hayat Bilgisi', 'İngilizce'];
 const DERS_RENK: Record<string, string> = {
   Türkçe: '#14B8A6',
@@ -57,6 +57,7 @@ interface Props {
 const DENEME_YUKLE: Record<number, () => Promise<{ default: { questions: DenemeSoru[] } }>> = {
   1: () => import('../data/deneme/sinif1.json'),
   2: () => import('../data/deneme/sinif2.json'),
+  3: () => import('../data/deneme/sinif3.json'),
 };
 
 function aktifProfil(): { ad: string; sinif: number } {
@@ -222,9 +223,9 @@ const DenemeSinavi: React.FC<Props> = ({ onClose }) => {
         <button className="deneme-geri" onClick={onClose}>← Ana Sayfa</button>
         <h1 className="deneme-baslik">📝 Deneme Sınavı</h1>
         <p className="deneme-uyari">
-          Deneme şimdilik 1. ve 2. sınıf için hazır.<br />
+          Deneme şimdilik 1, 2 ve 3. sınıf için hazır.<br />
           Senin profilin {sinif}. sınıf.<br />
-          3 ve 4. sınıf denemeleri sonraki turda gelecek.
+          4. sınıf denemesi sonraki turda gelecek.
         </p>
       </div>
     );

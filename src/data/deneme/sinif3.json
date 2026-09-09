@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "id": "deneme_s3_01",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Eş anlam",
+      "grade": 3,
+      "question": "\"minik\" kelimesinin eş anlamlısı hangisidir?",
+      "options": [
+        "kocaman",
+        "uzun",
+        "hızlı",
+        "küçük"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s3_02",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Zıt anlam",
+      "grade": 3,
+      "question": "\"ince\" kelimesinin zıt anlamlısı hangisidir?",
+      "options": [
+        "kalın",
+        "ıslak",
+        "sıcak",
+        "yavaş"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s3_03",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Fiil",
+      "grade": 3,
+      "question": "Kedi bahçede uyudu. Cümledeki fiil hangisidir?",
+      "options": [
+        "Kedi",
+        "bahçede",
+        "uyudu",
+        "evde"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s3_04",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Cümle türü",
+      "grade": 3,
+      "question": "Hangisi ünlem cümlesidir?",
+      "options": [
+        "Elanaz geldi.",
+        "Yaşasın, geldik!",
+        "Elanaz geldi mi?",
+        "Elanaz gelmedi."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s3_05",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Anlama",
+      "grade": 3,
+      "question": "Ece yağmurda şemsiyesini unuttu. Saçları ıslandı. Ece neden ıslandı?",
+      "options": [
+        "Şemsiyesini unuttuğu için",
+        "Şarkı söylediği için",
+        "Erken kalktığı için",
+        "Kitap okuduğu için"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s3_06",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Toplama",
+      "grade": 3,
+      "question": "Elanaz'ın 36 pulu vardı. 25 pul daha aldı. Kaç pulu oldu?",
+      "options": [
+        "51",
+        "61",
+        "11",
+        "60"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s3_07",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Çıkarma",
+      "grade": 3,
+      "question": "73 sayısından 48 çıkarılırsa sonuç kaçtır?",
+      "options": [
+        "25",
+        "121",
+        "35",
+        "48"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s3_08",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Çarpma",
+      "grade": 3,
+      "question": "Her kutuda 8 kalem var. 3 kutu kaç kalemdir?",
+      "options": [
+        "11",
+        "5",
+        "24",
+        "38"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s3_09",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Bölme",
+      "grade": 3,
+      "question": "24 bilyeyi 6 çocuğa eşit paylaştırırsak her biri kaç alır?",
+      "options": [
+        "3",
+        "4",
+        "18",
+        "30"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s3_10",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Çevre",
+      "grade": 3,
+      "question": "Bir karenin çevresi 16 cm'dir. Bir kenarı kaç cm'dir?",
+      "options": [
+        "8",
+        "12",
+        "32",
+        "4"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s3_11",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Madde",
+      "grade": 3,
+      "question": "Buz oda sıcaklığında bekleyince ne olur?",
+      "options": [
+        "Donar",
+        "Erir, su olur",
+        "Taşa döner",
+        "Uçar, kaybolur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s3_12",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Mıknatıs",
+      "grade": 3,
+      "question": "Mıknatıs hangisini çeker?",
+      "options": [
+        "Tahta kalem",
+        "Plastik top",
+        "Cam bardak",
+        "Demir çivi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s3_13",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Işık",
+      "grade": 3,
+      "question": "Güneşli günde Elanaz'ın yere düşen karanlık şekli nedir?",
+      "options": [
+        "Yankı",
+        "Duman",
+        "Gölge",
+        "Buhar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s3_14",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Bitki",
+      "grade": 3,
+      "question": "Tohum sulanınca topraktan önce ne çıkar?",
+      "options": [
+        "Fide",
+        "Taş",
+        "Kum",
+        "Çakıl"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s3_15",
+      "subject": "Fen Bilimleri",
+      "theme": "Deneme",
+      "konu": "Canlı",
+      "grade": 3,
+      "question": "Hangisi canlıdır?",
+      "options": [
+        "Taş",
+        "Kedi",
+        "Bardak",
+        "Sandalye"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s3_16",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Sağlık",
+      "grade": 3,
+      "question": "Dişimiz ağrıyınca kime gideriz?",
+      "options": [
+        "Fırıncıya",
+        "Terziye",
+        "Diş hekimine",
+        "Şoföre"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s3_17",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Çevre",
+      "grade": 3,
+      "question": "Yere düşen muz kabuğunu nereye atmalıyız?",
+      "options": [
+        "Çöp kutusuna",
+        "Sıranın içine",
+        "Çantamıza",
+        "Cebimize"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s3_18",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Nezaket",
+      "grade": 3,
+      "question": "Hastanede nasıl konuşuruz?",
+      "options": [
+        "Bağırarak",
+        "Islık çalarak",
+        "Fısıltıyla",
+        "Alkışlayarak"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s3_19",
+      "subject": "İngilizce",
+      "theme": "Deneme",
+      "konu": "Days",
+      "grade": 3,
+      "question": "A week has ___ days.",
+      "options": [
+        "Three",
+        "Five",
+        "Ten",
+        "Seven"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s3_20",
+      "subject": "İngilizce",
+      "theme": "Deneme",
+      "konu": "School",
+      "grade": 3,
+      "question": "We write with a ___.",
+      "options": [
+        "eraser",
+        "pencil",
+        "bag",
+        "glue"
+      ],
+      "correctAnswer": 1
+    }
+  ]
+}
