@@ -591,7 +591,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
         <span className="qv-hikaye-btn-emoji">🎮</span>
         <span className="qv-hikaye-btn-text">
           <span className="qv-hikaye-btn-title">Oyunlar</span>
-          <span className="qv-hikaye-btn-sub">16 eğlenceli mini oyun</span>
+          <span className="qv-hikaye-btn-sub">17 eğlenceli mini oyun</span>
         </span>
         <span className="qv-hikaye-btn-arrow">›</span>
       </button>

@@ -1,0 +1,100 @@
+.bb-oyun {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.bb-ust {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-weight: 800;
+  font-size: 0.95rem;
+  gap: 8px;
+}
+.bb-seri {
+  color: #c45c2a;
+  animation: bb-seri-gir 0.28s cubic-bezier(0.22, 1, 0.36, 1);
+}
+@keyframes bb-seri-gir {
+  from { transform: scale(0.7); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+.bb-metin {
+  width: 100%;
+  margin: 0;
+  padding: 16px 14px;
+  border-radius: 16px;
+  background: #fff8e8;
+  box-shadow:
+    0 0 0 3px #f7efe0,
+    0 0 0 6px #c9a66b,
+    0 6px 0 #8d6a3a;
+  font-size: 1.12rem;
+  font-weight: 800;
+  line-height: 1.4;
+  text-align: center;
+  color: #3a2a18;
+}
+.bb-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  width: 100%;
+  max-width: 360px;
+}
+.bb-kart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  aspect-ratio: 1;
+  min-width: 80px;
+  min-height: 80px;
+  border: none;
+  border-radius: 20px;
+  padding: 8px;
+  cursor: pointer;
+  background: #fff6e4;
+  box-shadow: 0 6px 0 #cbb892, 0 8px 16px rgba(80, 50, 20, 0.14);
+  touch-action: manipulation;
+}
+.bb-kart svg { width: 68%; height: 68%; display: block; }
+.bb-ad {
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: #5a3d1a;
+}
+.bb-kart:active:not(:disabled) { transform: translateY(3px); box-shadow: 0 3px 0 #cbb892; }
+.bb-kart:disabled { cursor: default; }
+.bb-kart.parla {
+  background: #c8f0dc;
+  box-shadow: 0 0 0 4px #fffbe9, 0 0 22px rgba(29, 158, 117, 0.55);
+  animation: bb-parla 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.bb-kart.salla { animation: bb-salla 0.42s ease; }
+.bb-kart.dogru-goster {
+  box-shadow: 0 0 0 4px #f4d23a, 0 6px 0 #cbb892;
+  background: #fff3c4;
+}
+@keyframes bb-parla {
+  0% { transform: scale(0.92); filter: brightness(1.3); }
+  50% { transform: scale(1.06); }
+  100% { transform: scale(1); filter: brightness(1); }
+}
+@keyframes bb-salla {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-6px); }
+  75% { transform: translateX(6px); }
+}
+
+@media (max-width: 400px) {
+  .bb-metin { font-size: 1.02rem; padding: 14px 12px; }
+  .bb-kart { min-width: 80px; min-height: 80px; border-radius: 16px; }
+  .bb-grid { gap: 10px; }
+}
