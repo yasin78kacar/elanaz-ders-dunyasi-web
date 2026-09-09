@@ -119,6 +119,22 @@ export function sesRitimIsabet(tur: 'mukemmel' | 'iyi') {
   o.stop(t + 0.24);
 }
 
+export function sesAdim() {
+  const ctx = sesCtx();
+  if (!ctx) return;
+  const t = ctx.currentTime;
+  const o = ctx.createOscillator();
+  const g = ctx.createGain();
+  o.type = 'sine';
+  o.frequency.value = 660;
+  g.gain.setValueAtTime(0.0001, t);
+  g.gain.exponentialRampToValueAtTime(0.09, t + 0.01);
+  g.gain.exponentialRampToValueAtTime(0.0001, t + 0.09);
+  o.connect(g).connect(ctx.destination);
+  o.start(t);
+  o.stop(t + 0.1);
+}
+
 /** Tüm parçalar yerleşince kısa crescendo. */
 export function sesZafer() {
   const ctx = ctxAl();
