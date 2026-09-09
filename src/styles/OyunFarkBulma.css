@@ -1,0 +1,211 @@
+.fb-oyun {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.fb-ust {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-weight: 800;
+  font-size: 0.95rem;
+  gap: 8px;
+}
+.fb-baslik {
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+}
+.fb-zorluk {
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: #fff6d6;
+  color: #7a4e12;
+}
+.fb-zorluk.orta { background: #ffe0c2; color: #8a3d10; }
+.fb-zorluk.zor { background: #f3d4e4; color: #7a2450; }
+.fb-sahneler {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+}
+.fb-pane {
+  position: relative;
+  width: 100%;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow:
+    0 0 0 3px #f7efe0,
+    0 0 0 6px #c9a66b,
+    0 8px 0 #8d6a3a;
+  background: #e8d7b5;
+}
+.fb-pane.salla-soguk { animation: fb-soguk 0.42s ease; }
+.fb-pane.salla-ilik { animation: fb-ilik 0.38s ease; }
+.fb-pane.salla-sicak { animation: fb-sicak 0.34s ease; }
+@keyframes fb-soguk {
+  0%, 100% { filter: none; transform: translateX(0); }
+  25% { filter: hue-rotate(160deg) saturate(1.2); transform: translateX(-4px); }
+  75% { filter: hue-rotate(160deg); transform: translateX(4px); }
+}
+@keyframes fb-ilik {
+  0%, 100% { transform: translateX(0); }
+  30% { transform: translateX(-5px) scale(1.01); }
+  70% { transform: translateX(5px); }
+}
+@keyframes fb-sicak {
+  0%, 100% { transform: scale(1); filter: none; }
+  35% { transform: scale(1.015); filter: saturate(1.35) brightness(1.08); }
+  70% { transform: scale(0.995); }
+}
+.fb-etiket {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 2;
+  background: rgba(255, 248, 230, 0.92);
+  color: #5a3d1a;
+  font-weight: 800;
+  font-size: 0.72rem;
+  padding: 3px 8px;
+  border-radius: 999px;
+  pointer-events: none;
+}
+.fb-svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+.fb-ipucu {
+  position: absolute;
+  transform: translate(-50%, -120%);
+  font-weight: 800;
+  font-size: 0.85rem;
+  padding: 3px 8px;
+  border-radius: 8px;
+  pointer-events: none;
+  z-index: 5;
+  animation: fb-ipucu-git 0.7s ease forwards;
+  white-space: nowrap;
+}
+.fb-ipucu.soguk { background: #3d6b9a; color: #fff; }
+.fb-ipucu.ilik { background: #d97706; color: #fff; }
+.fb-ipucu.sicak { background: #c2410c; color: #fff; }
+@keyframes fb-ipucu-git {
+  0% { opacity: 1; transform: translate(-50%, -120%); }
+  100% { opacity: 0; transform: translate(-50%, -180%); }
+}
+.fb-parilti {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 4;
+}
+.fb-yildiz, .fb-nokta {
+  position: absolute;
+  pointer-events: none;
+  animation: fb-patla 0.75s ease-out forwards;
+}
+.fb-yildiz {
+  width: 12px;
+  height: 12px;
+  background: #ffe566;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  filter: drop-shadow(0 0 4px #fff3a8);
+}
+.fb-nokta {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #fff;
+}
+@keyframes fb-patla {
+  0% { opacity: 1; transform: translate(0, 0) scale(0.4) rotate(0deg); }
+  70% { opacity: 1; }
+  100% { opacity: 0; transform: translate(var(--dx), var(--dy)) scale(1.15) rotate(140deg); }
+}
+.fb-halka {
+  fill: none;
+  stroke: #ffe566;
+  stroke-width: 3;
+  stroke-linecap: round;
+  filter: drop-shadow(0 0 4px #fff3a8);
+  animation: fb-halka-ciz 0.55s ease-out both;
+}
+@keyframes fb-halka-ciz {
+  from { stroke-dasharray: 0 200; opacity: 0.2; }
+  to { stroke-dasharray: 200 0; opacity: 1; }
+}
+.fb-yeni {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: fb-yeni 0.7s cubic-bezier(0.34, 1.4, 0.64, 1);
+}
+@keyframes fb-yeni {
+  0% { transform: scale(0.2); filter: brightness(2); }
+  55% { transform: scale(1.18); filter: brightness(1.35); }
+  100% { transform: scale(1); filter: none; }
+}
+.fb-bulut { animation: fb-bulut 18s linear infinite; }
+.fb-bulut-2 { animation: fb-bulut 26s linear infinite reverse; }
+@keyframes fb-bulut {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(10px); }
+  100% { transform: translateX(0); }
+}
+.fb-yaprak { transform-box: fill-box; transform-origin: center top; animation: fb-yaprak 3.6s ease-in-out infinite; }
+.fb-yaprak-2 { animation-duration: 4.4s; animation-delay: -1s; }
+@keyframes fb-yaprak {
+  0%, 100% { transform: rotate(-3deg); }
+  50% { transform: rotate(4deg); }
+}
+.fb-dalga { animation: fb-dalga 3s ease-in-out infinite; }
+@keyframes fb-dalga {
+  0%, 100% { opacity: 0.35; transform: translateX(0); }
+  50% { opacity: 0.7; transform: translateX(6px); }
+}
+.fb-kus-uc { animation: fb-kus 2.8s ease-in-out infinite; }
+@keyframes fb-kus {
+  0%, 100% { transform: translate(0, 0); }
+  50% { transform: translate(4px, -5px); }
+}
+.fb-duman { animation: fb-duman 2.4s ease-in-out infinite; }
+@keyframes fb-duman {
+  0%, 100% { transform: translateY(0) scale(1); opacity: 0.55; }
+  50% { transform: translateY(-8px) scale(1.12); opacity: 0.2; }
+}
+.fb-kar {
+  animation: fb-kar 7s linear infinite;
+}
+@keyframes fb-kar {
+  0% { transform: translateY(0); opacity: 0.9; }
+  100% { transform: translateY(40px); opacity: 0.15; }
+}
+.fb-ara {
+  width: 100%;
+  text-align: center;
+  padding: 28px 12px;
+  font-weight: 800;
+}
+.fb-ara h2 { margin: 0 0 8px; font-size: 1.4rem; }
+.fb-noktalar { letter-spacing: 4px; font-size: 1.1rem; }
+
+@media (min-width: 540px) {
+  .fb-sahneler { flex-direction: row; }
+  .fb-pane { flex: 1; min-width: 0; }
+}
+
+@media (max-width: 400px) {
+  .fb-baslik { font-size: 0.95rem; }
+  .fb-etiket { font-size: 0.68rem; }
+}
