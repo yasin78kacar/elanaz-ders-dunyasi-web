@@ -2742,5 +2742,910 @@
         "correctAnswer": 3
       }
     ]
+  },
+  {
+    "id": "kisa-en-01",
+    "baslik": "KAHRAMAN's Morning",
+    "seviye": 1,
+    "sayfalar": [
+      "The sun came in. KAHRAMAN opened both eyes. \"Good morning,\" said Mum.",
+      "KAHRAMAN washed a face and brushed teeth. The water was cold and clean.",
+      "Breakfast was bread and cheese. KAHRAMAN said thank you and put on shoes."
+    ],
+    "sorular": [
+      {
+        "question": "When did KAHRAMAN wake?",
+        "options": [
+          "In the morning",
+          "At night",
+          "At noon",
+          "In the evening"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did KAHRAMAN wash?",
+        "options": [
+          "Hands only",
+          "A face",
+          "Hair",
+          "A cup"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN brush?",
+        "options": [
+          "Hair",
+          "Shoes",
+          "Teeth",
+          "The floor"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was breakfast?",
+        "options": [
+          "Cake",
+          "Soup",
+          "Rice",
+          "Bread and cheese"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-02",
+    "baslik": "KAHRAMAN's Cat",
+    "seviye": 1,
+    "sayfalar": [
+      "KAHRAMAN has a small grey cat. The cat's name is Mimi.",
+      "Mimi likes a red ball. She runs and jumps on the carpet.",
+      "At night Mimi sleeps on KAHRAMAN's bed. She is soft and warm."
+    ],
+    "sorular": [
+      {
+        "question": "What colour is the cat?",
+        "options": [
+          "White",
+          "Grey",
+          "Black",
+          "Brown"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does Mimi like?",
+        "options": [
+          "A book",
+          "Milk only",
+          "A red ball",
+          "A hat"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where does Mimi sleep?",
+        "options": [
+          "In a box",
+          "In the garden",
+          "On a chair",
+          "On KAHRAMAN's bed"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is the cat's name?",
+        "options": [
+          "Mimi",
+          "Dot",
+          "Leo",
+          "Can"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-03",
+    "baslik": "KAHRAMAN and the Shapes",
+    "seviye": 1,
+    "sayfalar": [
+      "In art class KAHRAMAN drew shapes. A circle. A square. A triangle.",
+      "The circle was yellow like the sun. The square was blue like the sky.",
+      "KAHRAMAN cut the triangle from green paper. It looked like a tree."
+    ],
+    "sorular": [
+      {
+        "question": "What was yellow?",
+        "options": [
+          "The square",
+          "The triangle",
+          "The circle",
+          "The desk"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the triangle look like?",
+        "options": [
+          "A car",
+          "A fish",
+          "A cup",
+          "A tree"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Where was KAHRAMAN?",
+        "options": [
+          "In art class",
+          "At the sea",
+          "In bed",
+          "In a shop"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the square?",
+        "options": [
+          "Red",
+          "Blue",
+          "Green",
+          "Black"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-04",
+    "baslik": "KAHRAMAN's Cup of Soup",
+    "seviye": 1,
+    "sayfalar": [
+      "Mum cut carrots and potatoes. KAHRAMAN washed the tomatoes.",
+      "The pot was on the cooker. The soup was hot and orange.",
+      "KAHRAMAN blew on the spoon. \"It is yummy,\" KAHRAMAN said."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the soup?",
+        "options": [
+          "Green",
+          "Red",
+          "White",
+          "Orange"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did KAHRAMAN wash?",
+        "options": [
+          "The tomatoes",
+          "The floor",
+          "A cup",
+          "A shoe"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where was the pot?",
+        "options": [
+          "In the fridge",
+          "On the cooker",
+          "On the bed",
+          "In a bag"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN do with the spoon?",
+        "options": [
+          "Hide it",
+          "Break it",
+          "Blow on it",
+          "Throw it"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-05",
+    "baslik": "KAHRAMAN and the Rain",
+    "seviye": 2,
+    "sayfalar": [
+      "Rain hit the window. Tap, tap, tap! KAHRAMAN could not go to the park.",
+      "Dad made a paper boat. They put it in a tray of water.",
+      "The little boat floated. KAHRAMAN clapped. Rainy days can be fun too."
+    ],
+    "sorular": [
+      {
+        "question": "What hit the window?",
+        "options": [
+          "Rain",
+          "Snow",
+          "Sand",
+          "Leaves"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Dad make?",
+        "options": [
+          "A kite",
+          "A paper boat",
+          "A cake",
+          "A hat"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did they put the boat?",
+        "options": [
+          "In a bag",
+          "On a chair",
+          "In a tray of water",
+          "In the oven"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN do?",
+        "options": [
+          "Cry",
+          "Sleep",
+          "Hide",
+          "Clap"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-06",
+    "baslik": "KAHRAMAN's Red Kite",
+    "seviye": 2,
+    "sayfalar": [
+      "The wind was strong. KAHRAMAN took a red kite to the hill.",
+      "Uncle Cem held the string first. Then KAHRAMAN held it. The kite went up!",
+      "A bird flew near the kite. The kite danced in the blue sky."
+    ],
+    "sorular": [
+      {
+        "question": "Who held the string first?",
+        "options": [
+          "Mum",
+          "Uncle Cem",
+          "Dad",
+          "A bird"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did the kite go?",
+        "options": [
+          "Into a box",
+          "Under a bed",
+          "Up",
+          "Into the sea"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What flew near the kite?",
+        "options": [
+          "A plane",
+          "A bee",
+          "A fly",
+          "A bird"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour was the kite?",
+        "options": [
+          "Red",
+          "Green",
+          "Yellow",
+          "Black"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-07",
+    "baslik": "When KAHRAMAN Felt Angry",
+    "seviye": 2,
+    "sayfalar": [
+      "KAHRAMAN's tower of blocks fell down. KAHRAMAN felt hot and angry.",
+      "KAHRAMAN sat on the floor. Hands were in fists. The room felt too small.",
+      "Mum sat near. She did not shout. \"Breathe with me,\" she said. In. Out.",
+      "KAHRAMAN's hands opened. They built the tower again, slower this time.",
+      "The tower stood. KAHRAMAN felt calm. Angry feelings can go, then we try again."
+    ],
+    "sorular": [
+      {
+        "question": "What fell down?",
+        "options": [
+          "A cup",
+          "A kite",
+          "A tower of blocks",
+          "A book"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Mum say?",
+        "options": [
+          "Run",
+          "Hide",
+          "Be quiet",
+          "Breathe with me"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "How did KAHRAMAN feel first?",
+        "options": [
+          "Angry",
+          "Happy",
+          "Sleepy",
+          "Hungry"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How did they build again?",
+        "options": [
+          "Faster",
+          "Slower",
+          "Never",
+          "Outside"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-08",
+    "baslik": "KAHRAMAN and the Ducks",
+    "seviye": 1,
+    "sayfalar": [
+      "KAHRAMAN and Dad walked to a small pond. The water was still.",
+      "Three ducks swam there. Two were brown. One was white.",
+      "The white duck said, \"Quack, quack!\" It came close to the grass.",
+      "KAHRAMAN did not throw bread. Dad said, \"Ducks eat special food, not our bread.\"",
+      "They watched and then went home. The pond was quiet again."
+    ],
+    "sorular": [
+      {
+        "question": "How many ducks were there?",
+        "options": [
+          "One",
+          "Two",
+          "Four",
+          "Three"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour was one duck?",
+        "options": [
+          "White",
+          "Blue",
+          "Red",
+          "Purple"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What sound did the duck make?",
+        "options": [
+          "Tweet",
+          "Quack, quack",
+          "Woof",
+          "Moo"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did they not throw?",
+        "options": [
+          "Stones",
+          "Toys",
+          "Bread",
+          "Hats"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-09",
+    "baslik": "KAHRAMAN Calls Grandma",
+    "seviye": 2,
+    "sayfalar": [
+      "Sunday evening the phone rang. It was Grandma.",
+      "KAHRAMAN said, \"Hello, Grandma!\" and held the phone with two hands.",
+      "Grandma asked about school. KAHRAMAN told her about a painting of a house.",
+      "Grandma sang a short song. KAHRAMAN laughed and sang the last line.",
+      "\"I will visit next Friday,\" said Grandma. KAHRAMAN blew a kiss to the phone."
+    ],
+    "sorular": [
+      {
+        "question": "When did the phone ring?",
+        "options": [
+          "Sunday evening",
+          "Monday morning",
+          "At noon",
+          "At night only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who called?",
+        "options": [
+          "Dad",
+          "Grandma",
+          "The teacher",
+          "Uncle Cem"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the painting of?",
+        "options": [
+          "A car",
+          "A fish",
+          "A house",
+          "A star"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "When will Grandma visit?",
+        "options": [
+          "Today",
+          "Tomorrow",
+          "Next year",
+          "Next Friday"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-10",
+    "baslik": "KAHRAMAN at the Market",
+    "seviye": 2,
+    "sayfalar": [
+      "Saturday morning KAHRAMAN and Mum walked to the market.",
+      "The market was noisy and bright. People sold fruit and bread.",
+      "First they bought red apples. KAHRAMAN counted six apples.",
+      "Then they bought white cheese. The seller put it in a paper bag.",
+      "A woman sold flowers. Mum chose yellow ones for the table.",
+      "KAHRAMAN carried the light bag. Mum carried the heavy bag.",
+      "They saw a man with fresh eggs. Mum said, \"Not today, thank you.\"",
+      "At the end they bought warm bread. It smelled so good.",
+      "At home KAHRAMAN washed the apples. Six red apples in a bowl.",
+      "KAHRAMAN learned: we can say yes, and we can also say not today."
+    ],
+    "sorular": [
+      {
+        "question": "What day was it?",
+        "options": [
+          "Saturday",
+          "Friday",
+          "Sunday",
+          "Monday"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many apples did they buy?",
+        "options": [
+          "Four",
+          "Six",
+          "Two",
+          "Ten"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour were the flowers?",
+        "options": [
+          "Red",
+          "Pink",
+          "Yellow",
+          "Blue"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN carry?",
+        "options": [
+          "The heavy bag",
+          "The eggs",
+          "The flowers",
+          "The light bag"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did they buy at the end?",
+        "options": [
+          "Warm bread",
+          "Eggs",
+          "Milk",
+          "Fish"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-11",
+    "baslik": "KAHRAMAN's Night in the Tent",
+    "seviye": 3,
+    "sayfalar": [
+      "In the garden Dad put up a small green tent.",
+      "KAHRAMAN put a torch and a pillow inside.",
+      "Mum gave two cups of warm milk. The sky was getting dark.",
+      "They heard a cricket. Chirp, chirp! KAHRAMAN was not scared.",
+      "Dad told a short story about a kind moon.",
+      "KAHRAMAN looked out. Many small stars were in the sky.",
+      "A cat walked on the wall. Its eyes shone for a second.",
+      "Then it was quiet. KAHRAMAN felt sleepy and safe.",
+      "In the night KAHRAMAN woke once. The torch was still near the pillow.",
+      "Morning came. Birds sang. The tent was a little wet with dew.",
+      "They folded the tent. KAHRAMAN held the bag.",
+      "KAHRAMAN learned: a holiday can be at home, under the stars."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the tent?",
+        "options": [
+          "Blue",
+          "Green",
+          "Red",
+          "Grey"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Mum give?",
+        "options": [
+          "Cake",
+          "Water",
+          "Warm milk",
+          "Juice"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What sound did they hear?",
+        "options": [
+          "Woof",
+          "Beep",
+          "Quack",
+          "Chirp, chirp"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What was Dad's story about?",
+        "options": [
+          "A kind moon",
+          "A ship",
+          "A lion",
+          "A train"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How was the tent in the morning?",
+        "options": [
+          "Dry",
+          "A little wet",
+          "Gone",
+          "Red"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-12",
+    "baslik": "KAHRAMAN's Library Book",
+    "seviye": 2,
+    "sayfalar": [
+      "After school KAHRAMAN went to the library with Aunt Lale.",
+      "The room was quiet. Soft carpets. Tall shelves.",
+      "A librarian smiled. \"You may take two books,\" she said.",
+      "KAHRAMAN looked at a book about trains. The pictures were big.",
+      "Aunt Lale found a book about the moon.",
+      "KAHRAMAN chose the train book and a thin book of animal stories.",
+      "They sat at a low table. KAHRAMAN read the first page slowly.",
+      "A little boy cried for a book. The librarian found the same book for him.",
+      "Before leaving they put the chairs in. The table was tidy.",
+      "At home KAHRAMAN put a paper in the train book to keep the page.",
+      "KAHRAMAN learned: a library is a quiet place full of new worlds."
+    ],
+    "sorular": [
+      {
+        "question": "How many books may they take?",
+        "options": [
+          "One",
+          "Four",
+          "Two",
+          "Ten"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was KAHRAMAN's first book about?",
+        "options": [
+          "The moon",
+          "Cats",
+          "The sea",
+          "Trains"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who went with KAHRAMAN?",
+        "options": [
+          "Aunt Lale",
+          "Mum",
+          "Dad",
+          "Efe"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did they sit?",
+        "options": [
+          "On the floor",
+          "At a low table",
+          "In a car",
+          "On a bed"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN put in the book?",
+        "options": [
+          "A leaf",
+          "A coin",
+          "A paper",
+          "A sticker"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-13",
+    "baslik": "KAHRAMAN's Summer at the Sea",
+    "seviye": 3,
+    "sayfalar": [
+      "In July the family went to the sea. The bus ride was long.",
+      "Grandma's little house was near the sand. The door was blue.",
+      "KAHRAMAN put on a yellow sun hat. Mum put cream on KAHRAMAN's arms.",
+      "The sea was bright. Small waves came in and went out.",
+      "KAHRAMAN and cousin Deniz made a sandcastle. They used a red bucket.",
+      "A crab walked sideways. Deniz jumped, then laughed.",
+      "They collected three smooth stones. One stone had a white line.",
+      "At noon they ate watermelon in the shade. It was cold and sweet.",
+      "After lunch they rested. Grandma told a story about a fishing boat.",
+      "In the afternoon KAHRAMAN went into the water up to the knees.",
+      "A wave splashed KAHRAMAN's face. Splash! It was salty.",
+      "Dad took a photo of the sandcastle. Then a wave took some sand away.",
+      "They put the three stones in a jar. The jar sat on the window.",
+      "On the last morning KAHRAMAN said goodbye to the blue door.",
+      "KAHRAMAN learned: summer days are sun, salt water, and time with family."
+    ],
+    "sorular": [
+      {
+        "question": "When did the family go to the sea?",
+        "options": [
+          "In May",
+          "In June",
+          "In August",
+          "In July"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour was the door?",
+        "options": [
+          "Blue",
+          "Red",
+          "Green",
+          "Brown"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the sun hat?",
+        "options": [
+          "White",
+          "Yellow",
+          "Pink",
+          "Black"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did they make?",
+        "options": [
+          "A boat",
+          "A cake",
+          "A sandcastle",
+          "A kite"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they eat at noon?",
+        "options": [
+          "Bread",
+          "Soup",
+          "Eggs",
+          "Watermelon"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-14",
+    "baslik": "KAHRAMAN at the Farm",
+    "seviye": 3,
+    "sayfalar": [
+      "The class went to a farm on a sunny day.",
+      "A farmer named Kaya met them at the gate. He had a big straw hat.",
+      "First they saw brown hens. The hens walked and pecked the ground.",
+      "One hen sat on eggs. \"We must be quiet here,\" said Kaya.",
+      "Then they saw a black and white cow. Her name was Lily.",
+      "Lily ate grass. A girl named Ela waved. Lily did not wave back.",
+      "In the barn they smelled hay. It was dry and yellow.",
+      "Kaya showed a sheep. The sheep had a thick coat. \"This keeps her warm.\"",
+      "KAHRAMAN helped fill a small bucket with water for the sheep.",
+      "They washed hands before a snack. Apples from the farm tree.",
+      "After the snack they saw a vegetable garden. Tomatoes were still green.",
+      "A little goat jumped on a box. The class laughed in a kind way.",
+      "Before the bus Kaya gave each child a paper hat. It said \"Farm Friend\".",
+      "On the bus KAHRAMAN drew Lily the cow. Black patches. A calm face.",
+      "KAHRAMAN learned: farm animals need food, water, and quiet care."
+    ],
+    "sorular": [
+      {
+        "question": "Where did the class go?",
+        "options": [
+          "To a farm",
+          "To the sea",
+          "To a shop",
+          "To the moon"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was the cow's name?",
+        "options": [
+          "Mimi",
+          "Lily",
+          "Dot",
+          "Nisa"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN fill?",
+        "options": [
+          "A bag",
+          "A cup",
+          "A small bucket",
+          "A box"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the paper hat say?",
+        "options": [
+          "Top Student",
+          "Sea Star",
+          "Kind Helper",
+          "Farm Friend"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour were the tomatoes?",
+        "options": [
+          "Green",
+          "Red",
+          "Yellow",
+          "Black"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "kisa-en-15",
+    "baslik": "KAHRAMAN's Cookies with Dad",
+    "seviye": 2,
+    "sayfalar": [
+      "Sunday afternoon Dad said, \"Let us make cookies.\"",
+      "KAHRAMAN washed both hands. The kitchen smelled like butter.",
+      "They mixed flour, sugar, and one egg in a big bowl.",
+      "KAHRAMAN put little spoons of mix on a tray. Some were not round!",
+      "Dad laughed. \"Funny shapes are okay. They will still taste good.\"",
+      "The oven was warm. They waited and watched the window of the oven.",
+      "The cookies turned light brown. Dad took the tray out with thick gloves.",
+      "They had to wait. \"Hot cookies can hurt a mouth,\" said Dad.",
+      "KAHRAMAN set plates. One for Mum, one for Dad, one for KAHRAMAN.",
+      "Mum came in. \"I can smell something sweet!\" she said.",
+      "They sat together. The first cookie was soft in the middle.",
+      "KAHRAMAN gave the funniest cookie to Mum. It looked like a cloud.",
+      "They put two cookies in a tin for Grandma.",
+      "KAHRAMAN learned: cooking is mixing, waiting, and sharing."
+    ],
+    "sorular": [
+      {
+        "question": "What day was it?",
+        "options": [
+          "Saturday",
+          "Sunday",
+          "Friday",
+          "Monday"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did they mix in the bowl?",
+        "options": [
+          "Milk",
+          "Water",
+          "Flour, sugar, and an egg",
+          "Rice"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Why did they wait?",
+        "options": [
+          "The phone rang",
+          "It was night",
+          "Guests came",
+          "Hot cookies can hurt"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who got the funniest cookie?",
+        "options": [
+          "Mum",
+          "Dad",
+          "Grandma",
+          "Ela"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did they put cookies for Grandma?",
+        "options": [
+          "In a bag",
+          "On the floor",
+          "In a tin",
+          "In a cup"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   }
 ]
