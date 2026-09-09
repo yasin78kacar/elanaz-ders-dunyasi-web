@@ -69,3 +69,24 @@ export function sesYakin(seviye: 'soguk' | 'ilik' | 'sicak') {
   o.start(t);
   o.stop(t + 0.24);
 }
+
+/** Tüm parçalar yerleşince kısa crescendo. */
+export function sesZafer() {
+  const ctx = ctxAl();
+  if (!ctx) return;
+  const skala = [523.25, 659.25, 783.99, 1046.5];
+  const t0 = ctx.currentTime;
+  skala.forEach((f, i) => {
+    const o = ctx.createOscillator();
+    const g = ctx.createGain();
+    o.type = i === 3 ? 'triangle' : 'sine';
+    o.frequency.value = f;
+    const t = t0 + i * 0.11;
+    g.gain.setValueAtTime(0.0001, t);
+    g.gain.exponentialRampToValueAtTime(0.24, t + 0.02);
+    g.gain.exponentialRampToValueAtTime(0.0001, t + 0.42);
+    o.connect(g).connect(ctx.destination);
+    o.start(t);
+    o.stop(t + 0.44);
+  });
+}

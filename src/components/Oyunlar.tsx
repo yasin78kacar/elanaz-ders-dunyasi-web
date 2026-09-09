@@ -6,13 +6,15 @@ import OyunHizliYakalama from './OyunHizliYakalama';
 import OyunKelimeAvi from './OyunKelimeAvi';
 import OyunFarkBulma from './OyunFarkBulma';
 import OyunNesneAvcisi from './OyunNesneAvcisi';
+import OyunYapboz from './OyunYapboz';
 import { OyunKart } from '../oyunlar/OyunKart';
 import type { EslestirmeEk } from './OyunEslestirme';
 import type { AviEk } from './OyunKelimeAvi';
 import type { FarkEk } from './OyunFarkBulma';
 import type { AvciEk } from './OyunNesneAvcisi';
+import type { YapbozEk } from './OyunYapboz';
 
-type SonucEk = Partial<EslestirmeEk & AviEk & FarkEk & AvciEk>;
+type SonucEk = Partial<EslestirmeEk & AviEk & FarkEk & AvciEk & YapbozEk>;
 
 interface Props { onClose: () => void; }
 
@@ -474,7 +476,7 @@ const DinlemeOyunu: React.FC<{ onBitti: (puan: number) => void }> = ({ onBitti }
 
 // ==================== ANA MENU ====================
 const Oyunlar: React.FC<Props> = ({ onClose }) => {
-  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme' | 'golge' | 'eslestirme' | 'hizli' | 'avi' | 'fark' | 'avci'>('');
+  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme' | 'golge' | 'eslestirme' | 'hizli' | 'avi' | 'fark' | 'avci' | 'yapboz'>('');
   const [sonuc, setSonuc] = useState<number | null>(null);
   const [sonucEk, setSonucEk] = useState<SonucEk | null>(null);
 
@@ -490,19 +492,20 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
     const avi = aktifOyun === 'avi';
     const fark = aktifOyun === 'fark';
     const avci = aktifOyun === 'avci';
+    const yapboz = aktifOyun === 'yapboz';
     const puanli = eslestirme || hizli;
     const kupa = eslestirme
       ? (sonuc >= 160 ? '🏆' : sonuc >= 110 ? '🌟' : '💪')
       : hizli
         ? (sonuc >= 100 ? '🏆' : sonuc >= 50 ? '🌟' : '💪')
-        : avi || fark || avci
+        : avi || fark || avci || yapboz
           ? '🏆'
           : (sonuc >= 4 ? '🏆' : sonuc >= 2 ? '🌟' : '💪');
     return (
       <div className="oyunlar-container">
         <div className="oyun-sonuc">
           <div className="oyun-sonuc-emoji">{kupa}</div>
-          <h2>{avci ? `${sonuc} nesne bulundu` : fark ? `${sonuc} fark bulundu` : avi ? `${sonuc} kelime bulundu` : puanli ? `${sonuc} puan` : `${sonuc} / ${TUR_SAYISI} doğru!`}</h2>
+          <h2>{yapboz ? `${sonuc} parça yerleşti` : avci ? `${sonuc} nesne bulundu` : fark ? `${sonuc} fark bulundu` : avi ? `${sonuc} kelime bulundu` : puanli ? `${sonuc} puan` : `${sonuc} / ${TUR_SAYISI} doğru!`}</h2>
           <p>
             {eslestirme
               ? `En yüksek seri: ${sonucEk?.enIyiSeri ?? 0}`
@@ -510,7 +513,7 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
                 ? `${Math.round(sonuc / 10)} yakalama`
                 : avi
                   ? `${sonucEk?.sureSn ?? 0} sn · ${sonucEk?.hamle ?? 0} hamle`
-                  : fark || avci
+                  : fark || avci || yapboz
                     ? `${sonucEk?.sureSn ?? 0} sn · ${sonucEk?.sahne ?? 3} sahne`
                     : sonuc >= 4 ? 'Muhteşemsin!' : sonuc >= 2 ? 'Çok iyi gidiyorsun!' : 'Denedikçe daha iyi olacak!'}
           </p>
@@ -534,6 +537,7 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
   if (aktifOyun === 'avi') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunKelimeAvi onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'fark') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunFarkBulma onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'avci') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunNesneAvcisi onBitti={oyunBitti} /></div>;
+  if (aktifOyun === 'yapboz') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunYapboz onBitti={oyunBitti} /></div>;
 
   return (
     <div className="oyunlar-container">
@@ -609,6 +613,13 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
           baslik="Nesne Avcısı"
           alt="Kalabalık sahnede nesneyi avla"
           onClick={() => setAktifOyun('avci')}
+        />
+        <OyunKart
+          renk="#9a3412"
+          emoji="🧩"
+          baslik="Yapboz"
+          alt="Parçaları yerine tıkla"
+          onClick={() => setAktifOyun('yapboz')}
         />
       </div>
     </div>
