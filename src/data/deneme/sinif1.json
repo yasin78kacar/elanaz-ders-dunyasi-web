@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "id": "deneme_s1_01",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Harf",
+      "grade": 1,
+      "question": "Hangisi bir harftir?",
+      "options": [
+        "4",
+        "7",
+        "a",
+        "9"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s1_02",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "İlk harf",
+      "grade": 1,
+      "question": "\"bal\" kelimesi hangi harfle başlar?",
+      "options": [
+        "b",
+        "a",
+        "l",
+        "k"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s1_03",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Hece",
+      "grade": 1,
+      "question": "\"ip\" kelimesi kaç hecelidir?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s1_04",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Büyük harf",
+      "grade": 1,
+      "question": "Hangisi büyük harftir?",
+      "options": [
+        "b",
+        "e",
+        "s",
+        "M"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s1_05",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Kelime",
+      "grade": 1,
+      "question": "Hangisi gerçek bir kelimedir?",
+      "options": [
+        "blx",
+        "xlb",
+        "lbx",
+        "bal"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s1_06",
+      "subject": "Türkçe",
+      "theme": "Deneme",
+      "konu": "Anlama",
+      "grade": 1,
+      "question": "Elanaz ekmek yedi. Elanaz ne yedi?",
+      "options": [
+        "elma",
+        "ekmek",
+        "armut",
+        "muz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s1_07",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Sayı sırası",
+      "grade": 1,
+      "question": "3'ten sonra hangi sayı gelir?",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s1_08",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Toplama",
+      "grade": 1,
+      "question": "1 + 4 işleminin sonucu kaçtır?",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s1_09",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Karşılaştırma",
+      "grade": 1,
+      "question": "Hangisi en büyüktür?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "8"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s1_10",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Şekil",
+      "grade": 1,
+      "question": "Hangisi yuvarlaktır?",
+      "options": [
+        "Kare",
+        "Daire",
+        "Üçgen",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s1_11",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Çıkarma",
+      "grade": 1,
+      "question": "4 − 2 işleminin sonucu kaçtır?",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s1_12",
+      "subject": "Matematik",
+      "theme": "Deneme",
+      "konu": "Problem",
+      "grade": 1,
+      "question": "Elanaz 3 elma aldı. 2 elma daha aldı. Kaç elması oldu?",
+      "options": [
+        "1",
+        "6",
+        "5",
+        "4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "deneme_s1_13",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Aile",
+      "grade": 1,
+      "question": "Elanaz annesine nasıl seslenir?",
+      "options": [
+        "Öğretmen",
+        "Anne",
+        "Doktor",
+        "Müdür"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s1_14",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Temizlik",
+      "grade": 1,
+      "question": "Ellerimiz kirlendi. Ne yaparız?",
+      "options": [
+        "Boyarız",
+        "Yıkarız",
+        "Saklarız",
+        "Atarız"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s1_15",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Okul",
+      "grade": 1,
+      "question": "Okulda dersi kim anlatır?",
+      "options": [
+        "Aşçı",
+        "Öğretmen",
+        "Bahçıvan",
+        "Terzi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s1_16",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Trafik",
+      "grade": 1,
+      "question": "Kırmızı ışık yanınca ne yaparız?",
+      "options": [
+        "Koşarız",
+        "Dururuz",
+        "Zıplarız",
+        "Şarkı söyleriz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "deneme_s1_17",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Giyim",
+      "grade": 1,
+      "question": "Uyumadan önce ne giyeriz?",
+      "options": [
+        "Mont",
+        "Bot",
+        "Bere",
+        "Pijama"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "deneme_s1_18",
+      "subject": "Hayat Bilgisi",
+      "theme": "Deneme",
+      "konu": "Arkadaş",
+      "grade": 1,
+      "question": "Oyunda sıra beklemek nasıl bir davranıştır?",
+      "options": [
+        "Güzel bir davranıştır",
+        "Kötü bir davranıştır",
+        "Tehlikeli bir davranıştır",
+        "Tembel bir davranıştır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s1_19",
+      "subject": "İngilizce",
+      "theme": "Deneme",
+      "konu": "Colors",
+      "grade": 1,
+      "question": "\"mavi\" means ___.",
+      "options": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Black"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "deneme_s1_20",
+      "subject": "İngilizce",
+      "theme": "Deneme",
+      "konu": "Animals",
+      "grade": 1,
+      "question": "What is \"kedi\" in English?",
+      "options": [
+        "Cat",
+        "Dog",
+        "Bird",
+        "Fish"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}

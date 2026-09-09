@@ -6,6 +6,7 @@ const AKTIF_KEY = 'dersdunyasi_aktif';
 const denemelerKey = (ad: string) => `dersdunyasi_${ad}_denemeler`;
 
 const SIK_HARF = ['A', 'B', 'C', 'D'];
+const DESTEKLENEN_SINIFLAR = [1, 2] as const;
 const DERS_SIRASI = ['Türkçe', 'Matematik', 'Fen Bilimleri', 'Hayat Bilgisi', 'İngilizce'];
 const DERS_RENK: Record<string, string> = {
   Türkçe: '#14B8A6',
@@ -52,6 +53,11 @@ interface Profil {
 interface Props {
   onClose: () => void;
 }
+
+const DENEME_YUKLE: Record<number, () => Promise<{ default: { questions: DenemeSoru[] } }>> = {
+  1: () => import('../data/deneme/sinif1.json'),
+  2: () => import('../data/deneme/sinif2.json'),
+};
 
 function aktifProfil(): { ad: string; sinif: number } {
   const ad = localStorage.getItem(AKTIF_KEY) || '';
@@ -131,7 +137,8 @@ function ses(dogru: boolean) {
 const DenemeSinavi: React.FC<Props> = ({ onClose }) => {
   const { ad, sinif } = aktifProfil();
   const [sorular, setSorular] = useState<DenemeSoru[]>([]);
-  const [yukleniyor, setYukleniyor] = useState(sinif === 2);
+  const desteklenir = (DESTEKLENEN_SINIFLAR as readonly number[]).includes(sinif);
+  const [yukleniyor, setYukleniyor] = useState(desteklenir);
   const [hata, setHata] = useState<string | null>(null);
   const [index, setIndex] = useState(0);
   const [puan, setPuan] = useState(0);
@@ -141,14 +148,15 @@ const DenemeSinavi: React.FC<Props> = ({ onClose }) => {
   const [sonuc, setSonuc] = useState<DenemeSonuc | null>(null);
 
   useEffect(() => {
-    if (sinif !== 2) {
+    const yukle = DENEME_YUKLE[sinif];
+    if (!yukle) {
       setYukleniyor(false);
       return;
     }
     let iptal = false;
     (async () => {
       try {
-        const mod = await import('../data/deneme/sinif2.json');
+        const mod = await yukle();
         const ham = (mod.default as { questions: DenemeSoru[] }).questions || [];
         if (!iptal) setSorular(karistir(ham));
       } catch {
@@ -208,15 +216,15 @@ const DenemeSinavi: React.FC<Props> = ({ onClose }) => {
     setSonuc(null);
   };
 
-  if (sinif !== 2) {
+  if (!desteklenir) {
     return (
       <div className="deneme-wrap">
         <button className="deneme-geri" onClick={onClose}>← Ana Sayfa</button>
         <h1 className="deneme-baslik">📝 Deneme Sınavı</h1>
         <p className="deneme-uyari">
-          Deneme şimdilik 2. sınıf için hazır.<br />
+          Deneme şimdilik 1. ve 2. sınıf için hazır.<br />
           Senin profilin {sinif}. sınıf.<br />
-          1, 3 ve 4. sınıf denemeleri sonraki turda gelecek.
+          3 ve 4. sınıf denemeleri sonraki turda gelecek.
         </p>
       </div>
     );
@@ -257,7 +265,7 @@ const DenemeSinavi: React.FC<Props> = ({ onClose }) => {
       <div className="deneme-wrap">
         <button className="deneme-geri" onClick={onClose}>← Ana Sayfa</button>
         <h1 className="deneme-baslik">📝 Deneme bitti!</h1>
-        <p className="deneme-alt">2. sınıf karışık deneme</p>
+        <p className="deneme-alt">{sonuc.sinif}. sınıf karışık deneme</p>
         <div className="deneme-kart">
           <div className="deneme-sonuc-skor">{sonuc.score} / {sonuc.total}</div>
           {dersOzet.map((d) => {
