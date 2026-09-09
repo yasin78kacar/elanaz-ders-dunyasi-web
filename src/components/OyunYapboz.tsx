@@ -33,9 +33,8 @@ function SahneCiz({ id, uid }: { id: SahneId; uid: string }) {
 }
 
 function ParcaSvg({
-  id, uid, w, h, cols, rows, index, hayalet,
+  uid, w, h, cols, rows, index, hayalet,
 }: {
-  id: SahneId;
   uid: string;
   w: number;
   h: number;
@@ -204,7 +203,6 @@ const OyunYapboz = ({ onBitti }: Props) => {
               aria-label={p !== null ? `Yuva ${i + 1} dolu` : `Yuva ${i + 1}`}
             >
               <ParcaSvg
-                id={sahne.id}
                 uid={symId}
                 w={sahne.w}
                 h={sahne.h}
@@ -244,7 +242,6 @@ const OyunYapboz = ({ onBitti }: Props) => {
             aria-label={`Parça ${p + 1}`}
           >
             <ParcaSvg
-              id={sahne.id}
               uid={symId}
               w={sahne.w}
               h={sahne.h}
