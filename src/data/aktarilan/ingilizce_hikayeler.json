@@ -1642,5 +1642,555 @@
         "correctAnswer": 1
       }
     ]
+  },
+  {
+    "id": "uzun-en-01",
+    "baslik": "KAHRAMAN and the Lost Puppy",
+    "seviye": 1,
+    "uzun": true,
+    "sayfalar": [
+      "KAHRAMAN walked in the park after school. The sun was warm. Birds sang in the trees.",
+      "Then KAHRAMAN heard a small sound. Woof, woof, woof! It came from the bushes.",
+      "KAHRAMAN looked behind the green leaves. A little brown puppy sat there. The puppy was shaking.",
+      "\"Hello, little one,\" said KAHRAMAN. \"Are you lost?\" The puppy licked KAHRAMAN's hand.",
+      "There was no name tag on the puppy. KAHRAMAN looked left and right. No family was near.",
+      "KAHRAMAN gave the puppy some water from a bottle. The puppy drank and wagged its tail.",
+      "\"I will help you,\" said KAHRAMAN. They walked to the park gate together. Slowly, slowly.",
+      "A girl on a red bike stopped. \"I saw a poster!\" she said. \"A brown puppy is missing!\"",
+      "The poster was on a big tree. It showed a brown puppy. The phone number was at the bottom.",
+      "KAHRAMAN's mum came to the park. KAHRAMAN showed her the poster and the puppy.",
+      "Mum called the number. A kind voice answered. \"Our puppy is called Dot! Is she safe?\"",
+      "Soon a man ran into the park. \"Dot!\" he called. The puppy jumped into his arms.",
+      "The man smiled. \"Thank you so much! Dot ran after a ball this morning.\"",
+      "He gave KAHRAMAN a small sticker. It said \"Kind Helper\". KAHRAMAN felt warm inside.",
+      "\"Can I visit Dot one day?\" asked KAHRAMAN. The man nodded. \"Yes. She likes friends.\"",
+      "On the way home KAHRAMAN told Mum the story. Mum said, \"You were careful and kind.\"",
+      "That night KAHRAMAN drew a picture of Dot. Brown ears. A happy tail. A red ball.",
+      "KAHRAMAN put the picture on the wall. \"Good night, Dot,\" KAHRAMAN whispered.",
+      "The next Saturday KAHRAMAN visited Dot. They played with the red ball in the garden.",
+      "KAHRAMAN learned a big thing: when you help, you make a new friend too."
+    ],
+    "sorular": [
+      {
+        "question": "Where did KAHRAMAN walk?",
+        "options": [
+          "In the park",
+          "In the shop",
+          "At school",
+          "At the sea"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What sound did KAHRAMAN hear?",
+        "options": [
+          "Meow",
+          "Woof, woof, woof",
+          "Quack",
+          "Moo"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was the puppy?",
+        "options": [
+          "White",
+          "Black",
+          "Brown",
+          "Grey"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN give the puppy?",
+        "options": [
+          "A cake",
+          "A toy car",
+          "Milk",
+          "Water"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What was the puppy's name?",
+        "options": [
+          "Dot",
+          "Spot",
+          "Max",
+          "Lucky"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who came to the park to help call?",
+        "options": [
+          "Dad",
+          "Mum",
+          "The teacher",
+          "A doctor"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What sticker did KAHRAMAN get?",
+        "options": [
+          "Star Student",
+          "Best Runner",
+          "Kind Helper",
+          "Top Reader"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN learn?",
+        "options": [
+          "Never go out",
+          "Dogs are scary",
+          "Parks are bad",
+          "Helping can make a friend"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-02",
+    "baslik": "KAHRAMAN and the First Snow",
+    "seviye": 1,
+    "uzun": true,
+    "sayfalar": [
+      "One cold morning KAHRAMAN looked out of the window. The garden was white!",
+      "\"Snow!\" shouted KAHRAMAN. Soft snow sat on the trees. Soft snow sat on the cars.",
+      "KAHRAMAN put on a red coat. KAHRAMAN put on a hat and warm gloves.",
+      "Dad opened the door. Cold air kissed KAHRAMAN's face. The snow made a quiet sound.",
+      "KAHRAMAN stepped outside. Crunch, crunch! The snow was under KAHRAMAN's boots.",
+      "Dad showed KAHRAMAN how to make a snowball. Round and cold. Not too hard.",
+      "They rolled a big ball for a body. They rolled a small ball for a head.",
+      "KAHRAMAN found two small stones. The stones were the snowman's eyes.",
+      "Dad found a carrot. The carrot was the snowman's nose. It looked funny!",
+      "KAHRAMAN put a blue scarf on the snowman. \"Hello, Snow Friend,\" KAHRAMAN said.",
+      "A neighbour child came. \"Can I help?\" she asked. Her name was Mina.",
+      "Mina and KAHRAMAN made little snow stars. They put them around the snowman.",
+      "Then it began to snow again. Tiny flakes landed on KAHRAMAN's gloves.",
+      "KAHRAMAN tried to catch a flake on the tongue. It was cold and it melted.",
+      "Mum called from the door. \"Hot chocolate is ready!\" The two children ran inside.",
+      "The cups were warm. The chocolate was sweet. Mina smiled and said thank you.",
+      "After the drink they looked outside again. The snowman stood tall and still.",
+      "\"Will he melt?\" asked KAHRAMAN. Dad said, \"When the sun is strong, snow goes.\"",
+      "That night KAHRAMAN watched the white garden. The moon made the snow shine.",
+      "KAHRAMAN felt happy. The first snow was cold, quiet, and full of fun."
+    ],
+    "sorular": [
+      {
+        "question": "What did KAHRAMAN see in the garden?",
+        "options": [
+          "Snow",
+          "Rain",
+          "Leaves",
+          "Flowers"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was KAHRAMAN's coat?",
+        "options": [
+          "Blue",
+          "Red",
+          "Green",
+          "Yellow"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What sound did the boots make?",
+        "options": [
+          "Beep",
+          "Bang",
+          "Crunch, crunch",
+          "Splash"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What were the snowman's eyes?",
+        "options": [
+          "Buttons",
+          "Coins",
+          "Leaves",
+          "Two small stones"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What was the snowman's nose?",
+        "options": [
+          "A carrot",
+          "A stick",
+          "An apple",
+          "A pen"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who came to help?",
+        "options": [
+          "Ali",
+          "Mina",
+          "Can",
+          "Efe"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Mum make?",
+        "options": [
+          "Soup",
+          "Cake",
+          "Hot chocolate",
+          "Tea"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "When does snow go, says Dad?",
+        "options": [
+          "At night",
+          "In winter",
+          "In the wind",
+          "When the sun is strong"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-03",
+    "baslik": "KAHRAMAN's Family Picnic",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Saturday was picnic day. KAHRAMAN packed a small bag. Inside were cups and a ball.",
+      "Mum made sandwiches. Cheese and tomato. Dad washed apples and grapes.",
+      "Grandma brought a blue blanket. Grandpa brought a story book for later.",
+      "They walked to the green hill near the river. The sky was bright and clear.",
+      "KAHRAMAN helped spread the blanket. Ants walked by, but they did not stay.",
+      "First they ate. KAHRAMAN said, \"Thank you for the food.\" Everyone smiled.",
+      "After lunch they played catch. The ball went to Dad, then to KAHRAMAN, then to Mum.",
+      "Grandpa sat under a tree. He read a short story about a kind fox.",
+      "Then the wind grew stronger. A paper cup rolled away. KAHRAMAN ran and caught it.",
+      "\"We must keep the hill clean,\" said Mum. They put all the rubbish in a bag.",
+      "KAHRAMAN saw a little girl looking for something. She looked worried.",
+      "\"I lost my red hat,\" she said. KAHRAMAN looked near the trees and the path.",
+      "The hat was on a low branch. KAHRAMAN pointed. \"There it is!\" The girl laughed.",
+      "The girl's mum said thank you. She gave KAHRAMAN a small yellow flower.",
+      "Later the family shared grapes. Sweet and cold. Grandma told a funny old joke.",
+      "Clouds came, but the rain did not. They packed the blanket and the book.",
+      "On the way home KAHRAMAN held Grandpa's hand. \"This was the best Saturday.\"",
+      "At home they washed the cups. KAHRAMAN put the yellow flower in a glass of water.",
+      "That evening they looked at picnic photos. Everyone was smiling on the hill.",
+      "KAHRAMAN learned: a picnic is food, games, and helping people too."
+    ],
+    "sorular": [
+      {
+        "question": "What day was the picnic?",
+        "options": [
+          "Saturday",
+          "Friday",
+          "Sunday",
+          "Monday"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What sandwiches did Mum make?",
+        "options": [
+          "Egg",
+          "Cheese and tomato",
+          "Fish",
+          "Chicken"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Grandma bring?",
+        "options": [
+          "A red hat",
+          "A kite",
+          "A blue blanket",
+          "A drum"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where did they sit?",
+        "options": [
+          "By the sea",
+          "In a shop",
+          "At school",
+          "On a green hill"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What story did Grandpa read?",
+        "options": [
+          "A kind fox",
+          "A lost ship",
+          "A big city",
+          "A robot"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did the little girl lose?",
+        "options": [
+          "A ball",
+          "A red hat",
+          "A book",
+          "A cup"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN get as a thank you?",
+        "options": [
+          "A toy",
+          "A cake",
+          "A yellow flower",
+          "A coin"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they do with rubbish?",
+        "options": [
+          "Left it",
+          "Threw it in the river",
+          "Hid it",
+          "Put it in a bag"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-04",
+    "baslik": "KAHRAMAN and a New Friend",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "A new child came to class. His name was Leo. He sat near the window and was quiet.",
+      "KAHRAMAN smiled at Leo. Leo looked down. He did not know the games yet.",
+      "At break KAHRAMAN took a ball outside. \"Do you want to play?\" KAHRAMAN asked.",
+      "Leo said, \"I am not good at this.\" His voice was small. KAHRAMAN did not laugh.",
+      "\"We can learn together,\" said KAHRAMAN. They passed the ball slowly, then faster.",
+      "Leo missed the ball once. He looked sad. KAHRAMAN said, \"It is okay. Try again.\"",
+      "Soon Leo smiled. The ball went from hand to hand. Other children came to watch.",
+      "In art class they painted a big tree. Leo was good at painting green leaves.",
+      "KAHRAMAN painted red apples. They put the two papers together. It looked like one tree!",
+      "At lunch Leo had no fork. KAHRAMAN shared a spare fork from the bag.",
+      "\"Thank you,\" said Leo. \"In my old school I sat alone.\" KAHRAMAN felt a little sad.",
+      "\"You are not alone now,\" said KAHRAMAN. They ate apples and talked about books.",
+      "After school they walked to the gate. Leo's dad was late. KAHRAMAN waited with him.",
+      "The teacher saw them. \"Good friends stay,\" she said. Leo's cheeks turned pink.",
+      "The next day Leo brought a small comic. He let KAHRAMAN read the first page.",
+      "They made a plan: Monday ball, Tuesday drawing, Wednesday library books.",
+      "On Wednesday they found a book about stars. They sat on the carpet and pointed.",
+      "One rainy day they could not go out. They built a tower with blocks in the hall.",
+      "The tower fell. They laughed and built it again, taller than before.",
+      "KAHRAMAN learned: a new friend needs time, kind words, and one small start."
+    ],
+    "sorular": [
+      {
+        "question": "What is the new child's name?",
+        "options": [
+          "Leo",
+          "Max",
+          "Tom",
+          "Sam"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did Leo sit?",
+        "options": [
+          "By the door",
+          "Near the window",
+          "On the floor",
+          "At the back only"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did they play at break?",
+        "options": [
+          "Chess",
+          "Cards",
+          "Ball",
+          "Tag only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Leo paint well?",
+        "options": [
+          "Red apples",
+          "A house",
+          "The sea",
+          "Green leaves"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did KAHRAMAN share at lunch?",
+        "options": [
+          "A fork",
+          "A book",
+          "A coat",
+          "A pen"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Leo bring the next day?",
+        "options": [
+          "A cake",
+          "A comic",
+          "A kite",
+          "A hat"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did they do on Wednesday?",
+        "options": [
+          "Play ball",
+          "Run home",
+          "Read library books",
+          "Cook"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they build on the rainy day?",
+        "options": [
+          "A car",
+          "A boat",
+          "A tent",
+          "A tower of blocks"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-05",
+    "baslik": "KAHRAMAN's Big School Day",
+    "seviye": 3,
+    "uzun": true,
+    "sayfalar": [
+      "KAHRAMAN had a special job at school. Today the class would show a short play.",
+      "KAHRAMAN's part was a kind shopkeeper. The line was: \"How can I help you today?\"",
+      "At home KAHRAMAN said the line many times. Mum listened. Dad clapped once.",
+      "In the morning KAHRAMAN packed the shop hat. It was brown and a little too big.",
+      "On the bus KAHRAMAN felt a jump in the tummy. \"What if I forget?\" KAHRAMAN thought.",
+      "A friend named Eda sat down. \"We can say the lines together,\" she said.",
+      "They whispered the play on the bus. The jump in the tummy grew smaller.",
+      "At school they put chairs in a circle. The teacher drew a shop on the board.",
+      "Then the lights felt bright. Families sat at the back. KAHRAMAN's hands were cold.",
+      "The play began. A child asked for bread. KAHRAMAN smiled and said the line clearly.",
+      "Everyone could hear. Eda bought apples in the play. The class laughed in a kind way.",
+      "Near the end KAHRAMAN dropped the hat. It fell on the floor. For one second it was quiet.",
+      "KAHRAMAN picked it up and said, \"Even shopkeepers drop things!\" The families smiled.",
+      "After the play the teacher said, \"You stayed calm. That is real work.\"",
+      "Mum hugged KAHRAMAN. \"I liked your funny line about the hat,\" she said.",
+      "In the classroom they tidied the chairs. KAHRAMAN put the brown hat in the box.",
+      "Eda drew a little shop on a card. She wrote \"Well done\" and gave it to KAHRAMAN.",
+      "On the way home KAHRAMAN told Dad about the drop. Dad said, \"You finished anyway.\"",
+      "That night KAHRAMAN put the card by the bed. The tummy jump was gone.",
+      "KAHRAMAN learned: practice helps, friends help, and mistakes can still be okay."
+    ],
+    "sorular": [
+      {
+        "question": "What did the class show?",
+        "options": [
+          "A short play",
+          "A film",
+          "A race",
+          "A test"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was KAHRAMAN in the play?",
+        "options": [
+          "A farmer",
+          "A shopkeeper",
+          "A doctor",
+          "A driver"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was the shop hat?",
+        "options": [
+          "Black",
+          "Red",
+          "Brown",
+          "Blue"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who practised on the bus?",
+        "options": [
+          "Mum",
+          "Dad",
+          "The driver",
+          "Eda"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did a child ask for in the play?",
+        "options": [
+          "Bread",
+          "Milk",
+          "Cake",
+          "Tea"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What fell on the floor?",
+        "options": [
+          "A book",
+          "The hat",
+          "An apple",
+          "A chair"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Eda write on the card?",
+        "options": [
+          "Goodbye",
+          "Try again",
+          "Well done",
+          "See you"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN learn?",
+        "options": [
+          "Never try",
+          "Plays are bad",
+          "Hats are useless",
+          "Mistakes can still be okay"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   }
 ]
