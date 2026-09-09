@@ -70,6 +70,55 @@ export function sesYakin(seviye: 'soguk' | 'ilik' | 'sicak') {
   o.stop(t + 0.24);
 }
 
+let ctxPaylas: AudioContext | null = null;
+
+/** Ritim için tek bağlam — her seste yeni context açılmaz (gecikme). */
+export function sesCtx(): AudioContext | null {
+  try {
+    const Ctor = window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
+    if (!ctxPaylas || ctxPaylas.state === 'closed') ctxPaylas = new Ctor();
+    if (ctxPaylas.state === 'suspended') void ctxPaylas.resume();
+    return ctxPaylas;
+  } catch {
+    return null;
+  }
+}
+
+/** Zamanlanmış vuruş notası (şarkı devam eder, oyuncu kaçırsa da çalar). */
+export function sesRitimNoot(when: number, pad: number) {
+  const ctx = sesCtx();
+  if (!ctx) return;
+  const skala = [392, 493.88, 587.33, 659.25];
+  const f = skala[pad] ?? 440;
+  const o = ctx.createOscillator();
+  const g = ctx.createGain();
+  o.type = 'triangle';
+  o.frequency.value = f;
+  g.gain.setValueAtTime(0.0001, when);
+  g.gain.exponentialRampToValueAtTime(0.16, when + 0.012);
+  g.gain.exponentialRampToValueAtTime(0.0001, when + 0.18);
+  o.connect(g).connect(ctx.destination);
+  o.start(when);
+  o.stop(when + 0.2);
+}
+
+export function sesRitimIsabet(tur: 'mukemmel' | 'iyi') {
+  const ctx = sesCtx();
+  if (!ctx) return;
+  const t = ctx.currentTime;
+  const f = tur === 'mukemmel' ? 880 : 659.25;
+  const o = ctx.createOscillator();
+  const g = ctx.createGain();
+  o.type = tur === 'mukemmel' ? 'sine' : 'triangle';
+  o.frequency.value = f;
+  g.gain.setValueAtTime(0.0001, t);
+  g.gain.exponentialRampToValueAtTime(tur === 'mukemmel' ? 0.22 : 0.14, t + 0.012);
+  g.gain.exponentialRampToValueAtTime(0.0001, t + (tur === 'mukemmel' ? 0.22 : 0.16));
+  o.connect(g).connect(ctx.destination);
+  o.start(t);
+  o.stop(t + 0.24);
+}
+
 /** Tüm parçalar yerleşince kısa crescendo. */
 export function sesZafer() {
   const ctx = ctxAl();
