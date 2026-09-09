@@ -493,6 +493,552 @@
         "-di (geçmiş)"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_001",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "\"Önce\" kelimesi neyi gösterir?",
+      "options": [
+        "İlk yapılan işi",
+        "Yarını",
+        "Rastgele olayı",
+        "Son işi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_002",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "\"Sonra\" kelimesi hangi anlamı verir?",
+      "options": [
+        "Son cümleyi",
+        "Önceki adımı",
+        "Başlığı",
+        "Bir sonraki adımı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t8_yeni_003",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "\"En son\" ifadesi neyi anlatır?",
+      "options": [
+        "Son yapılan işi",
+        "Yarınki işi",
+        "İlk işi",
+        "Ortadaki işi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_004",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Günün zamanları doğru sırayla hangisidir?",
+      "options": [
+        "Sabah, öğlen, akşam",
+        "Akşam, sabah, öğlen",
+        "Öğlen, akşam, sabah",
+        "Gece, sabah, öğlen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_005",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hikâyede giriş bölümü neyi anlatır?",
+      "options": [
+        "Olayın sonunu",
+        "Sadece başlığı",
+        "Kahramanı ve yeri tanıtır",
+        "Şiir kafiyesini"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_006",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hikâyede gelişme bölümü neyi anlatır?",
+      "options": [
+        "Noktalama işaretini",
+        "Kitap kapağını",
+        "Sadece selamı",
+        "Olayların büyüdüğü kısmı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t8_yeni_007",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Giriş, gelişme, sonuç hangi sırayla gelir?",
+      "options": [
+        "Sonuç → giriş → gelişme",
+        "Giriş → gelişme → sonuç",
+        "Rastgele",
+        "Gelişme → sonuç → giriş"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t8_yeni_008",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Cümleleri doğru sıraya koy: Uyandı / Çantasını aldı / Okula gitti",
+      "options": [
+        "Uyandı, çanta aldı, okula gitti",
+        "Uyandı, okul, çanta",
+        "Çanta, okul, uyandı",
+        "Okula gitti, uyandı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_009",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Cümleleri doğru sıraya koy: Kütüphaneye gitti / Kitap seçti / Okudu",
+      "options": [
+        "Okudu → gitti → seçti",
+        "Gitti → okudu → seçti",
+        "Gitti → seçti → okudu",
+        "Seçti → okudu → gitti"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_010",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "\"Ertesi gün\" ifadesi neyi gösterir?",
+      "options": [
+        "Geceyi",
+        "Dünü",
+        "Bir sonraki günü",
+        "Öğleni"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_011",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Zaman ifadeleri metinde ne işe yarar?",
+      "options": [
+        "Başlık yazar",
+        "Renk verir",
+        "Olayların sırasını gösterir",
+        "Hece sayar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_012",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hangi cümle olay sırasına uygundur?",
+      "options": [
+        "Giyindi önce sonra yıkadı",
+        "Sonra önce yıkadı",
+        "Önce yıkadı, sonra giyindi",
+        "Yıkadı sonra önce"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_013",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hikâye anlatırken ilk söylenen bölüm hangisidir?",
+      "options": [
+        "Kapanış şiiri",
+        "Gelişme",
+        "Giriş",
+        "Sonuç"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_014",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Resimleri sıraya dizmek hangi beceriyi geliştirir?",
+      "options": [
+        "Noktalama",
+        "Çarpım tablosu",
+        "Olay sırasını anlama",
+        "Hece sayma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_015",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Bir günlük yazarken olaylar nasıl yazılmalı?",
+      "options": [
+        "Zaman sırasına göre",
+        "Rastgele",
+        "Tersten",
+        "Sadece tek cümle"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_016",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "\"Ardından\" kelimesi hangi ilişkiyi gösterir?",
+      "options": [
+        "Son cümleyi",
+        "Hemen sonraki olayı",
+        "Başlığı",
+        "Önceki günü"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t8_yeni_017",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Cümleleri doğru sıraya koy: Forma giydi / Sahaya çıktı / Top oynadı",
+      "options": [
+        "Forma, sahaya çıktı, top oynadı",
+        "Top oynadı, forma, sahaya",
+        "Sahaya, top, forma",
+        "Forma, top, sahaya"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_018",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Cümleleri doğru sıraya koy: Diş fırçaladı / Pijama giydi / Uyudu",
+      "options": [
+        "Uyudu → pijama → fırçaladı",
+        "Fırçaladı → pijama → uyudu",
+        "Pijama → uyudu → fırçaladı",
+        "Uyudu → fırçaladı → pijama"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t8_yeni_019",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hangi kelime grubu zaman sırasını gösterir?",
+      "options": [
+        "Elma, armut, muz",
+        "Kırmızı, mavi, yeşil",
+        "Önce, sonra, en son",
+        "Kedi, köpek, kuş"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_020",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hikâyede sonuç bölümü neyi anlatır?",
+      "options": [
+        "Hece sayısını",
+        "Sadece rengi",
+        "Kahramanın adını",
+        "Olayın nasıl bittiğini"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t8_yeni_021",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Olay sırasını bozan ifade hangisidir?",
+      "options": [
+        "Sonra giyindi",
+        "En son uyudu",
+        "Önce yıkadı",
+        "Sonra önce karışık anlattı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t8_yeni_022",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Olay sırasını anlamak okumayı nasıl kolaylaştırır?",
+      "options": [
+        "Metni daha iyi anlamamızı sağlar",
+        "Okumayı zorlaştırır",
+        "Hiç etkilemez",
+        "Metni uzatır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_023",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Fatma sokakta yaralı bir kedi buldu. Kedinin ayağı incinmişti. Fatma kediyi nerede buldu?",
+      "options": [
+        "Sokakta",
+        "Parkta",
+        "Okulda",
+        "Evde"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_024",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Fatma sokakta yaralı bir kedi buldu. Kedinin ayağı incinmişti. Kedinin sorunu neydi?",
+      "options": [
+        "Kaybolmuştu",
+        "Aç kalmıştı",
+        "Ayağı incinmişti",
+        "Hasta görünüyordu"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_025",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Can ve babası bahçeye bir elma ağacı dikti. Can sulamayı unutmadı. Bu yıl ne diktiler?",
+      "options": [
+        "Elma ağacı",
+        "Kiraz ağacı",
+        "Armut ağacı",
+        "Erik ağacı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_026",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Can ve babası bahçeye elma ağacı dikti. Can her gün suladı. Can ne yapmayı unutmadı?",
+      "options": [
+        "Budama",
+        "Hasat etme",
+        "Sulama",
+        "Gübreleme"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_027",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Zeynep yeni okula başladı. Kimseyi tanımıyordu. Teneffüste yalnız oturdu. Zeynep neden yalnız oturdu?",
+      "options": [
+        "Hasta hissetti",
+        "Yorgundu",
+        "Oyun istemedi",
+        "Kimseyi tanımıyordu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t8_yeni_028",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Berk sabah her yerin karla kaplı olduğunu gördü. \"Okul tatil!\" diye bağırdı. Berk sabah ne gördü?",
+      "options": [
+        "Güneş",
+        "Sis",
+        "Yağmur",
+        "Kar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t8_yeni_029",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hande her gece yatmadan önce kitap okurdu. Annesi \"Işığı kapat, uyu\" derdi. Hande ne zaman kitap okur?",
+      "options": [
+        "Sabahları",
+        "Her gece yatmadan önce",
+        "Okulda",
+        "Teneffüste"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t8_yeni_030",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Zeynep ve arkadaşları her gün futbol oynardı. Bir gün yağmur yağdı. Zeynep her gün ne yapardı?",
+      "options": [
+        "Koşarlardı",
+        "Futbol oynarlardı",
+        "Kitap okurlardı",
+        "Yüzerlerdi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t8_yeni_031",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Yağmur yağınca biri \"Eve gidelim\" dedi. Zeynep oynamak istedi. Yağmur yağınca biri ne dedi?",
+      "options": [
+        "Bekleyelim",
+        "Oynayalım",
+        "Şemsiye alalım",
+        "Eve gidelim"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t8_yeni_032",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hande bisiklete binmeyi öğrenmek istiyordu. İlk denemede düştü. Hande ne öğrenmek istiyordu?",
+      "options": [
+        "Bisiklet sürmeyi",
+        "Paten kaymayı",
+        "Koşmayı",
+        "Yüzmeyi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_033",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Hande bisiklete binerken ilk iki denemede düştü. Üçüncüde düşmedi. Hande kaçıncı denemede başardı?",
+      "options": [
+        "İkinci",
+        "Birinci",
+        "Üçüncü",
+        "Dördüncü"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_034",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Yusuf sınıfa yeni bir oyuncak getirdi. Herkes görmek istedi. Yusuf ne getirdi?",
+      "options": [
+        "Resim",
+        "Kitap",
+        "Oyuncak",
+        "Kalem"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "turkce_t8_yeni_035",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Yusuf önce \"Dokunmayın, benim!\" dedi. Sonra sırayla oynamaya izin verdi. Yusuf sonunda ne yaptı?",
+      "options": [
+        "Eve gönderdi",
+        "Sırayla oynamaya izin verdi",
+        "Ağladı",
+        "Oyuncağı sakladı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t8_yeni_036",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Ayşe sabah erken uyandı. Mutfaktan güzel bir koku geliyordu. Ayşe neden erken uyandı?",
+      "options": [
+        "Annesi çağırmış",
+        "Güzel koku onu uyandırmış",
+        "Okul varmış",
+        "Alarm çalmış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t8_yeni_037",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Ali'nin köpeği Rex her gün aynı saatte havlardı. Rex ne yapardı her gün?",
+      "options": [
+        "Uyurdu",
+        "Aynı saatte havlardı",
+        "Koşardı",
+        "Yemek yerdi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "turkce_t8_yeni_038",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Rex saat 17:00'de havladı. Ali baktı: babası kapıdan giriyordu. Rex neden havlıyordu?",
+      "options": [
+        "Babasının geldiğini hissediyordu",
+        "Acıkmıştı",
+        "Korkmuştu",
+        "Oyun istiyordu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_039",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Fatma okula gelince ödevini unuttuğunu hatırladı. Öğretmene dürüstçe söyledi. Fatma ne yaptı?",
+      "options": [
+        "Dürüstçe itiraf etti",
+        "Yalan söyledi",
+        "Kaçtı",
+        "Sessiz oturdu"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_040",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Elanaz sabah uyandı. Önce yüzünü yıkadı, sonra dişlerini fırçaladı. Elanaz sabah ilk ne yaptı?",
+      "options": [
+        "Okula gitti",
+        "Kahvaltı etti",
+        "Çantasını hazırladı",
+        "Uyandı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "turkce_t8_yeni_041",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Elanaz önce yüzünü yıkadı. Sonra dişlerini fırçaladı. Dişlerini fırçalamadan önce ne yapmıştı?",
+      "options": [
+        "Yüzünü yıkamıştı",
+        "Okula gitmişti",
+        "Çantasını hazırlamıştı",
+        "Kahvaltı etmişti"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "turkce_t8_yeni_042",
+      "subject": "Türkçe",
+      "theme": "Tema 8",
+      "question": "Suna annesiyle pasta yaptı. İlk olarak yumurtaları kırdılar. Pasta yapımında ilk adım hangisidir?",
+      "options": [
+        "Yumurtaları kırmak",
+        "Hamuru dökmek",
+        "Fırına koymak",
+        "Pastayı yemek"
+      ],
+      "correctAnswer": 0
     }
   ]
 }
