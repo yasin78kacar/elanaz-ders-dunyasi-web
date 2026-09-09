@@ -8,7 +8,58 @@
       "My mother cooks yummy food. She reads stories at night. \"I love you, Mum!\" I say.",
       "Mother helps me with homework. She hugs me when I am sad. My mother is the best!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What is mother's name?",
+        "options": [
+          "Ayşe",
+          "Elif",
+          "Zeynep",
+          "Ada"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "When does mother read stories?",
+        "options": [
+          "In the morning",
+          "At night",
+          "At school",
+          "On the bus"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does mother cook?",
+        "options": [
+          "Only ice",
+          "Sand",
+          "Yummy food",
+          "Paper"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does mother do when I am sad?",
+        "options": [
+          "She runs away",
+          "She hides",
+          "She shouts",
+          "She hugs me"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does the child say to Mum?",
+        "options": [
+          "I love you, Mum!",
+          "Go away",
+          "I am angry",
+          "Goodbye forever"
+        ],
+        "correctAnswer": 0
+      }
+    ]
   },
   {
     "id": "book-my-father",
@@ -19,7 +70,58 @@
       "Father plays football with me. He fixes my bike. \"Good job!\" he says.",
       "On weekends we go to the park. Father pushes me on the swing. I love my father!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What is father's name?",
+        "options": [
+          "Ali",
+          "Mehmet",
+          "Can",
+          "Mert"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does father play with the child?",
+        "options": [
+          "Chess",
+          "Tennis",
+          "Football",
+          "Cards"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does father fix?",
+        "options": [
+          "A plane",
+          "A boat",
+          "A clock",
+          "A bike"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Where do they go on weekends?",
+        "options": [
+          "The park",
+          "The shop",
+          "The hospital",
+          "The zoo"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does father push at the park?",
+        "options": [
+          "A car",
+          "A swing",
+          "A door",
+          "A box"
+        ],
+        "correctAnswer": 1
+      }
+    ]
   },
   {
     "id": "book-my-sister",
@@ -30,7 +132,58 @@
       "We draw pictures together. She teaches me new words in English.",
       "Sometimes we argue, but we always say sorry. Sisters are special friends."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What is sister's name?",
+        "options": [
+          "Ayşe",
+          "Sude",
+          "Elif",
+          "Naz"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Is the sister older or younger?",
+        "options": [
+          "Younger",
+          "The same age",
+          "A baby",
+          "Older"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What do they draw together?",
+        "options": [
+          "Pictures",
+          "Maps",
+          "Numbers only",
+          "Letters only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does she teach?",
+        "options": [
+          "How to cook",
+          "New words in English",
+          "How to drive",
+          "How to swim"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do they say after they argue?",
+        "options": [
+          "Goodbye",
+          "Never",
+          "Sorry",
+          "Stop"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-my-brother",
@@ -41,7 +194,48 @@
       "We play hide and seek. Ali hides behind the big tree.",
       "My brother shares his snacks with me. Brothers are great!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What is brother's name?",
+        "options": [
+          "Yusuf",
+          "Efe",
+          "Berk",
+          "Ali"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What game do they play?",
+        "options": [
+          "Hide and seek",
+          "Football",
+          "Chess",
+          "Tennis"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where does Ali hide?",
+        "options": [
+          "Under the bed",
+          "Behind the big tree",
+          "In the car",
+          "On the roof"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does brother share?",
+        "options": [
+          "His shoes",
+          "His bag",
+          "His snacks",
+          "His hat"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-at-the-park",
@@ -52,7 +246,48 @@
       "I slide down the slide. Whee! My friend pushes me on the swing.",
       "We eat ice cream. \"See you next week!\" we say. The park is our favourite place."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "When do they go to the park?",
+        "options": [
+          "Monday",
+          "Friday",
+          "Wednesday",
+          "Sunday"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour is the grass?",
+        "options": [
+          "Green",
+          "Blue",
+          "Red",
+          "Black"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the child slide down?",
+        "options": [
+          "The tree",
+          "The slide",
+          "The hill only",
+          "The wall"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do they eat?",
+        "options": [
+          "Soup",
+          "Bread",
+          "Ice cream",
+          "Rice"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-in-the-classroom",
@@ -63,7 +298,48 @@
       "The teacher writes on the board. We listen carefully. \"Open your books, please.\"",
       "We raise our hands to speak. We help each other. I like my classroom!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What is the classroom like?",
+        "options": [
+          "Small and dark",
+          "Cold and empty",
+          "Wet and dirty",
+          "Big and bright"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Where does the teacher write?",
+        "options": [
+          "On the board",
+          "On the floor",
+          "On the door",
+          "On a bag"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the teacher say?",
+        "options": [
+          "Go home now",
+          "Open your books, please",
+          "Close the park",
+          "Run outside"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How do children speak in class?",
+        "options": [
+          "They shout",
+          "They sleep",
+          "They raise their hands",
+          "They hide"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-my-colors",
@@ -74,7 +350,58 @@
       "Green like grass. Orange like an orange. Pink like a flower.",
       "Purple, brown, black, and white — so many colors! Colors are everywhere."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What is red like?",
+        "options": [
+          "The sky",
+          "The grass",
+          "The sun",
+          "An apple"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is blue like?",
+        "options": [
+          "The sky",
+          "An apple",
+          "A flower",
+          "Grass"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is yellow like?",
+        "options": [
+          "The night",
+          "The sun",
+          "Snow",
+          "A rock"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is green like?",
+        "options": [
+          "The sun",
+          "An apple only",
+          "Grass",
+          "The sea only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is pink like?",
+        "options": [
+          "A car",
+          "A shoe",
+          "A box",
+          "A flower"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   },
   {
     "id": "book-my-numbers",
@@ -85,7 +412,58 @@
       "Four chairs. Five pencils. Six balls. Seven days in a week.",
       "Eight, nine, ten! Numbers help us every day. Can you count to ten?"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "How many suns are in the story?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Ten"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many eyes are in the story?",
+        "options": [
+          "One",
+          "Two",
+          "Four",
+          "Ten"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many books are in the story?",
+        "options": [
+          "Five",
+          "Seven",
+          "Three",
+          "Ten"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many days are in a week?",
+        "options": [
+          "Five",
+          "Six",
+          "Eight",
+          "Seven"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What do numbers help us do?",
+        "options": [
+          "Help us every day",
+          "Sleep all day",
+          "Hide toys",
+          "Close books"
+        ],
+        "correctAnswer": 0
+      }
+    ]
   },
   {
     "id": "book-my-animals",
@@ -96,7 +474,58 @@
       "A cow says moo. A bird can sing. Animals are amazing!",
       "I love animals. We must be kind to them. They are our friends."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What does a cat say?",
+        "options": [
+          "Woof",
+          "Meow",
+          "Moo",
+          "Quack"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does a dog say?",
+        "options": [
+          "Meow",
+          "Quack",
+          "Woof",
+          "Moo"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does a duck say?",
+        "options": [
+          "Moo",
+          "Meow",
+          "Woof",
+          "Quack"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does a cow say?",
+        "options": [
+          "Moo",
+          "Woof",
+          "Quack",
+          "Meow"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How must we treat animals?",
+        "options": [
+          "We must shout",
+          "We must be kind",
+          "We must hide",
+          "We must run"
+        ],
+        "correctAnswer": 1
+      }
+    ]
   },
   {
     "id": "book-my-food",
@@ -107,7 +536,58 @@
       "For lunch I have soup and fruit. Apples and oranges are healthy.",
       "We say \"Thank you\" before we eat. Good food makes us strong!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What does the child eat for breakfast?",
+        "options": [
+          "Soup and fruit",
+          "Cake only",
+          "Bread and cheese",
+          "Ice cream"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the child drink?",
+        "options": [
+          "Tea",
+          "Juice only",
+          "Water only",
+          "Milk"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does the child have for lunch?",
+        "options": [
+          "Soup and fruit",
+          "Bread and cheese",
+          "Pizza",
+          "Sweets"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which fruits are healthy in the story?",
+        "options": [
+          "Only cake",
+          "Apples and oranges",
+          "Only chips",
+          "Only sweets"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do we say before we eat?",
+        "options": [
+          "Goodbye",
+          "Stop",
+          "Thank you",
+          "Hurry"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-my-toys",
@@ -118,7 +598,48 @@
       "I share my toys with my friends. We build towers with blocks.",
       "After playing, I put my toys away. \"Clean up time!\" says Mum."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "Which toys does the child have?",
+        "options": [
+          "A book, a pen, a bag",
+          "A coat, a hat, a shoe",
+          "A plate, a cup, a spoon",
+          "A ball, a doll, a toy car"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who does the child share toys with?",
+        "options": [
+          "Friends",
+          "Teachers only",
+          "Doctors",
+          "Drivers"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What do they build with blocks?",
+        "options": [
+          "Cars",
+          "Towers",
+          "Boats",
+          "Hats"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does Mum say after playing?",
+        "options": [
+          "Go to sleep",
+          "Open the door",
+          "Clean up time!",
+          "Eat now"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-my-clothes",
@@ -129,7 +650,58 @@
       "My shoes are blue. My socks are white. I can dress myself!",
       "When it rains, I take my umbrella. Clothes keep us warm and dry."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What does the child wear?",
+        "options": [
+          "A dress only",
+          "Only a hat",
+          "Only socks",
+          "A T-shirt and trousers"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does the child wear in winter?",
+        "options": [
+          "A coat and a hat",
+          "Shorts",
+          "A swimsuit",
+          "No clothes"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour are the shoes?",
+        "options": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour are the socks?",
+        "options": [
+          "Black",
+          "Pink",
+          "White",
+          "Brown"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the child take when it rains?",
+        "options": [
+          "A ball",
+          "A kite",
+          "A bike",
+          "An umbrella"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   },
   {
     "id": "book-my-weather",
@@ -140,7 +712,58 @@
       "Sometimes it rains. We hear drip, drop on the window.",
       "Wind blows the leaves. Snow is cold and white. Weather changes every day!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What is the weather like today in the story?",
+        "options": [
+          "Sunny",
+          "Snowy",
+          "Windy only",
+          "Foggy"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour is the sky?",
+        "options": [
+          "Green",
+          "Blue",
+          "Red",
+          "Brown"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What sound do we hear when it rains?",
+        "options": [
+          "Bang",
+          "Meow",
+          "Drip, drop",
+          "Beep"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the wind blow?",
+        "options": [
+          "The house",
+          "The sea",
+          "The moon",
+          "The leaves"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What is snow like?",
+        "options": [
+          "Cold and white",
+          "Hot and red",
+          "Soft and blue",
+          "Wet and green"
+        ],
+        "correctAnswer": 0
+      }
+    ]
   },
   {
     "id": "book-my-body",
@@ -151,7 +774,58 @@
       "I have one nose to smell. I have ten fingers on my hands.",
       "I brush my teeth every day. My body is wonderful. I take care of it!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "How many eyes does the child have?",
+        "options": [
+          "One",
+          "Two",
+          "Three",
+          "Ten"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do ears help us do?",
+        "options": [
+          "See",
+          "Smell",
+          "Hear",
+          "Taste"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the nose do?",
+        "options": [
+          "Hear",
+          "See",
+          "Walk",
+          "Smell"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "How many fingers are on the hands?",
+        "options": [
+          "Ten",
+          "Five",
+          "Eight",
+          "Twelve"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the child brush every day?",
+        "options": [
+          "Hair only",
+          "Teeth",
+          "Shoes",
+          "The door"
+        ],
+        "correctAnswer": 1
+      }
+    ]
   },
   {
     "id": "book-my-school-day",
@@ -162,7 +836,58 @@
       "We have Turkish, Maths, and English. We sing songs too!",
       "School finishes at three. \"Goodbye, teacher!\" I go home happy."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What does the child put on in the morning?",
+        "options": [
+          "A hat only",
+          "A coat only",
+          "A bag",
+          "A scarf only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which lessons do they have?",
+        "options": [
+          "Only PE",
+          "Only art",
+          "Only music",
+          "Turkish, Maths, and English"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What else do they do at school?",
+        "options": [
+          "They sing songs",
+          "They cook",
+          "They drive",
+          "They sleep"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "When does school finish?",
+        "options": [
+          "At one",
+          "At three",
+          "At two",
+          "At night"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the child say to the teacher?",
+        "options": [
+          "Hello, bus!",
+          "Open the door",
+          "Goodbye, teacher!",
+          "Sit down"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-my-friends",
@@ -173,7 +898,48 @@
       "We help each other in class. \"Can I borrow your eraser?\" \"Sure!\"",
       "Friends play, laugh, and learn together. I am lucky to have good friends!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "Who are the friends in the story?",
+        "options": [
+          "Ayşe and Ali",
+          "Elif and Mehmet",
+          "Ada and Efe",
+          "Zeynep and Can"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Where do they sit?",
+        "options": [
+          "Together",
+          "Far away",
+          "Outside only",
+          "On the roof"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does one friend want to borrow?",
+        "options": [
+          "A book",
+          "An eraser",
+          "A bike",
+          "A coat"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does the friend say?",
+        "options": [
+          "No!",
+          "Go away",
+          "Sure!",
+          "Later"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-my-house",
@@ -184,7 +950,48 @@
       "In the kitchen Mum cooks. In my room I sleep and read.",
       "Home is where my family is. I love my house!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What rooms does the house have?",
+        "options": [
+          "A shop and a park",
+          "Only a garden",
+          "Only a street",
+          "Kitchen, living room, bedrooms"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who cooks in the kitchen?",
+        "options": [
+          "Mum",
+          "Dad",
+          "The teacher",
+          "A friend"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the child do in the room?",
+        "options": [
+          "Cook soup",
+          "Sleep and read",
+          "Drive a car",
+          "Fly a plane"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is home?",
+        "options": [
+          "A shop",
+          "A school",
+          "Where my family is",
+          "A bus"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-my-garden",
@@ -195,7 +1002,48 @@
       "I water the plants. Green leaves grow in spring.",
       "Bees visit the flowers. The garden smells wonderful!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What is in the garden?",
+        "options": [
+          "Cars and buses",
+          "Desks and chairs",
+          "Beds and sofas",
+          "Flowers and a tree"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What does the child do?",
+        "options": [
+          "Water the plants",
+          "Cut the house",
+          "Paint the sky",
+          "Hide the sun"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "When do green leaves grow?",
+        "options": [
+          "In winter",
+          "In spring",
+          "At night only",
+          "In the sea"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who visits the flowers?",
+        "options": [
+          "Dogs",
+          "Cats",
+          "Bees",
+          "Fish"
+        ],
+        "correctAnswer": 2
+      }
+    ]
   },
   {
     "id": "book-my-birthday",
@@ -206,7 +1054,58 @@
       "My friends come to my party. We eat cake and play games.",
       "I open presents. \"Thank you!\" I say. Birthdays are the best day!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "How old is the child?",
+        "options": [
+          "Five",
+          "Six",
+          "Ten",
+          "Seven"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who comes to the party?",
+        "options": [
+          "Friends",
+          "Teachers only",
+          "Doctors",
+          "Drivers"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What do they eat?",
+        "options": [
+          "Soup",
+          "Cake",
+          "Rice",
+          "Bread"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do they play?",
+        "options": [
+          "Chess only",
+          "Football only",
+          "Games",
+          "Cards only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What does the child say for presents?",
+        "options": [
+          "No thank you",
+          "Go away",
+          "Later",
+          "Thank you!"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   },
   {
     "id": "book-my-feelings",
@@ -217,7 +1116,48 @@
       "Sometimes I feel sad. That is okay. A hug helps me feel better.",
       "I can say how I feel. \"I am tired.\" \"I am excited!\" Feelings are important."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "What does the child do when happy?",
+        "options": [
+          "Smile and laugh",
+          "Cry",
+          "Hide",
+          "Sleep"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What helps when the child is sad?",
+        "options": [
+          "A shout",
+          "A hug",
+          "A race",
+          "A test"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Can the child say how they feel?",
+        "options": [
+          "No, never",
+          "Only at night",
+          "Yes, they can",
+          "Only at school"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which feeling is in the story?",
+        "options": [
+          "Hungry only",
+          "Lost",
+          "Sick only",
+          "Tired"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   },
   {
     "id": "book-my-sports",
@@ -228,7 +1168,48 @@
       "We run in PE class. Running makes our hearts strong.",
       "Win or lose, we say \"Good game!\" Sport is fun and healthy."
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "Which sport does the child like?",
+        "options": [
+          "Football",
+          "Tennis",
+          "Swimming",
+          "Chess"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What does the child kick?",
+        "options": [
+          "A bag",
+          "The ball",
+          "A door",
+          "A box"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where do they run?",
+        "options": [
+          "In the kitchen",
+          "In bed",
+          "In PE class",
+          "In a shop"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What do they say after the game?",
+        "options": [
+          "I hate you",
+          "Go home",
+          "Be quiet",
+          "Good game!"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   },
   {
     "id": "book-my-transport",
@@ -239,7 +1220,58 @@
       "Dad drives a blue car. Sometimes I ride my bike in the park.",
       "Planes fly in the sky. Boats sail on the sea. So many ways to travel!"
     ],
-    "sorular": []
+    "sorular": [
+      {
+        "question": "How does the child go to school?",
+        "options": [
+          "By bus",
+          "By plane",
+          "By boat",
+          "By train"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour is the bus?",
+        "options": [
+          "Blue",
+          "Yellow",
+          "Red",
+          "Green"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour is Dad's car?",
+        "options": [
+          "Yellow",
+          "Black",
+          "Blue",
+          "White"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where does the child ride a bike?",
+        "options": [
+          "At school",
+          "On the sea",
+          "In the sky",
+          "In the park"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What flies in the sky?",
+        "options": [
+          "Planes",
+          "Boats",
+          "Buses",
+          "Bikes"
+        ],
+        "correctAnswer": 0
+      }
+    ]
   },
   {
     "id": "bees-and-flower-garden",
