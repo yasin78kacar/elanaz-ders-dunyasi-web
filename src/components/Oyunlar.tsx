@@ -1,7 +1,9 @@
 import { useState } from 'react';
 import '../styles/Oyunlar.css';
 import OyunGolge from './OyunGolge';
+import OyunEslestirme from './OyunEslestirme';
 import { OyunKart } from '../oyunlar/OyunKart';
+import type { EslestirmeEk } from './OyunEslestirme';
 
 interface Props { onClose: () => void; }
 
@@ -463,19 +465,31 @@ const DinlemeOyunu: React.FC<{ onBitti: (puan: number) => void }> = ({ onBitti }
 
 // ==================== ANA MENU ====================
 const Oyunlar: React.FC<Props> = ({ onClose }) => {
-  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme' | 'golge'>('');
+  const [aktifOyun, setAktifOyun] = useState<'' | 'saat' | 'pizza' | 'balon' | 'hafiza' | 'siralama' | 'kelime' | 'dinleme' | 'golge' | 'eslestirme'>('');
   const [sonuc, setSonuc] = useState<number | null>(null);
+  const [sonucEk, setSonucEk] = useState<EslestirmeEk | null>(null);
 
-  const oyunBitti = (puan: number) => setSonuc(puan);
-  const menuyeDon = () => { setAktifOyun(''); setSonuc(null); };
+  const oyunBitti = (puan: number, ek?: EslestirmeEk) => {
+    setSonuc(puan);
+    setSonucEk(ek ?? null);
+  };
+  const menuyeDon = () => { setAktifOyun(''); setSonuc(null); setSonucEk(null); };
 
   if (sonuc !== null) {
+    const eslestirme = aktifOyun === 'eslestirme';
+    const kupa = eslestirme
+      ? (sonuc >= 160 ? '🏆' : sonuc >= 110 ? '🌟' : '💪')
+      : (sonuc >= 4 ? '🏆' : sonuc >= 2 ? '🌟' : '💪');
     return (
       <div className="oyunlar-container">
         <div className="oyun-sonuc">
-          <div className="oyun-sonuc-emoji">{sonuc >= 4 ? '🏆' : sonuc >= 2 ? '🌟' : '💪'}</div>
-          <h2>{sonuc} / {TUR_SAYISI} doğru!</h2>
-          <p>{sonuc >= 4 ? 'Muhteşemsin!' : sonuc >= 2 ? 'Çok iyi gidiyorsun!' : 'Denedikçe daha iyi olacak!'}</p>
+          <div className="oyun-sonuc-emoji">{kupa}</div>
+          <h2>{eslestirme ? `${sonuc} puan` : `${sonuc} / ${TUR_SAYISI} doğru!`}</h2>
+          <p>
+            {eslestirme
+              ? `En yüksek seri: ${sonucEk?.enIyiSeri ?? 0}`
+              : sonuc >= 4 ? 'Muhteşemsin!' : sonuc >= 2 ? 'Çok iyi gidiyorsun!' : 'Denedikçe daha iyi olacak!'}
+          </p>
           <button className="oyun-kontrol" onClick={() => { const o = aktifOyun; menuyeDon(); setTimeout(() => setAktifOyun(o), 0); }}>🔄 Tekrar Oyna</button>
           <button className="oyun-geri" onClick={menuyeDon}>← Oyun Menüsü</button>
         </div>
@@ -491,6 +505,7 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
   if (aktifOyun === 'kelime') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><KelimeOyunu onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'dinleme') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><DinlemeOyunu onBitti={oyunBitti} /></div>;
   if (aktifOyun === 'golge') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunGolge onBitti={oyunBitti} /></div>;
+  if (aktifOyun === 'eslestirme') return <div className="oyunlar-container"><button className="oyun-geri" onClick={menuyeDon}>← Oyunlar</button><OyunEslestirme onBitti={oyunBitti} /></div>;
 
   return (
     <div className="oyunlar-container">
@@ -531,6 +546,13 @@ const Oyunlar: React.FC<Props> = ({ onClose }) => {
           baslik="Gölge Bulma"
           alt="Doğru gölgeyi seç"
           onClick={() => setAktifOyun('golge')}
+        />
+        <OyunKart
+          renk="#c45c2a"
+          emoji="🔗"
+          baslik="Eşleştirme Ustası"
+          alt="Zincir bonuslu hafıza"
+          onClick={() => setAktifOyun('eslestirme')}
         />
       </div>
     </div>
