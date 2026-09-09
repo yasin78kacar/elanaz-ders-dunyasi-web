@@ -2192,5 +2192,555 @@
         "correctAnswer": 3
       }
     ]
+  },
+  {
+    "id": "uzun-en-06",
+    "baslik": "KAHRAMAN and the Autumn Leaves",
+    "seviye": 1,
+    "uzun": true,
+    "sayfalar": [
+      "One windy day KAHRAMAN looked at the trees. The leaves were yellow, red, and brown.",
+      "\"It is autumn!\" said KAHRAMAN. A leaf fell on KAHRAMAN's shoe.",
+      "KAHRAMAN put on a green coat and a yellow hat. Mum opened the door.",
+      "They walked to the small park. Leaves made a soft sound under their feet.",
+      "KAHRAMAN picked up a red leaf. It was big and shaped like a hand.",
+      "Mum raked the leaves into a pile. The pile looked like a small hill.",
+      "KAHRAMAN jumped into the pile. Soft leaves flew up and came down again.",
+      "A little grey squirrel ran up a tree. It had a nut in its mouth.",
+      "The wind grew stronger. More leaves danced in the air.",
+      "KAHRAMAN tried to catch a yellow leaf. It landed on KAHRAMAN's hat!",
+      "A boy named Can came with a bag. \"I need leaves for art class,\" he said.",
+      "KAHRAMAN helped Can. They put red, yellow, and brown leaves in the bag.",
+      "Then they sat on a bench. Mum gave them warm apple juice.",
+      "Can said thank you. \"Autumn is my favourite season,\" he said.",
+      "On the way home KAHRAMAN kept one gold leaf. It was flat and dry.",
+      "At the table KAHRAMAN drew the park. Trees. A pile. A squirrel.",
+      "KAHRAMAN glued the gold leaf on the paper. It looked bright.",
+      "Dad came home and looked. \"I can smell autumn in this picture,\" he said.",
+      "That night KAHRAMAN put the picture near the window. More leaves fell outside.",
+      "KAHRAMAN learned: every season has its own colours and fun."
+    ],
+    "sorular": [
+      {
+        "question": "What season was it?",
+        "options": [
+          "Autumn",
+          "Winter",
+          "Spring",
+          "Summer"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was KAHRAMAN's coat?",
+        "options": [
+          "Yellow",
+          "Green",
+          "Red",
+          "Blue"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN jump into?",
+        "options": [
+          "A river",
+          "A box",
+          "A pile of leaves",
+          "A bed"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the squirrel have?",
+        "options": [
+          "A ball",
+          "A leaf",
+          "A cup",
+          "A nut"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who needed leaves for art class?",
+        "options": [
+          "Can",
+          "Leo",
+          "Eda",
+          "Mina"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Mum give them?",
+        "options": [
+          "Cake",
+          "Warm apple juice",
+          "Milk",
+          "Soup"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN glue on the paper?",
+        "options": [
+          "A nut",
+          "A photo",
+          "A gold leaf",
+          "A stamp"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN learn?",
+        "options": [
+          "Snow is best",
+          "Parks are closed",
+          "Coats are bad",
+          "Each season can be fun"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-07",
+    "baslik": "KAHRAMAN and the Football Game",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Saturday morning KAHRAMAN packed a football. The ball was white and black.",
+      "Dad drove to the sports field. The grass was short and green.",
+      "Two teams put on bibs. KAHRAMAN's team was the blue team.",
+      "The coach said, \"Pass the ball. Help your friends. Play fair.\"",
+      "The game began. A girl named Nisa kicked the ball to KAHRAMAN.",
+      "KAHRAMAN ran fast. KAHRAMAN passed the ball to a boy named Efe.",
+      "Efe tried a kick. The ball went over the goal. No point.",
+      "Efe looked down. KAHRAMAN said, \"Good try. We can do it next time.\"",
+      "The other team scored one goal. The blue team did not give up.",
+      "At half time they drank water. The coach drew a simple plan on a board.",
+      "\"Stay in your place,\" he said. \"Do not all run after the ball.\"",
+      "In the second half Nisa ran down the side. KAHRAMAN waited in the middle.",
+      "Nisa passed. KAHRAMAN kicked the ball low. It went into the goal!",
+      "The blue team clapped. Efe smiled and tapped KAHRAMAN's hand.",
+      "Near the end a child fell. KAHRAMAN stopped and helped the child stand up.",
+      "The referee said, \"That is fair play.\" The game ended two to one.",
+      "Both teams shook hands. \"Well played,\" said the other captain.",
+      "Dad gave KAHRAMAN an orange. It was cold and sweet.",
+      "At home KAHRAMAN washed the ball and put it by the door.",
+      "KAHRAMAN learned: a good game needs passing, trying again, and kindness."
+    ],
+    "sorular": [
+      {
+        "question": "What day was the game?",
+        "options": [
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was KAHRAMAN's team?",
+        "options": [
+          "Red",
+          "Green",
+          "Blue",
+          "Yellow"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who kicked the ball to KAHRAMAN first?",
+        "options": [
+          "Efe",
+          "Dad",
+          "The coach",
+          "Nisa"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did the coach say first?",
+        "options": [
+          "Pass the ball",
+          "Sit down",
+          "Go home",
+          "Be quiet"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did KAHRAMAN's kick go?",
+        "options": [
+          "Over the tree",
+          "Into the goal",
+          "Into a bag",
+          "To the car"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did they drink at half time?",
+        "options": [
+          "Juice",
+          "Milk",
+          "Water",
+          "Tea"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Dad give KAHRAMAN?",
+        "options": [
+          "A cup",
+          "A hat",
+          "A book",
+          "An orange"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did both teams do at the end?",
+        "options": [
+          "Shook hands",
+          "Ran away",
+          "Hid",
+          "Cried"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-08",
+    "baslik": "KAHRAMAN's Forest Walk",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "The class went on a nature trip. They sat on a yellow bus.",
+      "KAHRAMAN packed a small bag. Inside were a hat, water, and a notebook.",
+      "The teacher said, \"We will walk in the forest. Stay on the path.\"",
+      "The forest was cool. Tall trees made a green roof over their heads.",
+      "KAHRAMAN heard a bird. Tweet, tweet! It sat on a high branch.",
+      "They stopped by a little river. The water was clear. Stones were smooth.",
+      "A friend named Mert pointed. \"Look! Tiny fish!\" The fish swam away fast.",
+      "The teacher showed a map. A blue line was the river. A brown line was the path.",
+      "KAHRAMAN drew a leaf and a fish in the notebook. The pencil was short.",
+      "Then they saw ants in a long line. The ants carried small bits of food.",
+      "\"Do not step on them,\" said KAHRAMAN. The class walked around the ants.",
+      "At noon they sat on logs. They ate apples and biscuits.",
+      "KAHRAMAN put the paper bag in the teacher's big rubbish bag.",
+      "After lunch they listened. No talking for one minute. Wind. Birds. Water.",
+      "On the way back Mert's hat fell near a bush. KAHRAMAN picked it up.",
+      "\"Thank you,\" said Mert. His hat was orange and a little wet.",
+      "The bus came. Everyone counted. The teacher smiled. All children were there.",
+      "At school they put the notebooks on a table. The forest pictures looked different.",
+      "That evening KAHRAMAN told Mum about the fish and the quiet minute.",
+      "KAHRAMAN learned: a forest is a home, so we walk softly and keep it clean."
+    ],
+    "sorular": [
+      {
+        "question": "How did the class travel?",
+        "options": [
+          "By car",
+          "By train",
+          "By bus",
+          "By bike"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the teacher say about walking?",
+        "options": [
+          "Run fast",
+          "Climb trees",
+          "Swim",
+          "Stay on the path"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What sound did the bird make?",
+        "options": [
+          "Tweet, tweet",
+          "Woof",
+          "Moo",
+          "Quack"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Mert see in the river?",
+        "options": [
+          "A boat",
+          "Tiny fish",
+          "A duck",
+          "A ball"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was the river on the map?",
+        "options": [
+          "Green",
+          "Red",
+          "Blue",
+          "Black"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they do with rubbish?",
+        "options": [
+          "Left it",
+          "Hid it",
+          "Burned it",
+          "Put it in a bag"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour was Mert's hat?",
+        "options": [
+          "Orange",
+          "Blue",
+          "White",
+          "Purple"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did they do for one minute?",
+        "options": [
+          "Sleep",
+          "Listen",
+          "Sing",
+          "Run"
+        ],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-09",
+    "baslik": "KAHRAMAN Visits the Fire Station",
+    "seviye": 3,
+    "uzun": true,
+    "sayfalar": [
+      "On Friday the class visited a fire station. KAHRAMAN wore a name sticker.",
+      "A firefighter met them at the door. Her name was Aylin. She had a kind smile.",
+      "\"Our job is to help,\" she said. \"We put out fires. We help people.\"",
+      "She showed a big red truck. It was shiny. The wheels were very large.",
+      "KAHRAMAN touched the hose. It was long and heavy. Water can come out fast.",
+      "Aylin put a yellow helmet on KAHRAMAN. It was hard and a little heavy.",
+      "\"This keeps my head safe,\" she said. She also showed big boots and gloves.",
+      "Then an alarm rang. Beep, beep! The children jumped. It was only a test.",
+      "Aylin laughed. \"We practise every day. Practice helps us stay ready.\"",
+      "They went upstairs. Beds were neat. Helmets hung in a line on the wall.",
+      "Aylin asked, \"What do you do if you see smoke?\" KAHRAMAN raised a hand.",
+      "\"Tell a grown-up. Get out. Do not hide,\" said KAHRAMAN. Aylin nodded.",
+      "She showed a phone. \"Call for help. Say where you are. Speak slowly.\"",
+      "A boy named Baran asked, \"Are you scared?\" Aylin said, \"A little. We still go.\"",
+      "Before they left she gave each child a red sticker. It said \"Safety Star\".",
+      "KAHRAMAN stuck it on the notebook. The bus ride home was noisy and happy.",
+      "At school they drew the red truck. KAHRAMAN drew the yellow helmet too.",
+      "Mum read the sticker. \"Helping people is a real job,\" she said.",
+      "That night KAHRAMAN told Dad, \"The alarm was only a test.\"",
+      "KAHRAMAN learned: every job needs practice, brave hearts, and clear words."
+    ],
+    "sorular": [
+      {
+        "question": "When did the class visit?",
+        "options": [
+          "Monday",
+          "Tuesday",
+          "Sunday",
+          "Friday"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour was the truck?",
+        "options": [
+          "Red",
+          "Blue",
+          "Green",
+          "White"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Aylin put on KAHRAMAN?",
+        "options": [
+          "A coat",
+          "A yellow helmet",
+          "A bag",
+          "A watch"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the alarm?",
+        "options": [
+          "A song",
+          "A game",
+          "A test",
+          "A radio"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What should you do if you see smoke?",
+        "options": [
+          "Hide",
+          "Open a window",
+          "Wait inside",
+          "Tell a grown-up"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did the sticker say?",
+        "options": [
+          "Safety Star",
+          "Top Student",
+          "Fast Runner",
+          "Best Singer"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who asked if Aylin was scared?",
+        "options": [
+          "Mum",
+          "Baran",
+          "The driver",
+          "Dad"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do they do every day?",
+        "options": [
+          "Sleep late",
+          "Shop",
+          "Practise",
+          "Dance"
+        ],
+        "correctAnswer": 2
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-10",
+    "baslik": "KAHRAMAN's Children's Day",
+    "seviye": 3,
+    "uzun": true,
+    "sayfalar": [
+      "It was Children's Day at school. Colourful flags hung in the hall.",
+      "KAHRAMAN wore a white shirt. Mum tied a blue ribbon on KAHRAMAN's bag.",
+      "The class practised a short song. The words were about friends and play.",
+      "At ten o'clock families came. Chairs filled the yard. The sun was bright.",
+      "First they sang the song. KAHRAMAN's voice was small, but it was clear.",
+      "Then two children danced in a circle. Their shoes made a happy sound.",
+      "KAHRAMAN's job was to give paper flags to the little ones in year one.",
+      "A small girl dropped her flag. KAHRAMAN picked it up and smiled.",
+      "After the show there were games. There was a sack race and a ball toss.",
+      "KAHRAMAN joined the sack race. Jump, jump! KAHRAMAN came third.",
+      "Sude won the race. Everyone clapped, even the children who did not win.",
+      "The cook brought a big tray. There was fruit and small cakes for all.",
+      "KAHRAMAN sat with Grandma. She had come from the next street.",
+      "\"When I was little, we had this day too,\" Grandma said. She looked happy.",
+      "A teacher gave each child a yellow balloon. KAHRAMAN's balloon had a star.",
+      "The wind pulled the string. KAHRAMAN held it tight and did not let go.",
+      "Before going home they tidied the yard. Flags went back into a box.",
+      "KAHRAMAN gave Grandma the leftover cake in a napkin. She laughed.",
+      "That night KAHRAMAN drew flags, a balloon, and Grandma's smile.",
+      "KAHRAMAN learned: a celebration is songs, games, and sharing the day."
+    ],
+    "sorular": [
+      {
+        "question": "What day was it at school?",
+        "options": [
+          "Children's Day",
+          "Sports Day",
+          "New Year",
+          "Friday only"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the ribbon?",
+        "options": [
+          "Red",
+          "Blue",
+          "Green",
+          "Black"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was KAHRAMAN's job?",
+        "options": [
+          "Sing alone",
+          "Dance",
+          "Give paper flags",
+          "Cook cakes"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How did KAHRAMAN finish the sack race?",
+        "options": [
+          "First",
+          "Last",
+          "Second",
+          "Third"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who won the sack race?",
+        "options": [
+          "Sude",
+          "Efe",
+          "Nisa",
+          "Can"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did the balloon have?",
+        "options": [
+          "A moon",
+          "A star",
+          "A fish",
+          "A heart"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who sat with KAHRAMAN?",
+        "options": [
+          "Dad",
+          "The cook",
+          "Grandma",
+          "Baran"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they do before going home?",
+        "options": [
+          "Ran away",
+          "Slept",
+          "Ate more",
+          "Tidied the yard"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   }
 ]
