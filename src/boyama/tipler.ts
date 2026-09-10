@@ -7,7 +7,8 @@ export type BoyamaSahneProps = {
 export type Kategori =
   | 'hayvanlar' | 'araclar' | 'meyve-sebze' | 'doga' | 'gunluk'
   | 'deniz' | 'uzay' | 'spor' | 'meslekler' | 'masal'
-  | 'bocekler' | 'cicekler' | 'oyuncaklar' | 'hava' | 'aile';
+  | 'bocekler' | 'cicekler' | 'oyuncaklar' | 'hava' | 'aile'
+  | 'okul' | 'park' | 'muzik';
 
 export const KATEGORI_AD: Record<Kategori, string> = {
   hayvanlar: 'Hayvanlar',
@@ -25,6 +26,9 @@ export const KATEGORI_AD: Record<Kategori, string> = {
   oyuncaklar: 'Oyuncaklar',
   hava: 'Hava',
   aile: 'Aile',
+  okul: 'Okul',
+  park: 'Park',
+  muzik: 'Müzik',
 };
 
 export type BolgePath = { id: string; tur?: 'path'; d: string; sw?: number; dekorRenk?: string };

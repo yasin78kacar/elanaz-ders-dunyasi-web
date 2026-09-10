@@ -1,0 +1,404 @@
+{
+  "sira": [
+    {
+      "id": "kedi",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "kopek",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "kus",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "balik",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "tavsan",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "kurbaga",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "kelebek",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "kaplumbaga",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "tekne",
+      "kategori": "araclar"
+    },
+    {
+      "id": "bisiklet",
+      "kategori": "araclar"
+    },
+    {
+      "id": "otobus",
+      "kategori": "araclar"
+    },
+    {
+      "id": "tren",
+      "kategori": "araclar"
+    },
+    {
+      "id": "ucak",
+      "kategori": "araclar"
+    },
+    {
+      "id": "sepet",
+      "kategori": "meyve-sebze"
+    },
+    {
+      "id": "karpuz",
+      "kategori": "meyve-sebze"
+    },
+    {
+      "id": "cilek",
+      "kategori": "meyve-sebze"
+    },
+    {
+      "id": "havuc",
+      "kategori": "meyve-sebze"
+    },
+    {
+      "id": "uzum",
+      "kategori": "meyve-sebze"
+    },
+    {
+      "id": "gol",
+      "kategori": "doga"
+    },
+    {
+      "id": "sonbahar",
+      "kategori": "doga"
+    },
+    {
+      "id": "kis",
+      "kategori": "doga"
+    },
+    {
+      "id": "bahar",
+      "kategori": "doga"
+    },
+    {
+      "id": "ev",
+      "kategori": "gunluk"
+    },
+    {
+      "id": "pasta",
+      "kategori": "gunluk"
+    },
+    {
+      "id": "ayi",
+      "kategori": "gunluk"
+    },
+    {
+      "id": "yunus",
+      "kategori": "deniz"
+    },
+    {
+      "id": "ahtapot",
+      "kategori": "deniz"
+    },
+    {
+      "id": "deniz-tosbaga",
+      "kategori": "deniz"
+    },
+    {
+      "id": "denizyildizi",
+      "kategori": "deniz"
+    },
+    {
+      "id": "yengec",
+      "kategori": "deniz"
+    },
+    {
+      "id": "denizat",
+      "kategori": "deniz"
+    },
+    {
+      "id": "roket",
+      "kategori": "uzay"
+    },
+    {
+      "id": "saturn",
+      "kategori": "uzay"
+    },
+    {
+      "id": "astronot",
+      "kategori": "uzay"
+    },
+    {
+      "id": "ufo",
+      "kategori": "uzay"
+    },
+    {
+      "id": "futbol",
+      "kategori": "spor"
+    },
+    {
+      "id": "basketbol",
+      "kategori": "spor"
+    },
+    {
+      "id": "yuzme",
+      "kategori": "spor"
+    },
+    {
+      "id": "tenis",
+      "kategori": "spor"
+    },
+    {
+      "id": "doktor",
+      "kategori": "meslekler"
+    },
+    {
+      "id": "itfaiyeci",
+      "kategori": "meslekler"
+    },
+    {
+      "id": "asci",
+      "kategori": "meslekler"
+    },
+    {
+      "id": "ciftci",
+      "kategori": "meslekler"
+    },
+    {
+      "id": "ejder",
+      "kategori": "masal"
+    },
+    {
+      "id": "peri",
+      "kategori": "masal"
+    },
+    {
+      "id": "kale-masal",
+      "kategori": "masal"
+    },
+    {
+      "id": "tekboynuz",
+      "kategori": "masal"
+    },
+    {
+      "id": "sihirbaz",
+      "kategori": "masal"
+    },
+    {
+      "id": "denizkizi",
+      "kategori": "masal"
+    },
+    {
+      "id": "ucan-hali",
+      "kategori": "masal"
+    },
+    {
+      "id": "ugurbocegi",
+      "kategori": "bocekler"
+    },
+    {
+      "id": "ari",
+      "kategori": "bocekler"
+    },
+    {
+      "id": "karinca",
+      "kategori": "bocekler"
+    },
+    {
+      "id": "salyangoz",
+      "kategori": "bocekler"
+    },
+    {
+      "id": "cekirge",
+      "kategori": "bocekler"
+    },
+    {
+      "id": "ayicicegi",
+      "kategori": "cicekler"
+    },
+    {
+      "id": "lale",
+      "kategori": "cicekler"
+    },
+    {
+      "id": "papatya",
+      "kategori": "cicekler"
+    },
+    {
+      "id": "gul",
+      "kategori": "cicekler"
+    },
+    {
+      "id": "saksi-pencere",
+      "kategori": "cicekler"
+    },
+    {
+      "id": "oyuncak-araba",
+      "kategori": "oyuncaklar"
+    },
+    {
+      "id": "oyuncak-bebek",
+      "kategori": "oyuncaklar"
+    },
+    {
+      "id": "kupler",
+      "kategori": "oyuncaklar"
+    },
+    {
+      "id": "ucurtma",
+      "kategori": "oyuncaklar"
+    },
+    {
+      "id": "oyuncak-robot",
+      "kategori": "oyuncaklar"
+    },
+    {
+      "id": "gunesli",
+      "kategori": "hava"
+    },
+    {
+      "id": "yagmur",
+      "kategori": "hava"
+    },
+    {
+      "id": "gokkusagi",
+      "kategori": "hava"
+    },
+    {
+      "id": "ruzgar",
+      "kategori": "hava"
+    },
+    {
+      "id": "aksam-yemegi",
+      "kategori": "aile"
+    },
+    {
+      "id": "uyku-saati",
+      "kategori": "aile"
+    },
+    {
+      "id": "aile-bahce",
+      "kategori": "aile"
+    },
+    {
+      "id": "oturma-odasi",
+      "kategori": "aile"
+    },
+    {
+      "id": "mutfak-kurabiye",
+      "kategori": "aile"
+    },
+    {
+      "id": "piknik",
+      "kategori": "aile"
+    },
+    {
+      "id": "aslan",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "fil",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "penguen",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "tilki",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "baykus",
+      "kategori": "hayvanlar"
+    },
+    {
+      "id": "sinif-ders",
+      "kategori": "okul"
+    },
+    {
+      "id": "ogretmen",
+      "kategori": "okul"
+    },
+    {
+      "id": "okul-servisi",
+      "kategori": "okul"
+    },
+    {
+      "id": "kutuphane",
+      "kategori": "okul"
+    },
+    {
+      "id": "teneffus",
+      "kategori": "okul"
+    },
+    {
+      "id": "salincak",
+      "kategori": "park"
+    },
+    {
+      "id": "kaydirak",
+      "kategori": "park"
+    },
+    {
+      "id": "tahterevalli",
+      "kategori": "park"
+    },
+    {
+      "id": "kum-havuzu",
+      "kategori": "park"
+    },
+    {
+      "id": "piyano",
+      "kategori": "muzik"
+    },
+    {
+      "id": "davul",
+      "kategori": "muzik"
+    },
+    {
+      "id": "gitar",
+      "kategori": "muzik"
+    },
+    {
+      "id": "koro",
+      "kategori": "muzik"
+    },
+    {
+      "id": "dondurma",
+      "kategori": "gunluk"
+    },
+    {
+      "id": "pizza",
+      "kategori": "gunluk"
+    },
+    {
+      "id": "market",
+      "kategori": "gunluk"
+    },
+    {
+      "id": "dis-fircalama",
+      "kategori": "gunluk"
+    },
+    {
+      "id": "itfaiye-araci",
+      "kategori": "araclar"
+    },
+    {
+      "id": "ambulans",
+      "kategori": "araclar"
+    },
+    {
+      "id": "traktor",
+      "kategori": "araclar"
+    }
+  ]
+}

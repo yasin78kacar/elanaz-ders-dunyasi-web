@@ -57,6 +57,16 @@
   touch-action: manipulation;
 }
 
+.by-yukle {
+  min-height: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  color: #be185d;
+  font-size: 1.1rem;
+}
+
 .by-bolge,
 .by-secili {
   cursor: pointer;

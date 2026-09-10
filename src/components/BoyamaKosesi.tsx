@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
-import { BOS, KATEGORI_AD, PALET, bolgeKucukMu } from '../boyama/tipler';
-import { SAYFALAR } from '../boyama/yukle';
+import { BOS, KATEGORI_AD, PALET, bolgeKucukMu, type SayfaVeri } from '../boyama/tipler';
+import { SAYFA_SIRA, kategoriYukle, sayfaYukle } from '../boyama/yukle';
 import { SayfaCiz } from '../boyama/SayfaCiz';
 import { sesAdim, sesZafer } from '../oyunlar/ses';
 import { Konfeti } from '../oyunlar/Konfeti';
@@ -11,19 +11,34 @@ interface Props { onClose: () => void; }
 
 const BoyamaKosesi: React.FC<Props> = ({ onClose }) => {
   const [ix, setIx] = useState(0);
+  const [sayfa, setSayfa] = useState<SayfaVeri | null>(null);
+  const [yukleniyor, setYukleniyor] = useState(true);
   const [renkler, setRenkler] = useState<Record<string, string>>({});
   const [secili, setSecili] = useState<string | null>(null);
   const [paletAcik, setPaletAcik] = useState(false);
   const [kutla, setKutla] = useState(false);
   const kutlandi = useRef(false);
 
-  const sayfa = SAYFALAR[ix];
-  const boyanacaklar = sayfa.bolgeler.filter((b) => !bolgeKucukMu(b));
+  useEffect(() => {
+    let iptal = false;
+    setYukleniyor(true);
+    void sayfaYukle(ix).then((s) => {
+      if (iptal) return;
+      setSayfa(s);
+      setYukleniyor(false);
+    });
+    const sonraki = SAYFA_SIRA[(ix + 1) % SAYFA_SIRA.length];
+    if (sonraki) void kategoriYukle(sonraki.kategori);
+    return () => { iptal = true; };
+  }, [ix]);
+
+  const boyanacaklar = sayfa ? sayfa.bolgeler.filter((b) => !bolgeKucukMu(b)) : [];
   const bolgeIdler = boyanacaklar.map((b) => b.id);
   const boyanan = bolgeIdler.filter((id) => renkler[id] && renkler[id] !== BOS).length;
   const renk = (id: string) => renkler[id] ?? BOS;
 
   useEffect(() => {
+    if (!sayfa) return;
     const idler = sayfa.bolgeler.filter((b) => !bolgeKucukMu(b)).map((b) => b.id);
     const bitti = idler.length > 0 && idler.every((id) => renkler[id] && renkler[id] !== BOS);
     if (bitti && !kutlandi.current) {
@@ -42,6 +57,7 @@ const BoyamaKosesi: React.FC<Props> = ({ onClose }) => {
   };
 
   const onSec = (id: string) => {
+    if (!sayfa) return;
     const bolge = sayfa.bolgeler.find((b) => b.id === id);
     if (!bolge || bolgeKucukMu(bolge)) return;
     setSecili(id);
@@ -55,7 +71,7 @@ const BoyamaKosesi: React.FC<Props> = ({ onClose }) => {
   };
 
   const yeniSayfa = () => {
-    setIx((i) => (i + 1) % SAYFALAR.length);
+    setIx((i) => (i + 1) % SAYFA_SIRA.length);
     temizle();
   };
 
@@ -66,21 +82,27 @@ const BoyamaKosesi: React.FC<Props> = ({ onClose }) => {
       <header className="by-baslik-blok">
         <h1 className="by-baslik">🎨 Boyama Köşesi</h1>
         <p className="by-alt">
-          {sayfa.baslik} · {KATEGORI_AD[sayfa.kategori]} · {boyanan} / {bolgeIdler.length} boyandı
+          {sayfa
+            ? `${sayfa.baslik} · ${KATEGORI_AD[sayfa.kategori]} · ${boyanan} / ${bolgeIdler.length} boyandı`
+            : 'Sayfa geliyor…'}
         </p>
       </header>
 
       <div className="by-kagit">
-        <svg
-          className="by-svg"
-          viewBox={sayfa.viewBox ?? '0 0 400 360'}
-          xmlns="http://www.w3.org/2000/svg"
-          role="img"
-          aria-label={sayfa.baslik}
-          onClick={() => { setSecili(null); setPaletAcik(false); }}
-        >
-          <SayfaCiz sayfa={sayfa} renk={renk} secili={secili} onSec={onSec} />
-        </svg>
+        {sayfa && !yukleniyor ? (
+          <svg
+            className="by-svg"
+            viewBox={sayfa.viewBox ?? '0 0 400 360'}
+            xmlns="http://www.w3.org/2000/svg"
+            role="img"
+            aria-label={sayfa.baslik}
+            onClick={() => { setSecili(null); setPaletAcik(false); }}
+          >
+            <SayfaCiz sayfa={sayfa} renk={renk} secili={secili} onSec={onSec} />
+          </svg>
+        ) : (
+          <div className="by-yukle" role="status">Sayfa geliyor…</div>
+        )}
         {kutla && (
           <div className="by-kutla" role="status">
             <span className="by-kutla-emoji">🎉</span>
