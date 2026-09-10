@@ -10,7 +10,8 @@ export type Kategori =
   | 'bocekler' | 'cicekler' | 'oyuncaklar' | 'hava' | 'aile'
   | 'okul' | 'park' | 'muzik'
   | 'mevsimler' | 'akvaryum' | 'ciftlik' | 'teknoloji' | 'kutlama'
-  | 'dinozorlar' | 'yemek' | 'kis-spor' | 'muze' | 'doga-olay';
+  | 'dinozorlar' | 'yemek' | 'kis-spor' | 'muze' | 'doga-olay'
+  | 'peri-masal' | 'balikcilik' | 'insaat' | 'bilim' | 'hayvanat';
 
 export const KATEGORI_AD: Record<Kategori, string> = {
   hayvanlar: 'Hayvanlar',
@@ -41,6 +42,11 @@ export const KATEGORI_AD: Record<Kategori, string> = {
   'kis-spor': 'Kış Sporu',
   muze: 'Müze',
   'doga-olay': 'Doğa Olayı',
+  'peri-masal': 'Peri Masalı',
+  balikcilik: 'Balıkçılık',
+  insaat: 'İnşaat',
+  bilim: 'Bilim',
+  hayvanat: 'Hayvanat',
 };
 
 export type BolgePath = { id: string; tur?: 'path'; d: string; sw?: number; dekorRenk?: string };
