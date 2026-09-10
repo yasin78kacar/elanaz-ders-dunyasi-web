@@ -811,7 +811,7 @@ body::before {
   gap: 14px;
   width: 100%;
   padding: 16px 20px;
-  margin-bottom: 24px;
+  margin-bottom: 16px;
   background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%);
   border: none;
   border-radius: var(--qv-radius);
@@ -841,6 +841,46 @@ body::before {
   transition: transform 0.15s ease;
 }
 .qv-deneme-btn:hover .qv-hikaye-btn-arrow {
+  transform: translateX(4px);
+}
+
+/* ── Boyama Köşesi butonu ────────────────────────────────── */
+.qv-boyama-btn {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  padding: 16px 20px;
+  margin-bottom: 24px;
+  background: linear-gradient(135deg, #EC4899 0%, #BE185D 100%);
+  border: none;
+  border-radius: var(--qv-radius);
+  cursor: pointer;
+  text-align: left;
+  box-shadow: 0 8px 22px rgba(190, 24, 93, 0.30), inset 0 -5px 0 rgba(0,0,0,0.12), inset 0 2px 0 rgba(255,255,255,0.28);
+  transition: transform 0.18s var(--qv-ease-bounce), box-shadow 0.18s ease;
+  position: relative;
+  overflow: hidden;
+}
+.qv-boyama-btn::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(160deg, rgba(255,255,255,0.20) 0%, transparent 55%);
+  pointer-events: none;
+}
+.qv-boyama-btn:hover {
+  transform: translateY(-3px) scale(1.01);
+  box-shadow: 0 14px 30px rgba(190, 24, 93, 0.40), inset 0 -5px 0 rgba(0,0,0,0.12), inset 0 2px 0 rgba(255,255,255,0.28);
+}
+.qv-boyama-btn:active {
+  transform: scale(0.98) translateY(0);
+}
+.qv-boyama-btn .qv-hikaye-btn-arrow {
+  color: rgba(255, 255, 255, 0.85);
+  transition: transform 0.15s ease;
+}
+.qv-boyama-btn:hover .qv-hikaye-btn-arrow {
   transform: translateX(4px);
 }
 

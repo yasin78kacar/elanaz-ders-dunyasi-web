@@ -233,6 +233,7 @@ interface Props {
   onOyunlarAc?: () => void;
   onBesN1KAc?: () => void;
   onDenemeAc?: () => void;
+  onBoyamaAc?: () => void;
 }
 
 // Sayac kendi state'ini tutar; boylece saniyelik tik yalniz bu minik bileseni
@@ -261,7 +262,7 @@ const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTi
   return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
 });
 
-const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc }) => {
+const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
@@ -675,6 +676,17 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
               <span className="qv-hikaye-btn-text">
                 <span className="qv-hikaye-btn-title">Test Soruları</span>
                 <span className="qv-hikaye-btn-sub">Karışık ders deneme sınavı</span>
+              </span>
+              <span className="qv-hikaye-btn-arrow">›</span>
+            </button>
+          )}
+
+          {onBoyamaAc && (
+            <button className="qv-boyama-btn" id="btn-boyama-kosesi" onClick={onBoyamaAc}>
+              <span className="qv-hikaye-btn-emoji">🎨</span>
+              <span className="qv-hikaye-btn-text">
+                <span className="qv-hikaye-btn-title">Boyama Köşesi</span>
+                <span className="qv-hikaye-btn-sub">Tıkla, boya, kutla!</span>
               </span>
               <span className="qv-hikaye-btn-arrow">›</span>
             </button>

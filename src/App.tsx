@@ -4,9 +4,10 @@ import HikayeKosesi from './components/HikayeKosesi';
 import Oyunlar from './components/Oyunlar';
 import BesN1K from './components/BesN1K';
 import DenemeSinavi from './components/DenemeSinavi';
+import BoyamaKosesi from './components/BoyamaKosesi';
 import './App.css';
 
-type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k' | 'deneme';
+type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k' | 'deneme' | 'boyama';
 
 function App() {
   const [screen, setScreen] = useState<Screen>('quiz');
@@ -19,6 +20,7 @@ function App() {
           onOyunlarAc={() => setScreen('oyunlar')}
           onBesN1KAc={() => setScreen('besn1k')}
           onDenemeAc={() => setScreen('deneme')}
+          onBoyamaAc={() => setScreen('boyama')}
         />
       )}
       {screen === 'hikaye' && (
@@ -32,6 +34,9 @@ function App() {
       )}
       {screen === 'deneme' && (
         <DenemeSinavi onClose={() => setScreen('quiz')} />
+      )}
+      {screen === 'boyama' && (
+        <BoyamaKosesi onClose={() => setScreen('quiz')} />
       )}
     </div>
   );
