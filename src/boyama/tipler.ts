@@ -4,7 +4,9 @@ export type BoyamaSahneProps = {
   onSec: (id: string) => void;
 };
 
-export type Kategori = 'hayvanlar' | 'araclar' | 'meyve-sebze' | 'doga' | 'gunluk';
+export type Kategori =
+  | 'hayvanlar' | 'araclar' | 'meyve-sebze' | 'doga' | 'gunluk'
+  | 'deniz' | 'uzay' | 'spor' | 'meslekler' | 'masal';
 
 export const KATEGORI_AD: Record<Kategori, string> = {
   hayvanlar: 'Hayvanlar',
@@ -12,6 +14,11 @@ export const KATEGORI_AD: Record<Kategori, string> = {
   'meyve-sebze': 'Meyve-Sebze',
   doga: 'Doğa',
   gunluk: 'Günlük',
+  deniz: 'Deniz',
+  uzay: 'Uzay',
+  spor: 'Spor',
+  meslekler: 'Meslekler',
+  masal: 'Masal',
 };
 
 export type BolgePath = { id: string; tur?: 'path'; d: string; sw?: number; dekorRenk?: string };
