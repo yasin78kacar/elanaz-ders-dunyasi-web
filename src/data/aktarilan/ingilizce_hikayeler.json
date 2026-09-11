@@ -7969,5 +7969,555 @@
         "correctAnswer": 3
       }
     ]
+  },
+  {
+    "id": "uzun-en-41",
+    "baslik": "The Museum Treasure Hunt",
+    "seviye": 3,
+    "uzun": true,
+    "sayfalar": [
+      "The class went to the town museum. Each child got a small paper map.",
+      "Teacher Hakan said, \"Find five stamps. Do not run.\"",
+      "The first stamp was by a clay pot. The pot was from a very old kitchen.",
+      "KAHRAMAN pressed the stamp. It made a brown circle.",
+      "The second stamp was by a loom. A woman in a photo was weaving.",
+      "Duru read the sign aloud. The cloth in the photo was striped.",
+      "The third stamp was in the coin room. The coins sat under glass.",
+      "KAHRAMAN did not tap the glass. The stamp was a tiny silver moon.",
+      "The fourth stamp was by a wooden cart. It had two high wheels.",
+      "Bora, visiting with his uncle, waved from another group.",
+      "The fifth stamp was by a window that looked over the town.",
+      "KAHRAMAN's map was full. Teacher Hakan checked: five stamps.",
+      "In the shop KAHRAMAN bought a postcard of the clay pot. It cost two coins.",
+      "They sat on the museum steps and ate apples from home.",
+      "Teacher Hakan asked, \"Which room was the quietest?\"",
+      "KAHRAMAN said, \"The coin room. We used whispers.\"",
+      "The postcard went to Emre with a short note: \"Five stamps today.\"",
+      "At school they stuck the maps on a board.",
+      "KAHRAMAN's brown circle sat next to Duru's striped-cloth note.",
+      "KAHRAMAN learned: a museum is a hunt for looking, not for taking things home."
+    ],
+    "sorular": [
+      {
+        "question": "How many stamps did they need?",
+        "options": [
+          "Five",
+          "Three",
+          "Six",
+          "Ten"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the first stamp?",
+        "options": [
+          "Red",
+          "Brown",
+          "Green",
+          "Blue"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the third stamp?",
+        "options": [
+          "A sun",
+          "A horse",
+          "A tiny silver moon",
+          "A tree"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many wheels did the cart have?",
+        "options": [
+          "Three",
+          "Four",
+          "One",
+          "Two"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did the postcard cost?",
+        "options": [
+          "Two coins",
+          "One coin",
+          "Five coins",
+          "Nothing"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which room was the quietest?",
+        "options": [
+          "The shop",
+          "The coin room",
+          "The steps",
+          "The cart room"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who got the postcard?",
+        "options": [
+          "Pazı",
+          "Kiraz",
+          "Emre",
+          "Lina"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where did they stick the maps?",
+        "options": [
+          "On the fridge",
+          "On the swing",
+          "On the bus",
+          "On a board"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-42",
+    "baslik": "The Boat on the Lake",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Uncle Veli took KAHRAMAN and Mum to a still lake.",
+      "The boat was small and green. There were three life jackets.",
+      "\"Jacket first,\" said Uncle Veli. KAHRAMAN's jacket was orange.",
+      "They sat. Uncle Veli held the oars. The water made a soft slap.",
+      "A duck swam near, then turned away. KAHRAMAN did not lean out.",
+      "Mum pointed to a reed bed. A white bird stood on one leg.",
+      "They stopped in the middle. The hills looked close and far at once.",
+      "KAHRAMAN dropped no crumbs. The lake stayed clean.",
+      "Uncle Veli let KAHRAMAN hold one oar for ten pulls. Slow pulls.",
+      "The boat turned a little. Mum laughed and held the side.",
+      "A fish jumped once. It made a ring on the water.",
+      "They went back to the wooden dock. A man caught the rope.",
+      "KAHRAMAN's legs felt wobbly on the land. Then they felt normal.",
+      "They drank water and ate bread on a bench.",
+      "Uncle Veli stamped a paper: \"Lake Passenger\".",
+      "The orange jacket went back in a box.",
+      "Mum took a photo of the green boat from the dock.",
+      "The photo went in the album next to Kiraz.",
+      "That night KAHRAMAN dreamed of the white bird on one leg.",
+      "KAHRAMAN learned: a lake trip is jackets, slow oars, and no leaning out."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the boat?",
+        "options": [
+          "Green",
+          "Blue",
+          "Red",
+          "White"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was KAHRAMAN's jacket?",
+        "options": [
+          "Yellow",
+          "Orange",
+          "Blue",
+          "Black"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many pulls did KAHRAMAN do?",
+        "options": [
+          "Two",
+          "Five",
+          "Ten",
+          "Twenty"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What jumped once?",
+        "options": [
+          "A frog",
+          "A dog",
+          "A ball",
+          "A fish"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did the man catch?",
+        "options": [
+          "The rope",
+          "A fish",
+          "The oar",
+          "A hat"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did the paper say?",
+        "options": [
+          "Horse Helper",
+          "Lake Passenger",
+          "Young Scientist",
+          "Lighthouse Visitor"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did they eat bread?",
+        "options": [
+          "In the boat",
+          "On the roof",
+          "On a bench",
+          "On the bus"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN dream of?",
+        "options": [
+          "A train",
+          "A swing",
+          "A fox",
+          "The white bird"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-43",
+    "baslik": "A Visit to Aunt Seda",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Aunt Seda was in the hospital for a short stay. Her arm had a white cast.",
+      "Mum said, \"We visit. We speak softly. We do not run in the hall.\"",
+      "KAHRAMAN drew a picture of Küçük the apple tree and the little fence.",
+      "They took the picture and a small book of jokes.",
+      "The hospital smell was clean. A nurse named Lale showed the room.",
+      "Aunt Seda sat up and smiled. \"My favourite visitors,\" she said.",
+      "The cast had one name already: Lina, in big letters.",
+      "KAHRAMAN wrote a small star on the cast with a fat pen. The nurse said yes.",
+      "They read two jokes. Aunt Seda laughed and then rested.",
+      "A doctor came in. He was kind. He said the arm would get better.",
+      "KAHRAMAN asked if the tree drawing could stay. Aunt Seda taped it on the wall.",
+      "Mum poured water into Aunt Seda's cup. The cup had a straw.",
+      "They stayed twenty minutes. Then they said goodbye so she could sleep.",
+      "In the lift KAHRAMAN held Mum's hand.",
+      "Outside they sat on a bench. KAHRAMAN felt quiet and okay.",
+      "Mum said, \"Visiting is a kind of help.\"",
+      "The next week Aunt Seda came home. The drawing came home too.",
+      "The cast would come off later. They did not talk about that for long.",
+      "KAHRAMAN put a second star drawing in the album.",
+      "KAHRAMAN learned: a hospital visit can be short, soft, and full of smiles."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the cast?",
+        "options": [
+          "White",
+          "Blue",
+          "Green",
+          "Red"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who was the nurse?",
+        "options": [
+          "Rana",
+          "Lale",
+          "Jale",
+          "Sibel"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Whose name was already on the cast?",
+        "options": [
+          "Emre",
+          "Duru",
+          "Lina",
+          "Bora"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN write on the cast?",
+        "options": [
+          "A horse",
+          "A boat",
+          "A train",
+          "A small star"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "How many jokes did they read?",
+        "options": [
+          "Two",
+          "One",
+          "Five",
+          "Ten"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How long did they stay?",
+        "options": [
+          "One hour",
+          "Twenty minutes",
+          "All day",
+          "Five minutes"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the cup have?",
+        "options": [
+          "A lid only",
+          "A spoon",
+          "A straw",
+          "A bell"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where did the drawing stay first?",
+        "options": [
+          "In the bag",
+          "On the bus",
+          "In the bin",
+          "On the wall"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-44",
+    "baslik": "The Shoe Shop Mix-Up",
+    "seviye": 1,
+    "uzun": true,
+    "sayfalar": [
+      "KAHRAMAN needed new school shoes. The old ones were tight.",
+      "The shoe shop smelled like new boxes. A helper named Sibel smiled.",
+      "She measured KAHRAMAN's feet. The left foot was a little longer.",
+      "Sibel brought a brown pair. They looked right but felt small.",
+      "\"We try the next size,\" she said. The next size was better.",
+      "Then she brought a black pair by mistake. Those were for a bigger child.",
+      "KAHRAMAN walked ten steps. The black shoes slipped at the heel.",
+      "\"These are not mine,\" KAHRAMAN said. Sibel laughed kindly.",
+      "\"Thank you for telling me,\" she said. \"A good fit is not a pretty box only.\"",
+      "They went back to the brown pair in the better size.",
+      "KAHRAMAN tied the laces twice. The bow sat flat.",
+      "Mum paid. The box was yellow. Sibel put a spare lace inside.",
+      "On the way home KAHRAMAN wore the new shoes. They did not rub.",
+      "The old tight shoes went to the cloth bag for cousins.",
+      "At school Duru said, \"Your shoes look ready.\"",
+      "KAHRAMAN told the mix-up story. Duru said she once tried two left shoes.",
+      "They both laughed. Two left shoes cannot walk far.",
+      "KAHRAMAN drew the yellow box in the notebook.",
+      "Dad checked the spare lace and put it in the hall drawer.",
+      "KAHRAMAN learned: say when a shoe slips, even if the box looks nice."
+    ],
+    "sorular": [
+      {
+        "question": "Who measured the feet?",
+        "options": [
+          "Sibel",
+          "Mum",
+          "Dad",
+          "Duru"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which foot was a little longer?",
+        "options": [
+          "The right foot",
+          "The left foot",
+          "Both same",
+          "Neither"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many steps in the black shoes?",
+        "options": [
+          "Two",
+          "Five",
+          "Ten",
+          "Twenty"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What colour was the box?",
+        "options": [
+          "Brown",
+          "Black",
+          "Red",
+          "Yellow"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did Sibel put inside?",
+        "options": [
+          "A spare lace",
+          "A stamp",
+          "A toy",
+          "A sock"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did the old shoes go?",
+        "options": [
+          "The bin",
+          "The cloth bag",
+          "The river",
+          "The museum"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What had Duru tried once?",
+        "options": [
+          "Two hats",
+          "Two bags",
+          "Two left shoes",
+          "Two books"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where did the spare lace go?",
+        "options": [
+          "In the fridge",
+          "In the boat",
+          "On the roof",
+          "In the hall drawer"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-45",
+    "baslik": "The Castle Hill Walk",
+    "seviye": 3,
+    "uzun": true,
+    "sayfalar": [
+      "On a clear day Dad and KAHRAMAN walked to the old castle hill.",
+      "The walls were broken and low. No one lived there now.",
+      "A sign said, \"Stay on the path. Do not climb the loose stones.\"",
+      "KAHRAMAN stayed on the path. The stones looked like sleeping animals.",
+      "They counted twelve steps up the last slope.",
+      "At the top the wind was strong. KAHRAMAN held the hat.",
+      "Dad pointed to their town. The hospital was a white block. The lake was a line.",
+      "They sat behind a wall and ate bread and olives.",
+      "A lizard ran over a warm stone and was gone.",
+      "KAHRAMAN did not chase it. The lizard needed the sun.",
+      "They found a smooth black stone. KAHRAMAN put it with the river stones.",
+      "A guide named Erol (the same park helper) waved from the gate.",
+      "\"The castle is a story in stone,\" he said. \"We keep it by walking softly.\"",
+      "KAHRAMAN asked who lived there. Erol said, \"People long ago. We do not know all names.\"",
+      "On the way down they picked up a bottle someone had left.",
+      "The bottle went into a bin at the car park.",
+      "Dad took a photo of the low wall and the sky.",
+      "The photo went in the album with the words \"Castle hill, twelve steps\".",
+      "That night KAHRAMAN told Mum about the lizard and the hat in the wind.",
+      "KAHRAMAN learned: old places stay if we use the path and carry our rubbish down."
+    ],
+    "sorular": [
+      {
+        "question": "What did the sign say to stay on?",
+        "options": [
+          "The path",
+          "The wall",
+          "The lake",
+          "The roof"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many steps was the last slope?",
+        "options": [
+          "Ten",
+          "Twelve",
+          "Five",
+          "Twenty"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN hold at the top?",
+        "options": [
+          "The map",
+          "The oar",
+          "The hat",
+          "The ticket"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What ran over a warm stone?",
+        "options": [
+          "A cat",
+          "A dog",
+          "A bird",
+          "A lizard"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour was the new stone?",
+        "options": [
+          "Black",
+          "White",
+          "Grey only",
+          "Red"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who waved from the gate?",
+        "options": [
+          "Umut",
+          "Erol",
+          "Sami",
+          "Veli"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did they pick up on the way down?",
+        "options": [
+          "A shoe",
+          "A book",
+          "A bottle",
+          "A bell"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they write in the album?",
+        "options": [
+          "Emre, six windows",
+          "Küçük, first week",
+          "Lake Passenger",
+          "Castle hill, twelve steps"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   }
 ]
