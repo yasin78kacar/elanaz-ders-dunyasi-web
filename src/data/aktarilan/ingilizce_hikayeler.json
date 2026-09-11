@@ -7419,5 +7419,555 @@
         "correctAnswer": 3
       }
     ]
+  },
+  {
+    "id": "uzun-en-36",
+    "baslik": "The Broken Swing",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "In the yard one chain was open. The swing hung on the other chain.",
+      "KAHRAMAN's friend Duru sat on the grass. She looked sad.",
+      "\"We cannot swing,\" said Duru. \"The park man is away today.\"",
+      "Dad came out. He looked at the chain. A ring had come loose.",
+      "\"We can fix it if we are careful,\" he said. \"No swinging until it is shut.\"",
+      "Dad got a spanner from the shed. The spanner was silver.",
+      "KAHRAMAN held the seat still. Duru held the loose chain.",
+      "Dad put the ring back and turned the spanner. Click.",
+      "He pulled the chain hard. It stayed shut.",
+      "\"Now we test with me first,\" said Dad. He sat. The swing held.",
+      "Duru went next. She went three times, then stopped for KAHRAMAN.",
+      "They took turns. No one pushed too high.",
+      "Mum brought water. They sat under Küçük the apple tree.",
+      "Duru said, \"Thank you for calling your dad. I was going to pull it myself.\"",
+      "Dad said, \"Pulling alone can hurt. Asking is strong.\"",
+      "They drew a sign: \"If it breaks, tell a grown-up.\"",
+      "The sign hung on the fence with a peg.",
+      "That evening Duru waved from her balcony. KAHRAMAN waved back.",
+      "The swing moved a little in the wind, both chains even.",
+      "KAHRAMAN learned: a broken toy is a job for tools and a grown-up, not a secret pull."
+    ],
+    "sorular": [
+      {
+        "question": "What was wrong with the swing?",
+        "options": [
+          "One chain was open",
+          "The seat was gone",
+          "It was too high",
+          "It was wet"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who sat on the grass?",
+        "options": [
+          "Melis",
+          "Duru",
+          "Bora",
+          "Okan"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What tool did Dad get?",
+        "options": [
+          "A hammer",
+          "A brush",
+          "A spanner",
+          "A key"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What colour was the spanner?",
+        "options": [
+          "Gold",
+          "Blue",
+          "Red",
+          "Silver"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who sat on the swing first after the fix?",
+        "options": [
+          "Dad",
+          "Duru",
+          "Mum",
+          "KAHRAMAN"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many times did Duru go first?",
+        "options": [
+          "One",
+          "Three",
+          "Five",
+          "Ten"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did they sit and drink?",
+        "options": [
+          "In the shop",
+          "On the roof",
+          "Under Küçük",
+          "On the bus"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the sign say to tell?",
+        "options": [
+          "A bird",
+          "A shop",
+          "A boat",
+          "A grown-up"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-37",
+    "baslik": "The Pen Pal Letter",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Teacher Rana gave KAHRAMAN a letter from a child in another city.",
+      "The child's name was Emre. He liked trains and yellow dogs.",
+      "KAHRAMAN read the letter twice. Emre asked, \"What is your street like?\"",
+      "KAHRAMAN wrote back at the kitchen table. The paper was lined.",
+      "\"Our street has a horse named Pazı at the end,\" KAHRAMAN wrote.",
+      "Mum helped with the address. The stamp was a red tulip.",
+      "They walked to the post box. KAHRAMAN pushed the letter in.",
+      "Two weeks later a second letter came. Emre had drawn a train.",
+      "The train had six windows. A yellow dog sat in the last one.",
+      "Emre wrote, \"I have never seen a horse on my street. Only buses.\"",
+      "KAHRAMAN sent a photo of the swing and the sign.",
+      "Teacher Rana said, \"You may send one small pressed flower too.\"",
+      "KAHRAMAN chose a daisy from the hill drawing, not a real one. It was paper.",
+      "Emre's third letter said, \"The paper daisy is on my wall.\"",
+      "KAHRAMAN felt the two cities get a little closer.",
+      "They planned to send a short voice note later, with Mum's phone.",
+      "Dad said, \"Letters are slow, but they stay in a box.\"",
+      "KAHRAMAN put Emre's train drawing in the album.",
+      "On the empty-no-more page they wrote \"Emre, six windows\".",
+      "KAHRAMAN learned: a friend can live far away and still share a street in words."
+    ],
+    "sorular": [
+      {
+        "question": "What was the pen pal's name?",
+        "options": [
+          "Emre",
+          "Bora",
+          "Tuna",
+          "Koray"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Emre like?",
+        "options": [
+          "Cats only",
+          "Trains and yellow dogs",
+          "Boats only",
+          "Kites only"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was on the stamp?",
+        "options": [
+          "A horse",
+          "A bird",
+          "A red tulip",
+          "A tree"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many windows did the train have?",
+        "options": [
+          "Two",
+          "Four",
+          "Ten",
+          "Six"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What sat in the last window?",
+        "options": [
+          "A yellow dog",
+          "A cat",
+          "A bird",
+          "A child"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What flower did KAHRAMAN send?",
+        "options": [
+          "A real rose",
+          "The paper daisy",
+          "Mint",
+          "Dill"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did Emre put the daisy?",
+        "options": [
+          "In a book",
+          "In the bin",
+          "On my wall",
+          "On a cake"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they write in the album?",
+        "options": [
+          "Küçük, first week",
+          "Kitchen Dance",
+          "Horse Helper",
+          "Emre, six windows"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-38",
+    "baslik": "The Last Puppet Ticket",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "On Sunday there was a puppet show in the town hall.",
+      "Mum had one ticket left. It was in her bag, a little bent.",
+      "KAHRAMAN and Duru both wanted to go. They stood at the door.",
+      "The man said, \"Only one seat is left in the front row.\"",
+      "Duru looked at her shoes. KAHRAMAN felt the ticket in Mum's hand.",
+      "\"Duru can go,\" said KAHRAMAN. \"I can wait for the next show.\"",
+      "Duru shook her head. \"We can share the next one. You go today.\"",
+      "Mum smiled. \"There is a late show at four. We can get one more ticket.\"",
+      "The man found a second ticket for the late show. It was green.",
+      "The first ticket was yellow. Duru took the yellow one.",
+      "KAHRAMAN took the green one. They high-fived.",
+      "Duru watched the first show. The puppet was a fox in a hat.",
+      "After the show she told KAHRAMAN the funny line. They both laughed.",
+      "At four KAHRAMAN sat in the second row. The fox puppet waved.",
+      "KAHRAMAN waved back. The hall was cool and dark.",
+      "Mum bought two small waters. They did not buy sweets.",
+      "Outside they met Duru's dad. He said, \"Sharing the day was clever.\"",
+      "They drew the fox hat in two notebooks, one each.",
+      "The bent yellow ticket went into the album as a thin memory.",
+      "KAHRAMAN learned: one ticket can become two plans if you talk and wait."
+    ],
+    "sorular": [
+      {
+        "question": "Where was the puppet show?",
+        "options": [
+          "In the town hall",
+          "At school",
+          "In the park",
+          "On the bus"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the late ticket?",
+        "options": [
+          "Yellow",
+          "Green",
+          "Red",
+          "Blue"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was Duru's ticket?",
+        "options": [
+          "Green",
+          "Black",
+          "Yellow",
+          "White"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was the puppet?",
+        "options": [
+          "A bear",
+          "A bird",
+          "A fish",
+          "A fox in a hat"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What time was the late show?",
+        "options": [
+          "Four",
+          "Two",
+          "Six",
+          "Eight"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did KAHRAMAN sit?",
+        "options": [
+          "In the front row",
+          "In the second row",
+          "On the floor",
+          "Outside"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Mum buy?",
+        "options": [
+          "Sweets",
+          "Cake",
+          "Two small waters",
+          "Tickets only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What went into the album?",
+        "options": [
+          "The green ticket",
+          "A photo only",
+          "A stamp",
+          "The bent yellow ticket"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-39",
+    "baslik": "The Cardboard Clubhouse",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "A shop gave Dad a big cardboard box. It had held a fridge.",
+      "KAHRAMAN and Duru wanted a clubhouse. The box was tall enough to sit in.",
+      "They cut a window with Dad watching. The scissors were only for Dad.",
+      "Duru painted the outside light green. KAHRAMAN painted a yellow door.",
+      "They did not cut the door. They just painted it and used the open side.",
+      "Inside they put a cushion and two books.",
+      "A sign said \"Club of Quiet Games\". No shouting inside.",
+      "Emre's train drawing sat on the wall of the box with tape.",
+      "They played a card game. Duru won once. KAHRAMAN won once.",
+      "Rain started. The box stayed under the balcony, so it did not get wet.",
+      "Mum brought a blanket. The clubhouse felt like a small train car.",
+      "Bora from the village was visiting town. He fit if he sat sideways.",
+      "They let him in. He taught a clapping game with four beats.",
+      "The box began to bend at one corner. Dad put a stick under it.",
+      "\"Cardboard is strong for a week, not for a year,\" Dad said.",
+      "They took a photo before the box got tired.",
+      "On Sunday they flattened the box for the paper bin. It was recycling day.",
+      "Duru kept the yellow-door painting on a smaller card.",
+      "KAHRAMAN wrote to Emre: \"Our clubhouse became paper again.\"",
+      "KAHRAMAN learned: a club can move from a box to a promise to play again."
+    ],
+    "sorular": [
+      {
+        "question": "What had the box held?",
+        "options": [
+          "A fridge",
+          "A bike",
+          "A bed",
+          "A lamp"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who used the scissors?",
+        "options": [
+          "KAHRAMAN",
+          "Dad",
+          "Duru",
+          "Bora"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was the painted door?",
+        "options": [
+          "Green",
+          "Red",
+          "Yellow",
+          "Blue"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the sign say?",
+        "options": [
+          "No friends",
+          "Loud Club",
+          "Horse Club",
+          "Club of Quiet Games"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Where did the box stay in the rain?",
+        "options": [
+          "Under the balcony",
+          "In the street",
+          "On the hill",
+          "In the river"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many beats was Bora's game?",
+        "options": [
+          "Two",
+          "Four",
+          "Six",
+          "Eight"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Dad put under the corner?",
+        "options": [
+          "A book",
+          "A stone only",
+          "A stick",
+          "A shoe"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What day did they recycle the box?",
+        "options": [
+          "Monday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-40",
+    "baslik": "Two Voices on the Stairs",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "The apartment stairs were cool. KAHRAMAN and Ipek sat on step five.",
+      "Ipek lived on the floor above. She had a soft voice.",
+      "They sang a counting song. KAHRAMAN sang one, Ipek sang two.",
+      "A neighbour opened a door and smiled. \"Not too loud after eight,\" she said.",
+      "It was only five. They kept the song small.",
+      "Ipek taught a clapping pattern: clap, tap, clap.",
+      "KAHRAMAN mixed up the tap. They laughed and tried again.",
+      "Dad came down with the shopping. He sat on step four and listened.",
+      "\"Two voices make a kind of band,\" he said.",
+      "They made a paper stage on the landing. It was only a folded sheet.",
+      "Ipek's little brother sat on the top step. He clapped off the beat.",
+      "That was fine. They let him hold the paper stage.",
+      "Mum recorded ten seconds on the phone for Emre.",
+      "The song ended. The stairs were quiet again, but not empty.",
+      "Ipek said, \"Tomorrow we can add a third voice if Duru comes.\"",
+      "KAHRAMAN nodded. Three voices would still be soft.",
+      "They put the paper stage in Ipek's bag so it would not blow away.",
+      "At dinner KAHRAMAN hummed the counting song. Mum hummed the second line.",
+      "The house felt like the stairs: shared and close.",
+      "KAHRAMAN learned: a band can be two friends and a step, with no drum at all."
+    ],
+    "sorular": [
+      {
+        "question": "Which step did they sit on first?",
+        "options": [
+          "Step five",
+          "Step one",
+          "Step ten",
+          "Step two"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who lived on the floor above?",
+        "options": [
+          "Duru",
+          "Ipek",
+          "Emre",
+          "Bora"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was Ipek's clapping pattern?",
+        "options": [
+          "Stamp, stamp",
+          "Snap only",
+          "Clap, tap, clap",
+          "Wave, wave"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which step did Dad sit on?",
+        "options": [
+          "Step five",
+          "Step one",
+          "Step eight",
+          "Step four"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "How many seconds did Mum record?",
+        "options": [
+          "Ten",
+          "Five",
+          "Twenty",
+          "Sixty"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who might add a third voice?",
+        "options": [
+          "Pazı",
+          "Duru",
+          "Kiraz",
+          "Cıvıl"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did they put in Ipek's bag?",
+        "options": [
+          "A ticket",
+          "A stamp",
+          "The paper stage",
+          "A carrot"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Mum hum?",
+        "options": [
+          "A radio song",
+          "A storm song",
+          "A bus song",
+          "The second line"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   }
 ]
