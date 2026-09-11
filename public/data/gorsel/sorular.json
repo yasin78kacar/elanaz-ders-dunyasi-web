@@ -1,0 +1,1264 @@
+{
+  "questions": [
+    {
+      "id": "gv_001",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Ana renkler hangileridir?",
+      "options": [
+        "Kırmızı, sarı ve mavi",
+        "Yeşil, turuncu ve mor",
+        "Siyah, beyaz ve gri",
+        "Pembe, kahverengi ve altın"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_002",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Kırmızı ile sarı karışınca hangi renk çıkar?",
+      "options": [
+        "Yeşil",
+        "Turuncu",
+        "Mor",
+        "Gri"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_003",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Sarı ile mavi karışınca hangi renk çıkar?",
+      "options": [
+        "Turuncu",
+        "Mor",
+        "Yeşil",
+        "Pembe"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_004",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Kırmızı ile mavi karışınca hangi renk çıkar?",
+      "options": [
+        "Yeşil",
+        "Turuncu",
+        "Sarı",
+        "Mor"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_005",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Kırmızıya beyaz katınca hangi renk oluşur?",
+      "options": [
+        "Pembe",
+        "Turuncu",
+        "Lacivert",
+        "Kahverengi"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_006",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Siyaha beyaz katınca hangi renk oluşur?",
+      "options": [
+        "Sarı",
+        "Gri",
+        "Yeşil",
+        "Turuncu"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_007",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Ece güneşi boyamak istiyor. Hangi rengi seçmesi daha uygundur?",
+      "options": [
+        "Siyah",
+        "Gri",
+        "Sarı",
+        "Lacivert"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_008",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Ali çimeni boyamak istiyor. Hangi rengi seçmesi daha uygundur?",
+      "options": [
+        "Mor",
+        "Turuncu",
+        "Gri",
+        "Yeşil"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_009",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Hangisi sıcak renktir?",
+      "options": [
+        "Kırmızı",
+        "Mavi",
+        "Yeşil",
+        "Lacivert"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_010",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Hangisi soğuk renktir?",
+      "options": [
+        "Kırmızı",
+        "Mavi",
+        "Turuncu",
+        "Sarı"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_011",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Turuncu renk hangi iki rengin karışımıdır?",
+      "options": [
+        "Sarı ve mavi",
+        "Kırmızı ve mavi",
+        "Kırmızı ve sarı",
+        "Siyah ve beyaz"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_012",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Yeşil renk hangi iki rengin karışımıdır?",
+      "options": [
+        "Kırmızı ve sarı",
+        "Kırmızı ve mavi",
+        "Siyah ve beyaz",
+        "Sarı ve mavi"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_013",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Gökyüzünü gündüz boyarken hangisi daha uygundur?",
+      "options": [
+        "Açık mavi",
+        "Siyah",
+        "Kahverengi",
+        "Turuncu"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_014",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Kar tanesini boyamak için hangisi daha uygundur?",
+      "options": [
+        "Kırmızı",
+        "Beyaz",
+        "Yeşil",
+        "Mor"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_015",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Sulu boya ile resim yaparken hangisi kullanılır?",
+      "options": [
+        "Silgi",
+        "Cetvel",
+        "Fırça",
+        "Makas"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_016",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Yanlış çizilen bir çizgiyi silmek için ne kullanılır?",
+      "options": [
+        "Silgi",
+        "Fırça",
+        "Cetvel",
+        "Makas"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_017",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Düz bir çizgi çekmek için hangisi yardımcı olur?",
+      "options": [
+        "Silgi",
+        "Cetvel",
+        "Fırça",
+        "Yapıştırıcı"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_018",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Kalemin ucunu açmak için ne kullanılır?",
+      "options": [
+        "Silgi",
+        "Cetvel",
+        "Fırça",
+        "Kalemtıraş"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_019",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Sulu boyayı inceltmek için hangisi gerekir?",
+      "options": [
+        "Su",
+        "Kum",
+        "Tuz",
+        "Un"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_020",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Kutu içinden çıkarıp kâğıda süren kuru boya hangisidir?",
+      "options": [
+        "Fırça",
+        "Kuru boya kalemi",
+        "Makas",
+        "Cetvel"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_021",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Kalın ve parlak iz bırakan kalem hangisidir?",
+      "options": [
+        "Silgi",
+        "Cetvel",
+        "Keçeli kalem",
+        "Kalemtıraş"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_022",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Boyaları karıştırmak için kullanılan düz tabak hangisidir?",
+      "options": [
+        "Cetvel",
+        "Silgi",
+        "Makas",
+        "Palet"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_023",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Fırçayı kullandıktan sonra ne yapmak gerekir?",
+      "options": [
+        "Yıkamak",
+        "Kırmak",
+        "Yemek",
+        "Saklamak ıslak"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_024",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "İnce çizgi için hangisi daha uygundur?",
+      "options": [
+        "Geniş fırça",
+        "Ucu sivri kalem",
+        "Sünger",
+        "Parmak"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_025",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Pastel boya nasıl iz bırakır?",
+      "options": [
+        "Sulu ve akan",
+        "Görünmez",
+        "Yumuşak ve tozlu",
+        "Sadece nokta"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_026",
+      "subject": "Görsel Sanatlar",
+      "theme": "Çizim Araçları",
+      "question": "Resmi deftere tutturmak için hangisi kullanılır?",
+      "options": [
+        "Fırça",
+        "Silgi",
+        "Palet",
+        "Bant"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_027",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Üç kenarı ve üç köşesi olan şekil hangisidir?",
+      "options": [
+        "Üçgen",
+        "Kare",
+        "Daire",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_028",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Dört kenarı eşit olan şekil hangisidir?",
+      "options": [
+        "Üçgen",
+        "Kare",
+        "Daire",
+        "Yıldız"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_029",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Köşesi olmayan yuvarlak şekil hangisidir?",
+      "options": [
+        "Kare",
+        "Üçgen",
+        "Daire",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_030",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "İki kenarı uzun, iki kenarı kısa olan şekil hangisidir?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Kare",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_031",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Cetvelle çekilen çizgi nasıl olur?",
+      "options": [
+        "Düz",
+        "Eğri",
+        "Dalgalı",
+        "Kırık"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_032",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Yılan gibi kıvrılan çizgiye ne denir?",
+      "options": [
+        "Düz çizgi",
+        "Eğri çizgi",
+        "Nokta",
+        "Kare"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_033",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "İnce bir kalemle kâğıda dokunup kaldırmak ne yapar?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Nokta",
+        "Cetvel"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_034",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Zigzag çizgi nasıl gider?",
+      "options": [
+        "Hep düz",
+        "Sadece daire",
+        "Hiç görünmez",
+        "İner çıkar"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_035",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Güneş resmi için hangi şekil daha uygundur?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Kare",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_036",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Ev çatısı çizmek için hangi şekil sık kullanılır?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Yıldız",
+        "Kalp"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_037",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Pencere çizmek için hangi şekil daha uygundur?",
+      "options": [
+        "Daire",
+        "Yıldız",
+        "Kare",
+        "Kalp"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_038",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Yol çizmek için hangi çizgi daha uygundur?",
+      "options": [
+        "Sadece nokta",
+        "Sadece daire",
+        "Sadece yıldız",
+        "Düz çizgi"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_039",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Kâğıdı kesmek için hangisi kullanılır?",
+      "options": [
+        "Makas",
+        "Fırça",
+        "Silgi",
+        "Palet"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_040",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "İki kâğıdı birbirine tutturmak için hangisi kullanılır?",
+      "options": [
+        "Silgi",
+        "Yapıştırıcı",
+        "Kalemtıraş",
+        "Cetvel"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_041",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Yoğurup şekil vermek için hangisi kullanılır?",
+      "options": [
+        "Su",
+        "Bant",
+        "Oyun hamuru",
+        "Cetvel"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_042",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Resim yapmak için düz ve açık yüzey hangisidir?",
+      "options": [
+        "Cam bardak",
+        "Kalemtıraş",
+        "Silgi",
+        "Kâğıt"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_043",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Kalın ve sert kâğıda ne denir?",
+      "options": [
+        "Karton",
+        "İp",
+        "Kum",
+        "Sabun"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_044",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Makası taşırken nasıl tutmak daha güvenlidir?",
+      "options": [
+        "Ucu açık koşarak",
+        "Ucu kapalı",
+        "Ağızda",
+        "Ayakta çevirerek"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_045",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Yapıştırıcı ile ne yapılmaz?",
+      "options": [
+        "Kâğıt yapıştırmak",
+        "Kolaj yapmak",
+        "Yemek",
+        "Süs tutturmak"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_046",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Sulu boya çalışırken kâğıdın altına ne konur?",
+      "options": [
+        "Yastık",
+        "Kitap kapağı açık",
+        "Halı düz",
+        "Gazete veya örtü"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_047",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "İp ve boncuk ile ne yapılabilir?",
+      "options": [
+        "Kolye",
+        "Sulu boya resmi",
+        "Kil heykel",
+        "Origami kuş"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_048",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Delik açmak için hangisi kullanılır?",
+      "options": [
+        "Fırça",
+        "Delgeç",
+        "Palet",
+        "Silgi"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_049",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Kumaş parçalarını birleştiren iş hangisidir?",
+      "options": [
+        "Silmek",
+        "Boya karıştırmak",
+        "Dikmek",
+        "Cetvel çekmek"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_050",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Malzemeleri",
+      "question": "Artan kâğıt parçalarını nereye atmak gerekir?",
+      "options": [
+        "Sıraya",
+        "Kitabın arasına",
+        "Yere",
+        "Çöp kutusuna"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_051",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Kâğıda kalem veya boya ile yapılan işe ne denir?",
+      "options": [
+        "Resim",
+        "Heykel",
+        "Origami",
+        "Kolaj"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_052",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Kili yoğurup şekil vermeye ne denir?",
+      "options": [
+        "Resim",
+        "Heykel",
+        "Origami",
+        "Kolaj"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_053",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Kâğıdı katlayarak şekil yapmaya ne denir?",
+      "options": [
+        "Resim",
+        "Heykel",
+        "Origami",
+        "Kolaj"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_054",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Kesilen parçaları yapıştırarak resim yapmaya ne denir?",
+      "options": [
+        "Resim",
+        "Heykel",
+        "Origami",
+        "Kolaj"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_055",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Masadaki elma ve vazoyu bakarak çizmek neye örnektir?",
+      "options": [
+        "Gördüğünü resmetmek",
+        "Kâğıt katlamak",
+        "Kil yoğurmak",
+        "İp dizmek"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_056",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Tahtadan oyulan küçük figüre ne denir?",
+      "options": [
+        "Sulu boya resmi",
+        "Ahşap oyuncak",
+        "Kâğıt uçak",
+        "Kolaj pano"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_057",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Parmakla boya sürerek yapılan resme ne denir?",
+      "options": [
+        "Origami",
+        "Heykel",
+        "Parmak boyası",
+        "Kolaj"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_058",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Kukla hangi sanat işine örnektir?",
+      "options": [
+        "Sulu boya resmi",
+        "Origami kuşu",
+        "Kolaj panosu",
+        "El sanatı"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_059",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Duvara asılan büyük resme sergide ne denir?",
+      "options": [
+        "Tablo",
+        "Küçük not",
+        "Defter sayfası",
+        "Kartpostal"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_060",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Kâğıttan kesilip katlanan uçak hangi işe örnektir?",
+      "options": [
+        "Sulu boya",
+        "Kâğıt katlama",
+        "Heykel",
+        "Şarkı"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_061",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Maske yapmak için hangisi kullanılabilir?",
+      "options": [
+        "Su yalnızca",
+        "Cetvel yalnızca",
+        "Karton",
+        "Silgi yalnızca"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_062",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sanat Türleri",
+      "question": "Bir hikâyeyi resimlerle anlatan kitaba ne denir?",
+      "options": [
+        "Sadece defter",
+        "Sadece cetvel",
+        "Sadece silgi",
+        "Resimli kitap"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_063",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Aynı şeklin yan yana tekrar etmesine ne denir?",
+      "options": [
+        "Desen",
+        "Tek şekil",
+        "Boş kâğıt",
+        "Tek nokta"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_064",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Kırmızı-sarı-kırmızı-sarı dizisi neye örnektir?",
+      "options": [
+        "Tek renk",
+        "Renk tekrarı",
+        "Karışık leke",
+        "Sadece siyah"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_065",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Daire-kare-daire-kare dizisinde sıradaki hangisidir?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Yıldız",
+        "Kalp"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_066",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Kumaştaki çiçeklerin yan yana gelmesi neye örnektir?",
+      "options": [
+        "Tek çiçek",
+        "Boş kumaş",
+        "Desen",
+        "Sadece çizgi"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_067",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Nokta nokta nokta dizisi hangi çizgiye benzer?",
+      "options": [
+        "Sadece kare",
+        "Sadece üçgen",
+        "Sadece ev",
+        "Noktalı çizgi"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_068",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Desen yapmak için hangisi gerekir?",
+      "options": [
+        "Tekrar",
+        "Tek bir leke",
+        "Boş bırakmak",
+        "Sadece silmek"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_069",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Elif yaprak-çiçek-yaprak-çiçek dizisi yaptı. Sırada ne vardır?",
+      "options": [
+        "Çiçek",
+        "Yaprak",
+        "Yıldız",
+        "Kalp"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_070",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Sayfanın kenarındaki tekrarlı süs ne işe yarar?",
+      "options": [
+        "Ortayı boş bırakır",
+        "Rengi siler",
+        "Kenarı süsler",
+        "Kâğıdı yırtar"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_071",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Aynı çizgiyi ritmle tekrar etmek ne oluşturur?",
+      "options": [
+        "Tek çizgi",
+        "Boş sayfa",
+        "Tek nokta",
+        "Desen"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_072",
+      "subject": "Görsel Sanatlar",
+      "theme": "Desen",
+      "question": "Mavi-yeşil-mavi-yeşil dizisinde üçüncü renk hangisidir?",
+      "options": [
+        "Mavi",
+        "Kırmızı",
+        "Sarı",
+        "Turuncu"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_073",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Arkadaşının resmi beğenilmezse ne yapmak gerekir?",
+      "options": [
+        "Yırtmak",
+        "Nazikçe konuşmak",
+        "Üstüne çizmek",
+        "Gizlemek"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_074",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Sınıfta makası kim kullanmalıdır?",
+      "options": [
+        "Koşan",
+        "İten",
+        "Dikkatli olan",
+        "Bağıran"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_075",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Boya bittiyse ne yapmak daha doğrudur?",
+      "options": [
+        "Arkadaşınınkini gizlemek",
+        "Kırmak",
+        "Yere dökmek",
+        "Öğretmenden istemek"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_076",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Bitmiş resmi nereye asmak uygundur?",
+      "options": [
+        "Sınıf panosuna",
+        "Yere",
+        "Çöpün içine açık",
+        "Pencere dışına ıslak"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_077",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Sıradaki malzemeyi beklerken ne yapılır?",
+      "options": [
+        "Iter",
+        "Sırasını bekler",
+        "Bağırır",
+        "Kapar"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_078",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Fırça ile boya nereye sürülür?",
+      "options": [
+        "Kâğıda",
+        "Yüze",
+        "Saça",
+        "Giysiye"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_079",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Masanın üstü kirlendiyse ne yapılır?",
+      "options": [
+        "Bırakılır",
+        "Üstüne oturulur",
+        "Silinir",
+        "Gizlenir"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_080",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Başkasının resmini izinsiz almak nasıl bir davranıştır?",
+      "options": [
+        "Güzel",
+        "Zorunlu",
+        "Ödül",
+        "Yanlış"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_081",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "Sınıfta yüksek sesle bağırarak boyamak hangisine uymaz?",
+      "options": [
+        "Sakin çalışma",
+        "Paylaşmaya",
+        "Sıraya",
+        "Temizliğe"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_082",
+      "subject": "Görsel Sanatlar",
+      "theme": "Sınıfta Sanat",
+      "question": "İş bitince malzemeler nereye konur?",
+      "options": [
+        "Çantanın dışına açık",
+        "Yerine",
+        "Yere saçılarak",
+        "Pencereye"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_083",
+      "subject": "Görsel Sanatlar",
+      "theme": "Gözlem",
+      "question": "Ağacı çizmeden önce ne yapmak gerekir?",
+      "options": [
+        "Hemen boyamak",
+        "Kâğıdı yırtmak",
+        "İyi bakmak",
+        "Kalemi kırmak"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_084",
+      "subject": "Görsel Sanatlar",
+      "theme": "Gözlem",
+      "question": "Can elmayı masaya koyup çiziyor. Bu neye örnektir?",
+      "options": [
+        "Ezbere çizmek",
+        "Gözü kapalı çizmek",
+        "Sadece yazmak",
+        "Bakarak çizmek"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_085",
+      "subject": "Görsel Sanatlar",
+      "theme": "Gözlem",
+      "question": "Yaprak damarlarını görmek için hangisi yapılır?",
+      "options": [
+        "Yakından bakılır",
+        "Göz kapatılır",
+        "Koşulur",
+        "Bağırılır"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_086",
+      "subject": "Görsel Sanatlar",
+      "theme": "Gözlem",
+      "question": "Bulut resmi için gökyüzüne bakmak ne işe yarar?",
+      "options": [
+        "Rengi silmeye",
+        "Şekil seçmeye",
+        "Kâğıdı kesmeye",
+        "Fırçayı kırmaya"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_087",
+      "subject": "Görsel Sanatlar",
+      "theme": "Gözlem",
+      "question": "Kedi çizmek için hangisine bakmak daha iyidir?",
+      "options": [
+        "Sadece kapıya",
+        "Sadece cetvele",
+        "Kedinin fotoğrafına",
+        "Sadece silgiye"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_088",
+      "subject": "Görsel Sanatlar",
+      "theme": "Gözlem",
+      "question": "Gölgeyi fark etmek için hangisine bakılır?",
+      "options": [
+        "Sadece masaya alt",
+        "Sadece silgiye",
+        "Sadece çantaya",
+        "Işığın yönüne"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_089",
+      "subject": "Görsel Sanatlar",
+      "theme": "Gözlem",
+      "question": "Çiçeğin yaprak sayısı nasıl öğrenilir?",
+      "options": [
+        "Sayarak bakılır",
+        "Ezbere söylenir",
+        "Göz kapatılır",
+        "Kâğıt yırtılır"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_090",
+      "subject": "Görsel Sanatlar",
+      "theme": "Gözlem",
+      "question": "Pencereden bakıp evleri çizmek neye örnektir?",
+      "options": [
+        "Ezbere resim",
+        "Gözlem resmi",
+        "Kapalı göz resmi",
+        "Sadece yazı"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    }
+  ]
+}
