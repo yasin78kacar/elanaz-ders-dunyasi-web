@@ -5769,5 +5769,555 @@
         "correctAnswer": 3
       }
     ]
+  },
+  {
+    "id": "uzun-en-21",
+    "baslik": "Grandpa's Old Radio",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Grandpa's radio sat on a wooden shelf. It was brown and heavy.",
+      "One afternoon the radio was quiet. Grandpa turned the knob. Nothing.",
+      "\"The sound is gone,\" he said. He looked a little sad.",
+      "KAHRAMAN asked, \"May we look inside?\" Grandpa nodded and got a small screwdriver.",
+      "They opened the back. A lot of dust sat on the parts.",
+      "KAHRAMAN blew softly. Dust flew like grey snow.",
+      "Grandpa checked a wire. The wire was loose.",
+      "He fixed the wire with careful hands. KAHRAMAN held the screwdriver.",
+      "They closed the back. Grandpa plugged it in.",
+      "A song came out! It was slow and warm. Grandpa smiled.",
+      "\"This song is from my young days,\" he said. \"We danced in the kitchen.\"",
+      "KAHRAMAN clapped. Grandpa showed two dance steps. Step, step.",
+      "Mum came in with tea. She danced one small circle too.",
+      "The radio said the weather: \"Sunny tomorrow.\"",
+      "Grandpa wrote the song name on a card: \"Kitchen Dance\".",
+      "He taped the card to the radio so they would not forget.",
+      "KAHRAMAN drew the brown radio in a notebook.",
+      "That night they listened again, but not too loud.",
+      "Grandpa said, \"Old things can work if we care for them.\"",
+      "KAHRAMAN learned: a quiet radio may only need a kind look and a loose wire."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the radio?",
+        "options": [
+          "Brown",
+          "Black",
+          "White",
+          "Red"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What tool did Grandpa get?",
+        "options": [
+          "A hammer",
+          "A small screwdriver",
+          "A spoon",
+          "A key"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was wrong inside?",
+        "options": [
+          "It had no plug",
+          "It was wet",
+          "The wire was loose",
+          "It was empty"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What came out after the fix?",
+        "options": [
+          "A song",
+          "A bird",
+          "A bell",
+          "A shout"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did they dance long ago?",
+        "options": [
+          "In the shop",
+          "In the kitchen",
+          "At school",
+          "On the bus"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the radio say about tomorrow?",
+        "options": [
+          "Rain all week",
+          "Snow tonight",
+          "Sunny tomorrow",
+          "Wind only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What name was on the card?",
+        "options": [
+          "Night Song",
+          "Old Wire",
+          "Tea Time",
+          "Kitchen Dance"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did KAHRAMAN draw?",
+        "options": [
+          "The brown radio",
+          "A car",
+          "A boat",
+          "A cake"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-22",
+    "baslik": "Painting the Small Room",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Mum wanted to paint the small room. The old colour was grey.",
+      "The new paint was light blue. The can said \"Sky Blue\".",
+      "Dad put a cloth on the floor. KAHRAMAN put tape on the window edges.",
+      "They wore old shirts. KAHRAMAN's shirt had a yellow star.",
+      "Mum rolled paint on the wall. The grey hid under the blue.",
+      "KAHRAMAN used a small brush in the corners. Slow, slow.",
+      "A drop fell on KAHRAMAN's shoe. It was a light blue drop.",
+      "Dad laughed. \"That shoe is part of the room now.\"",
+      "They opened the window. The smell of paint went out.",
+      "After lunch they did the second wall. KAHRAMAN counted ten brush strokes.",
+      "Mum painted a small white cloud near the top. Just one cloud.",
+      "KAHRAMAN added a tiny yellow sun next to the cloud.",
+      "Dad brought water and soap. They washed the brushes in a bucket.",
+      "The room looked bigger. The light felt soft.",
+      "In the evening the paint was still a little wet. They did not touch it.",
+      "The next morning KAHRAMAN stood in the door. The sun hit the blue wall.",
+      "Mum said, \"This is our quiet room now.\"",
+      "KAHRAMAN put a book and a cushion inside.",
+      "The yellow-star shirt went into the wash. The shoe still had a faint drop.",
+      "KAHRAMAN learned: a room can change when a family works in the same hour."
+    ],
+    "sorular": [
+      {
+        "question": "What was the old colour?",
+        "options": [
+          "Grey",
+          "Blue",
+          "Red",
+          "Green"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did the can say?",
+        "options": [
+          "Night Black",
+          "Sky Blue",
+          "Sun Red",
+          "Leaf Green"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was on KAHRAMAN's shirt?",
+        "options": [
+          "A car",
+          "A fish",
+          "A yellow star",
+          "A tree"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where did a drop fall?",
+        "options": [
+          "On the book",
+          "On the bed",
+          "On the cake",
+          "On KAHRAMAN's shoe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "How many brush strokes did KAHRAMAN count?",
+        "options": [
+          "Ten",
+          "Two",
+          "Five",
+          "Twenty"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Mum paint near the top?",
+        "options": [
+          "A boat",
+          "A small white cloud",
+          "A door",
+          "A bird"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN add?",
+        "options": [
+          "A moon",
+          "A star only",
+          "A tiny yellow sun",
+          "A flower"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN put in the room?",
+        "options": [
+          "A bike",
+          "A radio",
+          "A lamp only",
+          "A book and a cushion"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-23",
+    "baslik": "Baby Cousin Sleeps Over",
+    "seviye": 1,
+    "uzun": true,
+    "sayfalar": [
+      "Baby cousin Lina came to stay for one night. She was two.",
+      "She held a grey rabbit toy. The rabbit's ear was soft.",
+      "Mum made a low bed on the floor. The blanket was green.",
+      "KAHRAMAN put two books by the bed. One book had farm animals.",
+      "Lina pointed at the cow and said, \"Moo!\" Everyone smiled.",
+      "At dinner Lina sat in a small chair. She ate rice and carrot.",
+      "KAHRAMAN cut the carrot into tiny bits. Lina clapped.",
+      "After dinner they washed her hands with warm water.",
+      "Lina did not want to sleep. She wanted the light on.",
+      "Dad turned on a little night lamp. It was orange.",
+      "KAHRAMAN sang one short song. Lina's eyes grew slow.",
+      "The grey rabbit sat by her cheek. Soon she slept.",
+      "In the night she woke once. KAHRAMAN's mum gave her water.",
+      "In the morning Lina looked for the rabbit. It was under the green blanket.",
+      "They ate bread with honey. Lina got honey on her nose.",
+      "Aunt Seda came at ten. She hugged Lina and KAHRAMAN.",
+      "Lina waved the grey rabbit. \"Bye!\" she said.",
+      "The green blanket went back in the cupboard.",
+      "KAHRAMAN drew Lina and the rabbit in the notebook.",
+      "KAHRAMAN learned: a small guest needs slow songs, a lamp, and kind bits of food."
+    ],
+    "sorular": [
+      {
+        "question": "How old was Lina?",
+        "options": [
+          "Two",
+          "One",
+          "Four",
+          "Six"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What toy did she hold?",
+        "options": [
+          "A red car",
+          "A grey rabbit",
+          "A blue ball",
+          "A doll"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was the blanket?",
+        "options": [
+          "Blue",
+          "Pink",
+          "Green",
+          "White"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Lina eat?",
+        "options": [
+          "Cake only",
+          "Soup only",
+          "Fish",
+          "Rice and carrot"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What colour was the night lamp?",
+        "options": [
+          "Orange",
+          "Red",
+          "Green",
+          "White"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where was the rabbit in the morning?",
+        "options": [
+          "In the bag",
+          "Under the green blanket",
+          "On the roof",
+          "In the sink"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was on Lina's nose?",
+        "options": [
+          "Paint",
+          "Mud",
+          "Honey",
+          "Milk"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who came at ten?",
+        "options": [
+          "Grandpa",
+          "Teacher Rana",
+          "Uncle Bora",
+          "Aunt Seda"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-24",
+    "baslik": "The Photo Album",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Dad opened a photo album. The cover was dark red.",
+      "\"These are our years,\" he said. \"Let's put new photos in.\"",
+      "KAHRAMAN sat on the rug. Photos were in a small envelope.",
+      "The first photo was the blue room. The tiny yellow sun was there.",
+      "KAHRAMAN stuck it on a page. Dad wrote \"Sky Blue Room\".",
+      "The next photo was Grandpa and the brown radio.",
+      "KAHRAMAN laughed. \"The radio looks proud.\"",
+      "Mum brought a photo of Lina with honey on her nose.",
+      "They all laughed again. Mum wiped her eye, but she was happy.",
+      "There was an empty page. KAHRAMAN drew a little frame on it.",
+      "\"This page is for next week,\" KAHRAMAN said.",
+      "Dad found a photo of KAHRAMAN's first bike. The bike was green.",
+      "\"I still have that bike,\" said KAHRAMAN. \"It is a little small now.\"",
+      "They put the bike photo next to a photo of the park path.",
+      "KAHRAMAN numbered the pages: one, two, three, four.",
+      "Mum tied a ribbon around the album. The ribbon was gold.",
+      "They put the album on the low shelf, not too high.",
+      "That night KAHRAMAN looked at the empty frame page once more.",
+      "\"We will fill it,\" Dad said. \"New days make new pictures.\"",
+      "KAHRAMAN learned: photos keep small days so we can visit them again."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the album cover?",
+        "options": [
+          "Dark red",
+          "Blue",
+          "Black",
+          "Green"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Dad write under the room photo?",
+        "options": [
+          "My Bike",
+          "Sky Blue Room",
+          "The Park",
+          "Honey Nose"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was in the radio photo?",
+        "options": [
+          "Lina",
+          "Aunt Seda",
+          "Grandpa",
+          "Teacher Hakan"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What colour was the first bike?",
+        "options": [
+          "Red",
+          "Blue",
+          "Yellow",
+          "Green"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "How many pages did KAHRAMAN number?",
+        "options": [
+          "Four",
+          "Two",
+          "Six",
+          "Ten"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the ribbon?",
+        "options": [
+          "Silver",
+          "Gold",
+          "Pink",
+          "Brown"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did they put the album?",
+        "options": [
+          "On the roof",
+          "In the fridge",
+          "On the low shelf",
+          "Under the bed"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was the empty page for?",
+        "options": [
+          "Grandpa only",
+          "School",
+          "The cat",
+          "Next week"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-25",
+    "baslik": "Grandma's Bread",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Grandma came with a cloth bag. Inside was flour and a little jar of yeast.",
+      "\"Today we make bread,\" she said. \"Your hands will help.\"",
+      "They washed hands. Grandma put flour in a big bowl.",
+      "KAHRAMAN added a pinch of salt. Grandma added warm water.",
+      "The yeast went in last. \"This will wake the dough,\" Grandma said.",
+      "They mixed. The dough felt sticky, then smooth.",
+      "KAHRAMAN pressed the dough ten times. Press, fold, press.",
+      "They covered the bowl with a clean cloth. The cloth was striped.",
+      "\"Now we wait,\" said Grandma. They drank mint tea.",
+      "After one hour the dough was bigger. It looked like a soft pillow.",
+      "They made two round loaves. KAHRAMAN drew a leaf on one with a knife tip.",
+      "The loaves sat on a tray. Grandma brushed them with a little water.",
+      "The oven was warm. In they went.",
+      "Soon the kitchen smelled like bread. KAHRAMAN stood by the door and smiled.",
+      "The bread came out gold on top. Grandma tapped one loaf. It sounded hollow.",
+      "They waited so it would not burn their mouths.",
+      "KAHRAMAN ate a slice with a bit of cheese. It was warm inside.",
+      "Grandma packed the second loaf for Grandpa.",
+      "KAHRAMAN wrote in the seed diary: \"Bread needs waiting too.\"",
+      "KAHRAMAN learned: flour, water, yeast, and time can become a gift."
+    ],
+    "sorular": [
+      {
+        "question": "What was in the little jar?",
+        "options": [
+          "Yeast",
+          "Sugar",
+          "Honey",
+          "Paint"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did KAHRAMAN add?",
+        "options": [
+          "Milk",
+          "A pinch of salt",
+          "Oil",
+          "Eggs"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many times did KAHRAMAN press?",
+        "options": [
+          "Three",
+          "Five",
+          "Ten",
+          "Twenty"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was on the cloth?",
+        "options": [
+          "Striped",
+          "Dots",
+          "Stars",
+          "Flowers"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How long did they wait first?",
+        "options": [
+          "Ten minutes",
+          "One hour",
+          "All night",
+          "Two days"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many loaves did they make?",
+        "options": [
+          "One",
+          "Four",
+          "Two",
+          "Six"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did KAHRAMAN draw on one loaf?",
+        "options": [
+          "A star",
+          "A heart",
+          "A sun",
+          "A leaf"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who got the second loaf?",
+        "options": [
+          "Grandpa",
+          "Melis",
+          "Teacher Rana",
+          "Aunt Pinar"
+        ],
+        "correctAnswer": 0
+      }
+    ]
   }
 ]
