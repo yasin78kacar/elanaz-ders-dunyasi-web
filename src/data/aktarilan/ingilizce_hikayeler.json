@@ -4669,5 +4669,555 @@
         "correctAnswer": 0
       }
     ]
+  },
+  {
+    "id": "uzun-en-11",
+    "baslik": "KAHRAMAN and the Echo Cave",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "On Saturday Uncle Bora took KAHRAMAN to a green hill.",
+      "They wore hats. Uncle Bora carried a small yellow torch.",
+      "\"There is a little cave,\" he said. \"We will not go far.\"",
+      "The cave mouth was wide and cool. KAHRAMAN could see the light.",
+      "Uncle Bora turned on the yellow torch. The walls looked pale.",
+      "\"Hello!\" said KAHRAMAN. The cave said \"Hello!\" back.",
+      "\"That is an echo,\" said Uncle Bora. \"Your voice comes back.\"",
+      "They clapped three times. Clap, clap, clap! The cave clapped too.",
+      "KAHRAMAN found a grey stone with a white line.",
+      "\"May I keep this?\" asked KAHRAMAN. Uncle Bora nodded.",
+      "Then KAHRAMAN saw a red glove on the floor.",
+      "\"Someone dropped this,\" said Uncle Bora. \"We will take it out.\"",
+      "Near the mouth they met a boy named Tuna. He looked worried.",
+      "\"I lost my red glove,\" said Tuna. KAHRAMAN held it up.",
+      "Tuna smiled. \"Thank you! I was looking by the trees.\"",
+      "They sat on a flat rock and drank water.",
+      "Uncle Bora drew the cave in a little book. KAHRAMAN drew the echo.",
+      "On the way down they counted ten wild flowers.",
+      "At home KAHRAMAN put the grey stone on the shelf.",
+      "KAHRAMAN learned: a cave can be safe with a grown-up, and lost things can find a home."
+    ],
+    "sorular": [
+      {
+        "question": "Who took KAHRAMAN to the hill?",
+        "options": [
+          "Uncle Bora",
+          "Dad",
+          "Tuna",
+          "The teacher"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the torch?",
+        "options": [
+          "Blue",
+          "Yellow",
+          "Black",
+          "Green"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What came back in the cave?",
+        "options": [
+          "A bird",
+          "A train",
+          "An echo",
+          "A dog"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many times did they clap?",
+        "options": [
+          "One",
+          "Two",
+          "Four",
+          "Three"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What stone did KAHRAMAN find?",
+        "options": [
+          "A grey stone",
+          "A gold ring",
+          "A shell",
+          "A brick"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was on the cave floor?",
+        "options": [
+          "A hat",
+          "A red glove",
+          "A book",
+          "A ball"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who lost the glove?",
+        "options": [
+          "Uncle Bora",
+          "Mum",
+          "Tuna",
+          "A girl"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many wild flowers did they count?",
+        "options": [
+          "Five",
+          "Six",
+          "Eight",
+          "Ten"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-12",
+    "baslik": "The Map in the Attic",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Rain tapped the window. KAHRAMAN and Dad were in the attic.",
+      "The attic smelled like old wood. Dust danced in a thin light.",
+      "Dad opened a brown box. Inside were hats, a spoon, and a folded paper.",
+      "KAHRAMAN opened the paper. It was a map! A blue line went to a hill.",
+      "Dad smiled. \"This was Grandpa's map. He loved that small hill.\"",
+      "The rain stopped. \"Shall we follow it?\" asked KAHRAMAN. Dad said yes.",
+      "They put on coats. KAHRAMAN held the map with two hands.",
+      "The blue line passed a bakery. They waved at the baker and walked on.",
+      "Next the map showed a tall pine tree. The pine tree was still there.",
+      "\"Turn left at the pine,\" read KAHRAMAN. They turned left.",
+      "The hill was low and green. A flat stone sat on the top.",
+      "Under the stone was a tiny tin. The lid was tight.",
+      "Dad opened it. Inside was a note and a wooden bird.",
+      "The note said: \"For a curious child. Love, Grandpa.\"",
+      "KAHRAMAN held the wooden bird. It was smooth and light.",
+      "\"Grandpa knew you would look,\" said Dad. KAHRAMAN felt warm.",
+      "They sat on the flat stone and ate an apple from Dad's bag.",
+      "KAHRAMAN put the map back in the pocket, folded and safe.",
+      "At home KAHRAMAN set the wooden bird by the window.",
+      "KAHRAMAN learned: old maps can still lead to kind surprises."
+    ],
+    "sorular": [
+      {
+        "question": "Where did they find the map?",
+        "options": [
+          "In the attic",
+          "In the shop",
+          "At school",
+          "On the bus"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the box?",
+        "options": [
+          "Red",
+          "Brown",
+          "White",
+          "Green"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was the line on the map?",
+        "options": [
+          "Red",
+          "Black",
+          "Blue",
+          "Yellow"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Whose map was it?",
+        "options": [
+          "Mum's",
+          "The baker's",
+          "Dad's",
+          "Grandpa's"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What tree did the map show?",
+        "options": [
+          "A tall pine tree",
+          "An apple tree",
+          "A palm",
+          "A rose"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was under the stone?",
+        "options": [
+          "A key",
+          "A tiny tin",
+          "A shoe",
+          "A bell"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was inside the tin?",
+        "options": [
+          "Coins",
+          "Sweets",
+          "A note and a wooden bird",
+          "Sand"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they eat on the hill?",
+        "options": [
+          "Cake",
+          "Bread",
+          "Soup",
+          "An apple"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-13",
+    "baslik": "KAHRAMAN's Night Bus",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "The sky was dark. KAHRAMAN and Mum waited at the bus stop.",
+      "They were going to stay with Aunt Pinar in the next town.",
+      "The night bus was silver. The number on the front was 18.",
+      "Mum bought two tickets. The seats were by a big window.",
+      "KAHRAMAN put the small bag under the seat. It held pyjamas.",
+      "The bus started. Street lights moved past like slow stars.",
+      "A kind driver said, \"Welcome. The trip is one hour.\"",
+      "Mum gave KAHRAMAN a warm scarf. The air inside was cool.",
+      "KAHRAMAN saw a river under a bridge. The water looked black and calm.",
+      "Then the bus stopped. A man with a guitar sat in the front.",
+      "He played a quiet song. KAHRAMAN tapped one finger on the seat.",
+      "Mum pointed to a hill. \"Aunt Pinar lives near that hill.\"",
+      "KAHRAMAN felt sleepy but kept looking. A fox ran by the road!",
+      "\"A fox,\" whispered KAHRAMAN. Mum saw it too. Its tail was long.",
+      "The driver called the town name. They stood up and said thank you.",
+      "Aunt Pinar waved at the stop. She held a yellow lamp.",
+      "In her kitchen there was hot milk. KAHRAMAN drank it slowly.",
+      "Aunt Pinar showed a small bed by the window. The pillow was blue.",
+      "KAHRAMAN told her about the fox. Aunt Pinar smiled.",
+      "KAHRAMAN learned: night trips can be calm, and new beds can feel safe."
+    ],
+    "sorular": [
+      {
+        "question": "Who waited with KAHRAMAN?",
+        "options": [
+          "Mum",
+          "Dad",
+          "Aunt Pinar",
+          "The driver"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What number was the bus?",
+        "options": [
+          "7",
+          "18",
+          "3",
+          "21"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How long was the trip?",
+        "options": [
+          "Ten minutes",
+          "Two hours",
+          "One hour",
+          "All night"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was under the seat?",
+        "options": [
+          "A guitar",
+          "A lamp",
+          "A map",
+          "The small bag"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What animal ran by the road?",
+        "options": [
+          "A fox",
+          "A horse",
+          "A cat",
+          "A cow"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Aunt Pinar hold?",
+        "options": [
+          "A book",
+          "A yellow lamp",
+          "A ticket",
+          "A scarf"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN drink?",
+        "options": [
+          "Tea",
+          "Juice",
+          "Hot milk",
+          "Water"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What colour was the pillow?",
+        "options": [
+          "Red",
+          "Green",
+          "White",
+          "Blue"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-14",
+    "baslik": "KAHRAMAN at the Lighthouse",
+    "seviye": 3,
+    "uzun": true,
+    "sayfalar": [
+      "Aunt Pinar took KAHRAMAN to the lighthouse in the morning.",
+      "The lighthouse was white with a red top. It stood by the rocks.",
+      "The keeper was Mr Sami. He had a grey beard and kind eyes.",
+      "\"We keep the light for boats,\" he said. \"Come up the stairs.\"",
+      "The stairs went round and round. KAHRAMAN counted forty steps.",
+      "At the top the glass room was bright. The big lamp was still.",
+      "Mr Sami showed a book of ships. One ship had a green flag.",
+      "KAHRAMAN looked at the sea. Two small boats moved slowly.",
+      "The wind was strong. KAHRAMAN held the rail with both hands.",
+      "\"When fog comes, the light helps,\" said Mr Sami.",
+      "Downstairs there was a little museum. KAHRAMAN saw an old bell.",
+      "Mr Sami let KAHRAMAN ring the bell once. Ding!",
+      "Then he gave KAHRAMAN a paper hat like a sailor.",
+      "Outside they found a white shell by a rock.",
+      "Aunt Pinar put the shell in a cloth bag.",
+      "A fishing boat waved. KAHRAMAN and Mr Sami waved back.",
+      "Mr Sami stamped a small card: \"Lighthouse Visitor\".",
+      "On the path home they ate bread with cheese.",
+      "KAHRAMAN wore the paper hat all the way to the house.",
+      "KAHRAMAN learned: lights and bells can help people far away."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the lighthouse top?",
+        "options": [
+          "Blue",
+          "Red",
+          "Yellow",
+          "Black"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the keeper?",
+        "options": [
+          "Uncle Bora",
+          "Dad",
+          "Mr Sami",
+          "Aunt Pinar"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many steps did KAHRAMAN count?",
+        "options": [
+          "Ten",
+          "Twenty",
+          "Thirty",
+          "Forty"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What flag was on one ship in the book?",
+        "options": [
+          "A green flag",
+          "A red flag",
+          "A blue flag",
+          "No flag"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did KAHRAMAN ring?",
+        "options": [
+          "A phone",
+          "An old bell",
+          "A bike",
+          "A clock"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What hat did Mr Sami give?",
+        "options": [
+          "A wool hat",
+          "A crown",
+          "A paper hat",
+          "A cap"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they find by a rock?",
+        "options": [
+          "A key",
+          "A coin",
+          "A glove",
+          "A white shell"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did the card say?",
+        "options": [
+          "Lighthouse Visitor",
+          "Best Sailor",
+          "Sea King",
+          "Top Helper"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-15",
+    "baslik": "The Hidden Garden Door",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "KAHRAMAN kicked a soft ball in the back garden. It rolled into the hedge.",
+      "KAHRAMAN looked for the ball. Behind the leaves was a small wooden door.",
+      "The door was green and low. It had a rusty ring.",
+      "KAHRAMAN did not open it alone. KAHRAMAN called Mum.",
+      "Mum smiled. \"That door is Aunt Sibel's herb garden. We can knock.\"",
+      "They knocked. Aunt Sibel opened from the other side. She wore a straw hat.",
+      "\"Come in,\" she said. \"Your ball is by the mint.\"",
+      "The hidden garden was tiny. Paths were made of flat grey stones.",
+      "Mint, basil, and thyme grew in rows. The air smelled fresh.",
+      "KAHRAMAN picked up the ball. \"Thank you,\" KAHRAMAN said.",
+      "Aunt Sibel let KAHRAMAN water the basil with a small can.",
+      "A bee sat on a purple flower. It did not mind them.",
+      "Aunt Sibel cut three mint leaves. \"For your water,\" she said.",
+      "They sat on a bench. Mum told a story about her own childhood garden.",
+      "KAHRAMAN asked the name of a plant with yellow flowers. \"That is dill.\"",
+      "Aunt Sibel gave KAHRAMAN a paper packet of basil seeds.",
+      "\"Plant them in a pot,\" she said. \"Give them sun and a little water.\"",
+      "They went home through the green door and closed it softly.",
+      "KAHRAMAN put the seeds on the kitchen table, next to a clay pot.",
+      "KAHRAMAN learned: a small door can hide a kind neighbour and green things."
+    ],
+    "sorular": [
+      {
+        "question": "Where did the ball roll?",
+        "options": [
+          "Into the hedge",
+          "Into the street",
+          "Into the river",
+          "Into the shop"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the door?",
+        "options": [
+          "Red",
+          "Green",
+          "Brown",
+          "White"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Whose herb garden was it?",
+        "options": [
+          "Dad's",
+          "Tuna's",
+          "Aunt Sibel's",
+          "The teacher's"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where was the ball?",
+        "options": [
+          "On the roof",
+          "In a box",
+          "Under a chair",
+          "By the mint"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did KAHRAMAN water?",
+        "options": [
+          "The basil",
+          "The trees",
+          "The street",
+          "The ball"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many mint leaves did she cut?",
+        "options": [
+          "One",
+          "Three",
+          "Five",
+          "Ten"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What were the yellow flowers?",
+        "options": [
+          "Roses",
+          "Mint",
+          "Dill",
+          "Basil"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was in the paper packet?",
+        "options": [
+          "Tea",
+          "Sand",
+          "Sugar",
+          "Basil seeds"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   }
 ]
