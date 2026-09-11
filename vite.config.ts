@@ -7,9 +7,9 @@ const buildId = Date.now().toString();
 // Tum tema/kategori dosyalarindaki questions.length toplamini build aninda hesaplar; boylece
 // ana ekranda gercek toplam, runtime'da hicbir veri dosyasi indirmeden gosterilir.
 // Ceviri/format burada yapilir ("4790" -> "4.790") -> tarayici locale'ine bagli degil.
-// math/turkce/.../sosyal: temaN.json; zeka: kategori*.json — klasordeki tum .json taraniyor.
+// math/turkce/.../sosyal: temaN.json; zeka/gorsel: kategori*.json — klasordeki tum .json taraniyor.
 function toplamSoruSayisi(): number {
-  const klasorler = ['math', 'turkce', 'fen', 'hayat', 'english', 'sosyal', 'zeka'];
+  const klasorler = ['math', 'turkce', 'fen', 'hayat', 'english', 'sosyal', 'zeka', 'gorsel'];
   let toplam = 0;
   for (const k of klasorler) {
     const dir = `public/data/${k}`;

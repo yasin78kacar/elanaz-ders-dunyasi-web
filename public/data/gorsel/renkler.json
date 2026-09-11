@@ -1,0 +1,200 @@
+{
+  "questions": [
+    {
+      "id": "gv_001",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Ana renkler hangileridir?",
+      "options": [
+        "Kırmızı, sarı ve mavi",
+        "Yeşil, turuncu ve mor",
+        "Siyah, beyaz ve gri",
+        "Pembe, kahverengi ve altın"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_002",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Kırmızı ile sarı karışınca hangi renk çıkar?",
+      "options": [
+        "Yeşil",
+        "Turuncu",
+        "Mor",
+        "Gri"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_003",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Sarı ile mavi karışınca hangi renk çıkar?",
+      "options": [
+        "Turuncu",
+        "Mor",
+        "Yeşil",
+        "Pembe"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_004",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Kırmızı ile mavi karışınca hangi renk çıkar?",
+      "options": [
+        "Yeşil",
+        "Turuncu",
+        "Sarı",
+        "Mor"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_005",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Kırmızıya beyaz katınca hangi renk oluşur?",
+      "options": [
+        "Pembe",
+        "Turuncu",
+        "Lacivert",
+        "Kahverengi"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_006",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Siyaha beyaz katınca hangi renk oluşur?",
+      "options": [
+        "Sarı",
+        "Gri",
+        "Yeşil",
+        "Turuncu"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_007",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Ece güneşi boyamak istiyor. Hangi rengi seçmesi daha uygundur?",
+      "options": [
+        "Siyah",
+        "Gri",
+        "Sarı",
+        "Lacivert"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_008",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Ali çimeni boyamak istiyor. Hangi rengi seçmesi daha uygundur?",
+      "options": [
+        "Mor",
+        "Turuncu",
+        "Gri",
+        "Yeşil"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_009",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Hangisi sıcak renktir?",
+      "options": [
+        "Kırmızı",
+        "Mavi",
+        "Yeşil",
+        "Lacivert"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_010",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Hangisi soğuk renktir?",
+      "options": [
+        "Kırmızı",
+        "Mavi",
+        "Turuncu",
+        "Sarı"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_011",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Turuncu renk hangi iki rengin karışımıdır?",
+      "options": [
+        "Sarı ve mavi",
+        "Kırmızı ve mavi",
+        "Kırmızı ve sarı",
+        "Siyah ve beyaz"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_012",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Yeşil renk hangi iki rengin karışımıdır?",
+      "options": [
+        "Kırmızı ve sarı",
+        "Kırmızı ve mavi",
+        "Siyah ve beyaz",
+        "Sarı ve mavi"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_013",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Gökyüzünü gündüz boyarken hangisi daha uygundur?",
+      "options": [
+        "Açık mavi",
+        "Siyah",
+        "Kahverengi",
+        "Turuncu"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_014",
+      "subject": "Görsel Sanatlar",
+      "theme": "Renkler",
+      "question": "Kar tanesini boyamak için hangisi daha uygundur?",
+      "options": [
+        "Kırmızı",
+        "Beyaz",
+        "Yeşil",
+        "Mor"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    }
+  ]
+}

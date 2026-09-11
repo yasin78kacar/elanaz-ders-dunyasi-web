@@ -81,6 +81,17 @@ const ZEKA_KATEGORILER: ZekaKategori[] = [
   { dosya: 'karma.json',            baslik: 'Karma Örüntü',             emoji: '🌀', siniflar: [1, 2] },
 ];
 
+const GORSEL_KATEGORILER: ZekaKategori[] = [
+  { dosya: 'renkler.json',           baslik: 'Renkler',              emoji: '🌈', siniflar: [2] },
+  { dosya: 'cizim-araclari.json',    baslik: 'Çizim Araçları',       emoji: '✏️', siniflar: [2] },
+  { dosya: 'sekiller-cizgiler.json',  baslik: 'Şekiller ve Çizgiler', emoji: '📐', siniflar: [2] },
+  { dosya: 'sanat-malzemeleri.json',  baslik: 'Sanat Malzemeleri',    emoji: '🖌️', siniflar: [2] },
+  { dosya: 'sanat-turleri.json',      baslik: 'Sanat Türleri',        emoji: '🎭', siniflar: [2] },
+  { dosya: 'desen.json',              baslik: 'Desen',                emoji: '🔷', siniflar: [2] },
+  { dosya: 'sinifta-sanat.json',      baslik: 'Sınıfta Sanat',        emoji: '🏫', siniflar: [2] },
+  { dosya: 'gozlem.json',             baslik: 'Gözlem',               emoji: '👁️', siniflar: [2] },
+];
+
 const SOSYAL_TEMALAR: SubjectTema[] = [
   { tema: 'Tema 1', baslik: 'Birlikte Yaşamak',              emoji: '🤝' },
   { tema: 'Tema 2', baslik: 'Evimiz Dünya',                  emoji: '🗺️' },
@@ -96,6 +107,7 @@ const SUBJECTS: SubjectDef[] = [
   { label: 'Fen Bilimleri',    folder: 'fen',     emoji: '🔬', color: '#45B7D1' },
   { label: 'Hayat Bilgisi',    folder: 'hayat',   emoji: '🌍', color: '#96CEB4' },
   { label: 'İngilizce',        folder: 'english', emoji: '🌟', color: '#FFEAA7' },
+  { label: 'Görsel Sanatlar',  folder: 'gorsel',  emoji: '🖼️', color: '#EC4899', kategoriler: GORSEL_KATEGORILER, siniflar: [2] },
   { label: 'Sosyal Bilgiler',  folder: 'sosyal',  emoji: '🧭', color: '#F97316', temalar: SOSYAL_TEMALAR, siniflar: [4] },
   { label: 'Zeka-Dikkat',      folder: 'zeka',    emoji: '🧩', color: '#A78BFA', kategoriler: ZEKA_KATEGORILER },
 ];

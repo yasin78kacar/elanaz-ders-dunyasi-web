@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "id": "gv_027",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Üç kenarı ve üç köşesi olan şekil hangisidir?",
+      "options": [
+        "Üçgen",
+        "Kare",
+        "Daire",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_028",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Dört kenarı eşit olan şekil hangisidir?",
+      "options": [
+        "Üçgen",
+        "Kare",
+        "Daire",
+        "Yıldız"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_029",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Köşesi olmayan yuvarlak şekil hangisidir?",
+      "options": [
+        "Kare",
+        "Üçgen",
+        "Daire",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_030",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "İki kenarı uzun, iki kenarı kısa olan şekil hangisidir?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Kare",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_031",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Cetvelle çekilen çizgi nasıl olur?",
+      "options": [
+        "Düz",
+        "Eğri",
+        "Dalgalı",
+        "Kırık"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_032",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Yılan gibi kıvrılan çizgiye ne denir?",
+      "options": [
+        "Düz çizgi",
+        "Eğri çizgi",
+        "Nokta",
+        "Kare"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_033",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "İnce bir kalemle kâğıda dokunup kaldırmak ne yapar?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Nokta",
+        "Cetvel"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_034",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Zigzag çizgi nasıl gider?",
+      "options": [
+        "Hep düz",
+        "Sadece daire",
+        "Hiç görünmez",
+        "İner çıkar"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    },
+    {
+      "id": "gv_035",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Güneş resmi için hangi şekil daha uygundur?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Kare",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 0,
+      "grade": 2
+    },
+    {
+      "id": "gv_036",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Ev çatısı çizmek için hangi şekil sık kullanılır?",
+      "options": [
+        "Daire",
+        "Üçgen",
+        "Yıldız",
+        "Kalp"
+      ],
+      "correctAnswer": 1,
+      "grade": 2
+    },
+    {
+      "id": "gv_037",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Pencere çizmek için hangi şekil daha uygundur?",
+      "options": [
+        "Daire",
+        "Yıldız",
+        "Kare",
+        "Kalp"
+      ],
+      "correctAnswer": 2,
+      "grade": 2
+    },
+    {
+      "id": "gv_038",
+      "subject": "Görsel Sanatlar",
+      "theme": "Şekiller ve Çizgiler",
+      "question": "Yol çizmek için hangi çizgi daha uygundur?",
+      "options": [
+        "Sadece nokta",
+        "Sadece daire",
+        "Sadece yıldız",
+        "Düz çizgi"
+      ],
+      "correctAnswer": 3,
+      "grade": 2
+    }
+  ]
+}
