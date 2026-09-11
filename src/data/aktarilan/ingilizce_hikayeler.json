@@ -5219,5 +5219,555 @@
         "correctAnswer": 3
       }
     ]
+  },
+  {
+    "id": "uzun-en-16",
+    "baslik": "KAHRAMAN's Science Fair",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "The class had a science fair on Friday. Each child made one thing.",
+      "KAHRAMAN made a volcano. The mountain was brown paper on a tray.",
+      "Inside the volcano was a small cup. Teacher Hakan checked it.",
+      "\"We will use baking soda and vinegar,\" he said. \"Not fire.\"",
+      "KAHRAMAN practised at home with Mum. The foam went pink.",
+      "Mum put a drop of pink colour in the vinegar. It looked like lava.",
+      "On Friday KAHRAMAN carried the tray with two hands. Slowly.",
+      "A friend named Melis made a magnet game. She sat at the next table.",
+      "Families came in. Dad stood at the back and waved once.",
+      "Teacher Hakan said, \"KAHRAMAN, it is your turn.\"",
+      "KAHRAMAN put baking soda in the cup. Then KAHRAMAN poured vinegar.",
+      "Pink foam ran down the brown paper. The class said, \"Oh!\"",
+      "Melis clapped. Dad took a photo. Teacher Hakan wrote \"Clear and safe\".",
+      "After the show KAHRAMAN wiped the tray. The foam smelled sour.",
+      "Melis let KAHRAMAN try the magnet. A paperclip jumped up.",
+      "They ate apple slices from a shared plate. No one pushed.",
+      "Teacher Hakan gave each child a blue sticker. It said \"Young Scientist\".",
+      "At home KAHRAMAN put the sticker in a notebook.",
+      "Dad said, \"You waited, you cleaned, you shared. That is science too.\"",
+      "KAHRAMAN learned: a fair is more fun when you help the next table too."
+    ],
+    "sorular": [
+      {
+        "question": "What did KAHRAMAN make?",
+        "options": [
+          "A volcano",
+          "A robot",
+          "A kite",
+          "A cake"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the foam?",
+        "options": [
+          "Green",
+          "Pink",
+          "Black",
+          "Yellow"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who made a magnet game?",
+        "options": [
+          "Dad",
+          "Mum",
+          "Melis",
+          "Teacher Hakan"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Teacher Hakan write?",
+        "options": [
+          "Too loud",
+          "Try again",
+          "Not ready",
+          "Clear and safe"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What jumped up on the magnet?",
+        "options": [
+          "A paperclip",
+          "A spoon",
+          "A stone",
+          "A shoe"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did they eat?",
+        "options": [
+          "Cake",
+          "Apple slices",
+          "Soup",
+          "Chips"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What colour was the sticker?",
+        "options": [
+          "Red",
+          "Green",
+          "Blue",
+          "Gold"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the sticker say?",
+        "options": [
+          "Best Artist",
+          "Kind Helper",
+          "Top Runner",
+          "Young Scientist"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-17",
+    "baslik": "The Lost Lunch Box",
+    "seviye": 1,
+    "uzun": true,
+    "sayfalar": [
+      "Monday morning KAHRAMAN packed a yellow lunch box.",
+      "Inside were bread, cheese, and a red apple.",
+      "At school they had gym first. KAHRAMAN left the box by the wall.",
+      "After gym the yellow lunch box was gone. KAHRAMAN looked left and right.",
+      "Teacher Hakan said, \"We will look together. Do not cry. We can find it.\"",
+      "They looked under the bench. They looked by the balls.",
+      "A boy named Okan said, \"I saw a yellow box near the shoes.\"",
+      "Near the shoes there was only a blue bag.",
+      "KAHRAMAN felt a lump in the tummy. The apple was a gift from Grandma.",
+      "At break they asked the helper in the hall. She had not seen it.",
+      "Then Melis came running. \"The lunch box is in the music room!\"",
+      "A small child had carried it, thinking it was a drum box.",
+      "The yellow lunch box sat on the piano. The apple was still inside.",
+      "KAHRAMAN said thank you to Melis and to the small child.",
+      "The small child said, \"Sorry. It looked like a toy.\"",
+      "KAHRAMAN shared the apple. They cut it into four pieces.",
+      "Teacher Hakan put a name sticker on the box: KAHRAMAN.",
+      "After school Mum heard the story. She hugged KAHRAMAN.",
+      "The next day KAHRAMAN put the lunch box in the classroom cubby.",
+      "KAHRAMAN learned: ask for help, and a lost box can come back."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the lunch box?",
+        "options": [
+          "Blue",
+          "Yellow",
+          "Green",
+          "Black"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What fruit was inside?",
+        "options": [
+          "A pear",
+          "A banana",
+          "A red apple",
+          "A plum"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where did KAHRAMAN leave the box?",
+        "options": [
+          "On the bus",
+          "At home",
+          "In the shop",
+          "By the wall"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who saw a yellow box near the shoes?",
+        "options": [
+          "Okan",
+          "Melis",
+          "Mum",
+          "Grandma"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where was the lunch box found?",
+        "options": [
+          "In the music room",
+          "In the yard",
+          "On the roof",
+          "In a car"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did the small child think it was?",
+        "options": [
+          "A book",
+          "A hat",
+          "A drum box",
+          "A ball"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many apple pieces were there?",
+        "options": [
+          "Two",
+          "Three",
+          "Six",
+          "Four"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did Teacher Hakan put on the box?",
+        "options": [
+          "A name sticker",
+          "A stamp",
+          "Paint",
+          "A lock"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-18",
+    "baslik": "The Art Room Spill",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Art class was on Wednesday. The art room smelled like paper and paint.",
+      "Teacher Rana put pots of paint on a long table. Red, blue, yellow.",
+      "KAHRAMAN's job was to paint a big sun. The sun was yellow.",
+      "Koray painted a blue river. Melis painted a green tree.",
+      "KAHRAMAN reached for more yellow. An elbow hit a red pot.",
+      "The red pot fell. Red paint ran across the table like a little river.",
+      "\"Oh no,\" said KAHRAMAN. Hands felt hot. The paper was still safe.",
+      "Teacher Rana spoke softly. \"Spills happen. We clean. We do not shout.\"",
+      "She brought cloths and a bucket of water.",
+      "KAHRAMAN wiped the table. Koray held the bucket. Melis moved the papers.",
+      "The floor got three red dots. They wiped those too.",
+      "Teacher Rana smiled. \"Now the table is better than before.\"",
+      "KAHRAMAN finished the yellow sun. Koray added a tiny red boat on the river.",
+      "\"The spill gave me an idea,\" he said. Everyone laughed in a kind way.",
+      "They hung the three pictures in a row on the wall.",
+      "Teacher Rana wrote a note home: \"KAHRAMAN helped clean a spill.\"",
+      "At home Mum read the note. \"Helping is part of art,\" she said.",
+      "KAHRAMAN washed the yellow paint from a fingernail.",
+      "The next art day KAHRAMAN put pots in the middle, not at the edge.",
+      "KAHRAMAN learned: a spill can stop the work, or it can start the helping."
+    ],
+    "sorular": [
+      {
+        "question": "What did KAHRAMAN paint?",
+        "options": [
+          "A big sun",
+          "A river",
+          "A tree",
+          "A boat"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour pot fell?",
+        "options": [
+          "Blue",
+          "Red",
+          "Yellow",
+          "Green"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who was the art teacher?",
+        "options": [
+          "Teacher Hakan",
+          "Mum",
+          "Teacher Rana",
+          "Koray"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Koray hold?",
+        "options": [
+          "A brush",
+          "A bag",
+          "A pot",
+          "The bucket"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "How many red dots were on the floor?",
+        "options": [
+          "Three",
+          "One",
+          "Five",
+          "Ten"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Koray add to the river?",
+        "options": [
+          "A fish",
+          "A tiny red boat",
+          "A bridge",
+          "A duck"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did they hang the pictures?",
+        "options": [
+          "On the door",
+          "On the desk",
+          "On the wall",
+          "At home"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where did KAHRAMAN put pots next time?",
+        "options": [
+          "At the edge",
+          "On the floor",
+          "Outside",
+          "In the middle"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-19",
+    "baslik": "The Classroom Hamster",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "The class got a hamster. His name was Nokta. His fur was brown and white.",
+      "Nokta lived in a glass tank with a wheel and a little house.",
+      "Each week one child took Nokta home. This Friday it was KAHRAMAN's turn.",
+      "Teacher Hakan packed seeds, a water bottle, and a care card.",
+      "The care card said: \"Quiet room. No cats. Fresh water.\"",
+      "KAHRAMAN carried the tank with Dad. They walked slowly.",
+      "At home they put the tank on a low table in the quiet room.",
+      "The cat sat in the hall. Mum closed the door. The cat sat and waited.",
+      "KAHRAMAN filled the water bottle. Nokta drank and ran on the wheel.",
+      "At night KAHRAMAN heard the wheel: tick, tick, tick.",
+      "In the morning KAHRAMAN cleaned the little house. Dad held the tank lid.",
+      "Nokta hid a seed in his cheek. KAHRAMAN laughed.",
+      "On Saturday a cousin named Ceren visited. She watched Nokta, she did not tap the glass.",
+      "They drew Nokta in a notebook. Ceren drew the wheel. KAHRAMAN drew the house.",
+      "On Sunday KAHRAMAN put fresh paper in the tank.",
+      "Monday morning they took Nokta back. The class cheered once, then spoke softly.",
+      "Teacher Hakan checked the water. \"You followed the care card,\" he said.",
+      "KAHRAMAN felt proud and a little sad. The quiet room was empty now.",
+      "That night KAHRAMAN put the hamster drawing on the wall.",
+      "KAHRAMAN learned: a small animal needs quiet, water, and careful hands."
+    ],
+    "sorular": [
+      {
+        "question": "What was the hamster's name?",
+        "options": [
+          "Nokta",
+          "Dot",
+          "Mimi",
+          "Max"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was his fur?",
+        "options": [
+          "Black",
+          "Brown and white",
+          "Grey",
+          "Gold"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the care card say first?",
+        "options": [
+          "Play loud",
+          "Feed cake",
+          "Quiet room",
+          "Open the window"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who closed the door for the cat?",
+        "options": [
+          "Dad",
+          "Ceren",
+          "Teacher Hakan",
+          "Mum"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What sound did the wheel make?",
+        "options": [
+          "Tick, tick, tick",
+          "Woof",
+          "Ding",
+          "Moo"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who visited on Saturday?",
+        "options": [
+          "Melis",
+          "Ceren",
+          "Okan",
+          "Tuna"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Nokta hide in his cheek?",
+        "options": [
+          "A seed",
+          "A stone",
+          "A leaf",
+          "A button"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did the drawing go?",
+        "options": [
+          "In the bin",
+          "In the tank",
+          "On the door",
+          "On the wall"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-20",
+    "baslik": "The Class Seed Diary",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Teacher Rana gave each child a bean and a clear cup.",
+      "\"We will keep a seed diary,\" she said. \"Write what you see.\"",
+      "KAHRAMAN put wet cotton in the cup. The bean sat on the cotton.",
+      "Day one: the bean was smooth and pale. KAHRAMAN drew a small oval.",
+      "Day two: nothing new. KAHRAMAN still wrote: \"Wait.\"",
+      "Day three: a tiny white root came out. KAHRAMAN called Mum.",
+      "Mum said, \"That root will look for water. Keep the cotton wet.\"",
+      "Day five: a green shoot stood up. It leaned toward the window.",
+      "KAHRAMAN turned the cup so the shoot would grow straight.",
+      "In the diary KAHRAMAN wrote: \"The bean is a plant now.\"",
+      "Koray's bean was slower. KAHRAMAN did not laugh. \"Yours will come,\" KAHRAMAN said.",
+      "On day eight Koray's white root showed. He smiled a wide smile.",
+      "The class measured with a red string. KAHRAMAN's shoot was four fingers tall.",
+      "They planted the beans in a box of soil in the yard.",
+      "KAHRAMAN poured a little water. Not too much.",
+      "Teacher Rana stamped the diary: \"Good looking and kind waiting.\"",
+      "At home KAHRAMAN showed Dad the drawings from day one to day eight.",
+      "Dad put the diary on the fridge with a round magnet.",
+      "A week later a small leaf opened in the yard box.",
+      "KAHRAMAN learned: plants are slow, and waiting can be a kind of work."
+    ],
+    "sorular": [
+      {
+        "question": "What seed did they plant?",
+        "options": [
+          "A bean",
+          "An apple",
+          "A nut",
+          "A flower"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was in the cup with the bean?",
+        "options": [
+          "Sand",
+          "Wet cotton",
+          "Soil",
+          "Stones"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What came out on day three?",
+        "options": [
+          "A flower",
+          "A leaf",
+          "A tiny white root",
+          "A fruit"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How tall was KAHRAMAN's shoot?",
+        "options": [
+          "Two fingers",
+          "One finger",
+          "Ten fingers",
+          "Four fingers"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did they use to measure?",
+        "options": [
+          "A red string",
+          "A stick",
+          "A shoe",
+          "A book"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did they plant the beans later?",
+        "options": [
+          "In a bag",
+          "In a box of soil",
+          "In water only",
+          "In the fridge"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did Dad put the diary?",
+        "options": [
+          "On the bed",
+          "On the shelf",
+          "On the fridge",
+          "In the cup"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What opened a week later?",
+        "options": [
+          "A door",
+          "A box",
+          "A book",
+          "A small leaf"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   }
 ]
