@@ -6869,5 +6869,555 @@
         "correctAnswer": 3
       }
     ]
+  },
+  {
+    "id": "uzun-en-31",
+    "baslik": "The Neighbour's Horse",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Mr Umut lived at the end of the street. He had a brown horse.",
+      "The horse's name was Pazı. She had a white star on her head.",
+      "On Saturday Mr Umut asked KAHRAMAN and Dad to visit the yard.",
+      "Pazı stood by a wooden fence. Her tail moved slowly.",
+      "\"We speak softly,\" said Mr Umut. \"Horses like calm voices.\"",
+      "KAHRAMAN held a carrot flat on an open hand. Pazı took it gently.",
+      "Dad brushed Pazı's neck. The brush was blue.",
+      "KAHRAMAN tried the brush too. Dust came off in a little cloud.",
+      "Mr Umut showed the water trough. It was clean and full.",
+      "\"A horse needs water every day,\" he said. KAHRAMAN nodded.",
+      "Pazı stamped one foot. Mr Umut laughed. \"She wants to walk.\"",
+      "They walked Pazı around the yard. KAHRAMAN walked on the left.",
+      "A bird sat on the fence. Pazı did not mind.",
+      "Mr Umut gave KAHRAMAN a small card: \"Horse Helper\".",
+      "KAHRAMAN washed hands with soap. Horse dust smelled like dry grass.",
+      "At home KAHRAMAN drew Pazı and the white star.",
+      "The drawing went into the photo album pocket.",
+      "Dad said, \"You kept your hand flat. That was safe.\"",
+      "The next week they waved to Pazı from the street. She lifted her head.",
+      "KAHRAMAN learned: big animals need calm words, water, and an open hand."
+    ],
+    "sorular": [
+      {
+        "question": "What was the horse's name?",
+        "options": [
+          "Pazı",
+          "Nokta",
+          "Dot",
+          "Küçük"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was on her head?",
+        "options": [
+          "A hat",
+          "A white star",
+          "A bell",
+          "A flower"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN hold out?",
+        "options": [
+          "An apple",
+          "Bread",
+          "A carrot",
+          "Sugar"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What colour was the brush?",
+        "options": [
+          "Red",
+          "Green",
+          "Black",
+          "Blue"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Where did they walk Pazı?",
+        "options": [
+          "Around the yard",
+          "In the shop",
+          "On the bus",
+          "In the river"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did the card say?",
+        "options": [
+          "Kind Helper",
+          "Horse Helper",
+          "Young Scientist",
+          "Best Rider"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did horse dust smell like?",
+        "options": [
+          "Paint",
+          "Bread",
+          "Dry grass",
+          "Soap only"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which side did KAHRAMAN walk on?",
+        "options": [
+          "The right",
+          "Behind",
+          "In front",
+          "The left"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-32",
+    "baslik": "The Lost Parrot",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Aunt Yade rang the bell. \"My parrot flew to your balcony!\" she said.",
+      "The parrot was green with a red tail. His name was Cıvıl.",
+      "Cıvıl sat on the balcony rail and said, \"Hello! Hello!\"",
+      "KAHRAMAN did not grab him. Aunt Yade brought a grape.",
+      "She put the grape on a small perch. Cıvıl jumped to the grape.",
+      "Aunt Yade put a cloth over her arm. Cıvıl stepped up.",
+      "\"Good bird,\" she said. Cıvıl said, \"Good bird!\" too.",
+      "They took him home next door. His cage door had been open a little.",
+      "KAHRAMAN helped check the latch. It clicked when it was shut.",
+      "Aunt Yade gave KAHRAMAN a paper feather she had made.",
+      "\"You waited. Waiting helps,\" she said.",
+      "Cıvıl drank water and fluffed his feathers.",
+      "KAHRAMAN asked, \"Why does he say Hello?\"",
+      "\"He copies sounds,\" said Aunt Yade. \"So we say kind words.\"",
+      "They closed the balcony door at Aunt Yade's house too.",
+      "That evening KAHRAMAN heard \"Hello!\" through the wall and smiled.",
+      "Mum said, \"A lost bird is not a toy. You did the right steps.\"",
+      "KAHRAMAN taped the paper feather in the notebook.",
+      "The next day they waved. Cıvıl climbed his little ladder.",
+      "KAHRAMAN learned: a flying pet needs a shut latch and a calm visit."
+    ],
+    "sorular": [
+      {
+        "question": "What colour was the parrot's tail?",
+        "options": [
+          "Red",
+          "Blue",
+          "Yellow",
+          "Black"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was the parrot's name?",
+        "options": [
+          "Pazı",
+          "Cıvıl",
+          "Nokta",
+          "Lina"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What word did Cıvıl say first?",
+        "options": [
+          "Bye",
+          "Mum",
+          "Hello",
+          "Water"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Aunt Yade bring?",
+        "options": [
+          "A nut",
+          "Bread",
+          "A seed only",
+          "A grape"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What had been open a little?",
+        "options": [
+          "His cage door",
+          "The fridge",
+          "The shop",
+          "The bus"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did the latch do when shut?",
+        "options": [
+          "It sang",
+          "It clicked",
+          "It broke",
+          "It glowed"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Aunt Yade give KAHRAMAN?",
+        "options": [
+          "A sticker",
+          "A bell",
+          "A paper feather",
+          "A hat"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did Cıvıl climb the next day?",
+        "options": [
+          "A tree",
+          "The roof",
+          "A hill",
+          "His little ladder"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-33",
+    "baslik": "The Turtle at the Pond",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Park helper Erol met KAHRAMAN and Mum by the town pond.",
+      "A turtle sat on a log. Its shell was dark with yellow spots.",
+      "\"This is a pond turtle,\" said Erol. \"We look. We do not lift it.\"",
+      "The turtle slid into the water. Only its head showed.",
+      "KAHRAMAN counted four little turtles on a far stone.",
+      "Erol showed a sign: \"Do not feed bread to turtles.\"",
+      "\"Bread is not their food,\" he said. \"It can make them ill.\"",
+      "A duck swam past. The turtle did not follow the duck.",
+      "KAHRAMAN asked why the water looked green. Erol said, \"Small plants live there.\"",
+      "They walked around the pond once. The path was wooden.",
+      "Erol picked up a plastic bag from the edge. KAHRAMAN held the bin open.",
+      "The bag went in the bin. Erol said thank you.",
+      "Mum took a photo of the log, not too close.",
+      "A school group came. Erol told them the same rule about bread.",
+      "KAHRAMAN whispered the rule so it would stay in the head.",
+      "On the way home they bought no bread for the pond.",
+      "KAHRAMAN painted the turtle shell with yellow spots.",
+      "The painting went next to the hill of flowers.",
+      "Mum said, \"You helped the pond by leaving the turtle in it.\"",
+      "KAHRAMAN learned: some animals are wild even when they look slow and near."
+    ],
+    "sorular": [
+      {
+        "question": "Who was the park helper?",
+        "options": [
+          "Erol",
+          "Umut",
+          "Jale",
+          "Hakan"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was on the turtle's shell?",
+        "options": [
+          "Stars",
+          "Yellow spots",
+          "Stripes only",
+          "A name"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many little turtles sat on a stone?",
+        "options": [
+          "Two",
+          "Six",
+          "Four",
+          "Ten"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the sign say not to feed?",
+        "options": [
+          "Leaves",
+          "Fish",
+          "Water",
+          "Bread"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What was the path made of?",
+        "options": [
+          "Wooden",
+          "Stone only",
+          "Sand",
+          "Ice"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did Erol pick up?",
+        "options": [
+          "A shoe",
+          "A plastic bag",
+          "A book",
+          "A ball"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did KAHRAMAN hold open?",
+        "options": [
+          "The gate",
+          "The book",
+          "The bin",
+          "The bag of bread"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What colour plants made the water look?",
+        "options": [
+          "Red",
+          "Black",
+          "White",
+          "Green"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-34",
+    "baslik": "The Hedgehog at Dusk",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "At dusk the garden grew grey. Dad and KAHRAMAN sat on the step.",
+      "Something moved under the dry leaves. It was small and round.",
+      "A hedgehog came out. Its back was full of soft-looking spikes.",
+      "\"We stay still,\" whispered Dad. \"No touching. No torch in the eyes.\"",
+      "The hedgehog sniffed. Then it walked toward the compost box.",
+      "It ate a little of the old fruit there. It made tiny sounds.",
+      "KAHRAMAN counted: the hedgehog stopped three times to listen.",
+      "The cat watched from the window. The door stayed shut.",
+      "Dad said, \"Hedgehogs help the garden. They eat small bugs.\"",
+      "The hedgehog went back under the leaves. The garden was quiet again.",
+      "KAHRAMAN wanted to put out milk. Dad shook his head.",
+      "\"Milk is not good for them,\" he said. \"Water in a shallow dish is better.\"",
+      "They put a shallow dish of water by the fence. Not deep.",
+      "The next dusk they sat again. The dish was a little lower.",
+      "They did not see the hedgehog, but the leaves had a new path.",
+      "KAHRAMAN drew spikes like short lines in the notebook.",
+      "Mum read the drawing and smiled. \"A quiet guest,\" she said.",
+      "They kept the gate closed at night so dogs would not run in.",
+      "KAHRAMAN told Melis at school, but only the looking part, not the address.",
+      "KAHRAMAN learned: some garden friends want space, water, and no milk."
+    ],
+    "sorular": [
+      {
+        "question": "When did they sit on the step?",
+        "options": [
+          "At dusk",
+          "At noon",
+          "At dawn",
+          "At midnight"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Where did the hedgehog go first?",
+        "options": [
+          "Into the house",
+          "Toward the compost box",
+          "To the river",
+          "To school"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many times did it stop to listen?",
+        "options": [
+          "One",
+          "Five",
+          "Three",
+          "Ten"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Where did the cat watch from?",
+        "options": [
+          "The roof",
+          "The street",
+          "The tree",
+          "The window"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did Dad say not to give?",
+        "options": [
+          "Milk",
+          "Water",
+          "Leaves",
+          "Air"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What did they put by the fence?",
+        "options": [
+          "A bowl of milk",
+          "A shallow dish of water",
+          "Bread",
+          "A cage"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was new in the leaves?",
+        "options": [
+          "A nest of birds",
+          "A ball",
+          "A new path",
+          "A shoe"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did they keep closed at night?",
+        "options": [
+          "The book",
+          "The fridge",
+          "The album",
+          "The gate"
+        ],
+        "correctAnswer": 3
+      }
+    ]
+  },
+  {
+    "id": "uzun-en-35",
+    "baslik": "The Village Donkey",
+    "seviye": 2,
+    "uzun": true,
+    "sayfalar": [
+      "Uncle Tarık lived in a village. KAHRAMAN and Mum went for the day.",
+      "A grey donkey stood by a stone wall. His name was Kiraz.",
+      "\"Kiraz carries baskets on market day,\" said Uncle Tarık.",
+      "Today there was no market. Kiraz ate dry grass from Uncle Tarık's hand.",
+      "KAHRAMAN asked if donkeys like carrots. \"A little,\" said Uncle Tarık. \"Not too many.\"",
+      "KAHRAMAN held one small carrot. Kiraz took it and chewed slowly.",
+      "They filled a bucket with clean water. Kiraz drank and dripped on the dust.",
+      "Uncle Tarık showed a brush. KAHRAMAN brushed Kiraz's neck. The hair was rough.",
+      "A bell hung on the wall. It was for calling Kiraz from the field.",
+      "Uncle Tarık rang it once. Ding. Kiraz lifted his long ears.",
+      "They walked Kiraz to a shady tree. The shade was cool.",
+      "Mum took a photo for the album. Kiraz closed his eyes.",
+      "A village child named Bora came. He knew how to walk on the left too.",
+      "Bora and KAHRAMAN counted Kiraz's steps to the tree: twelve.",
+      "Uncle Tarık gave them bread with olives. They sat on the wall.",
+      "Before leaving, KAHRAMAN hung the empty bucket back on its hook.",
+      "Kiraz brayed once. The sound was loud and funny.",
+      "On the bus home KAHRAMAN told Mum, \"His ears are longer than Pazı's.\"",
+      "Mum wrote \"Kiraz the donkey\" on the back of the photo.",
+      "KAHRAMAN learned: village animals work, rest in shade, and need clean water."
+    ],
+    "sorular": [
+      {
+        "question": "What was the donkey's name?",
+        "options": [
+          "Kiraz",
+          "Pazı",
+          "Cıvıl",
+          "Nokta"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What colour was the donkey?",
+        "options": [
+          "Brown",
+          "Grey",
+          "Black",
+          "White"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did Kiraz carry on market day?",
+        "options": [
+          "Children",
+          "Books",
+          "Baskets",
+          "Chairs"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many carrots did KAHRAMAN hold?",
+        "options": [
+          "Three",
+          "Five",
+          "Ten",
+          "One"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What did the wall bell do?",
+        "options": [
+          "Calling Kiraz from the field",
+          "Open a door",
+          "Start a bus",
+          "Cook food"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many steps to the tree?",
+        "options": [
+          "Four",
+          "Twelve",
+          "Eight",
+          "Twenty"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who came from the village?",
+        "options": [
+          "Tuna",
+          "Okan",
+          "Bora",
+          "Melis"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What was on the bread?",
+        "options": [
+          "Honey",
+          "Cheese only",
+          "Jam",
+          "Olives"
+        ],
+        "correctAnswer": 3
+      }
+    ]
   }
 ]
