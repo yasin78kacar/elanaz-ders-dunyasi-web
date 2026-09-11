@@ -36,6 +36,8 @@ function SusCiz({ s, i }: { s: SusVeri; i: number }) {
       fill={s.fill ?? 'none'}
       stroke={s.stroke}
       strokeWidth={s.sw}
+      strokeLinecap="round"
+      strokeLinejoin="round"
       opacity={s.opacity ?? 1}
     />
   );
