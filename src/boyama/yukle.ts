@@ -30,11 +30,32 @@ export async function kategoriYukle(kategori: Kategori): Promise<SayfaVeri[]> {
   return sayfalar;
 }
 
+export function kategoriOzetleri(): { kategori: Kategori; adet: number }[] {
+  const adet = new Map<Kategori, number>();
+  const sira: Kategori[] = [];
+  for (const s of SAYFA_SIRA) {
+    const n = adet.get(s.kategori) ?? 0;
+    if (n === 0) sira.push(s.kategori);
+    adet.set(s.kategori, n + 1);
+  }
+  return sira.map((kategori) => ({ kategori, adet: adet.get(kategori) ?? 0 }));
+}
+
+export function kategoriSayfalari(kategori: Kategori): SayfaOzet[] {
+  return SAYFA_SIRA.filter((s) => s.kategori === kategori);
+}
+
 export async function sayfaYukle(ix: number): Promise<SayfaVeri | null> {
   const ozet = SAYFA_SIRA[ix];
   if (!ozet) return null;
-  const hazir = idHarita.get(ozet.id);
+  return sayfaYukleId(ozet.id);
+}
+
+export async function sayfaYukleId(id: string): Promise<SayfaVeri | null> {
+  const ozet = SAYFA_SIRA.find((s) => s.id === id);
+  if (!ozet) return null;
+  const hazir = idHarita.get(id);
   if (hazir) return hazir;
   const liste = await kategoriYukle(ozet.kategori);
-  return liste.find((s) => s.id === ozet.id) ?? null;
+  return liste.find((s) => s.id === id) ?? null;
 }
