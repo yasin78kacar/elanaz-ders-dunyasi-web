@@ -1,4 +1,4 @@
-export type FloodKategori = 'hayvanlar' | 'ciftlik' | 'dinozorlar' | 'noel';
+export type FloodKategori = 'hayvanlar' | 'ciftlik' | 'dinozorlar' | 'noel' | 'kultur';
 
 export type FloodSahne = {
   id: string;
@@ -12,6 +12,7 @@ export const FLOOD_KATEGORI_AD: Record<FloodKategori, string> = {
   ciftlik: 'Çiftlik',
   dinozorlar: 'Dinozorlar',
   noel: 'Noel',
+  kultur: 'Kültür',
 };
 
 export const FLOOD_SAHNELER: FloodSahne[] = [
@@ -129,4 +130,31 @@ export const FLOOD_SAHNELER: FloodSahne[] = [
   { id: 'noel-ucus', baslik: 'Uçuş', kategori: 'noel', src: '/boyama-yeni/noel/ucus.png' },
   { id: 'noel-yavru-sapka', baslik: 'Yavru şapka', kategori: 'noel', src: '/boyama-yeni/noel/yavru-sapka.png' },
   { id: 'noel-yemek', baslik: 'Yemek', kategori: 'noel', src: '/boyama-yeni/noel/yemek.png' },
+
+  { id: 'kultur-abd', baslik: 'Özgürlük Heykeli', kategori: 'kultur', src: '/boyama-yeni/kultur/abd.png' },
+  { id: 'kultur-avusturya', baslik: 'Avusturya', kategori: 'kultur', src: '/boyama-yeni/kultur/avusturya.png' },
+  { id: 'kultur-bae', baslik: 'Dubai', kategori: 'kultur', src: '/boyama-yeni/kultur/bae.png' },
+  { id: 'kultur-brezilya', baslik: 'Brezilya', kategori: 'kultur', src: '/boyama-yeni/kultur/brezilya.png' },
+  { id: 'kultur-cin', baslik: 'Çin', kategori: 'kultur', src: '/boyama-yeni/kultur/cin.png' },
+  { id: 'kultur-fas', baslik: 'Fas', kategori: 'kultur', src: '/boyama-yeni/kultur/fas.png' },
+  { id: 'kultur-fransa', baslik: 'Fransa', kategori: 'kultur', src: '/boyama-yeni/kultur/fransa.png' },
+  { id: 'kultur-guney-afrika', baslik: 'Güney Afrika', kategori: 'kultur', src: '/boyama-yeni/kultur/guney-afrika.png' },
+  { id: 'kultur-guney-kore', baslik: 'Güney Kore', kategori: 'kultur', src: '/boyama-yeni/kultur/guney-kore.png' },
+  { id: 'kultur-hollanda', baslik: 'Hollanda', kategori: 'kultur', src: '/boyama-yeni/kultur/hollanda.png' },
+  { id: 'kultur-ispanya', baslik: 'İspanya', kategori: 'kultur', src: '/boyama-yeni/kultur/ispanya.png' },
+  { id: 'kultur-isvec', baslik: 'İsveç', kategori: 'kultur', src: '/boyama-yeni/kultur/isvec.png' },
+  { id: 'kultur-isvicre', baslik: 'İsviçre', kategori: 'kultur', src: '/boyama-yeni/kultur/isvicre.png' },
+  { id: 'kultur-italya', baslik: 'İtalya', kategori: 'kultur', src: '/boyama-yeni/kultur/italya.png' },
+  { id: 'kultur-japonya', baslik: 'Japonya', kategori: 'kultur', src: '/boyama-yeni/kultur/japonya.png' },
+  { id: 'kultur-kenya', baslik: 'Kenya', kategori: 'kultur', src: '/boyama-yeni/kultur/kenya.png' },
+  { id: 'kultur-kolombiya', baslik: 'Kolombiya', kategori: 'kultur', src: '/boyama-yeni/kultur/kolombiya.png' },
+  { id: 'kultur-malta', baslik: 'Malta', kategori: 'kultur', src: '/boyama-yeni/kultur/malta.png' },
+  { id: 'kultur-meksika', baslik: 'Meksika', kategori: 'kultur', src: '/boyama-yeni/kultur/meksika.png' },
+  { id: 'kultur-misir', baslik: 'Mısır', kategori: 'kultur', src: '/boyama-yeni/kultur/misir.png' },
+  { id: 'kultur-norvec', baslik: 'Norveç', kategori: 'kultur', src: '/boyama-yeni/kultur/norvec.png' },
+  { id: 'kultur-peru', baslik: 'Peru', kategori: 'kultur', src: '/boyama-yeni/kultur/peru.png' },
+  { id: 'kultur-tayland', baslik: 'Tayland', kategori: 'kultur', src: '/boyama-yeni/kultur/tayland.png' },
+  { id: 'kultur-vietnam', baslik: 'Vietnam', kategori: 'kultur', src: '/boyama-yeni/kultur/vietnam.png' },
+  { id: 'kultur-yeni-zelanda', baslik: 'Yeni Zelanda', kategori: 'kultur', src: '/boyama-yeni/kultur/yeni-zelanda.png' },
+  { id: 'kultur-yunanistan', baslik: 'Yunanistan', kategori: 'kultur', src: '/boyama-yeni/kultur/yunanistan.png' },
 ];
