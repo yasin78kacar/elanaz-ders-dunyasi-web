@@ -46,3 +46,27 @@
 }
 
 .by-ff-dogrula li { margin: 2px 0; }
+
+.by-ff-kategoriler {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 8px;
+}
+
+.by-ff-kat {
+  border: 2px solid #e8d8c8;
+  background: #fffef6;
+  color: #5a4a58;
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.by-ff-kat-secili {
+  background: #378ADD;
+  border-color: #378ADD;
+  color: #fff;
+}

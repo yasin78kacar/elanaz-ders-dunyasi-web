@@ -2,17 +2,15 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import { BOS, PALET } from '../boyama/tipler';
 import { duvarMaskesi, maskeSisir, taramaDoldur, type DoldurSonuc } from '../boyama/floodFill';
 import { floodFillDogrula, type DogrulaMadde } from '../boyama/floodFillDogrula';
+import {
+  FLOOD_KATEGORI_AD,
+  FLOOD_SAHNELER,
+  type FloodKategori,
+} from '../boyama/floodSahneler';
 import '../styles/BoyamaKosesi.css';
 import '../styles/BoyamaFloodFill.css';
 
-type Sahne = { id: string; baslik: string; src: string };
-
-const SAHNELER: Sahne[] = [
-  { id: 'fil-vahsi', baslik: 'Fil (vahşi)', src: '/boyama-yeni/fil-vahsi.png' },
-  { id: 'kopek-park', baslik: 'Köpek (park)', src: '/boyama-yeni/kopek-park.png' },
-  { id: 'ciftlik-avlu', baslik: 'Çiftlik avlusu', src: '/boyama-yeni/ciftlik-avlu.png' },
-  { id: 'dino-orman', baslik: 'Dino (orman)', src: '/boyama-yeni/dino-orman.png' },
-];
+const KATEGORILER = Object.keys(FLOOD_KATEGORI_AD) as FloodKategori[];
 
 function hexRgba(hex: string): readonly [number, number, number, number] {
   const n = hex.replace('#', '');
@@ -30,13 +28,15 @@ const BoyamaFloodFill: React.FC<Props> = ({ onClose }) => {
   const boyaRef = useRef<HTMLCanvasElement>(null);
   const hamRef = useRef<ImageData | null>(null);
   const maskRef = useRef<Uint8Array | null>(null);
+  const [kategori, setKategori] = useState<FloodKategori>('hayvanlar');
   const [ix, setIx] = useState(0);
   const [renk, setRenk] = useState(PALET[0]);
   const [son, setSon] = useState<DoldurSonuc | null>(null);
   const [dogrula, setDogrula] = useState<DogrulaMadde[] | null>(null);
   const [hata, setHata] = useState<string | null>(null);
   const [yuklu, setYuklu] = useState(false);
-  const sahne = SAHNELER[ix];
+  const sahneler = FLOOD_SAHNELER.filter((s) => s.kategori === kategori);
+  const sahne = sahneler[Math.min(ix, Math.max(0, sahneler.length - 1))] ?? sahneler[0];
 
   const yukle = useCallback(async (src: string) => {
     setHata(null);
@@ -143,7 +143,33 @@ const BoyamaFloodFill: React.FC<Props> = ({ onClose }) => {
       <button className="by-geri" type="button" onClick={onClose}>← Ana Sayfa</button>
       <header className="by-baslik-blok">
         <h1 className="by-baslik">🎨 Kova prototipi</h1>
-        <p className="by-alt">{sahne.baslik} · önce renk, sonra tuvale dokun</p>
+        <p className="by-alt">
+          {FLOOD_KATEGORI_AD[sahne.kategori]}
+          {' · '}
+          {sahne.baslik}
+          {' · '}
+          {ix + 1}
+          /
+          {sahneler.length}
+          {' · önce renk, sonra tuvale dokun'}
+        </p>
+        <div className="by-ff-kategoriler" role="tablist" aria-label="Kategori">
+          {KATEGORILER.map((k) => (
+            <button
+              key={k}
+              type="button"
+              role="tab"
+              aria-selected={k === kategori}
+              className={`by-ff-kat${k === kategori ? ' by-ff-kat-secili' : ''}`}
+              onClick={() => {
+                setKategori(k);
+                setIx(0);
+              }}
+            >
+              {FLOOD_KATEGORI_AD[k]}
+            </button>
+          ))}
+        </div>
       </header>
 
       {dogrula && (
@@ -209,11 +235,11 @@ const BoyamaFloodFill: React.FC<Props> = ({ onClose }) => {
 
       <div className="by-butonlar">
         <button type="button" className="by-btn by-btn-sifir" onClick={temizle}>Sıfırla</button>
-        {SAHNELER.length > 1 && (
+        {sahneler.length > 1 && (
           <button
             type="button"
             className="by-btn by-btn-yeni"
-            onClick={() => setIx((i) => (i + 1) % SAHNELER.length)}
+            onClick={() => setIx((i) => (i + 1) % sahneler.length)}
           >
             Diğer sahne
           </button>
