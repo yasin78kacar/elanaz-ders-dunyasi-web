@@ -5,12 +5,19 @@ import Oyunlar from './components/Oyunlar';
 import BesN1K from './components/BesN1K';
 import DenemeSinavi from './components/DenemeSinavi';
 import BoyamaKosesi from './components/BoyamaKosesi';
+import BoyamaFloodFill from './components/BoyamaFloodFill';
 import './App.css';
 
-type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k' | 'deneme' | 'boyama';
+type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k' | 'deneme' | 'boyama' | 'boyama-flood';
+
+function floodPrototipIsteniyor(): boolean {
+  return new URLSearchParams(window.location.search).has('boyama-flood');
+}
 
 function App() {
-  const [screen, setScreen] = useState<Screen>('quiz');
+  const [screen, setScreen] = useState<Screen>(() => (
+    floodPrototipIsteniyor() ? 'boyama-flood' : 'quiz'
+  ));
 
   return (
     <div className="app">
@@ -37,6 +44,9 @@ function App() {
       )}
       {screen === 'boyama' && (
         <BoyamaKosesi onClose={() => setScreen('quiz')} />
+      )}
+      {screen === 'boyama-flood' && (
+        <BoyamaFloodFill onClose={() => setScreen('quiz')} />
       )}
     </div>
   );
