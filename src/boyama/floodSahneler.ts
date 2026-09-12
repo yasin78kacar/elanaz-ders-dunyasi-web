@@ -1,4 +1,4 @@
-export type FloodKategori = 'hayvanlar' | 'ciftlik' | 'dinozorlar' | 'noel' | 'kultur';
+export type FloodKategori = 'hayvanlar' | 'ciftlik' | 'dinozorlar' | 'noel' | 'kultur' | 'kahramanlar';
 
 export type FloodSahne = {
   id: string;
@@ -13,6 +13,7 @@ export const FLOOD_KATEGORI_AD: Record<FloodKategori, string> = {
   dinozorlar: 'Dinozorlar',
   noel: 'Noel',
   kultur: 'Kültür',
+  kahramanlar: 'Kahramanlar',
 };
 
 export const FLOOD_SAHNELER: FloodSahne[] = [
@@ -157,4 +158,30 @@ export const FLOOD_SAHNELER: FloodSahne[] = [
   { id: 'kultur-vietnam', baslik: 'Vietnam', kategori: 'kultur', src: '/boyama-yeni/kultur/vietnam.png' },
   { id: 'kultur-yeni-zelanda', baslik: 'Yeni Zelanda', kategori: 'kultur', src: '/boyama-yeni/kultur/yeni-zelanda.png' },
   { id: 'kultur-yunanistan', baslik: 'Yunanistan', kategori: 'kultur', src: '/boyama-yeni/kultur/yunanistan.png' },
+
+  { id: 'kahraman-bilim-ilac', baslik: 'Bilim insanı', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/bilim-ilac.png' },
+  { id: 'kahraman-ciftci-lahana', baslik: 'Lahana tarlası', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/ciftci-lahana.png' },
+  { id: 'kahraman-ciftci-pirinc', baslik: 'Çiftçi', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/ciftci-pirinc.png' },
+  { id: 'kahraman-ciftci-traktor', baslik: 'Traktör', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/ciftci-traktor.png' },
+  { id: 'kahraman-cop-park', baslik: 'Park temizliği', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/cop-park.png' },
+  { id: 'kahraman-copcu', baslik: 'Çöpçü', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/copcu.png' },
+  { id: 'kahraman-gonullu-nehir', baslik: 'Nehir temizliği', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/gonullu-nehir.png' },
+  { id: 'kahraman-guvenlik', baslik: 'Güvenlik', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/guvenlik.png' },
+  { id: 'kahraman-hastane', baslik: 'Hastane', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/hastane.png' },
+  { id: 'kahraman-hemsire-bebek', baslik: 'Hemşire', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/hemsire-bebek.png' },
+  { id: 'kahraman-hemsire-kontrol', baslik: 'Hemşire kontrol', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/hemsire-kontrol.png' },
+  { id: 'kahraman-insaat', baslik: 'İnşaat', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/insaat.png' },
+  { id: 'kahraman-itfaiyeci-arac-2', baslik: 'İtfaiyeci', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/itfaiyeci-arac-2.png' },
+  { id: 'kahraman-kurye', baslik: 'Kurye', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/kurye.png' },
+  { id: 'kahraman-muhendis', baslik: 'Mühendis', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/muhendis.png' },
+  { id: 'kahraman-ogretmen', baslik: 'Öğretmen', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/ogretmen.png' },
+  { id: 'kahraman-paramedik-diz', baslik: 'Diz bakımı', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/paramedik-diz.png' },
+  { id: 'kahraman-paramedik', baslik: 'Paramedik', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/paramedik.png' },
+  { id: 'kahraman-polis-arac', baslik: 'Polis arabası', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/polis-arac.png' },
+  { id: 'kahraman-polis', baslik: 'Polis', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/polis.png' },
+  { id: 'kahraman-postaci', baslik: 'Postacı', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/postaci.png' },
+  { id: 'kahraman-sofor-otobus', baslik: 'Otobüs şoförü', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/sofor-otobus.png' },
+  { id: 'kahraman-tamirci', baslik: 'Tamirci', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/tamirci.png' },
+  { id: 'kahraman-temizlik-sokak', baslik: 'Sokak temizliği', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/temizlik-sokak.png' },
+  { id: 'kahraman-yardim', baslik: 'Yardım', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/yardim.png' },
 ];
