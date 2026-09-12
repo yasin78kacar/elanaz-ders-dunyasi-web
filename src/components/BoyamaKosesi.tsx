@@ -1,206 +1,215 @@
-import { useEffect, useRef, useState } from 'react';
-import { BOS, KATEGORI_AD, KATEGORI_EMOJI, PALET, bolgeKucukMu, type Kategori, type SayfaVeri } from '../boyama/tipler';
-import { SAYFA_SIRA, kategoriOzetleri, kategoriSayfalari, kategoriYukle, sayfaYukleId } from '../boyama/yukle';
-import { SayfaCiz } from '../boyama/SayfaCiz';
-import { sesAdim, sesZafer } from '../oyunlar/ses';
-import { Konfeti } from '../oyunlar/Konfeti';
-import '../styles/OyunIskelesi.css';
+import { useCallback, useEffect, useRef, useState } from 'react';
+import { BOS, PALET } from '../boyama/tipler';
+import { duvarMaskesi, maskeSisir, taramaDoldur } from '../boyama/floodFill';
+import {
+  FLOOD_KATEGORI_AD,
+  FLOOD_SAHNELER,
+  type FloodKategori,
+} from '../boyama/floodSahneler';
 import '../styles/BoyamaKosesi.css';
+import '../styles/BoyamaFloodFill.css';
 
-interface Props { onClose: () => void; }
+const KATEGORILER = Object.keys(FLOOD_KATEGORI_AD) as FloodKategori[];
 
-const KAT_KAGIT = [
-  '#fff4e5', '#e8f7ee', '#e8f1ff', '#fde8f0',
-  '#fff8d6', '#e8fbf7', '#f3e8ff', '#ffe9dd',
-];
+function hexRgba(hex: string): readonly [number, number, number, number] {
+  const n = hex.replace('#', '');
+  return [parseInt(n.slice(0, 2), 16), parseInt(n.slice(2, 4), 16), parseInt(n.slice(4, 6), 16), 255];
+}
+
+function icCozunurluk(): number {
+  return Math.min(window.devicePixelRatio || 1, 2);
+}
+
+type Props = { onClose: () => void };
 
 const BoyamaKosesi: React.FC<Props> = ({ onClose }) => {
-  const [kat, setKat] = useState<Kategori | null>(null);
+  const wrapRef = useRef<HTMLDivElement>(null);
+  const boyaRef = useRef<HTMLCanvasElement>(null);
+  const hamRef = useRef<ImageData | null>(null);
+  const maskRef = useRef<Uint8Array | null>(null);
+  const [kategori, setKategori] = useState<FloodKategori>('hayvanlar');
   const [ix, setIx] = useState(0);
-  const [sayfa, setSayfa] = useState<SayfaVeri | null>(null);
-  const [yukleniyor, setYukleniyor] = useState(false);
-  const [renkler, setRenkler] = useState<Record<string, string>>({});
-  const [secili, setSecili] = useState<string | null>(null);
-  const [paletAcik, setPaletAcik] = useState(false);
-  const [kutla, setKutla] = useState(false);
-  const kutlandi = useRef(false);
+  const [renk, setRenk] = useState(PALET[0]);
+  const [hata, setHata] = useState<string | null>(null);
+  const [yuklu, setYuklu] = useState(false);
+  const sahneler = FLOOD_SAHNELER.filter((s) => s.kategori === kategori);
+  const sahne = sahneler[Math.min(ix, Math.max(0, sahneler.length - 1))] ?? sahneler[0];
 
-  const katSayfalar = kat ? kategoriSayfalari(kat) : [];
+  const yukle = useCallback(async (src: string) => {
+    setHata(null);
+    setYuklu(false);
+    const wrap = wrapRef.current;
+    const boya = boyaRef.current;
+    if (!wrap || !boya) return;
 
-  useEffect(() => {
-    if (!kat) {
-      setSayfa(null);
-      setYukleniyor(false);
-      return;
-    }
-    const liste = kategoriSayfalari(kat);
-    const seciliOzet = liste[ix];
-    if (!seciliOzet) {
-      setSayfa(null);
-      setYukleniyor(false);
-      return;
-    }
-    let iptal = false;
-    setYukleniyor(true);
-    void sayfaYukleId(seciliOzet.id).then((s) => {
-      if (iptal) return;
-      setSayfa(s);
-      setYukleniyor(false);
+    const img = new Image();
+    img.decoding = 'sync';
+    await new Promise<void>((ok, no) => {
+      img.onload = () => ok();
+      img.onerror = () => no(new Error(`PNG yüklenemedi: ${src}`));
+      img.src = src;
     });
-    const sonraki = liste[(ix + 1) % liste.length];
-    if (sonraki && sonraki.id !== seciliOzet.id) void kategoriYukle(sonraki.kategori);
-    return () => { iptal = true; };
-  }, [kat, ix]);
 
-  const boyanacaklar = sayfa ? sayfa.bolgeler.filter((b) => !bolgeKucukMu(b)) : [];
-  const bolgeIdler = boyanacaklar.map((b) => b.id);
-  const boyanan = bolgeIdler.filter((id) => renkler[id] && renkler[id] !== BOS).length;
-  const renk = (id: string) => renkler[id] ?? BOS;
+    let cssW = wrap.clientWidth;
+    for (let i = 0; i < 20 && cssW < 8; i++) {
+      await new Promise<void>((r) => requestAnimationFrame(() => r()));
+      cssW = wrap.clientWidth;
+    }
+    if (cssW < 8) {
+      setHata('Tuval ölçülemedi');
+      return;
+    }
+    const cssH = Math.round(cssW * (img.naturalHeight / img.naturalWidth));
+    const dpr = icCozunurluk();
+    const w = Math.max(1, Math.round(cssW * dpr));
+    const h = Math.max(1, Math.round(cssH * dpr));
+
+    const off = document.createElement('canvas');
+    off.width = w;
+    off.height = h;
+    const octx = off.getContext('2d', { willReadFrequently: true });
+    if (!octx) {
+      setHata('Canvas 2D yok');
+      return;
+    }
+    octx.drawImage(img, 0, 0, w, h);
+    const cizgi = octx.getImageData(0, 0, w, h);
+    maskRef.current = maskeSisir(duvarMaskesi(cizgi.data, w, h), w, h);
+
+    boya.width = w;
+    boya.height = h;
+    boya.style.width = `${cssW}px`;
+    boya.style.height = `${cssH}px`;
+    const pctx = boya.getContext('2d', { willReadFrequently: true });
+    if (!pctx) {
+      setHata('Canvas 2D yok');
+      return;
+    }
+    pctx.fillStyle = BOS;
+    pctx.fillRect(0, 0, w, h);
+    hamRef.current = pctx.getImageData(0, 0, w, h);
+    setYuklu(true);
+  }, []);
 
   useEffect(() => {
-    if (!sayfa) return;
-    const idler = sayfa.bolgeler.filter((b) => !bolgeKucukMu(b)).map((b) => b.id);
-    const bitti = idler.length > 0 && idler.every((id) => renkler[id] && renkler[id] !== BOS);
-    if (bitti && !kutlandi.current) {
-      kutlandi.current = true;
-      setKutla(true);
-      sesZafer();
-    }
-  }, [renkler, sayfa]);
+    void yukle(sahne.src).catch((e: unknown) => {
+      setHata(e instanceof Error ? e.message : 'yükleme hatası');
+    });
+  }, [sahne.src, yukle]);
+
+  useEffect(() => {
+    const wrap = wrapRef.current;
+    if (!wrap || typeof ResizeObserver === 'undefined') return;
+    let sonW = wrap.clientWidth;
+    const goz = new ResizeObserver(() => {
+      const w = wrap.clientWidth;
+      if (Math.abs(w - sonW) < 2) return;
+      sonW = w;
+      void yukle(sahne.src);
+    });
+    goz.observe(wrap);
+    return () => goz.disconnect();
+  }, [sahne.src, yukle]);
+
+  const boyaNokta = (istemciX: number, istemciY: number) => {
+    const boya = boyaRef.current;
+    const ham = hamRef.current;
+    const mask = maskRef.current;
+    if (!boya || !ham || !mask) return;
+    const ctx = boya.getContext('2d', { willReadFrequently: true });
+    if (!ctx) return;
+    const kutu = boya.getBoundingClientRect();
+    const x = (istemciX - kutu.left) * (boya.width / kutu.width);
+    const y = (istemciY - kutu.top) * (boya.height / kutu.height);
+    const sonuc = taramaDoldur(ham.data, mask, boya.width, boya.height, x, y, hexRgba(renk));
+    if (sonuc.dolan > 0) ctx.putImageData(ham, 0, 0);
+  };
 
   const temizle = () => {
-    setRenkler({});
-    setSecili(null);
-    setPaletAcik(false);
-    setKutla(false);
-    kutlandi.current = false;
+    void yukle(sahne.src);
   };
-
-  const onSec = (id: string) => {
-    if (!sayfa) return;
-    const bolge = sayfa.bolgeler.find((b) => b.id === id);
-    if (!bolge || bolgeKucukMu(bolge)) return;
-    setSecili(id);
-    setPaletAcik(true);
-    sesAdim();
-  };
-
-  const boya = (hex: string) => {
-    if (!secili) return;
-    setRenkler((once) => ({ ...once, [secili]: hex }));
-  };
-
-  const gitSayfa = (delta: number) => {
-    const n = katSayfalar.length;
-    if (n <= 1) return;
-    setIx((i) => (i + delta + n) % n);
-    temizle();
-  };
-
-  const kategorilereDon = () => {
-    setKat(null);
-    setIx(0);
-    setSayfa(null);
-    temizle();
-  };
-
-  const kategoriAc = (kategori: Kategori) => {
-    setKat(kategori);
-    setIx(0);
-    temizle();
-  };
-
-  if (kat === null) {
-    const ozetler = kategoriOzetleri();
-    return (
-      <div className="by-wrap">
-        <button type="button" className="by-geri" onClick={onClose}>← Ana Sayfa</button>
-        <header className="by-baslik-blok">
-          <h1 className="by-baslik">🎨 Boyama Köşesi</h1>
-          <p className="by-alt">Bir konu seç, boyamaya başla! · {SAYFA_SIRA.length} sayfa</p>
-        </header>
-        <div className="by-kat-grid">
-          {ozetler.map((o, i) => (
-            <button
-              key={o.kategori}
-              type="button"
-              className="by-kat-kart"
-              style={{ background: KAT_KAGIT[i % KAT_KAGIT.length] }}
-              onClick={() => kategoriAc(o.kategori)}
-            >
-              <span className="by-kat-emoji" aria-hidden="true">{KATEGORI_EMOJI[o.kategori]}</span>
-              <span className="by-kat-ad">{KATEGORI_AD[o.kategori]}</span>
-              <span className="by-kat-adet">{o.adet} sayfa</span>
-            </button>
-          ))}
-        </div>
-      </div>
-    );
-  }
-
-  const n = katSayfalar.length;
 
   return (
     <div className="by-wrap">
-      <Konfeti goster={kutla} />
-      <button type="button" className="by-geri" onClick={kategorilereDon}>← Konular</button>
+      <button className="by-geri" type="button" onClick={onClose}>← Ana Sayfa</button>
       <header className="by-baslik-blok">
-        <h1 className="by-baslik">🎨 {KATEGORI_AD[kat]}</h1>
+        <h1 className="by-baslik">🎨 Boyama Köşesi</h1>
         <p className="by-alt">
-          {sayfa && !yukleniyor
-            ? `${sayfa.baslik} · ${ix + 1} / ${n} · ${boyanan} / ${bolgeIdler.length} boyandı`
-            : 'Sayfa geliyor…'}
+          {FLOOD_KATEGORI_AD[sahne.kategori]}
+          {' · '}
+          {sahne.baslik}
+          {' · '}
+          {ix + 1}
+          /
+          {sahneler.length}
+          {' · önce renk, sonra tuvale dokun'}
         </p>
+        <div className="by-ff-kategoriler" role="tablist" aria-label="Kategori">
+          {KATEGORILER.map((k) => (
+            <button
+              key={k}
+              type="button"
+              role="tab"
+              aria-selected={k === kategori}
+              className={`by-ff-kat${k === kategori ? ' by-ff-kat-secili' : ''}`}
+              onClick={() => {
+                setKategori(k);
+                setIx(0);
+              }}
+            >
+              {FLOOD_KATEGORI_AD[k]}
+            </button>
+          ))}
+        </div>
       </header>
 
       <div className="by-kagit">
-        {sayfa && !yukleniyor ? (
-          <svg
-            className="by-svg"
-            viewBox={sayfa.viewBox ?? '0 0 400 360'}
-            xmlns="http://www.w3.org/2000/svg"
-            role="img"
-            aria-label={sayfa.baslik}
-            onClick={() => { setSecili(null); setPaletAcik(false); }}
-          >
-            <SayfaCiz sayfa={sayfa} renk={renk} secili={secili} onSec={onSec} />
-          </svg>
-        ) : (
-          <div className="by-yukle" role="status">Sayfa geliyor…</div>
-        )}
-        {kutla && (
-          <div className="by-kutla" role="status">
-            <span className="by-kutla-emoji">🎉</span>
-            <p>Harika! Hepsi boyandı!</p>
-          </div>
-        )}
+        <div ref={wrapRef} className="by-ff-sahne">
+          <canvas
+            ref={boyaRef}
+            className="by-ff-boya"
+            aria-label={sahne.baslik}
+            onPointerDown={(e) => {
+              if (e.button !== 0) return;
+              boyaNokta(e.clientX, e.clientY);
+            }}
+          />
+          {yuklu && (
+            <img
+              className="by-ff-cizgi"
+              src={sahne.src}
+              alt=""
+              draggable={false}
+            />
+          )}
+        </div>
+      </div>
+      {hata && <p className="by-alt" role="alert">{hata}</p>}
+
+      <div className="by-palet" role="listbox" aria-label="Renk paleti">
+        {PALET.map((hex) => (
+          <button
+            key={hex}
+            type="button"
+            className={`by-renk${renk === hex ? ' by-renk-secili' : ''}`}
+            style={{ background: hex }}
+            aria-label={`Renk ${hex}`}
+            onClick={() => setRenk(hex)}
+          />
+        ))}
       </div>
 
-      {paletAcik && secili ? (
-        <div className="by-palet" role="listbox" aria-label="Renk paleti">
-          {PALET.map((hex) => (
-            <button
-              key={hex}
-              type="button"
-              className={`by-renk${renkler[secili] === hex ? ' by-renk-secili' : ''}`}
-              style={{ background: hex }}
-              aria-label={`Renk ${hex}`}
-              onClick={() => boya(hex)}
-            />
-          ))}
-        </div>
-      ) : (
-        <p className="by-ipucu">Bir yere dokun, sonra renk seç.</p>
-      )}
-
       <div className="by-butonlar">
-        <button type="button" className="by-btn by-btn-once" onClick={() => gitSayfa(-1)} disabled={n <= 1}>
-          Önceki
-        </button>
         <button type="button" className="by-btn by-btn-sifir" onClick={temizle}>Sıfırla</button>
-        <button type="button" className="by-btn by-btn-yeni" onClick={() => gitSayfa(1)} disabled={n <= 1}>
-          Sonraki
-        </button>
+        {sahneler.length > 1 && (
+          <button
+            type="button"
+            className="by-btn by-btn-yeni"
+            onClick={() => setIx((i) => (i + 1) % sahneler.length)}
+          >
+            Diğer sahne
+          </button>
+        )}
       </div>
     </div>
   );
