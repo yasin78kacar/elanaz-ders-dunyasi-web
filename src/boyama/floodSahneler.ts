@@ -1,4 +1,4 @@
-export type FloodKategori = 'hayvanlar' | 'ciftlik' | 'dinozorlar' | 'noel' | 'kultur' | 'kahramanlar';
+export type FloodKategori = 'hayvanlar' | 'ciftlik' | 'dinozorlar' | 'noel' | 'kultur' | 'kahramanlar' | 'masallar';
 
 export type FloodSahne = {
   id: string;
@@ -14,6 +14,7 @@ export const FLOOD_KATEGORI_AD: Record<FloodKategori, string> = {
   noel: 'Noel',
   kultur: 'Kültür',
   kahramanlar: 'Kahramanlar',
+  masallar: 'Masallar',
 };
 
 export const FLOOD_SAHNELER: FloodSahne[] = [
@@ -184,4 +185,31 @@ export const FLOOD_SAHNELER: FloodSahne[] = [
   { id: 'kahraman-tamirci', baslik: 'Tamirci', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/tamirci.png' },
   { id: 'kahraman-temizlik-sokak', baslik: 'Sokak temizliği', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/temizlik-sokak.png' },
   { id: 'kahraman-yardim', baslik: 'Yardım', kategori: 'kahramanlar', src: '/boyama-yeni/kahramanlar/yardim.png' },
+
+  { id: 'masal-ankka', baslik: 'Anka kuşu', kategori: 'masallar', src: '/boyama-yeni/masallar/ankka.png' },
+  { id: 'masal-ayna-gol', baslik: 'Ayna göl', kategori: 'masallar', src: '/boyama-yeni/masallar/ayna-gol.png' },
+  { id: 'masal-buyucu-atolyesi', baslik: 'Büyücü atölyesi', kategori: 'masallar', src: '/boyama-yeni/masallar/buyucu-atolyesi.png' },
+  { id: 'masal-buyucu-kutuphane', baslik: 'Büyücü kütüphanesi', kategori: 'masallar', src: '/boyama-yeni/masallar/buyucu-kutuphane.png' },
+  { id: 'masal-buyulu-hayvan', baslik: 'Büyülü hayvanlar', kategori: 'masallar', src: '/boyama-yeni/masallar/buyulu-hayvan.png' },
+  { id: 'masal-buyulu-kulube', baslik: 'Büyülü kulübe', kategori: 'masallar', src: '/boyama-yeni/masallar/buyulu-kulube.png' },
+  { id: 'masal-deniz-kizi', baslik: 'Deniz kızı', kategori: 'masallar', src: '/boyama-yeni/masallar/deniz-kizi.png' },
+  { id: 'masal-deniz-yilan', baslik: 'Deniz atı', kategori: 'masallar', src: '/boyama-yeni/masallar/deniz-yilan.png' },
+  { id: 'masal-dev-bahce', baslik: 'Dev bahçesi', kategori: 'masallar', src: '/boyama-yeni/masallar/dev-bahce.png' },
+  { id: 'masal-dev-kale', baslik: 'Dev kalesi', kategori: 'masallar', src: '/boyama-yeni/masallar/dev-kale.png' },
+  { id: 'masal-ejderha-sovalye', baslik: 'Ejderha ve şövalye', kategori: 'masallar', src: '/boyama-yeni/masallar/ejderha-sovalye.png' },
+  { id: 'masal-goblin-pazar', baslik: 'Goblin pazarı', kategori: 'masallar', src: '/boyama-yeni/masallar/goblin-pazar.png' },
+  { id: 'masal-hali-fabrika', baslik: 'Halı fabrikası', kategori: 'masallar', src: '/boyama-yeni/masallar/hali-fabrika.png' },
+  { id: 'masal-kale-macera', baslik: 'Kale', kategori: 'masallar', src: '/boyama-yeni/masallar/kale-macera.png' },
+  { id: 'masal-karlar-kralicesi', baslik: 'Karlar kraliçesi', kategori: 'masallar', src: '/boyama-yeni/masallar/karlar-kralicesi.png' },
+  { id: 'masal-kristal-magara', baslik: 'Kristal mağara', kategori: 'masallar', src: '/boyama-yeni/masallar/kristal-magara.png' },
+  { id: 'masal-masal-balo', baslik: 'Masal balosu', kategori: 'masallar', src: '/boyama-yeni/masallar/masal-balo.png' },
+  { id: 'masal-peri-anne', baslik: 'Peri', kategori: 'masallar', src: '/boyama-yeni/masallar/peri-anne.png' },
+  { id: 'masal-peri-halka', baslik: 'Peri halkası', kategori: 'masallar', src: '/boyama-yeni/masallar/peri-halka.png' },
+  { id: 'masal-peri-koyu', baslik: 'Peri köyü', kategori: 'masallar', src: '/boyama-yeni/masallar/peri-koyu.png' },
+  { id: 'masal-saat-kulesi', baslik: 'Saat kulesi', kategori: 'masallar', src: '/boyama-yeni/masallar/saat-kulesi.png' },
+  { id: 'masal-sihirli-bahce', baslik: 'Sihirli bahçe', kategori: 'masallar', src: '/boyama-yeni/masallar/sihirli-bahce.png' },
+  { id: 'masal-trol-kopru', baslik: 'Trol köprüsü', kategori: 'masallar', src: '/boyama-yeni/masallar/trol-kopru.png' },
+  { id: 'masal-ucan-hali', baslik: 'Uçan halı', kategori: 'masallar', src: '/boyama-yeni/masallar/ucan-hali.png' },
+  { id: 'masal-unikorn', baslik: 'Unicorn', kategori: 'masallar', src: '/boyama-yeni/masallar/unikorn.png' },
+  { id: 'masal-yildiz-balo', baslik: 'Yıldız balosu', kategori: 'masallar', src: '/boyama-yeni/masallar/yildiz-balo.png' },
 ];
