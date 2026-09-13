@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback, useRef, memo } from 'react';
 import '../styles/QuizViewer.css';
 import AnalogClock from './AnalogClock';
 import DigitalClock from './DigitalClock';
+import HomePage, { SUBJECT_ROUTE_TO_LABEL, type HomeRoute } from '../pages/home/HomePage';
 
 interface Question {
   id: string;
@@ -246,6 +247,8 @@ interface Props {
   onBesN1KAc?: () => void;
   onDenemeAc?: () => void;
   onBoyamaAc?: () => void;
+  /** Geçici: /?yeni-anasayfa=1 iken yeni HomePage gösterilir. Varsayılan ana sayfa değişmez. */
+  yeniAnasayfa?: boolean;
 }
 
 // Sayac kendi state'ini tutar; boylece saniyelik tik yalniz bu minik bileseni
@@ -274,7 +277,7 @@ const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTi
   return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
 });
 
-const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc }) => {
+const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc, yeniAnasayfa }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
@@ -580,6 +583,61 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
 
   // 2. Home Dashboard View
   if (view === 'home') {
+    if (yeniAnasayfa) {
+      const git = (route: HomeRoute) => {
+        if (route === 'test/deneme') { onDenemeAc?.(); return; }
+        if (route === 'hikaye-kosesi') { onHikayeAc?.(); return; }
+        if (route === 'boyama-kosesi') { onBoyamaAc?.(); return; }
+        if (route === 'mini-oyunlar') { onOyunlarAc?.(); return; }
+        if (route === 'ogrenme-kosesi') { setView('ogrenme_home'); return; }
+        if (route === 'besn1k') { onBesN1KAc?.(); return; }
+        if (route === 'siralama') { setView('leaderboard'); return; }
+        if (route === 'ilerleme') { setView('stats'); return; }
+        if (route === 'hakkinda') { setView('about'); return; }
+        if (route === 'hata-kutusu') {
+              const h = hatalariGetir(profilAdi);
+              if (h.length === 0) {
+                alert('Hata kutun şu an boş! Harikasın! 🌟');
+                return;
+              }
+              setHataModu(true);
+              setQuestions(h);
+              setCurrentIndex(0);
+              setScore(0);
+              setFeedback('idle');
+              setSelectedOption(null);
+              setView('quiz');
+          return;
+        }
+        const label = SUBJECT_ROUTE_TO_LABEL[route];
+        if (label) {
+          setSelectedSubject(label);
+          setView('theme_selection');
+        }
+      };
+      return (
+        <HomePage
+          profiles={profiller}
+          activeName={profilAdi}
+          questionCount={__TOTAL_QUESTIONS__}
+          onSelectProfile={(ad) => {
+            localStorage.setItem(AKTIF_KEY, ad);
+            setProfilAdi(ad);
+          }}
+          onAddProfile={() => {
+            setYeniProfilModu(true);
+            setView('profile_selection');
+          }}
+          onChangeProfile={() => {
+            localStorage.removeItem(AKTIF_KEY);
+            setProfilAdi('');
+            setView('profile_selection');
+          }}
+          onNavigate={git}
+        />
+      );
+    }
+
     const activeGrade = aktifSinif(profilAdi);
     const sinifNoHome = Number(activeGrade);
     const visibleSubjects = SUBJECTS.filter(s => {

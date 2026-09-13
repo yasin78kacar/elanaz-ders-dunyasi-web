@@ -11,6 +11,7 @@ type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k' | 'deneme' | 'boyama';
 
 function App() {
   const [screen, setScreen] = useState<Screen>('quiz');
+  const yeniAnasayfa = new URLSearchParams(window.location.search).get('yeni-anasayfa') === '1';
 
   return (
     <div className="app">
@@ -21,6 +22,7 @@ function App() {
           onBesN1KAc={() => setScreen('besn1k')}
           onDenemeAc={() => setScreen('deneme')}
           onBoyamaAc={() => setScreen('boyama')}
+          yeniAnasayfa={yeniAnasayfa}
         />
       )}
       {screen === 'hikaye' && (
