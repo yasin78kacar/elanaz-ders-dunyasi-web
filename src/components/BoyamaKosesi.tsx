@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { BOS, PALET } from '../boyama/tipler';
+import { BOS, METALIK_PALET, PALET } from '../boyama/tipler';
 import { duvarMaskesi, maskeSisir, taramaDoldur } from '../boyama/floodFill';
 import {
   FLOOD_KATEGORI_AD,
@@ -30,6 +30,7 @@ const BoyamaKosesi: React.FC<Props> = ({ onClose }) => {
   const [kategori, setKategori] = useState<FloodKategori>('hayvanlar');
   const [ix, setIx] = useState(0);
   const [renk, setRenk] = useState(PALET[0]);
+  const [metalikMi, setMetalikMi] = useState(false);
   const [hata, setHata] = useState<string | null>(null);
   const [yuklu, setYuklu] = useState(false);
   const sahneler = FLOOD_SAHNELER.filter((s) => s.kategori === kategori);
@@ -121,7 +122,7 @@ const BoyamaKosesi: React.FC<Props> = ({ onClose }) => {
     const kutu = boya.getBoundingClientRect();
     const x = (istemciX - kutu.left) * (boya.width / kutu.width);
     const y = (istemciY - kutu.top) * (boya.height / kutu.height);
-    const sonuc = taramaDoldur(ham.data, mask, boya.width, boya.height, x, y, hexRgba(renk));
+    const sonuc = taramaDoldur(ham.data, mask, boya.width, boya.height, x, y, hexRgba(renk), 12, metalikMi);
     if (sonuc.dolan > 0) ctx.putImageData(ham, 0, 0);
   };
 
@@ -191,10 +192,29 @@ const BoyamaKosesi: React.FC<Props> = ({ onClose }) => {
           <button
             key={hex}
             type="button"
-            className={`by-renk${renk === hex ? ' by-renk-secili' : ''}`}
+            className={`by-renk${renk === hex && !metalikMi ? ' by-renk-secili' : ''}`}
             style={{ background: hex }}
             aria-label={`Renk ${hex}`}
-            onClick={() => setRenk(hex)}
+            onClick={() => {
+              setRenk(hex);
+              setMetalikMi(false);
+            }}
+          />
+        ))}
+      </div>
+      <div className="by-metalik-palet" role="listbox" aria-label="Metalik renkler">
+        {METALIK_PALET.map((m) => (
+          <button
+            key={m.hex}
+            type="button"
+            className={`by-renk by-renk-metalik${renk === m.hex && metalikMi ? ' by-renk-secili' : ''}`}
+            data-metal={m.ad}
+            title={m.ad}
+            aria-label={m.ad}
+            onClick={() => {
+              setRenk(m.hex);
+              setMetalikMi(true);
+            }}
           />
         ))}
       </div>

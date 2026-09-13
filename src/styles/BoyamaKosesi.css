@@ -81,6 +81,30 @@
   outline-offset: 2px;
 }
 
+.by-metalik-palet {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+  justify-items: center;
+  margin-top: 8px;
+  padding-top: 10px;
+  border-top: 1px solid #e4d6c8;
+  flex-shrink: 0;
+}
+
+.by-renk-metalik[data-metal='Altın'] {
+  background: linear-gradient(135deg, #F5E7A0, #D4AF37, #8B6914);
+}
+.by-renk-metalik[data-metal='Gümüş'] {
+  background: linear-gradient(135deg, #ffffff, #C0C0C0, #7a7a7a);
+}
+.by-renk-metalik[data-metal='Bronz'] {
+  background: linear-gradient(135deg, #E8C39E, #CD7F32, #8B5A2B);
+}
+.by-renk-metalik[data-metal='Bakır'] {
+  background: linear-gradient(135deg, #E6A57A, #B87333, #7A4A1E);
+}
+
 .by-butonlar {
   display: flex;
   gap: 12px;

@@ -14,3 +14,10 @@ export const PALET: readonly string[] = [
   '#880E4F', '#E91E63', '#FF9EC4', '#FFD1DC',
   '#5D4037', '#A1887F', '#9E9E9E', '#1C1C1C',
 ];
+
+export const METALIK_PALET: readonly { hex: string; ad: string }[] = [
+  { hex: '#D4AF37', ad: 'Altın' },
+  { hex: '#C0C0C0', ad: 'Gümüş' },
+  { hex: '#CD7F32', ad: 'Bronz' },
+  { hex: '#B87333', ad: 'Bakır' },
+];

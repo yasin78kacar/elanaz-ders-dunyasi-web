@@ -92,6 +92,12 @@ export function enYakinDolgulanabilir(
   return null;
 }
 
+function clamp(n: number, min: number, max: number): number {
+  if (n < min) return min;
+  if (n > max) return max;
+  return n;
+}
+
 function ayniRenk(
   data: Uint8ClampedArray,
   w: number,
@@ -119,6 +125,7 @@ export function taramaDoldur(
   y0: number,
   renk: Rgba,
   maxKaydir = 12,
+  metalik = false,
 ): DoldurSonuc {
   const t0 = performance.now();
   const xBas = Math.floor(x0);
@@ -151,6 +158,7 @@ export function taramaDoldur(
   let maxX = x;
   let minY = y;
   let maxY = y;
+  const boyanan = metalik ? [] as number[] : null;
 
   while (stackX.length > 0) {
     const cx = stackX.pop() as number;
@@ -170,6 +178,7 @@ export function taramaDoldur(
       data[i + 1] = tg;
       data[i + 2] = tb;
       data[i + 3] = ta;
+      if (boyanan) boyanan.push(i);
       dolan += 1;
 
       if (cy > 0) {
@@ -193,6 +202,24 @@ export function taramaDoldur(
     if (right > maxX) maxX = right;
     if (cy < minY) minY = cy;
     if (cy > maxY) maxY = cy;
+  }
+
+  if (metalik && boyanan && boyanan.length > 0) {
+    const spanX = maxX - minX || 1;
+    const spanY = maxY - minY || 1;
+    for (const i of boyanan) {
+      const p = i >> 2;
+      const px = p % w;
+      const py = (p - px) / w;
+      const u = (px - minX) / spanX;
+      const v = (py - minY) / spanY;
+      let f = 1.35 - 0.55 * ((u + v) / 2);
+      if (v < 0.18) f += 0.20 * (1 - v / 0.18);
+      if (v > 0.82) f -= 0.15 * ((v - 0.82) / 0.18);
+      data[i] = clamp(tr * f, 0, 255);
+      data[i + 1] = clamp(tg * f, 0, 255);
+      data[i + 2] = clamp(tb * f, 0, 255);
+    }
   }
 
   return {
