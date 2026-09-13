@@ -1,4 +1,4 @@
-export type FloodKategori = 'hayvanlar' | 'ciftlik' | 'dinozorlar' | 'kultur' | 'kahramanlar' | 'masallar';
+export type FloodKategori = 'hayvanlar' | 'ciftlik' | 'dinozorlar' | 'kultur' | 'kahramanlar' | 'masallar' | 'mevsimler';
 
 export type FloodSahne = {
   id: string;
@@ -14,6 +14,7 @@ export const FLOOD_KATEGORI_AD: Record<FloodKategori, string> = {
   kultur: 'Kültür',
   kahramanlar: 'Kahramanlar',
   masallar: 'Masallar',
+  mevsimler: 'Mevsimler',
 };
 
 export const FLOOD_SAHNELER: FloodSahne[] = [
@@ -148,4 +149,25 @@ export const FLOOD_SAHNELER: FloodSahne[] = [
   { id: 'masal-trol-kopru', baslik: 'Trol köprüsü', kategori: 'masallar', src: '/boyama-yeni/masallar/trol-kopru.png' },
   { id: 'masal-unikorn', baslik: 'Unicorn', kategori: 'masallar', src: '/boyama-yeni/masallar/unikorn.png' },
   { id: 'masal-yildiz-balo', baslik: 'Yıldız balosu', kategori: 'masallar', src: '/boyama-yeni/masallar/yildiz-balo.png' },
+
+  { id: 'mevsim-bahar-cicekleri', baslik: 'Bahar çiçekleri', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/bahar-cicekleri.png' },
+  { id: 'mevsim-bahar-piknik', baslik: 'Bahar pikniği', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/bahar-piknik.png' },
+  { id: 'mevsim-bahce-isleri', baslik: 'Bahçe işleri', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/bahce-isleri.png' },
+  { id: 'mevsim-ciftlik-hasat', baslik: 'Çiftlikte hasat', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/ciftlik-hasat.png' },
+  { id: 'mevsim-elma-agaci', baslik: 'Elma ağacı', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/elma-agaci.png' },
+  { id: 'mevsim-gulen-gunes', baslik: 'Gülen güneş', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/gulen-gunes.png' },
+  { id: 'mevsim-gunes-deniz', baslik: 'Güneş ve deniz', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/gunes-deniz.png' },
+  { id: 'mevsim-kamp-atesi', baslik: 'Kamp ateşi', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/kamp-atesi.png' },
+  { id: 'mevsim-kardan-adam', baslik: 'Kardan adam', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/kardan-adam.png' },
+  { id: 'mevsim-karli-orman', baslik: 'Karlı orman', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/karli-orman.png' },
+  { id: 'mevsim-kayak-keyfi', baslik: 'Kayak keyfi', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/kayak-keyfi.png' },
+  { id: 'mevsim-kis-eglencesi', baslik: 'Kış eğlencesi', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/kis-eglencesi.png' },
+  { id: 'mevsim-kis-koyu', baslik: 'Kış köyü', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/kis-koyu.png' },
+  { id: 'mevsim-kova-kurek', baslik: 'Kova ve kürek', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/kova-kurek.png' },
+  { id: 'mevsim-kus-yuvasi', baslik: 'Kuş yuvası', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/kus-yuvasi.png' },
+  { id: 'mevsim-meyve-toplama', baslik: 'Meyve toplama', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/meyve-toplama.png' },
+  { id: 'mevsim-penguenler', baslik: 'Penguenler', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/penguenler.png' },
+  { id: 'mevsim-plaj-gunes', baslik: 'Plajda güneş', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/plaj-gunes.png' },
+  { id: 'mevsim-plaj-piknik', baslik: 'Plaj pikniği', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/plaj-piknik.png' },
+  { id: 'mevsim-yagmurda-oyun', baslik: 'Yağmurda oyun', kategori: 'mevsimler', src: '/boyama-yeni/mevsimler/yagmurda-oyun.png' },
 ];
