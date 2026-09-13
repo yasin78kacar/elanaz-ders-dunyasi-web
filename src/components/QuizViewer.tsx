@@ -41,6 +41,8 @@ interface SubjectDef {
   folder: string;
   emoji: string;
   color: string;
+  /** Beyaz zemin üzerinde başlık/metin için koyu ton (kart zemin rengi color'dır). */
+  textColor?: string;
   /** Varsa Tema 1–10 yerine bu kategori menüsü kullanılır (Zeka-Dikkat). */
   kategoriler?: ZekaKategori[];
   /** Varsa Tema 1–10 yerine adlı tema listesi kullanılır (Sosyal Bilgiler). */
@@ -103,14 +105,14 @@ const SOSYAL_TEMALAR: SubjectTema[] = [
 ];
 
 const SUBJECTS: SubjectDef[] = [
-  { label: 'Matematik',        folder: 'math',    emoji: '🔢', color: '#FF6B6B' },
-  { label: 'Türkçe',           folder: 'turkce',  emoji: '📖', color: '#4ECDC4' },
-  { label: 'Fen Bilimleri',    folder: 'fen',     emoji: '🔬', color: '#45B7D1' },
-  { label: 'Hayat Bilgisi',    folder: 'hayat',   emoji: '🌍', color: '#96CEB4' },
-  { label: 'İngilizce',        folder: 'english', emoji: '🌟', color: '#FFEAA7' },
-  { label: 'Görsel Sanatlar',  folder: 'gorsel',  emoji: '🖼️', color: '#EC4899', kategoriler: GORSEL_KATEGORILER, siniflar: [2] },
-  { label: 'Sosyal Bilgiler',  folder: 'sosyal',  emoji: '🧭', color: '#F97316', temalar: SOSYAL_TEMALAR, siniflar: [4] },
-  { label: 'Zeka-Dikkat',      folder: 'zeka',    emoji: '🧩', color: '#A78BFA', kategoriler: ZEKA_KATEGORILER },
+  { label: 'Matematik',        folder: 'math',    emoji: '🔢', color: '#FF6B6B', textColor: '#C92A2A' },
+  { label: 'Türkçe',           folder: 'turkce',  emoji: '📖', color: '#4ECDC4', textColor: '#0B7285' },
+  { label: 'Fen Bilimleri',    folder: 'fen',     emoji: '🔬', color: '#45B7D1', textColor: '#1864AB' },
+  { label: 'Hayat Bilgisi',    folder: 'hayat',   emoji: '🌍', color: '#96CEB4', textColor: '#2B8A3E' },
+  { label: 'İngilizce',        folder: 'english', emoji: '🌟', color: '#FFEAA7', textColor: '#B8860B' },
+  { label: 'Görsel Sanatlar',  folder: 'gorsel',  emoji: '🖼️', color: '#EC4899', textColor: '#A61E4D', kategoriler: GORSEL_KATEGORILER, siniflar: [2] },
+  { label: 'Sosyal Bilgiler',  folder: 'sosyal',  emoji: '🧭', color: '#F97316', textColor: '#C2410C', temalar: SOSYAL_TEMALAR, siniflar: [4] },
+  { label: 'Zeka-Dikkat',      folder: 'zeka',    emoji: '🧩', color: '#A78BFA', textColor: '#6D28D9', kategoriler: ZEKA_KATEGORILER },
 ];
 
 // "Öğrenme Köşesi" — mevcut ders sistemine dahil DEĞİL (ana derslerde görünmez),
@@ -122,6 +124,7 @@ const OGRENME: SubjectDef & {
   folder: 'ogrenme',
   emoji: '🧠',
   color: '#0EA5A5',
+  textColor: '#0F766E',
   temalar: [
     { tema: 'Tema 1', baslik: 'Soru Kelimeleri', emoji: '❓', renk: '#6366F1', alt: 'Ne? Kim? Nerede? Ne zaman? Neden? Nasıl?' },
     { tema: 'Tema 2', baslik: 'Saat Okuma',      emoji: '🕐', renk: '#0EA5A5', alt: 'Tam, buçuk ve çeyrek saatler' },
@@ -838,7 +841,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     return (
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
-        <h1 className="home-title" style={{ color: activeSubject.color }}>{activeSubject.emoji} {selectedSubject}</h1>
+        <h1 className="home-title" style={{ color: activeSubject.textColor || activeSubject.color }}>{activeSubject.emoji} {selectedSubject}</h1>
         <h2 className="qv-section-title" style={{ marginTop: '20px', textAlign: 'center' }}>
           {kategoriMenusu ? '🗂️ Bir Kategori Seç ve Başla!' : '🗂️ Bir Tema Seç ve Başla!'}
         </h2>
