@@ -30,3 +30,28 @@ tmp/
 augment*.mjs
 augment_questions.mjs
 fix_script.mjs
+
+# Boyama ham kaynak arşivi (1,1 GB — diskte kalır, repo'ya girmez)
+kaynak-boyama/
+
+# Üretim/dönüştürme scriptleri
+scripts/
+
+# Boyama prototip taslağı
+public/boyama/
+
+# Kullanılmayan kök PNG artıkları (floodSahneler.ts referans vermiyor)
+public/boyama-yeni/dino.png
+public/boyama-yeni/domuz.png
+public/boyama-yeni/fil.png
+public/boyama-yeni/inek.png
+public/boyama-yeni/zurafa.png
+
+# Geçici taslaklar
+tmp_*.py
+tmp_*.json
+public/tmp_*.html
+
+# AI araç ayarları (yerel geliştirme ortamı)
+.claude/
+.cursor/

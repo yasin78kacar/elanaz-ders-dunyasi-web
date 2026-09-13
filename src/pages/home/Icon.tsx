@@ -19,12 +19,8 @@ const PATHS: Record<IconName, ReactElement> = {
   ),
   math: (
     <>
-      <path d="M7.5 5.2v4.6M5.2 7.5h4.6" />
-      <path d="M14.2 7.5h4.6" />
-      <path d="m5.7 14.7 3.6 3.6M9.3 14.7l-3.6 3.6" />
-      <path d="M14.2 16.5h4.6" />
-      <circle cx="16.5" cy="14.2" r=".9" fill="currentColor" stroke="none" />
-      <circle cx="16.5" cy="18.8" r=".9" fill="currentColor" stroke="none" />
+      <path d="M8 4.2v7.2M4.4 7.8h7.2" />
+      <path d="m13.4 13.4 6.4 6.4M19.8 13.4l-6.4 6.4" />
     </>
   ),
   turkish: (
@@ -47,9 +43,12 @@ const PATHS: Record<IconName, ReactElement> = {
   ),
   english: (
     <>
-      <path d="M4.5 4.8h15A2.4 2.4 0 0 1 21.9 7.2v7.4a2.4 2.4 0 0 1-2.4 2.4h-3.4L12 21.2l-4.1-4.2H4.5A2.4 2.4 0 0 1 2.1 14.6V7.2A2.4 2.4 0 0 1 4.5 4.8z" />
-      <path d="M9.2 14.4 12 7.6l2.8 6.8" />
-      <path d="M10.1 12h3.8" />
+      <path d="M1.6 18.4 4.4 5.6 7.2 18.4" />
+      <path d="M2.9 13.2h3" />
+      <path d="M8.6 5.6v12.8" />
+      <path d="M8.6 5.6h3.1a2.45 2.45 0 0 1 0 4.9H8.6" />
+      <path d="M8.6 10.5h3.5a3.15 3.95 0 0 1 0 7.9H8.6" />
+      <path d="M22.6 7.8A3.6 6.2 0 1 0 22.6 16.2" />
     </>
   ),
   social: (
