@@ -250,6 +250,7 @@ interface Props {
   onBesN1KAc?: () => void;
   onDenemeAc?: () => void;
   onBoyamaAc?: () => void;
+  onIngilizceAc?: () => void;
   /** Geçici: /?yeni-anasayfa=1 iken yeni HomePage gösterilir. Varsayılan ana sayfa değişmez. */
   yeniAnasayfa?: boolean;
 }
@@ -280,7 +281,7 @@ const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTi
   return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
 });
 
-const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc, yeniAnasayfa }) => {
+const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc, onIngilizceAc, yeniAnasayfa }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
@@ -593,6 +594,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
         if (route === 'boyama-kosesi') { onBoyamaAc?.(); return; }
         if (route === 'mini-oyunlar') { onOyunlarAc?.(); return; }
         if (route === 'ogrenme-kosesi') { setView('ogrenme_home'); return; }
+        if (route === 'ingilizce-ogren') { onIngilizceAc?.(); return; }
         if (route === 'besn1k') { onBesN1KAc?.(); return; }
         if (route === 'siralama') { setView('leaderboard'); return; }
         if (route === 'ilerleme') { setView('stats'); return; }
@@ -730,6 +732,17 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
             </span>
             <span className="qv-hikaye-btn-arrow">›</span>
           </button>
+
+          {onIngilizceAc && (
+            <button className="qv-ogrenme-btn" id="btn-ingilizce-ogren" onClick={onIngilizceAc}>
+              <span className="qv-hikaye-btn-emoji">🔤</span>
+              <span className="qv-hikaye-btn-text">
+                <span className="qv-hikaye-btn-title">İngilizce Öğreniyorum</span>
+                <span className="qv-hikaye-btn-sub">Alfabe, kelimeler ve okunuşları</span>
+              </span>
+              <span className="qv-hikaye-btn-arrow">›</span>
+            </button>
+          )}
 
           {/* 5N1K — kendi bölümü (tablo doldurma) */}
           {onBesN1KAc && (

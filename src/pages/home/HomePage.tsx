@@ -26,7 +26,8 @@ export type HomeRoute =
   | 'hata-kutusu'
   | 'siralama'
   | 'ilerleme'
-  | 'hakkinda';
+  | 'hakkinda'
+  | 'ingilizce-ogren';
 
 export const SUBJECT_ROUTE_TO_LABEL: Record<string, string> = {
   matematik: 'Matematik',
@@ -57,7 +58,7 @@ type FeatureCard = {
   icon: IconName;
   route: HomeRoute;
   count: string;
-  variant: 'story' | 'coloring' | 'games' | 'learn' | 'besn1k';
+  variant: 'story' | 'coloring' | 'games' | 'learn' | 'besn1k' | 'englishLearn';
 };
 
 const SUBJECTS: SubjectCard[] = [
@@ -77,6 +78,7 @@ const FEATURES: FeatureCard[] = [
   { name: 'Mini Oyunlar', desc: '17 eğlenceli mini oyun', icon: 'games', route: 'mini-oyunlar', count: '17', variant: 'games' },
   { name: 'Öğrenme Köşesi', desc: 'Soru kelimeleri & saat okuma', icon: 'learn', route: 'ogrenme-kosesi', count: '4 tema', variant: 'learn' },
   { name: '5N1K', desc: 'Kim? Ne? Nerede? Ne zaman? Neden? Nasıl?', icon: 'search', route: 'besn1k', count: 'Tablo', variant: 'besn1k' },
+  { name: 'İngilizce Öğreniyorum', desc: 'Alfabe, kelimeler ve okunuşları', icon: 'abc', route: 'ingilizce-ogren', count: '120 kelime', variant: 'englishLearn' },
 ];
 
 const CORNER_CARDS: { name: string; icon: IconName; route: HomeRoute }[] = [

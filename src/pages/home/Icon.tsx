@@ -7,7 +7,8 @@ export type IconName =
   | 'test' | 'story' | 'coloring' | 'games'
   | 'star' | 'shield' | 'gift' | 'lock' | 'check'
   | 'arrowRight' | 'play' | 'sparkles' | 'user' | 'plus'
-  | 'learn' | 'search' | 'box' | 'trophy' | 'chart' | 'info';
+  | 'learn' | 'search' | 'box' | 'trophy' | 'chart' | 'info'
+  | 'abc';
 
 const PATHS: Record<IconName, ReactElement> = {
   logo: (
@@ -178,6 +179,13 @@ const PATHS: Record<IconName, ReactElement> = {
     <>
       <circle cx="12" cy="12" r="8.5" />
       <path d="M12 11v5.5M12 8h.01" />
+    </>
+  ),
+  abc: (
+    <>
+      <rect x="4" y="4" width="16" height="16" rx="3.5" />
+      <path d="M8.2 16.2 12 7.6l3.8 8.6" />
+      <path d="M9.5 13.2h5" />
     </>
   ),
 };
