@@ -6,12 +6,22 @@ export type IngilizceKelimeKayit = {
   gunler: string[];
 };
 
+export type IngilizceSinavSonuc = {
+  tarih: string;
+  dogru: number;
+  toplam: number;
+  gecti: boolean;
+};
+
 export type IngilizceKayit = {
   seviye: number;
   sure: number;
   kelimeler: { [kelimeEn: string]: IngilizceKelimeKayit };
-  sinavlar: unknown[];
+  sinavlar: IngilizceSinavSonuc[];
 };
+
+export const GEREKEN_SURE = 72000;
+const TOPLAM_KELIME = 127;
 
 function anahtar(): string {
   const profilAdi = localStorage.getItem(AKTIF_KEY) || '';
@@ -47,7 +57,7 @@ export function ingilizceGetir(): IngilizceKayit {
       seviye: typeof oku.seviye === 'number' ? oku.seviye : 1,
       sure: typeof oku.sure === 'number' ? oku.sure : 0,
       kelimeler: oku.kelimeler && typeof oku.kelimeler === 'object' ? oku.kelimeler : {},
-      sinavlar: Array.isArray(oku.sinavlar) ? oku.sinavlar : [],
+      sinavlar: Array.isArray(oku.sinavlar) ? (oku.sinavlar as IngilizceSinavSonuc[]) : [],
     };
   } catch {
     return varsayilan();
@@ -78,4 +88,50 @@ export function sureEkle(saniye: number) {
   } catch {
     /* localStorage dolu veya kapalı */
   }
+}
+
+export function sinavaGirebilirMi(): boolean {
+  return ingilizceGetir().sure >= GEREKEN_SURE;
+}
+
+export function kalanSure(): number {
+  const kalan = GEREKEN_SURE - ingilizceGetir().sure;
+  return kalan > 0 ? kalan : 0;
+}
+
+export function sinavKaydet(sonuc: IngilizceSinavSonuc) {
+  try {
+    const kayit = ingilizceGetir();
+    kayit.sinavlar = [...kayit.sinavlar, sonuc];
+    if (sonuc.gecti) kayit.seviye += 1;
+    yaz(kayit);
+  } catch {
+    /* localStorage dolu veya kapalı */
+  }
+}
+
+export function ozet(): {
+  toplamKelime: number;
+  calisilanKelime: number;
+  dogruOran: number;
+  calisilanGun: number;
+} {
+  const kayit = ingilizceGetir();
+  let calisilanKelime = 0;
+  let dogru = 0;
+  let yanlis = 0;
+  const gunler = new Set<string>();
+  for (const k of Object.values(kayit.kelimeler)) {
+    if (k.dogru > 0) calisilanKelime += 1;
+    dogru += k.dogru;
+    yanlis += k.yanlis;
+    for (const g of k.gunler || []) gunler.add(g);
+  }
+  const toplamCevap = dogru + yanlis;
+  return {
+    toplamKelime: TOPLAM_KELIME,
+    calisilanKelime,
+    dogruOran: toplamCevap === 0 ? 0 : (dogru / toplamCevap) * 100,
+    calisilanGun: gunler.size,
+  };
 }

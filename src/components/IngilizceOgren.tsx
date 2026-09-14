@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { kelimeKaydet } from '../ingilizce/kayit';
+import { kelimeKaydet, GEREKEN_SURE, ingilizceGetir, kalanSure, ozet, sinavaGirebilirMi, sinavKaydet } from '../ingilizce/kayit';
 import { useSureSayaci } from '../ingilizce/sureSayaci';
 import kelimeListesi from '../ingilizce/seviye1.json';
 import '../styles/IngilizceOgren.css';
@@ -60,6 +60,17 @@ function sesYolu(ikon: string): string {
 const HARF_BEKLE_MS = 450;
 const ALISTIRMA_BEKLE_MS = 1000;
 const ALISTIRMA_SORU = 10;
+const SINAV_SORU = 30;
+const SINAV_GECME = 24;
+
+const VELI_NOTU = [
+  'Sevgili anne ve babalar,',
+  'Bu bölümde seviyeler kilitlidir. Bir üst seviyeye geçmek için çocuğunuzun o seviyede en az 20 saat çalışması ve ardından sınavı geçmesi gerekir. Süre yalnızca çocuk aktif olarak çalışırken işler; uygulama açık bırakıldığında saymaz.',
+  'Bu bekleme bir engel değil, öğrenmenin kendisidir. Bir dil, tekrar ede ede ve zamana yayarak öğrenilir. Kelimeyi bir kez görmek tanımaktır; onu günler sonra yeniden hatırlamak öğrenmektir.',
+  'Soruları çocuğunuzun yerine cevaplayarak kilidi açabilirsiniz. Bunu yapmanızı engelleyemeyiz. Ama şunu bilmenizi isteriz: açılan kilit çocuğunuzun bilgisi olmaz, sadece bir ekran olur. Bir üst seviyede kendisini anlamadığı kelimelerin arasında bulur, zorlanır ve çoğu zaman "ben bunu yapamıyorum" diye düşünmeye başlar. Oysa yapamayan o değildir; sadece sırası gelmemiştir.',
+  'Çocuğunuz yavaş ilerliyorsa acele etmeyin. Her çocuk kendi hızında öğrenir ve bu hız zekâsının değil, o günkü ilgisinin göstergesidir.',
+  'Ders Dünyası ücretsizdir, reklam içermez ve hiçbir veriyi dışarı göndermez. Çocuğunuzun ilerlemesi yalnızca bu cihazda saklanır.',
+];
 
 type SoruTip = 'ikon' | 'ses';
 type AlistirmaSoru = {
@@ -70,6 +81,7 @@ type AlistirmaSoru = {
 };
 type AlistirmaDurum = {
   turId: number;
+  mod: 'alistirma' | 'sinav';
   katId: string;
   sorular: AlistirmaSoru[];
   sira: number;
@@ -99,9 +111,8 @@ function sikUret(dogru: string, adaylar: string[]): string[] {
   return karistir([dogru, ...yanlis]);
 }
 
-function turKur(katId: string): AlistirmaSoru[] {
-  const havuz = KELIMELER.filter((k) => k.kat === katId);
-  const secilen = karistir(havuz).slice(0, ALISTIRMA_SORU);
+function turKur(havuz: Kelime[], adet: number): AlistirmaSoru[] {
+  const secilen = karistir(havuz).slice(0, adet);
   return secilen.map((kelime) => {
     const tip: SoruTip = Math.random() < 0.5 ? 'ikon' : 'ses';
     const adaylar = havuz
@@ -110,6 +121,23 @@ function turKur(katId: string): AlistirmaSoru[] {
     const dogru = tip === 'ikon' ? kelime.en : kelime.tr;
     return { kelime, tip, siklar: sikUret(dogru, adaylar), dogru };
   });
+}
+
+function sureYazi(saniye: number): string {
+  const s = Math.max(0, Math.floor(saniye));
+  const saat = Math.floor(s / 3600);
+  const dk = Math.floor((s % 3600) / 60);
+  if (saat === 0) return dk + ' dakika';
+  if (dk === 0) return saat + ' saat';
+  return saat + ' saat ' + dk + ' dakika';
+}
+
+function bugunTarih(): string {
+  const d = new Date();
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, '0');
+  const g = String(d.getDate()).padStart(2, '0');
+  return y + '-' + m + '-' + g;
 }
 
 function ttsOku(kelime: string, bitince: () => void) {
@@ -137,13 +165,15 @@ function Hoparlor() {
 
 function IngilizceOgren({ onClose }: Props) {
   useSureSayaci(true);
-  const [ekran, setEkran] = useState<'giris' | 'kategoriler' | 'alfabe'>('giris');
+  const [ekran, setEkran] = useState<'giris' | 'kategoriler' | 'alfabe' | 'seviye'>('giris');
   const [katId, setKatId] = useState<string | null>(null);
   const [calan, setCalan] = useState<string | null>(null);
   const [alistirma, setAlistirma] = useState<AlistirmaDurum | null>(null);
   const [turSayac, setTurSayac] = useState(0);
+  const [veliAcik, setVeliAcik] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const bekleRef = useRef<number | null>(null);
+  const sinavKayitRef = useRef(false);
   const secili = KATEGORILER.find((k) => k.id === katId);
 
   const temizleBekle = () => {
@@ -193,13 +223,34 @@ function IngilizceOgren({ onClose }: Props) {
 
   const alistirmaBaslat = (id: string) => {
     temizleBekle();
-    const sorular = turKur(id);
+    const sorular = turKur(KELIMELER.filter((k) => k.kat === id), ALISTIRMA_SORU);
     if (sorular.length === 0) return;
     const turId = turSayac + 1;
     setTurSayac(turId);
     setAlistirma({
       turId,
+      mod: 'alistirma',
       katId: id,
+      sorular,
+      sira: 0,
+      secim: null,
+      dogruSay: 0,
+      bitti: false,
+    });
+  };
+
+  const sinavBaslat = () => {
+    if (!sinavaGirebilirMi()) return;
+    temizleBekle();
+    const sorular = turKur(KELIMELER, SINAV_SORU);
+    if (sorular.length === 0) return;
+    const turId = turSayac + 1;
+    setTurSayac(turId);
+    sinavKayitRef.current = false;
+    setAlistirma({
+      turId,
+      mod: 'sinav',
+      katId: '',
       sorular,
       sira: 0,
       secim: null,
@@ -217,24 +268,38 @@ function IngilizceOgren({ onClose }: Props) {
     }
     window.speechSynthesis.cancel();
     setCalan(null);
+    const mod = alistirma?.mod;
     setAlistirma(null);
-    setEkran('kategoriler');
+    setEkran(mod === 'sinav' ? 'seviye' : 'kategoriler');
   };
 
   const cevapVer = (sik: string) => {
     if (!alistirma || alistirma.secim != null || alistirma.bitti) return;
     const soru = alistirma.sorular[alistirma.sira];
     const dogruMu = sik === soru.dogru;
-    kelimeKaydet(soru.kelime.en, dogruMu);
-    setAlistirma({ ...alistirma, secim: sik, dogruSay: alistirma.dogruSay + (dogruMu ? 1 : 0) });
+    if (alistirma.mod === 'alistirma') kelimeKaydet(soru.kelime.en, dogruMu);
+    const dogruSay = alistirma.dogruSay + (dogruMu ? 1 : 0);
+    const sonSoru = alistirma.sira + 1 >= alistirma.sorular.length;
+    const sinavMi = alistirma.mod === 'sinav';
+    const toplam = alistirma.sorular.length;
+    setAlistirma({ ...alistirma, secim: sik, dogruSay });
     temizleBekle();
     bekleRef.current = window.setTimeout(() => {
       bekleRef.current = null;
-      setAlistirma((a) => {
-        if (!a) return a;
-        if (a.sira + 1 >= a.sorular.length) return { ...a, bitti: true };
-        return { ...a, sira: a.sira + 1, secim: null };
-      });
+      if (sonSoru) {
+        if (sinavMi && !sinavKayitRef.current) {
+          sinavKayitRef.current = true;
+          sinavKaydet({
+            tarih: bugunTarih(),
+            dogru: dogruSay,
+            toplam,
+            gecti: dogruSay >= SINAV_GECME,
+          });
+        }
+        setAlistirma((a) => (a ? { ...a, bitti: true } : a));
+      } else {
+        setAlistirma((a) => (a ? { ...a, sira: a.sira + 1, secim: null } : a));
+      }
     }, ALISTIRMA_BEKLE_MS);
   };
 
@@ -265,6 +330,37 @@ function IngilizceOgren({ onClose }: Props) {
     const toplam = alistirma.sorular.length;
     if (alistirma.bitti) {
       const yanlisSay = toplam - alistirma.dogruSay;
+      if (alistirma.mod === 'sinav') {
+        const yuzde = toplam === 0 ? 0 : Math.round((alistirma.dogruSay / toplam) * 100);
+        const gecti = alistirma.dogruSay >= SINAV_GECME;
+        return (
+          <div className="io-wrap">
+            <div className="io-alistirma-ust">
+              <button type="button" className="back-btn" onClick={alistirmaCik}>← Çık</button>
+            </div>
+            <h1 className="io-baslik">Sınav sonucu</h1>
+            <p className="io-sonuc-yazi">{alistirma.dogruSay} doğru / {toplam}</p>
+            <p className="io-sonuc-yuzde">%{yuzde}</p>
+            {gecti ? (
+              <>
+                <p className="io-kutlama">Tebrikler, sınavı geçtin. Seviye 1 tamam.</p>
+                <p className="io-kutlama-not">Seviye 2 içeriği yakında eklenecek.</p>
+                <div className="io-sonuc-butonlar">
+                  <button type="button" className="io-sonuc-btn io-sonuc-btn--ikinci" onClick={alistirmaCik}>Seviyeme dön</button>
+                </div>
+              </>
+            ) : (
+              <>
+                <p className="io-kutlama-not">Geçme sınırı {SINAV_GECME}/{SINAV_SORU}. Tekrar deneyebilirsin.</p>
+                <div className="io-sonuc-butonlar">
+                  <button type="button" className="io-sonuc-btn" onClick={sinavBaslat}>Tekrar dene</button>
+                  <button type="button" className="io-sonuc-btn io-sonuc-btn--ikinci" onClick={alistirmaCik}>Seviyeme dön</button>
+                </div>
+              </>
+            )}
+          </div>
+        );
+      }
       return (
         <div className="io-wrap">
           <div className="io-alistirma-ust">
@@ -382,6 +478,61 @@ function IngilizceOgren({ onClose }: Props) {
     );
   }
 
+  if (ekran === 'seviye') {
+    const kayit = ingilizceGetir();
+    const bilgi = ozet();
+    const girebilir = sinavaGirebilirMi();
+    const kalanSaat = Math.ceil(kalanSure() / 3600);
+    const cubuk = Math.min(100, (kayit.sure / GEREKEN_SURE) * 100);
+    return (
+      <div className="io-wrap">
+        <button type="button" className="back-btn" onClick={() => { setVeliAcik(false); setEkran('giris'); }}>← Geri</button>
+        <h1 className="io-baslik">Seviye {kayit.seviye}</h1>
+        <div className="io-ozet-kart">
+          <strong>Çalışma süresi</strong>
+          <span>{sureYazi(kayit.sure)} / {Math.round(GEREKEN_SURE / 3600)} saat</span>
+          <div className="io-cubuk" aria-hidden="true">
+            <div className="io-cubuk-dolu" style={{ width: cubuk + '%' }} />
+          </div>
+        </div>
+        <div className="io-ozet-kart">
+          <strong>Öğrenilen kelime</strong>
+          <span>{bilgi.calisilanKelime} / {bilgi.toplamKelime}</span>
+        </div>
+        <div className="io-ozet-kart">
+          <strong>Doğru cevap oranı</strong>
+          <span>%{Math.round(bilgi.dogruOran)}</span>
+        </div>
+        <div className="io-ozet-kart">
+          <strong>Çalışılan gün</strong>
+          <span>{bilgi.calisilanGun} gün</span>
+        </div>
+        <button
+          type="button"
+          className="io-sinav-btn"
+          disabled={!girebilir}
+          onClick={sinavBaslat}
+        >
+          {girebilir ? 'Seviye Sınavı' : 'Sınav için ' + kalanSaat + ' saat daha çalışman gerekiyor'}
+        </button>
+        <button
+          type="button"
+          className="io-veli-bag"
+          onClick={() => setVeliAcik((v) => !v)}
+        >
+          Anne ve babalar için not
+        </button>
+        {veliAcik ? (
+          <div className="io-veli-panel">
+            {VELI_NOTU.map((paragraf, i) => (
+              <p key={i}>{paragraf}</p>
+            ))}
+          </div>
+        ) : null}
+      </div>
+    );
+  }
+
   if (ekran === 'kategoriler') {
     return (
       <div className="io-wrap">
@@ -427,6 +578,10 @@ function IngilizceOgren({ onClose }: Props) {
         <button type="button" className="io-giris-kart" onClick={() => setEkran('kategoriler')}>
           <strong>Kelimeler</strong>
           <span>127 kelime, 8 konu</span>
+        </button>
+        <button type="button" className="io-giris-kart io-giris-kart-alt" onClick={() => setEkran('seviye')}>
+          <strong>Seviyem</strong>
+          <span>İlerlemem ve seviye sınavı</span>
         </button>
       </div>
     </div>

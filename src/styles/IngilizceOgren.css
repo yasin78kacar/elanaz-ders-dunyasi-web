@@ -364,6 +364,134 @@
 
 .io-sonuc-btn--ikinci { color: #5b54c7; }
 
+.io-sonuc-yuzde {
+  margin: -12px 0 16px;
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: #5b54c7;
+}
+
+.io-kutlama {
+  margin: 0 0 8px;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.45;
+  color: #23213a;
+}
+
+.io-kutlama-not {
+  margin: 0 0 20px;
+  font-size: 0.98rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #8b87a3;
+}
+
+.io-ozet-kart {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 12px;
+  padding: 16px 18px;
+  background: #fff;
+  border: 1px solid #e9e7f4;
+  border-radius: 16px;
+  box-shadow: 0 3px 10px rgba(35, 33, 58, 0.05);
+}
+
+.io-ozet-kart strong {
+  font-size: 0.88rem;
+  font-weight: 800;
+  color: #8b87a3;
+}
+
+.io-ozet-kart span {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #23213a;
+}
+
+.io-cubuk {
+  margin-top: 8px;
+  height: 12px;
+  background: #e9e7f4;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.io-cubuk-dolu {
+  height: 100%;
+  background: #5b54c7;
+  border-radius: 999px;
+}
+
+.io-sinav-btn {
+  width: 100%;
+  min-height: 56px;
+  margin-top: 8px;
+  padding: 14px 16px;
+  background: #fff;
+  border: 1.5px solid #e9e7f4;
+  border-radius: 16px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 1.02rem;
+  font-weight: 800;
+  color: #23213a;
+  line-height: 1.35;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(35, 33, 58, 0.05);
+}
+
+.io-sinav-btn:not(:disabled):active { transform: scale(0.97); }
+
+.io-sinav-btn:disabled {
+  background: #f4f3f8;
+  border-color: #eceaf4;
+  color: #9b97b0;
+  cursor: not-allowed;
+  box-shadow: none;
+  opacity: 1;
+}
+
+.io-veli-bag {
+  display: block;
+  width: 100%;
+  margin: 14px 0 0;
+  padding: 8px 4px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.92rem;
+  font-weight: 700;
+  color: #5b54c7;
+  text-align: left;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.io-veli-panel {
+  margin-top: 12px;
+  padding: 18px 16px 8px;
+  background: #fff;
+  border: 1px solid #e9e7f4;
+  border-radius: 16px;
+  box-shadow: 0 3px 10px rgba(35, 33, 58, 0.05);
+}
+
+.io-veli-panel p {
+  margin: 0 0 1.05em;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.7;
+  color: #23213a;
+}
+
+.io-veli-panel p:first-child {
+  font-weight: 800;
+}
+
 @media (min-width: 768px) {
   .io-kat-grid,
   .io-kelime-grid {
@@ -372,6 +500,9 @@
   }
   .io-giris-grid {
     grid-template-columns: 1fr 1fr;
+  }
+  .io-giris-kart-alt {
+    grid-column: 1 / -1;
   }
   .io-harf-grid {
     grid-template-columns: repeat(6, 1fr);
