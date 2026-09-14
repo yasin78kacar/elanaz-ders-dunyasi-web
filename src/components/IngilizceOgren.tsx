@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import kelimeListesi from '../ingilizce/seviye1.json';
 import '../styles/IngilizceOgren.css';
 
@@ -19,7 +19,7 @@ const KATEGORILER: { id: string; ad: string }[] = [
   { id: 'doga', ad: 'Doğa' },
 ];
 
-function kelimeyiSeslendir(kelime: string) {
+function ttsOku(kelime: string, bitince: () => void) {
   window.speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(kelime);
   u.lang = 'en-US';
@@ -27,6 +27,8 @@ function kelimeyiSeslendir(kelime: string) {
   const sesler = window.speechSynthesis.getVoices();
   const s = sesler.find((v) => v.name.includes('Samantha')) || sesler.find((v) => v.lang === 'en-US');
   if (s) u.voice = s;
+  u.onend = bitince;
+  u.onerror = bitince;
   window.speechSynthesis.speak(u);
 }
 
@@ -42,7 +44,41 @@ function Hoparlor() {
 
 function IngilizceOgren({ onClose }: Props) {
   const [katId, setKatId] = useState<string | null>(null);
+  const [calan, setCalan] = useState<string | null>(null);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
   const secili = KATEGORILER.find((k) => k.id === katId);
+
+  const kelimeyiSeslendir = (kelime: string) => {
+    const onceki = audioRef.current;
+    if (onceki) {
+      onceki.pause();
+      onceki.currentTime = 0;
+    }
+    window.speechSynthesis.cancel();
+    setCalan(kelime);
+
+    const durdurGorsel = () => {
+      setCalan((c) => (c === kelime ? null : c));
+    };
+
+    let yedeklendi = false;
+    const ttsYedek = () => {
+      if (yedeklendi) return;
+      yedeklendi = true;
+      ttsOku(kelime, durdurGorsel);
+    };
+
+    const ses = new Audio('/ingilizce/ses/' + kelime + '.m4a');
+    audioRef.current = ses;
+    ses.addEventListener('error', ttsYedek, { once: true });
+    ses.addEventListener('ended', () => {
+      if (audioRef.current === ses) durdurGorsel();
+    }, { once: true });
+    const playSonuc = ses.play();
+    if (playSonuc !== undefined) {
+      playSonuc.catch(() => ttsYedek());
+    }
+  };
 
   if (secili) {
     const kelimeler = KELIMELER.filter((k) => k.kat === secili.id);
@@ -61,7 +97,7 @@ function IngilizceOgren({ onClose }: Props) {
               <img src={k.ikon} alt="" width={64} height={64} draggable={false} />
               <strong>{k.en}</strong>
               <span>{k.tr}</span>
-              <span className="io-dinle" aria-hidden="true"><Hoparlor /></span>
+              <span className={`io-dinle${calan === k.en ? ' by-ses-caliyor' : ''}`} aria-hidden="true"><Hoparlor /></span>
             </button>
           ))}
         </div>
