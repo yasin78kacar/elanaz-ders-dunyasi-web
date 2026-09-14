@@ -1084,6 +1084,13 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
             </div>
           </div>
 
+          <div className="hakkinda-bolum">
+            <h3>🎨 Görsel Kaynakları</h3>
+            <p>İngilizce bölümündeki kelime ikonları OpenMoji tarafından tasarlanmıştır —
+            açık kaynaklı emoji ve ikon projesi. Lisans: CC BY-SA 4.0.
+            Daha fazla bilgi: <a href="https://openmoji.org" target="_blank" rel="noopener noreferrer">openmoji.org</a></p>
+          </div>
+
           <div className="hakkinda-bolum hakkinda-son" style={{ marginTop: '30px' }}>
             <h3>❤️ Sevgiyle yapıldı</h3>
             <p>Bu uygulama, bir babanın kendi çocukları için başlattığı bir projeden doğdu.
