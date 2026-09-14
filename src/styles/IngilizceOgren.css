@@ -105,10 +105,115 @@
   transform: scale(1.15);
 }
 
+.io-giris-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+.io-giris-kart {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 6px;
+  min-height: 112px;
+  padding: 22px 20px;
+  background: #fff;
+  border: 1px solid #e9e7f4;
+  border-radius: 16px;
+  cursor: pointer;
+  text-align: left;
+  font-family: inherit;
+  box-shadow: 0 3px 10px rgba(35, 33, 58, 0.05);
+}
+
+.io-giris-kart:active { transform: scale(0.97); }
+
+.io-giris-kart strong {
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: #23213a;
+}
+
+.io-giris-kart span {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: #8b87a3;
+}
+
+.io-harf-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.io-harf {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6px;
+  min-height: 108px;
+  padding: 10px 6px 8px;
+  background: #fff;
+  border: 1px solid #e9e7f4;
+  border-radius: 16px;
+  cursor: pointer;
+  text-align: center;
+  font-family: inherit;
+  box-shadow: 0 3px 10px rgba(35, 33, 58, 0.05);
+}
+
+.io-harf:active { transform: scale(0.97); }
+
+.io-harf.by-ses-caliyor {
+  border-color: #ee6a4e;
+}
+
+.io-harf.by-ses-caliyor .io-harf-yazi {
+  color: #ee6a4e;
+}
+
+.io-harf-yazi {
+  font-size: 1.55rem;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #23213a;
+  letter-spacing: 0.04em;
+}
+
+.io-harf-ornek {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  min-height: 28px;
+  width: 100%;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: #8b87a3;
+}
+
+.io-harf-ornek img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  pointer-events: none;
+  flex-shrink: 0;
+}
+
 @media (min-width: 768px) {
   .io-kat-grid,
   .io-kelime-grid {
     grid-template-columns: repeat(4, 1fr);
     gap: 14px;
+  }
+  .io-giris-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .io-harf-grid {
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
   }
 }

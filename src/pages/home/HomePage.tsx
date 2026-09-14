@@ -78,7 +78,7 @@ const FEATURES: FeatureCard[] = [
   { name: 'Mini Oyunlar', desc: '17 eğlenceli mini oyun', icon: 'games', route: 'mini-oyunlar', count: '17', variant: 'games' },
   { name: 'Öğrenme Köşesi', desc: 'Soru kelimeleri & saat okuma', icon: 'learn', route: 'ogrenme-kosesi', count: '4 tema', variant: 'learn' },
   { name: '5N1K', desc: 'Kim? Ne? Nerede? Ne zaman? Neden? Nasıl?', icon: 'search', route: 'besn1k', count: 'Tablo', variant: 'besn1k' },
-  { name: 'İngilizce Öğreniyorum', desc: 'Alfabe, kelimeler ve okunuşları', icon: 'abc', route: 'ingilizce-ogren', count: '120 kelime', variant: 'englishLearn' },
+  { name: 'İngilizce Öğreniyorum', desc: 'Alfabe, kelimeler ve okunuşları', icon: 'abc', route: 'ingilizce-ogren', count: '127 kelime', variant: 'englishLearn' },
 ];
 
 const CORNER_CARDS: { name: string; icon: IconName; route: HomeRoute }[] = [
