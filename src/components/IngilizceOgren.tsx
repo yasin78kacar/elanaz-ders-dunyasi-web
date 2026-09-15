@@ -1,25 +1,60 @@
 import { useEffect, useRef, useState } from 'react';
-import { kelimeKaydet, GEREKEN_SURE, ingilizceGetir, kalanSure, ozet, sinavaGirebilirMi, sinavKaydet } from '../ingilizce/kayit';
+import { aktifKelimeler, kelimeKaydet, GEREKEN_SURE, ingilizceGetir, kalanSure, ozet, seviyeKelimeleri, sinavaGirebilirMi, sinavKaydet } from '../ingilizce/kayit';
+import { kelimeSesYolu, type Kelime } from '../ingilizce/kelime';
 import { useSureSayaci } from '../ingilizce/sureSayaci';
-import kelimeListesi from '../ingilizce/seviye1.json';
 import '../styles/IngilizceOgren.css';
-
-type Kelime = { en: string; tr: string; kat: string; ikon: string };
 
 type Props = { onClose: () => void };
 
-const KELIMELER = kelimeListesi as Kelime[];
+const KAT_AD: Record<string, string> = {
+  hayvanlar: 'Hayvanlar',
+  yiyecek: 'Yiyecekler',
+  okul: 'Okul',
+  ev: 'Ev',
+  vucut: 'Vücudum',
+  giysi: 'Giysiler',
+  tasit: 'Taşıtlar',
+  doga: 'Doğa',
+  muzik: 'Müzik',
+  spor: 'Spor',
+  sehir: 'Şehir',
+  mutfak: 'Mutfak',
+  doga2: 'Doğa',
+  hayvan2: 'Hayvanlar',
+  yiyecek2: 'Yiyecekler',
+  esya2: 'Eşyalar',
+  sayilar: 'Sayılar',
+  renkler: 'Renkler',
+};
 
-const KATEGORILER: { id: string; ad: string }[] = [
-  { id: 'hayvanlar', ad: 'Hayvanlar' },
-  { id: 'yiyecek', ad: 'Yiyecekler' },
-  { id: 'okul', ad: 'Okul' },
-  { id: 'ev', ad: 'Ev' },
-  { id: 'vucut', ad: 'Vücudum' },
-  { id: 'giysi', ad: 'Giysiler' },
-  { id: 'tasit', ad: 'Taşıtlar' },
-  { id: 'doga', ad: 'Doğa' },
-];
+const SEVIYE1_KELIMELER = seviyeKelimeleri(1);
+
+function kategorileriListele(kelimeler: Kelime[]): { id: string; ad: string }[] {
+  const ids: string[] = [];
+  for (const k of kelimeler) {
+    if (!ids.includes(k.kat)) ids.push(k.kat);
+  }
+  return ids.map((id) => ({ id, ad: KAT_AD[id] || id }));
+}
+
+function KelimeGorsel({ kelime, buyuk }: { kelime: Kelime; buyuk?: boolean }) {
+  if (kelime.ozel === 'sayi' && kelime.deger) {
+    return <span className={'io-sayi' + (buyuk ? ' io-sayi--buyuk' : '')}>{kelime.deger}</span>;
+  }
+  if (kelime.ozel === 'renk' && kelime.deger) {
+    const beyaz = kelime.deger.toLowerCase() === '#ffffff' || kelime.en === 'white';
+    return (
+      <span
+        className={'io-renk' + (beyaz ? ' io-renk--beyaz' : '') + (buyuk ? ' io-renk--buyuk' : '')}
+        style={{ backgroundColor: kelime.deger }}
+      />
+    );
+  }
+  if (kelime.ikon) {
+    return <img className={buyuk ? 'io-alistirma-ikon' : undefined} src={kelime.ikon} alt="" width={64} height={64} draggable={false} />;
+  }
+  return null;
+}
 
 const HARFLER = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
@@ -51,11 +86,6 @@ const ALFABE_ORNEK: Record<string, string> = {
   Y: 'yo-yo',
   Z: 'zebra',
 };
-
-function sesYolu(ikon: string): string {
-  const ad = ikon.split('/').pop()?.replace(/\.svg$/i, '') ?? '';
-  return '/ingilizce/ses/' + ad + '.m4a';
-}
 
 const HARF_BEKLE_MS = 450;
 const ALISTIRMA_BEKLE_MS = 1000;
@@ -174,7 +204,9 @@ function IngilizceOgren({ onClose }: Props) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const bekleRef = useRef<number | null>(null);
   const sinavKayitRef = useRef(false);
-  const secili = KATEGORILER.find((k) => k.id === katId);
+  const kelimeler = aktifKelimeler();
+  const kategoriler = kategorileriListele(kelimeler);
+  const secili = kategoriler.find((k) => k.id === katId);
 
   const temizleBekle = () => {
     if (bekleRef.current != null) {
@@ -218,12 +250,12 @@ function IngilizceOgren({ onClose }: Props) {
   };
 
   const kelimeyiSeslendir = (k: Kelime) => {
-    sesCal(sesYolu(k.ikon), k.en, k.en);
+    sesCal(kelimeSesYolu(k), k.en, k.en);
   };
 
   const alistirmaBaslat = (id: string) => {
     temizleBekle();
-    const sorular = turKur(KELIMELER.filter((k) => k.kat === id), ALISTIRMA_SORU);
+    const sorular = turKur(kelimeler.filter((k) => k.kat === id), ALISTIRMA_SORU);
     if (sorular.length === 0) return;
     const turId = turSayac + 1;
     setTurSayac(turId);
@@ -242,7 +274,7 @@ function IngilizceOgren({ onClose }: Props) {
   const sinavBaslat = () => {
     if (!sinavaGirebilirMi()) return;
     temizleBekle();
-    const sorular = turKur(KELIMELER, SINAV_SORU);
+    const sorular = turKur(kelimeler, SINAV_SORU);
     if (sorular.length === 0) return;
     const turId = turSayac + 1;
     setTurSayac(turId);
@@ -313,14 +345,14 @@ function IngilizceOgren({ onClose }: Props) {
     temizleBekle();
     sesCal('/ingilizce/ses/harfler/' + harf + '.m4a', harf, harf, () => {
       const ornekAd = ALFABE_ORNEK[harf];
-      const ornek = ornekAd ? KELIMELER.find((k) => k.en === ornekAd) : undefined;
+      const ornek = ornekAd ? SEVIYE1_KELIMELER.find((k) => k.en === ornekAd) : undefined;
       if (!ornek) {
         setCalan((c) => (c === harf ? null : c));
         return;
       }
       bekleRef.current = window.setTimeout(() => {
         bekleRef.current = null;
-        sesCal(sesYolu(ornek.ikon), ornek.en, harf);
+        sesCal(kelimeSesYolu(ornek), ornek.en, harf);
       }, HARF_BEKLE_MS);
     });
   };
@@ -343,8 +375,10 @@ function IngilizceOgren({ onClose }: Props) {
             <p className="io-sonuc-yuzde">%{yuzde}</p>
             {gecti ? (
               <>
-                <p className="io-kutlama">Tebrikler, sınavı geçtin. Seviye 1 tamam.</p>
-                <p className="io-kutlama-not">Seviye 2 içeriği yakında eklenecek.</p>
+                <p className="io-kutlama">Tebrikler, sınavı geçtin.</p>
+                <p className="io-kutlama-not">
+                  {ingilizceGetir().seviye >= 3 ? 'Seviye 3 içeriği yakında eklenecek.' : 'Seviye 2 açıldı'}
+                </p>
                 <div className="io-sonuc-butonlar">
                   <button type="button" className="io-sonuc-btn io-sonuc-btn--ikinci" onClick={alistirmaCik}>Seviyeme dön</button>
                 </div>
@@ -383,7 +417,7 @@ function IngilizceOgren({ onClose }: Props) {
         </div>
         <div className="io-alistirma-soru">
           {soru.tip === 'ikon' ? (
-            <img className="io-alistirma-ikon" src={soru.kelime.ikon} alt="" draggable={false} />
+            <KelimeGorsel kelime={soru.kelime} buyuk />
           ) : (
             <button
               type="button"
@@ -421,20 +455,20 @@ function IngilizceOgren({ onClose }: Props) {
   }
 
   if (secili) {
-    const kelimeler = KELIMELER.filter((k) => k.kat === secili.id);
+    const katKelimeler = kelimeler.filter((k) => k.kat === secili.id);
     return (
       <div className="io-wrap">
         <button type="button" className="back-btn" onClick={() => setKatId(null)}>← Kategoriler</button>
         <h1 className="io-baslik">{secili.ad}</h1>
         <div className="io-kelime-grid">
-          {kelimeler.map((k) => (
+          {katKelimeler.map((k) => (
             <button
               key={k.en + k.kat}
               type="button"
               className="io-kelime"
               onClick={() => kelimeyiSeslendir(k)}
             >
-              <img src={k.ikon} alt="" width={64} height={64} draggable={false} />
+              <KelimeGorsel kelime={k} />
               <strong>{k.en}</strong>
               <span>{k.tr}</span>
               <span className={`io-dinle${calan === k.en ? ' by-ses-caliyor' : ''}`} aria-hidden="true"><Hoparlor /></span>
@@ -453,7 +487,7 @@ function IngilizceOgren({ onClose }: Props) {
         <div className="io-harf-grid">
           {HARFLER.map((harf) => {
             const ornekAd = ALFABE_ORNEK[harf];
-            const ornek = ornekAd ? KELIMELER.find((k) => k.en === ornekAd) : undefined;
+            const ornek = ornekAd ? SEVIYE1_KELIMELER.find((k) => k.en === ornekAd) : undefined;
             return (
               <button
                 key={harf}
@@ -539,8 +573,8 @@ function IngilizceOgren({ onClose }: Props) {
         <button type="button" className="back-btn" onClick={() => setEkran('giris')}>← Ana Sayfa</button>
         <h1 className="io-baslik">İngilizce Öğreniyorum</h1>
         <div className="io-kat-grid">
-          {KATEGORILER.map((k) => {
-            const sayi = KELIMELER.filter((w) => w.kat === k.id).length;
+          {kategoriler.map((k) => {
+            const sayi = kelimeler.filter((w) => w.kat === k.id).length;
             return (
               <div key={k.id} className="io-kat-kutu">
                 <button
@@ -577,7 +611,7 @@ function IngilizceOgren({ onClose }: Props) {
         </button>
         <button type="button" className="io-giris-kart" onClick={() => setEkran('kategoriler')}>
           <strong>Kelimeler</strong>
-          <span>127 kelime, 8 konu</span>
+          <span>{kelimeler.length} kelime, {kategoriler.length} konu</span>
         </button>
         <button type="button" className="io-giris-kart io-giris-kart-alt" onClick={() => setEkran('seviye')}>
           <strong>Seviyem</strong>

@@ -85,6 +85,46 @@
   pointer-events: none;
 }
 
+.io-sayi,
+.io-kelime .io-sayi {
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  min-height: 64px;
+  font-size: 46px;
+  font-weight: 800;
+  line-height: 1;
+  color: #23213a;
+  letter-spacing: -0.03em;
+}
+
+.io-sayi--buyuk {
+  width: auto;
+  min-width: 64px;
+  height: 128px;
+  min-height: 128px;
+  font-size: 4.2rem;
+}
+
+.io-renk {
+  display: block;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.io-renk--buyuk {
+  width: 128px;
+  height: 128px;
+}
+
+.io-renk--beyaz {
+  border: 1.5px solid #c4c1d4;
+  box-sizing: border-box;
+}
+
 .io-kelime strong {
   font-size: 1.2rem;
   line-height: 1.15;

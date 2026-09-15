@@ -1,0 +1,985 @@
+[
+ {
+  "en": "guitar",
+  "tr": "gitar",
+  "kat": "muzik",
+  "dosya": "guitar",
+  "ikon": "/ingilizce/ikonlar/guitar.svg"
+ },
+ {
+  "en": "piano",
+  "tr": "piyano",
+  "kat": "muzik",
+  "dosya": "piano",
+  "ikon": "/ingilizce/ikonlar/piano.svg"
+ },
+ {
+  "en": "drum",
+  "tr": "davul",
+  "kat": "muzik",
+  "dosya": "drum",
+  "ikon": "/ingilizce/ikonlar/drum.svg"
+ },
+ {
+  "en": "trumpet",
+  "tr": "trompet",
+  "kat": "muzik",
+  "dosya": "trumpet",
+  "ikon": "/ingilizce/ikonlar/trumpet.svg"
+ },
+ {
+  "en": "microphone",
+  "tr": "mikrofon",
+  "kat": "muzik",
+  "dosya": "microphone",
+  "ikon": "/ingilizce/ikonlar/microphone.svg"
+ },
+ {
+  "en": "headphone",
+  "tr": "kulaklık",
+  "kat": "muzik",
+  "dosya": "headphone",
+  "ikon": "/ingilizce/ikonlar/headphone.svg"
+ },
+ {
+  "en": "football",
+  "tr": "futbol",
+  "kat": "spor",
+  "dosya": "football",
+  "ikon": "/ingilizce/ikonlar/football.svg"
+ },
+ {
+  "en": "basketball",
+  "tr": "basketbol",
+  "kat": "spor",
+  "dosya": "basketball",
+  "ikon": "/ingilizce/ikonlar/basketball.svg"
+ },
+ {
+  "en": "tennis",
+  "tr": "tenis",
+  "kat": "spor",
+  "dosya": "tennis",
+  "ikon": "/ingilizce/ikonlar/tennis.svg"
+ },
+ {
+  "en": "volleyball",
+  "tr": "voleybol",
+  "kat": "spor",
+  "dosya": "volleyball",
+  "ikon": "/ingilizce/ikonlar/volleyball.svg"
+ },
+ {
+  "en": "medal",
+  "tr": "madalya",
+  "kat": "spor",
+  "dosya": "medal",
+  "ikon": "/ingilizce/ikonlar/medal.svg"
+ },
+ {
+  "en": "trophy",
+  "tr": "kupa",
+  "kat": "spor",
+  "dosya": "trophy",
+  "ikon": "/ingilizce/ikonlar/trophy.svg"
+ },
+ {
+  "en": "kite",
+  "tr": "uçurtma",
+  "kat": "spor",
+  "dosya": "kite",
+  "ikon": "/ingilizce/ikonlar/kite.svg"
+ },
+ {
+  "en": "skateboard",
+  "tr": "kaykay",
+  "kat": "spor",
+  "dosya": "skateboard",
+  "ikon": "/ingilizce/ikonlar/skateboard.svg"
+ },
+ {
+  "en": "school",
+  "tr": "okul",
+  "kat": "sehir",
+  "dosya": "school",
+  "ikon": "/ingilizce/ikonlar/school.svg"
+ },
+ {
+  "en": "hospital",
+  "tr": "hastane",
+  "kat": "sehir",
+  "dosya": "hospital",
+  "ikon": "/ingilizce/ikonlar/hospital.svg"
+ },
+ {
+  "en": "bank",
+  "tr": "banka",
+  "kat": "sehir",
+  "dosya": "bank",
+  "ikon": "/ingilizce/ikonlar/bank.svg"
+ },
+ {
+  "en": "bridge",
+  "tr": "köprü",
+  "kat": "sehir",
+  "dosya": "bridge",
+  "ikon": "/ingilizce/ikonlar/bridge.svg"
+ },
+ {
+  "en": "station",
+  "tr": "istasyon",
+  "kat": "sehir",
+  "dosya": "station",
+  "ikon": "/ingilizce/ikonlar/station.svg"
+ },
+ {
+  "en": "museum",
+  "tr": "müze",
+  "kat": "sehir",
+  "dosya": "museum",
+  "ikon": "/ingilizce/ikonlar/museum.svg"
+ },
+ {
+  "en": "library",
+  "tr": "kütüphane",
+  "kat": "sehir",
+  "dosya": "library",
+  "ikon": "/ingilizce/ikonlar/library.svg"
+ },
+ {
+  "en": "playground",
+  "tr": "oyun parkı",
+  "kat": "sehir",
+  "dosya": "playground",
+  "ikon": "/ingilizce/ikonlar/playground.svg"
+ },
+ {
+  "en": "factory",
+  "tr": "fabrika",
+  "kat": "sehir",
+  "dosya": "factory",
+  "ikon": "/ingilizce/ikonlar/factory.svg"
+ },
+ {
+  "en": "castle",
+  "tr": "kale",
+  "kat": "sehir",
+  "dosya": "castle",
+  "ikon": "/ingilizce/ikonlar/castle.svg"
+ },
+ {
+  "en": "tent",
+  "tr": "çadır",
+  "kat": "sehir",
+  "dosya": "tent",
+  "ikon": "/ingilizce/ikonlar/tent.svg"
+ },
+ {
+  "en": "fountain",
+  "tr": "çeşme",
+  "kat": "sehir",
+  "dosya": "fountain",
+  "ikon": "/ingilizce/ikonlar/fountain.svg"
+ },
+ {
+  "en": "pot",
+  "tr": "tencere",
+  "kat": "mutfak",
+  "dosya": "pot",
+  "ikon": "/ingilizce/ikonlar/pot.svg"
+ },
+ {
+  "en": "pan",
+  "tr": "tava",
+  "kat": "mutfak",
+  "dosya": "pan",
+  "ikon": "/ingilizce/ikonlar/pan.svg"
+ },
+ {
+  "en": "salt",
+  "tr": "tuz",
+  "kat": "mutfak",
+  "dosya": "salt",
+  "ikon": "/ingilizce/ikonlar/salt.svg"
+ },
+ {
+  "en": "oil",
+  "tr": "yağ",
+  "kat": "mutfak",
+  "dosya": "oil",
+  "ikon": "/ingilizce/ikonlar/oil.svg"
+ },
+ {
+  "en": "teapot",
+  "tr": "demlik",
+  "kat": "mutfak",
+  "dosya": "teapot",
+  "ikon": "/ingilizce/ikonlar/teapot.svg"
+ },
+ {
+  "en": "chopsticks",
+  "tr": "çubuk",
+  "kat": "mutfak",
+  "dosya": "chopsticks",
+  "ikon": "/ingilizce/ikonlar/chopsticks.svg"
+ },
+ {
+  "en": "straw",
+  "tr": "pipet",
+  "kat": "mutfak",
+  "dosya": "straw",
+  "ikon": "/ingilizce/ikonlar/straw.svg"
+ },
+ {
+  "en": "desert",
+  "tr": "çöl",
+  "kat": "doga2",
+  "dosya": "desert",
+  "ikon": "/ingilizce/ikonlar/desert.svg"
+ },
+ {
+  "en": "island",
+  "tr": "ada",
+  "kat": "doga2",
+  "dosya": "island",
+  "ikon": "/ingilizce/ikonlar/island.svg"
+ },
+ {
+  "en": "volcano",
+  "tr": "yanardağ",
+  "kat": "doga2",
+  "dosya": "volcano",
+  "ikon": "/ingilizce/ikonlar/volcano.svg"
+ },
+ {
+  "en": "beach",
+  "tr": "plaj",
+  "kat": "doga2",
+  "dosya": "beach",
+  "ikon": "/ingilizce/ikonlar/beach.svg"
+ },
+ {
+  "en": "park",
+  "tr": "park",
+  "kat": "doga2",
+  "dosya": "park",
+  "ikon": "/ingilizce/ikonlar/park.svg"
+ },
+ {
+  "en": "garden",
+  "tr": "bahçe",
+  "kat": "doga2",
+  "dosya": "garden",
+  "ikon": "/ingilizce/ikonlar/garden.svg"
+ },
+ {
+  "en": "cactus",
+  "tr": "kaktüs",
+  "kat": "doga2",
+  "dosya": "cactus",
+  "ikon": "/ingilizce/ikonlar/cactus.svg"
+ },
+ {
+  "en": "mushroom",
+  "tr": "mantar",
+  "kat": "doga2",
+  "dosya": "mushroom",
+  "ikon": "/ingilizce/ikonlar/mushroom.svg"
+ },
+ {
+  "en": "shell",
+  "tr": "deniz kabuğu",
+  "kat": "doga2",
+  "dosya": "shell",
+  "ikon": "/ingilizce/ikonlar/shell.svg"
+ },
+ {
+  "en": "rock",
+  "tr": "kaya",
+  "kat": "doga2",
+  "dosya": "rock",
+  "ikon": "/ingilizce/ikonlar/rock.svg"
+ },
+ {
+  "en": "wave",
+  "tr": "dalga",
+  "kat": "doga2",
+  "dosya": "wave",
+  "ikon": "/ingilizce/ikonlar/wave.svg"
+ },
+ {
+  "en": "tornado",
+  "tr": "hortum",
+  "kat": "doga2",
+  "dosya": "tornado",
+  "ikon": "/ingilizce/ikonlar/tornado.svg"
+ },
+ {
+  "en": "dolphin",
+  "tr": "yunus",
+  "kat": "hayvan2",
+  "dosya": "dolphin",
+  "ikon": "/ingilizce/ikonlar/dolphin.svg"
+ },
+ {
+  "en": "whale",
+  "tr": "balina",
+  "kat": "hayvan2",
+  "dosya": "whale",
+  "ikon": "/ingilizce/ikonlar/whale.svg"
+ },
+ {
+  "en": "shark",
+  "tr": "köpekbalığı",
+  "kat": "hayvan2",
+  "dosya": "shark",
+  "ikon": "/ingilizce/ikonlar/shark.svg"
+ },
+ {
+  "en": "octopus",
+  "tr": "ahtapot",
+  "kat": "hayvan2",
+  "dosya": "octopus",
+  "ikon": "/ingilizce/ikonlar/octopus.svg"
+ },
+ {
+  "en": "crab",
+  "tr": "yengeç",
+  "kat": "hayvan2",
+  "dosya": "crab",
+  "ikon": "/ingilizce/ikonlar/crab.svg"
+ },
+ {
+  "en": "snail",
+  "tr": "salyangoz",
+  "kat": "hayvan2",
+  "dosya": "snail",
+  "ikon": "/ingilizce/ikonlar/snail.svg"
+ },
+ {
+  "en": "ladybug",
+  "tr": "uğurböceği",
+  "kat": "hayvan2",
+  "dosya": "ladybug",
+  "ikon": "/ingilizce/ikonlar/ladybug.svg"
+ },
+ {
+  "en": "camel",
+  "tr": "deve",
+  "kat": "hayvan2",
+  "dosya": "camel",
+  "ikon": "/ingilizce/ikonlar/camel.svg"
+ },
+ {
+  "en": "giraffe",
+  "tr": "zürafa",
+  "kat": "hayvan2",
+  "dosya": "giraffe",
+  "ikon": "/ingilizce/ikonlar/giraffe.svg"
+ },
+ {
+  "en": "kangaroo",
+  "tr": "kanguru",
+  "kat": "hayvan2",
+  "dosya": "kangaroo",
+  "ikon": "/ingilizce/ikonlar/kangaroo.svg"
+ },
+ {
+  "en": "panda",
+  "tr": "panda",
+  "kat": "hayvan2",
+  "dosya": "panda",
+  "ikon": "/ingilizce/ikonlar/panda.svg"
+ },
+ {
+  "en": "koala",
+  "tr": "koala",
+  "kat": "hayvan2",
+  "dosya": "koala",
+  "ikon": "/ingilizce/ikonlar/koala.svg"
+ },
+ {
+  "en": "fox",
+  "tr": "tilki",
+  "kat": "hayvan2",
+  "dosya": "fox",
+  "ikon": "/ingilizce/ikonlar/fox.svg"
+ },
+ {
+  "en": "wolf",
+  "tr": "kurt",
+  "kat": "hayvan2",
+  "dosya": "wolf",
+  "ikon": "/ingilizce/ikonlar/wolf.svg"
+ },
+ {
+  "en": "deer",
+  "tr": "geyik",
+  "kat": "hayvan2",
+  "dosya": "deer",
+  "ikon": "/ingilizce/ikonlar/deer.svg"
+ },
+ {
+  "en": "squirrel",
+  "tr": "sincap",
+  "kat": "hayvan2",
+  "dosya": "squirrel",
+  "ikon": "/ingilizce/ikonlar/squirrel.svg"
+ },
+ {
+  "en": "hedgehog",
+  "tr": "kirpi",
+  "kat": "hayvan2",
+  "dosya": "hedgehog",
+  "ikon": "/ingilizce/ikonlar/hedgehog.svg"
+ },
+ {
+  "en": "bat",
+  "tr": "yarasa",
+  "kat": "hayvan2",
+  "dosya": "bat",
+  "ikon": "/ingilizce/ikonlar/bat.svg"
+ },
+ {
+  "en": "parrot",
+  "tr": "papağan",
+  "kat": "hayvan2",
+  "dosya": "parrot",
+  "ikon": "/ingilizce/ikonlar/parrot.svg"
+ },
+ {
+  "en": "peacock",
+  "tr": "tavus kuşu",
+  "kat": "hayvan2",
+  "dosya": "peacock",
+  "ikon": "/ingilizce/ikonlar/peacock.svg"
+ },
+ {
+  "en": "pizza",
+  "tr": "pizza",
+  "kat": "yiyecek2",
+  "dosya": "pizza",
+  "ikon": "/ingilizce/ikonlar/pizza.svg"
+ },
+ {
+  "en": "hamburger",
+  "tr": "hamburger",
+  "kat": "yiyecek2",
+  "dosya": "hamburger",
+  "ikon": "/ingilizce/ikonlar/hamburger.svg"
+ },
+ {
+  "en": "sandwich",
+  "tr": "sandviç",
+  "kat": "yiyecek2",
+  "dosya": "sandwich",
+  "ikon": "/ingilizce/ikonlar/sandwich.svg"
+ },
+ {
+  "en": "popcorn",
+  "tr": "patlamış mısır",
+  "kat": "yiyecek2",
+  "dosya": "popcorn",
+  "ikon": "/ingilizce/ikonlar/popcorn.svg"
+ },
+ {
+  "en": "cookie",
+  "tr": "kurabiye",
+  "kat": "yiyecek2",
+  "dosya": "cookie",
+  "ikon": "/ingilizce/ikonlar/cookie.svg"
+ },
+ {
+  "en": "chocolate",
+  "tr": "çikolata",
+  "kat": "yiyecek2",
+  "dosya": "chocolate",
+  "ikon": "/ingilizce/ikonlar/chocolate.svg"
+ },
+ {
+  "en": "candy",
+  "tr": "şeker",
+  "kat": "yiyecek2",
+  "dosya": "candy",
+  "ikon": "/ingilizce/ikonlar/candy.svg"
+ },
+ {
+  "en": "pancakes",
+  "tr": "krep",
+  "kat": "yiyecek2",
+  "dosya": "pancakes",
+  "ikon": "/ingilizce/ikonlar/pancakes.svg"
+ },
+ {
+  "en": "peach",
+  "tr": "şeftali",
+  "kat": "yiyecek2",
+  "dosya": "peach",
+  "ikon": "/ingilizce/ikonlar/peach.svg"
+ },
+ {
+  "en": "pear",
+  "tr": "armut",
+  "kat": "yiyecek2",
+  "dosya": "pear",
+  "ikon": "/ingilizce/ikonlar/pear.svg"
+ },
+ {
+  "en": "pineapple",
+  "tr": "ananas",
+  "kat": "yiyecek2",
+  "dosya": "pineapple",
+  "ikon": "/ingilizce/ikonlar/pineapple.svg"
+ },
+ {
+  "en": "coconut",
+  "tr": "hindistan cevizi",
+  "kat": "yiyecek2",
+  "dosya": "coconut",
+  "ikon": "/ingilizce/ikonlar/coconut.svg"
+ },
+ {
+  "en": "avocado",
+  "tr": "avokado",
+  "kat": "yiyecek2",
+  "dosya": "avocado",
+  "ikon": "/ingilizce/ikonlar/avocado.svg"
+ },
+ {
+  "en": "broccoli",
+  "tr": "brokoli",
+  "kat": "yiyecek2",
+  "dosya": "broccoli",
+  "ikon": "/ingilizce/ikonlar/broccoli.svg"
+ },
+ {
+  "en": "cucumber",
+  "tr": "salatalık",
+  "kat": "yiyecek2",
+  "dosya": "cucumber",
+  "ikon": "/ingilizce/ikonlar/cucumber.svg"
+ },
+ {
+  "en": "onion",
+  "tr": "soğan",
+  "kat": "yiyecek2",
+  "dosya": "onion",
+  "ikon": "/ingilizce/ikonlar/onion.svg"
+ },
+ {
+  "en": "garlic",
+  "tr": "sarımsak",
+  "kat": "yiyecek2",
+  "dosya": "garlic",
+  "ikon": "/ingilizce/ikonlar/garlic.svg"
+ },
+ {
+  "en": "pepper",
+  "tr": "biber",
+  "kat": "yiyecek2",
+  "dosya": "pepper",
+  "ikon": "/ingilizce/ikonlar/pepper.svg"
+ },
+ {
+  "en": "olive",
+  "tr": "zeytin",
+  "kat": "yiyecek2",
+  "dosya": "olive",
+  "ikon": "/ingilizce/ikonlar/olive.svg"
+ },
+ {
+  "en": "peanuts",
+  "tr": "fıstık",
+  "kat": "yiyecek2",
+  "dosya": "peanuts",
+  "ikon": "/ingilizce/ikonlar/peanuts.svg"
+ },
+ {
+  "en": "camera",
+  "tr": "fotoğraf makinesi",
+  "kat": "esya2",
+  "dosya": "camera",
+  "ikon": "/ingilizce/ikonlar/camera.svg"
+ },
+ {
+  "en": "television",
+  "tr": "televizyon",
+  "kat": "esya2",
+  "dosya": "television",
+  "ikon": "/ingilizce/ikonlar/television.svg"
+ },
+ {
+  "en": "radio",
+  "tr": "radyo",
+  "kat": "esya2",
+  "dosya": "radio",
+  "ikon": "/ingilizce/ikonlar/radio.svg"
+ },
+ {
+  "en": "battery",
+  "tr": "pil",
+  "kat": "esya2",
+  "dosya": "battery",
+  "ikon": "/ingilizce/ikonlar/battery.svg"
+ },
+ {
+  "en": "magnet",
+  "tr": "mıknatıs",
+  "kat": "esya2",
+  "dosya": "magnet",
+  "ikon": "/ingilizce/ikonlar/magnet.svg"
+ },
+ {
+  "en": "hammer",
+  "tr": "çekiç",
+  "kat": "esya2",
+  "dosya": "hammer",
+  "ikon": "/ingilizce/ikonlar/hammer.svg"
+ },
+ {
+  "en": "screwdriver",
+  "tr": "tornavida",
+  "kat": "esya2",
+  "dosya": "screwdriver",
+  "ikon": "/ingilizce/ikonlar/screwdriver.svg"
+ },
+ {
+  "en": "wrench",
+  "tr": "ingiliz anahtarı",
+  "kat": "esya2",
+  "dosya": "wrench",
+  "ikon": "/ingilizce/ikonlar/wrench.svg"
+ },
+ {
+  "en": "ladder",
+  "tr": "merdiven",
+  "kat": "esya2",
+  "dosya": "ladder",
+  "ikon": "/ingilizce/ikonlar/ladder.svg"
+ },
+ {
+  "en": "bucket",
+  "tr": "kova",
+  "kat": "esya2",
+  "dosya": "bucket",
+  "ikon": "/ingilizce/ikonlar/bucket.svg"
+ },
+ {
+  "en": "basket",
+  "tr": "sepet",
+  "kat": "esya2",
+  "dosya": "basket",
+  "ikon": "/ingilizce/ikonlar/basket.svg"
+ },
+ {
+  "en": "balloon",
+  "tr": "balon",
+  "kat": "esya2",
+  "dosya": "balloon",
+  "ikon": "/ingilizce/ikonlar/balloon.svg"
+ },
+ {
+  "en": "gift",
+  "tr": "hediye",
+  "kat": "esya2",
+  "dosya": "gift",
+  "ikon": "/ingilizce/ikonlar/gift.svg"
+ },
+ {
+  "en": "crown",
+  "tr": "taç",
+  "kat": "esya2",
+  "dosya": "crown",
+  "ikon": "/ingilizce/ikonlar/crown.svg"
+ },
+ {
+  "en": "compass",
+  "tr": "pusula",
+  "kat": "esya2",
+  "dosya": "compass",
+  "ikon": "/ingilizce/ikonlar/compass.svg"
+ },
+ {
+  "en": "telescope",
+  "tr": "teleskop",
+  "kat": "esya2",
+  "dosya": "telescope",
+  "ikon": "/ingilizce/ikonlar/telescope.svg"
+ },
+ {
+  "en": "magnifying",
+  "tr": "büyüteç",
+  "kat": "esya2",
+  "dosya": "magnifying",
+  "ikon": "/ingilizce/ikonlar/magnifying.svg"
+ },
+ {
+  "en": "flashlight",
+  "tr": "el feneri",
+  "kat": "esya2",
+  "dosya": "flashlight",
+  "ikon": "/ingilizce/ikonlar/flashlight.svg"
+ },
+ {
+  "en": "thermometer",
+  "tr": "termometre",
+  "kat": "esya2",
+  "dosya": "thermometer",
+  "ikon": "/ingilizce/ikonlar/thermometer.svg"
+ },
+ {
+  "en": "microscope",
+  "tr": "mikroskop",
+  "kat": "esya2",
+  "dosya": "microscope",
+  "ikon": "/ingilizce/ikonlar/microscope.svg"
+ },
+ {
+  "en": "one",
+  "tr": "bir",
+  "kat": "sayilar",
+  "dosya": "one",
+  "ozel": "sayi",
+  "deger": "1"
+ },
+ {
+  "en": "two",
+  "tr": "iki",
+  "kat": "sayilar",
+  "dosya": "two",
+  "ozel": "sayi",
+  "deger": "2"
+ },
+ {
+  "en": "three",
+  "tr": "üç",
+  "kat": "sayilar",
+  "dosya": "three",
+  "ozel": "sayi",
+  "deger": "3"
+ },
+ {
+  "en": "four",
+  "tr": "dört",
+  "kat": "sayilar",
+  "dosya": "four",
+  "ozel": "sayi",
+  "deger": "4"
+ },
+ {
+  "en": "five",
+  "tr": "beş",
+  "kat": "sayilar",
+  "dosya": "five",
+  "ozel": "sayi",
+  "deger": "5"
+ },
+ {
+  "en": "six",
+  "tr": "altı",
+  "kat": "sayilar",
+  "dosya": "six",
+  "ozel": "sayi",
+  "deger": "6"
+ },
+ {
+  "en": "seven",
+  "tr": "yedi",
+  "kat": "sayilar",
+  "dosya": "seven",
+  "ozel": "sayi",
+  "deger": "7"
+ },
+ {
+  "en": "eight",
+  "tr": "sekiz",
+  "kat": "sayilar",
+  "dosya": "eight",
+  "ozel": "sayi",
+  "deger": "8"
+ },
+ {
+  "en": "nine",
+  "tr": "dokuz",
+  "kat": "sayilar",
+  "dosya": "nine",
+  "ozel": "sayi",
+  "deger": "9"
+ },
+ {
+  "en": "ten",
+  "tr": "on",
+  "kat": "sayilar",
+  "dosya": "ten",
+  "ozel": "sayi",
+  "deger": "10"
+ },
+ {
+  "en": "eleven",
+  "tr": "on bir",
+  "kat": "sayilar",
+  "dosya": "eleven",
+  "ozel": "sayi",
+  "deger": "11"
+ },
+ {
+  "en": "twelve",
+  "tr": "on iki",
+  "kat": "sayilar",
+  "dosya": "twelve",
+  "ozel": "sayi",
+  "deger": "12"
+ },
+ {
+  "en": "thirteen",
+  "tr": "on üç",
+  "kat": "sayilar",
+  "dosya": "thirteen",
+  "ozel": "sayi",
+  "deger": "13"
+ },
+ {
+  "en": "fourteen",
+  "tr": "on dört",
+  "kat": "sayilar",
+  "dosya": "fourteen",
+  "ozel": "sayi",
+  "deger": "14"
+ },
+ {
+  "en": "fifteen",
+  "tr": "on beş",
+  "kat": "sayilar",
+  "dosya": "fifteen",
+  "ozel": "sayi",
+  "deger": "15"
+ },
+ {
+  "en": "sixteen",
+  "tr": "on altı",
+  "kat": "sayilar",
+  "dosya": "sixteen",
+  "ozel": "sayi",
+  "deger": "16"
+ },
+ {
+  "en": "seventeen",
+  "tr": "on yedi",
+  "kat": "sayilar",
+  "dosya": "seventeen",
+  "ozel": "sayi",
+  "deger": "17"
+ },
+ {
+  "en": "eighteen",
+  "tr": "on sekiz",
+  "kat": "sayilar",
+  "dosya": "eighteen",
+  "ozel": "sayi",
+  "deger": "18"
+ },
+ {
+  "en": "nineteen",
+  "tr": "on dokuz",
+  "kat": "sayilar",
+  "dosya": "nineteen",
+  "ozel": "sayi",
+  "deger": "19"
+ },
+ {
+  "en": "twenty",
+  "tr": "yirmi",
+  "kat": "sayilar",
+  "dosya": "twenty",
+  "ozel": "sayi",
+  "deger": "20"
+ },
+ {
+  "en": "red",
+  "tr": "kırmızı",
+  "kat": "renkler",
+  "dosya": "red",
+  "ozel": "renk",
+  "deger": "#E03131"
+ },
+ {
+  "en": "blue",
+  "tr": "mavi",
+  "kat": "renkler",
+  "dosya": "blue",
+  "ozel": "renk",
+  "deger": "#1C7ED6"
+ },
+ {
+  "en": "yellow",
+  "tr": "sarı",
+  "kat": "renkler",
+  "dosya": "yellow",
+  "ozel": "renk",
+  "deger": "#FCC419"
+ },
+ {
+  "en": "green",
+  "tr": "yeşil",
+  "kat": "renkler",
+  "dosya": "green",
+  "ozel": "renk",
+  "deger": "#37B24D"
+ },
+ {
+  "en": "orange",
+  "tr": "turuncu",
+  "kat": "renkler",
+  "dosya": "orange",
+  "ozel": "renk",
+  "deger": "#FF922B"
+ },
+ {
+  "en": "purple",
+  "tr": "mor",
+  "kat": "renkler",
+  "dosya": "purple",
+  "ozel": "renk",
+  "deger": "#7048E8"
+ },
+ {
+  "en": "pink",
+  "tr": "pembe",
+  "kat": "renkler",
+  "dosya": "pink",
+  "ozel": "renk",
+  "deger": "#F06595"
+ },
+ {
+  "en": "brown",
+  "tr": "kahverengi",
+  "kat": "renkler",
+  "dosya": "brown",
+  "ozel": "renk",
+  "deger": "#8B5A2B"
+ },
+ {
+  "en": "black",
+  "tr": "siyah",
+  "kat": "renkler",
+  "dosya": "black",
+  "ozel": "renk",
+  "deger": "#212529"
+ },
+ {
+  "en": "white",
+  "tr": "beyaz",
+  "kat": "renkler",
+  "dosya": "white",
+  "ozel": "renk",
+  "deger": "#FFFFFF"
+ },
+ {
+  "en": "grey",
+  "tr": "gri",
+  "kat": "renkler",
+  "dosya": "grey",
+  "ozel": "renk",
+  "deger": "#868E96"
+ }
+]

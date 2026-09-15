@@ -1,3 +1,7 @@
+import seviye1Listesi from './seviye1.json';
+import seviye2Listesi from './seviye2.json';
+import { kelimeyeCevir, type Kelime } from './kelime';
+
 const AKTIF_KEY = 'dersdunyasi_aktif';
 
 export type IngilizceKelimeKayit = {
@@ -16,12 +20,12 @@ export type IngilizceSinavSonuc = {
 export type IngilizceKayit = {
   seviye: number;
   sure: number;
+  gecmisSure: number;
   kelimeler: { [kelimeEn: string]: IngilizceKelimeKayit };
   sinavlar: IngilizceSinavSonuc[];
 };
 
 export const GEREKEN_SURE = 72000;
-const TOPLAM_KELIME = 127;
 
 function anahtar(): string {
   const profilAdi = localStorage.getItem(AKTIF_KEY) || '';
@@ -29,7 +33,7 @@ function anahtar(): string {
 }
 
 function varsayilan(): IngilizceKayit {
-  return { seviye: 1, sure: 0, kelimeler: {}, sinavlar: [] };
+  return { seviye: 1, sure: 0, gecmisSure: 0, kelimeler: {}, sinavlar: [] };
 }
 
 function bugun(): string {
@@ -56,6 +60,7 @@ export function ingilizceGetir(): IngilizceKayit {
     return {
       seviye: typeof oku.seviye === 'number' ? oku.seviye : 1,
       sure: typeof oku.sure === 'number' ? oku.sure : 0,
+      gecmisSure: typeof oku.gecmisSure === 'number' ? oku.gecmisSure : 0,
       kelimeler: oku.kelimeler && typeof oku.kelimeler === 'object' ? oku.kelimeler : {},
       sinavlar: Array.isArray(oku.sinavlar) ? (oku.sinavlar as IngilizceSinavSonuc[]) : [],
     };
@@ -90,6 +95,15 @@ export function sureEkle(saniye: number) {
   }
 }
 
+export function seviyeKelimeleri(seviye: number): Kelime[] {
+  const ham = seviye >= 2 ? seviye2Listesi : seviye1Listesi;
+  return (ham as Parameters<typeof kelimeyeCevir>[0][]).map(kelimeyeCevir);
+}
+
+export function aktifKelimeler(): Kelime[] {
+  return seviyeKelimeleri(ingilizceGetir().seviye);
+}
+
 export function sinavaGirebilirMi(): boolean {
   return ingilizceGetir().sure >= GEREKEN_SURE;
 }
@@ -103,7 +117,11 @@ export function sinavKaydet(sonuc: IngilizceSinavSonuc) {
   try {
     const kayit = ingilizceGetir();
     kayit.sinavlar = [...kayit.sinavlar, sonuc];
-    if (sonuc.gecti) kayit.seviye += 1;
+    if (sonuc.gecti) {
+      kayit.gecmisSure += kayit.sure;
+      kayit.sure = 0;
+      kayit.seviye += 1;
+    }
     yaz(kayit);
   } catch {
     /* localStorage dolu veya kapalı */
@@ -117,11 +135,13 @@ export function ozet(): {
   calisilanGun: number;
 } {
   const kayit = ingilizceGetir();
+  const aktifEn = new Set(aktifKelimeler().map((k) => k.en));
   let calisilanKelime = 0;
   let dogru = 0;
   let yanlis = 0;
   const gunler = new Set<string>();
-  for (const k of Object.values(kayit.kelimeler)) {
+  for (const [en, k] of Object.entries(kayit.kelimeler)) {
+    if (!aktifEn.has(en)) continue;
     if (k.dogru > 0) calisilanKelime += 1;
     dogru += k.dogru;
     yanlis += k.yanlis;
@@ -129,7 +149,7 @@ export function ozet(): {
   }
   const toplamCevap = dogru + yanlis;
   return {
-    toplamKelime: TOPLAM_KELIME,
+    toplamKelime: aktifEn.size,
     calisilanKelime,
     dogruOran: toplamCevap === 0 ? 0 : (dogru / toplamCevap) * 100,
     calisilanGun: gunler.size,
