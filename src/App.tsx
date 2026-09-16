@@ -6,9 +6,10 @@ import BesN1K from './components/BesN1K';
 import DenemeSinavi from './components/DenemeSinavi';
 import BoyamaKosesi from './components/BoyamaKosesi';
 import IngilizceOgren from './components/IngilizceOgren';
+import VeliPaneli from './pages/veli-paneli/VeliPaneli';
 import './App.css';
 
-type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k' | 'deneme' | 'boyama' | 'ingilizce';
+type Screen = 'quiz' | 'hikaye' | 'oyunlar' | 'besn1k' | 'deneme' | 'boyama' | 'ingilizce' | 'veli';
 
 function App() {
   const [screen, setScreen] = useState<Screen>('quiz');
@@ -24,6 +25,7 @@ function App() {
           onDenemeAc={() => setScreen('deneme')}
           onBoyamaAc={() => setScreen('boyama')}
           onIngilizceAc={() => setScreen('ingilizce')}
+          onVeliAc={() => setScreen('veli')}
           yeniAnasayfa={yeniAnasayfa}
         />
       )}
@@ -44,6 +46,9 @@ function App() {
       )}
       {screen === 'ingilizce' && (
         <IngilizceOgren onClose={() => setScreen('quiz')} />
+      )}
+      {screen === 'veli' && (
+        <VeliPaneli onClose={() => setScreen('quiz')} />
       )}
     </div>
   );

@@ -27,8 +27,8 @@ export type IngilizceKayit = {
 
 export const GEREKEN_SURE = 72000;
 
-function anahtar(): string {
-  const profilAdi = localStorage.getItem(AKTIF_KEY) || '';
+function anahtar(isim?: string): string {
+  const profilAdi = isim ?? (localStorage.getItem(AKTIF_KEY) || '');
   return 'dersdunyasi_' + profilAdi + '_ingilizce';
 }
 
@@ -52,9 +52,9 @@ function yaz(kayit: IngilizceKayit) {
   }
 }
 
-export function ingilizceGetir(): IngilizceKayit {
+export function ingilizceGetir(isim?: string): IngilizceKayit {
   try {
-    const ham = localStorage.getItem(anahtar());
+    const ham = localStorage.getItem(anahtar(isim));
     if (!ham) return varsayilan();
     const oku = JSON.parse(ham) as Partial<IngilizceKayit>;
     return {
@@ -128,14 +128,14 @@ export function sinavKaydet(sonuc: IngilizceSinavSonuc) {
   }
 }
 
-export function ozet(): {
+export function ozet(isim?: string): {
   toplamKelime: number;
   calisilanKelime: number;
   dogruOran: number;
   calisilanGun: number;
 } {
-  const kayit = ingilizceGetir();
-  const aktifEn = new Set(aktifKelimeler().map((k) => k.en));
+  const kayit = ingilizceGetir(isim);
+  const aktifEn = new Set(seviyeKelimeleri(kayit.seviye).map((k) => k.en));
   let calisilanKelime = 0;
   let dogru = 0;
   let yanlis = 0;

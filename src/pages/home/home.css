@@ -567,6 +567,23 @@
   font-weight: 600;
   color: var(--ink-3);
 }
+.home-veli-giris {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  margin: 10px auto 22px;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--ink-3);
+  opacity: 0.4;
+}
+.home-veli-giris svg {
+  display: block;
+}
 /* ---------- Animasyonlar ---------- */
 @keyframes home-spin {
   to { transform: rotate(360deg); }

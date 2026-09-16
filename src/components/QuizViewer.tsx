@@ -16,6 +16,8 @@ interface Question {
   format?: number;
   /** Zeka-Dikkat vb. sınıf filtresi (1–4). Yoksa tüm sınıflara açık. */
   grade?: number;
+  /** Hata kutusuna yazılırken eklenen gün (YYYY-MM-DD). Eski kayıtlarda yok. */
+  tarih?: string;
 }
 
 interface ZekaKategori {
@@ -233,7 +235,9 @@ function hataEkle(ad: string, soru: Question) {
   const hatalar = hatalariGetir(ad);
   const imza = soru.question + '|' + [...soru.options].sort().join('|');
   if (hatalar.find(h => h.question + '|' + [...h.options].sort().join('|') === imza)) return;
-  hatalar.push(soru);
+  const d = new Date();
+  const tarih = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+  hatalar.push({ ...soru, tarih });
   if (hatalar.length > 200) hatalar.shift();
   localStorage.setItem(hatalarKey(ad), JSON.stringify(hatalar));
 }
@@ -251,6 +255,7 @@ interface Props {
   onDenemeAc?: () => void;
   onBoyamaAc?: () => void;
   onIngilizceAc?: () => void;
+  onVeliAc?: () => void;
   /** Geçici: /?yeni-anasayfa=1 iken yeni HomePage gösterilir. Varsayılan ana sayfa değişmez. */
   yeniAnasayfa?: boolean;
 }
@@ -281,7 +286,7 @@ const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTi
   return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
 });
 
-const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc, onIngilizceAc, yeniAnasayfa }) => {
+const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc, onIngilizceAc, onVeliAc, yeniAnasayfa }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
@@ -306,6 +311,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [feedback, setFeedback] = useState<'idle' | 'correct' | 'wrong'>('idle');
   const [hataModu, setHataModu] = useState(false);
+  const ogrenmeStatsYazildiRef = useRef(false);
 
   const activeSubject = ALL_SUBJECTS.find(s => s.label === selectedSubject) || SUBJECTS[0];
 
@@ -328,6 +334,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   }, []);
 
   const loadQuestions = useCallback(async (subjectName: string, themeName: string) => {
+    if (subjectName === OGRENME.label) ogrenmeStatsYazildiRef.current = false;
     setLoading(true);
     setError(null);
     setFeedback('idle');
@@ -426,6 +433,30 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     stats.push(result);
     if (stats.length > 500) stats = stats.slice(-500);
     localStorage.setItem(statsKey(profilAdi), JSON.stringify(stats));
+    if (selectedSubject === OGRENME.label) ogrenmeStatsYazildiRef.current = true;
+  };
+
+  const ogrenmeCikisindaKaydet = () => {
+    if (hataModu) return;
+    if (selectedSubject !== OGRENME.label) return;
+    if (ogrenmeStatsYazildiRef.current) return;
+    const sonSoruCevaplandi = feedback !== 'idle' && currentIndex >= questions.length - 1;
+    if (sonSoruCevaplandi) return;
+    const total = currentIndex + (feedback !== 'idle' ? 1 : 0);
+    if (total === 0) return;
+    const result: QuizResult = {
+      subject: OGRENME.label,
+      theme: selectedTheme,
+      difficulty: 'Orta',
+      score,
+      total,
+      date: new Date().toLocaleString('tr-TR'),
+    };
+    let stats = JSON.parse(localStorage.getItem(statsKey(profilAdi)) || '[]');
+    stats.push(result);
+    if (stats.length > 500) stats = stats.slice(-500);
+    localStorage.setItem(statsKey(profilAdi), JSON.stringify(stats));
+    ogrenmeStatsYazildiRef.current = true;
   };
 
   const soruyuSeslendir = () => {
@@ -639,6 +670,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
             setView('profile_selection');
           }}
           onNavigate={git}
+          onVeliAc={onVeliAc}
         />
       );
     }
@@ -1155,7 +1187,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
         </div>
       )}
 
-      <button className="back-btn" onClick={() => { setHataModu(false); setView('home'); }}>← Ana Sayfa</button>
+      <button className="back-btn" onClick={() => { ogrenmeCikisindaKaydet(); setHataModu(false); setView('home'); }}>← Ana Sayfa</button>
 
       <div className="qv-quiz-card" style={{ '--card-color': activeSubject.color } as React.CSSProperties}>
         <div className="qv-quiz-topbar">

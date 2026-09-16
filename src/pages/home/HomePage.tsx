@@ -96,6 +96,7 @@ export type HomePageProps = {
   onAddProfile: () => void;
   onChangeProfile: () => void;
   onNavigate: (route: HomeRoute) => void;
+  onVeliAc?: () => void;
 };
 
 export function HomePage({
@@ -106,6 +107,7 @@ export function HomePage({
   onAddProfile,
   onChangeProfile,
   onNavigate,
+  onVeliAc,
 }: HomePageProps) {
   const dersRef = useRef<HTMLElement>(null);
   const aktif = profiles.find((p) => p.ad === activeName);
@@ -339,6 +341,11 @@ export function HomePage({
         </div>
         <p className="home-footer-copy">Ders Dünyası · aile içinde kullanım</p>
       </footer>
+      {onVeliAc ? (
+        <button type="button" className="home-veli-giris" onClick={onVeliAc} aria-label="Veli paneli">
+          <Icon name="lock" size={15} />
+        </button>
+      ) : null}
     </div>
   );
 }
