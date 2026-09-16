@@ -4,6 +4,7 @@ import '../styles/DenemeSinavi.css';
 const PROFIL_KEY = 'dersdunyasi_profiller';
 const AKTIF_KEY = 'dersdunyasi_aktif';
 const denemelerKey = (ad: string) => `dersdunyasi_${ad}_denemeler`;
+const statsKey = (ad: string) => `dersdunyasi_${ad}_stats`;
 
 const SIK_HARF = ['A', 'B', 'C', 'D'];
 const DESTEKLENEN_SINIFLAR = [1, 2, 3, 4] as const;
@@ -116,6 +117,38 @@ function kaydet(ad: string, sonuc: DenemeSonuc) {
   localStorage.setItem(denemelerKey(ad), JSON.stringify(liste));
 }
 
+function statsYaz(ad: string, kirilim: Kirilim[]) {
+  if (!ad) return;
+  let stats: {
+    subject: string;
+    theme: string;
+    difficulty: string;
+    score: number;
+    total: number;
+    date: string;
+  }[] = [];
+  try {
+    const oku = JSON.parse(localStorage.getItem(statsKey(ad)) || '[]');
+    stats = Array.isArray(oku) ? oku : [];
+  } catch {
+    stats = [];
+  }
+  const date = new Date().toLocaleString('tr-TR');
+  for (const k of kirilim) {
+    if (k.toplam <= 0) continue;
+    stats.push({
+      subject: k.subject,
+      theme: k.konu,
+      difficulty: 'Orta',
+      score: k.dogru,
+      total: k.toplam,
+      date,
+    });
+  }
+  if (stats.length > 500) stats = stats.slice(-500);
+  localStorage.setItem(statsKey(ad), JSON.stringify(stats));
+}
+
 function ses(dogru: boolean) {
   try {
     const ctx = new (window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext)();
@@ -185,6 +218,7 @@ const DenemeSinavi: React.FC<Props> = ({ onClose }) => {
       yanlisIdler,
     };
     kaydet(ad, kayit);
+    statsYaz(ad, kirilim);
     setSonuc(kayit);
   };
 
