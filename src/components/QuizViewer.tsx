@@ -1,8 +1,9 @@
-import { useState, useEffect, useCallback, useRef, memo } from 'react';
+import { useState, useEffect, useCallback, useRef, memo, type ReactNode } from 'react';
 import '../styles/QuizViewer.css';
 import AnalogClock from './AnalogClock';
 import DigitalClock from './DigitalClock';
 import HomePage, { SUBJECT_ROUTE_TO_LABEL, type HomeRoute } from '../pages/home/HomePage';
+import BilgiModal from './BilgiModal';
 
 interface Question {
   id: string;
@@ -312,6 +313,8 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   const [feedback, setFeedback] = useState<'idle' | 'correct' | 'wrong'>('idle');
   const [hataModu, setHataModu] = useState(false);
   const ogrenmeStatsYazildiRef = useRef(false);
+  const [modalMesaj, setModalMesaj] = useState<string | null>(null);
+  const modalSonraRef = useRef<(() => void) | null>(null);
 
   const activeSubject = ALL_SUBJECTS.find(s => s.label === selectedSubject) || SUBJECTS[0];
 
@@ -414,7 +417,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
           saveResult();
         }
         setView('home');
-        alert(`Tebrikler! Testi tamamladın. Skorun: ${score + (isCorrect ? 1 : 0)}/${questions.length}`);
+        setModalMesaj(`Tebrikler! Testi tamamladın. Skorun: ${score + (isCorrect ? 1 : 0)}/${questions.length}`);
       }
     }, isCorrect ? 900 : 1600);
   };
@@ -498,14 +501,14 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     okuyucu.onload = () => {
       try {
         const paket = JSON.parse(String(okuyucu.result));
-        if (!paket || typeof paket.veri !== 'object') { alert('Bu dosya geçerli bir yedek değil.'); return; }
+        if (!paket || typeof paket.veri !== 'object') { setModalMesaj('Bu dosya geçerli bir yedek değil.'); return; }
         const anahtarlar = Object.keys(paket.veri).filter(k => k.startsWith('dersdunyasi_'));
-        if (anahtarlar.length === 0) { alert('Yedekte veri bulunamadı.'); return; }
+        if (anahtarlar.length === 0) { setModalMesaj('Yedekte veri bulunamadı.'); return; }
         if (!confirm(`${anahtarlar.length} kayıt yüklenecek ve mevcut verilerin üzerine yazılacak. Devam?`)) return;
         anahtarlar.forEach(k => localStorage.setItem(k, paket.veri[k]));
-        alert('Yedek yüklendi! ✓ Uygulama yenileniyor...');
-        window.location.reload();
-      } catch { alert('Dosya okunamadı.'); }
+        modalSonraRef.current = () => window.location.reload();
+        setModalMesaj('Yedek yüklendi! ✓ Uygulama yenileniyor...');
+      } catch { setModalMesaj('Dosya okunamadı.'); }
     };
     okuyucu.readAsText(dosya);
   };
@@ -518,6 +521,19 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     const percentage = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
     return { totalQuestions, correctCount, percentage };
   };
+
+  const modalKapat = () => {
+    const sonra = modalSonraRef.current;
+    modalSonraRef.current = null;
+    setModalMesaj(null);
+    if (sonra) sonra();
+  };
+  const goster = (icerik: ReactNode) => (
+    <>
+      {icerik}
+      {modalMesaj ? <BilgiModal mesaj={modalMesaj} onKapat={modalKapat} /> : null}
+    </>
+  );
 
   // ── VIEWS ─────────────────────────────────────────────────────────────
 
@@ -552,7 +568,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     };
 
     if (profiller.length > 0 && !yeniProfilModu) {
-      return (
+      return goster(
         <div className="qv-wrap">
           <div className="profil-container">
             <div className="profil-emoji">👋</div>
@@ -580,7 +596,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     }
 
     const siniflar = ['1', '2', '3', '4'];
-    return (
+    return goster(
       <div className="qv-wrap">
         <div className="profil-container">
           <div className="profil-emoji">🎮</div>
@@ -633,7 +649,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
         if (route === 'hata-kutusu') {
               const h = hatalariGetir(profilAdi);
               if (h.length === 0) {
-                alert('Hata kutun şu an boş! Harikasın! 🌟');
+                setModalMesaj('Hata kutun şu an boş! Harikasın! 🌟');
                 return;
               }
               setHataModu(true);
@@ -651,7 +667,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
           setView('theme_selection');
         }
       };
-      return (
+      return goster(
         <HomePage
           profiles={profiller}
           activeName={profilAdi}
@@ -705,7 +721,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
       </button>
     ) : null;
 
-    return (
+    return goster(
       <>
         <div className="magic-scene" aria-hidden="true">
           <div className="ms-stars">
@@ -842,7 +858,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
             <button className="home-menu-card hmc-hata" onClick={() => {
               const h = hatalariGetir(profilAdi);
               if (h.length === 0) {
-                alert('Hata kutun şu an boş! Harikasın! 🌟');
+                setModalMesaj('Hata kutun şu an boş! Harikasın! 🌟');
                 return;
               }
               setHataModu(true);
@@ -883,7 +899,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
       !k.siniflar || k.siniflar.includes(sinifNo)
     );
     const adliTemalar = activeSubject.temalar;
-    return (
+    return goster(
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
         <h1 className="home-title" style={{ color: activeSubject.textColor || activeSubject.color }}>{activeSubject.emoji} {selectedSubject}</h1>
@@ -948,7 +964,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
 
   // 3b. Öğrenme Köşesi — Tema Seçimi
   if (view === 'ogrenme_home') {
-    return (
+    return goster(
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
         <h1 className="home-title" style={{ color: OGRENME.color }}>🧠 Öğrenme Köşesi</h1>
@@ -987,7 +1003,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
       .slice(0, 10);
     const medal = (i: number) => (i === 0 ? "🥇" : i === 1 ? "🥈" : i === 2 ? "🥉" : `${i + 1}.`);
 
-    return (
+    return goster(
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
         <h1 className="home-title">🏆 Sıralama - En İyi 10</h1>
@@ -1029,7 +1045,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     const stats: QuizResult[] = JSON.parse(localStorage.getItem(statsKey(profilAdi)) || '[]');
     const overallStats = calculateOverallStats();
 
-    return (
+    return goster(
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
         <h1 className="home-title">📊 {profilAdi}'ın İlerlemesi</h1>
@@ -1080,7 +1096,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
 
   // 6. About App View
   if (view === 'about') {
-    return (
+    return goster(
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
         <div className="hakkinda-container">
@@ -1148,7 +1164,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
 
   // 7. Quiz Screen View
   if (loading) {
-    return (
+    return goster(
       <div className="qv-wrap">
         <div className="qv-loading">
           <div className="qv-spinner" />
@@ -1159,7 +1175,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   }
 
   if (error) {
-    return (
+    return goster(
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Geri Dön</button>
         <div className="qv-error">⚠️ {error}</div>
@@ -1170,7 +1186,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   const currentQuestion = questions[currentIndex];
   const progress = questions.length > 0 ? ((currentIndex) / questions.length) * 100 : 0;
 
-  return (
+  return goster(
     <div className="qv-wrap">
       {feedback === 'wrong' && (
         <div className="yanlis-balon">💪 Olsun, tekrar dene!</div>
