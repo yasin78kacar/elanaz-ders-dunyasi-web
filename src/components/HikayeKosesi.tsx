@@ -220,7 +220,7 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
         <h2 className="hikaye-okuma-baslik">📝 Anladın mı?</h2>
         <div className="test-ilerleme">Soru {soruIndex + 1} / {h.sorular!.length}</div>
         <div className="hikaye-sayfa">
-          <p className="hikaye-metin">{soru.question}</p>
+          <p className="hikaye-metin">{isimDegistir(soru.question, h.id)}</p>
         </div>
         <div className="test-secenekler">
           {soru.options.map((o, i) => {
@@ -239,7 +239,7 @@ const HikayeKosesi: React.FC<Props> = ({ onClose }) => {
                     else setTestBitti(true);
                   }, 1100);
                 }}>
-                {o}
+                {isimDegistir(o, h.id)}
               </button>
             );
           })}
