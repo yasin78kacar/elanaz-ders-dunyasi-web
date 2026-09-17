@@ -276,16 +276,16 @@ const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTi
   useEffect(() => {
     if (paused) return;
     const id = setInterval(() => {
-      setSaniye((prev) => {
-        if (prev <= 1) {
-          geriCagir.current(); // sure bitince otomatik yanlis
-          return TIMER_SURE;
-        }
-        return prev - 1;
-      });
+      setSaniye((prev) => (prev <= 1 ? 0 : prev - 1));
     }, 1000);
     return () => clearInterval(id);
   }, [paused]);
+  useEffect(() => {
+    if (saniye === 0) {
+      geriCagir.current();
+      setSaniye(TIMER_SURE);
+    }
+  }, [saniye]);
   const renk = saniye > 10 ? '#4CAF50' : saniye > 5 ? '#FFC107' : '#FF6B6B';
   return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
 });
