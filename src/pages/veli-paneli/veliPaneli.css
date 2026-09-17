@@ -126,6 +126,12 @@
   text-underline-offset: 3px;
 }
 
+.vp-konu-daha {
+  margin: 0 0 12px;
+  min-height: 44px;
+  text-align: center;
+}
+
 .vp-kart {
   display: flex;
   flex-direction: column;

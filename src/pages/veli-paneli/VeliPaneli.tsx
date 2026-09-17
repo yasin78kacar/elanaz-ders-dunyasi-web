@@ -11,6 +11,7 @@ const PROFIL_KEY = 'dersdunyasi_profiller';
 const PIN_UZUNLUK = 4;
 const YANLIS_LIMIT = 3;
 const BEKLE_MS = 8000;
+const KONU_LIMIT = 8;
 
 function aktifIsim(): string {
   try {
@@ -85,6 +86,7 @@ function VeliPaneli({ onClose }: { onClose: () => void }) {
   const [beklemeBitis, setBeklemeBitis] = useState<number | null>(null);
   const [beklemeSn, setBeklemeSn] = useState(0);
   const [unuttumAcik, setUnuttumAcik] = useState(false);
+  const [konularAcik, setKonularAcik] = useState(false);
 
   const bekliyor = beklemeBitis != null && Date.now() < beklemeBitis;
 
@@ -244,13 +246,26 @@ function VeliPaneli({ onClose }: { onClose: () => void }) {
       <h2 className="vp-altbaslik">Konular</h2>
       {konular.length === 0 ? (
         <p className="vp-aciklama">Henüz test kaydı yok.</p>
-      ) : konular.map((k) => (
-        <div key={k.subject + '\0' + k.theme} className="vp-kart">
-          <strong>{k.subject} · {k.theme}</strong>
-          <span>%{Math.round(k.ortalamaBasari)} · {k.denemeSayisi} deneme</span>
-          <span className={'vp-trend vp-trend--' + trendSinif(k.trend)}>{trendYazi(k.trend)}</span>
-        </div>
-      ))}
+      ) : (
+        <>
+          {(konularAcik ? konular : konular.slice(0, KONU_LIMIT)).map((k) => (
+            <div key={k.subject + '\0' + k.theme} className="vp-kart">
+              <strong>{k.subject} · {k.theme}</strong>
+              <span>%{Math.round(k.ortalamaBasari)} · {k.denemeSayisi} deneme</span>
+              <span className={'vp-trend vp-trend--' + trendSinif(k.trend)}>{trendYazi(k.trend)}</span>
+            </div>
+          ))}
+          {konular.length > KONU_LIMIT ? (
+            <button
+              type="button"
+              className="vp-link vp-konu-daha"
+              onClick={() => setKonularAcik((v) => !v)}
+            >
+              {konularAcik ? 'Daha az göster' : `+${konular.length - KONU_LIMIT} konu daha`}
+            </button>
+          ) : null}
+        </>
+      )}
 
       <h2 className="vp-altbaslik">Zayıf konular</h2>
       {zayiflar.length === 0 ? (
