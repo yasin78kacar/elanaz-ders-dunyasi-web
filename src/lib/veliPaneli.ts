@@ -87,6 +87,11 @@ function grupAnahtari(subject: string, theme: string): string {
   return subject + '\0' + theme;
 }
 
+function temaNormalize(theme: string): string {
+  const m = theme.match(/^Tema \d+/);
+  return m ? m[0] : theme;
+}
+
 function yuzde(dogru: number, toplam: number): number {
   if (toplam <= 0) return 0;
   return Math.round((dogru / toplam) * 1000) / 10;
@@ -123,7 +128,8 @@ function sureYazi(saniye: number): string {
 export function konuOzetiGetir(isim: string): KonuOzeti[] {
   const gruplar = new Map<string, StatsKayit[]>();
   for (const kayit of statsOku(isim)) {
-    const anahtar = grupAnahtari(kayit.subject, kayit.theme);
+    const tema = temaNormalize(kayit.theme);
+    const anahtar = grupAnahtari(kayit.subject, tema);
     const liste = gruplar.get(anahtar);
     if (liste) liste.push(kayit);
     else gruplar.set(anahtar, [kayit]);
@@ -135,7 +141,7 @@ export function konuOzetiGetir(isim: string): KonuOzeti[] {
     const son = liste[liste.length - 1];
     ozetler.push({
       subject: liste[0].subject,
-      theme: liste[0].theme,
+      theme: temaNormalize(liste[0].theme),
       ortalamaBasari: denemeYuzdesi(sonBes),
       denemeSayisi: liste.length,
       sonTarih: typeof son.date === 'string' ? son.date : '',
@@ -148,10 +154,11 @@ export function konuOzetiGetir(isim: string): KonuOzeti[] {
 export function zayifKonularGetir(isim: string, limit = 5): ZayifKonu[] {
   const sayac = new Map<string, ZayifKonu>();
   for (const hata of hatalarOku(isim)) {
-    const anahtar = grupAnahtari(hata.subject, hata.theme);
+    const tema = temaNormalize(hata.theme);
+    const anahtar = grupAnahtari(hata.subject, tema);
     const mevcut = sayac.get(anahtar);
     if (mevcut) mevcut.soruSayisi += 1;
-    else sayac.set(anahtar, { subject: hata.subject, theme: hata.theme, soruSayisi: 1 });
+    else sayac.set(anahtar, { subject: hata.subject, theme: tema, soruSayisi: 1 });
   }
   return [...sayac.values()]
     .sort((a, b) => b.soruSayisi - a.soruSayisi)
