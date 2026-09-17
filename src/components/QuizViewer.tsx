@@ -4,6 +4,7 @@ import AnalogClock from './AnalogClock';
 import DigitalClock from './DigitalClock';
 import HomePage, { SUBJECT_ROUTE_TO_LABEL, type HomeRoute } from '../pages/home/HomePage';
 import BilgiModal from './BilgiModal';
+import OnayModal from './OnayModal';
 
 interface Question {
   id: string;
@@ -315,6 +316,11 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   const ogrenmeStatsYazildiRef = useRef(false);
   const [modalMesaj, setModalMesaj] = useState<string | null>(null);
   const modalSonraRef = useRef<(() => void) | null>(null);
+  const [onayBekleyen, setOnayBekleyen] = useState<{
+    mesaj: string;
+    onayEtiket: string;
+    calistir: () => void;
+  } | null>(null);
 
   const activeSubject = ALL_SUBJECTS.find(s => s.label === selectedSubject) || SUBJECTS[0];
 
@@ -504,10 +510,15 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
         if (!paket || typeof paket.veri !== 'object') { setModalMesaj('Bu dosya geçerli bir yedek değil.'); return; }
         const anahtarlar = Object.keys(paket.veri).filter(k => k.startsWith('dersdunyasi_'));
         if (anahtarlar.length === 0) { setModalMesaj('Yedekte veri bulunamadı.'); return; }
-        if (!confirm(`${anahtarlar.length} kayıt yüklenecek ve mevcut verilerin üzerine yazılacak. Devam?`)) return;
-        anahtarlar.forEach(k => localStorage.setItem(k, paket.veri[k]));
-        modalSonraRef.current = () => window.location.reload();
-        setModalMesaj('Yedek yüklendi! ✓ Uygulama yenileniyor...');
+        setOnayBekleyen({
+          mesaj: `${anahtarlar.length} kayıt yüklenecek ve mevcut verilerin üzerine yazılacak. Devam?`,
+          onayEtiket: 'Evet, Üzerine Yaz',
+          calistir: () => {
+            anahtarlar.forEach(k => localStorage.setItem(k, paket.veri[k]));
+            modalSonraRef.current = () => window.location.reload();
+            setModalMesaj('Yedek yüklendi! ✓ Uygulama yenileniyor...');
+          },
+        });
       } catch { setModalMesaj('Dosya okunamadı.'); }
     };
     okuyucu.readAsText(dosya);
@@ -532,6 +543,18 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     <>
       {icerik}
       {modalMesaj ? <BilgiModal mesaj={modalMesaj} onKapat={modalKapat} /> : null}
+      {onayBekleyen ? (
+        <OnayModal
+          mesaj={onayBekleyen.mesaj}
+          onayEtiket={onayBekleyen.onayEtiket}
+          onOnayla={() => {
+            const fn = onayBekleyen.calistir;
+            setOnayBekleyen(null);
+            fn();
+          }}
+          onVazgec={() => setOnayBekleyen(null)}
+        />
+      ) : null}
     </>
   );
 
@@ -556,15 +579,19 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
       setProfilAdi(ad);
       setView('home');
     };
-    const profilSil = (ad: string, e: React.MouseEvent) => {
-      e.stopPropagation();
-      if (!confirm(`"${ad}" profili tüm puanları ve hata kutusuyla birlikte silinecek. Emin misin?`)) return;
-      const guncel = profiller.filter(pr => pr.ad !== ad);
-      profilleriKaydet(guncel);
-      setProfiller(guncel);
-      localStorage.removeItem(statsKey(ad));
-      localStorage.removeItem(hatalarKey(ad));
-      localStorage.removeItem(denemelerKey(ad));
+    const profilSil = (ad: string) => {
+      setOnayBekleyen({
+        mesaj: `"${ad}" profili tüm puanları ve hata kutusuyla birlikte silinecek. Emin misin?`,
+        onayEtiket: 'Evet, Sil',
+        calistir: () => {
+          const guncel = profiller.filter(pr => pr.ad !== ad);
+          profilleriKaydet(guncel);
+          setProfiller(guncel);
+          localStorage.removeItem(statsKey(ad));
+          localStorage.removeItem(hatalarKey(ad));
+          localStorage.removeItem(denemelerKey(ad));
+        },
+      });
     };
 
     if (profiller.length > 0 && !yeniProfilModu) {
@@ -577,9 +604,23 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
             <div className="profil-kart-grid">
               {profiller.map((pr, i) => (
                 <div key={pr.ad} className="profil-kart" role="button" tabIndex={0}
-                  onClick={() => profilSec(pr.ad)}
-                  onKeyDown={(e) => { if (e.key === 'Enter') profilSec(pr.ad); }}>
-                  <span className="profil-kart-sil" onClick={(e) => profilSil(pr.ad, e)} title="Profili sil">✕</span>
+                  onClick={(e) => {
+                    if ((e.target as HTMLElement).closest('.profil-kart-sil')) return;
+                    profilSec(pr.ad);
+                  }}
+                  onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); profilSec(pr.ad); } }}>
+                  <button
+                    type="button"
+                    className="profil-kart-sil"
+                    title="Profili sil"
+                    aria-label={`${pr.ad} profilini sil`}
+                    onPointerDown={(e) => { e.preventDefault(); e.stopPropagation(); }}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      profilSil(pr.ad);
+                    }}
+                  >✕</button>
                   <span className="profil-kart-emoji">{EMOJI[i % EMOJI.length]}</span>
                   <span className="profil-kart-ad">{pr.ad}</span>
                   <span className="profil-kart-sinif">{pr.sinif}. Sınıf</span>
