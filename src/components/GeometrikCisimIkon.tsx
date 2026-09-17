@@ -8,6 +8,8 @@ export const CISIM_SEKILLERI = [
   'ucgen_prizma',
   'silindir',
   'kure',
+  'koni',
+  'piramit',
 ] as const;
 
 export type GeometrikCisim = (typeof CISIM_SEKILLERI)[number];
@@ -23,6 +25,8 @@ const AD: Record<GeometrikCisim, string> = {
   ucgen_prizma: 'Üçgen prizma',
   silindir: 'Silindir',
   kure: 'Küre',
+  koni: 'Koni',
+  piramit: 'Piramit',
 };
 
 function Golge({ cx, cy, rx, ry }: { cx: number; cy: number; rx: number; ry: number }) {
@@ -130,6 +134,32 @@ function Kure() {
   );
 }
 
+function Koni() {
+  return (
+    <>
+      <Golge cx={50} cy={90} rx={28} ry={6} />
+      <ellipse cx="50" cy="78" rx="26" ry="10" fill="#C45E18" stroke={STROKE} strokeWidth={SW} />
+      <path d="M50 16 L24 78 A26 10 0 0 0 76 78 Z" fill="#E87B2A" stroke={STROKE} strokeWidth={SW} strokeLinejoin="round" />
+    </>
+  );
+}
+
+function Piramit() {
+  const tepe = '50,14';
+  const arka = '50,56';
+  const sag = '80,70';
+  const on = '50,84';
+  const sol = '20,70';
+  return (
+    <>
+      <Golge cx={50} cy={90} rx={32} ry={6} />
+      <polygon points={`${arka} ${sag} ${on} ${sol}`} fill="#C9A227" stroke={STROKE} strokeWidth={SW} strokeLinejoin="round" />
+      <polygon points={`${tepe} ${sag} ${on}`} fill="#C4A050" stroke={STROKE} strokeWidth={SW} strokeLinejoin="round" />
+      <polygon points={`${tepe} ${sol} ${on}`} fill="#E8C35A" stroke={STROKE} strokeWidth={SW} strokeLinejoin="round" />
+    </>
+  );
+}
+
 const CIZIM: Record<GeometrikCisim, () => ReactElement> = {
   kup: Kup,
   kare_prizma: KarePrizma,
@@ -137,6 +167,8 @@ const CIZIM: Record<GeometrikCisim, () => ReactElement> = {
   ucgen_prizma: UcgenPrizma,
   silindir: Silindir,
   kure: Kure,
+  koni: Koni,
+  piramit: Piramit,
 };
 
 export default function GeometrikCisimIkon({

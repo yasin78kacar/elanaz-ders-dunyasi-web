@@ -7,6 +7,11 @@ export const SEKIL_DEGERLERI = [
   'besgen',
   'altigen',
   'daire',
+  'oval',
+  'yildiz',
+  'paralelkenar',
+  'yamuk',
+  'sekizgen',
 ] as const;
 
 export type GeometrikSekil = (typeof SEKIL_DEGERLERI)[number];
@@ -21,6 +26,11 @@ const AD: Record<GeometrikSekil, string> = {
   besgen: 'Beşgen',
   altigen: 'Altıgen',
   daire: 'Daire',
+  oval: 'Oval',
+  yildiz: 'Yıldız',
+  paralelkenar: 'Paralelkenar',
+  yamuk: 'Yamuk',
+  sekizgen: 'Sekizgen',
 };
 
 function Golge({ cx, cy, rx, ry }: { cx: number; cy: number; rx: number; ry: number }) {
@@ -31,6 +41,16 @@ function duzenliCokgen(n: number, cx: number, cy: number, r: number): string {
   const pts: string[] = [];
   for (let i = 0; i < n; i++) {
     const a = ((-90 + (360 / n) * i) * Math.PI) / 180;
+    pts.push(`${+(cx + r * Math.cos(a)).toFixed(1)},${+(cy + r * Math.sin(a)).toFixed(1)}`);
+  }
+  return pts.join(' ');
+}
+
+function yildizCokgen(cx: number, cy: number, rDis: number, rIc: number): string {
+  const pts: string[] = [];
+  for (let i = 0; i < 10; i++) {
+    const r = i % 2 === 0 ? rDis : rIc;
+    const a = ((-90 + 36 * i) * Math.PI) / 180;
     pts.push(`${+(cx + r * Math.cos(a)).toFixed(1)},${+(cy + r * Math.sin(a)).toFixed(1)}`);
   }
   return pts.join(' ');
@@ -90,6 +110,51 @@ function Daire() {
   );
 }
 
+function Oval() {
+  return (
+    <>
+      <Golge cx={50} cy={88} rx={36} ry={6} />
+      <ellipse cx="50" cy="50" rx="40" ry="22" fill="#3DBBD4" stroke={STROKE} strokeWidth={SW} />
+    </>
+  );
+}
+
+function Yildiz() {
+  return (
+    <>
+      <Golge cx={50} cy={90} rx={28} ry={6} />
+      <polygon points={yildizCokgen(50, 50, 36, 14)} fill="#E8A817" stroke={STROKE} strokeWidth={SW} strokeLinejoin="round" />
+    </>
+  );
+}
+
+function Paralelkenar() {
+  return (
+    <>
+      <Golge cx={50} cy={88} rx={36} ry={6} />
+      <polygon points="18,34 72,34 88,70 34,70" fill="#C45ED4" stroke={STROKE} strokeWidth={SW} strokeLinejoin="round" />
+    </>
+  );
+}
+
+function Yamuk() {
+  return (
+    <>
+      <Golge cx={50} cy={88} rx={36} ry={6} />
+      <polygon points="28,32 72,32 90,72 10,72" fill="#5CAD4A" stroke={STROKE} strokeWidth={SW} strokeLinejoin="round" />
+    </>
+  );
+}
+
+function Sekizgen() {
+  return (
+    <>
+      <Golge cx={50} cy={90} rx={30} ry={6} />
+      <polygon points={duzenliCokgen(8, 50, 50, 36)} fill="#E5476A" stroke={STROKE} strokeWidth={SW} strokeLinejoin="round" />
+    </>
+  );
+}
+
 const CIZIM: Record<GeometrikSekil, () => ReactElement> = {
   ucgen: Ucgen,
   kare: Kare,
@@ -97,6 +162,11 @@ const CIZIM: Record<GeometrikSekil, () => ReactElement> = {
   besgen: Besgen,
   altigen: Altigen,
   daire: Daire,
+  oval: Oval,
+  yildiz: Yildiz,
+  paralelkenar: Paralelkenar,
+  yamuk: Yamuk,
+  sekizgen: Sekizgen,
 };
 
 export default function GeometrikSekilIkon({

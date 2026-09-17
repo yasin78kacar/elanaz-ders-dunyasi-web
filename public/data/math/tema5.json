@@ -2104,6 +2104,169 @@
         "Kare"
       ],
       "correctAnswer": 3
+    },
+    {
+      "id": "q828",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "koni",
+      "question": "Bu hangi geometrik cisimdir?",
+      "options": [
+        "Koni",
+        "Piramit",
+        "Silindir",
+        "Küp"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q829",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "piramit",
+      "question": "Bu hangi geometrik cisimdir?",
+      "options": [
+        "Küp",
+        "Koni",
+        "Piramit",
+        "Üçgen Prizma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q830",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "oval",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Daire",
+        "Kare",
+        "Oval",
+        "Altıgen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q831",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "yildiz",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Beşgen",
+        "Yıldız",
+        "Üçgen",
+        "Altıgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q832",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "paralelkenar",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Dikdörtgen",
+        "Yamuk",
+        "Paralelkenar",
+        "Kare"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q833",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "yamuk",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Paralelkenar",
+        "Yamuk",
+        "Dikdörtgen",
+        "Üçgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q834",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "sekizgen",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Altıgen",
+        "Beşgen",
+        "Sekizgen",
+        "Daire"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q835",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Dondurma külahı hangi cisme benzer?",
+      "options": [
+        "Silindir",
+        "Koni",
+        "Piramit",
+        "Küp"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q836",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Mısır piramitleri hangi cisme benzer?",
+      "options": [
+        "Küp",
+        "Koni",
+        "Üçgen Prizma",
+        "Piramit"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q837",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Yumurta hangi şekle benzer?",
+      "options": [
+        "Daire",
+        "Oval",
+        "Yıldız",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q838",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Yıldız süsü hangi şekle benzer?",
+      "options": [
+        "Beşgen",
+        "Üçgen",
+        "Yıldız",
+        "Daire"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q839",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Dur işareti hangi şekle benzer?",
+      "options": [
+        "Altıgen",
+        "Kare",
+        "Daire",
+        "Sekizgen"
+      ],
+      "correctAnswer": 3
     }
   ]
 }
