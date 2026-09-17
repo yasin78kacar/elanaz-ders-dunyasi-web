@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback, useRef, memo, type ReactNode } from '
 import '../styles/QuizViewer.css';
 import AnalogClock from './AnalogClock';
 import DigitalClock from './DigitalClock';
+import GeometrikCisimIkon, { type GorselSekil } from './GeometrikCisimIkon';
 import HomePage, { SUBJECT_ROUTE_TO_LABEL, type HomeRoute } from '../pages/home/HomePage';
 import BilgiModal from './BilgiModal';
 import OnayModal from './OnayModal';
@@ -14,6 +15,7 @@ interface Question {
   options: string[];
   correctAnswer: number;
   image?: string;
+  gorsel?: GorselSekil;
   clock?: { hour: number; minute: number };
   format?: number;
   /** Zeka-Dikkat vb. sınıf filtresi (1–4). Yoksa tüm sınıflara açık. */
@@ -1277,6 +1279,11 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
                   ) : (
                     <AnalogClock hour={currentQuestion.clock.hour} minute={currentQuestion.clock.minute} size={200} />
                   )}
+                </div>
+              )}
+              {currentQuestion.gorsel && (
+                <div className="qv-cisim-ikon">
+                  <GeometrikCisimIkon sekil={currentQuestion.gorsel} size={80} />
                 </div>
               )}
               <div className="soru-satir">

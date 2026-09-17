@@ -1728,6 +1728,382 @@
         "6"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "q800",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "kup",
+      "question": "Bu hangi geometrik cisimdir?",
+      "options": [
+        "Küp",
+        "Küre",
+        "Silindir",
+        "Koni"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q801",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "kare_prizma",
+      "question": "Bu hangi geometrik cisimdir?",
+      "options": [
+        "Silindir",
+        "Kare Prizma",
+        "Küp",
+        "Küre"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q802",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "dikdortgen_prizma",
+      "question": "Bu hangi geometrik cisimdir?",
+      "options": [
+        "Küp",
+        "Üçgen Prizma",
+        "Silindir",
+        "Dikdörtgen Prizma"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q803",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "ucgen_prizma",
+      "question": "Bu hangi geometrik cisimdir?",
+      "options": [
+        "Küre",
+        "Kare Prizma",
+        "Üçgen Prizma",
+        "Dikdörtgen Prizma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q804",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "silindir",
+      "question": "Bu hangi geometrik cisimdir?",
+      "options": [
+        "Küp",
+        "Silindir",
+        "Üçgen Prizma",
+        "Küre"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q805",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "kure",
+      "question": "Bu hangi geometrik cisimdir?",
+      "options": [
+        "Kare Prizma",
+        "Küp",
+        "Silindir",
+        "Küre"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q806",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Aşağıdakilerden hangisinin köşesi vardır?",
+      "options": [
+        "Küre",
+        "Silindir",
+        "Daire",
+        "Küp"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q807",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Aşağıdakilerden hangisinin köşesi yoktur?",
+      "options": [
+        "Küp",
+        "Kare Prizma",
+        "Küre",
+        "Üçgen Prizma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q808",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Üzerinde üçgen şekli olan geometrik cisim hangisidir?",
+      "options": [
+        "Küp",
+        "Üçgen Prizma",
+        "Silindir",
+        "Dikdörtgen Prizma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q809",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Her yüzü kare olan geometrik cisim hangisidir?",
+      "options": [
+        "Kare Prizma",
+        "Dikdörtgen Prizma",
+        "Küp",
+        "Üçgen Prizma"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q810",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "ucgen",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Üçgen",
+        "Kare",
+        "Daire",
+        "Altıgen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q811",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "kare",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Daire",
+        "Kare",
+        "Beşgen",
+        "Üçgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q812",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "dikdortgen",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Kare",
+        "Altıgen",
+        "Dikdörtgen",
+        "Daire"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q813",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "besgen",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Altıgen",
+        "Üçgen",
+        "Kare",
+        "Beşgen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q814",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "altigen",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Altıgen",
+        "Beşgen",
+        "Daire",
+        "Kare"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q815",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "gorsel": "daire",
+      "question": "Bu hangi geometrik şekildir?",
+      "options": [
+        "Beşgen",
+        "Üçgen",
+        "Daire",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q816",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Kaç kenarı olan şekil altıgendir?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q817",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Üç kenarı ve üç köşesi olan şekil hangisidir?",
+      "options": [
+        "Kare",
+        "Üçgen",
+        "Daire",
+        "Beşgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q818",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "5 köşesi olan şekil hangisidir?",
+      "options": [
+        "Üçgen",
+        "Kare",
+        "Beşgen",
+        "Daire"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q819",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Kenarlarından ikisi uzun, ikisi kısa olan şekil hangisidir?",
+      "options": [
+        "Kare",
+        "Daire",
+        "Üçgen",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q820",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Saat hangi şekle benzer?",
+      "options": [
+        "Daire",
+        "Kare",
+        "Üçgen",
+        "Altıgen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "q821",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Pizza dilimi hangi şekle benzer?",
+      "options": [
+        "Daire",
+        "Kare",
+        "Üçgen",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q822",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Kapı hangi şekle benzer?",
+      "options": [
+        "Üçgen",
+        "Daire",
+        "Altıgen",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q823",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Zarın bir yüzü hangi şekle benzer?",
+      "options": [
+        "Üçgen",
+        "Kare",
+        "Daire",
+        "Beşgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q824",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Bal peteği hangi şekle benzer?",
+      "options": [
+        "Beşgen",
+        "Kare",
+        "Altıgen",
+        "Daire"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "q825",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Kitap hangi şekle benzer?",
+      "options": [
+        "Üçgen",
+        "Daire",
+        "Beşgen",
+        "Dikdörtgen"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "q826",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Top hangi şekle benzer?",
+      "options": [
+        "Kare",
+        "Daire",
+        "Üçgen",
+        "Altıgen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "q827",
+      "subject": "Matematik",
+      "theme": "Tema 5",
+      "question": "Satranç tahtası hangi şekle benzer?",
+      "options": [
+        "Üçgen",
+        "Daire",
+        "Beşgen",
+        "Kare"
+      ],
+      "correctAnswer": 3
     }
   ]
 }

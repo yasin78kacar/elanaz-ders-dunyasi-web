@@ -360,6 +360,16 @@ body::before {
   margin: 4px auto 18px;
 }
 
+.qv-cisim-ikon {
+  display: flex;
+  justify-content: center;
+  margin: 4px auto 16px;
+}
+
+.qv-cisim-ikon svg {
+  display: block;
+}
+
 .qv-clock-wrap .analog-clock {
   filter: drop-shadow(0 6px 14px rgba(14, 165, 165, 0.22));
   animation: qv-clock-pop 0.4s var(--qv-ease-bounce, ease);
