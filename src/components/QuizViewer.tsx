@@ -1298,7 +1298,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
               )}
               {currentQuestion.gorsel && (
                 <div className="qv-cisim-ikon">
-                  <GeometrikCisimIkon sekil={currentQuestion.gorsel} size={80} />
+                  <GeometrikCisimIkon sekil={currentQuestion.gorsel} size={130} />
                 </div>
               )}
               <div className="soru-satir">
