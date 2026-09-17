@@ -153,6 +153,20 @@ function fisherYates<T>(arr: T[]): void {
   }
 }
 
+/** Görsel soruları başa alır; yoksa diziyi olduğu gibi bırakır. */
+function gorselleriOneAl(sorular: Question[]): Question[] {
+  const gorsel: Question[] = [];
+  const diger: Question[] = [];
+  for (const q of sorular) {
+    if (q.gorsel) gorsel.push(q);
+    else diger.push(q);
+  }
+  if (gorsel.length === 0) return sorular;
+  fisherYates(gorsel);
+  fisherYates(diger);
+  return [...gorsel, ...diger];
+}
+
 // Tema 2 (Saat Okuma): blok SIRASINI koruyarak yalnızca her bloğun İÇİNDE karıştır.
 // Bloklar clock.minute ile ayrılır (tam=0 → buçuk=30 → çeyrek:15 → çeyrek:45).
 // Kavram soruları (clock alanı olmayanlar) her zaman en sonda kalır.
@@ -386,6 +400,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
       } else {
         fisherYates(yuklenen);
       }
+      yuklenen = gorselleriOneAl(yuklenen);
       setQuestions(yuklenen);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Bir hata oluştu.');
