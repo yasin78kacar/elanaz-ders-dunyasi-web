@@ -20,7 +20,8 @@
 
 .oyun-geri {
   align-self: flex-start; background: none; border: 2px solid rgba(127,119,221,0.4);
-  border-radius: 999px; padding: 6px 16px; color: inherit; cursor: pointer; font-size: 0.95rem;
+  border-radius: 999px; padding: 10px 16px; min-height: 44px; color: inherit; cursor: pointer; font-size: 0.95rem;
+  display: inline-flex; align-items: center;
 }
 .oyun-alan { display: flex; flex-direction: column; align-items: center; gap: 14px; width: 100%; }
 .oyun-hedef { font-size: 1.15rem; text-align: center; line-height: 1.5; }

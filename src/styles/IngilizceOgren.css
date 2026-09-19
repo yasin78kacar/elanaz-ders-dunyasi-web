@@ -133,9 +133,10 @@
 .io-dinle {
   display: grid;
   place-items: center;
-  width: 36px;
-  height: 36px;
-  min-height: 36px;
+  width: 44px;
+  height: 44px;
+  min-width: 44px;
+  min-height: 44px;
   margin-top: 2px;
   color: #5b54c7;
 }
@@ -230,7 +231,7 @@
   gap: 4px;
   min-height: 28px;
   width: 100%;
-  font-size: 0.68rem;
+  font-size: 12px;
   font-weight: 700;
   color: #8b87a3;
 }
