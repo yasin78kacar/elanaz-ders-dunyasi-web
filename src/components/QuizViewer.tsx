@@ -1338,6 +1338,12 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
                     ) : (
                       <span className="qv-option-text">{opt}</span>
                     )}
+                    {selectedOption !== null && i === currentQuestion.correctAnswer ? (
+                      <span className="qv-option-isaret qv-option-isaret--dogru" aria-hidden="true">✓</span>
+                    ) : null}
+                    {selectedOption !== null && i === selectedOption && i !== currentQuestion.correctAnswer ? (
+                      <span className="qv-option-isaret qv-option-isaret--yanlis" aria-hidden="true">✗</span>
+                    ) : null}
                   </button>
                 );
               })}

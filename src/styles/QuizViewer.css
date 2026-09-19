@@ -497,6 +497,23 @@ body::before {
   color: #fff;
 }
 
+.qv-option-isaret {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 0.95rem;
+  font-weight: 900;
+  line-height: 1;
+  color: #fff;
+}
+
+.qv-option-isaret--dogru {
+  background: var(--qv-green);
+}
+
 /* Yanlış şık (seçilen) */
 .qv-option--wrong {
   border-color: var(--qv-red) !important;
@@ -506,6 +523,10 @@ body::before {
 .qv-option--wrong .qv-option-label {
   background: var(--qv-red);
   color: #fff;
+}
+
+.qv-option-isaret--yanlis {
+  background: var(--qv-red);
 }
 
 /* Diğer solgun şıklar */
@@ -1851,5 +1872,9 @@ body::before {
   }
   .ms-stars i { opacity: 0.6; }
   .ms-shooting span { opacity: 0; }
+  .qv-option--correct,
+  .qv-option--wrong {
+    animation: none !important;
+  }
 }
 
