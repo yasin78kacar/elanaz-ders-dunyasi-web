@@ -2,7 +2,7 @@
   width: 100%;
   max-width: 720px;
   margin: 0 auto;
-  padding: 16px 16px 28px;
+  padding: calc(16px + env(safe-area-inset-top, 0px)) 16px 28px;
   box-sizing: border-box;
   font-family: system-ui, -apple-system, sans-serif;
   color: #23213a;

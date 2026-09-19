@@ -53,7 +53,7 @@
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  padding: 12px 18px;
+  padding: calc(12px + env(safe-area-inset-top, 0px)) 18px 12px;
   background: rgba(247, 246, 252, 0.85);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
