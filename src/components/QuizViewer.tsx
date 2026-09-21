@@ -6,6 +6,7 @@ import GeometrikCisimIkon, { type GorselSekil } from './GeometrikCisimIkon';
 import HomePage, { SUBJECT_ROUTE_TO_LABEL, type HomeRoute } from '../pages/home/HomePage';
 import BilgiModal from './BilgiModal';
 import OnayModal from './OnayModal';
+import SayiBulmacasi from './SayiBulmacasi';
 
 interface Question {
   id: string;
@@ -64,6 +65,9 @@ interface QuizResult {
   score: number;
   total: number;
   date: string;
+  puzzleId?: string;
+  sinif?: number;
+  correctOnFirstTry?: boolean;
 }
 
 interface Profil {
@@ -245,6 +249,30 @@ function aktifSinif(ad: string): string {
   return pr ? pr.sinif : '2';
 }
 
+function sayiBulmacasiStatsYaz(ad: string, result: { puzzleId: string; sinif: number; correctOnFirstTry: boolean }) {
+  if (!ad) return;
+  let stats: QuizResult[] = [];
+  try {
+    const oku = JSON.parse(localStorage.getItem(statsKey(ad)) || '[]');
+    stats = Array.isArray(oku) ? oku : [];
+  } catch {
+    stats = [];
+  }
+  stats.push({
+    subject: 'Zeka-Dikkat',
+    theme: 'Sayı Bulmacası',
+    difficulty: 'Orta',
+    score: result.correctOnFirstTry ? 1 : 0,
+    total: 1,
+    date: new Date().toLocaleString('tr-TR'),
+    puzzleId: result.puzzleId,
+    sinif: result.sinif,
+    correctOnFirstTry: result.correctOnFirstTry,
+  });
+  if (stats.length > 500) stats = stats.slice(-500);
+  localStorage.setItem(statsKey(ad), JSON.stringify(stats));
+}
+
 function hatalariGetir(ad: string): Question[] {
   try { return JSON.parse(localStorage.getItem(hatalarKey(ad)) || '[]'); } catch { return []; }
 }
@@ -309,7 +337,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
   // Views: 'profile_selection' | 'home' | 'theme_selection' | 'ogrenme_home' | 'quiz' | 'stats' | 'leaderboard' | 'about'
-  const [view, setView] = useState<'profile_selection' | 'home' | 'theme_selection' | 'ogrenme_home' | 'quiz' | 'stats' | 'leaderboard' | 'about'>(() => {
+  const [view, setView] = useState<'profile_selection' | 'home' | 'theme_selection' | 'ogrenme_home' | 'sayi_bulmacasi' | 'quiz' | 'stats' | 'leaderboard' | 'about'>(() => {
     const active = localStorage.getItem(AKTIF_KEY);
     return active ? 'home' : 'profile_selection';
   });
@@ -953,6 +981,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   // 3. Theme Selection View
   if (view === 'theme_selection') {
     const sinifNo = Number(aktifSinif(profilAdi));
+    const sayiBulmacaAcik = sinifNo === 2 || sinifNo === 3 || sinifNo === 4;
     const kategoriMenusu = activeSubject.kategoriler?.filter(k =>
       !k.siniflar || k.siniflar.includes(sinifNo)
     );
@@ -967,21 +996,39 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
         
         <div className="qv-theme-grid" style={{ marginTop: '20px' }}>
           {kategoriMenusu ? (
-            kategoriMenusu.map(k => (
-              <button
-                key={k.dosya}
-                className={`qv-theme-pill`}
-                style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px' } as React.CSSProperties}
-                onClick={() => {
-                  setSelectedTheme(k.baslik);
-                  setHataModu(false);
-                  loadQuestions(selectedSubject, k.baslik);
-                  setView('quiz');
-                }}
-              >
-                {k.emoji} {k.baslik}
-              </button>
-            ))
+            <>
+              {kategoriMenusu.map(k => (
+                <button
+                  key={k.dosya}
+                  className={`qv-theme-pill`}
+                  style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px' } as React.CSSProperties}
+                  onClick={() => {
+                    setSelectedTheme(k.baslik);
+                    setHataModu(false);
+                    loadQuestions(selectedSubject, k.baslik);
+                    setView('quiz');
+                  }}
+                >
+                  {k.emoji} {k.baslik}
+                </button>
+              ))}
+              {selectedSubject === 'Zeka-Dikkat' ? (
+                <button
+                  type="button"
+                  className="qv-theme-pill"
+                  disabled={!sayiBulmacaAcik}
+                  title={sayiBulmacaAcik ? undefined : '2. sınıftan itibaren'}
+                  style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px', opacity: sayiBulmacaAcik ? 1 : 0.55 } as React.CSSProperties}
+                  onClick={() => {
+                    if (!sayiBulmacaAcik) return;
+                    setView('sayi_bulmacasi');
+                  }}
+                >
+                  🔢 Sayı Bulmacası
+                  {!sayiBulmacaAcik ? <span style={{ display: 'block', fontSize: '0.75rem', fontWeight: 700 }}>2. sınıftan itibaren</span> : null}
+                </button>
+              ) : null}
+            </>
           ) : adliTemalar ? (
             adliTemalar.map(t => (
               <button
@@ -1016,6 +1063,21 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
             ))
           )}
         </div>
+      </div>
+    );
+  }
+
+  if (view === 'sayi_bulmacasi') {
+    const sinifNo = Number(aktifSinif(profilAdi));
+    const sinif: 2 | 3 | 4 = sinifNo === 3 || sinifNo === 4 ? sinifNo : 2;
+    return goster(
+      <div className="qv-wrap">
+        <button type="button" className="back-btn" onClick={() => setView('theme_selection')}>← Kategoriler</button>
+        <h1 className="home-title" style={{ color: '#6D28D9' }}>🔢 Sayı Bulmacası</h1>
+        <SayiBulmacasi
+          sinif={sinif}
+          onPuzzleComplete={(result) => sayiBulmacasiStatsYaz(profilAdi, result)}
+        />
       </div>
     );
   }

@@ -1,0 +1,247 @@
+[
+  {
+    "id": "sb_2_0000",
+    "sinif": 2,
+    "tema": "Sayı Bulmacası",
+    "blocks": [
+      {
+        "rows": [
+          {
+            "a": 26,
+            "op": "+",
+            "b": 18,
+            "result": 44
+          },
+          {
+            "a": 9,
+            "op": "+",
+            "b": 23,
+            "result": 32
+          },
+          {
+            "a": 5,
+            "op": "+",
+            "b": 7,
+            "result": 12
+          }
+        ],
+        "verticalGroups": [
+          {
+            "rows": [
+              0,
+              1,
+              2
+            ],
+            "op": "-"
+          }
+        ],
+        "col2": [
+          44,
+          32,
+          12
+        ],
+        "blanked": [
+          "r0c1",
+          "r1c1",
+          "r2c1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sb_2_0001",
+    "sinif": 2,
+    "tema": "Sayı Bulmacası",
+    "blocks": [
+      {
+        "rows": [
+          {
+            "a": 49,
+            "op": "-",
+            "b": 45,
+            "result": 4
+          },
+          {
+            "a": 31,
+            "op": "+",
+            "b": 9,
+            "result": 40
+          },
+          {
+            "a": 50,
+            "op": "-",
+            "b": 6,
+            "result": 44
+          }
+        ],
+        "verticalGroups": [
+          {
+            "rows": [
+              0,
+              1,
+              2
+            ],
+            "op": "+"
+          }
+        ],
+        "col2": [
+          4,
+          40,
+          44
+        ],
+        "blanked": [
+          "r0c0",
+          "r2c0",
+          "r1c1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sb_2_0002",
+    "sinif": 2,
+    "tema": "Sayı Bulmacası",
+    "blocks": [
+      {
+        "rows": [
+          {
+            "a": 27,
+            "op": "+",
+            "b": 17,
+            "result": 44
+          },
+          {
+            "a": 22,
+            "op": "+",
+            "b": 3,
+            "result": 25
+          },
+          {
+            "a": 9,
+            "op": "+",
+            "b": 10,
+            "result": 19
+          }
+        ],
+        "verticalGroups": [
+          {
+            "rows": [
+              0,
+              1,
+              2
+            ],
+            "op": "-"
+          }
+        ],
+        "col2": [
+          44,
+          25,
+          19
+        ],
+        "blanked": [
+          "r1c0",
+          "r2c1",
+          "r0c2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sb_2_0003",
+    "sinif": 2,
+    "tema": "Sayı Bulmacası",
+    "blocks": [
+      {
+        "rows": [
+          {
+            "a": 39,
+            "op": "-",
+            "b": 8,
+            "result": 31
+          },
+          {
+            "a": 48,
+            "op": "-",
+            "b": 33,
+            "result": 15
+          },
+          {
+            "a": 49,
+            "op": "-",
+            "b": 3,
+            "result": 46
+          }
+        ],
+        "verticalGroups": [
+          {
+            "rows": [
+              0,
+              1,
+              2
+            ],
+            "op": "+"
+          }
+        ],
+        "col2": [
+          31,
+          15,
+          46
+        ],
+        "blanked": [
+          "r0c1",
+          "r1c1",
+          "r2c1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sb_2_0004",
+    "sinif": 2,
+    "tema": "Sayı Bulmacası",
+    "blocks": [
+      {
+        "rows": [
+          {
+            "a": 22,
+            "op": "-",
+            "b": 13,
+            "result": 9
+          },
+          {
+            "a": 1,
+            "op": "+",
+            "b": 1,
+            "result": 2
+          },
+          {
+            "a": 6,
+            "op": "+",
+            "b": 5,
+            "result": 11
+          }
+        ],
+        "verticalGroups": [
+          {
+            "rows": [
+              0,
+              1,
+              2
+            ],
+            "op": "+"
+          }
+        ],
+        "col2": [
+          9,
+          2,
+          11
+        ],
+        "blanked": [
+          "r1c1",
+          "r0c1",
+          "r2c1"
+        ]
+      }
+    ]
+  }
+]
