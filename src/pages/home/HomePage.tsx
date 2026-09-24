@@ -20,6 +20,7 @@ export type HomeRoute =
   | 'test/deneme'
   | 'hikaye-kosesi'
   | 'boyama-kosesi'
+  | 'video-kosesi'
   | 'mini-oyunlar'
   | 'ogrenme-kosesi'
   | 'besn1k'
@@ -58,7 +59,7 @@ type FeatureCard = {
   icon: IconName;
   route: HomeRoute;
   count: string;
-  variant: 'story' | 'coloring' | 'games' | 'learn' | 'besn1k' | 'englishLearn';
+  variant: 'story' | 'coloring' | 'games' | 'learn' | 'besn1k' | 'englishLearn' | 'video';
 };
 
 const SUBJECTS: SubjectCard[] = [
@@ -75,6 +76,7 @@ const SUBJECTS: SubjectCard[] = [
 const FEATURES: FeatureCard[] = [
   { name: 'Hikaye Köşesi', desc: 'Oku, dinle, anladın mı?', icon: 'story', route: 'hikaye-kosesi', count: 'Oku', variant: 'story' },
   { name: 'Boyama Köşesi', desc: 'Tıkla, boya, kutla!', icon: 'coloring', route: 'boyama-kosesi', count: '126', variant: 'coloring' },
+  { name: 'Video Köşesi', desc: 'Kısa ders anlatımları', icon: 'play', route: 'video-kosesi', count: 'İzle', variant: 'video' },
   { name: 'Mini Oyunlar', desc: '17 eğlenceli mini oyun', icon: 'games', route: 'mini-oyunlar', count: '17', variant: 'games' },
   { name: 'Öğrenme Köşesi', desc: 'Soru kelimeleri & saat okuma', icon: 'clock', route: 'ogrenme-kosesi', count: '4 tema', variant: 'learn' },
   { name: '5N1K', desc: 'Kim? Ne? Nerede? Ne zaman? Neden? Nasıl?', icon: 'search', route: 'besn1k', count: 'Tablo', variant: 'besn1k' },

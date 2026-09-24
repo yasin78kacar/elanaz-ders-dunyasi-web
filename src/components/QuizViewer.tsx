@@ -300,6 +300,7 @@ interface Props {
   onBesN1KAc?: () => void;
   onDenemeAc?: () => void;
   onBoyamaAc?: () => void;
+  onVideoAc?: () => void;
   onIngilizceAc?: () => void;
   onVeliAc?: () => void;
   /** Geçici: /?yeni-anasayfa=1 iken yeni HomePage gösterilir. Varsayılan ana sayfa değişmez. */
@@ -332,7 +333,7 @@ const Timer = memo(function Timer({ paused, onTimeout }: { paused: boolean; onTi
   return <span style={{ color: renk }}>⏱️ {saniye}s</span>;
 });
 
-const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc, onIngilizceAc, onVeliAc, yeniAnasayfa }) => {
+const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDenemeAc, onBoyamaAc, onVideoAc, onIngilizceAc, onVeliAc, yeniAnasayfa }) => {
   const [profilAdi, setProfilAdi] = useState<string>(() => localStorage.getItem(AKTIF_KEY) || '');
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
@@ -725,6 +726,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
         if (route === 'test/deneme') { onDenemeAc?.(); return; }
         if (route === 'hikaye-kosesi') { onHikayeAc?.(); return; }
         if (route === 'boyama-kosesi') { onBoyamaAc?.(); return; }
+        if (route === 'video-kosesi') { onVideoAc?.(); return; }
         if (route === 'mini-oyunlar') { onOyunlarAc?.(); return; }
         if (route === 'ogrenme-kosesi') { setView('ogrenme_home'); return; }
         if (route === 'ingilizce-ogren') { onIngilizceAc?.(); return; }
@@ -907,6 +909,17 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
               <span className="qv-hikaye-btn-text">
                 <span className="qv-hikaye-btn-title">Boyama Köşesi</span>
                 <span className="qv-hikaye-btn-sub">Tıkla, boya, kutla!</span>
+              </span>
+              <span className="qv-hikaye-btn-arrow">›</span>
+            </button>
+          )}
+
+          {onVideoAc && (
+            <button className="qv-video-btn" id="btn-video-kosesi" onClick={onVideoAc}>
+              <span className="qv-hikaye-btn-emoji">🎬</span>
+              <span className="qv-hikaye-btn-text">
+                <span className="qv-hikaye-btn-title">Video Köşesi</span>
+                <span className="qv-hikaye-btn-sub">Kısa ders anlatımları</span>
               </span>
               <span className="qv-hikaye-btn-arrow">›</span>
             </button>

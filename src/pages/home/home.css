@@ -476,6 +476,7 @@
 .home-feature--learn    { background: linear-gradient(135deg, #2bb3a3, #0f766e); }
 .home-feature--besn1k   { background: linear-gradient(135deg, #3d8bfd, #575fcc); }
 .home-feature--englishLearn { background: linear-gradient(135deg, #4d8bfd, #d96a9a); }
+.home-feature--video { background: linear-gradient(135deg, var(--purple-600), var(--indigo)); }
 /* ---------- Benim Köşem (sade) ---------- */
 .home-corner-grid {
   display: grid;
