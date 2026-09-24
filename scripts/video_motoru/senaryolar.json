@@ -1,0 +1,5962 @@
+{
+ "videolar": [
+  {
+   "id": "mat2-01-onar-sayalim",
+   "baslik": "Onar Onar Sayalım",
+   "konu": "Sayılar",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Merhaba! Bugün nesneleri onar onar saymayı öğreneceğiz.",
+     "baslik": "Onar Onar Sayalım",
+     "alt": "100'e kadar sayılar"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Bir, iki, üç... Tam 10 elma saydık. 10 elma bir onluk eder.",
+     "sayi": 10,
+     "nesne": "elma",
+     "duzen": "onluk",
+     "etiket": "1 onluk"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Elmaları onluk gruplara ayıralım. 10, 20, 30. Üç onluk 30 eder.",
+     "sayi": 30,
+     "nesne": "elma",
+     "duzen": "onluk",
+     "etiket": "3 onluk"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "10 tane onluk bir araya gelince 100 olur.",
+     "sayi": 100,
+     "nesne": "top",
+     "duzen": "onluk",
+     "etiket": "10 onluk"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Sayı doğrusunda onar onar ilerleyelim: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100.",
+     "bas": 0,
+     "son": 100,
+     "adim": 10,
+     "atlamalar": [
+      [
+       0,
+       10
+      ],
+      [
+       10,
+       20
+      ],
+      [
+       20,
+       30
+      ],
+      [
+       30,
+       40
+      ],
+      [
+       40,
+       50
+      ],
+      [
+       50,
+       60
+      ],
+      [
+       60,
+       70
+      ],
+      [
+       70,
+       80
+      ],
+      [
+       80,
+       90
+      ],
+      [
+       90,
+       100
+      ]
+     ],
+     "ifade": "10, 20, 30 ... 100"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Unutma! 10 birlik bir onluk eder. 10 onluk da 100 eder.",
+     "satirlar": [
+      "10 birlik = 1 onluk",
+      "10 onluk = 100"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-02-onluk-birlik",
+   "baslik": "Onluk ve Birlik",
+   "konu": "Sayılar",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda onluk ve birlik bloklarıyla sayıları tanıyacağız.",
+     "baslik": "Onluk ve Birlik",
+     "alt": "Sayıları bloklarla tanıyalım"
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "Her çubukta 10 küp var. İki çubuk, yani 2 onluk, 20 eder.",
+     "gruplar": [
+      {
+       "onluk": 2,
+       "birlik": 0
+      }
+     ],
+     "sag": [
+      "2 onluk",
+      "= 20"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "3 onluk ve 4 birlik bir araya gelince 34 sayısı oluşur.",
+     "gruplar": [
+      {
+       "onluk": 3,
+       "birlik": 4
+      }
+     ],
+     "tablo": [
+      3,
+      4
+     ],
+     "sag": [
+      "34"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "5 onluk ve 7 birlik, 57 eder.",
+     "gruplar": [
+      {
+       "onluk": 5,
+       "birlik": 7
+      }
+     ],
+     "tablo": [
+      5,
+      7
+     ],
+     "sag": [
+      "57"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "9 birliğimiz var. Bir birlik daha eklersek 10 birlik olur.",
+     "gruplar": [
+      {
+       "onluk": 0,
+       "birlik": 10
+      }
+     ],
+     "sag": [
+      "10 birlik"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "10 birlik bir araya gelince bir onluk olur.",
+     "gruplar": [
+      {
+       "onluk": 1,
+       "birlik": 0
+      }
+     ],
+     "sag": [
+      "1 onluk",
+      "= 10"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sayıları onluk ve birliklerle yazabiliriz. 34, 3 onluk 4 birliktir.",
+     "satirlar": [
+      "34 = 3 onluk 4 birlik",
+      "57 = 5 onluk 7 birlik"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-03-basamak-degeri",
+   "baslik": "Basamak Değeri",
+   "konu": "Sayılar",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bir rakamın, bulunduğu basamağa göre ne değer taşıdığını öğreneceğiz.",
+     "baslik": "Basamak Değeri",
+     "alt": "Rakamın yeri önemli"
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "46 sayısına bakalım. 4 onlar basamağında, 6 birler basamağında.",
+     "gruplar": [
+      {
+       "onluk": 4,
+       "birlik": 6
+      }
+     ],
+     "tablo": [
+      4,
+      6
+     ],
+     "sag": [
+      "46"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Onlar basamağındaki 4 aslında 40 değerindedir. Birler basamağındaki 6 ise 6 değerindedir.",
+     "satirlar": [
+      "4'ün basamak değeri: 40",
+      "6'nın basamak değeri: 6"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "Rakamların yeri değişirse sayı da değişir. 64 sayısında 6 onluk ve 4 birlik var.",
+     "gruplar": [
+      {
+       "onluk": 6,
+       "birlik": 4
+      }
+     ],
+     "tablo": [
+      6,
+      4
+     ],
+     "sag": [
+      "64"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "46 ile 64 farklı sayılardır. Rakamlar aynı ama yerleri farklı.",
+     "satirlar": [
+      "46: 4 onluk 6 birlik",
+      "64: 6 onluk 4 birlik"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir sayıyı basamak değerlerinin toplamı olarak yazabiliriz. 40 artı 6, 46 eder.",
+     "satirlar": [
+      "40 + 6 = 46",
+      "60 + 4 = 64"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-04-karsilastirma",
+   "baslik": "Sayıları Karşılaştırma",
+   "konu": "Sayılar",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda iki sayıdan hangisinin büyük olduğunu bulmayı öğreneceğiz.",
+     "baslik": "Sayıları Karşılaştırma",
+     "alt": "Büyük mü, küçük mü, eşit mi?"
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "35 mi büyük, 52 mi? Önce onlar basamağına bakarız. 5 onluk, 3 onluktan fazla. O halde 52 daha büyüktür.",
+     "a": 35,
+     "b": 52,
+     "isaret_zaman": 3.0
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "47 ile 43 sayılarının onlar basamağı aynı. O zaman birler basamağına bakarız. 7, 3'ten büyük. 47, 43'ten büyüktür.",
+     "a": 47,
+     "b": 43,
+     "isaret_zaman": 3.5
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "28 ile 28 aynı sayılardır. Bu yüzden eşittir işaretini kullanırız.",
+     "a": 28,
+     "b": 28,
+     "isaret_zaman": 2.0
+    },
+    {
+     "tip": "metin",
+     "anlatim": "İşaretin açık ağzı her zaman büyük sayıya bakar.",
+     "satirlar": [
+      "<   küçüktür",
+      ">   büyüktür",
+      "=   eşittir"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-05-siralama",
+   "baslik": "Sayıları Sıralama",
+   "konu": "Sayılar",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayıları sıralamayı öğreneceğiz.",
+     "baslik": "Sayıları Sıralama",
+     "alt": "Küçükten büyüğe, büyükten küçüğe"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Sayı doğrusunda sağa gittikçe sayılar büyür. 12, 27, 35 ve 41'i küçükten büyüğe sıraladık.",
+     "bas": 0,
+     "son": 50,
+     "adim": 1,
+     "etiket_aralik": 10,
+     "isaretle": [
+      12,
+      27,
+      35,
+      41
+     ],
+     "ifade": "12 < 27 < 35 < 41",
+     "atlama_zaman": 1.5
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Büyükten küçüğe sıralarken en büyük sayıdan başlarız: 41, 35, 27, 12.",
+     "dizi": [
+      41,
+      35,
+      27,
+      12
+     ],
+     "kural": "41 > 35 > 27 > 12",
+     "cevap_zaman": 2.0
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "25'ten hemen önce 24 gelir, hemen sonra 26 gelir. 24 ve 26, 25'in komşularıdır.",
+     "bas": 20,
+     "son": 30,
+     "isaretle": [
+      24,
+      25,
+      26
+     ],
+     "ifade": "24, 25, 26"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sıralama yaparken önce onlar basamağını, sonra birler basamağını karşılaştırırız.",
+     "satirlar": [
+      "Önce onlar basamağı",
+      "Sonra birler basamağı"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-06-ritmik-sayma",
+   "baslik": "Ritmik Sayma",
+   "konu": "Sayılar",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda ritmik saymayı öğreneceğiz. Hadi zıplayarak sayalım!",
+     "baslik": "Ritmik Sayma",
+     "alt": "İkişer, üçer, beşer, onar"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "İkişer sayalım: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.",
+     "bas": 0,
+     "son": 20,
+     "atlamalar": [
+      [
+       0,
+       2
+      ],
+      [
+       2,
+       4
+      ],
+      [
+       4,
+       6
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       8,
+       10
+      ],
+      [
+       10,
+       12
+      ],
+      [
+       12,
+       14
+      ],
+      [
+       14,
+       16
+      ],
+      [
+       16,
+       18
+      ],
+      [
+       18,
+       20
+      ]
+     ],
+     "ifade": "2, 4, 6 ... 20"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Üçer sayalım: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30.",
+     "bas": 0,
+     "son": 30,
+     "etiket_aralik": 3,
+     "atlamalar": [
+      [
+       0,
+       3
+      ],
+      [
+       3,
+       6
+      ],
+      [
+       6,
+       9
+      ],
+      [
+       9,
+       12
+      ],
+      [
+       12,
+       15
+      ],
+      [
+       15,
+       18
+      ],
+      [
+       18,
+       21
+      ],
+      [
+       21,
+       24
+      ],
+      [
+       24,
+       27
+      ],
+      [
+       27,
+       30
+      ]
+     ],
+     "ifade": "3, 6, 9 ... 30"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Beşer sayalım: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50.",
+     "bas": 0,
+     "son": 50,
+     "etiket_aralik": 5,
+     "atlamalar": [
+      [
+       0,
+       5
+      ],
+      [
+       5,
+       10
+      ],
+      [
+       10,
+       15
+      ],
+      [
+       15,
+       20
+      ],
+      [
+       20,
+       25
+      ],
+      [
+       25,
+       30
+      ],
+      [
+       30,
+       35
+      ],
+      [
+       35,
+       40
+      ],
+      [
+       40,
+       45
+      ],
+      [
+       45,
+       50
+      ]
+     ],
+     "ifade": "5, 10, 15 ... 50"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Şimdi 100'den geriye doğru onar sayalım: 90, 80, 70, 60, 50, 40, 30, 20, 10, 0.",
+     "bas": 0,
+     "son": 100,
+     "adim": 10,
+     "atlamalar": [
+      [
+       100,
+       90
+      ],
+      [
+       90,
+       80
+      ],
+      [
+       80,
+       70
+      ],
+      [
+       70,
+       60
+      ],
+      [
+       60,
+       50
+      ],
+      [
+       50,
+       40
+      ],
+      [
+       40,
+       30
+      ],
+      [
+       30,
+       20
+      ],
+      [
+       20,
+       10
+      ],
+      [
+       10,
+       0
+      ]
+     ],
+     "ifade": "100, 90, 80 ... 0"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Ritmik sayarken her seferinde aynı sayı kadar ilerler ya da geri gideriz.",
+     "satirlar": [
+      "İleri: sayı artar",
+      "Geri: sayı azalır"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-07-tek-cift",
+   "baslik": "Tek ve Çift Sayılar",
+   "konu": "Sayılar",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda tek ve çift sayıları öğreneceğiz.",
+     "baslik": "Tek ve Çift Sayılar",
+     "alt": "Eşleyelim, görelim"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "8 topu ikişer eşleyelim. Hiç top açıkta kalmadı. Bu yüzden 8 çift sayıdır.",
+     "sayi": 8,
+     "nesne": "top",
+     "duzen": "cift",
+     "sonuc": "ÇİFT"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "7 topu ikişer eşleyelim. Bir top açıkta kaldı. Bu yüzden 7 tek sayıdır.",
+     "sayi": 7,
+     "nesne": "top",
+     "duzen": "cift",
+     "sonuc": "TEK"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Birler basamağı 0, 2, 4, 6 ya da 8 olan sayılar çifttir. 1, 3, 5, 7 ya da 9 olanlar tektir.",
+     "satirlar": [
+      "Çift: 0, 2, 4, 6, 8",
+      "Tek: 1, 3, 5, 7, 9"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "34'ün birler basamağında 4 var, bu yüzden 34 çifttir. 57'nin birler basamağında 7 var, bu yüzden 57 tektir.",
+     "satirlar": [
+      "34 çift sayıdır",
+      "57 tek sayıdır"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-08-sayi-oruntuleri",
+   "baslik": "Sayı Örüntüleri",
+   "konu": "Örüntüler",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayı örüntülerinin kuralını bulmayı öğreneceğiz.",
+     "baslik": "Sayı Örüntüleri",
+     "alt": "Kuralı bul, devam ettir"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "5, 10, 15, 20, 25. Her sayı 5 artıyor. O halde sıradaki sayı 30.",
+     "dizi": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+     ],
+     "eksik": [
+      5
+     ],
+     "kural": "Kural: 5 artır"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "2, 4, 6, 8. Sayılar ikişer artıyor. Boş kutuya 10 gelir.",
+     "dizi": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ],
+     "eksik": [
+      4
+     ],
+     "kural": "Kural: 2 artır"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "50, 45, 40, 35, 30. Bu örüntüde sayılar 5 azalıyor. Sıradaki sayı 25.",
+     "dizi": [
+      50,
+      45,
+      40,
+      35,
+      30,
+      25
+     ],
+     "eksik": [
+      5
+     ],
+     "kural": "Kural: 5 azalt"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "1, 3, 5, 7. Tek sayılar ikişer artar. Boşluklara 9 ve 11 gelir.",
+     "dizi": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      11
+     ],
+     "eksik": [
+      4,
+      5
+     ],
+     "kural": "Kural: 2 artır"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Örüntüde önce iki sayı arasındaki farkı bul. Sonra aynı kuralla devam et.",
+     "satirlar": [
+      "Farkı bul",
+      "Kuralla devam et"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-09-sekil-oruntuleri",
+   "baslik": "Şekil Örüntüleri",
+   "konu": "Örüntüler",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda şekillerle yapılan örüntüleri inceleyeceğiz.",
+     "baslik": "Şekil Örüntüleri",
+     "alt": "Tekrar eden kısmı bul"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Daire, kare, daire, kare... Örüntü tekrar ediyor. Sıradaki şekil kare.",
+     "dizi": [
+      "kirmizi-daire",
+      "mavi-kare",
+      "kirmizi-daire",
+      "mavi-kare",
+      "kirmizi-daire",
+      "mavi-kare"
+     ],
+     "eksik": [
+      5
+     ],
+     "kural": "Tekrar eden: daire, kare"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Bu kez iki üçgen, bir daire tekrar ediyor. Boş yere daire gelir.",
+     "dizi": [
+      "sari-ucgen",
+      "sari-ucgen",
+      "yesil-daire",
+      "sari-ucgen",
+      "sari-ucgen",
+      "yesil-daire",
+      "sari-ucgen",
+      "sari-ucgen",
+      "yesil-daire"
+     ],
+     "eksik": [
+      8
+     ],
+     "kural": "Tekrar eden: üçgen, üçgen, daire"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Renkler sırayla tekrar ediyor: kırmızı, sarı, mavi. Sıradaki kare kırmızı olur.",
+     "dizi": [
+      "kirmizi-kare",
+      "sari-kare",
+      "mavi-kare",
+      "kirmizi-kare",
+      "sari-kare",
+      "mavi-kare",
+      "kirmizi-kare"
+     ],
+     "eksik": [
+      6
+     ],
+     "kural": "Kırmızı, sarı, mavi"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Önce tekrar eden kısmı bul. Sonra o kısmı aynen tekrarla.",
+     "satirlar": [
+      "Tekrar eden kısmı bul",
+      "Aynen tekrarla"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-10-toplama",
+   "baslik": "Toplama İşlemi",
+   "konu": "Toplama",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda toplama işlemini öğreneceğiz.",
+     "baslik": "Toplama İşlemi",
+     "alt": "Bir araya getirelim"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "Bir sepette 4 elma, diğerinde 3 elma var. Hepsini bir araya getirince 7 elma olur.",
+     "a": 4,
+     "b": 3,
+     "nesne": "elma",
+     "renk1": "kirmizi",
+     "renk2": "yesil"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "5 yıldıza 5 yıldız daha eklersek 10 yıldız olur.",
+     "a": 5,
+     "b": 5,
+     "nesne": "yildiz",
+     "renk1": "sari",
+     "renk2": "turuncu"
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "23 ile 14'ü toplayalım. Birlikleri toplarız: 3 artı 4, 7. Onlukları toplarız: 2 artı 1, 3. Sonuç 37.",
+     "gruplar": [
+      {
+       "onluk": 2,
+       "birlik": 3
+      },
+      {
+       "onluk": 1,
+       "birlik": 4
+      }
+     ],
+     "sag": [
+      "23 + 14",
+      "= 37"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplamaya katılan sayılara toplanan, sonuca toplam denir.",
+     "satirlar": [
+      "Toplanan + Toplanan = Toplam",
+      "4 + 3 = 7"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-11-eldeli-toplama",
+   "baslik": "Eldeli Toplama",
+   "konu": "Toplama",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda eldeli toplamayı öğreneceğiz.",
+     "baslik": "Eldeli Toplama",
+     "alt": "Birler toplamı 10 ya da fazlaysa"
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "27 ile 15'i toplayalım. Önce birlikleri toplarız: 7 artı 5, 12 birlik eder.",
+     "gruplar": [
+      {
+       "onluk": 2,
+       "birlik": 7
+      },
+      {
+       "onluk": 1,
+       "birlik": 5
+      }
+     ],
+     "sag": [
+      "27 + 15"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "Onluklar 3 oldu, birlikler 12 oldu. Ama 10 birlik bir onluk yapar.",
+     "gruplar": [
+      {
+       "onluk": 3,
+       "birlik": 12,
+       "renk": "mavi"
+      }
+     ],
+     "sag": [
+      "3 onluk",
+      "12 birlik"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "10 birliği bir onluğa çevirdik. Artık 4 onluk ve 2 birlik var. Sonuç 42.",
+     "gruplar": [
+      {
+       "onluk": 4,
+       "birlik": 2
+      }
+     ],
+     "tablo": [
+      4,
+      2
+     ],
+     "sag": [
+      "= 42"
+     ]
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Alt alta toplayalım. 7 artı 5, 12. 2'yi yazarız, 1'i eldeye alırız. 2 artı 1, 3. Eldeki 1 ile 4 olur. Sonuç 42.",
+     "ust": 27,
+     "alt": 15,
+     "islem": "+",
+     "not": "1 elde"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Birler toplamı 10 ya da daha fazlaysa 1 onluğu eldeye alır, onlar basamağına ekleriz.",
+     "satirlar": [
+      "Birler toplamı 10 ya da fazla",
+      "1 onluk eldeye"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-12-dogruda-toplama",
+   "baslik": "Sayı Doğrusunda Toplama",
+   "konu": "Toplama",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayı doğrusunda toplama yapacağız.",
+     "baslik": "Sayı Doğrusunda Toplama",
+     "alt": "İleri doğru atla"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "8'den başla, 5 adım ileri git. 13'e ulaştın. 8 artı 5, 13 eder.",
+     "bas": 0,
+     "son": 20,
+     "atlamalar": [
+      [
+       8,
+       9
+      ],
+      [
+       9,
+       10
+      ],
+      [
+       10,
+       11
+      ],
+      [
+       11,
+       12
+      ],
+      [
+       12,
+       13
+      ]
+     ],
+     "isaretle": [
+      8,
+      13
+     ],
+     "ifade": "8 + 5 = 13",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "9 artı 6 yaparken önce 10'a tamamla. Sonra kalan 5'i ekle. Sonuç 15.",
+     "bas": 0,
+     "son": 20,
+     "atlamalar": [
+      [
+       9,
+       10
+      ],
+      [
+       10,
+       15
+      ]
+     ],
+     "isaretle": [
+      9,
+      15
+     ],
+     "ifade": "9 + 6 = 15",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "24'e 12 eklerken önce 10 atla, sonra 2 atla. 36'ya ulaştın.",
+     "bas": 20,
+     "son": 40,
+     "etiket_aralik": 5,
+     "atlamalar": [
+      [
+       24,
+       34
+      ],
+      [
+       34,
+       36
+      ]
+     ],
+     "isaretle": [
+      24,
+      36
+     ],
+     "ifade": "24 + 12 = 36",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplama yaparken sayı doğrusunda ileriye, yani sağa doğru gideriz.",
+     "satirlar": [
+      "Toplama: sağa doğru ilerle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-13-cikarma",
+   "baslik": "Çıkarma İşlemi",
+   "konu": "Çıkarma",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda çıkarma işlemini öğreneceğiz.",
+     "baslik": "Çıkarma İşlemi",
+     "alt": "Ayıralım, azaltalım"
+    },
+    {
+     "tip": "cikarma",
+     "anlatim": "7 elmadan 3 tanesini yedik. Geriye 4 elma kaldı.",
+     "a": 7,
+     "b": 3,
+     "nesne": "elma"
+    },
+    {
+     "tip": "cikarma",
+     "anlatim": "10 toptan 4 tanesi kayboldu. Geriye 6 top kaldı.",
+     "a": 10,
+     "b": 4,
+     "nesne": "top"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Alt alta çıkaralım. Önce birler: 8 eksi 3, 5. Sonra onlar: 5 eksi 2, 3. Sonuç 35.",
+     "ust": 58,
+     "alt": 23,
+     "islem": "-"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çıkarma işleminde ilk sayıya eksilen, çıkarılan sayıya çıkan, sonuca fark denir.",
+     "satirlar": [
+      "Eksilen − Çıkan = Fark",
+      "7 − 3 = 4"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-14-onluk-bozma",
+   "baslik": "Onluk Bozarak Çıkarma",
+   "konu": "Çıkarma",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda onluk bozarak çıkarma yapmayı öğreneceğiz.",
+     "baslik": "Onluk Bozarak Çıkarma",
+     "alt": "Birlik yetmezse"
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "42'den 17 çıkaralım. Birler basamağında 2 var. 2'den 7 çıkaramayız.",
+     "gruplar": [
+      {
+       "onluk": 4,
+       "birlik": 2
+      }
+     ],
+     "tablo": [
+      4,
+      2
+     ],
+     "sag": [
+      "42 − 17"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "Bir onluğu bozarız. 10 birlik olur. Artık 3 onluk ve 12 birlik var.",
+     "gruplar": [
+      {
+       "onluk": 3,
+       "birlik": 12
+      }
+     ],
+     "sag": [
+      "3 onluk",
+      "12 birlik"
+     ]
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "12'den 7 çıkarırsak 5 kalır. 3 onluktan 1 onluk çıkarırsak 2 kalır. Sonuç 25.",
+     "ust": 42,
+     "alt": 17,
+     "islem": "-",
+     "not": "1 onluk bozuldu"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Birler basamağında çıkarma yapamazsak onlar basamağından 1 onluk bozarız.",
+     "satirlar": [
+      "1 onluk = 10 birlik",
+      "Bozunca birlik artar"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-15-dogruda-cikarma",
+   "baslik": "Sayı Doğrusunda Çıkarma",
+   "konu": "Çıkarma",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayı doğrusunda çıkarma yapacağız.",
+     "baslik": "Sayı Doğrusunda Çıkarma",
+     "alt": "Geriye doğru atla"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "12'den başla, 4 adım geri git. 8'e ulaştın. 12 eksi 4, 8 eder.",
+     "bas": 0,
+     "son": 20,
+     "atlamalar": [
+      [
+       12,
+       11
+      ],
+      [
+       11,
+       10
+      ],
+      [
+       10,
+       9
+      ],
+      [
+       9,
+       8
+      ]
+     ],
+     "isaretle": [
+      12,
+      8
+     ],
+     "ifade": "12 − 4 = 8",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "13'ten 5 çıkarırken önce 10'a in. Sonra kalan 2'yi çıkar. Sonuç 8.",
+     "bas": 0,
+     "son": 20,
+     "atlamalar": [
+      [
+       13,
+       10
+      ],
+      [
+       10,
+       8
+      ]
+     ],
+     "isaretle": [
+      13,
+      8
+     ],
+     "ifade": "13 − 5 = 8",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "45'ten 13 çıkaralım. Önce 10 geri, sonra 3 geri. 32'ye ulaştık.",
+     "bas": 30,
+     "son": 50,
+     "etiket_aralik": 5,
+     "atlamalar": [
+      [
+       45,
+       35
+      ],
+      [
+       35,
+       32
+      ]
+     ],
+     "isaretle": [
+      45,
+      32
+     ],
+     "ifade": "45 − 13 = 32",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çıkarma yaparken sayı doğrusunda geriye, yani sola doğru gideriz.",
+     "satirlar": [
+      "Çıkarma: sola doğru ilerle"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-16-toplama-cikarma-iliskisi",
+   "baslik": "Toplama ve Çıkarma İlişkisi",
+   "konu": "Toplama ve Çıkarma",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda toplama ile çıkarmanın ilişkisini göreceğiz.",
+     "baslik": "Toplama ve Çıkarma",
+     "alt": "Birbirinin tersi"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "6 elmaya 4 elma ekleyince 10 elma olur.",
+     "a": 6,
+     "b": 4,
+     "nesne": "elma",
+     "renk1": "kirmizi",
+     "renk2": "yesil"
+    },
+    {
+     "tip": "cikarma",
+     "anlatim": "10 elmadan 4 elmayı çıkarınca yine 6 elmaya döneriz.",
+     "a": 10,
+     "b": 4,
+     "nesne": "elma"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplama ve çıkarma birbirinin tersidir. Bir toplama işleminden iki çıkarma işlemi yazabiliriz.",
+     "satirlar": [
+      "6 + 4 = 10",
+      "10 − 4 = 6",
+      "10 − 6 = 4"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Verilmeyen toplananı bulmak için toplamdan diğer toplananı çıkarırız. 12 eksi 5, 7 eder.",
+     "satirlar": [
+      "? + 5 = 12",
+      "12 − 5 = 7"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-17-carpma",
+   "baslik": "Çarpma: Tekrarlı Toplama",
+   "konu": "Çarpma",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda çarpma işlemini öğreneceğiz.",
+     "baslik": "Çarpma İşlemi",
+     "alt": "Tekrarlı toplamanın kısa yolu"
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "3 sırada 4'er elma var. 4 artı 4 artı 4, 12 eder. Bunu kısaca 3 kere 4 diye yazarız.",
+     "satir": 3,
+     "sutun": 4,
+     "nesne": "elma"
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "2 sırada 5'er yıldız var. 5 artı 5, 10 eder. 2 kere 5, 10'dur.",
+     "satir": 2,
+     "sutun": 5,
+     "nesne": "yildiz"
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "4 sırada 3'er nokta var. 3 artı 3 artı 3 artı 3, 12 eder. 4 kere 3, 12'dir.",
+     "satir": 4,
+     "sutun": 3
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çarpma, aynı sayıyı tekrar tekrar toplamanın kısa yoludur.",
+     "satirlar": [
+      "4 + 4 + 4 = 12",
+      "3 × 4 = 12"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-18-iki-ile-carpma",
+   "baslik": "2 ile Çarpma",
+   "konu": "Çarpma",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 2 ile çarpmayı öğreneceğiz.",
+     "baslik": "2 ile Çarpma",
+     "alt": "İkişer ikişer"
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "2 sırada 3'er top var. 2 kere 3, 6 eder.",
+     "satir": 2,
+     "sutun": 3,
+     "nesne": "top"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "2'yi 5 kere ekleyelim: 2, 4, 6, 8, 10. 5 kere 2, 10 eder.",
+     "bas": 0,
+     "son": 20,
+     "atlamalar": [
+      [
+       0,
+       2
+      ],
+      [
+       2,
+       4
+      ],
+      [
+       4,
+       6
+      ],
+      [
+       6,
+       8
+      ],
+      [
+       8,
+       10
+      ]
+     ],
+     "ifade": "5 × 2 = 10"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "2 ile çarpım tablosunun ilk yarısı.",
+     "satirlar": [
+      "1 × 2 = 2",
+      "2 × 2 = 4",
+      "3 × 2 = 6",
+      "4 × 2 = 8",
+      "5 × 2 = 10"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Ve ikinci yarısı.",
+     "satirlar": [
+      "6 × 2 = 12",
+      "7 × 2 = 14",
+      "8 × 2 = 16",
+      "9 × 2 = 18",
+      "10 × 2 = 20"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "2 ile çarpınca sonuç her zaman çift sayı olur.",
+     "satirlar": [
+      "2 ile çarpım: hep çift"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-19-bes-on-carpma",
+   "baslik": "5 ve 10 ile Çarpma",
+   "konu": "Çarpma",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 5 ve 10 ile çarpmayı öğreneceğiz.",
+     "baslik": "5 ve 10 ile Çarpma",
+     "alt": "Beşer ve onar"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "5'er 4 kere atladık: 5, 10, 15, 20. 4 kere 5, 20 eder.",
+     "bas": 0,
+     "son": 50,
+     "etiket_aralik": 5,
+     "atlamalar": [
+      [
+       0,
+       5
+      ],
+      [
+       5,
+       10
+      ],
+      [
+       10,
+       15
+      ],
+      [
+       15,
+       20
+      ]
+     ],
+     "ifade": "4 × 5 = 20"
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "3 sırada 5'er nokta var. 3 kere 5, 15 eder.",
+     "satir": 3,
+     "sutun": 5
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "10'ar 6 kere atladık: 10, 20, 30, 40, 50, 60. 6 kere 10, 60 eder.",
+     "bas": 0,
+     "son": 100,
+     "adim": 10,
+     "atlamalar": [
+      [
+       0,
+       10
+      ],
+      [
+       10,
+       20
+      ],
+      [
+       20,
+       30
+      ],
+      [
+       30,
+       40
+      ],
+      [
+       40,
+       50
+      ],
+      [
+       50,
+       60
+      ]
+     ],
+     "ifade": "6 × 10 = 60"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "5 ile çarpınca sonuç 0 ya da 5 ile biter. 10 ile çarpınca sayının sonuna 0 eklenir.",
+     "satirlar": [
+      "5 ile: sonu 0 ya da 5",
+      "10 ile: sonuna 0 ekle"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-20-paylastirma",
+   "baslik": "Bölme: Paylaştırma",
+   "konu": "Bölme",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda eşit paylaştırmayı öğreneceğiz.",
+     "baslik": "Bölme: Paylaştırma",
+     "alt": "Eşit paylaşalım"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "12 elmayı 3 tabağa eşit paylaştıralım. Her tabağa 4 elma düştü.",
+     "toplam": 12,
+     "grup": 3,
+     "nesne": "elma"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "10 topu 2 tabağa eşit paylaştıralım. Her tabağa 5 top düştü.",
+     "toplam": 10,
+     "grup": 2,
+     "nesne": "top"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "8 yıldızı 4 tabağa paylaştıralım. Her tabakta 2 yıldız var.",
+     "toplam": 8,
+     "grup": 4,
+     "nesne": "yildiz"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Paylaştırmayı bölme işlemiyle yazarız. 12 bölü 3, 4 eder.",
+     "satirlar": [
+      "12 ÷ 3 = 4",
+      "Her tabakta 4 elma"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-21-gruplama",
+   "baslik": "Bölme: Gruplama",
+   "konu": "Bölme",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bölmeyi gruplayarak öğreneceğiz.",
+     "baslik": "Bölme: Gruplama",
+     "alt": "Kaç grup olur?"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "12 topu 4'erli gruplara ayıralım. 3 grup oldu. 12 bölü 4, 3 eder.",
+     "toplam": 12,
+     "grup": 4,
+     "nesne": "top",
+     "mod": "grupla"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "15 yıldızı 5'erli gruplara ayıralım. 3 grup oldu.",
+     "toplam": 15,
+     "grup": 5,
+     "nesne": "yildiz",
+     "mod": "grupla"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "15'in içinde 3 tane 5 vardır.",
+     "satirlar": [
+      "15 ÷ 5 = 3",
+      "15'in içinde 3 tane 5 var"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bölme, çarpmanın tersidir.",
+     "satirlar": [
+      "3 × 5 = 15",
+      "15 ÷ 5 = 3"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-22-yarim-ceyrek",
+   "baslik": "Bütün, Yarım, Çeyrek",
+   "konu": "Kesirler",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bütün, yarım ve çeyreği öğreneceğiz.",
+     "baslik": "Bütün, Yarım, Çeyrek",
+     "alt": "Kesirlere giriş"
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Bu bir bütün pizza.",
+     "parca": 1,
+     "kes": false,
+     "yazi": "1 bütün"
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Pizzayı iki eş parçaya bölelim. Parçalardan biri bütünün yarısıdır. Yarım, bir bölü iki diye yazılır.",
+     "parca": 2,
+     "boya": [
+      0
+     ],
+     "kesir": [
+      "1/2"
+     ],
+     "boya_zaman": 2.0,
+     "kesir_zaman": 2.5
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Şimdi pizzayı dört eş parçaya bölelim. Bir parça bütünün çeyreğidir. Çeyrek, bir bölü dört diye yazılır.",
+     "parca": 4,
+     "boya": [
+      0
+     ],
+     "kesir": [
+      "1/4"
+     ],
+     "boya_zaman": 2.2,
+     "kesir_zaman": 2.7
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "İki çeyrek yan yana gelince bir yarım eder.",
+     "parca": 4,
+     "boya": [
+      0,
+      1
+     ],
+     "kesir": [
+      "2/4",
+      "=",
+      "1/2"
+     ],
+     "kes": false,
+     "boya_zaman": 0.5
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Dört çeyrek bir araya gelince yine bir bütün olur.",
+     "parca": 4,
+     "boya": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "kesir": [
+      "4/4",
+      "=",
+      "1"
+     ],
+     "kes": false,
+     "boya_zaman": 0.5
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Aferin! Yarım ve çeyreği öğrendin.",
+     "satirlar": [
+      "Yarım = 1/2",
+      "Çeyrek = 1/4"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-23-es-parcalar",
+   "baslik": "Eş Parçalar",
+   "konu": "Kesirler",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bir bütünü eş parçalara ayırmayı öğreneceğiz.",
+     "baslik": "Eş Parçalar",
+     "alt": "Parçalar eşit mi?"
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Bu pizza 4 parçaya bölünmüş ama parçalar eş değil. Kimi büyük, kimi küçük.",
+     "parca": 4,
+     "acilar": [
+      150,
+      60,
+      90,
+      60
+     ],
+     "yazi": "Eş değil"
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Bu pizza ise 4 eş parçaya bölünmüş. Bütün parçalar aynı büyüklükte.",
+     "parca": 4,
+     "yazi": "4 eş parça"
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Bir çikolatayı 2 eş parçaya bölersek her parça yarımdır.",
+     "parca": 2,
+     "sekil": "dikdortgen",
+     "boya": [
+      0
+     ],
+     "kesir": [
+      "1/2"
+     ],
+     "boya_zaman": 1.6,
+     "kesir_zaman": 2.0
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "4 eş parçaya bölersek her parça çeyrektir.",
+     "parca": 4,
+     "sekil": "dikdortgen",
+     "boya": [
+      0
+     ],
+     "kesir": [
+      "1/4"
+     ],
+     "boya_zaman": 1.6,
+     "kesir_zaman": 2.0
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yarım ve çeyrek için parçalar mutlaka eş olmalıdır.",
+     "satirlar": [
+      "Kesirde parçalar eş olmalı"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-24-saat-tam-yarim",
+   "baslik": "Saat: Tam ve Yarım",
+   "konu": "Zaman",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda saatin tam ve yarım olduğunu okumayı öğreneceğiz.",
+     "baslik": "Saati Okuyalım",
+     "alt": "Tam ve yarım saatler"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Saatin kısa kolu akreptir, saati gösterir. Uzun kolu yelkovandır, dakikayı gösterir.",
+     "satirlar": [
+      "Kısa kol: akrep, saati gösterir",
+      "Uzun kol: yelkovan, dakikayı gösterir"
+     ]
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 12'nin üzerinde, akrep 3'ün üzerinde. Saat tam 3.",
+     "saat": 3,
+     "dakika": 0,
+     "etiket": "Saat 3"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Akrep 7'yi gösteriyor, yelkovan 12'de. Saat tam 7.",
+     "saat": 7,
+     "dakika": 0,
+     "onceki": [
+      3,
+      0
+     ],
+     "etiket": "Saat 7"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan yarım tur dönüp 6'ya geldi. Akrep 7 ile 8'in arasında. Saat yedi buçuk.",
+     "saat": 7,
+     "dakika": 30,
+     "onceki": [
+      7,
+      0
+     ],
+     "dilim": true,
+     "etiket": "Yedi buçuk"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 6'da, akrep 10 ile 11'in arasında. Saat on buçuk.",
+     "saat": 10,
+     "dakika": 30,
+     "dilim": true,
+     "etiket": "On buçuk"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yelkovan 12'deyse saat tamdır. Yelkovan 6'daysa saat buçuktur.",
+     "satirlar": [
+      "Yelkovan 12'de: tam",
+      "Yelkovan 6'da: buçuk"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-25-saat-ceyrek",
+   "baslik": "Saat: Çeyrek",
+   "konu": "Zaman",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda çeyrek saatleri okumayı öğreneceğiz.",
+     "baslik": "Çeyrek Saatler",
+     "alt": "Çeyrek geçiyor, çeyrek var"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 3'ün üzerinde. Çeyrek tur döndü. Saat dördü çeyrek geçiyor.",
+     "saat": 4,
+     "dakika": 15,
+     "onceki": [
+      4,
+      0
+     ],
+     "dilim": true,
+     "etiket": "Dördü çeyrek geçiyor"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 9'un üzerinde. Beşe çeyrek tur kaldı. Saat beşe çeyrek var.",
+     "saat": 4,
+     "dakika": 45,
+     "onceki": [
+      4,
+      15
+     ],
+     "dilim": true,
+     "etiket": "Beşe çeyrek var"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 3'te, akrep 8'in biraz ilerisinde. Saat sekizi çeyrek geçiyor.",
+     "saat": 8,
+     "dakika": 15,
+     "dilim": true,
+     "etiket": "Sekizi çeyrek geçiyor"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 9'da, akrep 12'ye yaklaşmış. Saat on ikiye çeyrek var.",
+     "saat": 11,
+     "dakika": 45,
+     "dilim": true,
+     "etiket": "On ikiye çeyrek var"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yelkovan 3'teyse çeyrek geçiyor, 9'daysa çeyrek var deriz.",
+     "satirlar": [
+      "Yelkovan 3'te: çeyrek geçiyor",
+      "Yelkovan 9'da: çeyrek var"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-26-zaman-birimleri",
+   "baslik": "Gün, Hafta, Ay, Yıl",
+   "konu": "Zaman",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda gün, hafta, ay ve yıl arasındaki ilişkiyi öğreneceğiz.",
+     "baslik": "Zaman Birimleri",
+     "alt": "Gün, hafta, ay, yıl"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir gün 24 saattir. Sabah, öğle, akşam ve gece bir günün parçalarıdır.",
+     "satirlar": [
+      "1 gün = 24 saat",
+      "Sabah, öğle, akşam, gece"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir haftada 7 gün vardır.",
+     "satirlar": [
+      "Pazartesi",
+      "Salı",
+      "Çarşamba",
+      "Perşembe",
+      "Cuma",
+      "Cumartesi",
+      "Pazar"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir yılda 12 ay vardır.",
+     "satirlar": [
+      "Ocak",
+      "Şubat",
+      "Mart",
+      "Nisan",
+      "Mayıs",
+      "Haziran",
+      "Temmuz",
+      "Ağustos",
+      "Eylül",
+      "Ekim",
+      "Kasım",
+      "Aralık"
+     ],
+     "sutun": 2
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir hafta 7 gündür. Bir ay yaklaşık 4 haftadır. Bir yıl 12 aydır.",
+     "satirlar": [
+      "1 hafta = 7 gün",
+      "1 ay ≈ 4 hafta",
+      "1 yıl = 12 ay"
+     ],
+     "vurgu": [
+      0,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-27-paralarimiz",
+   "baslik": "Paralarımız",
+   "konu": "Paralarımız",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda paralarımızı tanıyacağız.",
+     "baslik": "Paralarımız",
+     "alt": "Lira ve kuruş"
+    },
+    {
+     "tip": "para",
+     "anlatim": "Madeni paralarımız: 5 kuruş, 10 kuruş, 25 kuruş, 50 kuruş ve 1 lira.",
+     "paralar": [
+      "5 kr",
+      "10 kr",
+      "25 kr",
+      "50 kr",
+      "1 TL"
+     ]
+    },
+    {
+     "tip": "para",
+     "anlatim": "Kâğıt paralarımız: 5, 10, 20, 50, 100 ve 200 lira.",
+     "paralar": [
+      "5 TL",
+      "10 TL",
+      "20 TL",
+      "50 TL",
+      "100 TL",
+      "200 TL"
+     ]
+    },
+    {
+     "tip": "para",
+     "anlatim": "100 kuruş 1 lira eder. İki tane 50 kuruş da 1 lira eder.",
+     "paralar": [
+      "50 kr",
+      "50 kr",
+      "1 TL"
+     ],
+     "toplam": "50 kr + 50 kr = 1 TL"
+    },
+    {
+     "tip": "para",
+     "anlatim": "Cüzdandaki paraları sayalım: 10, 15, 16, 17. Toplam 17 lira.",
+     "paralar": [
+      "10 TL",
+      "5 TL",
+      "1 TL",
+      "1 TL"
+     ],
+     "toplam": "10 + 5 + 1 + 1 = 17 TL"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Unutma! 100 kuruş 1 lira eder.",
+     "satirlar": [
+      "100 kuruş = 1 lira"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-28-uzunluk",
+   "baslik": "Uzunluk Ölçme",
+   "konu": "Ölçme",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda uzunluk ölçmeyi öğreneceğiz.",
+     "baslik": "Uzunluk Ölçme",
+     "alt": "Santimetre ve metre"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Karış, adım ve kulaç ile ölçüm yapabiliriz. Ama herkesin karışı farklıdır. Bu yüzden cetvel kullanırız.",
+     "satirlar": [
+      "Karış",
+      "Adım",
+      "Kulaç"
+     ]
+    },
+    {
+     "tip": "uzunluk",
+     "anlatim": "Kalemin ucunu cetvelin 0 çizgisine koyarız. Kalem 12'de bitiyor. Kalem 12 santimetre.",
+     "uzunluk": 12,
+     "nesne": "kalem"
+    },
+    {
+     "tip": "uzunluk",
+     "anlatim": "Bu şerit 7 santimetre uzunluğunda.",
+     "uzunluk": 7,
+     "nesne": "serit",
+     "renk": "mor"
+    },
+    {
+     "tip": "uzunluk",
+     "anlatim": "Bu kalem daha uzun. 17 santimetre.",
+     "uzunluk": 17,
+     "nesne": "kalem"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kısa şeyleri santimetre ile, uzun şeyleri metre ile ölçeriz. 1 metre 100 santimetredir.",
+     "satirlar": [
+      "cm: santimetre",
+      "m: metre",
+      "1 m = 100 cm"
+     ],
+     "vurgu": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-29-geometrik-sekiller",
+   "baslik": "Geometrik Şekiller",
+   "konu": "Geometri",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda geometrik şekilleri tanıyacağız.",
+     "baslik": "Geometrik Şekiller",
+     "alt": "Kenar ve köşe"
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Çevremizde birçok şekil var: üçgen, kare, dikdörtgen ve daire.",
+     "sekiller": [
+      "ucgen",
+      "kare",
+      "dikdortgen",
+      "daire"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Üçgenin 3 kenarı ve 3 köşesi vardır.",
+     "sekil": "ucgen",
+     "bilgi": [
+      "Üçgen",
+      "3 kenar",
+      "3 köşe"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Karenin 4 kenarı ve 4 köşesi vardır. Bütün kenarları eşittir.",
+     "sekil": "kare",
+     "bilgi": [
+      "Kare",
+      "4 kenar",
+      "4 köşe",
+      "Kenarlar eşit"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Dikdörtgenin 4 kenarı ve 4 köşesi vardır. Karşılıklı kenarları eşittir.",
+     "sekil": "dikdortgen",
+     "bilgi": [
+      "Dikdörtgen",
+      "4 kenar",
+      "4 köşe"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Dairenin kenarı ve köşesi yoktur. Yuvarlaktır.",
+     "sekil": "daire",
+     "bilgi": [
+      "Daire",
+      "Kenarı yok",
+      "Köşesi yok"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat2-30-tablo-grafik",
+   "baslik": "Tablo ve Grafik",
+   "konu": "Veri",
+   "sinif": 2,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sütun grafiği okumayı öğreneceğiz.",
+     "baslik": "Tablo ve Grafik",
+     "alt": "Verileri okuyalım"
+    },
+    {
+     "tip": "grafik",
+     "anlatim": "Sınıftaki öğrencilere en sevdikleri meyveyi sorduk. Sütunlar her meyveyi kaç kişinin seçtiğini gösteriyor.",
+     "etiketler": [
+      "Elma",
+      "Muz",
+      "Çilek",
+      "Portakal"
+     ],
+     "degerler": [
+      6,
+      3,
+      8,
+      4
+     ],
+     "baslik": "En sevilen meyve"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "En uzun sütun en çok seçileni, en kısa sütun en az seçileni gösterir.",
+     "satirlar": [
+      "En çok seçilen: Çilek (8)",
+      "En az seçilen: Muz (3)"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çileği seçenler, muzu seçenlerden 5 kişi fazladır.",
+     "satirlar": [
+      "8 − 3 = 5"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "grafik",
+     "anlatim": "Bu grafik bir haftada okunan kitap sayısını gösteriyor. En çok kitap cuma günü okunmuş.",
+     "etiketler": [
+      "Pzt",
+      "Salı",
+      "Çrş",
+      "Prş",
+      "Cuma"
+     ],
+     "degerler": [
+      2,
+      4,
+      3,
+      5,
+      7
+     ],
+     "baslik": "Okunan kitap sayısı"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Grafikleri okurken önce başlığa, sonra sütunlara bakarız.",
+     "satirlar": [
+      "Önce başlık",
+      "Sonra sütunlar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-01-uc-basamakli",
+   "baslik": "Üç Basamaklı Sayılar",
+   "konu": "Sayılar",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda üç basamaklı sayıları tanıyacağız.",
+     "baslik": "Üç Basamaklı Sayılar",
+     "alt": "Yüzlük, onluk, birlik"
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "Her kare tabakada 100 küp var. Buna bir yüzlük deriz. 10 onluk bir araya gelince bir yüzlük olur.",
+     "gruplar": [
+      {
+       "yuzluk": 1,
+       "onluk": 0,
+       "birlik": 0
+      }
+     ],
+     "sag": [
+      "1 yüzlük",
+      "= 100"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "2 yüzlük, 3 onluk ve 5 birlik bir araya gelince 235 sayısı oluşur.",
+     "gruplar": [
+      {
+       "yuzluk": 2,
+       "onluk": 3,
+       "birlik": 5
+      }
+     ],
+     "tablo": [
+      2,
+      3,
+      5
+     ],
+     "sag": [
+      "235"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "4 yüzlük, 0 onluk ve 7 birlik, 407 eder. Onluk olmadığı için onlar basamağına sıfır yazarız.",
+     "gruplar": [
+      {
+       "yuzluk": 4,
+       "onluk": 0,
+       "birlik": 7
+      }
+     ],
+     "tablo": [
+      4,
+      0,
+      7
+     ],
+     "sag": [
+      "407"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Üç basamaklı en küçük sayı 100, en büyük sayı 999'dur.",
+     "satirlar": [
+      "En küçük: 100",
+      "En büyük: 999"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-02-basamak-degeri",
+   "baslik": "Basamak Değeri",
+   "konu": "Sayılar",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda üç basamaklı sayılarda basamak değerini öğreneceğiz.",
+     "baslik": "Basamak Değeri",
+     "alt": "Üç basamaklı sayılarda"
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "358 sayısına bakalım. 3 yüzler, 5 onlar, 8 birler basamağında.",
+     "gruplar": [
+      {
+       "yuzluk": 3,
+       "onluk": 5,
+       "birlik": 8
+      }
+     ],
+     "tablo": [
+      3,
+      5,
+      8
+     ],
+     "sag": [
+      "358"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yüzler basamağındaki 3 aslında 300 değerindedir. Onlar basamağındaki 5, 50 değerindedir. Birler basamağındaki 8 ise 8 değerindedir.",
+     "satirlar": [
+      "3 → 300",
+      "5 → 50",
+      "8 → 8"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sayıyı basamak değerlerinin toplamı olarak yazabiliriz.",
+     "satirlar": [
+      "300 + 50 + 8 = 358"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Aynı rakam farklı basamakta farklı değer taşır. 555 sayısında her 5 başka bir değerdedir.",
+     "satirlar": [
+      "555 = 500 + 50 + 5"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-03-karsilastirma",
+   "baslik": "Sayıları Karşılaştırma",
+   "konu": "Sayılar",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda üç basamaklı sayıları karşılaştıracağız.",
+     "baslik": "Sayıları Karşılaştırma",
+     "alt": "Üç basamaklı sayılar"
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "Önce yüzler basamağına bakarız. 4 yüzlük, 2 yüzlükten fazladır. Bu yüzden 415 daha büyüktür.",
+     "a": 415,
+     "b": 289,
+     "tavan": 1000,
+     "isaret_zaman": 3.0
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "Yüzler basamağı aynıysa onlar basamağına bakarız. 7 onluk, 3 onluktan fazladır.",
+     "a": 572,
+     "b": 538,
+     "tavan": 1000,
+     "isaret_zaman": 3.0
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "Yüzler ve onlar aynıysa birler basamağına bakarız. 1, 6'dan küçüktür.",
+     "a": 641,
+     "b": 646,
+     "tavan": 1000,
+     "isaret_zaman": 3.0
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Karşılaştırmaya her zaman en soldaki basamaktan başlarız.",
+     "satirlar": [
+      "Yüzler → Onlar → Birler"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-04-ritmik-sayma",
+   "baslik": "Ritmik Sayma",
+   "konu": "Sayılar",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda büyük adımlarla ritmik sayacağız.",
+     "baslik": "Ritmik Sayma",
+     "alt": "Yirmi beşer, ellişer, yüzer"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Yirmi beşer sayalım: 25, 50, 75, 100, 125, 150, 175, 200.",
+     "bas": 0,
+     "son": 200,
+     "adim": 25,
+     "atlamalar": [
+      [
+       0,
+       25
+      ],
+      [
+       25,
+       50
+      ],
+      [
+       50,
+       75
+      ],
+      [
+       75,
+       100
+      ],
+      [
+       100,
+       125
+      ],
+      [
+       125,
+       150
+      ],
+      [
+       150,
+       175
+      ],
+      [
+       175,
+       200
+      ]
+     ],
+     "ifade": "25, 50, 75 ... 200"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Ellişer sayalım: 50, 100, 150, 200, 250, 300, 350, 400, 450, 500.",
+     "bas": 0,
+     "son": 500,
+     "adim": 50,
+     "atlamalar": [
+      [
+       0,
+       50
+      ],
+      [
+       50,
+       100
+      ],
+      [
+       100,
+       150
+      ],
+      [
+       150,
+       200
+      ],
+      [
+       200,
+       250
+      ],
+      [
+       250,
+       300
+      ],
+      [
+       300,
+       350
+      ],
+      [
+       350,
+       400
+      ],
+      [
+       400,
+       450
+      ],
+      [
+       450,
+       500
+      ]
+     ],
+     "ifade": "50, 100, 150 ... 500"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Yüzer sayalım: 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000.",
+     "bas": 0,
+     "son": 1000,
+     "adim": 100,
+     "atlamalar": [
+      [
+       0,
+       100
+      ],
+      [
+       100,
+       200
+      ],
+      [
+       200,
+       300
+      ],
+      [
+       300,
+       400
+      ],
+      [
+       400,
+       500
+      ],
+      [
+       500,
+       600
+      ],
+      [
+       600,
+       700
+      ],
+      [
+       700,
+       800
+      ],
+      [
+       800,
+       900
+      ],
+      [
+       900,
+       1000
+      ]
+     ],
+     "ifade": "100, 200, 300 ... 1000"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "10 tane yüzlük bin eder.",
+     "satirlar": [
+      "10 yüzlük = 1000"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-05-oruntuler",
+   "baslik": "Sayı Örüntüleri",
+   "konu": "Örüntüler",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda üç basamaklı sayılarla örüntüler oluşturacağız.",
+     "baslik": "Sayı Örüntüleri",
+     "alt": "Kuralı bul"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "120, 130, 140, 150. Her sayı 10 artıyor. Sıradaki sayı 160.",
+     "dizi": [
+      120,
+      130,
+      140,
+      150,
+      160
+     ],
+     "eksik": [
+      4
+     ],
+     "kural": "Kural: 10 artır"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "900, 800, 700, 600. Her sayı 100 azalıyor. Sıradaki sayı 500.",
+     "dizi": [
+      900,
+      800,
+      700,
+      600,
+      500
+     ],
+     "eksik": [
+      4
+     ],
+     "kural": "Kural: 100 azalt"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "5, 10, 20, 40. Her sayı bir öncekinin iki katı. Sıradaki sayı 80.",
+     "dizi": [
+      5,
+      10,
+      20,
+      40,
+      80
+     ],
+     "eksik": [
+      4
+     ],
+     "kural": "Kural: 2 katını al"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Örüntünün kuralını bulmak için ardışık iki sayıyı karşılaştırırız.",
+     "satirlar": [
+      "Artıyor mu, azalıyor mu?",
+      "Ne kadar?"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-06-yuvarlama",
+   "baslik": "En Yakın Onluğa Yuvarlama",
+   "konu": "Sayılar",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bir sayıyı en yakın onluğa yuvarlamayı öğreneceğiz.",
+     "baslik": "Yuvarlama",
+     "alt": "En yakın onluk"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "43 sayısı 40'a mı yakın, 50'ye mi? 40'a daha yakın. 43'ü en yakın onluğa yuvarlarsak 40 olur.",
+     "bas": 40,
+     "son": 50,
+     "isaretle": [
+      40,
+      43
+     ],
+     "atlamalar": [
+      [
+       43,
+       40
+      ]
+     ],
+     "ifade": "43 ≈ 40",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "67 sayısı 70'e daha yakındır. 67'yi yuvarlarsak 70 olur.",
+     "bas": 60,
+     "son": 70,
+     "isaretle": [
+      67,
+      70
+     ],
+     "atlamalar": [
+      [
+       67,
+       70
+      ]
+     ],
+     "ifade": "67 ≈ 70",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Birler basamağı 5 ise sayı tam ortadadır. Bu durumda büyük onluğa yuvarlarız. 35, 40 olur.",
+     "bas": 30,
+     "son": 40,
+     "isaretle": [
+      35,
+      40
+     ],
+     "atlamalar": [
+      [
+       35,
+       40
+      ]
+     ],
+     "ifade": "35 ≈ 40",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Birler basamağı 0, 1, 2, 3 ya da 4 ise küçük onluğa, 5, 6, 7, 8 ya da 9 ise büyük onluğa yuvarlarız.",
+     "satirlar": [
+      "0-4: küçük onluğa",
+      "5-9: büyük onluğa"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-07-romen-rakamlari",
+   "baslik": "Romen Rakamları",
+   "konu": "Sayılar",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda Romen rakamlarını öğreneceğiz.",
+     "baslik": "Romen Rakamları",
+     "alt": "I, V, X"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Romen rakamlarında 1 için I, 5 için V, 10 için X kullanılır.",
+     "satirlar": [
+      "I = 1",
+      "V = 5",
+      "X = 10"
+     ],
+     "vurgu": [
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Bir, iki, üç: I, II, III. Aynı rakam en fazla üç kez yan yana yazılır.",
+     "dizi": [
+      "I",
+      "II",
+      "III"
+     ],
+     "kural": "I, II, III"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "4, beşten bir eksik olduğu için IV yazılır. 6 ise beşten bir fazla, VI yazılır.",
+     "dizi": [
+      "IV",
+      "V",
+      "VI"
+     ],
+     "kural": "IV = 4, VI = 6"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "9, IX yazılır. 11, XI yazılır. 20 ise XX yazılır.",
+     "dizi": [
+      "IX",
+      "X",
+      "XI",
+      "XX"
+     ],
+     "kural": "IX = 9, XI = 11, XX = 20"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Küçük rakam büyüğün solundaysa çıkarılır, sağındaysa eklenir.",
+     "satirlar": [
+      "Solda: çıkar (IV = 4)",
+      "Sağda: ekle (VI = 6)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-08-uc-basamakli-toplama",
+   "baslik": "Üç Basamaklı Toplama",
+   "konu": "Toplama",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda üç basamaklı sayıları alt alta toplayacağız.",
+     "baslik": "Üç Basamaklı Toplama",
+     "alt": "Alt alta toplama"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Birlerden başlarız. 4 artı 3, 7. Onlar: 2 artı 5, 7. Yüzler: 3 artı 2, 5. Sonuç 577.",
+     "ust": 324,
+     "alt": 253,
+     "islem": "+"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "8 artı 6, 14. 4'ü yazarız, 1'i eldeye alırız. 5 artı 2 artı elde 1, 8. 1 artı 3, 4. Sonuç 484.",
+     "ust": 158,
+     "alt": 326,
+     "islem": "+",
+     "not": "1 elde"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Bu kez iki basamakta elde var. 7 artı 5, 12. 6 artı 8 artı 1, 15. 2 artı 1 artı 1, 4. Sonuç 432.",
+     "ust": 267,
+     "alt": 165,
+     "islem": "+"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Her basamağın toplamı 10 ya da daha fazlaysa 1'i bir sonraki basamağa eldeye alırız.",
+     "satirlar": [
+      "Birler → Onlar → Yüzler",
+      "Elde bir sonraki basamağa"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-09-zihinden-toplama",
+   "baslik": "Zihinden Toplama",
+   "konu": "Toplama",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda zihinden toplama yapmanın kolay yollarını öğreneceğiz.",
+     "baslik": "Zihinden Toplama",
+     "alt": "Kolay yollar"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "46'ya 30 ekleyelim. Onar onar üç kez atlarız: 56, 66, 76.",
+     "bas": 40,
+     "son": 80,
+     "etiket_aralik": 10,
+     "atlamalar": [
+      [
+       46,
+       56
+      ],
+      [
+       56,
+       66
+      ],
+      [
+       66,
+       76
+      ]
+     ],
+     "isaretle": [
+      46,
+      76
+     ],
+     "ifade": "46 + 30 = 76",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "38'e 25 ekleyelim. Önce 2 ekleyip 40'a tamamlarız, sonra kalan 23'ü ekleriz. Sonuç 63.",
+     "bas": 30,
+     "son": 70,
+     "etiket_aralik": 10,
+     "atlamalar": [
+      [
+       38,
+       40
+      ],
+      [
+       40,
+       63
+      ]
+     ],
+     "isaretle": [
+      38,
+      63
+     ],
+     "ifade": "38 + 25 = 63",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sayıları onluk ve birliklerine ayırarak da toplayabiliriz.",
+     "satirlar": [
+      "34 + 25",
+      "30 + 20 = 50",
+      "4 + 5 = 9",
+      "50 + 9 = 59"
+     ],
+     "vurgu": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-10-sekil-grafigi",
+   "baslik": "Şekil Grafiği",
+   "konu": "Veri",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda şekil grafiğini okumayı öğreneceğiz.",
+     "baslik": "Şekil Grafiği",
+     "alt": "Simgelerle veri"
+    },
+    {
+     "tip": "sekil_grafigi",
+     "anlatim": "Öğrencilerin sevdiği renkleri şekil grafiğiyle gösterdik. Her yıldız 2 öğrenciyi gösteriyor.",
+     "etiketler": [
+      "Mavi",
+      "Kırmızı",
+      "Yeşil",
+      "Sarı"
+     ],
+     "degerler": [
+      8,
+      6,
+      4,
+      10
+     ],
+     "olcek": 2,
+     "anahtar": "1 yıldız = 2 öğrenci",
+     "baslik": "Sevilen renkler"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sarı rengi 5 yıldız var. Her yıldız 2 öğrenci olduğu için sarıyı 10 öğrenci seçmiş.",
+     "satirlar": [
+      "Sarı: 5 yıldız",
+      "5 × 2 = 10 öğrenci"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Maviyi 8, yeşili 4 öğrenci seçmiş. Maviyi seçenler yeşili seçenlerden 4 kişi fazla.",
+     "satirlar": [
+      "8 − 4 = 4"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Şekil grafiğini okurken önce anahtara bakarız: bir simge kaç tane gösteriyor?",
+     "satirlar": [
+      "Önce anahtara bak!"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-11-uc-basamakli-cikarma",
+   "baslik": "Üç Basamaklı Çıkarma",
+   "konu": "Çıkarma",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda üç basamaklı sayılarla çıkarma yapacağız.",
+     "baslik": "Üç Basamaklı Çıkarma",
+     "alt": "Alt alta çıkarma"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Birlerden başlarız. 8 eksi 5, 3. 7 eksi 2, 5. 6 eksi 1, 5. Sonuç 553.",
+     "ust": 678,
+     "alt": 125,
+     "islem": "-"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "2'den 6 çıkmaz. Onlardan bir onluk bozarız. 12 eksi 6, 6. Onlar: 4 eksi 3, 1. Yüzler: 5 eksi 2, 3. Sonuç 316.",
+     "ust": 552,
+     "alt": 236,
+     "islem": "-",
+     "not": "1 onluk bozuldu"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Bu kez hem onluk hem yüzlük bozulur. 13 eksi 7, 6. 11 eksi 8, 3. 6 eksi 2, 4. Sonuç 436.",
+     "ust": 723,
+     "alt": 287,
+     "islem": "-"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Üstteki rakam alttakinden küçükse bir sol basamaktan 1 bozar, 10 ekleriz.",
+     "satirlar": [
+      "1 onluk = 10 birlik",
+      "1 yüzlük = 10 onluk"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-12-sifirli-cikarma",
+   "baslik": "Sıfırlı Sayılarda Çıkarma",
+   "konu": "Çıkarma",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sıfır içeren sayılardan çıkarma yapacağız.",
+     "baslik": "Sıfırlı Çıkarma",
+     "alt": "Onlar basamağı sıfırsa"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "402'den 157 çıkaralım. 2'den 7 çıkmaz. Onlar basamağı sıfır, bu yüzden yüzlükten bozarız. Yüzlük 10 onluk olur, bir onluğu da birlere veririz. Sonuç 245.",
+     "ust": 402,
+     "alt": 157,
+     "islem": "-"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "500'den 236 çıkaralım. Yine yüzlükten bozarız. 10 eksi 6, 4. 9 eksi 3, 6. 4 eksi 2, 2. Sonuç 264.",
+     "ust": 500,
+     "alt": 236,
+     "islem": "-"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sıfırdan bozma yapamayız. Bu yüzden bir sonraki basamağa gideriz. Bozulan sıfır 9 olur.",
+     "satirlar": [
+      "400 = 3 yüzlük + 9 onluk + 10 birlik"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sonucu kontrol etmek için farkı çıkanla toplarız. Eksileni bulmalıyız.",
+     "satirlar": [
+      "245 + 157 = 402"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-13-toplami-tahmin",
+   "baslik": "Toplamı Tahmin Etme",
+   "konu": "Toplama",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda toplama sonucunu tahmin etmeyi öğreneceğiz.",
+     "baslik": "Tahmin Etme",
+     "alt": "Yuvarlayarak tahmin"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "48 artı 31'in sonucunu tahmin edelim. 48'i 50'ye, 31'i 30'a yuvarlarız.",
+     "satirlar": [
+      "48 ≈ 50",
+      "31 ≈ 30"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "50 artı 30, 80 eder. Tahminimiz 80. Gerçek sonuç ise 79. Tahminimiz çok yakın.",
+     "satirlar": [
+      "Tahmin: 50 + 30 = 80",
+      "Gerçek: 48 + 31 = 79"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Sayı doğrusunda 79 ile 80 birbirine çok yakındır.",
+     "bas": 70,
+     "son": 90,
+     "isaretle": [
+      79,
+      80
+     ],
+     "ifade": "79 ≈ 80",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Tahmin, sonucu hızlıca kontrol etmemizi sağlar.",
+     "satirlar": [
+      "Önce yuvarla, sonra topla"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-14-carpim-6-7",
+   "baslik": "6 ve 7 ile Çarpma",
+   "konu": "Çarpma",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 6 ve 7 ile çarpmayı öğreneceğiz.",
+     "baslik": "6 ve 7 ile Çarpma",
+     "alt": "Çarpım tablosu"
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "3 sırada 6'şar nokta var. 6 artı 6 artı 6, 18 eder. 3 kere 6, 18'dir.",
+     "satir": 3,
+     "sutun": 6
+    },
+    {
+     "tip": "metin",
+     "anlatim": "6 ile çarpım tablosu.",
+     "satirlar": [
+      "6 × 2 = 12",
+      "6 × 4 = 24",
+      "6 × 6 = 36",
+      "6 × 8 = 48",
+      "6 × 10 = 60"
+     ]
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "4 sırada 7'şer yıldız var. 4 kere 7, 28 eder.",
+     "satir": 4,
+     "sutun": 7,
+     "nesne": "yildiz"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "7 ile çarpım tablosu.",
+     "satirlar": [
+      "7 × 3 = 21",
+      "7 × 5 = 35",
+      "7 × 7 = 49",
+      "7 × 9 = 63"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Unutursan çarpımı tekrarlı toplama ile bulabilirsin.",
+     "satirlar": [
+      "7 × 3 = 7 + 7 + 7 = 21"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-15-carpim-8-9",
+   "baslik": "8 ve 9 ile Çarpma",
+   "konu": "Çarpma",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 8 ve 9 ile çarpmayı öğreneceğiz.",
+     "baslik": "8 ve 9 ile Çarpma",
+     "alt": "Çarpım tablosu"
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "3 sırada 8'er top var. 3 kere 8, 24 eder.",
+     "satir": 3,
+     "sutun": 8,
+     "nesne": "top"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "8 ile çarpım tablosu.",
+     "satirlar": [
+      "8 × 2 = 16",
+      "8 × 4 = 32",
+      "8 × 6 = 48",
+      "8 × 8 = 64",
+      "8 × 10 = 80"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "9 ile çarpım tablosu.",
+     "satirlar": [
+      "9 × 2 = 18",
+      "9 × 3 = 27",
+      "9 × 4 = 36",
+      "9 × 5 = 45",
+      "9 × 9 = 81"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "9 ile çarpımlarda sonucun rakamları toplandığında hep 9 eder. Örneğin 36'da 3 artı 6, 9'dur.",
+     "satirlar": [
+      "18: 1 + 8 = 9",
+      "27: 2 + 7 = 9",
+      "36: 3 + 6 = 9"
+     ],
+     "vurgu": [
+      0,
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-16-degisme-ozelligi",
+   "baslik": "Çarpmada Değişme Özelliği",
+   "konu": "Çarpma",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda çarpmanın değişme özelliğini öğreneceğiz.",
+     "baslik": "Değişme Özelliği",
+     "alt": "Sıra değişse de sonuç aynı"
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "3 sırada 5'er nokta var. 3 kere 5, 15 eder.",
+     "satir": 3,
+     "sutun": 5
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "Şimdi 5 sırada 3'er nokta var. 5 kere 3 de 15 eder.",
+     "satir": 5,
+     "sutun": 3
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çarpanların yeri değişse de sonuç değişmez.",
+     "satirlar": [
+      "3 × 5 = 15",
+      "5 × 3 = 15"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bu özellik işimizi kolaylaştırır. 2 kere 9'u bilmiyorsan 9 kere 2'yi düşünebilirsin.",
+     "satirlar": [
+      "2 × 9 = 9 × 2 = 18"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-17-onlar-yuzler-carpma",
+   "baslik": "10 ve 100 ile Çarpma",
+   "konu": "Çarpma",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 10 ve 100 ile kısa yoldan çarpmayı öğreneceğiz.",
+     "baslik": "10 ve 100 ile Çarpma",
+     "alt": "Kısa yol"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "4 kere 10 yapalım. Onar onar dört kez atlarız: 40.",
+     "bas": 0,
+     "son": 100,
+     "adim": 10,
+     "atlamalar": [
+      [
+       0,
+       10
+      ],
+      [
+       10,
+       20
+      ],
+      [
+       20,
+       30
+      ],
+      [
+       30,
+       40
+      ]
+     ],
+     "ifade": "4 × 10 = 40"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir sayıyı 10 ile çarparken sağına bir sıfır ekleriz.",
+     "satirlar": [
+      "7 × 10 = 70",
+      "23 × 10 = 230"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "100 ile çarparken sağına iki sıfır ekleriz.",
+     "satirlar": [
+      "5 × 100 = 500",
+      "8 × 100 = 800"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kısa yolu unutma!",
+     "satirlar": [
+      "× 10: bir sıfır ekle",
+      "× 100: iki sıfır ekle"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-18-alt-alta-carpma",
+   "baslik": "Alt Alta Çarpma",
+   "konu": "Çarpma",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda alt alta çarpma yapmayı öğreneceğiz.",
+     "baslik": "Alt Alta Çarpma",
+     "alt": "İki basamaklı ile bir basamaklı"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Önce birleri çarparız: 3 kere 2, 6. Sonra onları çarparız: 3 kere 1, 3. Sonuç 36.",
+     "ust": 12,
+     "alt": 3,
+     "islem": "×"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "4 kere 7, 28. 8'i yazarız, 2'yi eldeye alırız. 4 kere 3, 12. Elde 2 ile 14. Sonuç 148.",
+     "ust": 37,
+     "alt": 4,
+     "islem": "×",
+     "not": "2 elde"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "6 kere 5, 30. 0'ı yazarız, 3'ü eldeye alırız. 6 kere 2, 12. Elde 3 ile 15. Sonuç 150.",
+     "ust": 25,
+     "alt": 6,
+     "islem": "×"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Alt alta çarparken birlerden başlarız. Elde varsa bir sonraki çarpıma ekleriz.",
+     "satirlar": [
+      "Önce birler",
+      "Elde bir sonrakine eklenir"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-19-bolme",
+   "baslik": "Bölme İşlemi",
+   "konu": "Bölme",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bölme işleminin terimlerini öğreneceğiz.",
+     "baslik": "Bölme İşlemi",
+     "alt": "Bölünen, bölen, bölüm"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "18 yıldızı 3 tabağa eşit paylaştıralım. Her tabağa 6 yıldız düştü.",
+     "toplam": 18,
+     "grup": 3,
+     "nesne": "yildiz"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "18 bölü 3, 6 eder. 18'e bölünen, 3'e bölen, 6'ya bölüm denir.",
+     "satirlar": [
+      "18 ÷ 3 = 6",
+      "Bölünen ÷ Bölen = Bölüm"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "20 topu 5'erli gruplara ayıralım. 4 grup oldu. 20 bölü 5, 4 eder.",
+     "toplam": 20,
+     "grup": 5,
+     "nesne": "top",
+     "mod": "grupla"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bölmeyi çarpma ile kontrol ederiz. Bölen ile bölümü çarparsak bölüneni buluruz.",
+     "satirlar": [
+      "5 × 4 = 20"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-20-kalanli-bolme",
+   "baslik": "Kalanlı Bölme",
+   "konu": "Bölme",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kalanlı bölmeyi öğreneceğiz.",
+     "baslik": "Kalanlı Bölme",
+     "alt": "Artan varsa"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "14 elmayı 4 tabağa paylaştıralım. Her tabağa 3 elma düştü, 2 elma arttı. Artan sayıya kalan denir.",
+     "toplam": 14,
+     "grup": 4,
+     "nesne": "elma"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "17 topu 5'erli gruplara ayıralım. 3 grup oldu, 2 top kaldı.",
+     "toplam": 17,
+     "grup": 5,
+     "nesne": "top",
+     "mod": "grupla"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kalan her zaman bölenden küçük olmalıdır. Kalan bölenden büyükse bir kez daha paylaştırabiliriz.",
+     "satirlar": [
+      "Kalan < Bölen"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kontrol: bölen ile bölümü çarpar, kalanı ekleriz. Bölüneni buluruz.",
+     "satirlar": [
+      "5 × 3 + 2 = 17"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-21-birim-kesirler",
+   "baslik": "Birim Kesirler",
+   "konu": "Kesirler",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda birim kesirleri öğreneceğiz.",
+     "baslik": "Birim Kesirler",
+     "alt": "Pay ve payda"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Bir bütünü 2 eş parçaya böldük. Bir parçası 1 bölü 2'dir.",
+     "satirlar": [
+      {
+       "parca": 2,
+       "boya": 1,
+       "etiket": "1/2"
+      }
+     ]
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Bir bütünü 3 eş parçaya böldük. Bir parçası 1 bölü 3'tür.",
+     "satirlar": [
+      {
+       "parca": 3,
+       "boya": 1,
+       "etiket": "1/3"
+      }
+     ]
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Bir bütünü 5 eş parçaya böldük. Bir parçası 1 bölü 5'tir.",
+     "satirlar": [
+      {
+       "parca": 5,
+       "boya": 1,
+       "etiket": "1/5"
+      }
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kesir çizgisinin üstündeki sayıya pay, altındaki sayıya payda denir. Payı 1 olan kesirlere birim kesir denir.",
+     "satirlar": [
+      "Pay: alınan parça",
+      "Payda: bütündeki parça sayısı"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-22-kesir-karsilastirma",
+   "baslik": "Birim Kesirleri Karşılaştırma",
+   "konu": "Kesirler",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda birim kesirleri karşılaştıracağız.",
+     "baslik": "Kesirleri Karşılaştırma",
+     "alt": "Hangisi daha büyük?"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Aynı büyüklükteki üç bütünü 2, 3 ve 4 eş parçaya böldük. Her birinden bir parça aldık.",
+     "satirlar": [
+      {
+       "parca": 2,
+       "boya": 1,
+       "etiket": "1/2"
+      },
+      {
+       "parca": 3,
+       "boya": 1,
+       "etiket": "1/3"
+      },
+      {
+       "parca": 4,
+       "boya": 1,
+       "etiket": "1/4"
+      }
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bütün ne kadar çok parçaya bölünürse parçalar o kadar küçülür.",
+     "satirlar": [
+      "1/2 > 1/3 > 1/4"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "1 bölü 6 mı büyük, 1 bölü 8 mi? 6 parçalık bütünün parçası daha büyüktür.",
+     "satirlar": [
+      {
+       "parca": 6,
+       "boya": 1,
+       "etiket": "1/6"
+      },
+      {
+       "parca": 8,
+       "boya": 1,
+       "etiket": "1/8"
+      }
+     ],
+     "ifade": "1/6 > 1/8"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Birim kesirlerde paydası küçük olan kesir daha büyüktür.",
+     "satirlar": [
+      "Payda küçük → kesir büyük"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-23-cokluk-kesri",
+   "baslik": "Bir Çokluğun Kesri",
+   "konu": "Kesirler",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bir çokluğun kesrini bulmayı öğreneceğiz.",
+     "baslik": "Bir Çokluğun Kesri",
+     "alt": "12'nin çeyreği kaç?"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "12 elmanın 1 bölü 4'ünü bulalım. 12 elmayı 4 eş gruba ayırırız. Her grupta 3 elma var.",
+     "toplam": 12,
+     "grup": 4,
+     "nesne": "elma"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "12'nin 1 bölü 4'ü 3'tür.",
+     "satirlar": [
+      "12 ÷ 4 = 3",
+      "12'nin 1/4'ü = 3"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "10 yıldızın yarısını bulalım. 10'u 2 eş gruba ayırırız. Her grupta 5 yıldız var.",
+     "toplam": 10,
+     "grup": 2,
+     "nesne": "yildiz"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir çokluğun birim kesrini bulmak için çokluğu paydaya böleriz.",
+     "satirlar": [
+      "Çokluk ÷ Payda"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-24-saat-dakika",
+   "baslik": "Saat ve Dakika",
+   "konu": "Zaman",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda saati dakikasıyla okumayı öğreneceğiz.",
+     "baslik": "Saat ve Dakika",
+     "alt": "Dakikaları okuyalım"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yelkovan bir sayıdan diğerine gidince 5 dakika geçer.",
+     "satirlar": [
+      "Her sayı arası = 5 dakika"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 4'te. 5, 10, 15, 20. Saat üçü 20 geçiyor.",
+     "saat": 3,
+     "dakika": 20,
+     "dilim": true,
+     "etiket": "Üçü yirmi geçiyor"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 7'de. Saat altıyı 35 geçiyor.",
+     "saat": 6,
+     "dakika": 35,
+     "dilim": true,
+     "etiket": "Altıyı otuz beş geçiyor"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Yelkovan 10'da. Saat dokuza 10 var.",
+     "saat": 8,
+     "dakika": 50,
+     "dilim": true,
+     "etiket": "Dokuza on var"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yelkovan 6'yı geçtiyse bir sonraki saate kaç dakika kaldığını söyleyebiliriz.",
+     "satirlar": [
+      "8:50 = dokuza on var"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-25-zaman-donusum",
+   "baslik": "Zaman Birimleri",
+   "konu": "Zaman",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda zaman birimleri arasındaki ilişkiyi öğreneceğiz.",
+     "baslik": "Zaman Birimleri",
+     "alt": "Dakika, saat, gün"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 saat 60 dakikadır. Yarım saat 30, çeyrek saat 15 dakikadır.",
+     "satirlar": [
+      "1 saat = 60 dakika",
+      "Yarım saat = 30 dakika",
+      "Çeyrek saat = 15 dakika"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 gün 24 saattir. 1 hafta 7 gündür.",
+     "satirlar": [
+      "1 gün = 24 saat",
+      "1 hafta = 7 gün"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 yıl 12 aydır. 1 yıl 365 ya da 366 gün çeker.",
+     "satirlar": [
+      "1 yıl = 12 ay",
+      "1 yıl = 365 gün"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "2 saat kaç dakikadır? Her saat 60 dakika olduğu için 60 artı 60, 120 dakika eder.",
+     "satirlar": [
+      "2 saat = 120 dakika"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-26-uzunluk",
+   "baslik": "Metre ve Santimetre",
+   "konu": "Ölçme",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda metre ve santimetre arasındaki ilişkiyi öğreneceğiz.",
+     "baslik": "Metre ve Santimetre",
+     "alt": "Uzunluk birimleri"
+    },
+    {
+     "tip": "uzunluk",
+     "anlatim": "Kalemi ölçelim. Kalem 15 santimetre uzunluğunda.",
+     "uzunluk": 15,
+     "nesne": "kalem"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 metre 100 santimetredir.",
+     "satirlar": [
+      "1 m = 100 cm"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "2 metre kaç santimetredir? 100 artı 100, 200 santimetre.",
+     "satirlar": [
+      "2 m = 200 cm",
+      "3 m = 300 cm"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kısa uzunlukları santimetre, uzun mesafeleri metre ile ölçeriz.",
+     "satirlar": [
+      "Kalem: cm",
+      "Sınıfın boyu: m"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-27-cevre",
+   "baslik": "Çevre",
+   "konu": "Ölçme",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bir şeklin çevre uzunluğunu bulmayı öğreneceğiz.",
+     "baslik": "Çevre",
+     "alt": "Şeklin etrafı"
+    },
+    {
+     "tip": "alan_cevre",
+     "anlatim": "Bir şeklin etrafındaki bütün kenarların toplam uzunluğuna çevre denir. Bu dikdörtgenin etrafını sayalım.",
+     "en": 5,
+     "boy": 3,
+     "mod": "cevre",
+     "sonuc": "Çevre = 16 birim"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kenarları toplayarak da buluruz. 5 artı 3 artı 5 artı 3, 16 birim.",
+     "satirlar": [
+      "5 + 3 + 5 + 3 = 16"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "alan_cevre",
+     "anlatim": "Bu karenin her kenarı 4 birim. Çevresi 16 birim.",
+     "en": 4,
+     "boy": 4,
+     "mod": "cevre",
+     "sonuc": "4 + 4 + 4 + 4 = 16"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çevreyi bulmak için bütün kenar uzunluklarını toplarız.",
+     "satirlar": [
+      "Çevre = kenarların toplamı"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-28-alan",
+   "baslik": "Alan",
+   "konu": "Ölçme",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bir şeklin alanını birim karelerle ölçeceğiz.",
+     "baslik": "Alan",
+     "alt": "Yüzeyi kaplayan birim kareler"
+    },
+    {
+     "tip": "alan_cevre",
+     "anlatim": "Bir yüzeyi kaplayan birim karelerin sayısına alan denir. Kareleri sayalım: 12 birim kare.",
+     "en": 4,
+     "boy": 3,
+     "mod": "alan",
+     "sonuc": "Alan = 12 birim kare"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Her sırada 4 kare var, 3 sıra var. 3 kere 4, 12 eder.",
+     "satirlar": [
+      "3 × 4 = 12"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "alan_cevre",
+     "anlatim": "Bu şeklin alanı kaç birim kare? 5'er kareden 2 sıra var: 10 birim kare.",
+     "en": 5,
+     "boy": 2,
+     "mod": "alan",
+     "sonuc": "Alan = 10 birim kare"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çevre şeklin etrafıdır, alan ise içini kaplayan yüzeydir.",
+     "satirlar": [
+      "Çevre: etrafı",
+      "Alan: içi"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-29-sivi-olcme",
+   "baslik": "Sıvı Ölçme",
+   "konu": "Ölçme",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sıvıları litre ile ölçmeyi öğreneceğiz.",
+     "baslik": "Sıvı Ölçme",
+     "alt": "Litre, yarım litre, çeyrek litre"
+    },
+    {
+     "tip": "kap",
+     "anlatim": "Sıvıları litre ile ölçeriz. Bu kap tam 1 litre su alıyor.",
+     "kaplar": [
+      {
+       "dolu": 1,
+       "max": 1,
+       "etiket": "1 litre"
+      }
+     ]
+    },
+    {
+     "tip": "kap",
+     "anlatim": "Kabın yarısı dolarsa yarım litre, dörtte biri dolarsa çeyrek litre olur.",
+     "kaplar": [
+      {
+       "dolu": 2,
+       "max": 4,
+       "etiket": "Yarım litre"
+      },
+      {
+       "dolu": 1,
+       "max": 4,
+       "etiket": "Çeyrek litre"
+      }
+     ]
+    },
+    {
+     "tip": "kap",
+     "anlatim": "İki tane yarım litre bir litre eder. Dört tane çeyrek litre de bir litre eder.",
+     "kaplar": [
+      {
+       "dolu": 2,
+       "max": 4,
+       "etiket": "Yarım"
+      },
+      {
+       "dolu": 2,
+       "max": 4,
+       "etiket": "Yarım"
+      }
+     ],
+     "ifade": "Yarım + Yarım = 1 litre"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Litrenin kısa gösterimi L'dir.",
+     "satirlar": [
+      "1 L = 2 yarım litre",
+      "1 L = 4 çeyrek litre"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat3-30-tartma",
+   "baslik": "Tartma",
+   "konu": "Ölçme",
+   "sinif": 3,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kütleyi ölçmeyi öğreneceğiz.",
+     "baslik": "Tartma",
+     "alt": "Kilogram ve gram"
+    },
+    {
+     "tip": "terazi",
+     "anlatim": "Terazinin ağır tarafı aşağı iner. Karpuz elmadan daha ağır.",
+     "sol": "Karpuz",
+     "sag": "Elma",
+     "egim": -1,
+     "ifade": "Karpuz daha ağır"
+    },
+    {
+     "tip": "terazi",
+     "anlatim": "İki kefe dengedeyse iki taraf eşit ağırlıktadır.",
+     "sol": "1 kg",
+     "sag": "1 kg",
+     "egim": 0,
+     "ifade": "Denge"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Ağır nesneleri kilogram ile ölçeriz. Kısa gösterimi kg'dır.",
+     "satirlar": [
+      "Karpuz: kg",
+      "Un çuvalı: kg"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Hafif nesneleri gram ile ölçeriz. 1 kilogram 1000 gramdır.",
+     "satirlar": [
+      "1 kg = 1000 g"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-01-dort-basamakli",
+   "baslik": "Dört Basamaklı Sayılar",
+   "konu": "Sayılar",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda dört basamaklı sayıları tanıyacağız.",
+     "baslik": "Dört Basamaklı Sayılar",
+     "alt": "Binler basamağı"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "10 yüzlük bir araya gelince bir binlik olur.",
+     "satirlar": [
+      "10 yüzlük = 1000"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "2 binlik, 3 yüzlük, 4 onluk ve 6 birlik, 2346 sayısını oluşturur.",
+     "gruplar": [],
+     "tablo": [
+      2,
+      3,
+      4,
+      6
+     ],
+     "sag": [
+      "2346"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "2346 sayısını basamak değerleriyle yazalım.",
+     "satirlar": [
+      "2000 + 300 + 40 + 6 = 2346"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Dört basamaklı en küçük sayı 1000, en büyük sayı 9999'dur.",
+     "satirlar": [
+      "En küçük: 1000",
+      "En büyük: 9999"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-02-bolukler",
+   "baslik": "Büyük Sayılar ve Bölükler",
+   "konu": "Sayılar",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda büyük sayıları bölüklere ayırarak okumayı öğreneceğiz.",
+     "baslik": "Büyük Sayılar",
+     "alt": "Birler ve binler bölüğü"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sayıları sağdan sola üçerli gruplara ayırırız. Her gruba bölük denir.",
+     "satirlar": [
+      "345 678",
+      "Binler bölüğü | Birler bölüğü"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "345 678 sayısını okuyalım: üç yüz kırk beş bin altı yüz yetmiş sekiz.",
+     "satirlar": [
+      "345 bin 678"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Beş basamaklı 52 014 sayısı: elli iki bin on dört.",
+     "satirlar": [
+      "52 014",
+      "elli iki bin on dört"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Büyük sayıları okurken önce binler bölüğünü okuyup bin deriz, sonra birler bölüğünü okuruz.",
+     "satirlar": [
+      "Önce binler bölüğü",
+      "Sonra birler bölüğü"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-03-karsilastirma",
+   "baslik": "Büyük Sayıları Karşılaştırma",
+   "konu": "Sayılar",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda büyük sayıları karşılaştıracağız.",
+     "baslik": "Karşılaştırma ve Sıralama",
+     "alt": "Dört basamaklı sayılar"
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "Önce basamak sayısına bakarız. Basamak sayısı fazla olan sayı daha büyüktür.",
+     "a": 987,
+     "b": 1204,
+     "tavan": 2000,
+     "isaret_zaman": 2.8
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "Basamak sayıları eşitse en soldaki basamaktan başlarız. 5 bin, 4 binden büyüktür.",
+     "a": 5120,
+     "b": 4987,
+     "tavan": 6000,
+     "isaret_zaman": 3.0
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "Binler aynıysa yüzlere bakarız. 3 yüz, 6 yüzden küçüktür.",
+     "a": 7345,
+     "b": 7612,
+     "tavan": 8000,
+     "isaret_zaman": 3.0
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sayıları küçükten büyüğe sıralayalım.",
+     "satirlar": [
+      "987 < 4987 < 5120 < 7345"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-04-yuvarlama",
+   "baslik": "Yuvarlama",
+   "konu": "Sayılar",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayıları en yakın onluğa ve yüzlüğe yuvarlayacağız.",
+     "baslik": "Yuvarlama",
+     "alt": "En yakın onluk ve yüzlük"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "274'ü en yakın onluğa yuvarlayalım. 270'e daha yakın.",
+     "bas": 270,
+     "son": 280,
+     "isaretle": [
+      270,
+      274
+     ],
+     "atlamalar": [
+      [
+       274,
+       270
+      ]
+     ],
+     "ifade": "274 ≈ 270",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "274'ü en yakın yüzlüğe yuvarlayalım. 300'e daha yakın.",
+     "bas": 200,
+     "son": 300,
+     "adim": 10,
+     "isaretle": [
+      270,
+      300
+     ],
+     "atlamalar": [
+      [
+       270,
+       300
+      ]
+     ],
+     "ifade": "274 ≈ 300",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yüzlüğe yuvarlarken onlar basamağına bakarız. 5 ya da büyükse yukarı, küçükse aşağı yuvarlarız.",
+     "satirlar": [
+      "1350 ≈ 1400",
+      "1320 ≈ 1300"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yuvarlama, işlem sonuçlarını tahmin etmemizi kolaylaştırır.",
+     "satirlar": [
+      "Yuvarla, tahmin et"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-05-oruntuler",
+   "baslik": "Sayı Örüntüleri",
+   "konu": "Örüntüler",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayı örüntülerini inceleyeceğiz.",
+     "baslik": "Sayı Örüntüleri",
+     "alt": "Kuralı bul, devam ettir"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "250, 500, 750, 1000. Her adımda 250 artıyor. Sıradaki sayı 1250.",
+     "dizi": [
+      250,
+      500,
+      750,
+      1000,
+      1250
+     ],
+     "eksik": [
+      4
+     ],
+     "kural": "Kural: 250 artır"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "3, 6, 12, 24. Her sayı bir öncekinin iki katı. Sıradaki sayı 48.",
+     "dizi": [
+      3,
+      6,
+      12,
+      24,
+      48
+     ],
+     "eksik": [
+      4
+     ],
+     "kural": "Kural: 2 ile çarp"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "1000, 900, 800. Her adımda 100 azalıyor. Boşluklara 700 ve 600 gelir.",
+     "dizi": [
+      1000,
+      900,
+      800,
+      700,
+      600
+     ],
+     "eksik": [
+      3,
+      4
+     ],
+     "kural": "Kural: 100 azalt"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Örüntünün kuralı toplama, çıkarma ya da çarpma olabilir.",
+     "satirlar": [
+      "Artış miktarına bak",
+      "Katına bak"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-06-toplama",
+   "baslik": "Dört Basamaklı Toplama",
+   "konu": "Toplama",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda dört basamaklı sayıları toplayacağız.",
+     "baslik": "Dört Basamaklı Toplama",
+     "alt": "Alt alta, eldeli"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Birlerden başlarız. 5 artı 7, 12. 2'yi yaz, 1 elde. 6 artı 8 artı 1, 15. 5'i yaz, 1 elde. 3 artı 4 artı 1, 8. 2 artı 1, 3. Sonuç 3852.",
+     "ust": 2365,
+     "alt": 1487,
+     "islem": "+"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Bu işlemde elde yok. 1 artı 8, 9. 4 artı 5, 9. 2 artı 7, 9. 3 artı 5, 8. Sonuç 8999.",
+     "ust": 3241,
+     "alt": 5758,
+     "islem": "+"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplamı tahmin ederek kontrol edelim. 2365 yaklaşık 2400, 1487 yaklaşık 1500. Tahmin 3900.",
+     "satirlar": [
+      "2400 + 1500 = 3900",
+      "Gerçek: 3852"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplamada toplananların yeri değişse de toplam değişmez.",
+     "satirlar": [
+      "2365 + 1487 = 1487 + 2365"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-07-cikarma",
+   "baslik": "Dört Basamaklı Çıkarma",
+   "konu": "Çıkarma",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda dört basamaklı sayılarla çıkarma yapacağız.",
+     "baslik": "Dört Basamaklı Çıkarma",
+     "alt": "Bozarak çıkarma"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Birlerden başlarız. 2'den 5 çıkmaz, bozarız. 12 eksi 5, 7. 3 eksi 1, 2. 4 eksi 3, 1. 5 eksi 2, 3. Sonuç 3127.",
+     "ust": 5442,
+     "alt": 2315,
+     "islem": "-"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Sıfırlı sayılarda binlikten bozarız. 3000'den 1246 çıkaralım. Sonuç 1754.",
+     "ust": 3000,
+     "alt": 1246,
+     "islem": "-"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sonucu toplama ile kontrol edelim.",
+     "satirlar": [
+      "1754 + 1246 = 3000"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çıkarmada fark ile çıkanın toplamı eksileni verir.",
+     "satirlar": [
+      "Fark + Çıkan = Eksilen"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-08-problemler",
+   "baslik": "Toplama ve Çıkarma Problemleri",
+   "konu": "Problemler",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda toplama ve çıkarma problemlerini adım adım çözeceğiz.",
+     "baslik": "Problem Çözme",
+     "alt": "Adım adım"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir kütüphanede 1250 kitap var. 375 kitap daha geldi. Kaç kitap oldu?",
+     "satirlar": [
+      "1250 kitap var",
+      "375 kitap geldi",
+      "Kaç kitap oldu?"
+     ]
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Kitaplar arttığı için toplama yaparız. 1250 artı 375, 1625 kitap eder.",
+     "ust": 1250,
+     "alt": 375,
+     "islem": "+"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kütüphaneden 480 kitap ödünç alındı. Rafta kaç kitap kaldı?",
+     "satirlar": [
+      "1625 kitap vardı",
+      "480 kitap alındı",
+      "Kaç kitap kaldı?"
+     ]
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Kitaplar azaldığı için çıkarma yaparız. 1625 eksi 480, 1145 kitap kaldı.",
+     "ust": 1625,
+     "alt": 480,
+     "islem": "-"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Problem çözerken önce verilenleri ve isteneni yaz. Sonra işlemi seç.",
+     "satirlar": [
+      "1. Verilenler",
+      "2. İstenen",
+      "3. İşlem",
+      "4. Kontrol"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-09-carpma",
+   "baslik": "Üç Basamaklı Çarpma",
+   "konu": "Çarpma",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda üç basamaklı bir sayıyı bir basamaklı sayıyla çarpacağız.",
+     "baslik": "Alt Alta Çarpma",
+     "alt": "Üç basamaklı ile bir basamaklı"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "Birlerden başlarız. 3 kere 4, 12. 2'yi yaz, 1 elde. 3 kere 2, 6, elde ile 7. 3 kere 1, 3. Sonuç 372.",
+     "ust": 124,
+     "alt": 3,
+     "islem": "×"
+    },
+    {
+     "tip": "alt_alta",
+     "anlatim": "6 kere 7, 42. 2'yi yaz, 4 elde. 6 kere 5, 30, elde ile 34. 4'ü yaz, 3 elde. 6 kere 2, 12, elde ile 15. Sonuç 1542.",
+     "ust": 257,
+     "alt": 6,
+     "islem": "×"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sonucu tahmin ederek kontrol edelim. 257 yaklaşık 260. 260 kere 6, 1560. Sonucumuz buna yakın.",
+     "satirlar": [
+      "260 × 6 = 1560",
+      "Gerçek: 1542"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Her basamağı sırayla çarpar, eldeyi bir sonraki çarpıma ekleriz.",
+     "satirlar": [
+      "Çarp, elde ekle, yaz"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-10-kisa-yol-carpma",
+   "baslik": "10, 100, 1000 ile Çarpma",
+   "konu": "Çarpma",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 10, 100 ve 1000 ile kısa yoldan çarpmayı öğreneceğiz.",
+     "baslik": "Kısa Yoldan Çarpma",
+     "alt": "10, 100 ve 1000 ile"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "10 ile çarparken sayının sağına bir sıfır ekleriz.",
+     "satirlar": [
+      "36 × 10 = 360"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "100 ile çarparken iki sıfır ekleriz.",
+     "satirlar": [
+      "36 × 100 = 3600"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1000 ile çarparken üç sıfır ekleriz.",
+     "satirlar": [
+      "36 × 1000 = 36000"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sonu sıfırlı sayıları da kolayca çarparız. 40 kere 30 için 4 kere 3, 12 yaparız, sonra iki sıfır ekleriz.",
+     "satirlar": [
+      "40 × 30 = 1200"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-11-iki-basamakli-carpma",
+   "baslik": "İki Basamaklı Sayılarla Çarpma",
+   "konu": "Çarpma",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda iki basamaklı iki sayıyı çarpmayı öğreneceğiz.",
+     "baslik": "İki Basamaklı Çarpma",
+     "alt": "Parçalara ayırarak"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "23 kere 14'ü bulalım. 14'ü 10 ve 4 olarak ayırırız.",
+     "satirlar": [
+      "23 × 14",
+      "= 23 × 10 + 23 × 4"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "23 kere 10, 230 eder. 23 kere 4, 92 eder.",
+     "satirlar": [
+      "23 × 10 = 230",
+      "23 × 4 = 92"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "İki sonucu toplarız: 230 artı 92, 322.",
+     "satirlar": [
+      "230 + 92 = 322"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "dizi",
+     "anlatim": "Küçük bir örnek: 3 kere 12. 3 kere 10, 30. 3 kere 2, 6. Toplam 36.",
+     "satir": 3,
+     "sutun": 12
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Büyük çarpımları parçalara ayırmak işimizi kolaylaştırır.",
+     "satirlar": [
+      "Ayır, çarp, topla"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-12-bolme",
+   "baslik": "Bölme İşlemi",
+   "konu": "Bölme",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda iki basamaklı bir sayıyı bir basamaklı sayıya bölmeyi öğreneceğiz.",
+     "baslik": "Bölme İşlemi",
+     "alt": "Uzun bölme"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "24 yıldızı 4 tabağa paylaştıralım. Her tabağa 6 yıldız düştü.",
+     "toplam": 24,
+     "grup": 4,
+     "nesne": "yildiz"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "84'ü 4'e bölelim. Önce onlar: 8'in içinde 4, 2 kere var. Sonra birler: 4'ün içinde 4, 1 kere var. Bölüm 21.",
+     "satirlar": [
+      "8 ÷ 4 = 2",
+      "4 ÷ 4 = 1",
+      "84 ÷ 4 = 21"
+     ],
+     "vurgu": [
+      2
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "96'yı 3'e bölelim. 9'un içinde 3, 3 kere. 6'nın içinde 3, 2 kere. Bölüm 32.",
+     "satirlar": [
+      "96 ÷ 3 = 32"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kontrol için bölüm ile böleni çarparız.",
+     "satirlar": [
+      "32 × 3 = 96"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-13-kalanli-bolme",
+   "baslik": "Kalanlı Bölme",
+   "konu": "Bölme",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kalanlı bölmeyi ve kontrolünü öğreneceğiz.",
+     "baslik": "Kalanlı Bölme",
+     "alt": "Kontrol etmeyi öğren"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "23 topu 5'erli gruplara ayıralım. 4 grup oldu, 3 top kaldı.",
+     "toplam": 23,
+     "grup": 5,
+     "nesne": "top",
+     "mod": "grupla"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "23 bölü 5'in bölümü 4, kalanı 3'tür.",
+     "satirlar": [
+      "23 ÷ 5 = 4, kalan 3"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kontrol: bölen ile bölümü çarpar, kalanı ekleriz.",
+     "satirlar": [
+      "5 × 4 + 3 = 23"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kalan her zaman bölenden küçük olmalıdır.",
+     "satirlar": [
+      "Kalan < Bölen"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-14-kisa-yol-bolme",
+   "baslik": "10 ve 100 ile Bölme",
+   "konu": "Bölme",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sonu sıfırlı sayıları 10 ve 100'e kısa yoldan bölmeyi öğreneceğiz.",
+     "baslik": "Kısa Yoldan Bölme",
+     "alt": "10 ve 100 ile"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sonu sıfırlı bir sayıyı 10'a bölerken sağdan bir sıfır sileriz.",
+     "satirlar": [
+      "450 ÷ 10 = 45"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "100'e bölerken sağdan iki sıfır sileriz.",
+     "satirlar": [
+      "3700 ÷ 100 = 37"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kontrol edelim: 45 kere 10, 450 eder.",
+     "satirlar": [
+      "45 × 10 = 450"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çarpmada sıfır ekleriz, bölmede sıfır sileriz.",
+     "satirlar": [
+      "× 10: sıfır ekle",
+      "÷ 10: sıfır sil"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-15-kesir-turleri",
+   "baslik": "Kesir Türleri",
+   "konu": "Kesirler",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kesir türlerini öğreneceğiz.",
+     "baslik": "Kesir Türleri",
+     "alt": "Basit, bileşik, tam sayılı"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Payı paydasından küçük olan kesirlere basit kesir denir. 3 bölü 4 basit kesirdir.",
+     "satirlar": [
+      {
+       "parca": 4,
+       "boya": 3,
+       "etiket": "3/4"
+      }
+     ],
+     "ifade": "Basit kesir: pay < payda"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Payı paydasına eşit ya da paydasından büyük olan kesirlere bileşik kesir denir. 5 bölü 4 bileşik kesirdir.",
+     "satirlar": [
+      {
+       "parca": 4,
+       "boya": 5,
+       "etiket": "5/4"
+      }
+     ],
+     "ifade": "Bileşik kesir: pay ≥ payda"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "5 bölü 4, bir bütün ve 1 bölü 4 demektir. Bunu tam sayılı kesir olarak 1 tam 1 bölü 4 diye yazarız.",
+     "satirlar": [
+      {
+       "parca": 4,
+       "boya": 5,
+       "etiket": "1 1/4"
+      }
+     ],
+     "ifade": "Tam sayılı kesir: 1 tam 1/4"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Özetleyelim.",
+     "satirlar": [
+      "Basit: 3/4",
+      "Bileşik: 5/4",
+      "Tam sayılı: 1 tam 1/4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-16-denk-kesirler",
+   "baslik": "Denk Kesirler",
+   "konu": "Kesirler",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda denk kesirleri öğreneceğiz.",
+     "baslik": "Denk Kesirler",
+     "alt": "Aynı büyüklük, farklı yazılış"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Aynı büyüklükteki üç bütünü 2, 4 ve 8 parçaya böldük. Taralı kısımların hepsi aynı büyüklükte.",
+     "satirlar": [
+      {
+       "parca": 2,
+       "boya": 1,
+       "etiket": "1/2"
+      },
+      {
+       "parca": 4,
+       "boya": 2,
+       "etiket": "2/4"
+      },
+      {
+       "parca": 8,
+       "boya": 4,
+       "etiket": "4/8"
+      }
+     ],
+     "ifade": "1/2 = 2/4 = 4/8"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Aynı büyüklüğü gösteren kesirlere denk kesirler denir.",
+     "satirlar": [
+      "1/2 = 2/4 = 4/8"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir kesrin payını ve paydasını aynı sayıyla çarparsak denk kesir buluruz.",
+     "satirlar": [
+      "1/3 = 2/6 (ikisini de 2 ile çarp)"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "1 bölü 3 ile 2 bölü 6 denktir.",
+     "satirlar": [
+      {
+       "parca": 3,
+       "boya": 1,
+       "etiket": "1/3"
+      },
+      {
+       "parca": 6,
+       "boya": 2,
+       "etiket": "2/6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-17-kesir-karsilastirma",
+   "baslik": "Kesirleri Karşılaştırma",
+   "konu": "Kesirler",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kesirleri karşılaştıracağız.",
+     "baslik": "Kesirleri Karşılaştırma",
+     "alt": "Paydaları eşit kesirler"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Paydaları eşit kesirlerde payı büyük olan kesir daha büyüktür. 5 bölü 8, 3 bölü 8'den büyüktür.",
+     "satirlar": [
+      {
+       "parca": 8,
+       "boya": 5,
+       "etiket": "5/8"
+      },
+      {
+       "parca": 8,
+       "boya": 3,
+       "etiket": "3/8"
+      }
+     ],
+     "ifade": "5/8 > 3/8"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "Payları eşit kesirlerde paydası küçük olan kesir daha büyüktür.",
+     "satirlar": [
+      {
+       "parca": 3,
+       "boya": 2,
+       "etiket": "2/3"
+      },
+      {
+       "parca": 5,
+       "boya": 2,
+       "etiket": "2/5"
+      }
+     ],
+     "ifade": "2/3 > 2/5"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Özetleyelim.",
+     "satirlar": [
+      "Paydalar eşit → payı büyük olan büyük",
+      "Paylar eşit → paydası küçük olan büyük"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-18-kesir-toplama",
+   "baslik": "Kesirlerle Toplama ve Çıkarma",
+   "konu": "Kesirler",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda paydaları eşit kesirlerle toplama ve çıkarma yapacağız.",
+     "baslik": "Kesirlerle İşlemler",
+     "alt": "Paydaları eşit kesirler"
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "2 bölü 6 ile 3 bölü 6'yı toplayalım. Paydalar eşit, payları toplarız: 5 bölü 6.",
+     "satirlar": [
+      {
+       "parca": 6,
+       "boya": 2,
+       "etiket": "2/6"
+      },
+      {
+       "parca": 6,
+       "boya": 3,
+       "etiket": "3/6"
+      },
+      {
+       "parca": 6,
+       "boya": 5,
+       "etiket": "5/6"
+      }
+     ],
+     "ifade": "2/6 + 3/6 = 5/6"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Paydalar eşitse payları toplar, paydayı aynen yazarız.",
+     "satirlar": [
+      "2/6 + 3/6 = 5/6"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "kesir_seritleri",
+     "anlatim": "7 bölü 8'den 3 bölü 8 çıkaralım. Payları çıkarırız: 4 bölü 8.",
+     "satirlar": [
+      {
+       "parca": 8,
+       "boya": 7,
+       "etiket": "7/8"
+      },
+      {
+       "parca": 8,
+       "boya": 4,
+       "etiket": "4/8"
+      }
+     ],
+     "ifade": "7/8 − 3/8 = 4/8"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Dikkat! Paydaları toplamayız, sadece payları toplarız.",
+     "satirlar": [
+      "Payda değişmez"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-19-cokluk-kesri",
+   "baslik": "Bir Çokluğun Kesri",
+   "konu": "Kesirler",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bir çokluğun kesrini bulmayı öğreneceğiz.",
+     "baslik": "Bir Çokluğun Kesri",
+     "alt": "20'nin 3/4'ü kaç?"
+    },
+    {
+     "tip": "paylastirma",
+     "anlatim": "20 elmayı 4 eş gruba ayıralım. Her grupta 5 elma var. Bu 20'nin 1 bölü 4'üdür.",
+     "toplam": 20,
+     "grup": 4,
+     "nesne": "elma"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "20'nin 3 bölü 4'ünü bulmak için 3 grubu alırız: 5 artı 5 artı 5, 15.",
+     "satirlar": [
+      "20 ÷ 4 = 5",
+      "5 × 3 = 15"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kural: çokluğu paydaya böler, çıkan sonucu payla çarparız.",
+     "satirlar": [
+      "Çokluk ÷ Payda × Pay"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Deneyelim: 30'un 2 bölü 5'i. 30 bölü 5, 6. 6 kere 2, 12.",
+     "satirlar": [
+      "30'un 2/5'i = 12"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-20-zaman",
+   "baslik": "Saat, Dakika, Saniye",
+   "konu": "Zaman",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda zaman birimleri arasındaki dönüşümleri öğreneceğiz.",
+     "baslik": "Zaman Ölçme",
+     "alt": "Saat, dakika, saniye"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 dakika 60 saniyedir. 1 saat 60 dakikadır.",
+     "satirlar": [
+      "1 dakika = 60 saniye",
+      "1 saat = 60 dakika"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Saat 2'yi 45 geçiyor. 15 dakika sonra saat tam 3 olur.",
+     "saat": 2,
+     "dakika": 45,
+     "dilim": true,
+     "etiket": "İkiyi kırk beş geçiyor"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "15 dakika sonra saat tam 3 oldu.",
+     "saat": 3,
+     "dakika": 0,
+     "onceki": [
+      2,
+      45
+     ],
+     "etiket": "Saat 3"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "3 saat kaç dakikadır? 60 kere 3, 180 dakika.",
+     "satirlar": [
+      "3 saat = 180 dakika"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "2 dakika kaç saniyedir? 60 kere 2, 120 saniye.",
+     "satirlar": [
+      "2 dakika = 120 saniye"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-21-uzunluk",
+   "baslik": "Uzunluk Birimleri",
+   "konu": "Ölçme",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda uzunluk birimleri arasındaki ilişkiyi öğreneceğiz.",
+     "baslik": "Uzunluk Birimleri",
+     "alt": "mm, cm, m, km"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 santimetre 10 milimetredir.",
+     "satirlar": [
+      "1 cm = 10 mm"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 metre 100 santimetredir.",
+     "satirlar": [
+      "1 m = 100 cm"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 kilometre 1000 metredir. Şehirler arası uzaklıklar kilometre ile ölçülür.",
+     "satirlar": [
+      "1 km = 1000 m"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Büyük birimden küçük birime geçerken çarparız.",
+     "satirlar": [
+      "3 m = 300 cm",
+      "2 km = 2000 m"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Hangi birim hangisi için?",
+     "satirlar": [
+      "Silgi: mm, cm",
+      "Masa: cm, m",
+      "Yol: km"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-22-cevre",
+   "baslik": "Kare ve Dikdörtgenin Çevresi",
+   "konu": "Ölçme",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kare ve dikdörtgenin çevre uzunluğunu hesaplayacağız.",
+     "baslik": "Çevre Uzunluğu",
+     "alt": "Kare ve dikdörtgen"
+    },
+    {
+     "tip": "alan_cevre",
+     "anlatim": "Bu dikdörtgenin uzun kenarı 6, kısa kenarı 3 birim. Etrafını dolaşalım.",
+     "en": 6,
+     "boy": 3,
+     "mod": "cevre",
+     "sonuc": "Çevre = 18 birim"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Dikdörtgenin karşılıklı kenarları eşittir. Çevresi: 6 artı 3 artı 6 artı 3, 18 birim.",
+     "satirlar": [
+      "6 + 3 + 6 + 3 = 18",
+      "2 × (6 + 3) = 18"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "alan_cevre",
+     "anlatim": "Karenin bütün kenarları eşittir. Bu karenin bir kenarı 4 birim.",
+     "en": 4,
+     "boy": 4,
+     "mod": "cevre",
+     "sonuc": "Çevre = 16 birim"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Karenin çevresi, bir kenarın 4 katıdır.",
+     "satirlar": [
+      "4 × 4 = 16",
+      "Kare: 4 × kenar"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-23-alan",
+   "baslik": "Alan Ölçme",
+   "konu": "Ölçme",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda dikdörtgenin alanını bulmayı öğreneceğiz.",
+     "baslik": "Alan",
+     "alt": "Birim kare ile"
+    },
+    {
+     "tip": "alan_cevre",
+     "anlatim": "Bu dikdörtgenin içini birim karelerle kaplayalım. 5'er kareden 4 sıra var.",
+     "en": 5,
+     "boy": 4,
+     "mod": "alan",
+     "sonuc": "Alan = 20 birim kare"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Alanı saymadan da buluruz: 5 kere 4, 20 birim kare.",
+     "satirlar": [
+      "5 × 4 = 20"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "alan_cevre",
+     "anlatim": "Bu karenin bir kenarı 3 birim. Alanı 3 kere 3, 9 birim kare.",
+     "en": 3,
+     "boy": 3,
+     "mod": "alan",
+     "sonuc": "Alan = 9 birim kare"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Alan birim kare ile, çevre birim ile ölçülür.",
+     "satirlar": [
+      "Alan: birim kare",
+      "Çevre: birim"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-24-acilar",
+   "baslik": "Açılar",
+   "konu": "Geometri",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda açıları ve açı çeşitlerini öğreneceğiz.",
+     "baslik": "Açılar",
+     "alt": "Dar, dik, geniş"
+    },
+    {
+     "tip": "aci",
+     "anlatim": "İki ışının başlangıç noktasının ortak olmasıyla açı oluşur. Bu açı bir kitabın köşesi gibi: dik açı.",
+     "derece": 90,
+     "ad": "Dik açı",
+     "derece_goster": true
+    },
+    {
+     "tip": "aci",
+     "anlatim": "Dik açıdan küçük açılara dar açı denir.",
+     "derece": 45,
+     "onceki": 90,
+     "ad": "Dar açı",
+     "bilgi": [
+      "Dik açıdan küçük"
+     ]
+    },
+    {
+     "tip": "aci",
+     "anlatim": "Dik açıdan büyük açılara geniş açı denir.",
+     "derece": 130,
+     "onceki": 45,
+     "ad": "Geniş açı",
+     "bilgi": [
+      "Dik açıdan büyük"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Açıları dik açıyla karşılaştırarak ayırt ederiz.",
+     "satirlar": [
+      "Dar < Dik < Geniş"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-25-ucgenler",
+   "baslik": "Üçgenler",
+   "konu": "Geometri",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda üçgenleri kenarlarına göre sınıflandıracağız.",
+     "baslik": "Üçgenler",
+     "alt": "Kenarlarına göre"
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Üç kenarı da eşit olan üçgene eşkenar üçgen denir.",
+     "sekil": "eskenar",
+     "bilgi": [
+      "Eşkenar üçgen",
+      "3 kenar eşit"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "İki kenarı eşit olan üçgene ikizkenar üçgen denir.",
+     "sekil": "ikizkenar",
+     "bilgi": [
+      "İkizkenar üçgen",
+      "2 kenar eşit"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Bütün kenarları farklı uzunlukta olan üçgene çeşitkenar üçgen denir.",
+     "sekil": "cesitkenar",
+     "bilgi": [
+      "Çeşitkenar üçgen",
+      "Kenarlar farklı"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Karşılaştıralım.",
+     "sekiller": [
+      "eskenar",
+      "ikizkenar",
+      "cesitkenar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-26-dortgenler",
+   "baslik": "Kare ve Dikdörtgen",
+   "konu": "Geometri",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kare ve dikdörtgenin özelliklerini inceleyeceğiz.",
+     "baslik": "Kare ve Dikdörtgen",
+     "alt": "Özellikleri"
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Karenin 4 kenarı eşittir ve 4 açısı da dik açıdır.",
+     "sekil": "kare",
+     "bilgi": [
+      "Kare",
+      "4 kenar eşit",
+      "4 dik açı"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Dikdörtgenin karşılıklı kenarları eşittir ve 4 açısı da dik açıdır.",
+     "sekil": "dikdortgen",
+     "bilgi": [
+      "Dikdörtgen",
+      "Karşılıklı kenarlar eşit",
+      "4 dik açı"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Her kare aynı zamanda bir dikdörtgendir. Ama her dikdörtgen kare değildir.",
+     "satirlar": [
+      "Kare: özel bir dikdörtgen"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "aci",
+     "anlatim": "Karenin ve dikdörtgenin her köşesinde bir dik açı vardır.",
+     "derece": 90,
+     "ad": "Dik açı"
+    }
+   ]
+  },
+  {
+   "id": "mat4-27-kutle",
+   "baslik": "Kütle Ölçme",
+   "konu": "Ölçme",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kütle birimlerini öğreneceğiz.",
+     "baslik": "Kütle Ölçme",
+     "alt": "Gram, kilogram, ton"
+    },
+    {
+     "tip": "terazi",
+     "anlatim": "Kefeler dengede. 1 kilogram, 1000 grama eşittir.",
+     "sol": "1 kg",
+     "sag": "1000 g",
+     "egim": 0,
+     "ifade": "1 kg = 1000 g"
+    },
+    {
+     "tip": "terazi",
+     "anlatim": "500 gram, 1 kilogramdan hafiftir. Ağır taraf aşağı iner.",
+     "sol": "500 g",
+     "sag": "1 kg",
+     "egim": 1,
+     "ifade": "500 g < 1 kg"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çok ağır nesneleri ton ile ölçeriz. 1 ton 1000 kilogramdır.",
+     "satirlar": [
+      "1 ton = 1000 kg"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Hangi birim hangisi için?",
+     "satirlar": [
+      "Silgi: g",
+      "Karpuz: kg",
+      "Kamyon: ton"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-28-sivi-olcme",
+   "baslik": "Sıvı Ölçme",
+   "konu": "Ölçme",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda litre ve mililitreyi öğreneceğiz.",
+     "baslik": "Sıvı Ölçme",
+     "alt": "Litre ve mililitre"
+    },
+    {
+     "tip": "kap",
+     "anlatim": "Büyük miktarları litre ile, küçük miktarları mililitre ile ölçeriz.",
+     "kaplar": [
+      {
+       "dolu": 1,
+       "max": 1,
+       "etiket": "1 L"
+      },
+      {
+       "dolu": 250,
+       "max": 1000,
+       "etiket": "250 mL"
+      }
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "1 litre 1000 mililitredir.",
+     "satirlar": [
+      "1 L = 1000 mL"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "kap",
+     "anlatim": "Dört tane 250 mililitrelik bardak 1 litre eder.",
+     "kaplar": [
+      {
+       "dolu": 250,
+       "max": 250,
+       "etiket": "250 mL"
+      },
+      {
+       "dolu": 250,
+       "max": 250,
+       "etiket": "250 mL"
+      },
+      {
+       "dolu": 250,
+       "max": 250,
+       "etiket": "250 mL"
+      },
+      {
+       "dolu": 250,
+       "max": 250,
+       "etiket": "250 mL"
+      }
+     ],
+     "ifade": "4 × 250 mL = 1000 mL = 1 L"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Hangi birim hangisi için?",
+     "satirlar": [
+      "İlaç kaşığı: mL",
+      "Su bidonu: L"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-29-veri",
+   "baslik": "Veri ve Grafik",
+   "konu": "Veri",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda veriyi grafikle gösterip yorumlayacağız.",
+     "baslik": "Veri Toplama ve Grafik",
+     "alt": "Sütun grafiği"
+    },
+    {
+     "tip": "grafik",
+     "anlatim": "Bir sınıftaki öğrencilerin okula geliş şekillerini sorduk.",
+     "etiketler": [
+      "Yürüyerek",
+      "Servis",
+      "Otobüs",
+      "Araba"
+     ],
+     "degerler": [
+      9,
+      6,
+      4,
+      5
+     ],
+     "baslik": "Okula geliş şekli"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "En çok öğrenci okula yürüyerek geliyor. En az öğrenci otobüsle geliyor.",
+     "satirlar": [
+      "En çok: Yürüyerek (9)",
+      "En az: Otobüs (4)"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sınıfta toplam kaç öğrenci var? 9 artı 6 artı 4 artı 5, 24 öğrenci.",
+     "satirlar": [
+      "9 + 6 + 4 + 5 = 24"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Grafik okurken başlığa, sütunlara ve sayılara dikkat ederiz.",
+     "satirlar": [
+      "Başlık",
+      "Sütunlar",
+      "Sayılar"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat4-30-tahmin",
+   "baslik": "Sonucu Tahmin Etme",
+   "konu": "Problemler",
+   "sinif": 4,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda çarpma ve bölme sonuçlarını tahmin etmeyi öğreneceğiz.",
+     "baslik": "Tahmin Etme",
+     "alt": "Çarpma ve bölmede"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "48 kere 6'yı tahmin edelim. 48'i 50'ye yuvarlarız. 50 kere 6, 300.",
+     "satirlar": [
+      "48 ≈ 50",
+      "50 × 6 = 300"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Gerçek sonuç 288. Tahminimiz 300'e çok yakın.",
+     "satirlar": [
+      "48 × 6 = 288"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bölmede de tahmin yaparız. 397 bölü 4 için 400 bölü 4, 100 deriz.",
+     "satirlar": [
+      "397 ≈ 400",
+      "400 ÷ 4 = 100"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Tahmin, cevabımızın mantıklı olup olmadığını kontrol etmemizi sağlar.",
+     "satirlar": [
+      "Önce tahmin",
+      "Sonra hesap",
+      "Karşılaştır"
+     ],
+     "vurgu": [
+      2
+     ]
+    }
+   ]
+  }
+ ]
+}
