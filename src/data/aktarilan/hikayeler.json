@@ -4,9 +4,9 @@
     "baslik": "Elanaz Bisiklet Sürmeyi Öğreniyor",
     "seviye": 3,
     "sayfalar": [
-      "Elanaz'ın yeni bir bisikleti vardı. Dört tekerlekli küçük bisikletti. Artık büyük çocuklar gibi iki tekerlekli bisiklete binmek istiyordu. Babası destek tekerleklerini taktı. \"Önce bunlarla alış, sonra çıkarırız,\" dedi.",
-      "İlk denemede Elanaz dengesini kaybetti ve düştü. Dizinin üstü acıdı. Ağlamak istedi ama pes etmedi. Baba yanına geldi. \"Herkes düşerek öğrenir. Tekrar dene!\" dedi. Elanaz ayağa kalktı. Bu sefer babası arkadan tuttu. Pedallara bastı, yavaş yavaş ilerledi.",
-      "Bir hafta sonra Elanaz tek başına sürebildi. Destek tekerleklerini çıkardılar. Parkta arkadaşlarının yanından geçti. Rüzgâr yüzüne vuruyordu. \"Babacığım, başardım!\" diye bağırdı. Baba alkışladı. O gün Elanaz düşse bile tekrar denemenin önemini öğrendi."
+      "Elanaz'ın yeni, iki tekerlekli bir bisikleti vardı. Ama henüz dengede duramıyordu. Babası bisiklete destek tekerleklerini taktı. \"Önce bunlarla alış, sonra çıkarırız,\" dedi.",
+      "Elanaz birkaç gün destek tekerlekleriyle bahçede tur attı. Sonra babası destek tekerleklerini çıkardı. Elanaz kaskını taktı ve pedala bastı. İlk denemede dengesini kaybetti ve düştü. Dizinin üstü acıdı. Ağlamak istedi ama pes etmedi. Baba yanına geldi. \"Herkes düşerek öğrenir. Tekrar dene!\" dedi.",
+      "Elanaz ayağa kalktı. Bu sefer babası seleyi arkadan tuttu. Elanaz yavaş yavaş ilerledi. Bir hafta sonra tek başına sürebildi. Parkta arkadaşlarının yanından geçti. Rüzgâr yüzüne vuruyordu. \"Babacığım, başardım!\" diye bağırdı. Baba alkışladı. O gün Elanaz düşse bile tekrar denemenin önemini öğrendi."
     ],
     "sorular": [
       {
@@ -20,7 +20,7 @@
         "correctAnswer": 2
       },
       {
-        "question": "İlk denemede ne oldu?",
+        "question": "Destek tekerlekleri çıkınca ilk denemede ne oldu?",
         "options": [
           "Uçtu",
           "Düştü",
@@ -172,7 +172,7 @@
     "sayfalar": [
       "Bahçeden garip bir tıkırtı geliyordu. Elanaz sesin nereden geldiğini çok merak etti. Çalıların arkasında karton bir kutu duruyordu ve kutu hafifçe sallanıyordu.",
       "Kalbi hızla atarak yavaşça yaklaştı. Kutunun kapağını dikkatle araladı. İçeride kaybolmuş küçük bir kedi yavrusu miyavlıyordu. Yavrunun tüyleri korkudan titriyordu.",
-      "Elanaz onu kucağına aldı ve yumuşacık bir sesle sakinleştirdi. Anneannesi ona bir kâse süt getirdi. O günden sonra kedi, bahçenin en neşeli konuğu oldu."
+      "Elanaz onu kucağına aldı ve yumuşacık bir sesle sakinleştirdi. Anneannesi yavru için bir kap su ve biraz yavru kedi maması getirdi. O günden sonra kedi, bahçenin en neşeli konuğu oldu."
     ],
     "sorular": [
       {
@@ -196,12 +196,12 @@
         "correctAnswer": 1
       },
       {
-        "question": "Anneannesi ne getirdi?",
+        "question": "Anneannesi yavru için ne getirdi?",
         "options": [
-          "Su",
+          "Oyuncak",
           "Ekmek",
-          "Bir kâse süt",
-          "Oyuncak"
+          "Su ve yavru kedi maması",
+          "Süt"
         ],
         "correctAnswer": 2
       },
@@ -275,8 +275,8 @@
     "seviye": 1,
     "sayfalar": [
       "Parkta rüzgâr o gün çok güçlü esiyordu. Elanaz, ağlayarak yukarı bakan küçük bir çocuk gördü. Çocuğun uçurtması yüksek bir dalın arasına sıkışmıştı.",
-      "Elanaz önce ağaca korkuyla baktı, dallar epey yüksekti. Yine de ellerini sağlam dallara atıp yavaşça tırmandı. En üstteki dala tutundu ve ipi dikkatle çözdü.",
-      "Uçurtma serbest kalınca havada süzülerek aşağı indi. Çocuk sevinçle zıpladı ve durmadan teşekkür etti. Elanaz aşağı inerken elleri biraz titriyordu ama içi kıpır kıpırdı."
+      "Elanaz ağaca baktı, dallar çok yüksekti. \"Ağaca tırmanmak tehlikeli, bir büyükten yardım istemeliyim,\" diye düşündü. Hemen parkın bekçisini çağırdı. Bekçi uzun bir sopayla dala uzandı ve ipi dikkatle kurtardı.",
+      "Uçurtma serbest kalınca havada süzülerek aşağı indi. Çocuk sevinçle zıpladı ve ikisine de durmadan teşekkür etti. Elanaz doğru olanı yaptığı için içi kıpır kıpırdı."
     ],
     "sorular": [
       {
@@ -300,12 +300,12 @@
         "correctAnswer": 3
       },
       {
-        "question": "Elanaz ipi nasıl çözdü?",
+        "question": "Uçurtma nasıl kurtarıldı?",
         "options": [
-          "Ağaca tırmanıp dikkatle",
-          "Makasla kesti",
-          "Zıplayarak",
-          "Çekiştirerek"
+          "Bekçi uzun bir sopayla ipi kurtardı",
+          "Elanaz ağaca tırmandı",
+          "Makasla kesildi",
+          "Çocuk zıplayarak aldı"
         ],
         "correctAnswer": 0
       },
@@ -587,8 +587,8 @@
     "seviye": 1,
     "sayfalar": [
       "Deniz kıyısında kumlar ıslaktı. Elanaz dalgaların getirdiği bir şişe gördü. Şişenin içinde katlanmış küçük bir kâğıt vardı. Kâğıdı dikkatle çıkardı ve açtı.",
-      "Üstünde \"Merhaba, umarım güzel bir gün geçirirsin!\" yazıyordu. Elanaz gülümsedi, sanki biri ona uzaktan el sallıyordu. Kendisi de bir not yazıp şişeye koydu.",
-      "Şişeyi tekrar denize bıraktı. Dalgalar onu yavaşça uzağa taşıdı. Belki başka bir çocuk onu bulacaktı."
+      "Üstünde \"Merhaba, umarım güzel bir gün geçirirsin!\" yazıyordu. Elanaz gülümsedi, sanki biri ona uzaktan el sallıyordu. Notu özenle katlayıp defterinin arasına koydu.",
+      "Şişeyi denize geri atmadı, çünkü denizler çöple kirlenmemeliydi. Onu kumsaldaki geri dönüşüm kutusuna attı. O gün kendisi de sınıf arkadaşlarına güzel dilekler yazdı."
     ],
     "sorular": [
       {
@@ -622,14 +622,14 @@
         "correctAnswer": 0
       },
       {
-        "question": "Elanaz kendi notunu yazdıktan sonra ne yaptı?",
+        "question": "Elanaz şişeyi ne yaptı?",
         "options": [
-          "Notu cebine koydu",
-          "Şişeyi eve götürdü",
-          "Şişeyi tekrar denize bıraktı",
-          "Şişeyi kuma gömdü"
+          "Kuma gömdü",
+          "Geri dönüşüm kutusuna attı",
+          "Tekrar denize attı",
+          "Kırdı"
         ],
-        "correctAnswer": 2
+        "correctAnswer": 1
       }
     ]
   },
@@ -4448,23 +4448,23 @@
     "sayfalar": [
       "KAHRAMAN dağların eteğindeki bir köyde yaşıyordu. Köyün arkasında kocaman, karlı bir dağ vardı. Dağın zirvesi bulutlara değiyordu.",
       "Köylüler dağın zirvesinde çok özel bir çiçek olduğunu söylerdi. Bu çiçek yılda sadece bir gün açardı. Ona Umut Çiçeği derlerdi.",
-      "KAHRAMAN'ın büyükannesi hastaydı. Köylüler Umut Çiçeği'nin şifa verdiğini söylüyordu. KAHRAMAN büyükannesi için o çiçeği bulmaya karar verdi.",
-      "KAHRAMAN sabah erkenden hazırlandı. Sırt çantasına su, ekmek ve sıcak bir battaniye koydu. Dağa doğru yola çıktı.",
-      "Yol başta kolaydı. KAHRAMAN neşeyle tırmanıyordu. Ama yükseldikçe hava soğumaya başladı.",
-      "Yolda küçük bir dağ keçisiyle karşılaştı. Keçinin ayağı bir taşa sıkışmıştı. KAHRAMAN durup ona yardım etti.",
-      "Keçi kurtulunca minnetle KAHRAMAN'a baktı. Ona zirveye giden gizli, kolay bir patika gösterdi. KAHRAMAN teşekkür etti.",
-      "KAHRAMAN tırmanmaya devam etti. Yol gittikçe dikleşiyordu. Bacakları yorulmuştu ama pes etmedi.",
-      "Bir ara ayağı kaydı ve neredeyse düşüyordu. Ama sıkıca bir kayaya tutundu. Derin bir nefes aldı ve devam etti.",
-      "Hava kararmaya başladı. KAHRAMAN küçük bir mağara buldu. Geceyi orada geçirmeye karar verdi.",
-      "Battaniyesine sarıldı ve ateş yaktı. Yıldızları izledi ve büyükannesini düşündü. Sabah zirveye ulaşacaktı.",
-      "Güneş doğunca KAHRAMAN yeniden yola çıktı. Zirve artık çok yakındı. Son bir gayretle tırmandı.",
-      "Sonunda zirveye ulaştı! Manzara nefes kesiciydi. Bütün köy, ovalar ve nehirler aşağıda uzanıyordu.",
+      "KAHRAMAN'ın büyükannesi hastaydı ve günlerdir yataktaydı. Doktor ilaçlarını vermiş, dinlenmesini söylemişti. Büyükannesi, gençliğinde gördüğü Umut Çiçeği'ni hep anlatırdı. KAHRAMAN ona bu çiçeği göstermek istedi.",
+      "KAHRAMAN dedesiyle birlikte sabah erkenden hazırlandı. Sırt çantalarına su, ekmek ve sıcak birer battaniye koydular. Dağa doğru yola çıktılar.",
+      "Yol başta kolaydı. İkisi neşeyle yürüyordu. Ama yükseldikçe hava soğumaya başladı.",
+      "Yolda küçük bir dağ keçisiyle karşılaştılar. Keçinin ayağı bir taşa sıkışmıştı. KAHRAMAN ile dedesi durup ona yardım etti.",
+      "Keçi kurtulunca minnetle KAHRAMAN'a baktı. Sonra daha kolay bir patikadan zıplayarak yukarı gitti. Dedesi \"Keçiler en güvenli yolu bilir,\" dedi. O patikayı izlediler.",
+      "Yol gittikçe dikleşiyordu. KAHRAMAN'ın bacakları yorulmuştu ama pes etmedi.",
+      "Bir ara ayağı kaydı. Dedesi hemen elini tuttu. \"Dağda hep yavaş ve dikkatli yürürüz,\" dedi. KAHRAMAN derin bir nefes aldı ve devam etti.",
+      "Hava kararmaya başladı. Yolun üstünde bir çoban kulübesi vardı. Geceyi orada geçirmeye karar verdiler.",
+      "Dedesi kulübenin sobasını yaktı. KAHRAMAN battaniyesine sarıldı, pencereden yıldızları izledi ve büyükannesini düşündü. Sabah zirveye ulaşacaklardı.",
+      "Güneş doğunca yeniden yola çıktılar. Zirve artık çok yakındı. Son bir gayretle tırmandılar.",
+      "Sonunda zirveye ulaştılar! Manzara nefes kesiciydi. Bütün köy, ovalar ve nehirler aşağıda uzanıyordu.",
       "Ve orada, karların arasında Umut Çiçeği açmıştı. Çiçek altın renginde parlıyordu. KAHRAMAN çok sevindi.",
-      "KAHRAMAN çiçeği çok dikkatli bir şekilde kopardı. Köküne zarar vermeden aldı. Onu özenle çantasına yerleştirdi.",
+      "KAHRAMAN çiçeği koparmak istedi. Dedesi \"Bu çiçek burada açmalı, yoksa gelecek yıl kimse göremez,\" dedi. KAHRAMAN çiçeğin fotoğrafını çekti ve onu uzun uzun izledi.",
       "Dönüş yolu daha kolaydı. KAHRAMAN gururla köye indi. Başardığı için kendisiyle gurur duyuyordu.",
-      "Büyükannesine Umut Çiçeği'nden bir çay yaptılar. Büyükanne çayı içti ve yavaş yavaş iyileşmeye başladı. Herkes çok mutlu oldu.",
-      "Büyükanne KAHRAMAN'a sarıldı. 'Sen çok cesur ve azimli bir çocuksun,' dedi. 'Beni kurtardın.'",
-      "KAHRAMAN o gün önemli bir şey öğrendi. Zor işler azim ve cesaret ister. Ama pes etmezsen, en yüce dağı bile tırmanabilirsin."
+      "Büyükannesine çiçeğin fotoğrafını gösterdi. Büyükannesinin gözleri parladı, gençliğini hatırlayıp gülümsedi. İlaçlarını düzenli içti, dinlendi ve günler içinde iyileşti.",
+      "Büyükanne KAHRAMAN'a sarıldı. \"Sen çok cesur ve azimli bir çocuksun,\" dedi. \"Bu fotoğraf bana çok iyi geldi.\"",
+      "KAHRAMAN o gün önemli bir şey öğrendi. Zor işler azim ve cesaret ister. Dağa ise her zaman bir büyükle ve dikkatle çıkılır."
     ],
     "sorular": [
       {
@@ -4478,71 +4478,71 @@
         "correctAnswer": 0
       },
       {
-        "question": "KAHRAMAN neden o çiçeği aramaya karar verdi?",
+        "question": "KAHRAMAN neden dağa çıkmak istedi?",
         "options": [
-          "Satmak için",
-          "Hasta büyükannesi için",
+          "Çiçeği satmak için",
+          "Çiçeği hasta büyükannesine göstermek için",
           "Kendisi için",
           "Arkadaşı için"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Yolda karşılaştığı dağ keçisine ne yaptı?",
+        "question": "KAHRAMAN dağa kiminle çıktı?",
         "options": [
-          "Kovaladı",
-          "Sıkışan ayağını kurtardı",
-          "Görmezden geldi",
-          "Korkuttu"
+          "Tek başına",
+          "Arkadaşıyla",
+          "Dedesiyle",
+          "Öğretmeniyle"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Yolda karşılaştıkları dağ keçisine ne yaptılar?",
+        "options": [
+          "Kovaladılar",
+          "Sıkışan ayağını kurtardılar",
+          "Görmezden geldiler",
+          "Korkuttular"
         ],
         "correctAnswer": 1
       },
       {
-        "question": "Keçi teşekkür için ne yaptı?",
-        "options": [
-          "Ona yiyecek verdi",
-          "Gizli kolay patikayı gösterdi",
-          "Şarkı söyledi",
-          "Onu taşıdı"
-        ],
-        "correctAnswer": 1
-      },
-      {
-        "question": "Geceyi nerede geçirdi?",
+        "question": "Geceyi nerede geçirdiler?",
         "options": [
           "Ağaçta",
-          "Küçük bir mağarada",
+          "Bir mağarada",
           "Zirvede",
-          "Köyde"
+          "Bir çoban kulübesinde"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 3
       },
       {
-        "question": "Çiçeği koparırken KAHRAMAN nasıl davrandı?",
+        "question": "KAHRAMAN çiçeği ne yaptı?",
         "options": [
-          "Aceleyle kopardı",
-          "Köküne zarar vermeden dikkatlice aldı",
-          "Ezdi",
-          "Bıraktı"
+          "Kopardı",
+          "Köküyle söktü",
+          "Koparmadı, fotoğrafını çekti",
+          "Ezdi"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 2
       },
       {
-        "question": "Umut Çiçeği'nden yapılan çay ne yaptı?",
+        "question": "Büyükanne nasıl iyileşti?",
         "options": [
-          "Hiçbir şey",
-          "Büyükanne iyileşmeye başladı",
-          "Büyükanneyi uyuttu",
-          "Kötü tat verdi"
+          "İlaçlarını düzenli içip dinlenerek",
+          "Çiçek çayı içerek",
+          "Dağa çıkarak",
+          "Hiç iyileşmedi"
         ],
-        "correctAnswer": 1
+        "correctAnswer": 0
       },
       {
         "question": "KAHRAMAN bu maceradan ne öğrendi?",
         "options": [
           "Azim ve cesaretle zor işlerin başarılabileceğini",
-          "Dağların tehlikeli olduğunu",
-          "Çiçeklerin güzel olduğunu",
+          "Dağların hiç tehlikeli olmadığını",
+          "Çiçeklerin koparılması gerektiğini",
           "Yürümenin yorucu olduğunu"
         ],
         "correctAnswer": 0
