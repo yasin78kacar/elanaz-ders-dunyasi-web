@@ -6,6 +6,17 @@ interface Props {
   onGeri?: () => void;
 }
 
+const DERS_SIRA = [
+  'Matematik',
+  'Türkçe',
+  'İngilizce',
+  'Fen Bilimleri',
+  'Hayat Bilgisi',
+  'Sosyal Bilgiler',
+  'Trafik Güvenliği',
+  'İnsan Hakları',
+];
+
 function sureYaz(sn: number): string {
   const d = Math.floor(sn / 60);
   const s = sn % 60;
@@ -13,9 +24,23 @@ function sureYaz(sn: number): string {
 }
 
 export default function VideoKosesi({ sinif, onGeri }: Props) {
-  const liste = useMemo(
+  const sinifListe = useMemo(
     () => VIDEOLAR.filter((v) => sinif === undefined || v.sinif === sinif),
     [sinif],
+  );
+  const dersler = useMemo(() => {
+    const varOlan = new Set(sinifListe.map((v) => v.ders));
+    const sirali = DERS_SIRA.filter((d) => varOlan.has(d));
+    for (const d of varOlan) {
+      if (!sirali.includes(d)) sirali.push(d);
+    }
+    return sirali;
+  }, [sinifListe]);
+  const [secili, setSecili] = useState<string | null>(null);
+  const aktifDers = secili && dersler.includes(secili) ? secili : (dersler[0] ?? '');
+  const liste = useMemo(
+    () => sinifListe.filter((v) => v.ders === aktifDers),
+    [sinifListe, aktifDers],
   );
   const gruplar = useMemo(() => {
     const m = new Map<string, DersVideosu[]>();
@@ -28,6 +53,11 @@ export default function VideoKosesi({ sinif, onGeri }: Props) {
   }, [liste]);
   const [aktif, setAktif] = useState<number | null>(null);
   const video = aktif !== null ? liste[aktif] : null;
+
+  function dersSec(d: string) {
+    setSecili(d);
+    setAktif(null);
+  }
 
   if (video) {
     return (
@@ -55,6 +85,22 @@ export default function VideoKosesi({ sinif, onGeri }: Props) {
     <div className="vk-wrap vk-wrap--liste">
       {onGeri && <button type="button" className="vk-btn" onClick={onGeri}>← Geri</button>}
       <h2 className="vk-baslik">Video Köşesi</h2>
+      {dersler.length > 0 && (
+        <div className="vk-sekmeler" role="tablist" aria-label="Dersler">
+          {dersler.map((d) => (
+            <button
+              key={d}
+              type="button"
+              role="tab"
+              aria-selected={d === aktifDers}
+              className={`vk-sekme${d === aktifDers ? ' aktif' : ''}`}
+              onClick={() => dersSec(d)}
+            >
+              {d}
+            </button>
+          ))}
+        </div>
+      )}
       {liste.length === 0 && <p className="vk-bos">Bu sınıf için henüz video yok.</p>}
       {gruplar.map(([konu, vids]) => (
         <section key={konu} className="vk-grup">

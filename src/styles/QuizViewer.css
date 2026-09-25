@@ -1959,6 +1959,32 @@ body::before {
   gap: 12px;
   margin-top: 12px;
 }
+.vk-sekmeler {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 4px 0 16px;
+  padding-bottom: 4px;
+}
+.vk-sekme {
+  flex: 0 0 auto;
+  min-height: 44px;
+  padding: 10px 16px;
+  border-radius: 999px;
+  border: 2px solid var(--qv-border);
+  background: var(--qv-surface);
+  color: var(--qv-text);
+  font-family: var(--qv-font);
+  font-size: 1rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+.vk-sekme.aktif {
+  background: var(--qv-purple);
+  border-color: var(--qv-purple);
+  color: #fff;
+}
 .vk-bos {
   margin: 24px 0;
   padding: 20px;
