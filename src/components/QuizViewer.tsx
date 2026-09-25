@@ -7,6 +7,7 @@ import HomePage, { SUBJECT_ROUTE_TO_LABEL, type HomeRoute } from '../pages/home/
 import BilgiModal from './BilgiModal';
 import OnayModal from './OnayModal';
 import SayiBulmacasi from './SayiBulmacasi';
+import { ilgiHali } from '../lib/turkceEk';
 
 interface Question {
   id: string;
@@ -1181,7 +1182,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     return goster(
       <div className="qv-wrap">
         <button className="back-btn" onClick={() => setView('home')}>← Ana Sayfa</button>
-        <h1 className="home-title">📊 {profilAdi}'ın İlerlemesi</h1>
+        <h1 className="home-title">📊 {ilgiHali(profilAdi)} İlerlemesi</h1>
 
         <div className="stats-summary" style={{ marginTop: '24px' }}>
           <h2>Genel Başarı Durumu</h2>
