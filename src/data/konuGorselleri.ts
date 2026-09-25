@@ -88,13 +88,27 @@ export const konuGorselleri: { [konu: string]: string } = {
   'İleri Zeka Bulmacaları': 'A_simple_maze_on_white_202606120943.jpeg',
 };
 
+function trKucuk(s: string): string {
+  return s.replace(/İ/g, 'i').replace(/I/g, 'ı').toLowerCase();
+}
+
+const TR_HARF = 'a-zçğıöşü';
+
+function tamKelime(theme: string, konu: string): boolean {
+  const anahtar = trKucuk(konu);
+  if (!anahtar) return false;
+  const kacis = anahtar.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(`(^|[^${TR_HARF}])${kacis}([^${TR_HARF}]|$)`);
+  return re.test(trKucuk(theme));
+}
+
 export function gorselBul(theme: string): string | null {
   if (!theme) return null;
   if (konuGorselleri[theme]) return '/gorseller/' + konuGorselleri[theme];
+  let enUzun: string | null = null;
   for (const konu in konuGorselleri) {
-    if (theme.toLowerCase().includes(konu.toLowerCase())) {
-      return '/gorseller/' + konuGorselleri[konu];
-    }
+    if (!tamKelime(theme, konu)) continue;
+    if (enUzun === null || konu.length > enUzun.length) enUzun = konu;
   }
-  return null;
+  return enUzun ? '/gorseller/' + konuGorselleri[enUzun] : null;
 }
