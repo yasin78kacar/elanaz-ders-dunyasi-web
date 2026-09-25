@@ -215,7 +215,7 @@ const OyunNesneAvcisi = ({ onBitti }: Props) => {
           );
         })}
       </div>
-      <div className="oyun-ipucu">Listeden bak, sahnede dokun. Yanlışta soğuk / ılık / sıcak — ceza yok.</div>
+      <div className="oyun-ipucu">Listedeki nesneleri resimde bul ve dokun. Yanlış yere dokunursan soğuk, ılık ya da sıcak diye ipucu alırsın. Ceza yok!</div>
     </div>
   );
 };

@@ -228,7 +228,7 @@ const OyunFarkBulma = ({ onBitti }: Props) => {
           </div>
         ))}
       </div>
-      <div className="oyun-ipucu">İki resme bak. Farklı olan yere dokun. Yanlışta soğuk / ılık / sıcak dersin — ceza yok.</div>
+      <div className="oyun-ipucu">İki resme bak. Farklı olan yere dokun. Yanlış yere dokunursan soğuk, ılık ya da sıcak diye ipucu alırsın. Ceza yok!</div>
     </div>
   );
 };
