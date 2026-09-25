@@ -234,6 +234,25 @@ def an(p, D, parca, varsayilan, son=True):
     z = zaman_at(p, D, i)
     return varsayilan if z is None else z
 
+def tr_kucuk(x):
+    return str(x).replace('İ', 'i').replace('I', 'ı').lower()
+
+def oge_zamani(p, D, etiket, varsayilan, i=0):
+    """Öğe anlatımda geçtiği an görünsün. Önce etiketin tamamı, bulunamazsa kelime kökleri (ilk 4 harf) aranır."""
+    metin = tr_kucuk(p.get('anlatim', '')); et = tr_kucuk(etiket).strip(' .,!?')
+    if not et or not metin: return varsayilan
+    im = p.setdefault('_imlec', {})
+    bas = max([v for k, v in im.items() if k < i] or [0])
+    j = metin.find(et, bas)
+    if j < 0:
+        adaylar = [metin.find(w[:4], bas) for w in re.findall(r'\w+', et) if len(w) >= 3]
+        adaylar = [x for x in adaylar if x >= 0]
+        j = min(adaylar) if adaylar else metin.find(et)
+    if j < 0: return varsayilan
+    im[i] = j + 1
+    z = zaman_at(p, D, j)
+    return varsayilan if z is None else z
+
 def an_ilk(p, D, parcalar, varsayilan):
     ts = [an(p, D, x, None, son=False) for x in parcalar]; ts = [x for x in ts if x is not None]
     return min(ts) if ts else varsayilan
@@ -908,7 +927,9 @@ def s_kelimeler(T, p, t, D):
     y0 = 330 - ch * (sat - 1) / 2
     for i, o in enumerate(it):
         satirdaki = min(sut, n - (i // sut) * sut)
-        x = 640 + (i % sut - (satirdaki - 1) / 2) * cw; y = y0 + ch * (i // sut); a = A(t, 0.3 + i * adim, 0.4)
+        x = 640 + (i % sut - (satirdaki - 1) / 2) * cw; y = y0 + ch * (i // sut)
+        et = o[2] if len(o) > 2 and o[2] and not re.search(r'[a-zçğıöşü]', tr_kucuk(o[1])) else o[1]
+        a = A(t, 0.3 + i * adim if p.get('ses') else oge_zamani(p, D, et, 0.3 + i * adim, i), 0.4)
         emoji(T, o[0], x, y - ch * 0.14, ch * 0.5 * (0.7 + 0.3 * a), a)
         T.text(x, y + ch * 0.28, o[1], 34 if len(o[1]) < 11 else 26, fade(ACC, a))
         if len(o) > 2 and o[2]: T.text(x, y + ch * 0.28 + 32, o[2], 22, fade(MUTED, a), bold=False)
@@ -1007,13 +1028,77 @@ def s_harfler(T, p, t, D):
         T.text(x, y, h, min(56, ch * 0.55), fade(INK, a))
     if p.get('bilgi'): T.text(640, 560, p['bilgi'], 34, fade(ACC, A(t, vz + 0.4)))
 
+def s_siniflama(T, p, t, D):
+    kat = p['kategoriler']; og = p['ogeler']; nk = len(kat); n = len(og)
+    cw = min(380, 1140 / nk); x0 = 640 - cw * nk / 2
+    say = [0] * nk
+    for j, k in enumerate(kat):
+        x = x0 + j * cw; rk = [RENK['mavi'], RENK['turuncu'], RENK['turkuaz'], RENK['mor']][j % 4]
+        T.rect(x + 10, 250, x + cw - 10, 575, lerp(WHITE, rk, 0.08), rk, 3, r=18)
+        T.rect(x + 10, 250, x + cw - 10, 305, lerp(WHITE, rk, 0.25), None, 0, r=18)
+        if isinstance(k, list) and k[1]: emoji(T, k[1], x + 40, 278, 34)
+        T.text(x + cw / 2 + (14 if isinstance(k, list) and k[1] else 0), 278, k[0] if isinstance(k, list) else k, 28, rk)
+    adim = min(1.0, D * 0.6 / max(n, 1))
+    for i, (em, et, ki) in enumerate(og):
+        z = oge_zamani(p, D, et, 0.5 + i * adim, i)
+        a = A(t, z, 0.25); m = ease((t - z - 0.5) / 0.6)
+        if a <= 0: continue
+        sira = sum(1 for q in og[:i] if q[2] == ki)
+        hx = x0 + ki * cw + cw / 2 + ((sira % 2) - 0.5) * (cw * 0.42 if cw > 250 else cw * 0.45)
+        hy = 375 + (sira // 2) * 108
+        bx, by = 640, 150
+        x = bx + (hx - bx) * m; y = by + (hy - by) * m - math.sin(math.pi * m) * 40
+        boy = 100 - 22 * m
+        emoji(T, em, x, y - 10, boy, a)
+        T.text(x, y + boy * 0.5 + 4, et, 22 if m > 0.5 else 30, fade(INK, a), bold=m < 0.5)
+
+def ok_egri(T, x0, y0, x1, y1, renk, w=5):
+    T.line([(x0, y0), (x1, y1)], renk, w)
+    an_ = math.atan2(y1 - y0, x1 - x0); L = 18
+    T.poly([(x1, y1), (x1 - L * math.cos(an_ - 0.45), y1 - L * math.sin(an_ - 0.45)), (x1 - L * math.cos(an_ + 0.45), y1 - L * math.sin(an_ + 0.45))], renk)
+
+def s_dongu(T, p, t, D):
+    ad = p['adimlar']; n = len(ad); cx, cy, R0 = 640, 318, min(200, 150 + n * 10)
+    pos = [(cx + R0 * 1.15 * math.cos(-math.pi / 2 + 2 * math.pi * i / n), cy + R0 * 0.82 * math.sin(-math.pi / 2 + 2 * math.pi * i / n)) for i in range(n)]
+    adim = min(1.2, D * 0.6 / n); zs = []
+    for i, (em, et) in enumerate(ad):
+        zs.append(oge_zamani(p, D, et, 0.5 + i * adim, i))
+    for i in range(n):
+        j = (i + 1) % n; b = A(t, max(zs[i], zs[j] if j else zs[i]) + 0.2, 0.4) if j else A(t, zs[-1] + 0.6, 0.4)
+        if b > 0:
+            (xa, ya), (xb, yb) = pos[i], pos[j]; d = math.hypot(xb - xa, yb - ya); k = 78 / d
+            ok_egri(T, xa + (xb - xa) * k, ya + (yb - ya) * k, xa + (xb - xa) * (k + (1 - 2 * k) * b), ya + (yb - ya) * (k + (1 - 2 * k) * b), fade(RENK['turuncu'], b))
+    for i, (em, et) in enumerate(ad):
+        a = A(t, zs[i], 0.35); x, y = pos[i]
+        if a <= 0: continue
+        T.circle(x, y - 8, 62 * (0.8 + 0.2 * a), fade(WHITE, a), fade(LINE, a), 2)
+        emoji(T, em, x, y - 14, 70 * (0.8 + 0.2 * a), a)
+        T.text(x, y + 66, et, 26, fade(ACC, a))
+    if p.get('orta'): T.text(cx, cy, p['orta'], 30, fade(MUTED, A(t, 0.3)), bold=False)
+
+def s_akis(T, p, t, D):
+    ad = p['adimlar']; n = len(ad); gen = min(250, 1180 / n); x0 = 640 - gen * (n - 1) / 2
+    adim = min(1.2, D * 0.6 / n)
+    for i, (em, et) in enumerate(ad):
+        z = oge_zamani(p, D, et, 0.5 + i * adim, i); a = A(t, z, 0.35); x = x0 + i * gen
+        if a <= 0: continue
+        T.rect(x - gen * 0.44, 190, x + gen * 0.44, 450, fade(WHITE, a), fade(LINE, a), 2, r=18)
+        T.circle(x - gen * 0.44 + 22, 212, 16, fade(RENK['turuncu'], a)); T.text(x - gen * 0.44 + 22, 212, i + 1, 20, fade(WHITE, a))
+        emoji(T, em, x, 290, min(110, gen * 0.5), a)
+        for j, sat in enumerate(sar(T, et, 24, gen * 0.8)[:3]):
+            T.text(x, 380 + j * 28, sat, 24, fade(INK, a))
+        if i:
+            b = a; xa = x - gen + gen * 0.44 + 4; xb = x - gen * 0.44 - 4
+            if xb - xa > 12: ok_egri(T, xa, 320, xa + (xb - xa) * b, 320, fade(RENK['turuncu'], b), 5)
+
 TIPLER = {'baslik': s_baslik, 'metin': s_metin, 'kesir': s_kesir, 'nesne_say': s_nesne_say, 'onluk_birlik': s_onluk_birlik,
           'sayi_dogrusu': s_sayi_dogrusu, 'toplama': s_toplama, 'cikarma': s_cikarma, 'dizi': s_dizi, 'paylastirma': s_paylastirma,
           'saat': s_saat, 'sekil': s_sekil, 'oruntu': s_oruntu, 'karsilastirma': s_karsilastirma, 'para': s_para,
           'uzunluk': s_uzunluk, 'grafik': s_grafik, 'alt_alta': s_alt_alta,
           'alan_cevre': s_alan_cevre, 'aci': s_aci, 'kesir_seritleri': s_kesir_seritleri, 'kap': s_kap, 'terazi': s_terazi,
           'sekil_grafigi': s_sekil_grafigi, 'kelime': s_kelime, 'kelimeler': s_kelimeler, 'kelime_ciftleri': s_kelime_ciftleri,
-          'hece': s_hece, 'cumle': s_cumle, 'konum': s_konum, 'harfler': s_harfler}
+          'hece': s_hece, 'cumle': s_cumle, 'konum': s_konum, 'harfler': s_harfler,
+          'siniflama': s_siniflama, 'dongu': s_dongu, 'akis': s_akis}
 
 # ---------- çerçeve ----------
 def altyazi(T, metin, a):
