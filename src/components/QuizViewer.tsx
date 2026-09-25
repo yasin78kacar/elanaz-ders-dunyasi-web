@@ -1250,6 +1250,11 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
           </div>
 
           <div className="hakkinda-bolum">
+            <h3>🎬 Video Köşesi</h3>
+            <p>1-4. sınıflar için 420 kısa ders videosu vardır: Matematik, Türkçe, İngilizce, Fen Bilimleri, Hayat Bilgisi, Sosyal Bilgiler, Trafik Güvenliği ve İnsan Hakları. Videolar sesli anlatımlı ve altyazılıdır, reklam içermez. Çocuğunuz dersleri kendi hızında izleyip tekrar edebilir.</p>
+          </div>
+
+          <div className="hakkinda-bolum">
             <h3>🛡️ Güvenli İçerik</h3>
             <p>İçerikler çocuklar için özenle hazırlanmıştır. Uygulamada argo, küfür, şiddet ya da
             çocuklar için uygunsuz hiçbir ifade yer almaz. Her şey çocukların yaş seviyesine uygun bir dille yazılmıştır.</p>
