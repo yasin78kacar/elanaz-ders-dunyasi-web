@@ -11,7 +11,7 @@ export const VIDEOLAR: DersVideosu[] = [
     "konu": "Sayılar",
     "sinif": 2,
     "ders": "Matematik",
-    "sure": 49,
+    "sure": 50,
     "src": "/videolar/mat2-01-onar-sayalim.mp4",
     "poster": "/videolar/mat2-01-onar-sayalim.jpg"
   },
@@ -331,7 +331,7 @@ export const VIDEOLAR: DersVideosu[] = [
     "konu": "Sayılar",
     "sinif": 3,
     "ders": "Matematik",
-    "sure": 42,
+    "sure": 65,
     "src": "/videolar/mat3-03-karsilastirma.mp4",
     "poster": "/videolar/mat3-03-karsilastirma.jpg"
   },
@@ -471,7 +471,7 @@ export const VIDEOLAR: DersVideosu[] = [
     "konu": "Çarpma",
     "sinif": 3,
     "ders": "Matematik",
-    "sure": 29,
+    "sure": 31,
     "src": "/videolar/mat3-17-onlar-yuzler-carpma.mp4",
     "poster": "/videolar/mat3-17-onlar-yuzler-carpma.jpg"
   },
@@ -631,7 +631,7 @@ export const VIDEOLAR: DersVideosu[] = [
     "konu": "Sayılar",
     "sinif": 4,
     "ders": "Matematik",
-    "sure": 36,
+    "sure": 63,
     "src": "/videolar/mat4-03-karsilastirma.mp4",
     "poster": "/videolar/mat4-03-karsilastirma.jpg"
   },
@@ -904,5 +904,305 @@ export const VIDEOLAR: DersVideosu[] = [
     "sure": 40,
     "src": "/videolar/mat4-30-tahmin.mp4",
     "poster": "/videolar/mat4-30-tahmin.jpg"
+  },
+  {
+    "id": "mat1-01-sayma",
+    "baslik": "1'den 10'a Sayalım",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 42,
+    "src": "/videolar/mat1-01-sayma.mp4",
+    "poster": "/videolar/mat1-01-sayma.jpg"
+  },
+  {
+    "id": "mat1-02-rakamlar",
+    "baslik": "Rakamlar",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 30,
+    "src": "/videolar/mat1-02-rakamlar.mp4",
+    "poster": "/videolar/mat1-02-rakamlar.jpg"
+  },
+  {
+    "id": "mat1-03-karsilastirma",
+    "baslik": "Az mı Çok mu?",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 31,
+    "src": "/videolar/mat1-03-karsilastirma.mp4",
+    "poster": "/videolar/mat1-03-karsilastirma.jpg"
+  },
+  {
+    "id": "mat1-04-sira-sayilari",
+    "baslik": "Sıra Sayıları",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 30,
+    "src": "/videolar/mat1-04-sira-sayilari.mp4",
+    "poster": "/videolar/mat1-04-sira-sayilari.jpg"
+  },
+  {
+    "id": "mat1-05-yirmiye-kadar",
+    "baslik": "20'ye Kadar Sayalım",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 32,
+    "src": "/videolar/mat1-05-yirmiye-kadar.mp4",
+    "poster": "/videolar/mat1-05-yirmiye-kadar.jpg"
+  },
+  {
+    "id": "mat1-06-onluk-birlik",
+    "baslik": "Onluk ve Birlik",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 28,
+    "src": "/videolar/mat1-06-onluk-birlik.mp4",
+    "poster": "/videolar/mat1-06-onluk-birlik.jpg"
+  },
+  {
+    "id": "mat1-07-ileri-geri",
+    "baslik": "İleriye ve Geriye Sayma",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 38,
+    "src": "/videolar/mat1-07-ileri-geri.mp4",
+    "poster": "/videolar/mat1-07-ileri-geri.jpg"
+  },
+  {
+    "id": "mat1-08-onar-sayma",
+    "baslik": "Onar Sayma",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 28,
+    "src": "/videolar/mat1-08-onar-sayma.mp4",
+    "poster": "/videolar/mat1-08-onar-sayma.jpg"
+  },
+  {
+    "id": "mat1-09-oruntu",
+    "baslik": "Örüntüler",
+    "konu": "Örüntüler",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 29,
+    "src": "/videolar/mat1-09-oruntu.mp4",
+    "poster": "/videolar/mat1-09-oruntu.jpg"
+  },
+  {
+    "id": "mat1-10-toplama",
+    "baslik": "Toplama",
+    "konu": "Toplama",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 30,
+    "src": "/videolar/mat1-10-toplama.mp4",
+    "poster": "/videolar/mat1-10-toplama.jpg"
+  },
+  {
+    "id": "mat1-11-dogruda-toplama",
+    "baslik": "Sayı Doğrusunda Toplama",
+    "konu": "Toplama",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 27,
+    "src": "/videolar/mat1-11-dogruda-toplama.mp4",
+    "poster": "/videolar/mat1-11-dogruda-toplama.jpg"
+  },
+  {
+    "id": "mat1-12-onu-bulalim",
+    "baslik": "10'u Bulalım",
+    "konu": "Toplama",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 25,
+    "src": "/videolar/mat1-12-onu-bulalim.mp4",
+    "poster": "/videolar/mat1-12-onu-bulalim.jpg"
+  },
+  {
+    "id": "mat1-13-yirmiye-toplama",
+    "baslik": "20'ye Kadar Toplama",
+    "konu": "Toplama",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 32,
+    "src": "/videolar/mat1-13-yirmiye-toplama.mp4",
+    "poster": "/videolar/mat1-13-yirmiye-toplama.jpg"
+  },
+  {
+    "id": "mat1-14-cikarma",
+    "baslik": "Çıkarma",
+    "konu": "Çıkarma",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 26,
+    "src": "/videolar/mat1-14-cikarma.mp4",
+    "poster": "/videolar/mat1-14-cikarma.jpg"
+  },
+  {
+    "id": "mat1-15-dogruda-cikarma",
+    "baslik": "Sayı Doğrusunda Çıkarma",
+    "konu": "Çıkarma",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 27,
+    "src": "/videolar/mat1-15-dogruda-cikarma.mp4",
+    "poster": "/videolar/mat1-15-dogruda-cikarma.jpg"
+  },
+  {
+    "id": "mat1-16-sifir",
+    "baslik": "Sıfırla Toplama ve Çıkarma",
+    "konu": "Toplama ve Çıkarma",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 31,
+    "src": "/videolar/mat1-16-sifir.mp4",
+    "poster": "/videolar/mat1-16-sifir.jpg"
+  },
+  {
+    "id": "mat1-17-eksik-sayi",
+    "baslik": "Eksik Sayıyı Bul",
+    "konu": "Toplama",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 30,
+    "src": "/videolar/mat1-17-eksik-sayi.mp4",
+    "poster": "/videolar/mat1-17-eksik-sayi.jpg"
+  },
+  {
+    "id": "mat1-18-problem",
+    "baslik": "Toplama Problemi",
+    "konu": "Problemler",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 29,
+    "src": "/videolar/mat1-18-problem.mp4",
+    "poster": "/videolar/mat1-18-problem.jpg"
+  },
+  {
+    "id": "mat1-19-sekiller",
+    "baslik": "Geometrik Şekiller",
+    "konu": "Geometri",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 29,
+    "src": "/videolar/mat1-19-sekiller.mp4",
+    "poster": "/videolar/mat1-19-sekiller.jpg"
+  },
+  {
+    "id": "mat1-20-konum",
+    "baslik": "Nerede?",
+    "konu": "Geometri",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 26,
+    "src": "/videolar/mat1-20-konum.mp4",
+    "poster": "/videolar/mat1-20-konum.jpg"
+  },
+  {
+    "id": "mat1-21-uzun-kisa",
+    "baslik": "Uzun mu Kısa mı?",
+    "konu": "Ölçme",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 31,
+    "src": "/videolar/mat1-21-uzun-kisa.mp4",
+    "poster": "/videolar/mat1-21-uzun-kisa.jpg"
+  },
+  {
+    "id": "mat1-22-agir-hafif",
+    "baslik": "Ağır mı Hafif mi?",
+    "konu": "Ölçme",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 31,
+    "src": "/videolar/mat1-22-agir-hafif.mp4",
+    "poster": "/videolar/mat1-22-agir-hafif.jpg"
+  },
+  {
+    "id": "mat1-23-dolu-bos",
+    "baslik": "Dolu mu Boş mu?",
+    "konu": "Ölçme",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 25,
+    "src": "/videolar/mat1-23-dolu-bos.mp4",
+    "poster": "/videolar/mat1-23-dolu-bos.jpg"
+  },
+  {
+    "id": "mat1-24-gun-zamanlari",
+    "baslik": "Günün Zamanları",
+    "konu": "Zaman",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 29,
+    "src": "/videolar/mat1-24-gun-zamanlari.mp4",
+    "poster": "/videolar/mat1-24-gun-zamanlari.jpg"
+  },
+  {
+    "id": "mat1-25-saat",
+    "baslik": "Tam Saat",
+    "konu": "Zaman",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 31,
+    "src": "/videolar/mat1-25-saat.mp4",
+    "poster": "/videolar/mat1-25-saat.jpg"
+  },
+  {
+    "id": "mat1-26-para",
+    "baslik": "Paralarımız",
+    "konu": "Paralarımız",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 21,
+    "src": "/videolar/mat1-26-para.mp4",
+    "poster": "/videolar/mat1-26-para.jpg"
+  },
+  {
+    "id": "mat1-27-butun-yarim",
+    "baslik": "Bütün ve Yarım",
+    "konu": "Kesirler",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 20,
+    "src": "/videolar/mat1-27-butun-yarim.mp4",
+    "poster": "/videolar/mat1-27-butun-yarim.jpg"
+  },
+  {
+    "id": "mat1-28-grafik",
+    "baslik": "Nesne Grafiği",
+    "konu": "Veri",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 18,
+    "src": "/videolar/mat1-28-grafik.mp4",
+    "poster": "/videolar/mat1-28-grafik.jpg"
+  },
+  {
+    "id": "mat1-29-toplama-cikarma",
+    "baslik": "Toplama ve Çıkarma",
+    "konu": "Toplama ve Çıkarma",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 25,
+    "src": "/videolar/mat1-29-toplama-cikarma.mp4",
+    "poster": "/videolar/mat1-29-toplama-cikarma.jpg"
+  },
+  {
+    "id": "mat1-30-tekrar",
+    "baslik": "Sayıları Tekrar Edelim",
+    "konu": "Sayılar",
+    "sinif": 1,
+    "ders": "Matematik",
+    "sure": 26,
+    "src": "/videolar/mat1-30-tekrar.mp4",
+    "poster": "/videolar/mat1-30-tekrar.jpg"
   }
 ];

@@ -37,6 +37,29 @@ def font(size, bold=True):
         _fcache[k] = ImageFont.truetype(_fyol[bold], k[0])
     return _fcache[k]
 
+EMOJI_FONT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'fonts', 'NotoColorEmoji.ttf')
+_ecache, _eboyut = {}, {}
+def emoji_img(ch):
+    ch = ch.replace('\ufe0f', '')
+    if ch not in _ecache:
+        f = ImageFont.truetype(EMOJI_FONT, 109)
+        im = Image.new('RGBA', (220, 220), (0, 0, 0, 0))
+        ImageDraw.Draw(im).text((10, 10), ch, font=f, embedded_color=True)
+        bb = im.getbbox()
+        _ecache[ch] = im.crop(bb) if bb else im
+    return _ecache[ch]
+
+def emoji(T, ch, x, y, size, a=1.0):
+    if a <= 0 or size < 2: return
+    src = emoji_img(ch); k = (ch, int(size * SS))
+    if k not in _eboyut:
+        w, h = src.size; sc = size * SS / max(w, h)
+        _eboyut[k] = src.resize((max(1, int(w * sc)), max(1, int(h * sc))), Image.LANCZOS)
+    im = _eboyut[k]
+    if a < 1:
+        im = im.copy(); al = im.getchannel('A').point(lambda v: int(v * a)); im.putalpha(al)
+    T.im.paste(im, (int(x * SS - im.width / 2), int(y * SS - im.height / 2)), im)
+
 BG = (255, 248, 236); INK = (44, 44, 42); MUTED = (120, 118, 110); LINE = (211, 209, 199)
 WHITE = (255, 255, 255); ACC = (59, 109, 17); HL = (151, 196, 89)
 RENK = {
@@ -57,7 +80,7 @@ def fade(c, a):
     return lerp(BG, c, a)
 
 class Tuval:
-    def __init__(s, im): s.d = ImageDraw.Draw(im)
+    def __init__(s, im): s.im = im; s.d = ImageDraw.Draw(im)
     @staticmethod
     def k(v): return v * SS
     def rect(s, x0, y0, x1, y1, fill=None, outline=None, w=0, r=0):
@@ -122,8 +145,10 @@ def nesne(T, tur, x, y, r, a=1.0, renk=None):
         cizim_sekil(T, 'yildiz', x, y, r * 1.1, renk or RENK['sari'], a)
     elif tur == 'kup':
         T.rect(x - r, y - r, x + r, y + r, fade(renk or RENK['mavi'], a), fade(WHITE, a), 1.5, r=2)
-    else:
+    elif tur == 'nokta':
         T.circle(x, y, r, fade(renk or RENK['turkuaz'], a))
+    else:
+        emoji(T, tur, x, y, r * 2.3, a)
 
 def izgara(n, sutun, x0, y0, x1, y1, max_hucre=90):
     satir = max(1, math.ceil(n / sutun))
@@ -156,6 +181,63 @@ def ifade_ciz(T, x, y, parcalar, size, a, renkler=None):
         cx += o[3] + bosluk
 
 # ---------- sahne tipleri ----------
+def kelime_zamanlari(p, D):
+    """[(bas_idx, bit_idx, t_bas, t_bit)] — anlatımdaki her kelimenin konumu ve söylendiği an.
+    Microsoft sesinden gelen gerçek zamanlar (_zaman) varsa onlar, yoksa harf oranı kullanılır."""
+    k = ('_kz', round(D, 3))
+    if k in p: return p[k]
+    metin = p.get('anlatim', ''); out = []
+    if p.get('_zaman'):
+        imlec = 0
+        for off, dur, txt in p['_zaman']:
+            j = metin.find(txt, imlec)
+            if j < 0: continue
+            out.append((j, j + len(txt), SES_ONCE + off, SES_ONCE + off + max(dur, 0.05))); imlec = j + len(txt)
+    if not out and metin:
+        sesli = max(0.5, D - SES_ONCE - SES_SONRA); L = len(metin)
+        for m in re.finditer(r'\S+', metin):
+            out.append((m.start(), m.end(), SES_ONCE + sesli * m.start() / L, SES_ONCE + sesli * m.end() / L))
+    p[k] = out
+    return out
+
+def zaman_at(p, D, idx):
+    kz = kelime_zamanlari(p, D)
+    if not kz: return None
+    onceki = kz[0]
+    for w in kz:
+        if w[0] > idx: break
+        onceki = w
+    b, e, tb, te = onceki
+    if idx >= e: return te
+    return tb + (te - tb) * max(0, idx - b) / max(1, e - b)
+
+def sayim_zamanlari(p, D, n):
+    """p['sayim'] = [ilk_kelime, son_kelime] aralığındaki sayılar söylendikçe n öğenin görüneceği anlar."""
+    metin = p.get('anlatim', ''); ilk, son = p['sayim']
+    i0 = metin.find(ilk); i1 = metin.rfind(son)
+    if i0 < 0 or i1 < 0: return None
+    i1 += len(son)
+    W = [w for w in kelime_zamanlari(p, D) if w[1] > i0 and w[0] < i1 and re.search(r'\w', metin[w[0]:w[1]])]
+    if not W: return None
+    if len(W) == n: return [w[2] for w in W]
+    out = []
+    for j in range(n):
+        f = j * len(W) / n; w = W[int(f)]
+        out.append(w[2] + (f - int(f)) * (w[3] - w[2]))
+    return out
+
+def an(p, D, parca, varsayilan, son=True):
+    """Anlatımda 'parca'nın söylenmeye başladığı an (yoksa varsayılan)."""
+    metin = p.get('anlatim', '')
+    i = metin.rfind(str(parca)) if son else metin.find(str(parca))
+    if i < 0 or not metin: return varsayilan
+    z = zaman_at(p, D, i)
+    return varsayilan if z is None else z
+
+def an_ilk(p, D, parcalar, varsayilan):
+    ts = [an(p, D, x, None, son=False) for x in parcalar]; ts = [x for x in ts if x is not None]
+    return min(ts) if ts else varsayilan
+
 def s_baslik(T, p, t, D):
     a = A(t, 0.1, 0.6)
     T.text(640, 290 - 20 * (1 - a), p['baslik'], 64, fade(INK, a))
@@ -218,17 +300,20 @@ def s_kesir(T, p, t, D):
 
 def s_nesne_say(T, p, t, D):
     n = p['sayi']; tur = p.get('nesne', 'elma'); duzen = p.get('duzen', 'onluk')
-    sure = min(D * 0.55, max(1.0, n * 0.22)); adim = sure / n
+    sure = min(D * 0.55, max(1.0, n * 0.22)); adim = sure / n; bas0 = 0.3
+    zl = sayim_zamanlari(p, D, n) if p.get('sayim') else None
+    if zl: bas0 = zl[0]; sure = max(0.3, zl[-1] - zl[0] + 0.3); adim = sure / n
+    else: zl = [bas0 + i * adim for i in range(n)]
     if duzen == 'cift':
         sut = math.ceil(n / 2); hucre = min(640 / sut, 150, 110)
         gx = 420 - hucre * sut / 2
         pos = [(gx + hucre * (i // 2) + hucre / 2, 270 + (i % 2) * hucre) for i in range(n)]
     else:
-        pos, hucre = izgara(n, 10 if duzen == 'onluk' else p.get('sutun', 5), 60, 110, 780, 560)
+        pos, hucre = izgara(n, 10 if duzen == 'onluk' else p.get('sutun', 5), 60, 110, 780, 560, 90 if duzen == 'onluk' else 150)
     r = hucre * 0.36
     gorunen = 0
     for i, (x, y) in enumerate(pos):
-        a = A(t, 0.3 + i * adim, 0.3)
+        a = A(t, zl[i], 0.25 if adim > 0.3 else max(0.05, adim * 0.9))
         if a > 0: gorunen = i + 1
         nesne(T, tur, x, y, r, a)
     if duzen == 'onluk' and n >= 10:
@@ -241,11 +326,11 @@ def s_nesne_say(T, p, t, D):
             if gorunen >= 2 * j + 2:
                 x = pos[2 * j][0]
                 T.rect(x - hucre * 0.46, 270 - hucre * 0.48, x + hucre * 0.46, 270 + hucre * 1.48, None, ACC, 3, r=14)
-        if n % 2 and A(t, 0.3 + sure + 0.3) > 0:
-            x, y = pos[-1]; T.circle(x, y, r * 1.35, None, fade(RENK['kirmizi'], A(t, 0.3 + sure + 0.3)), 4)
+        if n % 2 and A(t, bas0 + sure + 0.3) > 0:
+            x, y = pos[-1]; T.circle(x, y, r * 1.35, None, fade(RENK['kirmizi'], A(t, bas0 + sure + 0.3)), 4)
     T.text(1010, 300, gorunen, 110, INK)
-    if p.get('etiket'): T.text(1010, 400, p['etiket'], 34, fade(MUTED, A(t, 0.3 + sure)), bold=False)
-    if p.get('sonuc'): T.text(1010, 470, p['sonuc'], 48, fade(ACC, A(t, 0.6 + sure)))
+    if p.get('etiket'): T.text(1010, 400, p['etiket'], 34, fade(MUTED, A(t, bas0 + sure)), bold=False)
+    if p.get('sonuc'): T.text(1010, 470, p['sonuc'], 48, fade(ACC, A(t, bas0 + sure + 0.3)))
 
 def blok_ciz(T, onluk, birlik, x, renk, t, bas, adim, kup=24, yuzluk=0):
     """sol alt yerleşimli yüzlük tabakalar + onluk çubuklar + birlikler; döndürür: (sağ x, sonraki zaman)"""
@@ -327,8 +412,14 @@ def s_sayi_dogrusu(T, p, t, D):
         v += adim
     hops = p.get('atlamalar', [])
     hs = p.get('atlama_zaman', 0.6); hd = min(0.9, (D * 0.6) / max(len(hops), 1))
+    hz = None
+    if p.get('sayim') and hops:
+        zl = sayim_zamanlari(p, D, len(hops))
+        if zl:
+            hd = max(0.25, min(0.6, (zl[-1] - zl[0]) / (len(hops) - 1))) if len(hops) > 1 else 0.5
+            hz = [z - hd * 0.8 for z in zl]; hs = hz[0]
     for k, (f, to) in enumerate(hops):
-        pr = ease((t - hs - k * hd) / (hd * 0.85))
+        pr = ease((t - (hz[k] if hz else hs + k * hd)) / (hd * 0.85))
         if pr <= 0: break
         xa, xb = X(f), X(to); hgt = min(110, abs(xb - xa) * 0.6 + 25)
         m = max(2, int(24 * pr))
@@ -340,7 +431,7 @@ def s_sayi_dogrusu(T, p, t, D):
             d = to - f
             T.text((xa + xb) / 2, y - hgt - 28, ('+' if d > 0 else '−') + str(abs(d)), 24 if abs(xb - xa) > 45 else 18, renk)
     if p.get('ifade'):
-        T.text(640, 175, p['ifade'], 54, fade(ACC, A(t, hs + len(hops) * hd + 0.2, 0.6)))
+        T.text(640, 175, p['ifade'], 54, fade(ACC, A(t, (hz[-1] + hd) if hz else hs + len(hops) * hd + 0.2, 0.6)))
 
 def kutu_nesneler(T, n, tur, renkler, x0, y0, x1, y1, t, bas, adim, max_h=62, sutun=5):
     pos, h = izgara(n, min(sutun, max(n, 1)), x0 + 10, y0 + 10, x1 - 10, y1 - 10, max_h)
@@ -358,10 +449,12 @@ def s_toplama(T, p, t, D):
     z = kutu_nesneler(T, a_, tur, r1, 50, 150, 300, 440, t, 0.3, adim, sutun=3 if a_ <= 9 else 4)
     z = kutu_nesneler(T, b_, tur, r2, 400, 150, 650, 440, t, z + 0.2, adim, sutun=3 if b_ <= 9 else 4)
     z += 0.5
+    zs = an(p, D, c_, None)
+    if zs is not None: z = max(z, zs - 0.6 - c_ * adim * 0.6)
     T.text(350, 295, '+', 64, fade(INK, A(t, 0.5))); T.text(725, 295, '=', 64, fade(INK, A(t, z)))
     kutu_nesneler(T, c_, tur, [r1] * a_ + [r2] * b_, 800, 150, 1230, 440, t, z, adim * 0.6, sutun=5)
     T.text(175, 500, a_, 54, fade(INK, A(t, 0.3))); T.text(525, 500, b_, 54, fade(INK, A(t, 0.5 + a_ * adim)))
-    T.text(1015, 500, c_, 60, fade(ACC, A(t, z + c_ * adim * 0.6)))
+    T.text(1015, 500, c_, 60, fade(ACC, A(t, max(z + c_ * adim * 0.6, zs if zs is not None else 0))))
 
 def s_cikarma(T, p, t, D):
     a_, b_ = p['a'], p['b']; tur = p.get('nesne', 'elma')
@@ -377,6 +470,7 @@ def s_cikarma(T, p, t, D):
             L = h * 0.32 * a
             T.line([(x - L, y - L), (x + L, y + L)], RENK['kirmizi'], 6); T.line([(x - L, y + L), (x + L, y - L)], RENK['kirmizi'], 6)
     son = bas + b_ * adim2 + 0.3
+    son = max(son, an(p, D, a_ - b_, 0))
     ifade_ciz(T, 980, 330, [a_, '−', b_, '=', a_ - b_], 62, A(t, son), [None, None, None, None, ACC])
 
 def s_dizi(T, p, t, D):
@@ -395,6 +489,7 @@ def s_dizi(T, p, t, D):
         if i: parca.append('+')
         parca.append(c)
     son = 0.3 + r * adim + 0.3
+    son = max(son, an(p, D, r * c, 0) - 0.6)
     if gor: 
         if A(t, son) > 0: parca += ['=', r * c]
         ifade_ciz(T, 640, 480, parca, 44, 1.0)
@@ -431,7 +526,7 @@ def s_paylastirma(T, p, t, D):
             T.text(yig[n - 1][0] + h * 0.6, yig[n - 1][1], 'kalan', 28, fade(RENK['kirmizi'], ra), anchor='lm')
         for g in range(k):
             x0, _, x1, _ = kut[g]; T.text((x0 + x1) / 2, 545, q, 36, fade(ACC, A(t, son)))
-        T.text(640, 285 if r else 150, sonuc, 44 if r else 54, fade(ACC, A(t, son + 0.5)))
+        T.text(640, 285 if r else 150, sonuc, 44 if r else 54, fade(ACC, A(t, max(son + 0.5, an(p, D, q, 0)))))
     else:
         sut = k * max(1, min(n, 12) // k)
         pos, h = izgara(n, sut, 80, 160, 1200, 460, 90)
@@ -448,7 +543,7 @@ def s_paylastirma(T, p, t, D):
             ra = A(t, son - 0.2, 0.4)
             for i in range(q * k, n):
                 x, y = pos[i]; T.circle(x, y, h * 0.48, None, fade(RENK['kirmizi'], ra), 4)
-        T.text(640, 545, sonuc, 50, fade(ACC, A(t, son)))
+        T.text(640, 545, sonuc, 50, fade(ACC, A(t, max(son, an(p, D, q, 0)))))
 
 def s_saat(T, p, t, D):
     cx, cy, R = 400, 330, 205
@@ -528,6 +623,8 @@ def s_sekil(T, p, t, D):
         T.text(960, 240 + j * 75, s, 44, fade(INK if j else ACC, A(t, z)))
 
 def token_ciz(T, tok, x, y, s, a):
+    if isinstance(tok, str) and tok and ord(tok[0]) > 0x2000 and not tok[0].isalpha():
+        emoji(T, tok, x, y, s * 0.72, a); return
     if isinstance(tok, (int, float)) or '-' not in str(tok):
         L = len(str(tok)); T.text(x, y, tok, s * {1: 0.72, 2: 0.52, 3: 0.38}.get(L, 0.3), fade(INK, a))
     else:
@@ -536,9 +633,22 @@ def token_ciz(T, tok, x, y, s, a):
 def s_oruntu(T, p, t, D):
     d = p['dizi']; eksik = set(p.get('eksik', [])); n = len(d)
     gen = min(150, 1160 / n); s = gen - 16; x0 = 640 - gen * n / 2 + gen / 2
-    cevap_a = A(t, p.get('cevap_zaman', D * 0.62), 0.5)
+    cz = p.get('cevap_zaman') or an_ilk(p, D, ['Sıradaki', 'sıradaki', 'Boş kutuya', 'Boşluklara', 'Boş yere', 'boşluklara'], D * 0.62)
+    cevap_a = A(t, cz, 0.5)
+    # sayılar anlatımda söylendikçe belirsin
+    gz = []; imlec = 0; metin = p.get('anlatim', '')
     for i, tok in enumerate(d):
-        a = A(t, 0.3 + i * 0.3, 0.3); x = x0 + i * gen
+        z = None
+        if isinstance(tok, int) and i not in eksik:
+            k = metin.find(str(tok), imlec)
+            if k >= 0: z = zaman_at(p, D, k); imlec = k + len(str(tok))
+        gz.append(z)
+    onceki = 0.0
+    for i in range(n):
+        if gz[i] is None: gz[i] = (onceki + 0.3) if i else 0.3
+        onceki = gz[i]
+    for i, tok in enumerate(d):
+        a = A(t, gz[i], 0.3); x = x0 + i * gen
         if a <= 0: continue
         ek = i in eksik
         T.rect(x - s / 2, 330 - s / 2, x + s / 2, 330 + s / 2, fade(WHITE, a), fade(ACC if ek and cevap_a > 0 else LINE, a), 3 if ek else 2, r=14)
@@ -556,6 +666,8 @@ def s_karsilastirma(T, p, t, D):
         T.text(x, 540 - h - 55, v, 76, INK)
     T.line([(180, 540), (1100, 540)], LINE, 3)
     isr = '<' if a_ < b_ else '>' if a_ > b_ else '='
+    iz = an_ilk(p, D, ['daha büyük', 'daha küçük', 'büyüktür', 'küçüktür', 'fazladır', 'eşittir', 'eşit'], p.get('isaret_zaman', 1.8))
+    p = dict(p, isaret_zaman=iz)
     a = A(t, p.get('isaret_zaman', 1.8), 0.5)
     if a > 0:
         T.circle(640, 360, 70 * a, (234, 243, 222), ACC, 3); T.text(640, 356, isr, 90 * a, ACC)
@@ -779,12 +891,129 @@ def s_sekil_grafigi(T, p, t, D):
     if p.get('anahtar'): T.text(640, 560, p['anahtar'], 30, fade(ACC, A(t, 0.3 + n * 0.6)))
     if p.get('baslik'): T.text(640, 92, p['baslik'], 30, fade(MUTED, A(t, 0.2)), bold=False)
 
+def s_kelime(T, p, t, D):
+    a = A(t, 0.2, 0.5)
+    if p.get('adet') and p.get('emoji'):
+        n = p['adet']; pos, h = izgara(n, min(n, 5), 80, 140, 640, 520, 110)
+        for i, (x, y) in enumerate(pos): emoji(T, p['emoji'], x, y, h * 0.8, A(t, 0.2 + i * 0.08, 0.3))
+    elif p.get('emoji'): emoji(T, p['emoji'], 360, 320, 300 * (0.7 + 0.3 * a), a)
+    elif p.get('sol_yazi'): T.text(360, 320, p['sol_yazi'], 200, fade(RENK['mavi'], a))
+    T.text(900, 270, p['buyuk'], 84 if len(p['buyuk']) < 10 else 60, fade(ACC, A(t, 0.5)))
+    if p.get('kucuk'): T.text(900, 370, p['kucuk'], 44, fade(MUTED, A(t, p.get('kucuk_zaman', 1.2))), bold=False)
+    if p.get('not'): T.text(900, 450, p['not'], 30, fade(INK, A(t, 1.8)), bold=False)
+
+def s_kelimeler(T, p, t, D):
+    it = p['ogeler']; n = len(it); sut = min(p.get('sutun', 4), n); sat = math.ceil(n / sut)
+    cw = 1100 / sut; ch = min(210, 430 / sat); adim = min(0.7, D * 0.6 / n)
+    y0 = 330 - ch * (sat - 1) / 2
+    for i, o in enumerate(it):
+        satirdaki = min(sut, n - (i // sut) * sut)
+        x = 640 + (i % sut - (satirdaki - 1) / 2) * cw; y = y0 + ch * (i // sut); a = A(t, 0.3 + i * adim, 0.4)
+        emoji(T, o[0], x, y - ch * 0.14, ch * 0.5 * (0.7 + 0.3 * a), a)
+        T.text(x, y + ch * 0.28, o[1], 34 if len(o[1]) < 11 else 26, fade(ACC, a))
+        if len(o) > 2 and o[2]: T.text(x, y + ch * 0.28 + 32, o[2], 22, fade(MUTED, a), bold=False)
+
+def ok_ciz(T, x0, x1, y, renk, cift=True):
+    T.line([(x0, y), (x1, y)], renk, 6)
+    T.poly([(x1 + 4, y), (x1 - 18, y - 14), (x1 - 18, y + 14)], renk)
+    if cift: T.poly([(x0 - 4, y), (x0 + 18, y - 14), (x0 + 18, y + 14)], renk)
+
+def s_kelime_ciftleri(T, p, t, D):
+    pr = p['ciftler']; n = len(pr); rh = min(110, 420 / n); y0 = 330 - rh * (n - 1) / 2; tip = p.get('bag', 'es')
+    adim = min(1.2, D * 0.6 / n)
+    for i, c in enumerate(pr):
+        y = y0 + i * rh; a = A(t, 0.3 + i * adim, 0.4); b = A(t, 0.3 + i * adim + 0.5, 0.4)
+        for (x0, x1, txt, em, aa) in [(150, 540, c[0], c[2] if len(c) > 2 else None, a), (740, 1130, c[1], c[3] if len(c) > 3 else None, b)]:
+            T.rect(x0, y - rh * 0.4, x1, y + rh * 0.4, fade(WHITE, aa), fade(LINE, aa), 2, r=16)
+            tx = (x0 + x1) / 2; alan = (x1 - x0) - 30
+            if em: emoji(T, em, x0 + rh * 0.45, y, rh * 0.55, aa); tx += rh * 0.25; alan -= rh * 0.5
+            fs = min(40, rh * 0.38); w0 = T.width(txt, fs)
+            if w0 > alan: fs = fs * alan / w0
+            T.text(tx, y, txt, fs, fade(INK, aa))
+        if b > 0:
+            if tip == 'es': T.text(640, y, '=', 56, fade(ACC, b))
+            else: ok_ciz(T, 580, 700, y, fade(RENK['turuncu'], b))
+    if p.get('baslik'): T.text(640, 92, p['baslik'], 30, fade(MUTED, A(t, 0.1)), bold=False)
+
+def s_hece(T, p, t, D):
+    kelime = p['kelime']; hc = p['heceler']; n = len(hc)
+    if p.get('emoji'): emoji(T, p['emoji'], 640, 150, 130, A(t, 0.1))
+    ya = 1 - A(t, 0.8, 0.3)
+    if ya > 0: T.text(640, 320, kelime, 90, fade(INK, ya))
+    size = 76 if n <= 3 else 60; gen = [T.width(h, size) + 50 for h in hc]; top = sum(gen) + 20 * (n - 1)
+    x = 640 - top / 2; adim = min(0.7, max(0.2, (D - 1.8) / (n + 1)))
+    metin = p.get('anlatim', '').lower(); zam = []
+    kalip = ', '.join(hc).lower(); k = metin.find(kalip)
+    if k >= 0:
+        ofs = 0
+        for h in hc:
+            zam.append(zaman_at(p, D, k + ofs) or 1.0); ofs += len(h) + 2
+    else:
+        w = metin.find(kelime.lower()); t0 = zaman_at(p, D, w) if w >= 0 else 1.0
+        zam = [max(0.8, (t0 or 1.0) - 0.4) + i * adim for i in range(n)]
+    for i in range(1, n): zam[i] = max(zam[i], zam[i - 1] + 0.15)
+    for i, (h, w) in enumerate(zip(hc, gen)):
+        a = A(t, zam[i], 0.3)
+        if a > 0:
+            rk = [RENK['turuncu'], RENK['mavi'], RENK['mor'], RENK['turkuaz'], RENK['pembe']][i % 5]
+            yy = 320 - 20 * (1 - a)
+            T.rect(x, yy - 60, x + w, yy + 60, fade(lerp(WHITE, rk, 0.18), a), fade(rk, a), 3, r=18)
+            T.text(x + w / 2, yy, h, size, fade(rk, a))
+        x += w + 20
+    T.text(640, 470, p.get('etiket', f'{n} hece'), 44, fade(ACC, A(t, zam[-1] + 0.4)))
+
+def s_cumle(T, p, t, D):
+    tok = p['parcalar']; vg = {int(k): v for k, v in p.get('vurgu', {}).items()}; size = p.get('boyut', 50)
+    ws = [T.width(k, size) for k in tok]; sp = size * (0.55 if vg else 0.35)
+    satirlar, cur, cw = [], [], 0
+    for i, w in enumerate(ws):
+        if cur and cw + sp + w > 1100: satirlar.append(cur); cur, cw = [], 0
+        cur.append(i); cw += (sp if cw else 0) + w
+    satirlar.append(cur)
+    y0 = 300 - (len(satirlar) - 1) * 70
+    vz = p.get('vurgu_zaman', 1.2)
+    for si, sat in enumerate(satirlar):
+        tw = sum(ws[i] for i in sat) + sp * (len(sat) - 1); x = 640 - tw / 2; y = y0 + si * 140
+        for i in sat:
+            a = A(t, 0.3 + i * 0.12, 0.3)
+            if i in vg:
+                b = A(t, vz + list(vg).index(i) * 0.6, 0.4)
+                rk = RENK.get(p.get('renk', 'turuncu'), RENK['turuncu'])
+                if b > 0:
+                    T.rect(x - 10, y - size * 0.7, x + ws[i] + 10, y + size * 0.7, lerp(BG, lerp(WHITE, rk, 0.25), b), fade(rk, b), 3, r=12)
+                    if vg[i]: T.text(x + ws[i] / 2, y + size * 0.7 + 26, vg[i], 24, fade(rk, b), bold=False)
+            T.text(x + ws[i] / 2, y, tok[i], size, fade(INK, a))
+            x += ws[i] + sp
+
+def s_konum(T, p, t, D):
+    il = p['iliski']; ref, ana = p['ref'], p['ana']; a = A(t, 0.2, 0.4); b = A(t, 0.7, 0.4)
+    cx, cy = 450, 340
+    off = {'ustunde': (0, -175, 150), 'altinda': (0, 150, 150), 'saginda': (200, 0, 150), 'solunda': (-200, 0, 150),
+           'yaninda': (200, 0, 150), 'onunde': (40, 70, 190), 'arkasinda': (-40, -70, 130), 'icinde': (0, 20, 110)}[il]
+    if il == 'arkasinda': emoji(T, ana, cx + off[0], cy + off[1], off[2], b)
+    emoji(T, ref, cx, cy, 230, a)
+    if il != 'arkasinda': emoji(T, ana, cx + off[0], cy + off[1], off[2], b)
+    T.text(980, 300, p['etiket'], 52, fade(ACC, A(t, 1.1)))
+    if p.get('alt'): T.text(980, 380, p['alt'], 30, fade(MUTED, A(t, 1.4)), bold=False)
+
+def s_harfler(T, p, t, D):
+    hs = p['harfler']; vg = set(p.get('vurgu', [])); n = len(hs); sut = min(p.get('sutun', 8), n); sat = math.ceil(n / sut)
+    cw = min(120, 1100 / sut); ch = min(100, 430 / sat); x0 = 640 - cw * sut / 2 + cw / 2; y0 = 330 - ch * (sat - 1) / 2
+    vz = p.get('vurgu_zaman', 0.6 + n * 0.05 + 0.4)
+    for i, h in enumerate(hs):
+        x = x0 + cw * (i % sut); y = y0 + ch * (i // sut); a = A(t, 0.3 + i * 0.05, 0.3); b = A(t, vz, 0.5) if i in vg else 0
+        fill = lerp(WHITE, (250, 199, 117), b)
+        T.rect(x - cw * 0.42, y - ch * 0.42, x + cw * 0.42, y + ch * 0.42, fade(fill, a), fade(LINE if not b else RENK['turuncu'], a), 2, r=12)
+        T.text(x, y, h, min(56, ch * 0.55), fade(INK, a))
+    if p.get('bilgi'): T.text(640, 560, p['bilgi'], 34, fade(ACC, A(t, vz + 0.4)))
+
 TIPLER = {'baslik': s_baslik, 'metin': s_metin, 'kesir': s_kesir, 'nesne_say': s_nesne_say, 'onluk_birlik': s_onluk_birlik,
           'sayi_dogrusu': s_sayi_dogrusu, 'toplama': s_toplama, 'cikarma': s_cikarma, 'dizi': s_dizi, 'paylastirma': s_paylastirma,
           'saat': s_saat, 'sekil': s_sekil, 'oruntu': s_oruntu, 'karsilastirma': s_karsilastirma, 'para': s_para,
           'uzunluk': s_uzunluk, 'grafik': s_grafik, 'alt_alta': s_alt_alta,
           'alan_cevre': s_alan_cevre, 'aci': s_aci, 'kesir_seritleri': s_kesir_seritleri, 'kap': s_kap, 'terazi': s_terazi,
-          'sekil_grafigi': s_sekil_grafigi}
+          'sekil_grafigi': s_sekil_grafigi, 'kelime': s_kelime, 'kelimeler': s_kelimeler, 'kelime_ciftleri': s_kelime_ciftleri,
+          'hece': s_hece, 'cumle': s_cumle, 'konum': s_konum, 'harfler': s_harfler}
 
 # ---------- çerçeve ----------
 def altyazi(T, metin, a):
@@ -815,27 +1044,62 @@ def kare(video, k, sahne, t, D):
     return im.reduce(SS)
 
 # ---------- ses ----------
-def ses_bul():
+def ses_bul(dil='tr_TR', tercih=()):
     try: out = subprocess.run(['say', '-v', '?'], capture_output=True, text=True).stdout
     except FileNotFoundError: return None
     adaylar = []
     for line in out.splitlines():
-        m = re.match(r'^(.*?)\s+tr[_-]TR', line)
+        m = re.match(r'^(.*?)\s+' + dil.replace('_', '[_-]'), line)
         if m: adaylar.append(m.group(1).strip())
     if not adaylar: return None
+    for t in tercih:
+        for a in adaylar:
+            if a.startswith(t): return a
     for anahtar in ('Premium', 'Enhanced', 'Gelişmiş', 'İyileştirilmiş'):
         for a in adaylar:
             if anahtar.lower() in a.lower(): return a
     return adaylar[0]
 
+def edge_seslendir(metin, voice, mp3):
+    import asyncio, edge_tts
+    async def calis():
+        try: c = edge_tts.Communicate(metin, voice, rate='-5%', boundary='WordBoundary')
+        except TypeError: c = edge_tts.Communicate(metin, voice, rate='-5%')
+        kel = []
+        with open(mp3, 'wb') as f:
+            async for ch in c.stream():
+                if ch['type'] == 'audio': f.write(ch['data'])
+                elif ch['type'] == 'WordBoundary': kel.append((ch['offset'] / 1e7, ch['duration'] / 1e7, ch['text']))
+        return kel
+    for deneme in range(3):
+        try: return asyncio.run(calis())
+        except Exception:
+            if deneme == 2: raise
+
+SON_KELIMELER = None
 def seslendir(metin, ses, yol):
+    global SON_KELIMELER
+    SON_KELIMELER = None
     if ses.startswith('edge:'):
         mp3 = yol[:-4] + '.mp3'
-        subprocess.run(['edge-tts', '--voice', ses[5:], '--rate=-5%', '--text', metin, '--write-media', mp3], check=True, capture_output=True)
+        SON_KELIMELER = edge_seslendir(metin, ses[5:], mp3)
         subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', mp3, '-ar', '22050', '-ac', '1', '-sample_fmt', 's16', yol], check=True)
         with wave.open(yol) as w: return w.getnframes() / w.getframerate()
     subprocess.run(['say', '-v', ses, '-r', str(SES_HIZ), '--file-format=WAVE', '--data-format=LEI16@22050', '-o', yol, metin], check=True)
     with wave.open(yol) as w: return w.getnframes() / w.getframerate()
+
+def seslendir_sahne(sahne, sesler, yol, tmp):
+    parcalar = sahne.get('ses') or [['tr', sahne['anlatim']]]
+    kelimeler = None
+    rate = 22050; veri = b''; bosluk = b'\x00\x00' * int(0.35 * rate)
+    for j, (dil, metin) in enumerate(parcalar):
+        py = os.path.join(tmp, f'p{j}_' + os.path.basename(yol))
+        seslendir(metin, sesler.get(dil) or sesler['tr'], py)
+        if len(parcalar) == 1 and metin == sahne['anlatim']: kelimeler = SON_KELIMELER
+        with wave.open(py) as w: veri += (bosluk if j else b'') + w.readframes(w.getnframes())
+    with wave.open(yol, 'wb') as out:
+        out.setnchannels(1); out.setsampwidth(2); out.setframerate(rate); out.writeframes(veri)
+    return len(veri) / 2 / rate, kelimeler
 
 def ses_birlestir(parcalar, sureler, yol):
     rate = 22050
@@ -869,23 +1133,25 @@ def dogrula(videolar):
 def uret(video, ses, onizleme):
     vid = video['id']; tmp = tempfile.mkdtemp()
     try:
-        parcalar, sureler = [], []
+        parcalar, sureler, sahneler = [], [], []
         for i, s in enumerate(video['sahneler']):
+            s = dict(s)
             if ses:
-                yol = os.path.join(tmp, f's{i}.wav'); parcalar.append(yol); ss = seslendir(s['anlatim'], ses, yol)
+                yol = os.path.join(tmp, f's{i}.wav'); parcalar.append(yol); ss, kel = seslendir_sahne(s, ses, yol, tmp)
+                if kel: s['_zaman'] = kel
             else: parcalar.append(None); ss = None
-            sureler.append(sure_hesapla(s, ss))
+            sureler.append(sure_hesapla(s, ss)); sahneler.append(s)
         if onizleme:
             os.makedirs(ONIZ, exist_ok=True)
             n = len(video['sahneler']); pano = Image.new('RGB', (640 * 2, 360 * math.ceil(n / 2)), BG)
-            for i, s in enumerate(video['sahneler']):
+            for i, s in enumerate(sahneler):
                 pano.paste(kare(video, i, s, sureler[i] - 0.3, sureler[i]).resize((640, 360)), ((i % 2) * 640, (i // 2) * 360))
             pano.save(os.path.join(ONIZ, vid + '.png')); return sum(sureler)
         os.makedirs(CIKTI, exist_ok=True)
         sessiz_mp4 = os.path.join(tmp, 'v.mp4')
         pr = subprocess.Popen(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
                                '-c:v', 'libx264', '-preset', 'medium', '-crf', '23', '-pix_fmt', 'yuv420p', sessiz_mp4], stdin=subprocess.PIPE)
-        for i, s in enumerate(video['sahneler']):
+        for i, s in enumerate(sahneler):
             D = sureler[i]; nk = int(round(D * FPS))
             for f in range(nk):
                 im = kare(video, i, s, f / FPS, D)
@@ -922,8 +1188,10 @@ def main():
     ap.add_argument('--id'); ap.add_argument('--sessiz', action='store_true'); ap.add_argument('--onizleme', action='store_true')
     ap.add_argument('--ses', help='macOS ses adı (varsayılan: otomatik Türkçe)')
     ap.add_argument('--edge', nargs='?', const='tr-TR-EmelNeural', help='Microsoft nöral ses (varsayılan Emel; erkek: tr-TR-AhmetNeural)')
+    ap.add_argument('--edge-en', default='en-US-JennyNeural', help='İngilizce kelimeler için Microsoft sesi')
     ap.add_argument('--eksik', action='store_true', help='sadece henüz üretilmemiş videoları üret')
     ap.add_argument('--sinif', type=int, help='sadece bu sınıfın videoları')
+    ap.add_argument('--ders', help='sadece bu dersin videoları (Matematik, Türkçe, İngilizce)')
     ar = ap.parse_args()
     if not shutil.which('ffmpeg') and not ar.onizleme: sys.exit('ffmpeg bulunamadı: brew install ffmpeg')
     with open(SENARYO, encoding='utf-8') as f: videolar = json.load(f)['videolar']
@@ -932,12 +1200,13 @@ def main():
     if not ar.sessiz and not ar.onizleme:
         if ar.edge:
             if not shutil.which('edge-tts'): sys.exit('edge-tts bulunamadı')
-            ses = 'edge:' + ar.edge
+            ses = {'tr': 'edge:' + ar.edge, 'en': 'edge:' + ar.edge_en}
         else:
-            ses = ar.ses or ses_bul()
+            tr = ar.ses or ses_bul()
+            ses = {'tr': tr, 'en': ses_bul('en_US', ('Samantha',)) or tr} if tr else None
         if not ses: sys.exit('Türkçe ses bulunamadı. Ses olmadan üretmek için --sessiz kullan.')
-        print('Ses:', ses)
-    secili = [v for v in videolar if (not ar.id or v['id'].startswith(ar.id)) and (not ar.sinif or v.get('sinif') == ar.sinif)]
+        print('Ses:', ses['tr'], '| İngilizce:', ses['en'])
+    secili = [v for v in videolar if (not ar.id or v['id'].startswith(ar.id)) and (not ar.sinif or v.get('sinif') == ar.sinif) and (not ar.ders or v.get('ders', 'Matematik') == ar.ders)]
     if ar.eksik: secili = [v for v in secili if not os.path.exists(os.path.join(CIKTI, v['id'] + '.mp4'))]
     if not secili: sys.exit('Üretilecek video yok.')
     sureler = {}

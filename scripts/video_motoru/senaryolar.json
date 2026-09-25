@@ -15,19 +15,27 @@
     },
     {
      "tip": "nesne_say",
-     "anlatim": "Bir, iki, üç... Tam 10 elma saydık. 10 elma bir onluk eder.",
+     "anlatim": "Elmaları tek tek sayalım: bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on. 10 elma bir onluk eder.",
      "sayi": 10,
      "nesne": "elma",
      "duzen": "onluk",
-     "etiket": "1 onluk"
+     "etiket": "1 onluk",
+     "sayim": [
+      "bir,",
+      "on."
+     ]
     },
     {
      "tip": "nesne_say",
-     "anlatim": "Elmaları onluk gruplara ayıralım. 10, 20, 30. Üç onluk 30 eder.",
+     "anlatim": "Elmaları onluk gruplara ayıralım: 10, 20, 30. Üç onluk 30 eder.",
      "sayi": 30,
      "nesne": "elma",
      "duzen": "onluk",
-     "etiket": "3 onluk"
+     "etiket": "3 onluk",
+     "sayim": [
+      ": 10,",
+      "30."
+     ]
     },
     {
      "tip": "nesne_say",
@@ -85,7 +93,11 @@
        100
       ]
      ],
-     "ifade": "10, 20, 30 ... 100"
+     "ifade": "10, 20, 30 ... 100",
+     "sayim": [
+      ": 10,",
+      "100."
+     ]
     },
     {
      "tip": "metin",
@@ -450,7 +462,11 @@
        20
       ]
      ],
-     "ifade": "2, 4, 6 ... 20"
+     "ifade": "2, 4, 6 ... 20",
+     "sayim": [
+      ": 2,",
+      "20."
+     ]
     },
     {
      "tip": "sayi_dogrusu",
@@ -500,7 +516,11 @@
        30
       ]
      ],
-     "ifade": "3, 6, 9 ... 30"
+     "ifade": "3, 6, 9 ... 30",
+     "sayim": [
+      ": 3,",
+      "30."
+     ]
     },
     {
      "tip": "sayi_dogrusu",
@@ -550,7 +570,11 @@
        50
       ]
      ],
-     "ifade": "5, 10, 15 ... 50"
+     "ifade": "5, 10, 15 ... 50",
+     "sayim": [
+      ": 5,",
+      "50."
+     ]
     },
     {
      "tip": "sayi_dogrusu",
@@ -600,7 +624,11 @@
        0
       ]
      ],
-     "ifade": "100, 90, 80 ... 0"
+     "ifade": "100, 90, 80 ... 0",
+     "sayim": [
+      ": 90,",
+      ", 0."
+     ]
     },
     {
      "tip": "metin",
@@ -1428,7 +1456,11 @@
        10
       ]
      ],
-     "ifade": "5 × 2 = 10"
+     "ifade": "5 × 2 = 10",
+     "sayim": [
+      ": 2,",
+      "10."
+     ]
     },
     {
      "tip": "metin",
@@ -1501,7 +1533,11 @@
        20
       ]
      ],
-     "ifade": "4 × 5 = 20"
+     "ifade": "4 × 5 = 20",
+     "sayim": [
+      ": 5,",
+      "20."
+     ]
     },
     {
      "tip": "dizi",
@@ -1541,7 +1577,11 @@
        60
       ]
      ],
-     "ifade": "6 × 10 = 60"
+     "ifade": "6 × 10 = 60",
+     "sayim": [
+      ": 10,",
+      "60."
+     ]
     },
     {
      "tip": "metin",
@@ -2463,27 +2503,24 @@
     },
     {
      "tip": "karsilastirma",
-     "anlatim": "Önce yüzler basamağına bakarız. 4 yüzlük, 2 yüzlükten fazladır. Bu yüzden 415 daha büyüktür.",
+     "anlatim": "415 ile 289'u karşılaştıralım. Önce yüzler basamağına bakarız. 4 yüzlük, 2 yüzlükten fazladır. Bu yüzden 415 daha büyüktür.",
      "a": 415,
      "b": 289,
-     "tavan": 1000,
-     "isaret_zaman": 3.0
+     "tavan": 1000
     },
     {
      "tip": "karsilastirma",
-     "anlatim": "Yüzler basamağı aynıysa onlar basamağına bakarız. 7 onluk, 3 onluktan fazladır.",
+     "anlatim": "572 ile 538'i karşılaştıralım. Yüzler basamakları aynı, bu yüzden onlar basamağına bakarız. 7 onluk, 3 onluktan fazladır. 572 daha büyüktür.",
      "a": 572,
      "b": 538,
-     "tavan": 1000,
-     "isaret_zaman": 3.0
+     "tavan": 1000
     },
     {
      "tip": "karsilastirma",
-     "anlatim": "Yüzler ve onlar aynıysa birler basamağına bakarız. 1, 6'dan küçüktür.",
+     "anlatim": "641 ile 646'yı karşılaştıralım. Yüzler ve onlar basamakları aynı. Birler basamağına bakarız. 1, 6'dan küçüktür. Bu yüzden 641 daha küçüktür.",
      "a": 641,
      "b": 646,
-     "tavan": 1000,
-     "isaret_zaman": 3.0
+     "tavan": 1000
     },
     {
      "tip": "metin",
@@ -2550,7 +2587,11 @@
        200
       ]
      ],
-     "ifade": "25, 50, 75 ... 200"
+     "ifade": "25, 50, 75 ... 200",
+     "sayim": [
+      ": 25,",
+      "200."
+     ]
     },
     {
      "tip": "sayi_dogrusu",
@@ -2600,7 +2641,11 @@
        500
       ]
      ],
-     "ifade": "50, 100, 150 ... 500"
+     "ifade": "50, 100, 150 ... 500",
+     "sayim": [
+      ": 50,",
+      "500."
+     ]
     },
     {
      "tip": "sayi_dogrusu",
@@ -2650,7 +2695,11 @@
        1000
       ]
      ],
-     "ifade": "100, 200, 300 ... 1000"
+     "ifade": "100, 200, 300 ... 1000",
+     "sayim": [
+      ": 100,",
+      "1000."
+     ]
     },
     {
      "tip": "metin",
@@ -3414,7 +3463,7 @@
     },
     {
      "tip": "sayi_dogrusu",
-     "anlatim": "4 kere 10 yapalım. Onar onar dört kez atlarız: 40.",
+     "anlatim": "4 kere 10 yapalım. Onar onar dört kez atlarız: 10, 20, 30, 40.",
      "bas": 0,
      "son": 100,
      "adim": 10,
@@ -3436,7 +3485,11 @@
        40
       ]
      ],
-     "ifade": "4 × 10 = 40"
+     "ifade": "4 × 10 = 40",
+     "sayim": [
+      ": 10,",
+      "40."
+     ]
     },
     {
      "tip": "metin",
@@ -4335,27 +4388,24 @@
     },
     {
      "tip": "karsilastirma",
-     "anlatim": "Önce basamak sayısına bakarız. Basamak sayısı fazla olan sayı daha büyüktür.",
+     "anlatim": "987 ile 1204'ü karşılaştıralım. 987 üç basamaklı, 1204 dört basamaklı. Basamak sayısı fazla olan sayı daha büyüktür.",
      "a": 987,
      "b": 1204,
-     "tavan": 2000,
-     "isaret_zaman": 2.8
+     "tavan": 2000
     },
     {
      "tip": "karsilastirma",
-     "anlatim": "Basamak sayıları eşitse en soldaki basamaktan başlarız. 5 bin, 4 binden büyüktür.",
+     "anlatim": "5120 ile 4987'yi karşılaştıralım. Basamak sayıları eşit. En soldaki basamaktan başlarız. 5 bin, 4 binden büyüktür. Bu yüzden 5120 daha büyüktür.",
      "a": 5120,
      "b": 4987,
-     "tavan": 6000,
-     "isaret_zaman": 3.0
+     "tavan": 6000
     },
     {
      "tip": "karsilastirma",
-     "anlatim": "Binler aynıysa yüzlere bakarız. 3 yüz, 6 yüzden küçüktür.",
+     "anlatim": "7345 ile 7612'yi karşılaştıralım. Binler basamağı aynı, yüzlere bakarız. 3 yüz, 6 yüzden küçüktür. Bu yüzden 7345 daha küçüktür.",
      "a": 7345,
      "b": 7612,
-     "tavan": 8000,
-     "isaret_zaman": 3.0
+     "tavan": 8000
     },
     {
      "tip": "metin",
@@ -5954,6 +6004,10070 @@
      ],
      "vurgu": [
       2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-01-sayma",
+   "baslik": "1'den 10'a Sayalım",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Merhaba! Bugün nesneleri birer birer sayacağız.",
+     "baslik": "1'den 10'a Sayalım",
+     "alt": "Nesneleri sayma"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Balonları sayalım: bir, iki, üç, dört, beş. Tam 5 balon var.",
+     "sayi": 5,
+     "nesne": "🎈",
+     "duzen": "serbest",
+     "sutun": 5,
+     "etiket": "balon",
+     "sayim": [
+      "bir,",
+      "beş."
+     ]
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Şimdi balıkları sayalım: bir, iki, üç, dört, beş, altı, yedi. 7 balık var.",
+     "sayi": 7,
+     "nesne": "🐟",
+     "duzen": "serbest",
+     "sutun": 4,
+     "etiket": "balık",
+     "sayim": [
+      "bir,",
+      "yedi."
+     ]
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Yıldızları sayalım: bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, on. Tam 10 yıldız var.",
+     "sayi": 10,
+     "nesne": "⭐",
+     "duzen": "serbest",
+     "sutun": 5,
+     "etiket": "yıldız",
+     "sayim": [
+      "bir,",
+      "on."
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sayarken her nesneyi bir kez sayarız, hiçbirini atlamayız.",
+     "satirlar": [
+      "Her nesne bir kez sayılır"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-02-rakamlar",
+   "baslik": "Rakamlar",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda rakamları tanıyacağız.",
+     "baslik": "Rakamlar",
+     "alt": "0'dan 9'a"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Rakamlarımız şunlardır: 0, 1, 2, 3, 4.",
+     "dizi": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Ve 5, 6, 7, 8, 9. Toplam 10 rakamımız var.",
+     "dizi": [
+      5,
+      6,
+      7,
+      8,
+      9
+     ]
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Hiç nesne yoksa sıfır deriz. Bu sepette 3 elma var.",
+     "sayi": 3,
+     "nesne": "🍎",
+     "duzen": "serbest",
+     "sutun": 3,
+     "etiket": "3 elma"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bütün sayıları bu 10 rakamla yazarız.",
+     "satirlar": [
+      "0 1 2 3 4 5 6 7 8 9"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-03-karsilastirma",
+   "baslik": "Az mı Çok mu?",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda hangisinin daha çok olduğunu bulacağız.",
+     "baslik": "Az mı, Çok mu?",
+     "alt": "Sayıları karşılaştırma"
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "4 ile 7'yi karşılaştıralım. Hangisi daha çok? 7, 4'ten fazladır.",
+     "a": 4,
+     "b": 7,
+     "tavan": 10
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "9 ile 5'i karşılaştıralım. 9, 5'ten fazladır.",
+     "a": 9,
+     "b": 5,
+     "tavan": 10,
+     "isaret_zaman": 2.2
+    },
+    {
+     "tip": "karsilastirma",
+     "anlatim": "6 ile 6 eşittir.",
+     "a": 6,
+     "b": 6,
+     "tavan": 10,
+     "isaret_zaman": 1.8
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çok olan sayı büyük, az olan sayı küçüktür.",
+     "satirlar": [
+      "Çok = büyük",
+      "Az = küçük"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-04-sira-sayilari",
+   "baslik": "Sıra Sayıları",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sıra sayılarını öğreneceğiz.",
+     "baslik": "Sıra Sayıları",
+     "alt": "Birinci, ikinci, üçüncü"
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Yarışta arabalar sıraya girdi: birinci, ikinci, üçüncü.",
+     "ogeler": [
+      [
+       "🚗",
+       "1.",
+       "birinci"
+      ],
+      [
+       "🚙",
+       "2.",
+       "ikinci"
+      ],
+      [
+       "🚕",
+       "3.",
+       "üçüncü"
+      ]
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sıra sayılarını sayının yanına nokta koyarak yazarız.",
+     "satirlar": [
+      "1. = birinci",
+      "2. = ikinci",
+      "3. = üçüncü",
+      "4. = dördüncü",
+      "5. = beşinci"
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Hayvanlar kuyrukta bekliyor. Kedi dördüncü, köpek beşinci sırada.",
+     "ogeler": [
+      [
+       "🐰",
+       "1.",
+       ""
+      ],
+      [
+       "🐻",
+       "2.",
+       ""
+      ],
+      [
+       "🐼",
+       "3.",
+       ""
+      ],
+      [
+       "🐱",
+       "4.",
+       "dördüncü"
+      ],
+      [
+       "🐶",
+       "5.",
+       "beşinci"
+      ]
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sıra sayısı bir şeyin kaçıncı olduğunu gösterir.",
+     "satirlar": [
+      "Kaçıncı?"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-05-yirmiye-kadar",
+   "baslik": "20'ye Kadar Sayalım",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 20'ye kadar sayacağız.",
+     "baslik": "20'ye Kadar Sayalım",
+     "alt": "Onluk ve birlik"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "10 çilek bir onluk eder.",
+     "sayi": 10,
+     "nesne": "🍓",
+     "duzen": "onluk",
+     "etiket": "1 onluk"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Bir onluğa 3 çilek daha ekleyelim. 13 çilek oldu.",
+     "sayi": 13,
+     "nesne": "🍓",
+     "duzen": "onluk",
+     "etiket": "1 onluk 3 birlik"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "İki onluk, 20 eder.",
+     "sayi": 20,
+     "nesne": "🍓",
+     "duzen": "onluk",
+     "etiket": "2 onluk"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Sayı doğrusunda sayalım: 11, 12, 13, 14, 15, 16, 17, 18, 19, 20.",
+     "bas": 10,
+     "son": 20,
+     "atlamalar": [
+      [
+       10,
+       11
+      ],
+      [
+       11,
+       12
+      ],
+      [
+       12,
+       13
+      ],
+      [
+       13,
+       14
+      ],
+      [
+       14,
+       15
+      ],
+      [
+       15,
+       16
+      ],
+      [
+       16,
+       17
+      ],
+      [
+       17,
+       18
+      ],
+      [
+       18,
+       19
+      ],
+      [
+       19,
+       20
+      ]
+     ],
+     "ifade": "11, 12, 13 ... 20",
+     "sayim": [
+      ": 11,",
+      "20."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-06-onluk-birlik",
+   "baslik": "Onluk ve Birlik",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayıları onluk ve birlik olarak göreceğiz.",
+     "baslik": "Onluk ve Birlik",
+     "alt": "20'ye kadar"
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "Bir çubukta 10 küp var. Bu bir onluktur.",
+     "gruplar": [
+      {
+       "onluk": 1,
+       "birlik": 0
+      }
+     ],
+     "sag": [
+      "1 onluk",
+      "= 10"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "1 onluk ve 5 birlik, 15 eder.",
+     "gruplar": [
+      {
+       "onluk": 1,
+       "birlik": 5
+      }
+     ],
+     "tablo": [
+      1,
+      5
+     ],
+     "sag": [
+      "15"
+     ]
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "1 onluk ve 8 birlik, 18 eder.",
+     "gruplar": [
+      {
+       "onluk": 1,
+       "birlik": 8
+      }
+     ],
+     "tablo": [
+      1,
+      8
+     ],
+     "sag": [
+      "18"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "10'dan büyük sayılar bir onluk ve birliklerden oluşur.",
+     "satirlar": [
+      "15 = 1 onluk 5 birlik"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-07-ileri-geri",
+   "baslik": "İleriye ve Geriye Sayma",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda ileriye ve geriye doğru sayacağız.",
+     "baslik": "İleriye ve Geriye Sayma",
+     "alt": "Birer birer"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "3'ten başlayıp ileriye sayalım: 4, 5, 6, 7, 8.",
+     "bas": 0,
+     "son": 10,
+     "atlamalar": [
+      [
+       3,
+       4
+      ],
+      [
+       4,
+       5
+      ],
+      [
+       5,
+       6
+      ],
+      [
+       6,
+       7
+      ],
+      [
+       7,
+       8
+      ]
+     ],
+     "ifade": "3, 4, 5, 6, 7, 8",
+     "sayim": [
+      ": 4,",
+      "8."
+     ]
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Şimdi 10'dan geriye sayalım: 9, 8, 7, 6, 5.",
+     "bas": 0,
+     "son": 10,
+     "atlamalar": [
+      [
+       10,
+       9
+      ],
+      [
+       9,
+       8
+      ],
+      [
+       8,
+       7
+      ],
+      [
+       7,
+       6
+      ],
+      [
+       6,
+       5
+      ]
+     ],
+     "ifade": "10, 9, 8, 7, 6, 5",
+     "sayim": [
+      ": 9,",
+      "5."
+     ]
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Bir sayıdan hemen önce gelen sayı bir eksiği, hemen sonra gelen sayı bir fazlasıdır. 6'dan önce 5, sonra 7 gelir.",
+     "bas": 0,
+     "son": 10,
+     "isaretle": [
+      5,
+      6,
+      7
+     ],
+     "ifade": "5, 6, 7"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "İleri sayınca sayılar büyür, geri sayınca küçülür.",
+     "satirlar": [
+      "İleri: büyür",
+      "Geri: küçülür"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-08-onar-sayma",
+   "baslik": "Onar Sayma",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 100'e kadar onar onar sayacağız.",
+     "baslik": "Onar Sayma",
+     "alt": "100'e kadar"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Her sırada 10 top var. Onar sayalım: 10, 20, 30.",
+     "sayi": 30,
+     "nesne": "⚽",
+     "duzen": "onluk",
+     "etiket": "30",
+     "sayim": [
+      ": 10,",
+      "30."
+     ]
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Onar onar sayalım: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100.",
+     "bas": 0,
+     "son": 100,
+     "adim": 10,
+     "atlamalar": [
+      [
+       0,
+       10
+      ],
+      [
+       10,
+       20
+      ],
+      [
+       20,
+       30
+      ],
+      [
+       30,
+       40
+      ],
+      [
+       40,
+       50
+      ],
+      [
+       50,
+       60
+      ],
+      [
+       60,
+       70
+      ],
+      [
+       70,
+       80
+      ],
+      [
+       80,
+       90
+      ],
+      [
+       90,
+       100
+      ]
+     ],
+     "ifade": "10, 20, 30 ... 100",
+     "sayim": [
+      ": 10,",
+      "100."
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Onar sayarken birler basamağı hep sıfırdır.",
+     "satirlar": [
+      "10, 20, 30, 40, 50"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-09-oruntu",
+   "baslik": "Örüntüler",
+   "konu": "Örüntüler",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda tekrar eden örüntüleri bulacağız.",
+     "baslik": "Örüntüler",
+     "alt": "Sıradaki hangisi?"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Elma, muz, elma, muz. Sıradaki muz.",
+     "dizi": [
+      "🍎",
+      "🍌",
+      "🍎",
+      "🍌",
+      "🍎",
+      "🍌"
+     ],
+     "eksik": [
+      5
+     ],
+     "kural": "elma, muz, elma, muz"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Kedi, kedi, köpek. Sonra yine kedi, kedi, köpek.",
+     "dizi": [
+      "🐱",
+      "🐱",
+      "🐶",
+      "🐱",
+      "🐱",
+      "🐶"
+     ],
+     "eksik": [
+      5
+     ],
+     "kural": "kedi, kedi, köpek"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Renkli şekiller de örüntü oluşturur.",
+     "dizi": [
+      "kirmizi-daire",
+      "mavi-kare",
+      "sari-ucgen",
+      "kirmizi-daire",
+      "mavi-kare",
+      "sari-ucgen"
+     ],
+     "eksik": [
+      5
+     ],
+     "kural": "daire, kare, üçgen"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Tekrar eden kısmı bul, sonra devam et.",
+     "satirlar": [
+      "Tekrar eden kısmı bul!"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-10-toplama",
+   "baslik": "Toplama",
+   "konu": "Toplama",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda toplama işlemini öğreneceğiz.",
+     "baslik": "Toplama",
+     "alt": "Bir araya getirelim"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "Bir tabakta 2 kurabiye, diğerinde 3 kurabiye var. Hepsi 5 kurabiye eder.",
+     "a": 2,
+     "b": 3,
+     "nesne": "🍪"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "4 civcive 2 civciv daha geldi. 6 civciv oldu.",
+     "a": 4,
+     "b": 2,
+     "nesne": "🐤"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplama işleminin işareti artıdır. Sonuç eşittir işaretinden sonra yazılır.",
+     "satirlar": [
+      "2 + 3 = 5",
+      "+ artı      = eşittir"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-11-dogruda-toplama",
+   "baslik": "Sayı Doğrusunda Toplama",
+   "konu": "Toplama",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayı doğrusunda toplama yapacağız.",
+     "baslik": "Sayı Doğrusunda Toplama",
+     "alt": "İleri zıpla"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "3'ten başla, 4 adım ileri zıpla. 7'ye geldin. 3 artı 4, 7 eder.",
+     "bas": 0,
+     "son": 10,
+     "atlamalar": [
+      [
+       3,
+       4
+      ],
+      [
+       4,
+       5
+      ],
+      [
+       5,
+       6
+      ],
+      [
+       6,
+       7
+      ]
+     ],
+     "isaretle": [
+      3,
+      7
+     ],
+     "ifade": "3 + 4 = 7",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "5'ten başla, 3 adım ileri zıpla. 8'e geldin.",
+     "bas": 0,
+     "son": 10,
+     "atlamalar": [
+      [
+       5,
+       6
+      ],
+      [
+       6,
+       7
+      ],
+      [
+       7,
+       8
+      ]
+     ],
+     "isaretle": [
+      5,
+      8
+     ],
+     "ifade": "5 + 3 = 8",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplarken sayı doğrusunda ileri gideriz.",
+     "satirlar": [
+      "Toplama: ileri zıpla"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-12-onu-bulalim",
+   "baslik": "10'u Bulalım",
+   "konu": "Toplama",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda toplamı 10 olan sayı çiftlerini bulacağız.",
+     "baslik": "10'u Bulalım",
+     "alt": "Toplamı 10 olan sayılar"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "6 ile 4'ün toplamı 10'dur.",
+     "a": 6,
+     "b": 4,
+     "nesne": "🍎"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "7 ile 3'ün toplamı da 10'dur.",
+     "a": 7,
+     "b": 3,
+     "nesne": "⭐"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplamı 10 olan sayı çiftleri.",
+     "satirlar": [
+      "1 + 9",
+      "2 + 8",
+      "3 + 7",
+      "4 + 6",
+      "5 + 5"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bu çiftleri bilmek toplamayı çok kolaylaştırır.",
+     "satirlar": [
+      "5 + 5 = 10"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-13-yirmiye-toplama",
+   "baslik": "20'ye Kadar Toplama",
+   "konu": "Toplama",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda toplamı 20'ye kadar olan toplamaları yapacağız.",
+     "baslik": "20'ye Kadar Toplama",
+     "alt": "Onluğu tamamla"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "8 artı 5'i bulalım. Önce 2 ekleyip 10'a tamamlarız, sonra 3 ekleriz. Sonuç 13.",
+     "bas": 0,
+     "son": 20,
+     "atlamalar": [
+      [
+       8,
+       10
+      ],
+      [
+       10,
+       13
+      ]
+     ],
+     "isaretle": [
+      8,
+      13
+     ],
+     "ifade": "8 + 5 = 13",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "onluk_birlik",
+     "anlatim": "12 ile 5'i toplayalım. 2 birlik ile 5 birlik 7 birlik eder. Sonuç 17.",
+     "gruplar": [
+      {
+       "onluk": 1,
+       "birlik": 2
+      },
+      {
+       "onluk": 0,
+       "birlik": 5
+      }
+     ],
+     "sag": [
+      "12 + 5",
+      "= 17"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "10'u tamamlamak toplamayı kolaylaştırır.",
+     "satirlar": [
+      "8 + 5 = 8 + 2 + 3"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-14-cikarma",
+   "baslik": "Çıkarma",
+   "konu": "Çıkarma",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda çıkarma işlemini öğreneceğiz.",
+     "baslik": "Çıkarma",
+     "alt": "Eksilelim"
+    },
+    {
+     "tip": "cikarma",
+     "anlatim": "Ağaçta 6 elma vardı. 2 elma düştü. Ağaçta 4 elma kaldı.",
+     "a": 6,
+     "b": 2,
+     "nesne": "🍎"
+    },
+    {
+     "tip": "cikarma",
+     "anlatim": "8 balondan 3'ü uçtu. Geriye 5 balon kaldı.",
+     "a": 8,
+     "b": 3,
+     "nesne": "🎈"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çıkarma işleminin işareti eksidir.",
+     "satirlar": [
+      "6 − 2 = 4",
+      "− eksi"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-15-dogruda-cikarma",
+   "baslik": "Sayı Doğrusunda Çıkarma",
+   "konu": "Çıkarma",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayı doğrusunda çıkarma yapacağız.",
+     "baslik": "Sayı Doğrusunda Çıkarma",
+     "alt": "Geri zıpla"
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "9'dan başla, 3 adım geri zıpla. 6'ya geldin. 9 eksi 3, 6 eder.",
+     "bas": 0,
+     "son": 10,
+     "atlamalar": [
+      [
+       9,
+       8
+      ],
+      [
+       8,
+       7
+      ],
+      [
+       7,
+       6
+      ]
+     ],
+     "isaretle": [
+      9,
+      6
+     ],
+     "ifade": "9 − 3 = 6",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "7'den 4 adım geri zıpla. 3'e geldin.",
+     "bas": 0,
+     "son": 10,
+     "atlamalar": [
+      [
+       7,
+       6
+      ],
+      [
+       6,
+       5
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       4,
+       3
+      ]
+     ],
+     "isaretle": [
+      7,
+      3
+     ],
+     "ifade": "7 − 4 = 3",
+     "isaret_zaman": 0.4
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Çıkarırken sayı doğrusunda geri gideriz.",
+     "satirlar": [
+      "Çıkarma: geri zıpla"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-16-sifir",
+   "baslik": "Sıfırla Toplama ve Çıkarma",
+   "konu": "Toplama ve Çıkarma",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sıfırla toplama ve çıkarmayı öğreneceğiz.",
+     "baslik": "Sıfır",
+     "alt": "Hiç yok"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "5 elmaya hiç elma eklemezsek yine 5 elma olur. 5 artı 0, 5 eder.",
+     "a": 5,
+     "b": 0,
+     "nesne": "🍎"
+    },
+    {
+     "tip": "cikarma",
+     "anlatim": "4 civcivden hepsi gitti. Hiç civciv kalmadı. 4 eksi 4, 0 eder.",
+     "a": 4,
+     "b": 4,
+     "nesne": "🐤"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir sayıya sıfır eklersek ya da sıfır çıkarırsak sayı değişmez.",
+     "satirlar": [
+      "7 + 0 = 7",
+      "7 − 0 = 7"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-17-eksik-sayi",
+   "baslik": "Eksik Sayıyı Bul",
+   "konu": "Toplama",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda eksik sayıyı bulmayı öğreneceğiz.",
+     "baslik": "Eksik Sayıyı Bul",
+     "alt": "Kaç tane eklemeliyiz?"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "Tabakta 3 kurabiye vardı. Kaç kurabiye eklersek 7 olur? 4 kurabiye.",
+     "a": 3,
+     "b": 4,
+     "nesne": "🍪"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "3 artı kaç 7 eder? 3'ten 7'ye kadar ileri sayarız: 4, 5, 6, 7. Dört adım.",
+     "satirlar": [
+      "3 + ? = 7",
+      "? = 4"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "sayi_dogrusu",
+     "anlatim": "Sayı doğrusunda 3'ten 7'ye 4 adım atarız.",
+     "bas": 0,
+     "son": 10,
+     "atlamalar": [
+      [
+       3,
+       4
+      ],
+      [
+       4,
+       5
+      ],
+      [
+       5,
+       6
+      ],
+      [
+       6,
+       7
+      ]
+     ],
+     "isaretle": [
+      3,
+      7
+     ],
+     "ifade": "3 + 4 = 7",
+     "isaret_zaman": 0.4
+    }
+   ]
+  },
+  {
+   "id": "mat1-18-problem",
+   "baslik": "Toplama Problemi",
+   "konu": "Problemler",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda basit bir toplama problemi çözeceğiz.",
+     "baslik": "Problem Çözelim",
+     "alt": "Adım adım"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Ayşe'nin 4 kalemi var. Annesi 3 kalem daha aldı. Ayşe'nin kaç kalemi oldu?",
+     "satirlar": [
+      "4 kalem var",
+      "3 kalem aldı",
+      "Kaç kalem oldu?"
+     ]
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "Kalemler çoğaldı, bu yüzden toplarız. 4 artı 3, 7 kalem.",
+     "a": 4,
+     "b": 3,
+     "nesne": "✏"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Problemi okurken ne verildiğini ve ne istendiğini düşünürüz.",
+     "satirlar": [
+      "Verilen",
+      "İstenen",
+      "İşlem"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-19-sekiller",
+   "baslik": "Geometrik Şekiller",
+   "konu": "Geometri",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda geometrik şekilleri tanıyacağız.",
+     "baslik": "Geometrik Şekiller",
+     "alt": "Üçgen, kare, daire"
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Bunlar üçgen, kare, dikdörtgen ve daire.",
+     "sekiller": [
+      "ucgen",
+      "kare",
+      "dikdortgen",
+      "daire"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Üçgenin 3 kenarı ve 3 köşesi var.",
+     "sekil": "ucgen",
+     "bilgi": [
+      "Üçgen",
+      "3 kenar",
+      "3 köşe"
+     ]
+    },
+    {
+     "tip": "sekil",
+     "anlatim": "Karenin 4 kenarı ve 4 köşesi var.",
+     "sekil": "kare",
+     "bilgi": [
+      "Kare",
+      "4 kenar",
+      "4 köşe"
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Çevremizde de bu şekiller var. Saat daireye, pizza dilimi üçgene benzer.",
+     "ogeler": [
+      [
+       "🕒",
+       "Daire",
+       ""
+      ],
+      [
+       "🍕",
+       "Üçgen",
+       ""
+      ],
+      [
+       "🖼",
+       "Dikdörtgen",
+       ""
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-20-konum",
+   "baslik": "Nerede?",
+   "konu": "Geometri",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda nesnelerin nerede olduğunu anlatmayı öğreneceğiz.",
+     "baslik": "Nerede?",
+     "alt": "Üstünde, altında, yanında"
+    },
+    {
+     "tip": "konum",
+     "anlatim": "Kedi kutunun üstünde.",
+     "ref": "📦",
+     "ana": "🐱",
+     "iliski": "ustunde",
+     "etiket": "Üstünde"
+    },
+    {
+     "tip": "konum",
+     "anlatim": "Top masanın altında.",
+     "ref": "🪑",
+     "ana": "⚽",
+     "iliski": "altinda",
+     "etiket": "Altında"
+    },
+    {
+     "tip": "konum",
+     "anlatim": "Köpek evin yanında.",
+     "ref": "🏠",
+     "ana": "🐶",
+     "iliski": "yaninda",
+     "etiket": "Yanında"
+    },
+    {
+     "tip": "konum",
+     "anlatim": "Ayı ağacın arkasında.",
+     "ref": "🌳",
+     "ana": "🐻",
+     "iliski": "arkasinda",
+     "etiket": "Arkasında"
+    },
+    {
+     "tip": "konum",
+     "anlatim": "Tavşan ağacın önünde.",
+     "ref": "🌳",
+     "ana": "🐰",
+     "iliski": "onunde",
+     "etiket": "Önünde"
+    }
+   ]
+  },
+  {
+   "id": "mat1-21-uzun-kisa",
+   "baslik": "Uzun mu Kısa mı?",
+   "konu": "Ölçme",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda uzun ve kısa nesneleri karşılaştıracağız.",
+     "baslik": "Uzun ve Kısa",
+     "alt": "Uzunlukları karşılaştırma"
+    },
+    {
+     "tip": "uzunluk",
+     "anlatim": "Bu kalem 15 birim uzunluğunda.",
+     "uzunluk": 15,
+     "nesne": "kalem",
+     "birim": "birim"
+    },
+    {
+     "tip": "uzunluk",
+     "anlatim": "Bu kalem 8 birim. Daha kısadır.",
+     "uzunluk": 8,
+     "nesne": "kalem",
+     "birim": "birim"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "15 birimlik kalem daha uzun, 8 birimlik kalem daha kısadır.",
+     "satirlar": [
+      "Uzun: 15 birim",
+      "Kısa: 8 birim"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Karşılaştırırken nesnelerin başlangıçlarını aynı hizaya koyarız.",
+     "satirlar": [
+      "Aynı yerden başla!"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-22-agir-hafif",
+   "baslik": "Ağır mı Hafif mi?",
+   "konu": "Ölçme",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda ağır ve hafif nesneleri karşılaştıracağız.",
+     "baslik": "Ağır ve Hafif",
+     "alt": "Terazi ile karşılaştırma"
+    },
+    {
+     "tip": "terazi",
+     "anlatim": "Terazide karpuz ile çilek var. Karpuzun olduğu taraf aşağı indi. Karpuz daha ağır.",
+     "sol": "Karpuz",
+     "sag": "Çilek",
+     "egim": -1,
+     "ifade": "Karpuz ağır"
+    },
+    {
+     "tip": "terazi",
+     "anlatim": "Tüy ile taş. Taşın olduğu taraf aşağı indi. Tüy daha hafif.",
+     "sol": "Tüy",
+     "sag": "Taş",
+     "egim": 1,
+     "ifade": "Tüy hafif"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Terazide ağır olan taraf aşağı iner, hafif olan yukarı çıkar.",
+     "satirlar": [
+      "Ağır: aşağı",
+      "Hafif: yukarı"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-23-dolu-bos",
+   "baslik": "Dolu mu Boş mu?",
+   "konu": "Ölçme",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kapların dolu, boş ya da yarım olduğunu göreceğiz.",
+     "baslik": "Dolu, Boş, Yarım",
+     "alt": "Kaplar"
+    },
+    {
+     "tip": "kap",
+     "anlatim": "Bu bardak dolu, bu bardak boş.",
+     "kaplar": [
+      {
+       "dolu": 4,
+       "max": 4,
+       "etiket": "Dolu"
+      },
+      {
+       "dolu": 0,
+       "max": 4,
+       "etiket": "Boş"
+      }
+     ]
+    },
+    {
+     "tip": "kap",
+     "anlatim": "Bu bardak yarıya kadar dolu. Yarım bardak deriz.",
+     "kaplar": [
+      {
+       "dolu": 2,
+       "max": 4,
+       "etiket": "Yarım"
+      }
+     ]
+    },
+    {
+     "tip": "kap",
+     "anlatim": "Hangisinde daha çok su var? Soldaki bardakta daha çok su var.",
+     "kaplar": [
+      {
+       "dolu": 3,
+       "max": 4,
+       "etiket": "Çok"
+      },
+      {
+       "dolu": 1,
+       "max": 4,
+       "etiket": "Az"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-24-gun-zamanlari",
+   "baslik": "Günün Zamanları",
+   "konu": "Zaman",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda günün bölümlerini öğreneceğiz.",
+     "baslik": "Günün Zamanları",
+     "alt": "Sabah, öğle, akşam, gece"
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Bir gün sabah başlar. Sonra öğle, akşam ve gece gelir.",
+     "ogeler": [
+      [
+       "🌅",
+       "Sabah",
+       ""
+      ],
+      [
+       "☀",
+       "Öğle",
+       ""
+      ],
+      [
+       "🌇",
+       "Akşam",
+       ""
+      ],
+      [
+       "🌙",
+       "Gece",
+       ""
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sabah kalkar, kahvaltı yaparız.",
+     "emoji": "🍳",
+     "buyuk": "Sabah",
+     "kucuk": "Kahvaltı"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Gece uyuruz.",
+     "emoji": "😴",
+     "buyuk": "Gece",
+     "kucuk": "Uyku"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Dün, bugün ve yarın. Bugünden önceki gün dün, sonraki gün yarındır.",
+     "satirlar": [
+      "Dün",
+      "Bugün",
+      "Yarın"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-25-saat",
+   "baslik": "Tam Saat",
+   "konu": "Zaman",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda tam saatleri okumayı öğreneceğiz.",
+     "baslik": "Tam Saat",
+     "alt": "Saati okuyalım"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Uzun kol 12'de, kısa kol 8'de. Saat tam 8.",
+     "saat": 8,
+     "dakika": 0,
+     "etiket": "Saat 8"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Kısa kol 12'ye geldi. Saat tam 12.",
+     "saat": 12,
+     "dakika": 0,
+     "onceki": [
+      8,
+      0
+     ],
+     "etiket": "Saat 12"
+    },
+    {
+     "tip": "saat",
+     "anlatim": "Kısa kol 3'te. Saat tam 3.",
+     "saat": 3,
+     "dakika": 0,
+     "onceki": [
+      12,
+      0
+     ],
+     "etiket": "Saat 3"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Saat tam olduğunda uzun kol 12'yi gösterir.",
+     "satirlar": [
+      "Uzun kol 12'de: tam saat"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-26-para",
+   "baslik": "Paralarımız",
+   "konu": "Paralarımız",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda paralarımızı tanıyacağız.",
+     "baslik": "Paralarımız",
+     "alt": "Lira"
+    },
+    {
+     "tip": "para",
+     "anlatim": "Bu 1 lira. Madeni paradır.",
+     "paralar": [
+      "1 TL"
+     ]
+    },
+    {
+     "tip": "para",
+     "anlatim": "Bunlar kâğıt paralar: 5 lira, 10 lira ve 20 lira.",
+     "paralar": [
+      "5 TL",
+      "10 TL",
+      "20 TL"
+     ]
+    },
+    {
+     "tip": "para",
+     "anlatim": "5 tane 1 lira, 5 lira eder.",
+     "paralar": [
+      "1 TL",
+      "1 TL",
+      "1 TL",
+      "1 TL",
+      "1 TL"
+     ],
+     "toplam": "= 5 TL"
+    }
+   ]
+  },
+  {
+   "id": "mat1-27-butun-yarim",
+   "baslik": "Bütün ve Yarım",
+   "konu": "Kesirler",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bütün ve yarımı öğreneceğiz.",
+     "baslik": "Bütün ve Yarım",
+     "alt": "Eş iki parça"
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Bu bir bütün pizza.",
+     "parca": 1,
+     "kes": false,
+     "yazi": "Bütün"
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "Pizzayı iki eş parçaya böldük. Her parça yarımdır.",
+     "parca": 2,
+     "boya": [
+      0
+     ],
+     "boya_zaman": 1.6,
+     "yazi": "Yarım"
+    },
+    {
+     "tip": "kesir",
+     "anlatim": "İki yarım bir bütün eder.",
+     "parca": 2,
+     "boya": [
+      0,
+      1
+     ],
+     "kes": false,
+     "boya_zaman": 0.5,
+     "yazi": "2 yarım = 1 bütün"
+    }
+   ]
+  },
+  {
+   "id": "mat1-28-grafik",
+   "baslik": "Nesne Grafiği",
+   "konu": "Veri",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda nesne grafiği okuyacağız.",
+     "baslik": "Nesne Grafiği",
+     "alt": "Say ve karşılaştır"
+    },
+    {
+     "tip": "sekil_grafigi",
+     "anlatim": "Sepetlerdeki meyveleri saydık ve grafik yaptık.",
+     "etiketler": [
+      "Elma",
+      "Muz",
+      "Armut"
+     ],
+     "degerler": [
+      5,
+      3,
+      4
+     ],
+     "nesne": "🍎",
+     "baslik": "Meyveler"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "En çok elma var, 5 tane. En az muz var, 3 tane.",
+     "satirlar": [
+      "En çok: elma",
+      "En az: muz"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-29-toplama-cikarma",
+   "baslik": "Toplama ve Çıkarma",
+   "konu": "Toplama ve Çıkarma",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda toplama ile çıkarmanın ilişkisini göreceğiz.",
+     "baslik": "Toplama ve Çıkarma",
+     "alt": "Birbirinin tersi"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "3 kuş ağaca kondu, 2 kuş daha geldi. 5 kuş oldu.",
+     "a": 3,
+     "b": 2,
+     "nesne": "🐦"
+    },
+    {
+     "tip": "cikarma",
+     "anlatim": "5 kuştan 2'si uçup gitti. Yine 3 kuş kaldı.",
+     "a": 5,
+     "b": 2,
+     "nesne": "🐦"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Toplama ekler, çıkarma geri alır.",
+     "satirlar": [
+      "3 + 2 = 5",
+      "5 − 2 = 3"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mat1-30-tekrar",
+   "baslik": "Sayıları Tekrar Edelim",
+   "konu": "Sayılar",
+   "sinif": 1,
+   "ders": "Matematik",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda öğrendiklerimizi tekrar edeceğiz.",
+     "baslik": "Tekrar Zamanı",
+     "alt": "Sayılar ve işlemler"
+    },
+    {
+     "tip": "nesne_say",
+     "anlatim": "Önce sayalım: 12 elma.",
+     "sayi": 12,
+     "nesne": "🍎",
+     "duzen": "onluk",
+     "etiket": "1 onluk 2 birlik"
+    },
+    {
+     "tip": "toplama",
+     "anlatim": "Toplayalım: 4 artı 4, 8.",
+     "a": 4,
+     "b": 4,
+     "nesne": "🍓"
+    },
+    {
+     "tip": "cikarma",
+     "anlatim": "Çıkaralım: 9 eksi 5, 4.",
+     "a": 9,
+     "b": 5,
+     "nesne": "⚽"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Aferin! Çok güzel çalıştın.",
+     "satirlar": [
+      "Aferin!"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-01-alfabe",
+   "baslik": "Alfabemiz",
+   "konu": "Harfler",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda alfabemizi tanıyacağız.",
+     "baslik": "Alfabemiz",
+     "alt": "29 harf"
+    },
+    {
+     "tip": "harfler",
+     "anlatim": "Alfabemizde 29 harf vardır.",
+     "harfler": [
+      "A",
+      "B",
+      "C",
+      "Ç",
+      "D",
+      "E",
+      "F",
+      "G",
+      "Ğ",
+      "H",
+      "I",
+      "İ",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "Ö",
+      "P",
+      "R",
+      "S",
+      "Ş",
+      "T",
+      "U",
+      "Ü",
+      "V",
+      "Y",
+      "Z"
+     ],
+     "sutun": 10,
+     "bilgi": "29 harf"
+    },
+    {
+     "tip": "harfler",
+     "anlatim": "Bu harflerden 8 tanesi sesli harftir: a, e, ı, i, o, ö, u, ü.",
+     "harfler": [
+      "A",
+      "B",
+      "C",
+      "Ç",
+      "D",
+      "E",
+      "F",
+      "G",
+      "Ğ",
+      "H",
+      "I",
+      "İ",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "O",
+      "Ö",
+      "P",
+      "R",
+      "S",
+      "Ş",
+      "T",
+      "U",
+      "Ü",
+      "V",
+      "Y",
+      "Z"
+     ],
+     "sutun": 10,
+     "vurgu": [
+      0,
+      5,
+      10,
+      11,
+      17,
+      18,
+      24,
+      25
+     ],
+     "vurgu_zaman": 1.0,
+     "bilgi": "8 sesli harf"
+    },
+    {
+     "tip": "harfler",
+     "anlatim": "Geri kalan 21 harf sessiz harftir.",
+     "harfler": [
+      "B",
+      "C",
+      "Ç",
+      "D",
+      "F",
+      "G",
+      "Ğ",
+      "H",
+      "J",
+      "K",
+      "L",
+      "M",
+      "N",
+      "P",
+      "R",
+      "S",
+      "Ş",
+      "T",
+      "V",
+      "Y",
+      "Z"
+     ],
+     "sutun": 7,
+     "bilgi": "21 sessiz harf"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Alfabemizde 29 harf var. 8'i sesli, 21'i sessizdir.",
+     "satirlar": [
+      "29 harf",
+      "8 sesli + 21 sessiz"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-02-sesli-harfler",
+   "baslik": "Sesli Harfler",
+   "konu": "Harfler",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sesli harfleri tanıyacağız.",
+     "baslik": "Sesli Harfler",
+     "alt": "a, e, ı, i, o, ö, u, ü"
+    },
+    {
+     "tip": "harfler",
+     "anlatim": "Sesli harfler tek başına okunabilir: a, e, ı, i, o, ö, u, ü.",
+     "harfler": [
+      "A",
+      "E",
+      "I",
+      "İ",
+      "O",
+      "Ö",
+      "U",
+      "Ü"
+     ],
+     "sutun": 8,
+     "vurgu": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Her hecede mutlaka bir sesli harf bulunur. Araba kelimesini heceleyelim: a, ra, ba. Üç hece, üç sesli harf.",
+     "kelime": "araba",
+     "heceler": [
+      "a",
+      "ra",
+      "ba"
+     ],
+     "emoji": "🚗"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sesli harf olmadan hece olmaz.",
+     "satirlar": [
+      "Her hecede 1 sesli harf"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-03-hece",
+   "baslik": "Heceler",
+   "konu": "Hece",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kelimeleri hecelerine ayıracağız.",
+     "baslik": "Heceler",
+     "alt": "Kelimeleri bölelim"
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Kelimeleri hecelerken el çırpabiliriz. Kalem: ka, lem. İki hece.",
+     "kelime": "kalem",
+     "heceler": [
+      "ka",
+      "lem"
+     ],
+     "emoji": "✏"
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Kelebek: ke, le, bek. Üç hece.",
+     "kelime": "kelebek",
+     "heceler": [
+      "ke",
+      "le",
+      "bek"
+     ],
+     "emoji": "🦋"
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Karpuz: kar, puz. İki hece.",
+     "kelime": "karpuz",
+     "heceler": [
+      "kar",
+      "puz"
+     ],
+     "emoji": "🍉"
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Televizyon: te, le, viz, yon. Dört hece.",
+     "kelime": "televizyon",
+     "heceler": [
+      "te",
+      "le",
+      "viz",
+      "yon"
+     ],
+     "emoji": "📺"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir kelimede kaç sesli harf varsa o kadar hece vardır.",
+     "satirlar": [
+      "Sesli harf sayısı = hece sayısı"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-04-es-anlamli",
+   "baslik": "Eş Anlamlı Kelimeler",
+   "konu": "Kelime Bilgisi",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda eş anlamlı kelimeleri öğreneceğiz.",
+     "baslik": "Eş Anlamlı Kelimeler",
+     "alt": "Aynı anlam, farklı yazılış"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Yazılışları farklı, anlamları aynı olan kelimelere eş anlamlı kelimeler denir. Okul ile mektep eş anlamlıdır.",
+     "ciftler": [
+      [
+       "okul",
+       "mektep",
+       "🏫"
+      ]
+     ],
+     "bag": "es"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Kırmızı ile al, siyah ile kara eş anlamlıdır.",
+     "ciftler": [
+      [
+       "kırmızı",
+       "al"
+      ],
+      [
+       "siyah",
+       "kara"
+      ]
+     ],
+     "bag": "es"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Cevap ile yanıt, öğrenci ile talebe, doktor ile hekim.",
+     "ciftler": [
+      [
+       "cevap",
+       "yanıt"
+      ],
+      [
+       "öğrenci",
+       "talebe"
+      ],
+      [
+       "doktor",
+       "hekim"
+      ]
+     ],
+     "bag": "es"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Eş anlamlı kelimeler birbirinin yerine kullanılabilir.",
+     "satirlar": [
+      "Okula gittim = Mektebe gittim"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-05-zit-anlamli",
+   "baslik": "Zıt Anlamlı Kelimeler",
+   "konu": "Kelime Bilgisi",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda zıt anlamlı kelimeleri öğreneceğiz.",
+     "baslik": "Zıt Anlamlı Kelimeler",
+     "alt": "Karşıt anlamlar"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Anlamca birbirinin karşıtı olan kelimelere zıt anlamlı kelimeler denir. Sıcak ile soğuk zıt anlamlıdır.",
+     "ciftler": [
+      [
+       "sıcak",
+       "soğuk",
+       "🔥",
+       "❄"
+      ]
+     ],
+     "bag": "zit"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Büyük ile küçük, uzun ile kısa zıt anlamlıdır.",
+     "ciftler": [
+      [
+       "büyük",
+       "küçük",
+       "🐘",
+       "🐭"
+      ],
+      [
+       "uzun",
+       "kısa",
+       "🦒",
+       "🐢"
+      ]
+     ],
+     "bag": "zit"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Gece ile gündüz, açık ile kapalı, hızlı ile yavaş.",
+     "ciftler": [
+      [
+       "gece",
+       "gündüz",
+       "🌙",
+       "☀"
+      ],
+      [
+       "açık",
+       "kapalı"
+      ],
+      [
+       "hızlı",
+       "yavaş",
+       "🐇",
+       "🐌"
+      ]
+     ],
+     "bag": "zit"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Zıt anlamlı kelimeler bir şeyi karşılaştırmamızı sağlar.",
+     "satirlar": [
+      "Fil büyük, fare küçük."
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-06-es-sesli",
+   "baslik": "Eş Sesli Kelimeler",
+   "konu": "Kelime Bilgisi",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda eş sesli kelimeleri öğreneceğiz.",
+     "baslik": "Eş Sesli Kelimeler",
+     "alt": "Aynı yazılış, farklı anlam"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Yazılışları aynı, anlamları farklı kelimelere eş sesli kelimeler denir. Yüz, hem sayıdır hem de yüzümüzdür.",
+     "ciftler": [
+      [
+       "yüz",
+       "100",
+       "😊"
+      ]
+     ],
+     "bag": "es"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Çay içeriz, çayda da su akar. Yaz mevsimdir, yaz ise yazmak demektir.",
+     "ciftler": [
+      [
+       "çay",
+       "içecek",
+       "🍵"
+      ],
+      [
+       "çay",
+       "küçük akarsu",
+       "🏞"
+      ]
+     ],
+     "bag": "es"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Cümlede kullanınca anlamı anlarız.",
+     "parcalar": [
+      "Denizde",
+      "yüz,",
+      "sonra",
+      "yüzünü",
+      "yıka."
+     ],
+     "vurgu": {
+      "1": "yüzmek",
+      "3": "surat"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Eş sesli kelimelerin anlamını cümleden anlarız.",
+     "satirlar": [
+      "Anlamı cümle belirler"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-07-buyuk-harf",
+   "baslik": "Büyük Harflerin Kullanımı",
+   "konu": "Yazım",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda büyük harfleri nerede kullandığımızı öğreneceğiz.",
+     "baslik": "Büyük Harfler",
+     "alt": "Nerede kullanırız?"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Cümleler büyük harfle başlar.",
+     "parcalar": [
+      "Bugün",
+      "hava",
+      "çok",
+      "güzel."
+     ],
+     "vurgu": {
+      "0": "büyük harf"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Kişi adları büyük harfle başlar.",
+     "parcalar": [
+      "Elif",
+      "ile",
+      "Ali",
+      "parka",
+      "gitti."
+     ],
+     "vurgu": {
+      "0": "kişi adı",
+      "2": "kişi adı"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Şehir ve ülke adları da büyük harfle başlar.",
+     "parcalar": [
+      "Ankara",
+      "Türkiye'nin",
+      "başkentidir."
+     ],
+     "vurgu": {
+      "0": "şehir",
+      "1": "ülke"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Cümle başı, kişi adları, şehir ve ülke adları büyük harfle başlar.",
+     "satirlar": [
+      "Cümle başı",
+      "Kişi adları",
+      "Şehir ve ülke adları"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-08-nokta",
+   "baslik": "Nokta",
+   "konu": "Noktalama",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda noktanın kullanımını öğreneceğiz.",
+     "baslik": "Nokta",
+     "alt": "Cümlenin sonunda"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Tamamlanmış cümlelerin sonuna nokta konur.",
+     "parcalar": [
+      "Kedim",
+      "süt",
+      "içti."
+     ],
+     "vurgu": {
+      "2": "nokta"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Nokta, cümlenin bittiğini gösterir.",
+     "parcalar": [
+      "Yarın",
+      "okula",
+      "gideceğiz."
+     ],
+     "vurgu": {
+      "2": "nokta"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Kısaltmalardan sonra da nokta kullanırız. Örneğin sokak kelimesinin kısaltması sok. diye yazılır.",
+     "parcalar": [
+      "Çiçek",
+      "Sok.",
+      "No:",
+      "5"
+     ],
+     "vurgu": {
+      "1": "kısaltma"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Cümle bitince nokta koymayı unutma.",
+     "satirlar": [
+      "Cümle bitti mi? Nokta koy!"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-09-soru-isareti",
+   "baslik": "Soru İşareti",
+   "konu": "Noktalama",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda soru işaretinin kullanımını öğreneceğiz.",
+     "baslik": "Soru İşareti",
+     "alt": "Soru cümlelerinde"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Soru soran cümlelerin sonuna soru işareti konur.",
+     "parcalar": [
+      "Adın",
+      "ne?"
+     ],
+     "vurgu": {
+      "1": "soru işareti"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Mi soru eki ayrı yazılır ve cümlenin sonuna soru işareti gelir.",
+     "parcalar": [
+      "Bugün",
+      "okula",
+      "gidecek",
+      "misin?"
+     ],
+     "vurgu": {
+      "3": "soru işareti"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Nerede, ne zaman, kim gibi soru kelimeleri de soru cümlesi yapar.",
+     "parcalar": [
+      "Parka",
+      "ne",
+      "zaman",
+      "gidelim?"
+     ],
+     "vurgu": {
+      "1": "soru kelimesi",
+      "2": "",
+      "3": "soru işareti"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Soru soruyorsan cümlenin sonuna soru işareti koy.",
+     "satirlar": [
+      "Soru cümlesi ?"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-10-unlem",
+   "baslik": "Ünlem İşareti",
+   "konu": "Noktalama",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda ünlem işaretinin kullanımını öğreneceğiz.",
+     "baslik": "Ünlem İşareti",
+     "alt": "Duygularımızı gösterir"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Sevinç, korku, şaşkınlık gibi duyguları anlatan cümlelerin sonuna ünlem işareti konur.",
+     "parcalar": [
+      "Yaşasın,",
+      "tatil",
+      "başladı!"
+     ],
+     "vurgu": {
+      "2": "ünlem"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Seslenme sözlerinden sonra da ünlem kullanırız.",
+     "parcalar": [
+      "Anneciğim!"
+     ],
+     "vurgu": {
+      "0": "seslenme"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Dikkat çekmek için de ünlem kullanırız.",
+     "parcalar": [
+      "Dikkat,",
+      "köpek",
+      "var!"
+     ],
+     "vurgu": {
+      "2": "ünlem"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Nokta, soru işareti ve ünlem işaretini karşılaştıralım.",
+     "satirlar": [
+      "Kedi uyuyor.",
+      "Kedi uyuyor mu?",
+      "Kedi uyuyor!"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-11-virgul",
+   "baslik": "Virgül",
+   "konu": "Noktalama",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda virgülün kullanımını öğreneceğiz.",
+     "baslik": "Virgül",
+     "alt": "Sıralanan kelimeler"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Sıralanan kelimeleri ayırmak için virgül kullanırız.",
+     "parcalar": [
+      "Elma,",
+      "armut,",
+      "muz",
+      "aldık."
+     ],
+     "vurgu": {
+      "0": "virgül",
+      "1": "virgül"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Hitap sözlerinden sonra virgül konur.",
+     "parcalar": [
+      "Ali,",
+      "buraya",
+      "gel."
+     ],
+     "vurgu": {
+      "0": "hitap"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Evet ve hayır kelimelerinden sonra da virgül kullanırız.",
+     "parcalar": [
+      "Evet,",
+      "ödevimi",
+      "yaptım."
+     ],
+     "vurgu": {
+      "0": "virgül"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Virgül, cümlede kısa bir duraklama yapmamızı sağlar.",
+     "satirlar": [
+      "Virgülde kısa dur"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-12-alfabetik-siralama",
+   "baslik": "Alfabetik Sıralama",
+   "konu": "Harfler",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kelimeleri alfabetik sıraya dizeceğiz.",
+     "baslik": "Alfabetik Sıralama",
+     "alt": "Sözlük sırası"
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "Kelimeleri sıralarken ilk harflerine bakarız. Araba, balık, ceviz.",
+     "dizi": [
+      "araba",
+      "balık",
+      "ceviz"
+     ]
+    },
+    {
+     "tip": "oruntu",
+     "anlatim": "İlk harfler aynıysa ikinci harfe bakarız. Kalem, kedi, kitap.",
+     "dizi": [
+      "kalem",
+      "kedi",
+      "kitap"
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sözlükteki kelimeler alfabetik sırayla dizilir.",
+     "satirlar": [
+      "A, B, C, Ç, D ..."
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-13-tekil-cogul",
+   "baslik": "Tekil ve Çoğul",
+   "konu": "Kelime Bilgisi",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda tekil ve çoğul kelimeleri öğreneceğiz.",
+     "baslik": "Tekil ve Çoğul",
+     "alt": "-ler, -lar ekleri"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Tek bir varlığı anlatan kelimeler tekildir. Birden çok varlığı anlatan kelimeler çoğuldur. Kitap ile kitaplar.",
+     "ciftler": [
+      [
+       "kitap",
+       "kitaplar",
+       "📕",
+       "📚"
+      ]
+     ],
+     "bag": "zit"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Çoğul yaparken -ler ya da -lar eki getiririz. Çiçek, çiçekler. Kuş, kuşlar.",
+     "ciftler": [
+      [
+       "çiçek",
+       "çiçekler",
+       "🌷",
+       "💐"
+      ],
+      [
+       "kuş",
+       "kuşlar"
+      ]
+     ],
+     "bag": "zit"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Son hecede a, ı, o, u varsa -lar, e, i, ö, ü varsa -ler gelir.",
+     "satirlar": [
+      "kuş → kuşlar",
+      "ev → evler"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur2-14-yazim-mi",
+   "baslik": "\"mi\" Soru Ekinin Yazımı",
+   "konu": "Yazım",
+   "sinif": 2,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda mi soru ekinin yazımını öğreneceğiz.",
+     "baslik": "Soru Eki: mi",
+     "alt": "Ayrı yazılır"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Mi soru eki her zaman ayrı yazılır.",
+     "parcalar": [
+      "Sen",
+      "de",
+      "geliyor",
+      "musun?"
+     ],
+     "vurgu": {
+      "3": "ayrı yazılır"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Mı, mi, mu, mü biçimlerinde olabilir.",
+     "parcalar": [
+      "Hava",
+      "soğuk",
+      "mu?"
+     ],
+     "vurgu": {
+      "2": "mu"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Gelen eklerle birlikte yine ayrı yazılır.",
+     "parcalar": [
+      "Ödevini",
+      "yaptın",
+      "mı?"
+     ],
+     "vurgu": {
+      "2": "mı"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Mi soru ekinden önce boşluk bırak!",
+     "satirlar": [
+      "geldin mi? (doğru)",
+      "geldinmi? (yanlış)"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-01-isimler",
+   "baslik": "İsimler",
+   "konu": "Kelime Türleri",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda isimleri öğreneceğiz.",
+     "baslik": "İsimler (Adlar)",
+     "alt": "Varlıklara verilen adlar"
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Varlıkları karşılamak için kullanılan kelimelere isim ya da ad denir.",
+     "ogeler": [
+      [
+       "🍎",
+       "elma",
+       ""
+      ],
+      [
+       "🐶",
+       "köpek",
+       ""
+      ],
+      [
+       "🏠",
+       "ev",
+       ""
+      ],
+      [
+       "👧",
+       "çocuk",
+       ""
+      ]
+     ]
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Cümledeki isimleri bulalım.",
+     "parcalar": [
+      "Çocuk",
+      "parkta",
+      "top",
+      "oynuyor."
+     ],
+     "vurgu": {
+      "0": "isim",
+      "1": "isim",
+      "2": "isim"
+     },
+     "renk": "mavi"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir kelimenin isim olup olmadığını anlamak için önüne bir koyabiliriz.",
+     "satirlar": [
+      "bir kitap, bir kedi"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-02-ozel-cins",
+   "baslik": "Özel ve Cins İsimler",
+   "konu": "Kelime Türleri",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda özel isim ve cins ismi öğreneceğiz.",
+     "baslik": "Özel ve Cins İsim",
+     "alt": "Tek olan ve ortak olan"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Aynı türden bütün varlıklara verilen isimlere cins isim denir. Şehir, kedi, nehir cins isimdir.",
+     "ciftler": [
+      [
+       "şehir",
+       "Ankara"
+      ],
+      [
+       "kedi",
+       "Pamuk"
+      ],
+      [
+       "nehir",
+       "Fırat"
+      ]
+     ],
+     "bag": "zit",
+     "baslik": "cins isim / özel isim"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Tek olan bir varlığa verilen isme özel isim denir. Özel isimler büyük harfle başlar.",
+     "satirlar": [
+      "Ankara, Pamuk, Fırat"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Cümledeki özel isimleri bulalım.",
+     "parcalar": [
+      "Zeynep",
+      "yazın",
+      "Antalya'ya",
+      "gitti."
+     ],
+     "vurgu": {
+      "0": "özel isim",
+      "2": "özel isim"
+     },
+     "renk": "mor"
+    }
+   ]
+  },
+  {
+   "id": "tur3-03-sifatlar",
+   "baslik": "Sıfatlar",
+   "konu": "Kelime Türleri",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sıfatları öğreneceğiz.",
+     "baslik": "Sıfatlar (Ön Adlar)",
+     "alt": "Nasıl? Kaç?"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "İsimlerin rengini, şeklini, sayısını anlatan kelimelere sıfat denir. Kırmızı elma dediğimizde kırmızı sıfattır.",
+     "emoji": "🍎",
+     "buyuk": "kırmızı elma",
+     "kucuk": "Nasıl elma? Kırmızı."
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "İki kedi dediğimizde iki sıfattır. Kaç kedi sorusuna cevap verir.",
+     "emoji": "🐱",
+     "buyuk": "iki kedi",
+     "kucuk": "Kaç kedi? İki."
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Cümledeki sıfatları bulalım.",
+     "parcalar": [
+      "Küçük",
+      "kuş",
+      "yeşil",
+      "ağaca",
+      "kondu."
+     ],
+     "vurgu": {
+      "0": "sıfat",
+      "2": "sıfat"
+     },
+     "renk": "turkuaz"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sıfatı bulmak için isme nasıl, kaç, hangi soruları sorulur.",
+     "satirlar": [
+      "Nasıl?",
+      "Kaç?",
+      "Hangi?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-04-eylemler",
+   "baslik": "Eylemler",
+   "konu": "Kelime Türleri",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda eylemleri öğreneceğiz.",
+     "baslik": "Eylemler (Fiiller)",
+     "alt": "İş, oluş, hareket"
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "İş, oluş ya da hareket bildiren kelimelere eylem denir.",
+     "ogeler": [
+      [
+       "🏃",
+       "koşmak",
+       ""
+      ],
+      [
+       "📖",
+       "okumak",
+       ""
+      ],
+      [
+       "✍",
+       "yazmak",
+       ""
+      ],
+      [
+       "😴",
+       "uyumak",
+       ""
+      ]
+     ]
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Cümledeki eylemi bulalım.",
+     "parcalar": [
+      "Kuşlar",
+      "gökyüzünde",
+      "uçuyor."
+     ],
+     "vurgu": {
+      "2": "eylem"
+     },
+     "renk": "pembe"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Eylemlerin sonuna -mek ya da -mak eki getirebiliriz.",
+     "satirlar": [
+      "gel → gelmek",
+      "koş → koşmak"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-05-kok-ek",
+   "baslik": "Kök ve Ek",
+   "konu": "Kelime Yapısı",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kelimenin kökünü ve eklerini öğreneceğiz.",
+     "baslik": "Kök ve Ek",
+     "alt": "Kelimenin parçaları"
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Kelimenin parçalanamayan, anlamlı en küçük parçasına kök denir. Gözlük kelimesini ayıralım: göz, lük. Göz köktür.",
+     "kelime": "gözlük",
+     "heceler": [
+      "göz",
+      "lük"
+     ],
+     "emoji": "👓",
+     "etiket": "kök + ek"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Göz köktür. Lük ise ektir. Ek, köke yeni anlam katar.",
+     "satirlar": [
+      "göz + lük = gözlük"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Kitaplar kelimesini ayıralım: kitap, lar. Kök kitap, ek ise lar.",
+     "kelime": "kitaplar",
+     "heceler": [
+      "kitap",
+      "lar"
+     ],
+     "emoji": "📚",
+     "etiket": "kök + ek"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Ekler tek başına bir anlam taşımaz.",
+     "satirlar": [
+      "-lar, -lik, -ci"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-06-kisaltmalar",
+   "baslik": "Kısaltmalar",
+   "konu": "Yazım",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kısaltmaları öğreneceğiz.",
+     "baslik": "Kısaltmalar",
+     "alt": "Kısa yazım"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Bazı kelimeleri kısaltarak yazarız. Türkiye Büyük Millet Meclisi, TBMM diye kısaltılır.",
+     "ciftler": [
+      [
+       "Türkiye Büyük Millet Meclisi",
+       "TBMM"
+      ]
+     ],
+     "bag": "zit"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Ölçü birimleri de kısaltılır. Santimetre cm, kilogram kg, litre L diye yazılır.",
+     "ciftler": [
+      [
+       "santimetre",
+       "cm"
+      ],
+      [
+       "kilogram",
+       "kg"
+      ],
+      [
+       "litre",
+       "L"
+      ]
+     ],
+     "bag": "zit"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Bazı kısaltmalardan sonra nokta konur. Sokak sok., numara no. diye kısaltılabilir.",
+     "ciftler": [
+      [
+       "sokak",
+       "sok."
+      ],
+      [
+       "numara",
+       "No."
+      ]
+     ],
+     "bag": "zit"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Kısaltmalar yazıyı kısaltır ama anlamı değiştirmez.",
+     "satirlar": [
+      "TBMM = Türkiye Büyük Millet Meclisi"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-07-deyimler",
+   "baslik": "Deyimler",
+   "konu": "Söz Varlığı",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda deyimleri öğreneceğiz.",
+     "baslik": "Deyimler",
+     "alt": "Kalıplaşmış sözler"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Genellikle gerçek anlamından farklı bir anlam taşıyan kalıplaşmış sözlere deyim denir. Kulak kesilmek, çok dikkatle dinlemek demektir.",
+     "emoji": "👂",
+     "buyuk": "kulak kesilmek",
+     "kucuk": "çok dikkatli dinlemek"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Etekleri zil çalmak, çok sevinmek demektir.",
+     "emoji": "🔔",
+     "buyuk": "etekleri zil çalmak",
+     "kucuk": "çok sevinmek"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Göz atmak, bir şeye kısaca bakmak demektir.",
+     "emoji": "👀",
+     "buyuk": "göz atmak",
+     "kucuk": "kısaca bakmak"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Deyimler konuşmamızı daha etkili yapar.",
+     "satirlar": [
+      "Kulak kesildi = dikkatle dinledi"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-08-atasozleri",
+   "baslik": "Atasözleri",
+   "konu": "Söz Varlığı",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda atasözlerini öğreneceğiz.",
+     "baslik": "Atasözleri",
+     "alt": "Atalarımızın öğütleri"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Uzun deneyimlerle oluşmuş, öğüt veren kalıplaşmış sözlere atasözü denir.",
+     "emoji": "👴",
+     "buyuk": "Damlaya damlaya göl olur.",
+     "kucuk": "Küçük birikimler büyür."
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bu atasözü, bir işi zamanında yapmamız gerektiğini anlatır.",
+     "emoji": "⏰",
+     "buyuk": "Bugünün işini yarına bırakma.",
+     "kucuk": "İşini zamanında yap."
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bu atasözü de birlikte çalışmanın gücünü anlatır.",
+     "emoji": "🤝",
+     "buyuk": "Birlikten kuvvet doğar.",
+     "kucuk": "Birlikte güçlüyüz."
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Deyim bir durumu anlatır, atasözü öğüt verir.",
+     "satirlar": [
+      "Deyim: durum anlatır",
+      "Atasözü: öğüt verir"
+     ],
+     "vurgu": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-09-gercek-hayal",
+   "baslik": "Gerçek ve Hayal Ürünü",
+   "konu": "Anlama",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda gerçek ve hayal ürünü ifadeleri ayırt edeceğiz.",
+     "baslik": "Gerçek mi, Hayal mi?",
+     "alt": "İfadeleri ayırt edelim"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Gerçek hayatta olabilen olaylara gerçek ifade denir. Kuşlar gökyüzünde uçar.",
+     "emoji": "🐦",
+     "buyuk": "Kuşlar uçar.",
+     "kucuk": "Gerçek"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Gerçek hayatta olamayan olaylar hayal ürünüdür. Kedi okula gidip ders anlattı.",
+     "emoji": "🐱",
+     "buyuk": "Kedi ders anlattı.",
+     "kucuk": "Hayal ürünü"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Masallarda hayal ürünü olaylar anlatılır. Ağaçlar konuşur, hayvanlar şarkı söyler.",
+     "emoji": "🌳",
+     "buyuk": "Ağaç konuştu.",
+     "kucuk": "Hayal ürünü"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Soralım: Bu gerçekte olabilir mi?",
+     "satirlar": [
+      "Olabilir: gerçek",
+      "Olamaz: hayal ürünü"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-10-kesme-isareti",
+   "baslik": "Kesme İşareti",
+   "konu": "Noktalama",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kesme işaretinin kullanımını öğreneceğiz.",
+     "baslik": "Kesme İşareti",
+     "alt": "Özel isimlere gelen ekler"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Özel isimlere gelen ekleri kesme işaretiyle ayırırız.",
+     "parcalar": [
+      "Ali'nin",
+      "kalemi",
+      "kırmızı."
+     ],
+     "vurgu": {
+      "0": "kesme işareti"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Şehir ve ülke adlarına gelen ekler de ayrılır.",
+     "parcalar": [
+      "Yazın",
+      "İzmir'e",
+      "gideceğiz."
+     ],
+     "vurgu": {
+      "1": "kesme işareti"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Sayılara gelen ekler de kesme işaretiyle ayrılır.",
+     "parcalar": [
+      "Saat",
+      "3'te",
+      "buluşalım."
+     ],
+     "vurgu": {
+      "1": "kesme işareti"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Cins isimlere gelen ekler ayrılmaz.",
+     "satirlar": [
+      "okula (doğru)",
+      "okul'a (yanlış)"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-11-iki-nokta",
+   "baslik": "İki Nokta",
+   "konu": "Noktalama",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda iki noktanın kullanımını öğreneceğiz.",
+     "baslik": "İki Nokta",
+     "alt": "Açıklama ve örnek"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Açıklama yapılacak ya da örnek verilecek sözlerden sonra iki nokta konur.",
+     "parcalar": [
+      "Çantamda",
+      "şunlar",
+      "var:",
+      "kalem,",
+      "silgi,",
+      "defter."
+     ],
+     "vurgu": {
+      "2": "iki nokta"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Konuşma çizgisi kullanılmadan önce de iki nokta konur.",
+     "parcalar": [
+      "Öğretmen",
+      "şöyle",
+      "dedi:"
+     ],
+     "vurgu": {
+      "2": "iki nokta"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "İki noktadan sonra bir açıklama ya da sıralama gelir.",
+     "satirlar": [
+      "şunlar var: ..."
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-12-de-da",
+   "baslik": "\"de\" ve \"da\" Bağlacı",
+   "konu": "Yazım",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda de ve da bağlacının yazımını öğreneceğiz.",
+     "baslik": "de / da Bağlacı",
+     "alt": "Ayrı mı, bitişik mi?"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "De ve da bağlacı ayrı yazılır. Bu bağlaç cümleye de anlamı katar.",
+     "parcalar": [
+      "Ben",
+      "de",
+      "geleceğim."
+     ],
+     "vurgu": {
+      "1": "bağlaç: ayrı"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Bulunma eki olan de ise kelimeye bitişik yazılır.",
+     "parcalar": [
+      "Kitap",
+      "masada",
+      "duruyor."
+     ],
+     "vurgu": {
+      "1": "ek: bitişik"
+     },
+     "renk": "mavi"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Cümleden çıkardığımızda anlam bozulmuyorsa de ayrı yazılır.",
+     "satirlar": [
+      "Ben de geldim → Ben geldim"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bağlaç olan de ayrı, ek olan de bitişik yazılır.",
+     "satirlar": [
+      "Sen de gel. (bağlaç)",
+      "Evde kal. (ek)"
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-13-ki",
+   "baslik": "\"ki\" Bağlacı",
+   "konu": "Yazım",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda ki bağlacının yazımını öğreneceğiz.",
+     "baslik": "ki Bağlacı",
+     "alt": "Ayrı yazılır"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Ki bağlacı ayrı yazılır.",
+     "parcalar": [
+      "Duydum",
+      "ki",
+      "okul",
+      "tatil",
+      "olmuş."
+     ],
+     "vurgu": {
+      "1": "bağlaç: ayrı"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Ki eki ise bitişik yazılır. Evdeki, yarınki gibi.",
+     "parcalar": [
+      "Bahçedeki",
+      "çiçekler",
+      "açtı."
+     ],
+     "vurgu": {
+      "0": "ek: bitişik"
+     },
+     "renk": "mavi"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Ki bağlacı iki cümleyi birbirine bağlar.",
+     "satirlar": [
+      "Öyle yorgunum ki ..."
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur3-14-ozet",
+   "baslik": "Kelime Türleri Tekrarı",
+   "konu": "Kelime Türleri",
+   "sinif": 3,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kelime türlerini tekrar edeceğiz.",
+     "baslik": "Kelime Türleri",
+     "alt": "İsim, sıfat, eylem"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Bu cümlede isim, sıfat ve eylemi bulalım.",
+     "parcalar": [
+      "Sarı",
+      "kedi",
+      "süt",
+      "içti."
+     ],
+     "vurgu": {
+      "0": "sıfat",
+      "1": "isim",
+      "2": "isim",
+      "3": "eylem"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "İsim varlıkların adıdır, sıfat isimleri niteler, eylem iş ve hareket bildirir.",
+     "satirlar": [
+      "İsim: kedi",
+      "Sıfat: sarı",
+      "Eylem: içti"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-01-kisi-zamirleri",
+   "baslik": "Kişi Zamirleri",
+   "konu": "Kelime Türleri",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kişi zamirlerini öğreneceğiz.",
+     "baslik": "Kişi Zamirleri",
+     "alt": "İsimlerin yerini tutar"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "İsimlerin yerini tutan kelimelere zamir denir. Kişi zamirleri şunlardır:",
+     "satirlar": [
+      "ben, sen, o",
+      "biz, siz, onlar"
+     ]
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Ali okula gitti. Bu cümlede Ali yerine o diyebiliriz.",
+     "parcalar": [
+      "O",
+      "okula",
+      "gitti."
+     ],
+     "vurgu": {
+      "0": "zamir"
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Biz ve siz de kişi zamirleridir.",
+     "parcalar": [
+      "Biz",
+      "parka",
+      "gidiyoruz,",
+      "siz",
+      "de",
+      "gelin."
+     ],
+     "vurgu": {
+      "0": "zamir",
+      "3": "zamir"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Zamirler aynı ismi tekrar tekrar söylememizi önler.",
+     "satirlar": [
+      "Ali → o",
+      "Ali ile ben → biz"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-02-sayi-sifatlari",
+   "baslik": "Sayı Sıfatları",
+   "konu": "Kelime Türleri",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayı sıfatlarını öğreneceğiz.",
+     "baslik": "Sayı Sıfatları",
+     "alt": "Kaç tane? Kaçıncı?"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Varlıkların sayısını bildiren sıfatlara sayı sıfatı denir. Üç kitap dediğimizde üç sayı sıfatıdır.",
+     "emoji": "📚",
+     "buyuk": "üç kitap",
+     "kucuk": "Kaç kitap?"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sıra bildiren sayı sıfatları da vardır. Birinci sınıf, üçüncü kat gibi.",
+     "emoji": "🏆",
+     "buyuk": "birinci sınıf",
+     "kucuk": "Kaçıncı sınıf?"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Cümledeki sayı sıfatlarını bulalım.",
+     "parcalar": [
+      "Beş",
+      "öğrenci",
+      "ikinci",
+      "sırada",
+      "oturuyor."
+     ],
+     "vurgu": {
+      "0": "sayı sıfatı",
+      "2": "sayı sıfatı"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sayı sıfatı isme kaç ya da kaçıncı sorusunu sorunca bulunur.",
+     "satirlar": [
+      "Kaç?",
+      "Kaçıncı?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-03-gercek-mecaz",
+   "baslik": "Gerçek ve Mecaz Anlam",
+   "konu": "Kelime Bilgisi",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda gerçek ve mecaz anlamı öğreneceğiz.",
+     "baslik": "Gerçek ve Mecaz Anlam",
+     "alt": "Kelimenin anlamları"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bir kelimenin akla gelen ilk anlamına gerçek anlam denir. Sıcak çorba derken sıcak gerçek anlamdadır.",
+     "emoji": "🍲",
+     "buyuk": "sıcak çorba",
+     "kucuk": "gerçek anlam"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Kelimenin gerçek anlamından uzaklaşarak kazandığı anlama mecaz anlam denir. Sıcak insan, cana yakın insan demektir.",
+     "emoji": "🤗",
+     "buyuk": "sıcak insan",
+     "kucuk": "mecaz anlam: cana yakın"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Başka örnekler.",
+     "ciftler": [
+      [
+       "tatlı elma",
+       "gerçek"
+      ],
+      [
+       "tatlı söz",
+       "mecaz"
+      ],
+      [
+       "ağır çanta",
+       "gerçek"
+      ],
+      [
+       "ağır söz",
+       "mecaz"
+      ]
+     ],
+     "bag": "es"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Mecaz anlamı cümlenin bütününden anlarız.",
+     "satirlar": [
+      "Kelime + cümle = anlam"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-04-yapim-cekim",
+   "baslik": "Yapım ve Çekim Ekleri",
+   "konu": "Kelime Yapısı",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda yapım ve çekim eklerini öğreneceğiz.",
+     "baslik": "Yapım ve Çekim Ekleri",
+     "alt": "Ekler iki çeşittir"
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Yapım ekleri kelimeye yeni bir anlam katar. Gözcü kelimesini ayıralım: göz, cü. Göz kelimesine cü eki gelince gözcü olur.",
+     "kelime": "gözcü",
+     "heceler": [
+      "göz",
+      "cü"
+     ],
+     "emoji": "🔭",
+     "etiket": "kök + yapım eki"
+    },
+    {
+     "tip": "hece",
+     "anlatim": "Çekim ekleri kelimenin anlamını değiştirmez. Kitaplar kelimesini ayıralım: kitap, lar. Kitaplar yine kitaptır, sadece çoğul olur.",
+     "kelime": "kitaplar",
+     "heceler": [
+      "kitap",
+      "lar"
+     ],
+     "emoji": "📚",
+     "etiket": "kök + çekim eki"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Karşılaştıralım.",
+     "ciftler": [
+      [
+       "yol + cu = yolcu",
+       "yapım eki"
+      ],
+      [
+       "ev + de = evde",
+       "çekim eki"
+      ],
+      [
+       "tuz + luk = tuzluk",
+       "yapım eki"
+      ]
+     ],
+     "bag": "es"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yapım eki yeni kelime türetir, çekim eki türetmez.",
+     "satirlar": [
+      "Yapım: yeni kelime",
+      "Çekim: aynı kelime"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-05-oznel-nesnel",
+   "baslik": "Öznel ve Nesnel Yargı",
+   "konu": "Anlama",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda öznel ve nesnel yargıları ayırt edeceğiz.",
+     "baslik": "Öznel ve Nesnel",
+     "alt": "Görüş mü, bilgi mi?"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Kanıtlanabilen, herkes için doğru olan yargılara nesnel yargı denir. Türkiye'nin başkenti Ankara'dır.",
+     "emoji": "🗺",
+     "buyuk": "Ankara başkenttir.",
+     "kucuk": "Nesnel: kanıtlanabilir"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Kişiden kişiye değişen, duygu ve düşünce bildiren yargılara öznel yargı denir.",
+     "emoji": "🍦",
+     "buyuk": "Dondurma en güzel tatlıdır.",
+     "kucuk": "Öznel: kişisel görüş"
+    },
+    {
+     "tip": "kelime_ciftleri",
+     "anlatim": "Hangisi öznel, hangisi nesnel?",
+     "ciftler": [
+      [
+       "Bir hafta 7 gündür.",
+       "nesnel"
+      ],
+      [
+       "Bu film çok sıkıcı.",
+       "öznel"
+      ],
+      [
+       "Su 100 derecede kaynar.",
+       "nesnel"
+      ]
+     ],
+     "bag": "es"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Güzel, çirkin, en iyi, bence gibi sözler genellikle öznel yargı bildirir.",
+     "satirlar": [
+      "bence, güzel, en iyi"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-06-sebep-sonuc",
+   "baslik": "Sebep-Sonuç Cümleleri",
+   "konu": "Cümle Bilgisi",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sebep-sonuç ilişkisini öğreneceğiz.",
+     "baslik": "Sebep ve Sonuç",
+     "alt": "Neden oldu?"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Bir olayın nedenini bildiren cümlelere sebep-sonuç cümlesi denir.",
+     "parcalar": [
+      "Yağmur",
+      "yağdığı",
+      "için",
+      "yerler",
+      "ıslandı."
+     ],
+     "vurgu": {
+      "0": "sebep",
+      "1": "",
+      "2": "",
+      "3": "sonuç",
+      "4": ""
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Sebep bildiren sözler: için, çünkü, -den dolayı.",
+     "parcalar": [
+      "Hastalandığı",
+      "için",
+      "okula",
+      "gelmedi."
+     ],
+     "vurgu": {
+      "0": "sebep",
+      "1": "",
+      "2": "sonuç",
+      "3": ""
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Soralım: Neden? Cevabı sebeptir.",
+     "satirlar": [
+      "Yerler neden ıslandı? Yağmur yağdığı için."
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-07-amac-sonuc",
+   "baslik": "Amaç-Sonuç Cümleleri",
+   "konu": "Cümle Bilgisi",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda amaç-sonuç ilişkisini öğreneceğiz.",
+     "baslik": "Amaç ve Sonuç",
+     "alt": "Ne için?"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Bir işin hangi amaçla yapıldığını bildiren cümlelere amaç-sonuç cümlesi denir.",
+     "parcalar": [
+      "Sınavı",
+      "kazanmak",
+      "için",
+      "çok",
+      "çalıştı."
+     ],
+     "vurgu": {
+      "0": "amaç",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "sonuç"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sebepte olay gerçekleşmiştir, amaçta gerçekleşmesi istenir.",
+     "satirlar": [
+      "Sebep: yağmur yağdı",
+      "Amaç: kazanmak istiyor"
+     ],
+     "vurgu": [
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Soralım: Ne için? Cevabı amaçtır.",
+     "satirlar": [
+      "Ne için çalıştı? Kazanmak için."
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-08-ana-fikir",
+   "baslik": "Ana Fikir",
+   "konu": "Anlama",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda ana fikri bulmayı öğreneceğiz.",
+     "baslik": "Ana Fikir",
+     "alt": "Metnin asıl mesajı"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Yazarın metinde okura vermek istediği asıl mesaja ana fikir denir.",
+     "satirlar": [
+      "Ana fikir = asıl mesaj"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Karınca ile ağustos böceği hikayesini düşünelim. Karınca yaz boyu çalıştı, kışın aç kalmadı.",
+     "emoji": "🐜",
+     "buyuk": "Karınca ve Ağustos Böceği",
+     "kucuk": "Bir hikâye"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bu hikâyenin ana fikri: Geleceği düşünüp çalışmalıyız.",
+     "satirlar": [
+      "Ana fikir: Çalışan kazanır."
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Ana fikri bulmak için sor: Yazar bize ne öğretmek istiyor?",
+     "satirlar": [
+      "Yazar ne anlatmak istiyor?"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-09-5n1k",
+   "baslik": "5N1K Soruları",
+   "konu": "Anlama",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda metni anlamamızı kolaylaştıran 5N1K sorularını öğreneceğiz.",
+     "baslik": "5N1K",
+     "alt": "Ne, nerede, ne zaman, nasıl, neden, kim"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Bir olayı anlamak için altı soru sorarız.",
+     "satirlar": [
+      "Ne? Nerede? Ne zaman?",
+      "Nasıl? Neden? Kim?"
+     ]
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Cümlede 5N1K sorularının cevaplarını bulalım.",
+     "parcalar": [
+      "Dün",
+      "Elif",
+      "bahçede",
+      "kediyi",
+      "sevdi."
+     ],
+     "vurgu": {
+      "0": "ne zaman",
+      "1": "kim",
+      "2": "nerede",
+      "3": "neyi",
+      "4": "ne yaptı"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "5N1K soruları haber yazılarında da kullanılır.",
+     "satirlar": [
+      "Kim? Ne yaptı?"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-10-sayilarin-yazimi",
+   "baslik": "Sayıların Yazımı",
+   "konu": "Yazım",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sayıların yazımını öğreneceğiz.",
+     "baslik": "Sayıların Yazımı",
+     "alt": "Rakamla mı, yazıyla mı?"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Sayılar yazıyla yazılırken her kelime ayrı yazılır.",
+     "parcalar": [
+      "iki",
+      "yüz",
+      "otuz",
+      "beş"
+     ],
+     "vurgu": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": ""
+     }
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Saat, tarih ve ölçüler rakamla yazılabilir.",
+     "parcalar": [
+      "Tören",
+      "29",
+      "Ekim'de",
+      "saat",
+      "10'da."
+     ],
+     "vurgu": {
+      "1": "tarih",
+      "2": "",
+      "4": "saat"
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Sıra sayıları rakamla yazılırken rakamdan sonra nokta konur.",
+     "satirlar": [
+      "3. sınıf = üçüncü sınıf"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-11-tirnak",
+   "baslik": "Tırnak İşareti",
+   "konu": "Noktalama",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda tırnak işaretinin kullanımını öğreneceğiz.",
+     "baslik": "Tırnak İşareti",
+     "alt": "Başkasının sözü"
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Başkasından aynen aktarılan sözler tırnak içine alınır.",
+     "parcalar": [
+      "Atatürk",
+      "\"Egemenlik",
+      "kayıtsız",
+      "şartsız",
+      "milletindir.\"",
+      "demiştir."
+     ],
+     "vurgu": {
+      "1": "tırnak",
+      "4": "tırnak"
+     },
+     "boyut": 40
+    },
+    {
+     "tip": "cumle",
+     "anlatim": "Kitap, dergi ve eser adları da tırnak içine alınabilir.",
+     "parcalar": [
+      "\"Küçük",
+      "Prens\"",
+      "kitabını",
+      "okudum."
+     ],
+     "vurgu": {
+      "0": "",
+      "1": ""
+     }
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Tırnak işareti aktarılan sözü diğer sözlerden ayırır.",
+     "satirlar": [
+      "\"...\" aynen aktarılan söz"
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tur4-12-yazim-kurallari",
+   "baslik": "Yazım Kuralları Tekrarı",
+   "konu": "Yazım",
+   "sinif": 4,
+   "ders": "Türkçe",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda önemli yazım kurallarını tekrar edeceğiz.",
+     "baslik": "Yazım Kuralları",
+     "alt": "Kısa tekrar"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "mi soru eki ayrı yazılır.",
+     "satirlar": [
+      "Geldin mi? (doğru)"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "de ve ki bağlaçları ayrı yazılır.",
+     "satirlar": [
+      "Ben de geldim.",
+      "Bilirim ki başarırsın."
+     ],
+     "vurgu": [
+      0,
+      1
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Özel isimlere gelen ekler kesme işaretiyle ayrılır.",
+     "satirlar": [
+      "Ayşe'nin, Bursa'ya"
+     ],
+     "vurgu": [
+      0
+     ]
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Cümleler büyük harfle başlar, uygun noktalama işaretiyle biter.",
+     "satirlar": [
+      "Büyük harfle başla, noktayla bitir."
+     ],
+     "vurgu": [
+      0
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-01-greetings",
+   "baslik": "Greetings",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda selamlaşmanın İngilizcesini öğreneceğiz.",
+     "baslik": "Greetings",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Hello – Merhaba",
+     "emoji": "👋",
+     "buyuk": "Hello",
+     "kucuk": "Merhaba",
+     "ses": [
+      [
+       "en",
+       "Hello"
+      ],
+      [
+       "tr",
+       "Merhaba"
+      ],
+      [
+       "en",
+       "Hello"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Good morning – Günaydın",
+     "emoji": "🌅",
+     "buyuk": "Good morning",
+     "kucuk": "Günaydın",
+     "ses": [
+      [
+       "en",
+       "Good morning"
+      ],
+      [
+       "tr",
+       "Günaydın"
+      ],
+      [
+       "en",
+       "Good morning"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Hi – Selam",
+     "emoji": "🙋",
+     "buyuk": "Hi",
+     "kucuk": "Selam",
+     "ses": [
+      [
+       "en",
+       "Hi"
+      ],
+      [
+       "tr",
+       "Selam"
+      ],
+      [
+       "en",
+       "Hi"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Goodbye – Hoşça kal",
+     "emoji": "👋",
+     "buyuk": "Goodbye",
+     "kucuk": "Hoşça kal",
+     "ses": [
+      [
+       "en",
+       "Goodbye"
+      ],
+      [
+       "tr",
+       "Hoşça kal"
+      ],
+      [
+       "en",
+       "Goodbye"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Thank you – Teşekkür ederim",
+     "emoji": "🙏",
+     "buyuk": "Thank you",
+     "kucuk": "Teşekkür ederim",
+     "ses": [
+      [
+       "en",
+       "Thank you"
+      ],
+      [
+       "tr",
+       "Teşekkür ederim"
+      ],
+      [
+       "en",
+       "Thank you"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Hello, Good morning, Hi, Goodbye, Thank you",
+     "ogeler": [
+      [
+       "👋",
+       "Hello",
+       "Merhaba"
+      ],
+      [
+       "🌅",
+       "Good morning",
+       "Günaydın"
+      ],
+      [
+       "🙋",
+       "Hi",
+       "Selam"
+      ],
+      [
+       "👋",
+       "Goodbye",
+       "Hoşça kal"
+      ],
+      [
+       "🙏",
+       "Thank you",
+       "Teşekkür ederim"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Hello. Good morning. Hi. Goodbye. Thank you."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-02-classroom",
+   "baslik": "In the Classroom",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sınıftaki eşyaların İngilizcesini öğreneceğiz.",
+     "baslik": "In the Classroom",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Book – Kitap",
+     "emoji": "📕",
+     "buyuk": "Book",
+     "kucuk": "Kitap",
+     "ses": [
+      [
+       "en",
+       "Book"
+      ],
+      [
+       "tr",
+       "Kitap"
+      ],
+      [
+       "en",
+       "Book"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Pencil – Kurşun kalem",
+     "emoji": "✏",
+     "buyuk": "Pencil",
+     "kucuk": "Kurşun kalem",
+     "ses": [
+      [
+       "en",
+       "Pencil"
+      ],
+      [
+       "tr",
+       "Kurşun kalem"
+      ],
+      [
+       "en",
+       "Pencil"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bag – Çanta",
+     "emoji": "🎒",
+     "buyuk": "Bag",
+     "kucuk": "Çanta",
+     "ses": [
+      [
+       "en",
+       "Bag"
+      ],
+      [
+       "tr",
+       "Çanta"
+      ],
+      [
+       "en",
+       "Bag"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Ruler – Cetvel",
+     "emoji": "📏",
+     "buyuk": "Ruler",
+     "kucuk": "Cetvel",
+     "ses": [
+      [
+       "en",
+       "Ruler"
+      ],
+      [
+       "tr",
+       "Cetvel"
+      ],
+      [
+       "en",
+       "Ruler"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Chair – Sandalye",
+     "emoji": "🪑",
+     "buyuk": "Chair",
+     "kucuk": "Sandalye",
+     "ses": [
+      [
+       "en",
+       "Chair"
+      ],
+      [
+       "tr",
+       "Sandalye"
+      ],
+      [
+       "en",
+       "Chair"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bin – Çöp kutusu",
+     "emoji": "🗑",
+     "buyuk": "Bin",
+     "kucuk": "Çöp kutusu",
+     "ses": [
+      [
+       "en",
+       "Bin"
+      ],
+      [
+       "tr",
+       "Çöp kutusu"
+      ],
+      [
+       "en",
+       "Bin"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Book, Pencil, Bag, Ruler, Chair, Bin",
+     "ogeler": [
+      [
+       "📕",
+       "Book",
+       "Kitap"
+      ],
+      [
+       "✏",
+       "Pencil",
+       "Kurşun kalem"
+      ],
+      [
+       "🎒",
+       "Bag",
+       "Çanta"
+      ],
+      [
+       "📏",
+       "Ruler",
+       "Cetvel"
+      ],
+      [
+       "🪑",
+       "Chair",
+       "Sandalye"
+      ],
+      [
+       "🗑",
+       "Bin",
+       "Çöp kutusu"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Book. Pencil. Bag. Ruler. Chair. Bin."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-03-numbers",
+   "baslik": "Numbers 1-10",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 1'den 10'a sayıların İngilizcesini öğreneceğiz.",
+     "baslik": "Numbers 1-10",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "One – Bir",
+     "emoji": "⭐",
+     "buyuk": "One",
+     "kucuk": "Bir",
+     "ses": [
+      [
+       "en",
+       "One"
+      ],
+      [
+       "tr",
+       "Bir"
+      ],
+      [
+       "en",
+       "One"
+      ]
+     ],
+     "adet": 1
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Two – İki",
+     "emoji": "⭐",
+     "buyuk": "Two",
+     "kucuk": "İki",
+     "ses": [
+      [
+       "en",
+       "Two"
+      ],
+      [
+       "tr",
+       "İki"
+      ],
+      [
+       "en",
+       "Two"
+      ]
+     ],
+     "adet": 2
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Three – Üç",
+     "emoji": "⭐",
+     "buyuk": "Three",
+     "kucuk": "Üç",
+     "ses": [
+      [
+       "en",
+       "Three"
+      ],
+      [
+       "tr",
+       "Üç"
+      ],
+      [
+       "en",
+       "Three"
+      ]
+     ],
+     "adet": 3
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Four – Dört",
+     "emoji": "⭐",
+     "buyuk": "Four",
+     "kucuk": "Dört",
+     "ses": [
+      [
+       "en",
+       "Four"
+      ],
+      [
+       "tr",
+       "Dört"
+      ],
+      [
+       "en",
+       "Four"
+      ]
+     ],
+     "adet": 4
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Five – Beş",
+     "emoji": "⭐",
+     "buyuk": "Five",
+     "kucuk": "Beş",
+     "ses": [
+      [
+       "en",
+       "Five"
+      ],
+      [
+       "tr",
+       "Beş"
+      ],
+      [
+       "en",
+       "Five"
+      ]
+     ],
+     "adet": 5
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Six – Altı",
+     "emoji": "⭐",
+     "buyuk": "Six",
+     "kucuk": "Altı",
+     "ses": [
+      [
+       "en",
+       "Six"
+      ],
+      [
+       "tr",
+       "Altı"
+      ],
+      [
+       "en",
+       "Six"
+      ]
+     ],
+     "adet": 6
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Seven – Yedi",
+     "emoji": "⭐",
+     "buyuk": "Seven",
+     "kucuk": "Yedi",
+     "ses": [
+      [
+       "en",
+       "Seven"
+      ],
+      [
+       "tr",
+       "Yedi"
+      ],
+      [
+       "en",
+       "Seven"
+      ]
+     ],
+     "adet": 7
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Eight – Sekiz",
+     "emoji": "⭐",
+     "buyuk": "Eight",
+     "kucuk": "Sekiz",
+     "ses": [
+      [
+       "en",
+       "Eight"
+      ],
+      [
+       "tr",
+       "Sekiz"
+      ],
+      [
+       "en",
+       "Eight"
+      ]
+     ],
+     "adet": 8
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Nine – Dokuz",
+     "emoji": "⭐",
+     "buyuk": "Nine",
+     "kucuk": "Dokuz",
+     "ses": [
+      [
+       "en",
+       "Nine"
+      ],
+      [
+       "tr",
+       "Dokuz"
+      ],
+      [
+       "en",
+       "Nine"
+      ]
+     ],
+     "adet": 9
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Ten – On",
+     "emoji": "⭐",
+     "buyuk": "Ten",
+     "kucuk": "On",
+     "ses": [
+      [
+       "en",
+       "Ten"
+      ],
+      [
+       "tr",
+       "On"
+      ],
+      [
+       "en",
+       "Ten"
+      ]
+     ],
+     "adet": 10
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: One, two, three ... ten",
+     "ogeler": [
+      [
+       "⭐",
+       "One",
+       "1"
+      ],
+      [
+       "⭐",
+       "Two",
+       "2"
+      ],
+      [
+       "⭐",
+       "Three",
+       "3"
+      ],
+      [
+       "⭐",
+       "Four",
+       "4"
+      ],
+      [
+       "⭐",
+       "Five",
+       "5"
+      ],
+      [
+       "⭐",
+       "Six",
+       "6"
+      ],
+      [
+       "⭐",
+       "Seven",
+       "7"
+      ],
+      [
+       "⭐",
+       "Eight",
+       "8"
+      ],
+      [
+       "⭐",
+       "Nine",
+       "9"
+      ],
+      [
+       "⭐",
+       "Ten",
+       "10"
+      ]
+     ],
+     "sutun": 5,
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "One. Two. Three. Four. Five. Six. Seven. Eight. Nine. Ten."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-04-colors",
+   "baslik": "Colors",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda renklerin İngilizcesini öğreneceğiz.",
+     "baslik": "Colors",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Red – Kırmızı",
+     "emoji": "🔴",
+     "buyuk": "Red",
+     "kucuk": "Kırmızı",
+     "ses": [
+      [
+       "en",
+       "Red"
+      ],
+      [
+       "tr",
+       "Kırmızı"
+      ],
+      [
+       "en",
+       "Red"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Blue – Mavi",
+     "emoji": "🔵",
+     "buyuk": "Blue",
+     "kucuk": "Mavi",
+     "ses": [
+      [
+       "en",
+       "Blue"
+      ],
+      [
+       "tr",
+       "Mavi"
+      ],
+      [
+       "en",
+       "Blue"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Green – Yeşil",
+     "emoji": "🟢",
+     "buyuk": "Green",
+     "kucuk": "Yeşil",
+     "ses": [
+      [
+       "en",
+       "Green"
+      ],
+      [
+       "tr",
+       "Yeşil"
+      ],
+      [
+       "en",
+       "Green"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Yellow – Sarı",
+     "emoji": "🟡",
+     "buyuk": "Yellow",
+     "kucuk": "Sarı",
+     "ses": [
+      [
+       "en",
+       "Yellow"
+      ],
+      [
+       "tr",
+       "Sarı"
+      ],
+      [
+       "en",
+       "Yellow"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Orange – Turuncu",
+     "emoji": "🟠",
+     "buyuk": "Orange",
+     "kucuk": "Turuncu",
+     "ses": [
+      [
+       "en",
+       "Orange"
+      ],
+      [
+       "tr",
+       "Turuncu"
+      ],
+      [
+       "en",
+       "Orange"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Purple – Mor",
+     "emoji": "🟣",
+     "buyuk": "Purple",
+     "kucuk": "Mor",
+     "ses": [
+      [
+       "en",
+       "Purple"
+      ],
+      [
+       "tr",
+       "Mor"
+      ],
+      [
+       "en",
+       "Purple"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Black – Siyah",
+     "emoji": "⚫",
+     "buyuk": "Black",
+     "kucuk": "Siyah",
+     "ses": [
+      [
+       "en",
+       "Black"
+      ],
+      [
+       "tr",
+       "Siyah"
+      ],
+      [
+       "en",
+       "Black"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "White – Beyaz",
+     "emoji": "⚪",
+     "buyuk": "White",
+     "kucuk": "Beyaz",
+     "ses": [
+      [
+       "en",
+       "White"
+      ],
+      [
+       "tr",
+       "Beyaz"
+      ],
+      [
+       "en",
+       "White"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Red, Blue, Green, Yellow, Orange, Purple, Black, White",
+     "ogeler": [
+      [
+       "🔴",
+       "Red",
+       "Kırmızı"
+      ],
+      [
+       "🔵",
+       "Blue",
+       "Mavi"
+      ],
+      [
+       "🟢",
+       "Green",
+       "Yeşil"
+      ],
+      [
+       "🟡",
+       "Yellow",
+       "Sarı"
+      ],
+      [
+       "🟠",
+       "Orange",
+       "Turuncu"
+      ],
+      [
+       "🟣",
+       "Purple",
+       "Mor"
+      ],
+      [
+       "⚫",
+       "Black",
+       "Siyah"
+      ],
+      [
+       "⚪",
+       "White",
+       "Beyaz"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Red. Blue. Green. Yellow. Orange. Purple. Black. White."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-05-body",
+   "baslik": "My Body",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda vücut bölümlerinin İngilizcesini öğreneceğiz.",
+     "baslik": "My Body",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Eyes – Gözler",
+     "emoji": "👀",
+     "buyuk": "Eyes",
+     "kucuk": "Gözler",
+     "ses": [
+      [
+       "en",
+       "Eyes"
+      ],
+      [
+       "tr",
+       "Gözler"
+      ],
+      [
+       "en",
+       "Eyes"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Ear – Kulak",
+     "emoji": "👂",
+     "buyuk": "Ear",
+     "kucuk": "Kulak",
+     "ses": [
+      [
+       "en",
+       "Ear"
+      ],
+      [
+       "tr",
+       "Kulak"
+      ],
+      [
+       "en",
+       "Ear"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Nose – Burun",
+     "emoji": "👃",
+     "buyuk": "Nose",
+     "kucuk": "Burun",
+     "ses": [
+      [
+       "en",
+       "Nose"
+      ],
+      [
+       "tr",
+       "Burun"
+      ],
+      [
+       "en",
+       "Nose"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Mouth – Ağız",
+     "emoji": "👄",
+     "buyuk": "Mouth",
+     "kucuk": "Ağız",
+     "ses": [
+      [
+       "en",
+       "Mouth"
+      ],
+      [
+       "tr",
+       "Ağız"
+      ],
+      [
+       "en",
+       "Mouth"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Hand – El",
+     "emoji": "✋",
+     "buyuk": "Hand",
+     "kucuk": "El",
+     "ses": [
+      [
+       "en",
+       "Hand"
+      ],
+      [
+       "tr",
+       "El"
+      ],
+      [
+       "en",
+       "Hand"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Foot – Ayak",
+     "emoji": "🦶",
+     "buyuk": "Foot",
+     "kucuk": "Ayak",
+     "ses": [
+      [
+       "en",
+       "Foot"
+      ],
+      [
+       "tr",
+       "Ayak"
+      ],
+      [
+       "en",
+       "Foot"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Eyes, Ear, Nose, Mouth, Hand, Foot",
+     "ogeler": [
+      [
+       "👀",
+       "Eyes",
+       "Gözler"
+      ],
+      [
+       "👂",
+       "Ear",
+       "Kulak"
+      ],
+      [
+       "👃",
+       "Nose",
+       "Burun"
+      ],
+      [
+       "👄",
+       "Mouth",
+       "Ağız"
+      ],
+      [
+       "✋",
+       "Hand",
+       "El"
+      ],
+      [
+       "🦶",
+       "Foot",
+       "Ayak"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Eyes. Ear. Nose. Mouth. Hand. Foot."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-06-pets",
+   "baslik": "Pets",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda evcil hayvanların İngilizcesini öğreneceğiz.",
+     "baslik": "Pets",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cat – Kedi",
+     "emoji": "🐱",
+     "buyuk": "Cat",
+     "kucuk": "Kedi",
+     "ses": [
+      [
+       "en",
+       "Cat"
+      ],
+      [
+       "tr",
+       "Kedi"
+      ],
+      [
+       "en",
+       "Cat"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Dog – Köpek",
+     "emoji": "🐶",
+     "buyuk": "Dog",
+     "kucuk": "Köpek",
+     "ses": [
+      [
+       "en",
+       "Dog"
+      ],
+      [
+       "tr",
+       "Köpek"
+      ],
+      [
+       "en",
+       "Dog"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Fish – Balık",
+     "emoji": "🐟",
+     "buyuk": "Fish",
+     "kucuk": "Balık",
+     "ses": [
+      [
+       "en",
+       "Fish"
+      ],
+      [
+       "tr",
+       "Balık"
+      ],
+      [
+       "en",
+       "Fish"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bird – Kuş",
+     "emoji": "🐦",
+     "buyuk": "Bird",
+     "kucuk": "Kuş",
+     "ses": [
+      [
+       "en",
+       "Bird"
+      ],
+      [
+       "tr",
+       "Kuş"
+      ],
+      [
+       "en",
+       "Bird"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Rabbit – Tavşan",
+     "emoji": "🐰",
+     "buyuk": "Rabbit",
+     "kucuk": "Tavşan",
+     "ses": [
+      [
+       "en",
+       "Rabbit"
+      ],
+      [
+       "tr",
+       "Tavşan"
+      ],
+      [
+       "en",
+       "Rabbit"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Turtle – Kaplumbağa",
+     "emoji": "🐢",
+     "buyuk": "Turtle",
+     "kucuk": "Kaplumbağa",
+     "ses": [
+      [
+       "en",
+       "Turtle"
+      ],
+      [
+       "tr",
+       "Kaplumbağa"
+      ],
+      [
+       "en",
+       "Turtle"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Cat, Dog, Fish, Bird, Rabbit, Turtle",
+     "ogeler": [
+      [
+       "🐱",
+       "Cat",
+       "Kedi"
+      ],
+      [
+       "🐶",
+       "Dog",
+       "Köpek"
+      ],
+      [
+       "🐟",
+       "Fish",
+       "Balık"
+      ],
+      [
+       "🐦",
+       "Bird",
+       "Kuş"
+      ],
+      [
+       "🐰",
+       "Rabbit",
+       "Tavşan"
+      ],
+      [
+       "🐢",
+       "Turtle",
+       "Kaplumbağa"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Cat. Dog. Fish. Bird. Rabbit. Turtle."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-07-fruit",
+   "baslik": "Fruit",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda meyvelerin İngilizcesini öğreneceğiz.",
+     "baslik": "Fruit",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Apple – Elma",
+     "emoji": "🍎",
+     "buyuk": "Apple",
+     "kucuk": "Elma",
+     "ses": [
+      [
+       "en",
+       "Apple"
+      ],
+      [
+       "tr",
+       "Elma"
+      ],
+      [
+       "en",
+       "Apple"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Banana – Muz",
+     "emoji": "🍌",
+     "buyuk": "Banana",
+     "kucuk": "Muz",
+     "ses": [
+      [
+       "en",
+       "Banana"
+      ],
+      [
+       "tr",
+       "Muz"
+      ],
+      [
+       "en",
+       "Banana"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Orange – Portakal",
+     "emoji": "🍊",
+     "buyuk": "Orange",
+     "kucuk": "Portakal",
+     "ses": [
+      [
+       "en",
+       "Orange"
+      ],
+      [
+       "tr",
+       "Portakal"
+      ],
+      [
+       "en",
+       "Orange"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Strawberry – Çilek",
+     "emoji": "🍓",
+     "buyuk": "Strawberry",
+     "kucuk": "Çilek",
+     "ses": [
+      [
+       "en",
+       "Strawberry"
+      ],
+      [
+       "tr",
+       "Çilek"
+      ],
+      [
+       "en",
+       "Strawberry"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Grapes – Üzüm",
+     "emoji": "🍇",
+     "buyuk": "Grapes",
+     "kucuk": "Üzüm",
+     "ses": [
+      [
+       "en",
+       "Grapes"
+      ],
+      [
+       "tr",
+       "Üzüm"
+      ],
+      [
+       "en",
+       "Grapes"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Watermelon – Karpuz",
+     "emoji": "🍉",
+     "buyuk": "Watermelon",
+     "kucuk": "Karpuz",
+     "ses": [
+      [
+       "en",
+       "Watermelon"
+      ],
+      [
+       "tr",
+       "Karpuz"
+      ],
+      [
+       "en",
+       "Watermelon"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Apple, Banana, Orange, Strawberry, Grapes, Watermelon",
+     "ogeler": [
+      [
+       "🍎",
+       "Apple",
+       "Elma"
+      ],
+      [
+       "🍌",
+       "Banana",
+       "Muz"
+      ],
+      [
+       "🍊",
+       "Orange",
+       "Portakal"
+      ],
+      [
+       "🍓",
+       "Strawberry",
+       "Çilek"
+      ],
+      [
+       "🍇",
+       "Grapes",
+       "Üzüm"
+      ],
+      [
+       "🍉",
+       "Watermelon",
+       "Karpuz"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Apple. Banana. Orange. Strawberry. Grapes. Watermelon."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-08-animals",
+   "baslik": "Animals",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda hayvanların İngilizcesini öğreneceğiz.",
+     "baslik": "Animals",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Lion – Aslan",
+     "emoji": "🦁",
+     "buyuk": "Lion",
+     "kucuk": "Aslan",
+     "ses": [
+      [
+       "en",
+       "Lion"
+      ],
+      [
+       "tr",
+       "Aslan"
+      ],
+      [
+       "en",
+       "Lion"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Elephant – Fil",
+     "emoji": "🐘",
+     "buyuk": "Elephant",
+     "kucuk": "Fil",
+     "ses": [
+      [
+       "en",
+       "Elephant"
+      ],
+      [
+       "tr",
+       "Fil"
+      ],
+      [
+       "en",
+       "Elephant"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Monkey – Maymun",
+     "emoji": "🐒",
+     "buyuk": "Monkey",
+     "kucuk": "Maymun",
+     "ses": [
+      [
+       "en",
+       "Monkey"
+      ],
+      [
+       "tr",
+       "Maymun"
+      ],
+      [
+       "en",
+       "Monkey"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Giraffe – Zürafa",
+     "emoji": "🦒",
+     "buyuk": "Giraffe",
+     "kucuk": "Zürafa",
+     "ses": [
+      [
+       "en",
+       "Giraffe"
+      ],
+      [
+       "tr",
+       "Zürafa"
+      ],
+      [
+       "en",
+       "Giraffe"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bear – Ayı",
+     "emoji": "🐻",
+     "buyuk": "Bear",
+     "kucuk": "Ayı",
+     "ses": [
+      [
+       "en",
+       "Bear"
+      ],
+      [
+       "tr",
+       "Ayı"
+      ],
+      [
+       "en",
+       "Bear"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cow – İnek",
+     "emoji": "🐄",
+     "buyuk": "Cow",
+     "kucuk": "İnek",
+     "ses": [
+      [
+       "en",
+       "Cow"
+      ],
+      [
+       "tr",
+       "İnek"
+      ],
+      [
+       "en",
+       "Cow"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Lion, Elephant, Monkey, Giraffe, Bear, Cow",
+     "ogeler": [
+      [
+       "🦁",
+       "Lion",
+       "Aslan"
+      ],
+      [
+       "🐘",
+       "Elephant",
+       "Fil"
+      ],
+      [
+       "🐒",
+       "Monkey",
+       "Maymun"
+      ],
+      [
+       "🦒",
+       "Giraffe",
+       "Zürafa"
+      ],
+      [
+       "🐻",
+       "Bear",
+       "Ayı"
+      ],
+      [
+       "🐄",
+       "Cow",
+       "İnek"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Lion. Elephant. Monkey. Giraffe. Bear. Cow."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-09-actions",
+   "baslik": "Actions",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda hareketlerin İngilizcesini öğreneceğiz.",
+     "baslik": "Actions",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Run – Koş",
+     "emoji": "🏃",
+     "buyuk": "Run",
+     "kucuk": "Koş",
+     "ses": [
+      [
+       "en",
+       "Run"
+      ],
+      [
+       "tr",
+       "Koş"
+      ],
+      [
+       "en",
+       "Run"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Jump – Zıpla",
+     "emoji": "🦘",
+     "buyuk": "Jump",
+     "kucuk": "Zıpla",
+     "ses": [
+      [
+       "en",
+       "Jump"
+      ],
+      [
+       "tr",
+       "Zıpla"
+      ],
+      [
+       "en",
+       "Jump"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Swim – Yüz",
+     "emoji": "🏊",
+     "buyuk": "Swim",
+     "kucuk": "Yüz",
+     "ses": [
+      [
+       "en",
+       "Swim"
+      ],
+      [
+       "tr",
+       "Yüz"
+      ],
+      [
+       "en",
+       "Swim"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Dance – Dans et",
+     "emoji": "💃",
+     "buyuk": "Dance",
+     "kucuk": "Dans et",
+     "ses": [
+      [
+       "en",
+       "Dance"
+      ],
+      [
+       "tr",
+       "Dans et"
+      ],
+      [
+       "en",
+       "Dance"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sing – Şarkı söyle",
+     "emoji": "🎤",
+     "buyuk": "Sing",
+     "kucuk": "Şarkı söyle",
+     "ses": [
+      [
+       "en",
+       "Sing"
+      ],
+      [
+       "tr",
+       "Şarkı söyle"
+      ],
+      [
+       "en",
+       "Sing"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Walk – Yürü",
+     "emoji": "🚶",
+     "buyuk": "Walk",
+     "kucuk": "Yürü",
+     "ses": [
+      [
+       "en",
+       "Walk"
+      ],
+      [
+       "tr",
+       "Yürü"
+      ],
+      [
+       "en",
+       "Walk"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Run, Jump, Swim, Dance, Sing, Walk",
+     "ogeler": [
+      [
+       "🏃",
+       "Run",
+       "Koş"
+      ],
+      [
+       "🦘",
+       "Jump",
+       "Zıpla"
+      ],
+      [
+       "🏊",
+       "Swim",
+       "Yüz"
+      ],
+      [
+       "💃",
+       "Dance",
+       "Dans et"
+      ],
+      [
+       "🎤",
+       "Sing",
+       "Şarkı söyle"
+      ],
+      [
+       "🚶",
+       "Walk",
+       "Yürü"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Run. Jump. Swim. Dance. Sing. Walk."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing2-10-toys",
+   "baslik": "Toys",
+   "konu": "Kelimeler",
+   "sinif": 2,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda oyuncakların İngilizcesini öğreneceğiz.",
+     "baslik": "Toys",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Ball – Top",
+     "emoji": "⚽",
+     "buyuk": "Ball",
+     "kucuk": "Top",
+     "ses": [
+      [
+       "en",
+       "Ball"
+      ],
+      [
+       "tr",
+       "Top"
+      ],
+      [
+       "en",
+       "Ball"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Teddy bear – Oyuncak ayı",
+     "emoji": "🧸",
+     "buyuk": "Teddy bear",
+     "kucuk": "Oyuncak ayı",
+     "ses": [
+      [
+       "en",
+       "Teddy bear"
+      ],
+      [
+       "tr",
+       "Oyuncak ayı"
+      ],
+      [
+       "en",
+       "Teddy bear"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Kite – Uçurtma",
+     "emoji": "🪁",
+     "buyuk": "Kite",
+     "kucuk": "Uçurtma",
+     "ses": [
+      [
+       "en",
+       "Kite"
+      ],
+      [
+       "tr",
+       "Uçurtma"
+      ],
+      [
+       "en",
+       "Kite"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Car – Araba",
+     "emoji": "🚗",
+     "buyuk": "Car",
+     "kucuk": "Araba",
+     "ses": [
+      [
+       "en",
+       "Car"
+      ],
+      [
+       "tr",
+       "Araba"
+      ],
+      [
+       "en",
+       "Car"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Yo-yo – Yoyo",
+     "emoji": "🪀",
+     "buyuk": "Yo-yo",
+     "kucuk": "Yoyo",
+     "ses": [
+      [
+       "en",
+       "Yo-yo"
+      ],
+      [
+       "tr",
+       "Yoyo"
+      ],
+      [
+       "en",
+       "Yo-yo"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Dice – Zar",
+     "emoji": "🎲",
+     "buyuk": "Dice",
+     "kucuk": "Zar",
+     "ses": [
+      [
+       "en",
+       "Dice"
+      ],
+      [
+       "tr",
+       "Zar"
+      ],
+      [
+       "en",
+       "Dice"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Ball, Teddy bear, Kite, Car, Yo-yo, Dice",
+     "ogeler": [
+      [
+       "⚽",
+       "Ball",
+       "Top"
+      ],
+      [
+       "🧸",
+       "Teddy bear",
+       "Oyuncak ayı"
+      ],
+      [
+       "🪁",
+       "Kite",
+       "Uçurtma"
+      ],
+      [
+       "🚗",
+       "Car",
+       "Araba"
+      ],
+      [
+       "🪀",
+       "Yo-yo",
+       "Yoyo"
+      ],
+      [
+       "🎲",
+       "Dice",
+       "Zar"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Ball. Teddy bear. Kite. Car. Yo-yo. Dice."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-01-family",
+   "baslik": "My Family",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda aile üyelerinin İngilizcesini öğreneceğiz.",
+     "baslik": "My Family",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Mother – Anne",
+     "emoji": "👩",
+     "buyuk": "Mother",
+     "kucuk": "Anne",
+     "ses": [
+      [
+       "en",
+       "Mother"
+      ],
+      [
+       "tr",
+       "Anne"
+      ],
+      [
+       "en",
+       "Mother"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Father – Baba",
+     "emoji": "👨",
+     "buyuk": "Father",
+     "kucuk": "Baba",
+     "ses": [
+      [
+       "en",
+       "Father"
+      ],
+      [
+       "tr",
+       "Baba"
+      ],
+      [
+       "en",
+       "Father"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sister – Kız kardeş",
+     "emoji": "👧",
+     "buyuk": "Sister",
+     "kucuk": "Kız kardeş",
+     "ses": [
+      [
+       "en",
+       "Sister"
+      ],
+      [
+       "tr",
+       "Kız kardeş"
+      ],
+      [
+       "en",
+       "Sister"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Brother – Erkek kardeş",
+     "emoji": "👦",
+     "buyuk": "Brother",
+     "kucuk": "Erkek kardeş",
+     "ses": [
+      [
+       "en",
+       "Brother"
+      ],
+      [
+       "tr",
+       "Erkek kardeş"
+      ],
+      [
+       "en",
+       "Brother"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Grandmother – Büyükanne",
+     "emoji": "👵",
+     "buyuk": "Grandmother",
+     "kucuk": "Büyükanne",
+     "ses": [
+      [
+       "en",
+       "Grandmother"
+      ],
+      [
+       "tr",
+       "Büyükanne"
+      ],
+      [
+       "en",
+       "Grandmother"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Grandfather – Büyükbaba",
+     "emoji": "👴",
+     "buyuk": "Grandfather",
+     "kucuk": "Büyükbaba",
+     "ses": [
+      [
+       "en",
+       "Grandfather"
+      ],
+      [
+       "tr",
+       "Büyükbaba"
+      ],
+      [
+       "en",
+       "Grandfather"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Mother, Father, Sister, Brother, Grandmother, Grandfather",
+     "ogeler": [
+      [
+       "👩",
+       "Mother",
+       "Anne"
+      ],
+      [
+       "👨",
+       "Father",
+       "Baba"
+      ],
+      [
+       "👧",
+       "Sister",
+       "Kız kardeş"
+      ],
+      [
+       "👦",
+       "Brother",
+       "Erkek kardeş"
+      ],
+      [
+       "👵",
+       "Grandmother",
+       "Büyükanne"
+      ],
+      [
+       "👴",
+       "Grandfather",
+       "Büyükbaba"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Mother. Father. Sister. Brother. Grandmother. Grandfather."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-02-feelings",
+   "baslik": "Feelings",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda duyguların İngilizcesini öğreneceğiz.",
+     "baslik": "Feelings",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Happy – Mutlu",
+     "emoji": "😊",
+     "buyuk": "Happy",
+     "kucuk": "Mutlu",
+     "ses": [
+      [
+       "en",
+       "Happy"
+      ],
+      [
+       "tr",
+       "Mutlu"
+      ],
+      [
+       "en",
+       "Happy"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sad – Üzgün",
+     "emoji": "😢",
+     "buyuk": "Sad",
+     "kucuk": "Üzgün",
+     "ses": [
+      [
+       "en",
+       "Sad"
+      ],
+      [
+       "tr",
+       "Üzgün"
+      ],
+      [
+       "en",
+       "Sad"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Angry – Kızgın",
+     "emoji": "😠",
+     "buyuk": "Angry",
+     "kucuk": "Kızgın",
+     "ses": [
+      [
+       "en",
+       "Angry"
+      ],
+      [
+       "tr",
+       "Kızgın"
+      ],
+      [
+       "en",
+       "Angry"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Scared – Korkmuş",
+     "emoji": "😨",
+     "buyuk": "Scared",
+     "kucuk": "Korkmuş",
+     "ses": [
+      [
+       "en",
+       "Scared"
+      ],
+      [
+       "tr",
+       "Korkmuş"
+      ],
+      [
+       "en",
+       "Scared"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Tired – Yorgun",
+     "emoji": "😴",
+     "buyuk": "Tired",
+     "kucuk": "Yorgun",
+     "ses": [
+      [
+       "en",
+       "Tired"
+      ],
+      [
+       "tr",
+       "Yorgun"
+      ],
+      [
+       "en",
+       "Tired"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Surprised – Şaşırmış",
+     "emoji": "😲",
+     "buyuk": "Surprised",
+     "kucuk": "Şaşırmış",
+     "ses": [
+      [
+       "en",
+       "Surprised"
+      ],
+      [
+       "tr",
+       "Şaşırmış"
+      ],
+      [
+       "en",
+       "Surprised"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Happy, Sad, Angry, Scared, Tired, Surprised",
+     "ogeler": [
+      [
+       "😊",
+       "Happy",
+       "Mutlu"
+      ],
+      [
+       "😢",
+       "Sad",
+       "Üzgün"
+      ],
+      [
+       "😠",
+       "Angry",
+       "Kızgın"
+      ],
+      [
+       "😨",
+       "Scared",
+       "Korkmuş"
+      ],
+      [
+       "😴",
+       "Tired",
+       "Yorgun"
+      ],
+      [
+       "😲",
+       "Surprised",
+       "Şaşırmış"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Happy. Sad. Angry. Scared. Tired. Surprised."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-03-house",
+   "baslik": "My House",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda evdeki bölümlerin İngilizcesini öğreneceğiz.",
+     "baslik": "My House",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bedroom – Yatak odası",
+     "emoji": "🛏",
+     "buyuk": "Bedroom",
+     "kucuk": "Yatak odası",
+     "ses": [
+      [
+       "en",
+       "Bedroom"
+      ],
+      [
+       "tr",
+       "Yatak odası"
+      ],
+      [
+       "en",
+       "Bedroom"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bathroom – Banyo",
+     "emoji": "🛁",
+     "buyuk": "Bathroom",
+     "kucuk": "Banyo",
+     "ses": [
+      [
+       "en",
+       "Bathroom"
+      ],
+      [
+       "tr",
+       "Banyo"
+      ],
+      [
+       "en",
+       "Bathroom"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Kitchen – Mutfak",
+     "emoji": "🍳",
+     "buyuk": "Kitchen",
+     "kucuk": "Mutfak",
+     "ses": [
+      [
+       "en",
+       "Kitchen"
+      ],
+      [
+       "tr",
+       "Mutfak"
+      ],
+      [
+       "en",
+       "Kitchen"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Living room – Oturma odası",
+     "emoji": "🛋",
+     "buyuk": "Living room",
+     "kucuk": "Oturma odası",
+     "ses": [
+      [
+       "en",
+       "Living room"
+      ],
+      [
+       "tr",
+       "Oturma odası"
+      ],
+      [
+       "en",
+       "Living room"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Door – Kapı",
+     "emoji": "🚪",
+     "buyuk": "Door",
+     "kucuk": "Kapı",
+     "ses": [
+      [
+       "en",
+       "Door"
+      ],
+      [
+       "tr",
+       "Kapı"
+      ],
+      [
+       "en",
+       "Door"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Window – Pencere",
+     "emoji": "🪟",
+     "buyuk": "Window",
+     "kucuk": "Pencere",
+     "ses": [
+      [
+       "en",
+       "Window"
+      ],
+      [
+       "tr",
+       "Pencere"
+      ],
+      [
+       "en",
+       "Window"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Bedroom, Bathroom, Kitchen, Living room, Door, Window",
+     "ogeler": [
+      [
+       "🛏",
+       "Bedroom",
+       "Yatak odası"
+      ],
+      [
+       "🛁",
+       "Bathroom",
+       "Banyo"
+      ],
+      [
+       "🍳",
+       "Kitchen",
+       "Mutfak"
+      ],
+      [
+       "🛋",
+       "Living room",
+       "Oturma odası"
+      ],
+      [
+       "🚪",
+       "Door",
+       "Kapı"
+      ],
+      [
+       "🪟",
+       "Window",
+       "Pencere"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Bedroom. Bathroom. Kitchen. Living room. Door. Window."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-04-city",
+   "baslik": "In My City",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda şehirdeki yerlerin İngilizcesini öğreneceğiz.",
+     "baslik": "In My City",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Hospital – Hastane",
+     "emoji": "🏥",
+     "buyuk": "Hospital",
+     "kucuk": "Hastane",
+     "ses": [
+      [
+       "en",
+       "Hospital"
+      ],
+      [
+       "tr",
+       "Hastane"
+      ],
+      [
+       "en",
+       "Hospital"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "School – Okul",
+     "emoji": "🏫",
+     "buyuk": "School",
+     "kucuk": "Okul",
+     "ses": [
+      [
+       "en",
+       "School"
+      ],
+      [
+       "tr",
+       "Okul"
+      ],
+      [
+       "en",
+       "School"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bank – Banka",
+     "emoji": "🏦",
+     "buyuk": "Bank",
+     "kucuk": "Banka",
+     "ses": [
+      [
+       "en",
+       "Bank"
+      ],
+      [
+       "tr",
+       "Banka"
+      ],
+      [
+       "en",
+       "Bank"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Shop – Dükkan",
+     "emoji": "🏪",
+     "buyuk": "Shop",
+     "kucuk": "Dükkan",
+     "ses": [
+      [
+       "en",
+       "Shop"
+      ],
+      [
+       "tr",
+       "Dükkan"
+      ],
+      [
+       "en",
+       "Shop"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Park – Park",
+     "emoji": "🌳",
+     "buyuk": "Park",
+     "kucuk": "Park",
+     "ses": [
+      [
+       "en",
+       "Park"
+      ],
+      [
+       "tr",
+       "Park"
+      ],
+      [
+       "en",
+       "Park"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Mosque – Cami",
+     "emoji": "🕌",
+     "buyuk": "Mosque",
+     "kucuk": "Cami",
+     "ses": [
+      [
+       "en",
+       "Mosque"
+      ],
+      [
+       "tr",
+       "Cami"
+      ],
+      [
+       "en",
+       "Mosque"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Hospital, School, Bank, Shop, Park, Mosque",
+     "ogeler": [
+      [
+       "🏥",
+       "Hospital",
+       "Hastane"
+      ],
+      [
+       "🏫",
+       "School",
+       "Okul"
+      ],
+      [
+       "🏦",
+       "Bank",
+       "Banka"
+      ],
+      [
+       "🏪",
+       "Shop",
+       "Dükkan"
+      ],
+      [
+       "🌳",
+       "Park",
+       "Park"
+      ],
+      [
+       "🕌",
+       "Mosque",
+       "Cami"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Hospital. School. Bank. Shop. Park. Mosque."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-05-transport",
+   "baslik": "Transportation",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda taşıtların İngilizcesini öğreneceğiz.",
+     "baslik": "Transportation",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bus – Otobüs",
+     "emoji": "🚌",
+     "buyuk": "Bus",
+     "kucuk": "Otobüs",
+     "ses": [
+      [
+       "en",
+       "Bus"
+      ],
+      [
+       "tr",
+       "Otobüs"
+      ],
+      [
+       "en",
+       "Bus"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Train – Tren",
+     "emoji": "🚆",
+     "buyuk": "Train",
+     "kucuk": "Tren",
+     "ses": [
+      [
+       "en",
+       "Train"
+      ],
+      [
+       "tr",
+       "Tren"
+      ],
+      [
+       "en",
+       "Train"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Plane – Uçak",
+     "emoji": "✈",
+     "buyuk": "Plane",
+     "kucuk": "Uçak",
+     "ses": [
+      [
+       "en",
+       "Plane"
+      ],
+      [
+       "tr",
+       "Uçak"
+      ],
+      [
+       "en",
+       "Plane"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Ship – Gemi",
+     "emoji": "🚢",
+     "buyuk": "Ship",
+     "kucuk": "Gemi",
+     "ses": [
+      [
+       "en",
+       "Ship"
+      ],
+      [
+       "tr",
+       "Gemi"
+      ],
+      [
+       "en",
+       "Ship"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bike – Bisiklet",
+     "emoji": "🚲",
+     "buyuk": "Bike",
+     "kucuk": "Bisiklet",
+     "ses": [
+      [
+       "en",
+       "Bike"
+      ],
+      [
+       "tr",
+       "Bisiklet"
+      ],
+      [
+       "en",
+       "Bike"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Taxi – Taksi",
+     "emoji": "🚕",
+     "buyuk": "Taxi",
+     "kucuk": "Taksi",
+     "ses": [
+      [
+       "en",
+       "Taxi"
+      ],
+      [
+       "tr",
+       "Taksi"
+      ],
+      [
+       "en",
+       "Taxi"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Bus, Train, Plane, Ship, Bike, Taxi",
+     "ogeler": [
+      [
+       "🚌",
+       "Bus",
+       "Otobüs"
+      ],
+      [
+       "🚆",
+       "Train",
+       "Tren"
+      ],
+      [
+       "✈",
+       "Plane",
+       "Uçak"
+      ],
+      [
+       "🚢",
+       "Ship",
+       "Gemi"
+      ],
+      [
+       "🚲",
+       "Bike",
+       "Bisiklet"
+      ],
+      [
+       "🚕",
+       "Taxi",
+       "Taksi"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Bus. Train. Plane. Ship. Bike. Taxi."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-06-weather",
+   "baslik": "Weather",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda hava durumlarının İngilizcesini öğreneceğiz.",
+     "baslik": "Weather",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sunny – Güneşli",
+     "emoji": "☀",
+     "buyuk": "Sunny",
+     "kucuk": "Güneşli",
+     "ses": [
+      [
+       "en",
+       "Sunny"
+      ],
+      [
+       "tr",
+       "Güneşli"
+      ],
+      [
+       "en",
+       "Sunny"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Rainy – Yağmurlu",
+     "emoji": "🌧",
+     "buyuk": "Rainy",
+     "kucuk": "Yağmurlu",
+     "ses": [
+      [
+       "en",
+       "Rainy"
+      ],
+      [
+       "tr",
+       "Yağmurlu"
+      ],
+      [
+       "en",
+       "Rainy"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cloudy – Bulutlu",
+     "emoji": "☁",
+     "buyuk": "Cloudy",
+     "kucuk": "Bulutlu",
+     "ses": [
+      [
+       "en",
+       "Cloudy"
+      ],
+      [
+       "tr",
+       "Bulutlu"
+      ],
+      [
+       "en",
+       "Cloudy"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Snowy – Karlı",
+     "emoji": "❄",
+     "buyuk": "Snowy",
+     "kucuk": "Karlı",
+     "ses": [
+      [
+       "en",
+       "Snowy"
+      ],
+      [
+       "tr",
+       "Karlı"
+      ],
+      [
+       "en",
+       "Snowy"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Windy – Rüzgarlı",
+     "emoji": "💨",
+     "buyuk": "Windy",
+     "kucuk": "Rüzgarlı",
+     "ses": [
+      [
+       "en",
+       "Windy"
+      ],
+      [
+       "tr",
+       "Rüzgarlı"
+      ],
+      [
+       "en",
+       "Windy"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cold – Soğuk",
+     "emoji": "🥶",
+     "buyuk": "Cold",
+     "kucuk": "Soğuk",
+     "ses": [
+      [
+       "en",
+       "Cold"
+      ],
+      [
+       "tr",
+       "Soğuk"
+      ],
+      [
+       "en",
+       "Cold"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Sunny, Rainy, Cloudy, Snowy, Windy, Cold",
+     "ogeler": [
+      [
+       "☀",
+       "Sunny",
+       "Güneşli"
+      ],
+      [
+       "🌧",
+       "Rainy",
+       "Yağmurlu"
+      ],
+      [
+       "☁",
+       "Cloudy",
+       "Bulutlu"
+      ],
+      [
+       "❄",
+       "Snowy",
+       "Karlı"
+      ],
+      [
+       "💨",
+       "Windy",
+       "Rüzgarlı"
+      ],
+      [
+       "🥶",
+       "Cold",
+       "Soğuk"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Sunny. Rainy. Cloudy. Snowy. Windy. Cold."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-07-nature",
+   "baslik": "Nature",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda doğadaki varlıkların İngilizcesini öğreneceğiz.",
+     "baslik": "Nature",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Tree – Ağaç",
+     "emoji": "🌳",
+     "buyuk": "Tree",
+     "kucuk": "Ağaç",
+     "ses": [
+      [
+       "en",
+       "Tree"
+      ],
+      [
+       "tr",
+       "Ağaç"
+      ],
+      [
+       "en",
+       "Tree"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Flower – Çiçek",
+     "emoji": "🌸",
+     "buyuk": "Flower",
+     "kucuk": "Çiçek",
+     "ses": [
+      [
+       "en",
+       "Flower"
+      ],
+      [
+       "tr",
+       "Çiçek"
+      ],
+      [
+       "en",
+       "Flower"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Mountain – Dağ",
+     "emoji": "⛰",
+     "buyuk": "Mountain",
+     "kucuk": "Dağ",
+     "ses": [
+      [
+       "en",
+       "Mountain"
+      ],
+      [
+       "tr",
+       "Dağ"
+      ],
+      [
+       "en",
+       "Mountain"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sea – Deniz",
+     "emoji": "🌊",
+     "buyuk": "Sea",
+     "kucuk": "Deniz",
+     "ses": [
+      [
+       "en",
+       "Sea"
+      ],
+      [
+       "tr",
+       "Deniz"
+      ],
+      [
+       "en",
+       "Sea"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "River – Nehir",
+     "emoji": "🏞",
+     "buyuk": "River",
+     "kucuk": "Nehir",
+     "ses": [
+      [
+       "en",
+       "River"
+      ],
+      [
+       "tr",
+       "Nehir"
+      ],
+      [
+       "en",
+       "River"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cloud – Bulut",
+     "emoji": "☁",
+     "buyuk": "Cloud",
+     "kucuk": "Bulut",
+     "ses": [
+      [
+       "en",
+       "Cloud"
+      ],
+      [
+       "tr",
+       "Bulut"
+      ],
+      [
+       "en",
+       "Cloud"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Tree, Flower, Mountain, Sea, River, Cloud",
+     "ogeler": [
+      [
+       "🌳",
+       "Tree",
+       "Ağaç"
+      ],
+      [
+       "🌸",
+       "Flower",
+       "Çiçek"
+      ],
+      [
+       "⛰",
+       "Mountain",
+       "Dağ"
+      ],
+      [
+       "🌊",
+       "Sea",
+       "Deniz"
+      ],
+      [
+       "🏞",
+       "River",
+       "Nehir"
+      ],
+      [
+       "☁",
+       "Cloud",
+       "Bulut"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Tree. Flower. Mountain. Sea. River. Cloud."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-08-numbers",
+   "baslik": "Numbers 11-20",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda 11'den 20'ye sayıların İngilizcesini öğreneceğiz.",
+     "baslik": "Numbers 11-20",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Eleven – On bir",
+     "buyuk": "Eleven",
+     "kucuk": "On bir",
+     "ses": [
+      [
+       "en",
+       "Eleven"
+      ],
+      [
+       "tr",
+       "On bir"
+      ],
+      [
+       "en",
+       "Eleven"
+      ]
+     ],
+     "sol_yazi": "11"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Twelve – On iki",
+     "buyuk": "Twelve",
+     "kucuk": "On iki",
+     "ses": [
+      [
+       "en",
+       "Twelve"
+      ],
+      [
+       "tr",
+       "On iki"
+      ],
+      [
+       "en",
+       "Twelve"
+      ]
+     ],
+     "sol_yazi": "12"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Thirteen – On üç",
+     "buyuk": "Thirteen",
+     "kucuk": "On üç",
+     "ses": [
+      [
+       "en",
+       "Thirteen"
+      ],
+      [
+       "tr",
+       "On üç"
+      ],
+      [
+       "en",
+       "Thirteen"
+      ]
+     ],
+     "sol_yazi": "13"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Fourteen – On dört",
+     "buyuk": "Fourteen",
+     "kucuk": "On dört",
+     "ses": [
+      [
+       "en",
+       "Fourteen"
+      ],
+      [
+       "tr",
+       "On dört"
+      ],
+      [
+       "en",
+       "Fourteen"
+      ]
+     ],
+     "sol_yazi": "14"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Fifteen – On beş",
+     "buyuk": "Fifteen",
+     "kucuk": "On beş",
+     "ses": [
+      [
+       "en",
+       "Fifteen"
+      ],
+      [
+       "tr",
+       "On beş"
+      ],
+      [
+       "en",
+       "Fifteen"
+      ]
+     ],
+     "sol_yazi": "15"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sixteen – On altı",
+     "buyuk": "Sixteen",
+     "kucuk": "On altı",
+     "ses": [
+      [
+       "en",
+       "Sixteen"
+      ],
+      [
+       "tr",
+       "On altı"
+      ],
+      [
+       "en",
+       "Sixteen"
+      ]
+     ],
+     "sol_yazi": "16"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Seventeen – On yedi",
+     "buyuk": "Seventeen",
+     "kucuk": "On yedi",
+     "ses": [
+      [
+       "en",
+       "Seventeen"
+      ],
+      [
+       "tr",
+       "On yedi"
+      ],
+      [
+       "en",
+       "Seventeen"
+      ]
+     ],
+     "sol_yazi": "17"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Eighteen – On sekiz",
+     "buyuk": "Eighteen",
+     "kucuk": "On sekiz",
+     "ses": [
+      [
+       "en",
+       "Eighteen"
+      ],
+      [
+       "tr",
+       "On sekiz"
+      ],
+      [
+       "en",
+       "Eighteen"
+      ]
+     ],
+     "sol_yazi": "18"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Nineteen – On dokuz",
+     "buyuk": "Nineteen",
+     "kucuk": "On dokuz",
+     "ses": [
+      [
+       "en",
+       "Nineteen"
+      ],
+      [
+       "tr",
+       "On dokuz"
+      ],
+      [
+       "en",
+       "Nineteen"
+      ]
+     ],
+     "sol_yazi": "19"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Twenty – Yirmi",
+     "buyuk": "Twenty",
+     "kucuk": "Yirmi",
+     "ses": [
+      [
+       "en",
+       "Twenty"
+      ],
+      [
+       "tr",
+       "Yirmi"
+      ],
+      [
+       "en",
+       "Twenty"
+      ]
+     ],
+     "sol_yazi": "20"
+    },
+    {
+     "tip": "metin",
+     "anlatim": "Tekrar: Eleven, twelve ... twenty",
+     "satirlar": [
+      "11 eleven   12 twelve   13 thirteen",
+      "14 fourteen   15 fifteen   16 sixteen",
+      "17 seventeen   18 eighteen",
+      "19 nineteen   20 twenty"
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Eleven. Twelve. Thirteen. Fourteen. Fifteen. Sixteen. Seventeen. Eighteen. Nineteen. Twenty."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-09-games",
+   "baslik": "Toys and Games",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda oyunların İngilizcesini öğreneceğiz.",
+     "baslik": "Toys and Games",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Puzzle – Yapboz",
+     "emoji": "🧩",
+     "buyuk": "Puzzle",
+     "kucuk": "Yapboz",
+     "ses": [
+      [
+       "en",
+       "Puzzle"
+      ],
+      [
+       "tr",
+       "Yapboz"
+      ],
+      [
+       "en",
+       "Puzzle"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Chess – Satranç",
+     "emoji": "♟",
+     "buyuk": "Chess",
+     "kucuk": "Satranç",
+     "ses": [
+      [
+       "en",
+       "Chess"
+      ],
+      [
+       "tr",
+       "Satranç"
+      ],
+      [
+       "en",
+       "Chess"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Painting – Resim yapmak",
+     "emoji": "🎨",
+     "buyuk": "Painting",
+     "kucuk": "Resim yapmak",
+     "ses": [
+      [
+       "en",
+       "Painting"
+      ],
+      [
+       "tr",
+       "Resim yapmak"
+      ],
+      [
+       "en",
+       "Painting"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cycling – Bisiklet sürmek",
+     "emoji": "🚴",
+     "buyuk": "Cycling",
+     "kucuk": "Bisiklet sürmek",
+     "ses": [
+      [
+       "en",
+       "Cycling"
+      ],
+      [
+       "tr",
+       "Bisiklet sürmek"
+      ],
+      [
+       "en",
+       "Cycling"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Hide and seek – Saklambaç",
+     "emoji": "🙈",
+     "buyuk": "Hide and seek",
+     "kucuk": "Saklambaç",
+     "ses": [
+      [
+       "en",
+       "Hide and seek"
+      ],
+      [
+       "tr",
+       "Saklambaç"
+      ],
+      [
+       "en",
+       "Hide and seek"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Video game – Video oyunu",
+     "emoji": "🎮",
+     "buyuk": "Video game",
+     "kucuk": "Video oyunu",
+     "ses": [
+      [
+       "en",
+       "Video game"
+      ],
+      [
+       "tr",
+       "Video oyunu"
+      ],
+      [
+       "en",
+       "Video game"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Puzzle, Chess, Painting, Cycling, Hide and seek, Video game",
+     "ogeler": [
+      [
+       "🧩",
+       "Puzzle",
+       "Yapboz"
+      ],
+      [
+       "♟",
+       "Chess",
+       "Satranç"
+      ],
+      [
+       "🎨",
+       "Painting",
+       "Resim yapmak"
+      ],
+      [
+       "🚴",
+       "Cycling",
+       "Bisiklet sürmek"
+      ],
+      [
+       "🙈",
+       "Hide and seek",
+       "Saklambaç"
+      ],
+      [
+       "🎮",
+       "Video game",
+       "Video oyunu"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Puzzle. Chess. Painting. Cycling. Hide and seek. Video game."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing3-10-days",
+   "baslik": "Days of the Week",
+   "konu": "Kelimeler",
+   "sinif": 3,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda haftanın günlerinin İngilizcesini öğreneceğiz.",
+     "baslik": "Days of the Week",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Monday – Pazartesi",
+     "emoji": "📅",
+     "buyuk": "Monday",
+     "kucuk": "Pazartesi",
+     "ses": [
+      [
+       "en",
+       "Monday"
+      ],
+      [
+       "tr",
+       "Pazartesi"
+      ],
+      [
+       "en",
+       "Monday"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Tuesday – Salı",
+     "emoji": "📅",
+     "buyuk": "Tuesday",
+     "kucuk": "Salı",
+     "ses": [
+      [
+       "en",
+       "Tuesday"
+      ],
+      [
+       "tr",
+       "Salı"
+      ],
+      [
+       "en",
+       "Tuesday"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Wednesday – Çarşamba",
+     "emoji": "📅",
+     "buyuk": "Wednesday",
+     "kucuk": "Çarşamba",
+     "ses": [
+      [
+       "en",
+       "Wednesday"
+      ],
+      [
+       "tr",
+       "Çarşamba"
+      ],
+      [
+       "en",
+       "Wednesday"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Thursday – Perşembe",
+     "emoji": "📅",
+     "buyuk": "Thursday",
+     "kucuk": "Perşembe",
+     "ses": [
+      [
+       "en",
+       "Thursday"
+      ],
+      [
+       "tr",
+       "Perşembe"
+      ],
+      [
+       "en",
+       "Thursday"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Friday – Cuma",
+     "emoji": "📅",
+     "buyuk": "Friday",
+     "kucuk": "Cuma",
+     "ses": [
+      [
+       "en",
+       "Friday"
+      ],
+      [
+       "tr",
+       "Cuma"
+      ],
+      [
+       "en",
+       "Friday"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Saturday – Cumartesi",
+     "emoji": "📅",
+     "buyuk": "Saturday",
+     "kucuk": "Cumartesi",
+     "ses": [
+      [
+       "en",
+       "Saturday"
+      ],
+      [
+       "tr",
+       "Cumartesi"
+      ],
+      [
+       "en",
+       "Saturday"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sunday – Pazar",
+     "emoji": "📅",
+     "buyuk": "Sunday",
+     "kucuk": "Pazar",
+     "ses": [
+      [
+       "en",
+       "Sunday"
+      ],
+      [
+       "tr",
+       "Pazar"
+      ],
+      [
+       "en",
+       "Sunday"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+     "ogeler": [
+      [
+       "📅",
+       "Monday",
+       "Pazartesi"
+      ],
+      [
+       "📅",
+       "Tuesday",
+       "Salı"
+      ],
+      [
+       "📅",
+       "Wednesday",
+       "Çarşamba"
+      ],
+      [
+       "📅",
+       "Thursday",
+       "Perşembe"
+      ],
+      [
+       "📅",
+       "Friday",
+       "Cuma"
+      ],
+      [
+       "📅",
+       "Saturday",
+       "Cumartesi"
+      ],
+      [
+       "📅",
+       "Sunday",
+       "Pazar"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Monday. Tuesday. Wednesday. Thursday. Friday. Saturday. Sunday."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-01-jobs",
+   "baslik": "Jobs",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda mesleklerin İngilizcesini öğreneceğiz.",
+     "baslik": "Jobs",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Doctor – Doktor",
+     "emoji": "🩺",
+     "buyuk": "Doctor",
+     "kucuk": "Doktor",
+     "ses": [
+      [
+       "en",
+       "Doctor"
+      ],
+      [
+       "tr",
+       "Doktor"
+      ],
+      [
+       "en",
+       "Doctor"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Teacher – Öğretmen",
+     "emoji": "🏫",
+     "buyuk": "Teacher",
+     "kucuk": "Öğretmen",
+     "ses": [
+      [
+       "en",
+       "Teacher"
+      ],
+      [
+       "tr",
+       "Öğretmen"
+      ],
+      [
+       "en",
+       "Teacher"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cook – Aşçı",
+     "emoji": "🍲",
+     "buyuk": "Cook",
+     "kucuk": "Aşçı",
+     "ses": [
+      [
+       "en",
+       "Cook"
+      ],
+      [
+       "tr",
+       "Aşçı"
+      ],
+      [
+       "en",
+       "Cook"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Farmer – Çiftçi",
+     "emoji": "🚜",
+     "buyuk": "Farmer",
+     "kucuk": "Çiftçi",
+     "ses": [
+      [
+       "en",
+       "Farmer"
+      ],
+      [
+       "tr",
+       "Çiftçi"
+      ],
+      [
+       "en",
+       "Farmer"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Firefighter – İtfaiyeci",
+     "emoji": "🚒",
+     "buyuk": "Firefighter",
+     "kucuk": "İtfaiyeci",
+     "ses": [
+      [
+       "en",
+       "Firefighter"
+      ],
+      [
+       "tr",
+       "İtfaiyeci"
+      ],
+      [
+       "en",
+       "Firefighter"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Police officer – Polis",
+     "emoji": "👮",
+     "buyuk": "Police officer",
+     "kucuk": "Polis",
+     "ses": [
+      [
+       "en",
+       "Police officer"
+      ],
+      [
+       "tr",
+       "Polis"
+      ],
+      [
+       "en",
+       "Police officer"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Doctor, Teacher, Cook, Farmer, Firefighter, Police officer",
+     "ogeler": [
+      [
+       "🩺",
+       "Doctor",
+       "Doktor"
+      ],
+      [
+       "🏫",
+       "Teacher",
+       "Öğretmen"
+      ],
+      [
+       "🍲",
+       "Cook",
+       "Aşçı"
+      ],
+      [
+       "🚜",
+       "Farmer",
+       "Çiftçi"
+      ],
+      [
+       "🚒",
+       "Firefighter",
+       "İtfaiyeci"
+      ],
+      [
+       "👮",
+       "Police officer",
+       "Polis"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Doctor. Teacher. Cook. Farmer. Firefighter. Police officer."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-02-clothes",
+   "baslik": "My Clothes",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda kıyafetlerin İngilizcesini öğreneceğiz.",
+     "baslik": "My Clothes",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "T-shirt – Tişört",
+     "emoji": "👕",
+     "buyuk": "T-shirt",
+     "kucuk": "Tişört",
+     "ses": [
+      [
+       "en",
+       "T-shirt"
+      ],
+      [
+       "tr",
+       "Tişört"
+      ],
+      [
+       "en",
+       "T-shirt"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Trousers – Pantolon",
+     "emoji": "👖",
+     "buyuk": "Trousers",
+     "kucuk": "Pantolon",
+     "ses": [
+      [
+       "en",
+       "Trousers"
+      ],
+      [
+       "tr",
+       "Pantolon"
+      ],
+      [
+       "en",
+       "Trousers"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Dress – Elbise",
+     "emoji": "👗",
+     "buyuk": "Dress",
+     "kucuk": "Elbise",
+     "ses": [
+      [
+       "en",
+       "Dress"
+      ],
+      [
+       "tr",
+       "Elbise"
+      ],
+      [
+       "en",
+       "Dress"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Coat – Mont",
+     "emoji": "🧥",
+     "buyuk": "Coat",
+     "kucuk": "Mont",
+     "ses": [
+      [
+       "en",
+       "Coat"
+      ],
+      [
+       "tr",
+       "Mont"
+      ],
+      [
+       "en",
+       "Coat"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Shoes – Ayakkabı",
+     "emoji": "👟",
+     "buyuk": "Shoes",
+     "kucuk": "Ayakkabı",
+     "ses": [
+      [
+       "en",
+       "Shoes"
+      ],
+      [
+       "tr",
+       "Ayakkabı"
+      ],
+      [
+       "en",
+       "Shoes"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cap – Şapka",
+     "emoji": "🧢",
+     "buyuk": "Cap",
+     "kucuk": "Şapka",
+     "ses": [
+      [
+       "en",
+       "Cap"
+      ],
+      [
+       "tr",
+       "Şapka"
+      ],
+      [
+       "en",
+       "Cap"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: T-shirt, Trousers, Dress, Coat, Shoes, Cap",
+     "ogeler": [
+      [
+       "👕",
+       "T-shirt",
+       "Tişört"
+      ],
+      [
+       "👖",
+       "Trousers",
+       "Pantolon"
+      ],
+      [
+       "👗",
+       "Dress",
+       "Elbise"
+      ],
+      [
+       "🧥",
+       "Coat",
+       "Mont"
+      ],
+      [
+       "👟",
+       "Shoes",
+       "Ayakkabı"
+      ],
+      [
+       "🧢",
+       "Cap",
+       "Şapka"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "T-shirt. Trousers. Dress. Coat. Shoes. Cap."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-03-food",
+   "baslik": "Food",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda yiyeceklerin İngilizcesini öğreneceğiz.",
+     "baslik": "Food",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Bread – Ekmek",
+     "emoji": "🍞",
+     "buyuk": "Bread",
+     "kucuk": "Ekmek",
+     "ses": [
+      [
+       "en",
+       "Bread"
+      ],
+      [
+       "tr",
+       "Ekmek"
+      ],
+      [
+       "en",
+       "Bread"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Cheese – Peynir",
+     "emoji": "🧀",
+     "buyuk": "Cheese",
+     "kucuk": "Peynir",
+     "ses": [
+      [
+       "en",
+       "Cheese"
+      ],
+      [
+       "tr",
+       "Peynir"
+      ],
+      [
+       "en",
+       "Cheese"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Egg – Yumurta",
+     "emoji": "🥚",
+     "buyuk": "Egg",
+     "kucuk": "Yumurta",
+     "ses": [
+      [
+       "en",
+       "Egg"
+      ],
+      [
+       "tr",
+       "Yumurta"
+      ],
+      [
+       "en",
+       "Egg"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Rice – Pilav",
+     "emoji": "🍚",
+     "buyuk": "Rice",
+     "kucuk": "Pilav",
+     "ses": [
+      [
+       "en",
+       "Rice"
+      ],
+      [
+       "tr",
+       "Pilav"
+      ],
+      [
+       "en",
+       "Rice"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Pasta – Makarna",
+     "emoji": "🍝",
+     "buyuk": "Pasta",
+     "kucuk": "Makarna",
+     "ses": [
+      [
+       "en",
+       "Pasta"
+      ],
+      [
+       "tr",
+       "Makarna"
+      ],
+      [
+       "en",
+       "Pasta"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Salad – Salata",
+     "emoji": "🥗",
+     "buyuk": "Salad",
+     "kucuk": "Salata",
+     "ses": [
+      [
+       "en",
+       "Salad"
+      ],
+      [
+       "tr",
+       "Salata"
+      ],
+      [
+       "en",
+       "Salad"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Bread, Cheese, Egg, Rice, Pasta, Salad",
+     "ogeler": [
+      [
+       "🍞",
+       "Bread",
+       "Ekmek"
+      ],
+      [
+       "🧀",
+       "Cheese",
+       "Peynir"
+      ],
+      [
+       "🥚",
+       "Egg",
+       "Yumurta"
+      ],
+      [
+       "🍚",
+       "Rice",
+       "Pilav"
+      ],
+      [
+       "🍝",
+       "Pasta",
+       "Makarna"
+      ],
+      [
+       "🥗",
+       "Salad",
+       "Salata"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Bread. Cheese. Egg. Rice. Pasta. Salad."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-04-drinks",
+   "baslik": "Drinks",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda içeceklerin İngilizcesini öğreneceğiz.",
+     "baslik": "Drinks",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Water – Su",
+     "emoji": "💧",
+     "buyuk": "Water",
+     "kucuk": "Su",
+     "ses": [
+      [
+       "en",
+       "Water"
+      ],
+      [
+       "tr",
+       "Su"
+      ],
+      [
+       "en",
+       "Water"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Milk – Süt",
+     "emoji": "🥛",
+     "buyuk": "Milk",
+     "kucuk": "Süt",
+     "ses": [
+      [
+       "en",
+       "Milk"
+      ],
+      [
+       "tr",
+       "Süt"
+      ],
+      [
+       "en",
+       "Milk"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Juice – Meyve suyu",
+     "emoji": "🧃",
+     "buyuk": "Juice",
+     "kucuk": "Meyve suyu",
+     "ses": [
+      [
+       "en",
+       "Juice"
+      ],
+      [
+       "tr",
+       "Meyve suyu"
+      ],
+      [
+       "en",
+       "Juice"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Tea – Çay",
+     "emoji": "🍵",
+     "buyuk": "Tea",
+     "kucuk": "Çay",
+     "ses": [
+      [
+       "en",
+       "Tea"
+      ],
+      [
+       "tr",
+       "Çay"
+      ],
+      [
+       "en",
+       "Tea"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Lemonade – Limonata",
+     "emoji": "🥤",
+     "buyuk": "Lemonade",
+     "kucuk": "Limonata",
+     "ses": [
+      [
+       "en",
+       "Lemonade"
+      ],
+      [
+       "tr",
+       "Limonata"
+      ],
+      [
+       "en",
+       "Lemonade"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Hot chocolate – Sıcak çikolata",
+     "emoji": "☕",
+     "buyuk": "Hot chocolate",
+     "kucuk": "Sıcak çikolata",
+     "ses": [
+      [
+       "en",
+       "Hot chocolate"
+      ],
+      [
+       "tr",
+       "Sıcak çikolata"
+      ],
+      [
+       "en",
+       "Hot chocolate"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Water, Milk, Juice, Tea, Lemonade, Hot chocolate",
+     "ogeler": [
+      [
+       "💧",
+       "Water",
+       "Su"
+      ],
+      [
+       "🥛",
+       "Milk",
+       "Süt"
+      ],
+      [
+       "🧃",
+       "Juice",
+       "Meyve suyu"
+      ],
+      [
+       "🍵",
+       "Tea",
+       "Çay"
+      ],
+      [
+       "🥤",
+       "Lemonade",
+       "Limonata"
+      ],
+      [
+       "☕",
+       "Hot chocolate",
+       "Sıcak çikolata"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Water. Milk. Juice. Tea. Lemonade. Hot chocolate."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-05-free-time",
+   "baslik": "Free Time",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda boş zaman etkinliklerinin İngilizcesini öğreneceğiz.",
+     "baslik": "Free Time",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Read a book – Kitap okumak",
+     "emoji": "📖",
+     "buyuk": "Read a book",
+     "kucuk": "Kitap okumak",
+     "ses": [
+      [
+       "en",
+       "Read a book"
+      ],
+      [
+       "tr",
+       "Kitap okumak"
+      ],
+      [
+       "en",
+       "Read a book"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Listen to music – Müzik dinlemek",
+     "emoji": "🎵",
+     "buyuk": "Listen to music",
+     "kucuk": "Müzik dinlemek",
+     "ses": [
+      [
+       "en",
+       "Listen to music"
+      ],
+      [
+       "tr",
+       "Müzik dinlemek"
+      ],
+      [
+       "en",
+       "Listen to music"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Watch TV – Televizyon izlemek",
+     "emoji": "📺",
+     "buyuk": "Watch TV",
+     "kucuk": "Televizyon izlemek",
+     "ses": [
+      [
+       "en",
+       "Watch TV"
+      ],
+      [
+       "tr",
+       "Televizyon izlemek"
+      ],
+      [
+       "en",
+       "Watch TV"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Play football – Futbol oynamak",
+     "emoji": "⚽",
+     "buyuk": "Play football",
+     "kucuk": "Futbol oynamak",
+     "ses": [
+      [
+       "en",
+       "Play football"
+      ],
+      [
+       "tr",
+       "Futbol oynamak"
+      ],
+      [
+       "en",
+       "Play football"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Draw a picture – Resim çizmek",
+     "emoji": "🎨",
+     "buyuk": "Draw a picture",
+     "kucuk": "Resim çizmek",
+     "ses": [
+      [
+       "en",
+       "Draw a picture"
+      ],
+      [
+       "tr",
+       "Resim çizmek"
+      ],
+      [
+       "en",
+       "Draw a picture"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Go swimming – Yüzmeye gitmek",
+     "emoji": "🏊",
+     "buyuk": "Go swimming",
+     "kucuk": "Yüzmeye gitmek",
+     "ses": [
+      [
+       "en",
+       "Go swimming"
+      ],
+      [
+       "tr",
+       "Yüzmeye gitmek"
+      ],
+      [
+       "en",
+       "Go swimming"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Read a book, Listen to music, Watch TV, Play football, Draw a picture, Go swimming",
+     "ogeler": [
+      [
+       "📖",
+       "Read a book",
+       "Kitap okumak"
+      ],
+      [
+       "🎵",
+       "Listen to music",
+       "Müzik dinlemek"
+      ],
+      [
+       "📺",
+       "Watch TV",
+       "Televizyon izlemek"
+      ],
+      [
+       "⚽",
+       "Play football",
+       "Futbol oynamak"
+      ],
+      [
+       "🎨",
+       "Draw a picture",
+       "Resim çizmek"
+      ],
+      [
+       "🏊",
+       "Go swimming",
+       "Yüzmeye gitmek"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Read a book. Listen to music. Watch TV. Play football. Draw a picture. Go swimming."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-06-my-day",
+   "baslik": "My Day",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda günlük rutinlerin İngilizcesini öğreneceğiz.",
+     "baslik": "My Day",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Wake up – Uyanmak",
+     "emoji": "⏰",
+     "buyuk": "Wake up",
+     "kucuk": "Uyanmak",
+     "ses": [
+      [
+       "en",
+       "Wake up"
+      ],
+      [
+       "tr",
+       "Uyanmak"
+      ],
+      [
+       "en",
+       "Wake up"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Brush teeth – Diş fırçalamak",
+     "emoji": "🪥",
+     "buyuk": "Brush teeth",
+     "kucuk": "Diş fırçalamak",
+     "ses": [
+      [
+       "en",
+       "Brush teeth"
+      ],
+      [
+       "tr",
+       "Diş fırçalamak"
+      ],
+      [
+       "en",
+       "Brush teeth"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Have breakfast – Kahvaltı yapmak",
+     "emoji": "🍳",
+     "buyuk": "Have breakfast",
+     "kucuk": "Kahvaltı yapmak",
+     "ses": [
+      [
+       "en",
+       "Have breakfast"
+      ],
+      [
+       "tr",
+       "Kahvaltı yapmak"
+      ],
+      [
+       "en",
+       "Have breakfast"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Go to school – Okula gitmek",
+     "emoji": "🏫",
+     "buyuk": "Go to school",
+     "kucuk": "Okula gitmek",
+     "ses": [
+      [
+       "en",
+       "Go to school"
+      ],
+      [
+       "tr",
+       "Okula gitmek"
+      ],
+      [
+       "en",
+       "Go to school"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Do homework – Ödev yapmak",
+     "emoji": "📝",
+     "buyuk": "Do homework",
+     "kucuk": "Ödev yapmak",
+     "ses": [
+      [
+       "en",
+       "Do homework"
+      ],
+      [
+       "tr",
+       "Ödev yapmak"
+      ],
+      [
+       "en",
+       "Do homework"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Go to bed – Yatmak",
+     "emoji": "🛌",
+     "buyuk": "Go to bed",
+     "kucuk": "Yatmak",
+     "ses": [
+      [
+       "en",
+       "Go to bed"
+      ],
+      [
+       "tr",
+       "Yatmak"
+      ],
+      [
+       "en",
+       "Go to bed"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Wake up, Brush teeth, Have breakfast, Go to school, Do homework, Go to bed",
+     "ogeler": [
+      [
+       "⏰",
+       "Wake up",
+       "Uyanmak"
+      ],
+      [
+       "🪥",
+       "Brush teeth",
+       "Diş fırçalamak"
+      ],
+      [
+       "🍳",
+       "Have breakfast",
+       "Kahvaltı yapmak"
+      ],
+      [
+       "🏫",
+       "Go to school",
+       "Okula gitmek"
+      ],
+      [
+       "📝",
+       "Do homework",
+       "Ödev yapmak"
+      ],
+      [
+       "🛌",
+       "Go to bed",
+       "Yatmak"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Wake up. Brush teeth. Have breakfast. Go to school. Do homework. Go to bed."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-07-rules",
+   "baslik": "Classroom Rules",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda sınıf kurallarının İngilizcesini öğreneceğiz.",
+     "baslik": "Classroom Rules",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Be quiet – Sessiz ol",
+     "emoji": "🤫",
+     "buyuk": "Be quiet",
+     "kucuk": "Sessiz ol",
+     "ses": [
+      [
+       "en",
+       "Be quiet"
+      ],
+      [
+       "tr",
+       "Sessiz ol"
+      ],
+      [
+       "en",
+       "Be quiet"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Raise your hand – Parmak kaldır",
+     "emoji": "✋",
+     "buyuk": "Raise your hand",
+     "kucuk": "Parmak kaldır",
+     "ses": [
+      [
+       "en",
+       "Raise your hand"
+      ],
+      [
+       "tr",
+       "Parmak kaldır"
+      ],
+      [
+       "en",
+       "Raise your hand"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Listen – Dinle",
+     "emoji": "👂",
+     "buyuk": "Listen",
+     "kucuk": "Dinle",
+     "ses": [
+      [
+       "en",
+       "Listen"
+      ],
+      [
+       "tr",
+       "Dinle"
+      ],
+      [
+       "en",
+       "Listen"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Open your book – Kitabını aç",
+     "emoji": "📖",
+     "buyuk": "Open your book",
+     "kucuk": "Kitabını aç",
+     "ses": [
+      [
+       "en",
+       "Open your book"
+      ],
+      [
+       "tr",
+       "Kitabını aç"
+      ],
+      [
+       "en",
+       "Open your book"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Sit down – Otur",
+     "emoji": "🪑",
+     "buyuk": "Sit down",
+     "kucuk": "Otur",
+     "ses": [
+      [
+       "en",
+       "Sit down"
+      ],
+      [
+       "tr",
+       "Otur"
+      ],
+      [
+       "en",
+       "Sit down"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Stand up – Ayağa kalk",
+     "emoji": "🧍",
+     "buyuk": "Stand up",
+     "kucuk": "Ayağa kalk",
+     "ses": [
+      [
+       "en",
+       "Stand up"
+      ],
+      [
+       "tr",
+       "Ayağa kalk"
+      ],
+      [
+       "en",
+       "Stand up"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Be quiet, Raise your hand, Listen, Open your book, Sit down, Stand up",
+     "ogeler": [
+      [
+       "🤫",
+       "Be quiet",
+       "Sessiz ol"
+      ],
+      [
+       "✋",
+       "Raise your hand",
+       "Parmak kaldır"
+      ],
+      [
+       "👂",
+       "Listen",
+       "Dinle"
+      ],
+      [
+       "📖",
+       "Open your book",
+       "Kitabını aç"
+      ],
+      [
+       "🪑",
+       "Sit down",
+       "Otur"
+      ],
+      [
+       "🧍",
+       "Stand up",
+       "Ayağa kalk"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Be quiet. Raise your hand. Listen. Open your book. Sit down. Stand up."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-08-science",
+   "baslik": "Fun with Science",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda bilim kelimelerinin İngilizcesini öğreneceğiz.",
+     "baslik": "Fun with Science",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Microscope – Mikroskop",
+     "emoji": "🔬",
+     "buyuk": "Microscope",
+     "kucuk": "Mikroskop",
+     "ses": [
+      [
+       "en",
+       "Microscope"
+      ],
+      [
+       "tr",
+       "Mikroskop"
+      ],
+      [
+       "en",
+       "Microscope"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Magnet – Mıknatıs",
+     "emoji": "🧲",
+     "buyuk": "Magnet",
+     "kucuk": "Mıknatıs",
+     "ses": [
+      [
+       "en",
+       "Magnet"
+      ],
+      [
+       "tr",
+       "Mıknatıs"
+      ],
+      [
+       "en",
+       "Magnet"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Thermometer – Termometre",
+     "emoji": "🌡",
+     "buyuk": "Thermometer",
+     "kucuk": "Termometre",
+     "ses": [
+      [
+       "en",
+       "Thermometer"
+      ],
+      [
+       "tr",
+       "Termometre"
+      ],
+      [
+       "en",
+       "Thermometer"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Telescope – Teleskop",
+     "emoji": "🔭",
+     "buyuk": "Telescope",
+     "kucuk": "Teleskop",
+     "ses": [
+      [
+       "en",
+       "Telescope"
+      ],
+      [
+       "tr",
+       "Teleskop"
+      ],
+      [
+       "en",
+       "Telescope"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Light bulb – Ampul",
+     "emoji": "💡",
+     "buyuk": "Light bulb",
+     "kucuk": "Ampul",
+     "ses": [
+      [
+       "en",
+       "Light bulb"
+      ],
+      [
+       "tr",
+       "Ampul"
+      ],
+      [
+       "en",
+       "Light bulb"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "Test tube – Deney tüpü",
+     "emoji": "🧪",
+     "buyuk": "Test tube",
+     "kucuk": "Deney tüpü",
+     "ses": [
+      [
+       "en",
+       "Test tube"
+      ],
+      [
+       "tr",
+       "Deney tüpü"
+      ],
+      [
+       "en",
+       "Test tube"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: Microscope, Magnet, Thermometer, Telescope, Light bulb, Test tube",
+     "ogeler": [
+      [
+       "🔬",
+       "Microscope",
+       "Mikroskop"
+      ],
+      [
+       "🧲",
+       "Magnet",
+       "Mıknatıs"
+      ],
+      [
+       "🌡",
+       "Thermometer",
+       "Termometre"
+      ],
+      [
+       "🔭",
+       "Telescope",
+       "Teleskop"
+      ],
+      [
+       "💡",
+       "Light bulb",
+       "Ampul"
+      ],
+      [
+       "🧪",
+       "Test tube",
+       "Deney tüpü"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "Microscope. Magnet. Thermometer. Telescope. Light bulb. Test tube."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-09-months",
+   "baslik": "Months",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda ayların İngilizcesini öğreneceğiz.",
+     "baslik": "Months",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "January – Ocak",
+     "emoji": "❄",
+     "buyuk": "January",
+     "kucuk": "Ocak",
+     "ses": [
+      [
+       "en",
+       "January"
+      ],
+      [
+       "tr",
+       "Ocak"
+      ],
+      [
+       "en",
+       "January"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "February – Şubat",
+     "emoji": "🌨",
+     "buyuk": "February",
+     "kucuk": "Şubat",
+     "ses": [
+      [
+       "en",
+       "February"
+      ],
+      [
+       "tr",
+       "Şubat"
+      ],
+      [
+       "en",
+       "February"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "March – Mart",
+     "emoji": "🌷",
+     "buyuk": "March",
+     "kucuk": "Mart",
+     "ses": [
+      [
+       "en",
+       "March"
+      ],
+      [
+       "tr",
+       "Mart"
+      ],
+      [
+       "en",
+       "March"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "April – Nisan",
+     "emoji": "🌸",
+     "buyuk": "April",
+     "kucuk": "Nisan",
+     "ses": [
+      [
+       "en",
+       "April"
+      ],
+      [
+       "tr",
+       "Nisan"
+      ],
+      [
+       "en",
+       "April"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "May – Mayıs",
+     "emoji": "🌼",
+     "buyuk": "May",
+     "kucuk": "Mayıs",
+     "ses": [
+      [
+       "en",
+       "May"
+      ],
+      [
+       "tr",
+       "Mayıs"
+      ],
+      [
+       "en",
+       "May"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "June – Haziran",
+     "emoji": "☀",
+     "buyuk": "June",
+     "kucuk": "Haziran",
+     "ses": [
+      [
+       "en",
+       "June"
+      ],
+      [
+       "tr",
+       "Haziran"
+      ],
+      [
+       "en",
+       "June"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: January, February, March, April, May, June",
+     "ogeler": [
+      [
+       "❄",
+       "January",
+       "Ocak"
+      ],
+      [
+       "🌨",
+       "February",
+       "Şubat"
+      ],
+      [
+       "🌷",
+       "March",
+       "Mart"
+      ],
+      [
+       "🌸",
+       "April",
+       "Nisan"
+      ],
+      [
+       "🌼",
+       "May",
+       "Mayıs"
+      ],
+      [
+       "☀",
+       "June",
+       "Haziran"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "January. February. March. April. May. June."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ing4-10-months2",
+   "baslik": "Months 2",
+   "konu": "Kelimeler",
+   "sinif": 4,
+   "ders": "İngilizce",
+   "sahneler": [
+    {
+     "tip": "baslik",
+     "anlatim": "Bu videoda yılın ikinci yarısındaki ayların İngilizcesini öğreneceğiz.",
+     "baslik": "Months 2",
+     "alt": "English"
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "July – Temmuz",
+     "emoji": "🏖",
+     "buyuk": "July",
+     "kucuk": "Temmuz",
+     "ses": [
+      [
+       "en",
+       "July"
+      ],
+      [
+       "tr",
+       "Temmuz"
+      ],
+      [
+       "en",
+       "July"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "August – Ağustos",
+     "emoji": "🍉",
+     "buyuk": "August",
+     "kucuk": "Ağustos",
+     "ses": [
+      [
+       "en",
+       "August"
+      ],
+      [
+       "tr",
+       "Ağustos"
+      ],
+      [
+       "en",
+       "August"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "September – Eylül",
+     "emoji": "🍂",
+     "buyuk": "September",
+     "kucuk": "Eylül",
+     "ses": [
+      [
+       "en",
+       "September"
+      ],
+      [
+       "tr",
+       "Eylül"
+      ],
+      [
+       "en",
+       "September"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "October – Ekim",
+     "emoji": "🎃",
+     "buyuk": "October",
+     "kucuk": "Ekim",
+     "ses": [
+      [
+       "en",
+       "October"
+      ],
+      [
+       "tr",
+       "Ekim"
+      ],
+      [
+       "en",
+       "October"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "November – Kasım",
+     "emoji": "🍁",
+     "buyuk": "November",
+     "kucuk": "Kasım",
+     "ses": [
+      [
+       "en",
+       "November"
+      ],
+      [
+       "tr",
+       "Kasım"
+      ],
+      [
+       "en",
+       "November"
+      ]
+     ]
+    },
+    {
+     "tip": "kelime",
+     "anlatim": "December – Aralık",
+     "emoji": "⛄",
+     "buyuk": "December",
+     "kucuk": "Aralık",
+     "ses": [
+      [
+       "en",
+       "December"
+      ],
+      [
+       "tr",
+       "Aralık"
+      ],
+      [
+       "en",
+       "December"
+      ]
+     ]
+    },
+    {
+     "tip": "kelimeler",
+     "anlatim": "Tekrar: July, August, September, October, November, December",
+     "ogeler": [
+      [
+       "🏖",
+       "July",
+       "Temmuz"
+      ],
+      [
+       "🍉",
+       "August",
+       "Ağustos"
+      ],
+      [
+       "🍂",
+       "September",
+       "Eylül"
+      ],
+      [
+       "🎃",
+       "October",
+       "Ekim"
+      ],
+      [
+       "🍁",
+       "November",
+       "Kasım"
+      ],
+      [
+       "⛄",
+       "December",
+       "Aralık"
+      ]
+     ],
+     "ses": [
+      [
+       "tr",
+       "Hadi tekrar edelim."
+      ],
+      [
+       "en",
+       "July. August. September. October. November. December."
+      ]
      ]
     }
    ]
