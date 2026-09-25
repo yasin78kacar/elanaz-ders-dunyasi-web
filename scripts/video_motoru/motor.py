@@ -1117,10 +1117,11 @@ def sar(T, metin, size, maxw):
     if cur: out.append(cur)
     return out
 
-def kare(video, k, sahne, t, D):
+def kare(video, k, sahne, t, D, poster=False):
     im = Image.new('RGB', (W * SS, H * SS), BG); T = Tuval(im)
     if sahne['tip'] != 'baslik': T.text(640, 44, video['baslik'], 28, MUTED)
     TIPLER[sahne['tip']](T, sahne, t, D)
+    if poster: return im.reduce(SS)
     n = len(video['sahneler'])
     for j in range(n):
         x = 640 + (j - (n - 1) / 2) * 22
@@ -1215,6 +1216,16 @@ def dogrula(videolar):
             assert s['tip'] in TIPLER, f"{v['id']} sahne {i + 1}: bilinmeyen tip {s['tip']}"
             assert s.get('anlatim'), f"{v['id']} sahne {i + 1}: anlatim yok"
 
+def poster_sahne(sahneler):
+    """Poster: başlıktan sonraki ilk görsel sahnenin son hâli (metin sahnelerini atla)."""
+    for i, s in enumerate(sahneler):
+        if i and s['tip'] not in ('baslik', 'metin'): return i
+    return min(1, len(sahneler) - 1)
+
+def poster_uret(video):
+    ss = [dict(s) for s in video['sahneler']]; i = poster_sahne(ss); D = sure_hesapla(ss[i], None)
+    kare(video, i, ss[i], D + 30, D, poster=True).save(os.path.join(CIKTI, video['id'] + '.jpg'), quality=82)
+
 def uret(video, ses, onizleme):
     vid = video['id']; tmp = tempfile.mkdtemp()
     try:
@@ -1240,7 +1251,8 @@ def uret(video, ses, onizleme):
             D = sureler[i]; nk = int(round(D * FPS))
             for f in range(nk):
                 im = kare(video, i, s, f / FPS, D)
-                if i == 0 and f == int(1.8 * FPS): im.save(os.path.join(CIKTI, vid + '.jpg'), quality=82)
+                if i == poster_sahne(sahneler) and f == max(0, nk - int(0.4 * FPS)):
+                    kare(video, i, s, D + 30, D, poster=True).save(os.path.join(CIKTI, vid + '.jpg'), quality=82)
                 pr.stdin.write(im.tobytes())
         pr.stdin.close()
         if pr.wait() != 0: raise RuntimeError('ffmpeg video hatası')
@@ -1274,10 +1286,18 @@ def main():
     ap.add_argument('--ses', help='macOS ses adı (varsayılan: otomatik Türkçe)')
     ap.add_argument('--edge', nargs='?', const='tr-TR-EmelNeural', help='Microsoft nöral ses (varsayılan Emel; erkek: tr-TR-AhmetNeural)')
     ap.add_argument('--edge-en', default='en-US-JennyNeural', help='İngilizce kelimeler için Microsoft sesi')
+    ap.add_argument('--poster', action='store_true', help='sadece posterleri yeniden üret (video ve ses değişmez)')
     ap.add_argument('--eksik', action='store_true', help='sadece henüz üretilmemiş videoları üret')
     ap.add_argument('--sinif', type=int, help='sadece bu sınıfın videoları')
     ap.add_argument('--ders', help='sadece bu dersin videoları (Matematik, Türkçe, İngilizce)')
     ar = ap.parse_args()
+    if ar.poster:
+        with open(SENARYO, encoding='utf-8') as f: vs = json.load(f)['videolar']
+        vs = [v for v in vs if (not ar.id or v['id'].startswith(ar.id)) and os.path.exists(os.path.join(CIKTI, v['id'] + '.mp4'))]
+        for k, v in enumerate(vs, 1):
+            poster_uret(v)
+            if k % 25 == 0 or k == len(vs): print(f'poster {k}/{len(vs)}')
+        return
     if not shutil.which('ffmpeg') and not ar.onizleme: sys.exit('ffmpeg bulunamadı: brew install ffmpeg')
     with open(SENARYO, encoding='utf-8') as f: videolar = json.load(f)['videolar']
     dogrula(videolar)
