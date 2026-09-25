@@ -738,7 +738,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
         if (route === 'hata-kutusu') {
               const h = hatalariGetir(profilAdi);
               if (h.length === 0) {
-                setModalMesaj('Hata kutun şu an boş! Harikasın! 🌟');
+                setModalMesaj('📦 Hata kutun boş! Yanlış cevapladığın sorular burada birikir, sonra tekrar çözersin.');
                 return;
               }
               setHataModu(true);
@@ -958,7 +958,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
             <button className="home-menu-card hmc-hata" onClick={() => {
               const h = hatalariGetir(profilAdi);
               if (h.length === 0) {
-                setModalMesaj('Hata kutun şu an boş! Harikasın! 🌟');
+                setModalMesaj('📦 Hata kutun boş! Yanlış cevapladığın sorular burada birikir, sonra tekrar çözersin.');
                 return;
               }
               setHataModu(true);
