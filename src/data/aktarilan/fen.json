@@ -2557,7 +2557,7 @@
   "options": [
    "Yürür",
    "Uçar",
-   "Yüzer",
+   "Zıplar",
    "Sürünür"
   ],
   "correctAnswer": 0,
@@ -2658,14 +2658,14 @@
   "id": "fn_0303",
   "subject": "Fen Bilimleri",
   "theme": "Hayvanlar",
-  "question": "Yun balığı hangi gruptadır?",
+  "question": "Yunus hangi gruptadır?",
   "options": [
    "Kuş",
    "Balık",
    "Böcek",
    "Memeli"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -11968,9 +11968,9 @@
   "grade": 1
  },
  {
-  "question": "denizyıldızı, kaplumbağa, serçe, baykuş — Hangisi KARADA yaşar?",
+  "question": "denizyıldızı, tavşan, serçe, baykuş — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
-   "kaplumbağa",
+   "tavşan",
    "baykuş",
    "denizyıldızı",
    "serçe"
@@ -12098,7 +12098,7 @@
   "grade": 1
  },
  {
-  "question": "kartal, köpek, ahtapot, arı — Hangisi KARADA yaşar?",
+  "question": "kartal, köpek, ahtapot, arı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "ahtapot",
    "köpek",
@@ -12137,7 +12137,7 @@
   "grade": 1
  },
  {
-  "question": "fil, serçe, kelebek, martı — Hangisi KARADA yaşar?",
+  "question": "fil, serçe, kelebek, martı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "martı",
    "kelebek",
@@ -12280,7 +12280,7 @@
   "grade": 1
  },
  {
-  "question": "karınca, arı, baykuş, ahtapot — Hangisi KARADA yaşar?",
+  "question": "karınca, arı, baykuş, ahtapot — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "ahtapot",
    "baykuş",
@@ -12358,11 +12358,11 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer? (kaplumbağa, aslan, baykuş, köpekbalığı)",
+  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer? (tavşan, aslan, baykuş, köpekbalığı)",
   "options": [
    "aslan",
    "baykuş",
-   "kaplumbağa",
+   "tavşan",
    "köpekbalığı"
   ],
   "correctAnswer": 3,
@@ -12514,7 +12514,7 @@
   "grade": 2
  },
  {
-  "question": "balina, balık, tavşan, köpekbalığı — Hangisi KARADA yaşar?",
+  "question": "balina, balık, tavşan, köpekbalığı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "köpekbalığı",
    "balina",
@@ -12592,9 +12592,9 @@
   "grade": 1
  },
  {
-  "question": "kartal, kaplumbağa, ahtapot, balık — Hangisi KARADA yaşar?",
+  "question": "kartal, tavşan, ahtapot, balık — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
-   "kaplumbağa",
+   "tavşan",
    "balık",
    "ahtapot",
    "kartal"
@@ -12644,7 +12644,7 @@
   "grade": 1
  },
  {
-  "question": "balina, köpek, ahtapot, martı — Hangisi KARADA yaşar?",
+  "question": "balina, köpek, ahtapot, martı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "köpek",
    "martı",
@@ -12683,12 +12683,12 @@
   "grade": 1
  },
  {
-  "question": "köpekbalığı, kaplumbağa, ahtapot, kartal — Hangisi KARADA yaşar?",
+  "question": "köpekbalığı, tavşan, ahtapot, kartal — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "köpekbalığı",
    "kartal",
    "ahtapot",
-   "kaplumbağa"
+   "tavşan"
   ],
   "correctAnswer": 3,
   "subject": "Fen Bilimleri",
@@ -12852,11 +12852,11 @@
   "grade": 1
  },
  {
-  "question": "martı, arı, kaplumbağa, denizyıldızı — Hangisi KARADA yaşar?",
+  "question": "martı, arı, tavşan, denizyıldızı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "martı",
    "arı",
-   "kaplumbağa",
+   "tavşan",
    "denizyıldızı"
   ],
   "correctAnswer": 2,
@@ -12878,10 +12878,10 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer? (kaplumbağa, balık, tavşan, fil)",
+  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer? (koyun, balık, tavşan, fil)",
   "options": [
    "balık",
-   "kaplumbağa",
+   "koyun",
    "tavşan",
    "fil"
   ],
@@ -12943,7 +12943,7 @@
   "grade": 1
  },
  {
-  "question": "balık, kartal, aslan, köpekbalığı — Hangisi KARADA yaşar?",
+  "question": "balık, kartal, aslan, köpekbalığı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "balık",
    "kartal",
@@ -12969,10 +12969,10 @@
   "grade": 2
  },
  {
-  "question": "kaplumbağa, baykuş, yunus, martı — Hangisi SUDA yaşar?",
+  "question": "tavşan, baykuş, yunus, martı — Hangisi SUDA yaşar?",
   "options": [
    "martı",
-   "kaplumbağa",
+   "tavşan",
    "baykuş",
    "yunus"
   ],
@@ -12982,11 +12982,11 @@
   "grade": 1
  },
  {
-  "question": "balina, aslan, arı, kaplumbağa — Hangisi SUDA yaşar?",
+  "question": "balina, aslan, arı, tavşan — Hangisi SUDA yaşar?",
   "options": [
    "aslan",
    "balina",
-   "kaplumbağa",
+   "tavşan",
    "arı"
   ],
   "correctAnswer": 1,
@@ -13008,7 +13008,7 @@
   "grade": 1
  },
  {
-  "question": "ahtapot, kelebek, balık, koyun — Hangisi KARADA yaşar?",
+  "question": "ahtapot, kelebek, balık, koyun — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "ahtapot",
    "koyun",
@@ -13073,9 +13073,9 @@
   "grade": 2
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer? (kedi, martı, balık, kaplumbağa)",
+  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer? (kedi, martı, balık, tavşan)",
   "options": [
-   "kaplumbağa",
+   "tavşan",
    "kedi",
    "martı",
    "balık"
@@ -13125,7 +13125,7 @@
   "grade": 1
  },
  {
-  "question": "kartal, serçe, aslan, köpekbalığı — Hangisi KARADA yaşar?",
+  "question": "kartal, serçe, aslan, köpekbalığı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "serçe",
    "aslan",
@@ -13229,7 +13229,7 @@
   "grade": 1
  },
  {
-  "question": "köpekbalığı, baykuş, balık, inek — Hangisi KARADA yaşar?",
+  "question": "köpekbalığı, baykuş, balık, inek — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "inek",
    "baykuş",
