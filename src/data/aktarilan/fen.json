@@ -11968,11 +11968,11 @@
   "grade": 1
  },
  {
-  "question": "Denizyıldızı, tavşan, serçe, baykuş — Hangisi KARADA yaşar ve UÇAMAZ?",
+  "question": "Deniz yıldızı, tavşan, serçe, baykuş — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "tavşan",
    "baykuş",
-   "denizyıldızı",
+   "deniz yıldızı",
    "serçe"
   ],
   "correctAnswer": 0,
@@ -11981,10 +11981,10 @@
   "grade": 1
  },
  {
-  "question": "Kelebek, denizyıldızı, kedi, karınca — Hangisi UÇABİLİR?",
+  "question": "Kelebek, deniz yıldızı, kedi, karınca — Hangisi UÇABİLİR?",
   "options": [
    "karınca",
-   "denizyıldızı",
+   "deniz yıldızı",
    "kelebek",
    "kedi"
   ],
@@ -11994,7 +11994,7 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
    "tavşan",
    "balık",
@@ -12020,11 +12020,11 @@
   "grade": 1
  },
  {
-  "question": "Tavşan, kartal, kedi, denizyıldızı — Hangisi UÇABİLİR?",
+  "question": "Tavşan, kartal, kedi, deniz yıldızı — Hangisi UÇABİLİR?",
   "options": [
    "kartal",
    "tavşan",
-   "denizyıldızı",
+   "deniz yıldızı",
    "kedi"
   ],
   "correctAnswer": 0,
@@ -12064,7 +12064,7 @@
    "baykuş",
    "balina",
    "köpek",
-   "denizyıldızı"
+   "deniz yıldızı"
   ],
   "correctAnswer": 2,
   "subject": "Fen Bilimleri",
@@ -12124,10 +12124,10 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
    "baykuş",
-   "denizyıldızı",
+   "balık",
    "arı",
    "at"
   ],
@@ -12205,7 +12205,7 @@
   "question": "Hangisi ne uçabilir ne de suda yaşar?",
   "options": [
    "arı",
-   "köpekbalığı",
+   "köpek balığı",
    "balina",
    "tavşan"
   ],
@@ -12228,10 +12228,10 @@
   "grade": 1
  },
  {
-  "question": "Selin çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "balina",
-   "denizyıldızı",
+   "deniz yıldızı",
    "kartal",
    "karınca"
   ],
@@ -12241,9 +12241,9 @@
   "grade": 2
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
-   "denizyıldızı",
+   "balık",
    "aslan",
    "kartal",
    "karınca"
@@ -12256,7 +12256,7 @@
  {
   "question": "Ayşe akvaryum ve deniz canlılarını araştırıyor. Hangisini listesine eklemeli?",
   "options": [
-   "denizyıldızı",
+   "deniz yıldızı",
    "karınca",
    "fil",
    "kartal"
@@ -12293,7 +12293,7 @@
   "grade": 1
  },
  {
-  "question": "Fatma çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "balık",
    "at",
@@ -12308,7 +12308,7 @@
  {
   "question": "Ali akvaryum ve deniz canlılarını araştırıyor. Hangisini listesine eklemeli?",
   "options": [
-   "köpekbalığı",
+   "köpek balığı",
    "at",
    "kartal",
    "kedi"
@@ -12358,12 +12358,12 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
    "aslan",
    "baykuş",
    "tavşan",
-   "köpekbalığı"
+   "köpek balığı"
   ],
   "correctAnswer": 3,
   "subject": "Fen Bilimleri",
@@ -12384,7 +12384,7 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
    "kedi",
    "ahtapot",
@@ -12462,12 +12462,12 @@
   "grade": 1
  },
  {
-  "question": "Hande çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "karınca",
    "balina",
    "balık",
-   "denizyıldızı"
+   "deniz yıldızı"
   ],
   "correctAnswer": 0,
   "subject": "Fen Bilimleri",
@@ -12490,10 +12490,10 @@
  {
   "question": "Gökyüzüne bakan Hande hangisini uçarken görebilir?",
   "options": [
-   "köpekbalığı",
+   "köpek balığı",
    "fil",
    "serçe",
-   "denizyıldızı"
+   "deniz yıldızı"
   ],
   "correctAnswer": 2,
   "subject": "Fen Bilimleri",
@@ -12514,9 +12514,9 @@
   "grade": 2
  },
  {
-  "question": "Balina, balık, tavşan, köpekbalığı — Hangisi KARADA yaşar ve UÇAMAZ?",
+  "question": "Balina, balık, tavşan, köpek balığı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
-   "köpekbalığı",
+   "köpek balığı",
    "balina",
    "tavşan",
    "balık"
@@ -12583,7 +12583,7 @@
   "options": [
    "inek",
    "kelebek",
-   "denizyıldızı",
+   "deniz yıldızı",
    "kartal"
   ],
   "correctAnswer": 2,
@@ -12621,7 +12621,7 @@
   "question": "Selin akvaryum ve deniz canlılarını araştırıyor. Hangisini listesine eklemeli?",
   "options": [
    "aslan",
-   "denizyıldızı",
+   "deniz yıldızı",
    "tavşan",
    "kaplumbağa"
   ],
@@ -12672,7 +12672,7 @@
  {
   "question": "Denizde yaşayan hayvan hangisidir?",
   "options": [
-   "denizyıldızı",
+   "deniz yıldızı",
    "arı",
    "kartal",
    "kelebek"
@@ -12683,9 +12683,9 @@
   "grade": 1
  },
  {
-  "question": "Köpekbalığı, tavşan, ahtapot, kartal — Hangisi KARADA yaşar ve UÇAMAZ?",
+  "question": "Köpek balığı, tavşan, ahtapot, kartal — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
-   "köpekbalığı",
+   "köpek balığı",
    "kartal",
    "ahtapot",
    "tavşan"
@@ -12696,9 +12696,9 @@
   "grade": 1
  },
  {
-  "question": "Can çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
-   "köpekbalığı",
+   "köpek balığı",
    "köpek",
    "yunus",
    "arı"
@@ -12739,7 +12739,7 @@
   "options": [
    "kedi",
    "köpek",
-   "köpekbalığı",
+   "köpek balığı",
    "martı"
   ],
   "correctAnswer": 3,
@@ -12751,7 +12751,7 @@
   "question": "Denizde yaşayan hayvan hangisidir?",
   "options": [
    "arı",
-   "denizyıldızı",
+   "deniz yıldızı",
    "kedi",
    "tavşan"
   ],
@@ -12761,7 +12761,7 @@
   "grade": 1
  },
  {
-  "question": "Can çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "kartal",
    "martı",
@@ -12777,7 +12777,7 @@
   "question": "Hangisinin kanatları vardır ve uçar?",
   "options": [
    "kartal",
-   "köpekbalığı",
+   "köpek balığı",
    "at",
    "fil"
   ],
@@ -12826,7 +12826,7 @@
   "grade": 1
  },
  {
-  "question": "Mehmet çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "balina",
    "karınca",
@@ -12852,12 +12852,12 @@
   "grade": 1
  },
  {
-  "question": "Martı, arı, tavşan, denizyıldızı — Hangisi KARADA yaşar ve UÇAMAZ?",
+  "question": "Martı, arı, tavşan, deniz yıldızı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "martı",
    "arı",
    "tavşan",
-   "denizyıldızı"
+   "deniz yıldızı"
   ],
   "correctAnswer": 2,
   "subject": "Fen Bilimleri",
@@ -12878,7 +12878,7 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
    "balık",
    "koyun",
@@ -12891,7 +12891,7 @@
   "grade": 1
  },
  {
-  "question": "Can çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "kartal",
    "balina",
@@ -12917,10 +12917,10 @@
   "grade": 2
  },
  {
-  "question": "Kelebek, aslan, ahtapot, köpekbalığı — Hangisi UÇABİLİR?",
+  "question": "Kelebek, aslan, ahtapot, köpek balığı — Hangisi UÇABİLİR?",
   "options": [
    "kelebek",
-   "köpekbalığı",
+   "köpek balığı",
    "aslan",
    "ahtapot"
   ],
@@ -12933,7 +12933,7 @@
   "question": "Gökyüzüne bakan Mehmet hangisini uçarken görebilir?",
   "options": [
    "kartal",
-   "denizyıldızı",
+   "deniz yıldızı",
    "karınca",
    "köpek"
   ],
@@ -12943,12 +12943,12 @@
   "grade": 1
  },
  {
-  "question": "Balık, kartal, aslan, köpekbalığı — Hangisi KARADA yaşar ve UÇAMAZ?",
+  "question": "Balık, kartal, aslan, köpek balığı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "balık",
    "kartal",
    "aslan",
-   "köpekbalığı"
+   "köpek balığı"
   ],
   "correctAnswer": 2,
   "subject": "Fen Bilimleri",
@@ -12995,7 +12995,7 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
    "serçe",
    "kelebek",
@@ -13038,7 +13038,7 @@
   "options": [
    "balık",
    "kelebek",
-   "denizyıldızı",
+   "deniz yıldızı",
    "yunus"
   ],
   "correctAnswer": 1,
@@ -13064,7 +13064,7 @@
   "options": [
    "kelebek",
    "fil",
-   "denizyıldızı",
+   "deniz yıldızı",
    "martı"
   ],
   "correctAnswer": 2,
@@ -13073,7 +13073,7 @@
   "grade": 2
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
    "tavşan",
    "kedi",
@@ -13112,7 +13112,7 @@
   "grade": 1
  },
  {
-  "question": "Ayşe çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "balık",
    "karınca",
@@ -13125,11 +13125,11 @@
   "grade": 1
  },
  {
-  "question": "Kartal, serçe, aslan, köpekbalığı — Hangisi KARADA yaşar ve UÇAMAZ?",
+  "question": "Kartal, serçe, aslan, köpek balığı — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "serçe",
    "aslan",
-   "köpekbalığı",
+   "köpek balığı",
    "kartal"
   ],
   "correctAnswer": 1,
@@ -13142,7 +13142,7 @@
   "options": [
    "koyun",
    "martı",
-   "denizyıldızı",
+   "deniz yıldızı",
    "kartal"
   ],
   "correctAnswer": 0,
@@ -13177,7 +13177,7 @@
   "grade": 1
  },
  {
-  "question": "Hande çiftlik ve kara hayvanlarını çiziyor. Hangisini çizmeli?",
+  "question": "Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "köpek",
    "arı",
@@ -13216,7 +13216,7 @@
   "grade": 1
  },
  {
-  "question": "Hangisinin yaşamak için suya ihtiyacı vardır ve suda yüzer?",
+  "question": "Hangisi suda yaşar ve yüzer?",
   "options": [
    "kelebek",
    "kedi",
@@ -13229,11 +13229,11 @@
   "grade": 1
  },
  {
-  "question": "Köpekbalığı, baykuş, balık, inek — Hangisi KARADA yaşar ve UÇAMAZ?",
+  "question": "Köpek balığı, baykuş, balık, inek — Hangisi KARADA yaşar ve UÇAMAZ?",
   "options": [
    "inek",
    "baykuş",
-   "köpekbalığı",
+   "köpek balığı",
    "balık"
   ],
   "correctAnswer": 0,
@@ -19872,10 +19872,10 @@
   "grade": 2
  },
  {
-  "question": "Berk suda yaşayan hayvanlar listesi yapıyor: karınca, köpekbalığı, denizyıldızı, balık — Hangisini listeden ÇIKARMALI?",
+  "question": "Berk suda yaşayan hayvanlar listesi yapıyor: karınca, köpek balığı, deniz yıldızı, balık — Hangisini listeden ÇIKARMALI?",
   "options": [
-   "denizyıldızı",
-   "köpekbalığı",
+   "deniz yıldızı",
+   "köpek balığı",
    "balık",
    "karınca"
   ],
@@ -19898,12 +19898,12 @@
   "grade": 1
  },
  {
-  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: denizyıldızı, ahtapot, köpekbalığı, tavşan. Farklı olan hangisidir?",
+  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: deniz yıldızı, ahtapot, köpek balığı, tavşan. Farklı olan hangisidir?",
   "options": [
    "tavşan",
    "ahtapot",
-   "denizyıldızı",
-   "köpekbalığı"
+   "deniz yıldızı",
+   "köpek balığı"
   ],
   "correctAnswer": 0,
   "subject": "Fen Bilimleri",
@@ -20106,10 +20106,10 @@
   "grade": 2
  },
  {
-  "question": "Selin suda yaşayan hayvanlar listesi yapıyor: köpekbalığı, serçe, yunus, balina — Hangisini listeden ÇIKARMALI?",
+  "question": "Selin suda yaşayan hayvanlar listesi yapıyor: köpek balığı, serçe, yunus, balina — Hangisini listeden ÇIKARMALI?",
   "options": [
    "serçe",
-   "köpekbalığı",
+   "köpek balığı",
    "balina",
    "yunus"
   ],
@@ -20145,11 +20145,11 @@
   "grade": 1
  },
  {
-  "question": "Mehmet suda yaşayan hayvanlar listesi yapıyor: köpekbalığı, tavşan, ahtapot, denizyıldızı — Hangisini listeden ÇIKARMALI?",
+  "question": "Mehmet suda yaşayan hayvanlar listesi yapıyor: köpek balığı, tavşan, ahtapot, deniz yıldızı — Hangisini listeden ÇIKARMALI?",
   "options": [
-   "denizyıldızı",
+   "deniz yıldızı",
    "tavşan",
-   "köpekbalığı",
+   "köpek balığı",
    "ahtapot"
   ],
   "correctAnswer": 1,
@@ -20158,9 +20158,9 @@
   "grade": 2
  },
  {
-  "question": "Hande suda yaşayan hayvanlar listesi yapıyor: balık, ahtapot, denizyıldızı, kedi — Hangisini listeden ÇIKARMALI?",
+  "question": "Hande suda yaşayan hayvanlar listesi yapıyor: balık, ahtapot, deniz yıldızı, kedi — Hangisini listeden ÇIKARMALI?",
   "options": [
-   "denizyıldızı",
+   "deniz yıldızı",
    "kedi",
    "balık",
    "ahtapot"
@@ -20236,9 +20236,9 @@
   "grade": 1
  },
  {
-  "question": "Zeynep suda yaşayan hayvanlar listesi yapıyor: at, köpekbalığı, balık, yunus — Hangisini listeden ÇIKARMALI?",
+  "question": "Zeynep suda yaşayan hayvanlar listesi yapıyor: at, köpek balığı, balık, yunus — Hangisini listeden ÇIKARMALI?",
   "options": [
-   "köpekbalığı",
+   "köpek balığı",
    "at",
    "yunus",
    "balık"
@@ -20262,12 +20262,12 @@
   "grade": 1
  },
  {
-  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: denizyıldızı, kedi, balık, yunus. Farklı olan hangisidir?",
+  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: deniz yıldızı, kedi, balık, yunus. Farklı olan hangisidir?",
   "options": [
    "yunus",
    "kedi",
    "balık",
-   "denizyıldızı"
+   "deniz yıldızı"
   ],
   "correctAnswer": 1,
   "subject": "Fen Bilimleri",
@@ -20405,9 +20405,9 @@
   "grade": 1
  },
  {
-  "question": "Berk suda yaşayan hayvanlar listesi yapıyor: ahtapot, serçe, denizyıldızı, balık — Hangisini listeden ÇIKARMALI?",
+  "question": "Berk suda yaşayan hayvanlar listesi yapıyor: ahtapot, serçe, deniz yıldızı, balık — Hangisini listeden ÇIKARMALI?",
   "options": [
-   "denizyıldızı",
+   "deniz yıldızı",
    "balık",
    "ahtapot",
    "serçe"
@@ -20444,12 +20444,12 @@
   "grade": 1
  },
  {
-  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: ahtapot, tavşan, denizyıldızı, yunus. Farklı olan hangisidir?",
+  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: ahtapot, tavşan, deniz yıldızı, yunus. Farklı olan hangisidir?",
   "options": [
    "tavşan",
    "yunus",
    "ahtapot",
-   "denizyıldızı"
+   "deniz yıldızı"
   ],
   "correctAnswer": 0,
   "subject": "Fen Bilimleri",
@@ -20587,9 +20587,9 @@
   "grade": 1
  },
  {
-  "question": "Ayşe suda yaşayan hayvanlar listesi yapıyor: denizyıldızı, ahtapot, balina, at — Hangisini listeden ÇIKARMALI?",
+  "question": "Ayşe suda yaşayan hayvanlar listesi yapıyor: deniz yıldızı, ahtapot, balina, at — Hangisini listeden ÇIKARMALI?",
   "options": [
-   "denizyıldızı",
+   "deniz yıldızı",
    "ahtapot",
    "at",
    "balina"
@@ -20613,11 +20613,11 @@
   "grade": 1
  },
  {
-  "question": "Köpekbalığı, serçe, yunus, balık — Hangisi suda yaşayan hayvanlar grubuna AİT DEĞİLDİR?",
+  "question": "Köpek balığı, serçe, yunus, balık — Hangisi suda yaşayan hayvanlar grubuna AİT DEĞİLDİR?",
   "options": [
    "serçe",
    "yunus",
-   "köpekbalığı",
+   "köpek balığı",
    "balık"
   ],
   "correctAnswer": 0,
@@ -20808,12 +20808,12 @@
   "grade": 1
  },
  {
-  "question": "Fatma suda yaşayan hayvanlar listesi yapıyor: ahtapot, denizyıldızı, kedi, köpekbalığı — Hangisini listeden ÇIKARMALI?",
+  "question": "Fatma suda yaşayan hayvanlar listesi yapıyor: ahtapot, deniz yıldızı, kedi, köpek balığı — Hangisini listeden ÇIKARMALI?",
   "options": [
    "ahtapot",
-   "denizyıldızı",
+   "deniz yıldızı",
    "kedi",
-   "köpekbalığı"
+   "köpek balığı"
   ],
   "correctAnswer": 2,
   "subject": "Fen Bilimleri",
@@ -20964,9 +20964,9 @@
   "grade": 1
  },
  {
-  "question": "Berk suda yaşayan hayvanlar listesi yapıyor: serçe, balina, ahtapot, köpekbalığı — Hangisini listeden ÇIKARMALI?",
+  "question": "Berk suda yaşayan hayvanlar listesi yapıyor: serçe, balina, ahtapot, köpek balığı — Hangisini listeden ÇIKARMALI?",
   "options": [
-   "köpekbalığı",
+   "köpek balığı",
    "ahtapot",
    "balina",
    "serçe"
@@ -21107,9 +21107,9 @@
   "grade": 2
  },
  {
-  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: balık, kedi, köpekbalığı, yunus. Farklı olan hangisidir?",
+  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: balık, kedi, köpek balığı, yunus. Farklı olan hangisidir?",
   "options": [
-   "köpekbalığı",
+   "köpek balığı",
    "kedi",
    "yunus",
    "balık"
@@ -21198,11 +21198,11 @@
   "grade": 1
  },
  {
-  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: yunus, serçe, balık, köpekbalığı. Farklı olan hangisidir?",
+  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: yunus, serçe, balık, köpek balığı. Farklı olan hangisidir?",
   "options": [
    "balık",
    "yunus",
-   "köpekbalığı",
+   "köpek balığı",
    "serçe"
   ],
   "correctAnswer": 3,
@@ -21484,12 +21484,12 @@
   "grade": 1
  },
  {
-  "question": "Ahtapot, balina, denizyıldızı, at — Hangisi suda yaşayan hayvanlar grubuna AİT DEĞİLDİR?",
+  "question": "Ahtapot, balina, deniz yıldızı, at — Hangisi suda yaşayan hayvanlar grubuna AİT DEĞİLDİR?",
   "options": [
    "at",
    "balina",
    "ahtapot",
-   "denizyıldızı"
+   "deniz yıldızı"
   ],
   "correctAnswer": 0,
   "subject": "Fen Bilimleri",
@@ -21952,10 +21952,10 @@
   "grade": 1
  },
  {
-  "question": "Fatma suda yaşayan hayvanlar listesi yapıyor: ahtapot, denizyıldızı, balık, aslan — Hangisini listeden ÇIKARMALI?",
+  "question": "Fatma suda yaşayan hayvanlar listesi yapıyor: ahtapot, deniz yıldızı, balık, aslan — Hangisini listeden ÇIKARMALI?",
   "options": [
    "balık",
-   "denizyıldızı",
+   "deniz yıldızı",
    "ahtapot",
    "aslan"
   ],
@@ -22108,12 +22108,12 @@
   "grade": 2
  },
  {
-  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: köpekbalığı, denizyıldızı, ahtapot, serçe. Farklı olan hangisidir?",
+  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: köpek balığı, deniz yıldızı, ahtapot, serçe. Farklı olan hangisidir?",
   "options": [
    "serçe",
    "ahtapot",
-   "köpekbalığı",
-   "denizyıldızı"
+   "köpek balığı",
+   "deniz yıldızı"
   ],
   "correctAnswer": 0,
   "subject": "Fen Bilimleri",
@@ -22524,9 +22524,9 @@
   "grade": 1
  },
  {
-  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: denizyıldızı, serçe, ahtapot, balina. Farklı olan hangisidir?",
+  "question": "Bu listede üçü suda yaşayan hayvan, biri değil: deniz yıldızı, serçe, ahtapot, balina. Farklı olan hangisidir?",
   "options": [
-   "denizyıldızı",
+   "deniz yıldızı",
    "serçe",
    "ahtapot",
    "balina"
@@ -22537,12 +22537,12 @@
   "grade": 2
  },
  {
-  "question": "Aslan, balina, köpekbalığı, ahtapot — Hangisi suda yaşayan hayvanlar grubuna AİT DEĞİLDİR?",
+  "question": "Aslan, balina, köpek balığı, ahtapot — Hangisi suda yaşayan hayvanlar grubuna AİT DEĞİLDİR?",
   "options": [
    "balina",
    "aslan",
    "ahtapot",
-   "köpekbalığı"
+   "köpek balığı"
   ],
   "correctAnswer": 1,
   "subject": "Fen Bilimleri",
@@ -22628,9 +22628,9 @@
   "grade": 1
  },
  {
-  "question": "Hande suda yaşayan hayvanlar listesi yapıyor: balık, yunus, at, denizyıldızı — Hangisini listeden ÇIKARMALI?",
+  "question": "Hande suda yaşayan hayvanlar listesi yapıyor: balık, yunus, at, deniz yıldızı — Hangisini listeden ÇIKARMALI?",
   "options": [
-   "denizyıldızı",
+   "deniz yıldızı",
    "balık",
    "at",
    "yunus"
@@ -22836,12 +22836,12 @@
   "grade": 1
  },
  {
-  "question": "Köpekbalığı, kedi, yunus, balina — Hangisi suda yaşayan hayvanlar grubuna AİT DEĞİLDİR?",
+  "question": "Köpek balığı, kedi, yunus, balina — Hangisi suda yaşayan hayvanlar grubuna AİT DEĞİLDİR?",
   "options": [
    "yunus",
    "kedi",
    "balina",
-   "köpekbalığı"
+   "köpek balığı"
   ],
   "correctAnswer": 1,
   "subject": "Fen Bilimleri",
