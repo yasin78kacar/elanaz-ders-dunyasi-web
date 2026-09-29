@@ -9228,11 +9228,11 @@
   "id": "ma_0653",
   "subject": "Matematik",
   "theme": "Sayılar ve Sayma (1-20)",
-  "question": "5 ile 6 arasında başka sayı var mı?",
+  "question": "Sayarken 5 ile 6 arasında başka bir sayı söyler miyiz?",
   "options": [
-   "Evet, 5.5",
    "Evet, 4",
    "Evet, 7",
+   "Evet, 8",
    "Hayır"
   ],
   "correctAnswer": 3,
@@ -9273,7 +9273,7 @@
   "id": "ma_0656",
   "subject": "Matematik",
   "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Hangi grupta daha çok nesne vardır?",
+  "question": "Soldaki grupta 6, sağdaki grupta 9 nesne var. Çok olan grupta kaç nesne vardır?",
   "options": [
    "6",
    "9",
@@ -9378,7 +9378,7 @@
   "id": "ma_0663",
   "subject": "Matematik",
   "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Sayı doğrusunda vurgulanan sayı kaçtır?",
+  "question": "Sayı doğrusunda 5'ten hemen sonra gelen sayı kaçtır?",
   "options": [
    "5",
    "7",
@@ -9393,7 +9393,7 @@
   "id": "ma_0664",
   "subject": "Matematik",
   "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Sayı doğrusunda işaretli sayı kaçtır?",
+  "question": "Sayı doğrusunda 13 ile 15 arasındaki sayı kaçtır?",
   "options": [
    "15",
    "13",
@@ -9408,7 +9408,7 @@
   "id": "ma_0665",
   "subject": "Matematik",
   "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Sayı doğrusunda vurgulanan sayı kaçtır?",
+  "question": "Sayı doğrusunda 10'dan hemen sonra gelen sayı kaçtır?",
   "options": [
    "11",
    "12",
@@ -9423,7 +9423,7 @@
   "id": "ma_0666",
   "subject": "Matematik",
   "theme": "Sayılar ve Sayma (1-20)",
-  "question": "1 ile 5 arasında (5 dahil) kaç sayı vardır?",
+  "question": "1 ile 5 arasında (1 ve 5 dahil) kaç sayı vardır?",
   "options": [
    "3",
    "5",
@@ -9438,7 +9438,7 @@
   "id": "ma_0667",
   "subject": "Matematik",
   "theme": "Sayılar ve Sayma (1-20)",
-  "question": "Sayı doğrusunda 3 ile 8 arasında kaç sayı vardır? (3 ve 8 dahil)",
+  "question": "3 ile 8 arasında (3 ve 8 dahil) kaç sayı vardır?",
   "options": [
    "5",
    "4",
