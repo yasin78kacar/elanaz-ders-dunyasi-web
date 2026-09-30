@@ -3,14 +3,14 @@
   "id": "gs_0001",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Ahşap baskı tahtaya oyma yapılır?",
+  "question": "Ahşap baskı için camı oyarız.",
   "options": [
    "Bazen",
    "Hayır",
    "Evet",
    "Asla"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -18,7 +18,7 @@
   "id": "gs_0002",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Serigrafi kalıp baskıdır?",
+  "question": "Serigrafi kalıp baskıdır.",
   "options": [
    "Asla",
    "Hayır",
@@ -33,7 +33,7 @@
   "id": "gs_0003",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Baskı tekrarlı yapılabilir?",
+  "question": "Baskı tekrarlı yapılabilir.",
   "options": [
    "Asla",
    "Evet",
@@ -48,7 +48,7 @@
   "id": "gs_0004",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Ahşap baskı gelenekseldir?",
+  "question": "Ahşap baskı gelenekseldir.",
   "options": [
    "Bazen",
    "Asla",
@@ -63,14 +63,14 @@
   "id": "gs_0005",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Serigrafi tişört baskısında kullanılır?",
+  "question": "Serigrafi ile tişörte baskı yapılamaz.",
   "options": [
    "Hayır",
    "Asla",
    "Bazen",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -78,7 +78,7 @@
   "id": "gs_0006",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Baskı sanatı çoğaltma sağlar?",
+  "question": "Baskı sanatı çoğaltma sağlar.",
   "options": [
    "Evet",
    "Bazen",
@@ -93,7 +93,7 @@
   "id": "gs_0007",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Kalıp baskı için gereklidir?",
+  "question": "Kalıp baskı için gereklidir.",
   "options": [
    "Asla",
    "Bazen",
@@ -108,7 +108,7 @@
   "id": "gs_0008",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Ahşap baskıda tahta oyulur?",
+  "question": "Ahşap baskıda tahta oyulur.",
   "options": [
    "Hayır",
    "Bazen",
@@ -123,14 +123,14 @@
   "id": "gs_0009",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Serigrafi mürekkep kullanır?",
+  "question": "Serigrafide mürekkep kullanılmaz.",
   "options": [
    "Asla",
    "Hayır",
    "Bazen",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -138,7 +138,7 @@
   "id": "gs_0010",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Baskı desen tekrarlar?",
+  "question": "Baskı desen tekrarlar.",
   "options": [
    "Bazen",
    "Evet",
@@ -153,14 +153,14 @@
   "id": "gs_0011",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Ahşap baskı el sanatıdır?",
+  "question": "Baskı yapmak için kalıba gerek yoktur.",
   "options": [
    "Hayır",
    "Asla",
    "Bazen",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -168,7 +168,7 @@
   "id": "gs_0012",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Serigrafi modern baskıdır?",
+  "question": "Serigrafi modern baskıdır.",
   "options": [
    "Asla",
    "Bazen",
@@ -183,14 +183,14 @@
   "id": "gs_0013",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Baskı kağıda yapılır?",
+  "question": "Baskı sadece taşın üzerine yapılır.",
   "options": [
    "Asla",
    "Evet",
    "Bazen",
    "Hayır"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -198,7 +198,7 @@
   "id": "gs_0014",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Ahşap baskı desen oluşturur?",
+  "question": "Ahşap baskı desen oluşturur.",
   "options": [
    "Bazen",
    "Hayır",
@@ -213,14 +213,14 @@
   "id": "gs_0015",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Serigrafi renkli olabilir?",
+  "question": "Serigrafi baskı yalnızca siyah renkte olur.",
   "options": [
    "Asla",
    "Bazen",
    "Evet",
    "Hayır"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -228,14 +228,14 @@
   "id": "gs_0016",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Baskı sanatı sokak sanatına benzer?",
+  "question": "Baskı sanatında her baskı için yeni bir kalıp yapılır.",
   "options": [
    "Evet",
    "Asla",
    "Bazen",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -243,14 +243,14 @@
   "id": "gs_0017",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Ahşap baskı sabır gerektirir?",
+  "question": "Ahşap baskı hiç sabır gerektirmez.",
   "options": [
    "Bazen",
    "Asla",
    "Hayır",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -258,7 +258,7 @@
   "id": "gs_0018",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Serigrafi kalıpla çalışır?",
+  "question": "Serigrafi kalıpla çalışır.",
   "options": [
    "Asla",
    "Bazen",
@@ -273,7 +273,7 @@
   "id": "gs_0019",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Baskı çoğaltma yöntemidir?",
+  "question": "Baskı çoğaltma yöntemidir.",
   "options": [
    "Evet",
    "Bazen",
@@ -288,7 +288,7 @@
   "id": "gs_0020",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Ahşap baskı geleneksel Türk sanatıdır?",
+  "question": "Ahşap baskı geleneksel Türk sanatıdır.",
   "options": [
    "Asla",
    "Bazen",
@@ -303,7 +303,7 @@
   "id": "gs_0021",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Serigrafi poster yapımında kullanılır?",
+  "question": "Serigrafi poster yapımında kullanılır.",
   "options": [
    "Asla",
    "Bazen",
@@ -318,14 +318,14 @@
   "id": "gs_0022",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Baskı tekniği öğrenilebilir?",
+  "question": "Baskı tekniğini kimse öğrenemez.",
   "options": [
    "Hayır",
    "Bazen",
    "Asla",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -333,7 +333,7 @@
   "id": "gs_0023",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Ahşap baskı oyma gerektirir?",
+  "question": "Ahşap baskı oyma gerektirir.",
   "options": [
    "Evet",
    "Hayır",
@@ -348,7 +348,7 @@
   "id": "gs_0024",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Serigrafi ekran kullanır?",
+  "question": "Serigrafi ekran kullanır.",
   "options": [
    "Bazen",
    "Asla",
@@ -363,7 +363,7 @@
   "id": "gs_0025",
   "subject": "Görsel Sanatlar",
   "theme": "Baskı Sanatları",
-  "question": "Baskı sanatı yaratıcılık gerektirir?",
+  "question": "Baskı sanatı yaratıcılık gerektirir.",
   "options": [
    "Hayır",
    "Asla",
@@ -678,14 +678,14 @@
   "id": "gs_0071",
   "subject": "Görsel Sanatlar",
   "theme": "El Sanatları",
-  "question": "Dikiş el sanatı mıdır?",
+  "question": "Kilim kâğıttan dokunur.",
   "options": [
    "Yemek",
    "Evet",
    "Spor",
    "Hayır"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -708,14 +708,14 @@
   "id": "gs_0073",
   "subject": "Görsel Sanatlar",
   "theme": "El Sanatları",
-  "question": "Seramik kil gerektirir mi?",
+  "question": "Seramik yapmak için kil gerekmez.",
   "options": [
    "Evet",
    "Su",
    "Hayır",
    "Hava"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1128,7 +1128,7 @@
   "id": "gs_0151",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Ön plandaki nesneler daha büyük görünür?",
+  "question": "Ön plandaki nesneler daha büyük görünür.",
   "options": [
    "Bazen",
    "Hayır",
@@ -1143,14 +1143,14 @@
   "id": "gs_0152",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Arka plandaki nesneler küçük çizilir?",
+  "question": "Arka plandaki nesneler en büyük çizilir.",
   "options": [
    "Bazen",
    "Asla",
    "Hayır",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1158,7 +1158,7 @@
   "id": "gs_0153",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Kompozisyon nesnelerin düzenidir?",
+  "question": "Kompozisyon nesnelerin düzenidir.",
   "options": [
    "Asla",
    "Hayır",
@@ -1173,7 +1173,7 @@
   "id": "gs_0154",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Derinlik uzaklık hissidir?",
+  "question": "Derinlik uzaklık hissidir.",
   "options": [
    "Bazen",
    "Hayır",
@@ -1188,7 +1188,7 @@
   "id": "gs_0155",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Ön plan yakın nesneleri gösterir?",
+  "question": "Ön plan yakın nesneleri gösterir.",
   "options": [
    "Bazen",
    "Asla",
@@ -1203,14 +1203,14 @@
   "id": "gs_0156",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Arka plan uzak nesneleri gösterir?",
+  "question": "Arka plan en yakın nesneleri gösterir.",
   "options": [
    "Evet",
    "Hayır",
    "Asla",
    "Bazen"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1218,7 +1218,7 @@
   "id": "gs_0157",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Dengeli kompozisyon göze hoş gelir?",
+  "question": "Dengeli kompozisyon göze hoş gelir.",
   "options": [
    "Evet",
    "Bazen",
@@ -1233,7 +1233,7 @@
   "id": "gs_0158",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Boşluk kompozisyonda önemlidir?",
+  "question": "Boşluk kompozisyonda önemlidir.",
   "options": [
    "Bazen",
    "Evet",
@@ -1248,14 +1248,14 @@
   "id": "gs_0159",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Odak noktası resmin merkezidir?",
+  "question": "Odak noktası her zaman resmin tam ortasında olmalıdır.",
   "options": [
    "Hayır",
    "Evet",
    "Bazen",
    "Asla"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1263,7 +1263,7 @@
   "id": "gs_0160",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Perspektif derinlik yaratır?",
+  "question": "Perspektif derinlik yaratır.",
   "options": [
    "Bazen",
    "Evet",
@@ -1278,7 +1278,7 @@
   "id": "gs_0161",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Ön plandaki renkler canlı olabilir?",
+  "question": "Ön plandaki renkler canlı olabilir.",
   "options": [
    "Bazen",
    "Evet",
@@ -1293,14 +1293,14 @@
   "id": "gs_0162",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Arka plan soluk çizilebilir?",
+  "question": "Arka plandaki nesneler en parlak renklerle boyanmalıdır.",
   "options": [
    "Bazen",
    "Asla",
    "Evet",
    "Hayır"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1308,7 +1308,7 @@
   "id": "gs_0163",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Kompozisyon plan gerektirir?",
+  "question": "Kompozisyon plan gerektirir.",
   "options": [
    "Asla",
    "Hayır",
@@ -1323,14 +1323,14 @@
   "id": "gs_0164",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Nesnelerin yeri önemlidir?",
+  "question": "Resimde nesnelerin yeri hiç önemli değildir.",
   "options": [
    "Bazen",
    "Evet",
    "Hayır",
    "Asla"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1338,7 +1338,7 @@
   "id": "gs_0165",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Simetrik kompozisyon dengelidir?",
+  "question": "Simetrik kompozisyon dengelidir.",
   "options": [
    "Asla",
    "Evet",
@@ -1353,14 +1353,14 @@
   "id": "gs_0166",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Üçte bir kuralı kompozisyonda kullanılır?",
+  "question": "Resimde her şeyi tek bir köşeye sıkıştırmak dengeli görünür.",
   "options": [
    "Evet",
    "Hayır",
    "Bazen",
    "Asla"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1368,7 +1368,7 @@
   "id": "gs_0167",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Ön plan dikkat çeker?",
+  "question": "Ön plan dikkat çeker.",
   "options": [
    "Asla",
    "Bazen",
@@ -1383,7 +1383,7 @@
   "id": "gs_0168",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Arka plan atmosfer yaratır?",
+  "question": "Arka plan atmosfer yaratır.",
   "options": [
    "Bazen",
    "Asla",
@@ -1398,7 +1398,7 @@
   "id": "gs_0169",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Yerleşim planı kompozisyondur?",
+  "question": "Yerleşim planı kompozisyondur.",
   "options": [
    "Asla",
    "Evet",
@@ -1413,14 +1413,14 @@
   "id": "gs_0170",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Büyük nesne yakın görünür?",
+  "question": "Büyük çizilen nesne uzakta görünür.",
   "options": [
    "Hayır",
    "Evet",
    "Bazen",
    "Asla"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1428,7 +1428,7 @@
   "id": "gs_0171",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Küçük nesne uzak görünür?",
+  "question": "Küçük nesne uzak görünür.",
   "options": [
    "Bazen",
    "Evet",
@@ -1443,7 +1443,7 @@
   "id": "gs_0172",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Kompozisyon düzensiz de olabilir?",
+  "question": "Kompozisyon düzensiz de olabilir.",
   "options": [
    "Asla",
    "Evet",
@@ -1458,7 +1458,7 @@
   "id": "gs_0173",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Derinlik iki boyutta üç boyut hissi verir?",
+  "question": "Derinlik iki boyutta üç boyut hissi verir.",
   "options": [
    "Evet",
    "Asla",
@@ -1473,7 +1473,7 @@
   "id": "gs_0174",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "Ön plana ağaç arka plana dağ çizilebilir?",
+  "question": "Ön plana ağaç arka plana dağ çizilebilir.",
   "options": [
    "Bazen",
    "Asla",
@@ -1488,7 +1488,7 @@
   "id": "gs_0175",
   "subject": "Görsel Sanatlar",
   "theme": "Kompozisyon ve Derinlik",
-  "question": "İyi kompozisyon resmi güzelleştirir?",
+  "question": "İyi kompozisyon resmi güzelleştirir.",
   "options": [
    "Evet",
    "Bazen",
@@ -1803,7 +1803,7 @@
   "id": "gs_0221",
   "subject": "Görsel Sanatlar",
   "theme": "Renk Teorisi",
-  "question": "Beyaz tüm renkleri toplar mı?",
+  "question": "Kırmızı ile sarı karışınca turuncu olur mu?",
   "options": [
    "Sadece siyahla",
    "Evet",
@@ -1878,14 +1878,14 @@
   "id": "gs_0251",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Teknikleri",
-  "question": "Sulu boya su ile inceltilir.",
+  "question": "Sulu boya yağ ile inceltilir.",
   "options": [
    "Evet",
    "Bazen",
    "Asla",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1923,14 +1923,14 @@
   "id": "gs_0254",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Teknikleri",
-  "question": "Kolaj yapıştırma tekniğidir.",
+  "question": "Kolaj yapmak için yapıştırıcıya gerek yoktur.",
   "options": [
    "Hayır",
    "Bazen",
    "Evet",
    "Asla"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2043,14 +2043,14 @@
   "id": "gs_0262",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Teknikleri",
-  "question": "Silgi ile hata düzeltilir.",
+  "question": "Kalemle yapılan çizgi silgiyle silinemez.",
   "options": [
    "Bazen",
    "Evet",
    "Asla",
    "Hayır"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2073,14 +2073,14 @@
   "id": "gs_0264",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Teknikleri",
-  "question": "Boya kuruduktan sonra üstüne boyanabilir.",
+  "question": "Boya kurumadan üstüne boyarsak renkler hiç karışmaz.",
   "options": [
    "Asla",
    "Bazen",
    "Evet",
    "Hayır"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2118,14 +2118,14 @@
   "id": "gs_0267",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Teknikleri",
-  "question": "Sulu boya hızlı kurur.",
+  "question": "Sulu boya hiç kurumaz.",
   "options": [
    "Hayır",
    "Evet",
    "Asla",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2163,14 +2163,14 @@
   "id": "gs_0270",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Teknikleri",
-  "question": "Taslak silik çizilir.",
+  "question": "Taslak çizgileri çok kalın ve koyu çizilir.",
   "options": [
    "Evet",
    "Asla",
    "Bazen",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2208,14 +2208,14 @@
   "id": "gs_0273",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Teknikleri",
-  "question": "Sulu boya palet üzerinde karışır.",
+  "question": "Sulu boyalar palette karıştırılamaz.",
   "options": [
    "Hayır",
    "Asla",
    "Evet",
    "Bazen"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2508,14 +2508,14 @@
   "id": "gs_0318",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Türleri",
-  "question": "Portre model gerektirir mi?",
+  "question": "Portre bir meyve tabağının resmidir.",
   "options": [
    "Yasak",
    "Hayır",
    "Asla",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2568,14 +2568,14 @@
   "id": "gs_0322",
   "subject": "Görsel Sanatlar",
   "theme": "Resim Türleri",
-  "question": "Manzara geniş alan gösterir mi?",
+  "question": "Manzara resminde sadece bir insan yüzü çizilir.",
   "options": [
    "Küçük",
    "Evet",
    "Hayır",
    "Asla"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2823,14 +2823,14 @@
   "id": "gs_0364",
   "subject": "Görsel Sanatlar",
   "theme": "Sanat Etiği ve Sergi",
-  "question": "Sanat herkes için mi?",
+  "question": "Sanat sadece büyükler içindir.",
   "options": [
    "Sadece çocuk",
    "Evet",
    "Hayır",
    "Sadece yetişkin"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2883,7 +2883,7 @@
   "id": "gs_0368",
   "subject": "Görsel Sanatlar",
   "theme": "Sanat Etiği ve Sergi",
-  "question": "Müzede kurallara uyarız mı?",
+  "question": "Müzede kurallara uyar mıyız?",
   "options": [
    "Evet",
    "Yasak",
@@ -2943,14 +2943,14 @@
   "id": "gs_0372",
   "subject": "Görsel Sanatlar",
   "theme": "Sanat Etiği ve Sergi",
-  "question": "Grafiti izinli duvarlarda yapılabilir mi?",
+  "question": "Her duvara izin almadan resim yapabiliriz.",
   "options": [
    "Her yerde",
    "Evet",
    "Hayır",
    "Asla"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3138,14 +3138,14 @@
   "id": "gs_0411",
   "subject": "Görsel Sanatlar",
   "theme": "Sanat Malzemeleri",
-  "question": "Makas kolajda kullanılır mı?",
+  "question": "Makas kolaj yaparken hiç kullanılmaz.",
   "options": [
    "Sadece heykelde",
    "Hayır",
    "Sadece ebruda",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
