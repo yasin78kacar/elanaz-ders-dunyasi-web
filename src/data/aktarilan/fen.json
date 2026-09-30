@@ -2208,14 +2208,14 @@
   "id": "fn_0232",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Odun yakıldığında ısı enerjisi oluşur.",
+  "question": "Odun yakıldığında ortam soğur.",
   "options": [
    "Hiçbiri",
    "Bazen",
    "Doğru",
    "Yanlış"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2268,14 +2268,14 @@
   "id": "fn_0236",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Enerji tasarrufu önemlidir.",
+  "question": "Boş odada ışıkları açık bırakmak enerji tasarrufudur.",
   "options": [
    "Hiçbiri",
    "Doğru",
    "Yanlış",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2283,14 +2283,14 @@
   "id": "fn_0237",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Güneş en büyük doğal enerji kaynağıdır.",
+  "question": "Güneş bir yapay enerji kaynağıdır.",
   "options": [
    "Hiçbiri",
    "Doğru",
    "Yanlış",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2313,14 +2313,14 @@
   "id": "fn_0239",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Piller bitince yenisiyle değiştirilir.",
+  "question": "Biten pil kendiliğinden tekrar dolar.",
   "options": [
    "Doğru",
    "Bazen",
    "Yanlış",
    "Hiçbiri"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2328,14 +2328,14 @@
   "id": "fn_0240",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Enerji olmadan ışık yanmaz.",
+  "question": "Lamba elektrik olmadan da yanar.",
   "options": [
    "Hiçbiri",
    "Yanlış",
    "Bazen",
    "Doğru"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2343,14 +2343,14 @@
   "id": "fn_0241",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Yemek yemek bize enerji verir.",
+  "question": "Yemek yemek bize enerji vermez.",
   "options": [
    "Yanlış",
    "Bazen",
    "Doğru",
    "Hiçbiri"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2373,7 +2373,7 @@
   "id": "fn_0243",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Elektrik fişe takılınca çalışır.",
+  "question": "Elektrikli aletler fişe takılınca çalışır.",
   "options": [
    "Hiçbiri",
    "Yanlış",
@@ -2388,14 +2388,14 @@
   "id": "fn_0244",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Isı enerjisi bizi ısıtır.",
+  "question": "Soba odayı soğutur.",
   "options": [
    "Yanlış",
    "Hiçbiri",
    "Bazen",
    "Doğru"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2418,14 +2418,14 @@
   "id": "fn_0246",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Enerji hareket ettirmek için kullanılır.",
+  "question": "Rüzgar hiçbir şeyi hareket ettiremez.",
   "options": [
    "Hiçbiri",
    "Doğru",
    "Bazen",
    "Yanlış"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2463,7 +2463,7 @@
   "id": "fn_0249",
   "subject": "Fen Bilimleri",
   "theme": "Enerji",
-  "question": "Yiyecekleri pişirmek ısı enerjisi kullanır.",
+  "question": "Yiyecekleri pişirmek için ısı enerjisi kullanırız.",
   "options": [
    "Yanlış",
    "Hiçbiri",
@@ -4128,14 +4128,14 @@
   "id": "fn_0427",
   "subject": "Fen Bilimleri",
   "theme": "Işık",
-  "question": "Ay kendi ışığını üretmez.",
+  "question": "Ay kendi ışığını üretir.",
   "options": [
    "Doğru",
    "Hiçbiri",
    "Bazen",
    "Yanlış"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4143,14 +4143,14 @@
   "id": "fn_0428",
   "subject": "Fen Bilimleri",
   "theme": "Işık",
-  "question": "Lamba yapay ışık kaynağıdır.",
+  "question": "Lamba doğal bir ışık kaynağıdır.",
   "options": [
    "Yanlış",
    "Doğru",
    "Bazen",
    "Hiçbiri"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4158,14 +4158,14 @@
   "id": "fn_0429",
   "subject": "Fen Bilimleri",
   "theme": "Işık",
-  "question": "Karanlıkta nesneleri göremeyiz.",
+  "question": "Tam karanlıkta renkleri görebiliriz.",
   "options": [
    "Hiçbiri",
    "Doğru",
    "Yanlış",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4233,14 +4233,14 @@
   "id": "fn_0434",
   "subject": "Fen Bilimleri",
   "theme": "Işık",
-  "question": "Fener kamp ışığı sağlar.",
+  "question": "Şimşek yapay bir ışık kaynağıdır.",
   "options": [
    "Yanlış",
    "Hiçbiri",
    "Doğru",
    "Bazen"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4278,14 +4278,14 @@
   "id": "fn_0437",
   "subject": "Fen Bilimleri",
   "theme": "Işık",
-  "question": "Güneşe doğrudan bakmak zararlıdır.",
+  "question": "Güneşe uzun süre bakmak gözlerimize iyi gelir.",
   "options": [
    "Hiçbiri",
    "Doğru",
    "Yanlış",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4383,14 +4383,14 @@
   "id": "fn_0444",
   "subject": "Fen Bilimleri",
   "theme": "Işık",
-  "question": "Güneş bitkiler için ışık kaynağıdır.",
+  "question": "Bitkiler ışık olmadan da sağlıklı büyür.",
   "options": [
    "Yanlış",
    "Bazen",
    "Doğru",
    "Hiçbiri"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4398,14 +4398,14 @@
   "id": "fn_0445",
   "subject": "Fen Bilimleri",
   "theme": "Işık",
-  "question": "Karanlık odada lamba yakarız.",
+  "question": "Işık olmayan yerde her şeyi net görürüz.",
   "options": [
    "Yanlış",
    "Bazen",
    "Hiçbiri",
    "Doğru"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4413,14 +4413,14 @@
   "id": "fn_0446",
   "subject": "Fen Bilimleri",
   "theme": "Işık",
-  "question": "Ayna yüzeyinde yansıma olur.",
+  "question": "Mum doğal bir ışık kaynağıdır.",
   "options": [
    "Bazen",
    "Doğru",
    "Yanlış",
    "Hiçbiri"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4863,14 +4863,14 @@
   "id": "fn_0476",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "İtme kuvveti nesneyi uzağa götürür.",
+  "question": "İtme kuvveti nesneyi kendimize doğru getirir.",
   "options": [
    "Doğru",
    "Hiçbiri",
    "Yanlış",
    "Bazen"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4923,14 +4923,14 @@
   "id": "fn_0480",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "Mıknatıs demir çekmek için kuvvet uygular.",
+  "question": "Mıknatıs tahtayı kendine çeker.",
   "options": [
    "Doğru",
    "Yanlış",
    "Bazen",
    "Hiçbiri"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4968,7 +4968,7 @@
   "id": "fn_0483",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "Çekiç çivi çakmak için kuvvet kullanır.",
+  "question": "Çiviyi çakmak için çekiçle kuvvet uygularız.",
   "options": [
    "Bazen",
    "Doğru",
@@ -5118,14 +5118,14 @@
   "id": "fn_0493",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "Fişi çekmek çekme kuvvetidir.",
+  "question": "Fişi prizden çekmek itme kuvvetidir.",
   "options": [
    "Bazen",
    "Yanlış",
    "Doğru",
    "Hiçbiri"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5133,14 +5133,14 @@
   "id": "fn_0494",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "Kapıyı itmek itme kuvvetidir.",
+  "question": "Kapıyı itmek çekme kuvvetidir.",
   "options": [
    "Yanlış",
    "Hiçbiri",
    "Doğru",
    "Bazen"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5163,14 +5163,14 @@
   "id": "fn_0496",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "Top yuvarlanırken sürtünme etkiler.",
+  "question": "Halıda yuvarlanan top hiç yavaşlamadan sonsuza kadar gider.",
   "options": [
    "Hiçbiri",
    "Doğru",
    "Yanlış",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5178,14 +5178,14 @@
   "id": "fn_0497",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "Kuvvet olmadan hareket başlamaz.",
+  "question": "Duran bir top kendi kendine hareket etmeye başlar.",
   "options": [
    "Yanlış",
    "Doğru",
    "Hiçbiri",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5193,14 +5193,14 @@
   "id": "fn_0498",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "Yerçekimi bizi aşağı çeker.",
+  "question": "Yerçekimi bizi yukarı iter.",
   "options": [
    "Bazen",
    "Hiçbiri",
    "Doğru",
    "Yanlış"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5208,14 +5208,14 @@
   "id": "fn_0499",
   "subject": "Fen Bilimleri",
   "theme": "Kuvvet ve Hareket",
-  "question": "Kuvvet günlük hayatta sık kullanılır.",
+  "question": "Kuvveti günlük hayatta hiç kullanmayız.",
   "options": [
    "Yanlış",
    "Hiçbiri",
    "Doğru",
    "Bazen"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5643,14 +5643,14 @@
   "id": "fn_0553",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Demir sert bir maddedir.",
+  "question": "Demir yumuşak bir maddedir.",
   "options": [
    "Fark etmez",
    "Yanlış",
    "Doğru",
    "Bazen"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5688,14 +5688,14 @@
   "id": "fn_0556",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Limonun tadını dilimizle alırız.",
+  "question": "Limonun tadını kulağımızla alırız.",
   "options": [
    "Bazen",
    "Doğru",
    "Yanlış",
    "Fark etmez"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5733,14 +5733,14 @@
   "id": "fn_0559",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Taş sert bir maddedir.",
+  "question": "Taş kolayca bükülebilen bir maddedir.",
   "options": [
    "Doğru",
    "Bazen",
    "Yanlış",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5748,7 +5748,7 @@
   "id": "fn_0560",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Balon şişirilebilir bir maddedir.",
+  "question": "Balon esnek bir maddeden yapılmıştır.",
   "options": [
    "Bazen",
    "Yanlış",
@@ -5778,14 +5778,14 @@
   "id": "fn_0562",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Zımpara kağıdı pürüzlüdür.",
+  "question": "Zımpara kağıdı pürüzsüzdür.",
   "options": [
    "Yanlış",
    "Doğru",
    "Fark etmez",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5793,14 +5793,14 @@
   "id": "fn_0563",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Çikolatanın kokusunu burnumuzla alırız.",
+  "question": "Çikolatanın kokusunu gözümüzle alırız.",
   "options": [
    "Doğru",
    "Bazen",
    "Fark etmez",
    "Yanlış"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5808,7 +5808,7 @@
   "id": "fn_0564",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Yün kazak yumuşak bir maddedir.",
+  "question": "Yün yumuşak bir maddedir.",
   "options": [
    "Yanlış",
    "Bazen",
@@ -5838,14 +5838,14 @@
   "id": "fn_0566",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Kağıt havlu emici bir maddedir.",
+  "question": "Kağıt havlu suyu hiç emmez.",
   "options": [
    "Fark etmez",
    "Bazen",
    "Doğru",
    "Yanlış"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5868,7 +5868,7 @@
   "id": "fn_0568",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Ceviz kırılgan bir maddedir.",
+  "question": "Cevizin kabuğu serttir.",
   "options": [
    "Bazen",
    "Yanlış",
@@ -5913,14 +5913,14 @@
   "id": "fn_0571",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Masanın yüzeyi serttir.",
+  "question": "Tahta masanın yüzeyi pamuk kadar yumuşaktır.",
   "options": [
    "Fark etmez",
    "Doğru",
    "Yanlış",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5943,14 +5943,14 @@
   "id": "fn_0573",
   "subject": "Fen Bilimleri",
   "theme": "Madde",
-  "question": "Gülün kokusunu burnumuzla alırız.",
+  "question": "Gülün rengini burnumuzla görürüz.",
   "options": [
    "Doğru",
    "Bazen",
    "Yanlış",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6033,14 +6033,14 @@
   "id": "fn_0616",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Yüksek ses kulaklarımıza zarar verebilir.",
+  "question": "Çok yüksek ses kulaklarımıza iyi gelir.",
   "options": [
    "Yanlış",
    "Hiçbiri",
    "Bazen",
    "Doğru"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6063,14 +6063,14 @@
   "id": "fn_0618",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Rüzgarın sesi doğaldır.",
+  "question": "Rüzgarın sesi yapay bir sestir.",
   "options": [
    "Bazen",
    "Yanlış",
    "Hiçbiri",
    "Doğru"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6093,7 +6093,7 @@
   "id": "fn_0620",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Horoz sabah sesi çıkarır.",
+  "question": "Horoz sabahları öter.",
   "options": [
    "Yanlış",
    "Doğru",
@@ -6108,7 +6108,7 @@
   "id": "fn_0621",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Ses kaynağı titreşimle oluşur.",
+  "question": "Ses titreşimle oluşur.",
   "options": [
    "Hiçbiri",
    "Bazen",
@@ -6198,14 +6198,14 @@
   "id": "fn_0627",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Köpek havlaması doğal sestir.",
+  "question": "Köpek havlaması yapay bir sestir.",
   "options": [
    "Bazen",
    "Doğru",
    "Hiçbiri",
    "Yanlış"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6228,14 +6228,14 @@
   "id": "fn_0629",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Müzik dinlemek kulaklarımızla olur.",
+  "question": "Sesleri gözlerimizle duyarız.",
   "options": [
    "Hiçbiri",
    "Doğru",
    "Yanlış",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6273,14 +6273,14 @@
   "id": "fn_0632",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Her sesin bir kaynağı vardır.",
+  "question": "Bazı sesler hiçbir kaynaktan çıkmaz.",
   "options": [
    "Doğru",
    "Bazen",
    "Yanlış",
    "Hiçbiri"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6288,14 +6288,14 @@
   "id": "fn_0633",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Fısıldamak düşük sesle konuşmaktır.",
+  "question": "Fısıldamak bağırarak konuşmaktır.",
   "options": [
    "Bazen",
    "Doğru",
    "Yanlış",
    "Hiçbiri"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6348,7 +6348,7 @@
   "id": "fn_0637",
   "subject": "Fen Bilimleri",
   "theme": "Ses",
-  "question": "Şelale suyun sesi doğaldır.",
+  "question": "Şelaledeki suyun sesi doğaldır.",
   "options": [
    "Bazen",
    "Hiçbiri",
@@ -6558,14 +6558,14 @@
   "id": "fn_0676",
   "subject": "Fen Bilimleri",
   "theme": "Yer ve Uzay",
-  "question": "Dünya küre şeklindedir.",
+  "question": "Dünya düz bir tepsi gibidir.",
   "options": [
    "Yanlış",
    "Doğru",
    "Hiçbiri",
    "Bazen"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6588,14 +6588,14 @@
   "id": "fn_0678",
   "subject": "Fen Bilimleri",
   "theme": "Yer ve Uzay",
-  "question": "Güneş bir yıldızdır.",
+  "question": "Güneş bir gezegendir.",
   "options": [
    "Doğru",
    "Hiçbiri",
    "Bazen",
    "Yanlış"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6603,14 +6603,14 @@
   "id": "fn_0680",
   "subject": "Fen Bilimleri",
   "theme": "Yer ve Uzay",
-  "question": "Dünya Güneş etrafında döner.",
+  "question": "Güneş Dünya'nın etrafında döner.",
   "options": [
    "Yanlış",
    "Hiçbiri",
    "Bazen",
    "Doğru"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6678,14 +6678,14 @@
   "id": "fn_0685",
   "subject": "Fen Bilimleri",
   "theme": "Yer ve Uzay",
-  "question": "Dünya'nın yüzeyinde su ve kara vardır.",
+  "question": "Dünya'nın yüzeyi tamamen karadır.",
   "options": [
    "Bazen",
    "Doğru",
    "Yanlış",
    "Hiçbiri"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6753,14 +6753,14 @@
   "id": "fn_0690",
   "subject": "Fen Bilimleri",
   "theme": "Yer ve Uzay",
-  "question": "Uzay boşluğu derin ve geniştir.",
+  "question": "Uzayda nefes alabileceğimiz kadar hava vardır.",
   "options": [
    "Bazen",
    "Hiçbiri",
    "Yanlış",
    "Doğru"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6798,14 +6798,14 @@
   "id": "fn_0695",
   "subject": "Fen Bilimleri",
   "theme": "Yer ve Uzay",
-  "question": "Uzayda yerçekimi farklı olabilir.",
+  "question": "Ay, Güneş'ten daha büyüktür.",
   "options": [
    "Yanlış",
    "Bazen",
    "Hiçbiri",
    "Doğru"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6813,7 +6813,7 @@
   "id": "fn_0696",
   "subject": "Fen Bilimleri",
   "theme": "Yer ve Uzay",
-  "question": "Dünya ve uzay birbirine bağlıdır.",
+  "question": "Dünya uzayda bulunur.",
   "options": [
    "Hiçbiri",
    "Bazen",
