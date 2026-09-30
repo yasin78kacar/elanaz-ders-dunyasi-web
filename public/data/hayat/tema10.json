@@ -4,7 +4,7 @@
       "id": "q1561",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Türkiye'nin en uzun ırmağı hangisidir?",
+      "question": "Türkiye'de doğup yine Türkiye'de denize dökülen en uzun ırmak hangisidir?",
       "options": [
         "Sakarya",
         "Dicle",
@@ -347,7 +347,7 @@
         "Kaçkar",
         "Erciyes",
         "Süphan",
-        "Ağrı Dağı (5.137 m)"
+        "Ağrı Dağı"
       ],
       "correctAnswer": 3
     },
@@ -355,14 +355,14 @@
       "id": "qb91278",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 10",
-      "question": "Türkiye'nin en uzun nehri hangisidir?",
+      "question": "Kızılırmak hangi denize dökülür?",
       "options": [
-        "Sakarya",
-        "Dicle",
-        "Kızılırmak",
-        "Fırat"
+        "Karadeniz",
+        "Akdeniz",
+        "Ege Denizi",
+        "Marmara Denizi"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 0
     },
     {
       "id": "qb91279",
