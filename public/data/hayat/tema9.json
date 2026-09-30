@@ -225,12 +225,12 @@
       "id": "qb91268",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 9",
-      "question": "Sosyal medyada kisisel bilgi paylasimak güvenli midir?",
+      "question": "Sosyal medyada kişisel bilgi paylaşmak güvenli mıdır?",
       "options": [
         "Bazen güvenlidir",
-        "Sadece arkadaslarla güvenli",
+        "Sadece arkadaşlarla güvenli",
         "Evet, güvenlidir",
-        "Hayir, tehlikeli olabilir"
+        "Hayır, tehlikeli olabilir"
       ],
       "correctAnswer": 3
     },
@@ -238,11 +238,11 @@
       "id": "qb91270",
       "subject": "Hayat Bilgisi",
       "theme": "Tema 9",
-      "question": "Bilgisayarda virus nedir?",
+      "question": "Bilgisayarda virüs nedir?",
       "options": [
-        "Cihaza zarar veren kotu yazilim",
+        "Cihaza zarar veren kötü yazılım",
         "Uygulama",
-        "Biyolojik virus",
+        "Biyolojik virüs",
         "Oyun"
       ],
       "correctAnswer": 0
@@ -253,9 +253,9 @@
       "theme": "Tema 9",
       "question": "E-ticaret nedir?",
       "options": [
-        "Piyasa alisveris",
+        "Piyasa alışveriş",
         "Büfe",
-        "Internet'ten alisveris yapma",
+        "İnternet'ten alışveriş yapma",
         "Market"
       ],
       "correctAnswer": 2

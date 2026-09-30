@@ -344,8 +344,8 @@
       "theme": "Tema 4",
       "question": "Buz hangi haldedir?",
       "options": [
-        "Sivi",
-        "Kati",
+        "Sıvı",
+        "Katı",
         "Gaz",
         "Plazma"
       ],
@@ -358,8 +358,8 @@
       "question": "Buhar hangi haldedir?",
       "options": [
         "Plazma",
-        "Sivi",
-        "Kati",
+        "Sıvı",
+        "Katı",
         "Gaz"
       ],
       "correctAnswer": 3
@@ -370,9 +370,9 @@
       "theme": "Tema 4",
       "question": "Demir hangi haldedir?",
       "options": [
-        "Kati",
+        "Katı",
         "Gaz",
-        "Sivi",
+        "Sıvı",
         "Plazma"
       ],
       "correctAnswer": 0
@@ -384,9 +384,9 @@
       "question": "Hava hangi haldedir?",
       "options": [
         "Gaz",
-        "Kati",
+        "Katı",
         "Plazma",
-        "Sivi"
+        "Sıvı"
       ],
       "correctAnswer": 0
     },
@@ -394,12 +394,12 @@
       "id": "qb91034",
       "subject": "Fen Bilimleri",
       "theme": "Tema 4",
-      "question": "Zeytinyagi hangi haldedir?",
+      "question": "Zeytinyağı hangi haldedir?",
       "options": [
-        "Kati",
+        "Katı",
         "Plazma",
         "Gaz",
-        "Sivi"
+        "Sıvı"
       ],
       "correctAnswer": 3
     },
@@ -410,7 +410,7 @@
       "question": "Şeker hangi haldedir?",
       "options": [
         "Sıvı",
-        "Kati",
+        "Katı",
         "Plazma",
         "Gaz"
       ],
@@ -423,8 +423,8 @@
       "question": "Tuz hangi haldedir?",
       "options": [
         "Gaz",
-        "Kati",
-        "Sivi",
+        "Katı",
+        "Sıvı",
         "Plazma"
       ],
       "correctAnswer": 1
@@ -433,12 +433,12 @@
       "id": "qb91040",
       "subject": "Fen Bilimleri",
       "theme": "Tema 4",
-      "question": "Sut hangi haldedir?",
+      "question": "Süt hangi haldedir?",
       "options": [
         "Gaz",
         "Plazma",
-        "Sivi",
-        "Kati"
+        "Sıvı",
+        "Katı"
       ],
       "correctAnswer": 2
     },
