@@ -16,6 +16,12 @@ Bölümler: Öğrenme Köşesi (Tema 1 Soru Kelimeleri, Tema 2 Saat Okuma, Tema 
 - Soru yükleme mevcut mekanizmayla (fetch) çalışır. Offline gerekliliği yok.
 - Referans/yedek branch'leri silme (timer-yedek, tasarim-cila).
 
+## Veri Kaynakları (KRİTİK)
+- Ders soruları SADECE `public/data/{ders}/*.json` dosyalarındadır (math, turkce, fen, hayat, english, sosyal, zeka, gorsel, ogrenme, 5n1k). QuizViewer bunları çalışma anında fetch ile yükler. Soru düzeltmesi yalnızca bu dosyalarda yapılır.
+- `src/data/` altında canlı olanlar yalnızca: `aktarilan/hikayeler.json` ve `aktarilan/ingilizce_hikayeler.json` (Hikaye Köşesi, src/data.ts hikayeleriYukle), `deneme/sinif1-4.json` (Deneme Sınavı), `sayibulmacasi/*.json` (Sayı Bulmacası), `videolar.ts` (Video Köşesi).
+- Bir veri dosyasının canlı olduğunu import satırına veya dosya adına bakarak VARSAYMA. Arayüzden başlayarak yükleme yolunu (import zinciri + çağrıldığı yer, ya da fetch URL'si) kanıtla.
+- Veri düzeltmesinden sonra `npm run build` çıktısında (dist/) yeni metnin göründüğünü göster. Nihai onay yine Yasin'in uygulamada gözle görmesidir.
+
 ## Çalışma Tarzı
 
 - Tek tur = tek iş. Büyük işleri tek promptta toplama — agent birini atlar.
