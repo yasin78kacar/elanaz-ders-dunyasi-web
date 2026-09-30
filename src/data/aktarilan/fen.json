@@ -1443,7 +1443,7 @@
   "id": "fn_0181",
   "subject": "Fen Bilimleri",
   "theme": "Dünya ve Evren",
-  "question": "Modeldeki mavi renkler neyi gösterir?",
+  "question": "Dünya modelinde (yer kürede) mavi renkler neyi gösterir?",
   "options": [
    "Ormanları",
    "Çölleri",
@@ -6265,7 +6265,7 @@
    "Doğru",
    "Hiçbiri"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6843,7 +6843,7 @@
   "id": "fn_0698",
   "subject": "Fen Bilimleri",
   "theme": "Yer ve Uzay",
-  "question": "Ay'ın şekli değişir.",
+  "question": "Ay'ın gökyüzündeki görünüşü değişir.",
   "options": [
    "Doğru",
    "Hiçbiri",
@@ -25696,7 +25696,7 @@
   "grade": 1
  },
  {
-  "question": "Fatma kiş mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Fatma kış mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "kar yağar",
    "çiçekler açar",
@@ -25748,7 +25748,7 @@
   "grade": 2
  },
  {
-  "question": "Ali i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Ali ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "sular donabilir",
    "havalar serinlemeye başlar",
@@ -25761,7 +25761,7 @@
   "grade": 2
  },
  {
-  "question": "Mehmet kiş mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Mehmet kış mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "ağaçlar tomurcuklanır",
    "hava çok sıcaktır",
@@ -25774,7 +25774,7 @@
   "grade": 2
  },
  {
-  "question": "Hande i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Hande ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "göçmen kuşlar geri döner",
    "okullar açılır",
@@ -25839,7 +25839,7 @@
   "grade": 2
  },
  {
-  "question": "Mehmet kiş mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Mehmet kış mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "yapraklar sararıp dökülür",
    "doğa uyanır",
@@ -25852,7 +25852,7 @@
   "grade": 2
  },
  {
-  "question": "Selin i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Selin ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "kalın giysiler giyilir",
    "havalar serinlemeye başlar",
@@ -26021,7 +26021,7 @@
   "grade": 2
  },
  {
-  "question": "Selin kiş mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Selin kış mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "dondurma en çok bu mevsimde yenir",
    "günler kısadır",
@@ -26034,7 +26034,7 @@
   "grade": 2
  },
  {
-  "question": "Hande i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Hande ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "günler kısadır",
    "doğa uyanır",
@@ -26073,7 +26073,7 @@
   "grade": 2
  },
  {
-  "question": "Selin i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Selin ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "kalın giysiler giyilir",
    "çiçekler açar",
@@ -26099,7 +26099,7 @@
   "grade": 2
  },
  {
-  "question": "Selin i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Selin ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "sular donabilir",
    "göçmen kuşlar geri döner",
@@ -26255,7 +26255,7 @@
   "grade": 2
  },
  {
-  "question": "Fatma i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Fatma ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "kalın giysiler giyilir",
    "kar yağar",
@@ -26268,7 +26268,7 @@
   "grade": 2
  },
  {
-  "question": "Ayşe kiş mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Ayşe kış mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "sular donabilir",
    "dondurma en çok bu mevsimde yenir",
@@ -26333,7 +26333,7 @@
   "grade": 2
  },
  {
-  "question": "Berk i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Berk ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "havalar serinlemeye başlar",
    "doğa uyanır",
@@ -26385,7 +26385,7 @@
   "grade": 2
  },
  {
-  "question": "Zeynep i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Zeynep ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "göçmen kuşlar geri döner",
    "hava çok sıcaktır",
@@ -26424,7 +26424,7 @@
   "grade": 2
  },
  {
-  "question": "Can i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Can ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "kar yağar",
    "dondurma en çok bu mevsimde yenir",
@@ -26463,7 +26463,7 @@
   "grade": 2
  },
  {
-  "question": "Ayşe i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Ayşe ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "doğa uyanır",
    "hava çok sıcaktır",
@@ -26554,7 +26554,7 @@
   "grade": 2
  },
  {
-  "question": "Yusuf i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Yusuf ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "günler kısadır",
    "okullar açılır",
@@ -26593,7 +26593,7 @@
   "grade": 2
  },
  {
-  "question": "Fatma i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Fatma ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "havalar serinlemeye başlar",
    "kalın giysiler giyilir",
@@ -26606,7 +26606,7 @@
   "grade": 2
  },
  {
-  "question": "Berk i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Berk ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "yapraklar sararıp dökülür",
    "göçmen kuşlar sıcak yerlere gider",
@@ -26619,7 +26619,7 @@
   "grade": 2
  },
  {
-  "question": "Ayşe kiş mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Ayşe kış mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "yapraklar sararıp dökülür",
    "dondurma en çok bu mevsimde yenir",
@@ -26645,7 +26645,7 @@
   "grade": 2
  },
  {
-  "question": "Selin kiş mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Selin kış mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "havalar serinlemeye başlar",
    "doğa uyanır",
@@ -26684,7 +26684,7 @@
   "grade": 2
  },
  {
-  "question": "Zeynep i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Zeynep ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "günler uzundur",
    "sular donabilir",
@@ -26710,7 +26710,7 @@
   "grade": 2
  },
  {
-  "question": "Mehmet i̇lkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
+  "question": "Mehmet ilkbahar mevsimini anlatıyor. Hangi cümleyi kullanmalı?",
   "options": [
    "göçmen kuşlar sıcak yerlere gider",
    "günler kısadır",
@@ -26775,7 +26775,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "ıspanak",
    "kuru fasulye",
@@ -26905,7 +26905,7 @@
   "grade": 3
  },
  {
-  "question": "Can besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Can besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "kuru fasulye",
    "kefir",
@@ -26944,7 +26944,7 @@
   "grade": 3
  },
  {
-  "question": "Hande besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Hande besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "bulgur",
    "marul",
@@ -26957,7 +26957,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "muz",
    "biber",
@@ -26970,7 +26970,7 @@
   "grade": 3
  },
  {
-  "question": "Selin besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Selin besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "yoğurt",
    "portakal",
@@ -26996,7 +26996,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "peynir",
    "yumurta",
@@ -27022,7 +27022,7 @@
   "grade": 3
  },
  {
-  "question": "Ali besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Ali besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "mercimek",
    "bulgur",
@@ -27074,7 +27074,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "et",
    "süt",
@@ -27087,7 +27087,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "kefir",
    "yulaf",
@@ -27204,7 +27204,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "nohut",
    "makarna",
@@ -27256,7 +27256,7 @@
   "grade": 3
  },
  {
-  "question": "Mehmet besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Mehmet besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "pirinç",
    "peynir",
@@ -27347,7 +27347,7 @@
   "grade": 3
  },
  {
-  "question": "Berk besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Berk besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "mercimek",
    "peynir",
@@ -27490,7 +27490,7 @@
   "grade": 3
  },
  {
-  "question": "Mehmet besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Mehmet besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "ekmek",
    "mercimek",
@@ -27516,7 +27516,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "biber",
    "yoğurt",
@@ -27529,7 +27529,7 @@
   "grade": 3
  },
  {
-  "question": "Fatma besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Fatma besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "kefir",
    "balık",
@@ -27568,7 +27568,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "tavuk eti",
    "nohut",
@@ -27581,7 +27581,7 @@
   "grade": 3
  },
  {
-  "question": "Yusuf besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Yusuf besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "havuç",
    "makarna",
@@ -27607,7 +27607,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "yoğurt",
    "ekmek",
@@ -27698,7 +27698,7 @@
   "grade": 3
  },
  {
-  "question": "Ali besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Ali besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "havuç",
    "portakal",
@@ -27711,7 +27711,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "süt",
    "nohut",
@@ -27802,7 +27802,7 @@
   "grade": 3
  },
  {
-  "question": "Mehmet besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Mehmet besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "peynir",
    "et",
@@ -27841,7 +27841,7 @@
   "grade": 3
  },
  {
-  "question": "Ali besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Ali besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "et",
    "portakal",
@@ -27997,7 +27997,7 @@
   "grade": 3
  },
  {
-  "question": "Zeynep besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Zeynep besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "marul",
    "portakal",
@@ -28023,7 +28023,7 @@
   "grade": 3
  },
  {
-  "question": "Hangisi TAHIL (ekmek) grubu grubunda yer alır?",
+  "question": "Hangisi TAHIL (ekmek) grubunda yer alır?",
   "options": [
    "pirinç",
    "balık",
@@ -28114,7 +28114,7 @@
   "grade": 3
  },
  {
-  "question": "Hande besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Hande besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "biber",
    "pirinç",
@@ -28192,7 +28192,7 @@
   "grade": 3
  },
  {
-  "question": "Hande besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Hande besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "nohut",
    "yulaf",
@@ -28218,7 +28218,7 @@
   "grade": 3
  },
  {
-  "question": "Ayşe besinleri gruplandırıyor. TAHIL (ekmek) grubu grubuna hangisini yazmalı?",
+  "question": "Ayşe besinleri gruplandırıyor. TAHIL (ekmek) grubuna hangisini yazmalı?",
   "options": [
    "muz",
    "yoğurt",
@@ -30662,12 +30662,12 @@
   "grade": 3
  },
  {
-  "question": "Elektrik çarpmasından korunmak için hangisini YAPMAYIZ?",
+  "question": "Elektrik çarpmasından korunmak için hangisini YAPMALIYIZ?",
   "options": [
-   "fişi kablodan çekeriz",
-   "hepsini yaparız",
-   "prize metal cisim sokmayız... bu zaten yapılmaması gerekendir; asla prizle oynamayız",
-   "ıslak elle prize dokunuruz"
+   "Islak elle priz ve anahtarlara dokunmalıyız",
+   "Prizlere sivri metal cisimler sokmalıyız",
+   "Elektrikli aletlerin fişini priz başından tutarak çekmeliyiz",
+   "Kablosu soyulmuş tellere çıplak elle dokunmalıyız"
   ],
   "correctAnswer": 2,
   "subject": "Fen Bilimleri",
@@ -31832,7 +31832,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "maydanoz",
    "pirinç",
@@ -31858,7 +31858,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "limon",
    "pirinç",
@@ -31897,7 +31897,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "patates",
    "maydanoz",
@@ -31910,7 +31910,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "ıspanak",
    "ekmek",
@@ -31936,7 +31936,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "mercimek",
    "süt",
@@ -31962,7 +31962,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "patates",
    "tavuk",
@@ -32001,7 +32001,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "portakal",
    "mercimek",
@@ -32079,7 +32079,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "bulgur",
    "patates",
@@ -32092,7 +32092,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "patates",
    "limon",
@@ -32105,7 +32105,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "tavuk",
    "ekmek",
@@ -32118,7 +32118,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "elma",
    "et",
@@ -32157,7 +32157,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "havuç",
    "pirinç",
@@ -32209,7 +32209,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "bulgur",
    "et",
@@ -32235,7 +32235,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "pirinç",
    "tavuk",
@@ -32248,7 +32248,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "bal",
    "bulgur",
@@ -32261,7 +32261,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "ekmek",
    "et",
@@ -32274,7 +32274,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "yumurta",
    "portakal",
@@ -32287,7 +32287,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "yumurta",
    "patates",
@@ -32300,7 +32300,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "mercimek",
    "havuç",
@@ -32326,7 +32326,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "portakal",
    "pirinç",
@@ -32365,7 +32365,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "patates",
    "peynir",
@@ -32495,7 +32495,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "havuç",
    "bal",
@@ -32560,7 +32560,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "kivi",
    "ekmek",
@@ -32586,7 +32586,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "bal",
    "peynir",
@@ -32612,7 +32612,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "balık",
    "makarna",
@@ -32625,7 +32625,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "ıspanak",
    "portakal",
@@ -32651,7 +32651,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "makarna",
    "et",
@@ -32677,7 +32677,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "balık",
    "patates",
@@ -32755,7 +32755,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "maydanoz",
    "kivi",
@@ -32768,7 +32768,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "maydanoz",
    "bal",
@@ -32781,7 +32781,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "ıspanak",
    "kivi",
@@ -32794,7 +32794,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "maydanoz",
    "pirinç",
@@ -32807,7 +32807,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "kivi",
    "tavuk",
@@ -32833,7 +32833,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "pirinç",
    "yumurta",
@@ -32846,7 +32846,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "portakal",
    "kivi",
@@ -32872,7 +32872,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol vi̇tami̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol vitamin sağlayan besin hangisidir?",
   "options": [
    "ıspanak",
    "bal",
@@ -32885,7 +32885,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "mercimek",
    "yumurta",
@@ -32898,7 +32898,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "pirinç",
    "portakal",
@@ -32924,7 +32924,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol protei̇n sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol protein sağlayan besin hangisidir?",
   "options": [
    "tavuk",
    "patates",
@@ -32950,7 +32950,7 @@
   "grade": 4
  },
  {
-  "question": "Vücudumuza bol karbonhi̇drat sağlayan besin hangisidir?",
+  "question": "Vücudumuza bol karbonhidrat sağlayan besin hangisidir?",
   "options": [
    "maydanoz",
    "yumurta",
