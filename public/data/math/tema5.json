@@ -1005,7 +1005,7 @@
       "id": "qe600306",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Kare\"in temel özelliği nedir?",
+      "question": "Karenin temel özelliği nedir?",
       "options": [
         "4 eşit kenar ve 4 dik açı",
         "3 kenar",
@@ -1020,10 +1020,10 @@
       "theme": "Tema 5",
       "question": "\"4 eşit kenar ve 4 dik açı\" hangi geometrik şekli tanımlar?",
       "options": [
-        "3",
+        "Üçgen",
         "Kare",
-        "5",
-        "Eşit"
+        "Daire",
+        "Beşgen"
       ],
       "correctAnswer": 1
     },
@@ -1031,7 +1031,7 @@
       "id": "qe600308",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Dikdörtgen\"in temel özelliği nedir?",
+      "question": "Dikdörtgenin temel özelliği nedir?",
       "options": [
         "3 kenarı ve 3 açısı vardır",
         "5 kenarı ve 5 açısı vardır",
@@ -1044,20 +1044,20 @@
       "id": "qe600309",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Karşılıklı kenarları...\" hangi geometrik şekli tanımlar?",
+      "question": "\"Karşılıklı kenarları eşit, iki uzun ve iki kısa kenarı olan dörtgen\" hangi geometrik şekli tanımlar?",
       "options": [
-        "3",
-        "5",
-        "4",
-        "Dikdörtgen"
+        "Üçgen",
+        "Daire",
+        "Dikdörtgen",
+        "Beşgen"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 2
     },
     {
       "id": "qe600310",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Üçgen\"in temel özelliği nedir?",
+      "question": "Üçgenin temel özelliği nedir?",
       "options": [
         "3 kenar ve 3 açı",
         "5 kenar",
@@ -1070,12 +1070,12 @@
       "id": "qe600311",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"3 kenar ve 3 açı...\" hangi geometrik şekli tanımlar?",
+      "question": "\"3 kenar ve 3 köşe\" hangi geometrik şekli tanımlar?",
       "options": [
         "Üçgen",
-        "2",
-        "4",
-        "5"
+        "Kare",
+        "Daire",
+        "Altıgen"
       ],
       "correctAnswer": 0
     },
@@ -1083,7 +1083,7 @@
       "id": "qe600312",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Daire\"in temel özelliği nedir?",
+      "question": "Dairenin temel özelliği nedir?",
       "options": [
         "Hiç köşesi yoktur, eğri bir kenar",
         "4 köşe",
@@ -1098,10 +1098,10 @@
       "theme": "Tema 5",
       "question": "\"Hiç köşesi yoktur, eğri bir kenar\" hangi geometrik şekli tanımlar?",
       "options": [
-        "4",
+        "Kare",
         "Daire",
-        "3",
-        "6"
+        "Üçgen",
+        "Dikdörtgen"
       ],
       "correctAnswer": 1
     },
@@ -1109,7 +1109,7 @@
       "id": "qe600314",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Beşgen\"in temel özelliği nedir?",
+      "question": "Beşgenin temel özelliği nedir?",
       "options": [
         "5 kenar ve 5 köşe",
         "3 kenar",
@@ -1122,12 +1122,12 @@
       "id": "qe600315",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"5 kenar ve 5 köşe...\" hangi geometrik şekli tanımlar?",
+      "question": "\"5 kenar ve 5 köşe\" hangi geometrik şekli tanımlar?",
       "options": [
-        "4",
-        "3",
+        "Kare",
+        "Altıgen",
         "Beşgen",
-        "6"
+        "Üçgen"
       ],
       "correctAnswer": 2
     },
@@ -1135,7 +1135,7 @@
       "id": "qe600316",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Altıgen\"in temel özelliği nedir?",
+      "question": "Altıgenin temel özelliği nedir?",
       "options": [
         "5 kenar",
         "6 kenar ve 6 köşe",
@@ -1148,20 +1148,20 @@
       "id": "qe600317",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"6 kenar ve 6 köşe...\" hangi geometrik şekli tanımlar?",
+      "question": "\"6 kenar ve 6 köşe\" hangi geometrik şekli tanımlar?",
       "options": [
-        "5",
         "Altıgen",
-        "7",
-        "4"
+        "Beşgen",
+        "Kare",
+        "Daire"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "qe600318",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Yamuk\"un temel özelliği nedir?",
+      "question": "Yamuğun temel özelliği nedir?",
       "options": [
         "Hiç paralel kenarı bulunmaz",
         "Üç çift paralel kenarı vardır",
@@ -1176,10 +1176,10 @@
       "theme": "Tema 5",
       "question": "\"Yalnızca bir çift paralel kenarı olan dörtgen\" hangi geometrik şekli tanımlar?",
       "options": [
-        "Hiç",
-        "3",
+        "Kare",
+        "Daire",
         "Yamuk",
-        "2"
+        "Üçgen"
       ],
       "correctAnswer": 2
     },
@@ -1187,7 +1187,7 @@
       "id": "qe600320",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Eşkenar üçgen\"in temel özelliği nedir?",
+      "question": "Eşkenar üçgenin temel özelliği nedir?",
       "options": [
         "3 eşit kenarlı üçgen",
         "3 farklı kenarlı",
@@ -1200,20 +1200,20 @@
       "id": "qe600321",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"3 eşit kenarlı üçgen...\" hangi geometrik şekli tanımlar?",
+      "question": "\"3 kenarı da eşit olan üçgen\" hangi geometrik şekli tanımlar?",
       "options": [
-        "2",
-        "3",
-        "4",
-        "Eşkenar üçgen"
+        "Dikdörtgen",
+        "Eşkenar üçgen",
+        "Kare",
+        "Daire"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qe600322",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"İkizkenar üçgen\"in temel özelliği nedir?",
+      "question": "İkizkenar üçgenin temel özelliği nedir?",
       "options": [
         "İki kenarı eşit olan üçgen",
         "Kenarları farklı",
@@ -1226,12 +1226,12 @@
       "id": "qe600323",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"İki kenarı eşit olan...\" hangi geometrik şekli tanımlar?",
+      "question": "\"Yalnızca iki kenarı eşit olan üçgen\" hangi geometrik şekli tanımlar?",
       "options": [
-        "Üç",
+        "Eşkenar üçgen",
         "İkizkenar üçgen",
-        "4",
-        "Kenarları"
+        "Kare",
+        "Dikdörtgen"
       ],
       "correctAnswer": 1
     },
@@ -1239,7 +1239,7 @@
       "id": "qe600324",
       "subject": "Matematik",
       "theme": "Tema 5",
-      "question": "\"Çevre hesabı\"in temel özelliği nedir?",
+      "question": "Bir şeklin çevresi nasıl bulunur?",
       "options": [
         "Kenarların yarısı",
         "Yalnızca bir kenar",
