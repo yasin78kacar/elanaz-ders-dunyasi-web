@@ -163,7 +163,7 @@
       "question": "Hangi hayvan çölde yaşar?",
       "options": [
         "Penguen",
-        "Salmon",
+        "Somon",
         "Kutup ayısı",
         "Deve"
       ],
@@ -251,12 +251,12 @@
       "id": "qa51014",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Hangi hayvan yumurta bırakmaz?",
+      "question": "Hangi hayvan yavrusunu doğurur?",
       "options": [
         "Tavuk",
         "Güvercin",
         "Kurbağa",
-        "Köpek balığı (bazıları)"
+        "Kedi"
       ],
       "correctAnswer": 3
     },
@@ -420,12 +420,12 @@
       "id": "qb90957",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Aslan için hangi özellik doğrudur?",
+      "question": "Aslan için hangisi doğrudur?",
       "options": [
         "Et yemez",
-        "Yalelisi vardır",
+        "Yelesi vardır",
         "Uçar",
-        "Karada yaşar"
+        "Suda yaşar"
       ],
       "correctAnswer": 1
     },
@@ -472,12 +472,12 @@
       "id": "qb90961",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Zürafa için hangi özellik doğrudur?",
+      "question": "Zürafa için hangisi doğrudur?",
       "options": [
-        "Karada yaşar",
+        "Suda yaşar",
         "Uçar",
-        "Et yemez",
-        "Boynu uzun"
+        "Et yer",
+        "Boynu uzundur"
       ],
       "correctAnswer": 3
     },
@@ -489,8 +489,8 @@
       "options": [
         "Çölde",
         "Kutuplarda",
-        "Okyanus",
-        "Derin okyanusta"
+        "Denizlerde ve okyanuslarda",
+        "Ormanda"
       ],
       "correctAnswer": 2
     },
@@ -540,9 +540,9 @@
       "question": "Penguen nerede yaşar?",
       "options": [
         "Çölde",
-        "Kutuplarda",
+        "Ormanda",
         "Derin okyanusta",
-        "Antarktika"
+        "Güney Kutbu'nda (Antarktika)"
       ],
       "correctAnswer": 3
     },
@@ -563,9 +563,9 @@
       "id": "qb90969",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Penguen için hangi özellik doğrudur?",
+      "question": "Penguen için hangisi doğrudur?",
       "options": [
-        "Karada yaşar",
+        "Çölde yaşar",
         "Et yemez",
         "Uçar",
         "Uçamaz ama yüzer"
@@ -602,11 +602,11 @@
       "id": "qb90973",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Kartal için hangi özellik doğrudur?",
+      "question": "Kartal için hangisi doğrudur?",
       "options": [
         "Çok iyi görür",
-        "Uçar",
-        "Karada yaşar",
+        "Suda yaşar",
+        "Yüzgeçleri vardır",
         "Et yemez"
       ],
       "correctAnswer": 0
@@ -654,12 +654,12 @@
       "id": "qb90977",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Kurbağa için hangi özellik doğrudur?",
+      "question": "Kurbağa için hangisi doğrudur?",
       "options": [
         "Uçar",
         "Et yemez",
-        "Karada yaşar",
-        "Hem suda hem karada"
+        "Sadece çölde yaşar",
+        "Hem suda hem karada yaşar"
       ],
       "correctAnswer": 3
     },
@@ -693,12 +693,12 @@
       "id": "qb90981",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Timsah için hangi özellik doğrudur?",
+      "question": "Timsah için hangisi doğrudur?",
       "options": [
         "Uçar",
         "Et yemez",
-        "Karada yaşar",
-        "Dişleri çok güçlü"
+        "Tüyleri vardır",
+        "Dişleri çok güçlüdür"
       ],
       "correctAnswer": 3
     },
@@ -732,11 +732,11 @@
       "id": "qb90985",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Fil için hangi özellik doğrudur?",
+      "question": "Fil için hangisi doğrudur?",
       "options": [
-        "Karada yaşar",
-        "Et yemez",
-        "En ağır kara hayvanı",
+        "Suda yaşar",
+        "Et yer",
+        "En ağır kara hayvanıdır",
         "Uçar"
       ],
       "correctAnswer": 2
@@ -784,12 +784,12 @@
       "id": "qb90989",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Örümcek için hangi özellik doğrudur?",
+      "question": "Örümcek için hangisi doğrudur?",
       "options": [
-        "8 bacağı var",
+        "8 bacağı vardır",
         "Et yemez",
         "Uçar",
-        "Karada yaşar"
+        "Denizde yaşar"
       ],
       "correctAnswer": 0
     },
@@ -823,12 +823,12 @@
       "id": "qb90993",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Karınca için hangi özellik doğrudur?",
+      "question": "Karınca için hangisi doğrudur?",
       "options": [
-        "Uçar",
-        "Et yemez",
-        "6 bacağı var",
-        "Karada yaşar"
+        "Denizde yaşar",
+        "8 bacağı vardır",
+        "6 bacağı vardır",
+        "Yüzgeçleri vardır"
       ],
       "correctAnswer": 2
     },
@@ -862,11 +862,11 @@
       "id": "qb90997",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Arı için hangi özellik doğrudur?",
+      "question": "Arı için hangisi doğrudur?",
       "options": [
-        "Karada yaşar",
-        "Et yemez",
-        "Uçar",
+        "Denizde yaşar",
+        "Yüzgeçleri vardır",
+        "Dört bacağı vardır",
         "Bal yapar"
       ],
       "correctAnswer": 3
@@ -966,7 +966,7 @@
       "id": "qe600936",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Ararıyla balıkların ortak özelliği nedir?",
+      "question": "Yunuslarla balıkların ortak özelliği nedir?",
       "options": [
         "İkisi de memeli",
         "İkisi de suda yaşar",
@@ -1018,11 +1018,11 @@
       "id": "qe600940",
       "subject": "Fen Bilimleri",
       "theme": "Tema 3",
-      "question": "Hangi hayvanın dişi, yavrusunun bakımıyla en çok ilgilenir?",
+      "question": "Hangi hayvan yavrusunu emzirerek büyütür?",
       "options": [
         "Kaplumbağa",
-        "Köpekbalığı",
-        "Fare (anaç memeli)",
+        "Köpek balığı",
+        "Fare",
         "Kurbağa"
       ],
       "correctAnswer": 2
