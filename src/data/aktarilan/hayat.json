@@ -333,14 +333,14 @@
   "id": "hy_0023",
   "subject": "Hayat Bilgisi",
   "theme": "Aile ve Duygular",
-  "question": "Aile büyüklerimize saygı göstermeli miyiz?",
+  "question": "Aile büyüklerimize kaba konuşmalı mıyız?",
   "options": [
    "Evet",
    "Gereksiz",
    "Sadece bayramda",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -423,14 +423,14 @@
   "id": "hy_0029",
   "subject": "Hayat Bilgisi",
   "theme": "Aile ve Duygular",
-  "question": "Ailemizde dürüst olmak güveni artırır mı?",
+  "question": "Ailemize yalan söylemek güveni artırır mı?",
   "options": [
    "Güveni azaltır",
    "Hayır",
    "Fark etmez",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -543,7 +543,7 @@
   "id": "hy_0037",
   "subject": "Hayat Bilgisi",
   "theme": "Aile ve Duygular",
-  "question": "Ailemizde gülümsemek bulaşıcı mıdır?",
+  "question": "Gülümsemek çevremizdekileri de mutlu eder mi?",
   "options": [
    "Hayır",
    "Evet",
@@ -603,14 +603,14 @@
   "id": "hy_0041",
   "subject": "Hayat Bilgisi",
   "theme": "Aile ve Duygular",
-  "question": "Üzüntümüzü annemize anlatmak doğru mudur?",
+  "question": "Üzüldüğümüzde bunu herkesten saklamalı mıyız?",
   "options": [
    "Sadece babaya",
    "Gizlemeliyiz",
    "Hayır",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -618,14 +618,14 @@
   "id": "hy_0042",
   "subject": "Hayat Bilgisi",
   "theme": "Aile ve Duygular",
-  "question": "Ailemizde herkesin duygusu değerli midir?",
+  "question": "Ailemizde sadece bizim duygularımız mı önemlidir?",
   "options": [
    "Fark etmez",
    "Hayır",
    "Sadece büyüklerin",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -678,7 +678,7 @@
   "id": "hy_0046",
   "subject": "Hayat Bilgisi",
   "theme": "Aile ve Duygular",
-  "question": "Heyecanlı olduğumuzda nefes almak bizi sakinleştirir mi?",
+  "question": "Heyecanlı olduğumuzda derin nefes almak bizi sakinleştirir mi?",
   "options": [
    "Daha heyecanlı yapar",
    "Evet",
@@ -888,14 +888,14 @@
   "id": "hy_0060",
   "subject": "Hayat Bilgisi",
   "theme": "Aile ve Arkadaşlık",
-  "question": "Babamıza yardım etmek güzel midir?",
+  "question": "Evde yardım istendiğinde duymazdan gelmeli miyiz?",
   "options": [
    "Hayır",
    "Hiç gerekmez",
    "Evet",
    "Sadece annemize"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1518,14 +1518,14 @@
   "id": "hy_0152",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Çöpleri yere atmamalıyız.",
+  "question": "Çöpleri yere atabiliriz.",
   "options": [
    "Evet",
    "Fark etmez",
    "Gereksiz",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1548,14 +1548,14 @@
   "id": "hy_0154",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Su tasarrufu yapmalıyız.",
+  "question": "Dişimizi fırçalarken musluğu açık bırakmalıyız.",
   "options": [
    "Evet",
    "Hayır",
    "Gereksiz",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1563,14 +1563,14 @@
   "id": "hy_0155",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Enerji tasarrufu çevreyi korur.",
+  "question": "Odadan çıkarken ışığı açık bırakırız.",
   "options": [
    "Hayır",
    "Gereksiz",
    "Evet",
    "Fark etmez"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1608,14 +1608,14 @@
   "id": "hy_0158",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Plastik kullanımını azaltmalıyız.",
+  "question": "Her alışverişte yeni plastik poşet almalıyız.",
   "options": [
    "Evet",
    "Gereksiz",
    "Hayır",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1653,14 +1653,14 @@
   "id": "hy_0161",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Denizleri kirletmemeliyiz.",
+  "question": "Denize çöp atmak balıklara zarar vermez.",
   "options": [
    "Fark etmez",
    "Evet",
    "Gereksiz",
    "Hayır"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1668,14 +1668,14 @@
   "id": "hy_0162",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Çiçekleri koparmamalıyız.",
+  "question": "Parktaki çiçekleri koparabiliriz.",
   "options": [
    "Gereksiz",
    "Evet",
    "Hayır",
    "Fark etmez"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1698,14 +1698,14 @@
   "id": "hy_0164",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Doğayı sevmeliyiz.",
+  "question": "Hayvanlara taş atmak eğlencelidir.",
   "options": [
    "Fark etmez",
    "Gereksiz",
    "Hayır",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1728,14 +1728,14 @@
   "id": "hy_0166",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Atıkları ayrıştırarak geri dönüştürürüz.",
+  "question": "Pil gibi zararlı atıkları normal çöpe atarız.",
   "options": [
    "Hayır",
    "Fark etmez",
    "Gereksiz",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1743,14 +1743,14 @@
   "id": "hy_0167",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Ormanları korumalıyız.",
+  "question": "Ormanda ateş yakıp söndürmeden gidebiliriz.",
   "options": [
    "Gereksiz",
    "Hayır",
    "Fark etmez",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -1773,14 +1773,14 @@
   "id": "hy_0169",
   "subject": "Hayat Bilgisi",
   "theme": "Çevre",
-  "question": "Doğal kaynakları israf etmemeliyiz.",
+  "question": "Doğal kaynaklar hiç bitmez, istediğimiz kadar kullanabiliriz.",
   "options": [
    "Gereksiz",
    "Evet",
    "Fark etmez",
    "Hayır"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2358,14 +2358,14 @@
   "id": "hy_0283",
   "subject": "Hayat Bilgisi",
   "theme": "Ev",
-  "question": "Evde elektrikli aletlere dikkatli yaklaşmalıyız.",
+  "question": "Ütüye veya ocağa dokunmak güvenlidir.",
   "options": [
    "Hayır",
    "Fark etmez",
    "Evet",
    "Gereksiz"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2418,14 +2418,14 @@
   "id": "hy_0287",
   "subject": "Hayat Bilgisi",
   "theme": "Ev",
-  "question": "Evde çöpleri çöp kutusuna atmalıyız.",
+  "question": "Evde çöpleri yere bırakabiliriz.",
   "options": [
    "Evet",
    "Gereksiz",
    "Hayır",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2463,14 +2463,14 @@
   "id": "hy_0290",
   "subject": "Hayat Bilgisi",
   "theme": "Ev",
-  "question": "Evde oyuncaklarımızı toplamalıyız.",
+  "question": "Oyuncaklarımızı toplamak sadece annemizin görevidir.",
   "options": [
    "Evet",
    "Fark etmez",
    "Gereksiz",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2478,14 +2478,14 @@
   "id": "hy_0291",
   "subject": "Hayat Bilgisi",
   "theme": "Ev",
-  "question": "Evde yangın çıkarsa yetişkinlere haber veririz.",
+  "question": "Evde yangın çıkarsa saklanır ve kimseye söylemeyiz.",
   "options": [
    "Gereksiz",
    "Fark etmez",
    "Hayır",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2493,14 +2493,14 @@
   "id": "hy_0292",
   "subject": "Hayat Bilgisi",
   "theme": "Ev",
-  "question": "Evde herkesin görevleri vardır.",
+  "question": "Evdeki bütün işleri sadece bir kişi yapmalıdır.",
   "options": [
    "Gereksiz",
    "Hayır",
    "Fark etmez",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2583,14 +2583,14 @@
   "id": "hy_0298",
   "subject": "Hayat Bilgisi",
   "theme": "Ev",
-  "question": "Evde sessiz olmak komşulara saygıdır.",
+  "question": "Gece geç saatte evde yüksek sesle müzik açabiliriz.",
   "options": [
    "Hayır",
    "Fark etmez",
    "Evet",
    "Gereksiz"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -2598,14 +2598,14 @@
   "id": "hy_0299",
   "subject": "Hayat Bilgisi",
   "theme": "Ev",
-  "question": "Evde kapıyı kilitlerken dikkatli olmalıyız.",
+  "question": "Kapıyı çalan tanımadığımız birine kapıyı açarız.",
   "options": [
    "Gereksiz",
    "Fark etmez",
    "Evet",
    "Hayır"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3033,14 +3033,14 @@
   "id": "hy_0353",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "Trafikte kırmızı ışıkta dururuz.",
+  "question": "Kırmızı ışıkta karşıdan karşıya geçeriz.",
   "options": [
    "Evet",
    "Serbest",
    "Hayır",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3048,7 +3048,7 @@
   "id": "hy_0354",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "Evde prize dokunmadan önce yetişkin sorarız.",
+  "question": "Prizlere ve kablolara dokunmayız.",
   "options": [
    "Evet",
    "Fark etmez",
@@ -3063,14 +3063,14 @@
   "id": "hy_0355",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "Bisiklet sürerken kask takarız.",
+  "question": "Bisiklet sürerken kask takmamıza gerek yoktur.",
   "options": [
    "Fark etmez",
    "Hayır",
    "Evet",
    "Serbest"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3108,14 +3108,14 @@
   "id": "hy_0358",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "İlaçları kendi başımıza içmeyiz.",
+  "question": "Evde bulduğumuz ilaçları şeker gibi yiyebiliriz.",
   "options": [
    "Fark etmez",
    "Evet",
    "Hayır",
    "Serbest"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3168,14 +3168,14 @@
   "id": "hy_0362",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "Elektrikli aletleri ıslak elle tutmayız.",
+  "question": "Elektrikli aletleri ıslak elle tutabiliriz.",
   "options": [
    "Hayır",
    "Serbest",
    "Fark etmez",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3213,14 +3213,14 @@
   "id": "hy_0365",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "Emniyet kemeri takmak hayat kurtarır.",
+  "question": "Arabada emniyet kemeri takmak gereksizdir.",
   "options": [
    "Fark etmez",
    "Evet",
    "Hayır",
    "Serbest"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3228,14 +3228,14 @@
   "id": "hy_0366",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "Yüksek yerlerden atlamayız.",
+  "question": "Yüksek yerlerden atlamak güvenlidir.",
   "options": [
    "Hayır",
    "Evet",
    "Serbest",
    "Fark etmez"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3318,14 +3318,14 @@
   "id": "hy_0372",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "Yabancılarla dikkatli olmalıyız.",
+  "question": "Tanımadığımız birinin arabasına binebiliriz.",
   "options": [
    "Evet",
    "Serbest",
    "Fark etmez",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3363,14 +3363,14 @@
   "id": "hy_0375",
   "subject": "Hayat Bilgisi",
   "theme": "Güvenlik",
-  "question": "Yangın çıkınca 112'yi aramak gerekir mi?",
+  "question": "Yangın çıkınca asansöre bineriz.",
   "options": [
    "Bekleriz",
    "Hayır",
    "Gizleniriz",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3378,14 +3378,14 @@
   "id": "hy_0401",
   "subject": "Hayat Bilgisi",
   "theme": "İletişim",
-  "question": "Konuşurken karşımızdakini dinlemeliyiz.",
+  "question": "Arkadaşımız konuşurken onu dinlememize gerek yoktur.",
   "options": [
    "Fark etmez",
    "Hayır",
    "Evet",
    "Gereksiz"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3393,14 +3393,14 @@
   "id": "hy_0402",
   "subject": "Hayat Bilgisi",
   "theme": "İletişim",
-  "question": "Teşekkür etmek güzel bir iletişimdir.",
+  "question": "Bize yardım edene teşekkür etmemize gerek yoktur.",
   "options": [
    "Hayır",
    "Evet",
    "Fark etmez",
    "Gereksiz"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3423,14 +3423,14 @@
   "id": "hy_0404",
   "subject": "Hayat Bilgisi",
   "theme": "İletişim",
-  "question": "Kibarca konuşmalıyız.",
+  "question": "Kızınca arkadaşlarımıza bağırabiliriz.",
   "options": [
    "Hayır",
    "Fark etmez",
    "Evet",
    "Gereksiz"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3453,14 +3453,14 @@
   "id": "hy_0406",
   "subject": "Hayat Bilgisi",
   "theme": "İletişim",
-  "question": "Başkalarının sözünü kesmemeliyiz.",
+  "question": "Başkalarının sözünü kesmek kibarlıktır.",
   "options": [
    "Gereksiz",
    "Fark etmez",
    "Evet",
    "Hayır"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3543,14 +3543,14 @@
   "id": "hy_0412",
   "subject": "Hayat Bilgisi",
   "theme": "İletişim",
-  "question": "Telefonla konuşurken kibar oluruz.",
+  "question": "Telefonda karşımızdakine kaba konuşabiliriz.",
   "options": [
    "Hayır",
    "Evet",
    "Gereksiz",
    "Fark etmez"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3558,14 +3558,14 @@
   "id": "hy_0413",
   "subject": "Hayat Bilgisi",
   "theme": "İletişim",
-  "question": "İletişimde sabırlı olmalıyız.",
+  "question": "Karşımızdaki geç anladığında ona kızmalıyız.",
   "options": [
    "Evet",
    "Fark etmez",
    "Gereksiz",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3603,14 +3603,14 @@
   "id": "hy_0416",
   "subject": "Hayat Bilgisi",
   "theme": "İletişim",
-  "question": "İletişimde saygılı olmalıyız.",
+  "question": "İletişimde karşımızdakine saygı duymamız gerekmez.",
   "options": [
    "Hayır",
    "Fark etmez",
    "Evet",
    "Gereksiz"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -3618,14 +3618,14 @@
   "id": "hy_0417",
   "subject": "Hayat Bilgisi",
   "theme": "İletişim",
-  "question": "Yardım istemek iletişimin parçasıdır.",
+  "question": "Yardım istemek utanılacak bir şeydir.",
   "options": [
    "Evet",
    "Fark etmez",
    "Gereksiz",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4383,14 +4383,14 @@
   "id": "hy_0468",
   "subject": "Hayat Bilgisi",
   "theme": "Okul ve Sınıf",
-  "question": "Sınıfta sıramıza oturmalı mıyız?",
+  "question": "Derste izin almadan sınıfta dolaşabilir miyiz?",
   "options": [
    "Ayakta durmalıyız",
    "Hayır",
    "Masaya çıkmalıyız",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4503,14 +4503,14 @@
   "id": "hy_0501",
   "subject": "Hayat Bilgisi",
   "theme": "Okul",
-  "question": "Okula zamanında gitmeli miyiz?",
+  "question": "Okula istediğimiz saatte gidebilir miyiz?",
   "options": [
    "Evet",
    "Gereksiz",
    "Hayır",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4518,14 +4518,14 @@
   "id": "hy_0502",
   "subject": "Hayat Bilgisi",
   "theme": "Okul",
-  "question": "Sınıfta öğretmeni dinlemeliyiz.",
+  "question": "Öğretmen konuşurken arkadaşımızla sohbet etmeliyiz.",
   "options": [
    "Hayır",
    "Gereksiz",
    "Fark etmez",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -4803,14 +4803,14 @@
   "id": "hy_0522",
   "subject": "Hayat Bilgisi",
   "theme": "Okul",
-  "question": "Herkesin fikrine saygı duymalı mıyız?",
+  "question": "Sadece bizim fikrimiz mi doğrudur?",
   "options": [
    "Gereksiz",
    "Evet",
    "Fark etmez",
    "Hayır"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5238,14 +5238,14 @@
   "id": "hy_0576",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Ellerimizi sabunla yıkamalıyız.",
+  "question": "Ellerimizi sadece suyla çalkalamak yeterlidir.",
   "options": [
    "Hayır",
    "Evet",
    "Gereksiz",
    "Fark etmez"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5283,14 +5283,14 @@
   "id": "hy_0579",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Bol su içmeliyiz.",
+  "question": "Gün boyu hiç su içmesek de olur.",
   "options": [
    "Gereksiz",
    "Evet",
    "Fark etmez",
    "Hayır"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5298,14 +5298,14 @@
   "id": "hy_0580",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Düzenli uyumak sağlıklıdır.",
+  "question": "Gece geç saatlere kadar uyumamak sağlıklıdır.",
   "options": [
    "Evet",
    "Fark etmez",
    "Gereksiz",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5328,14 +5328,14 @@
   "id": "hy_0582",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Hasta olduğumuzda dinlenmeliyiz.",
+  "question": "Hasta olunca dinlenmek yerine koşup oynamalıyız.",
   "options": [
    "Hayır",
    "Fark etmez",
    "Evet",
    "Gereksiz"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5373,7 +5373,7 @@
   "id": "hy_0585",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Güneşte şapka takmak korur.",
+  "question": "Güneşte şapka takmak bizi korur.",
   "options": [
    "Hayır",
    "Evet",
@@ -5388,14 +5388,14 @@
   "id": "hy_0586",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Vitamin almak bağışıklığı destekler.",
+  "question": "Sadece şeker ve cips yiyerek sağlıklı büyürüz.",
   "options": [
    "Fark etmez",
    "Evet",
    "Gereksiz",
    "Hayır"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5433,14 +5433,14 @@
   "id": "hy_0589",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Sağlıklı atıştırmalıklar tercih ederiz.",
+  "question": "Atıştırmalık olarak her gün şekerleme yemeliyiz.",
   "options": [
    "Evet",
    "Fark etmez",
    "Gereksiz",
    "Hayır"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 3,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5493,14 +5493,14 @@
   "id": "hy_0593",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Burnumuzu mendille temizleriz.",
+  "question": "Hapşırırken ağzımızı kapatmamıza gerek yoktur.",
   "options": [
    "Hayır",
    "Fark etmez",
    "Gereksiz",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5568,14 +5568,14 @@
   "id": "hy_0598",
   "subject": "Hayat Bilgisi",
   "theme": "Sağlık",
-  "question": "Banyo yapmak temizlik sağlar.",
+  "question": "Banyo yapmak sağlığımıza zarar verir.",
   "options": [
    "Gereksiz",
    "Evet",
    "Hayır",
    "Fark etmez"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -5988,14 +5988,14 @@
   "id": "hy_0676",
   "subject": "Hayat Bilgisi",
   "theme": "Toplum",
-  "question": "Komşularımıza saygılı olmalıyız.",
+  "question": "Komşularımızı rahatsız etmek önemli değildir.",
   "options": [
    "Evet",
    "Gereksiz",
    "Hayır",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 2,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6033,14 +6033,14 @@
   "id": "hy_0680",
   "subject": "Hayat Bilgisi",
   "theme": "Toplum",
-  "question": "Toplu taşımada yaşlılara yer veririz.",
+  "question": "Otobüste yaşlılar ayaktayken oturmaya devam ederiz.",
   "options": [
    "Evet",
    "Hayır",
    "Gereksiz",
    "Fark etmez"
   ],
-  "correctAnswer": 0,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6048,7 +6048,7 @@
   "id": "hy_0681",
   "subject": "Hayat Bilgisi",
   "theme": "Toplum",
-  "question": "Mahallemizde güvenli olmalıyız.",
+  "question": "Mahallemizde güvenlik kurallarına uymalıyız.",
   "options": [
    "Gereksiz",
    "Fark etmez",
@@ -6123,14 +6123,14 @@
   "id": "hy_0686",
   "subject": "Hayat Bilgisi",
   "theme": "Toplum",
-  "question": "Toplumda herkesin hakları vardır.",
+  "question": "Toplumda sadece büyüklerin hakları vardır.",
   "options": [
    "Hayır",
    "Fark etmez",
    "Evet",
    "Gereksiz"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6153,14 +6153,14 @@
   "id": "hy_0688",
   "subject": "Hayat Bilgisi",
   "theme": "Toplum",
-  "question": "Kamu mallarına zarar vermeyiz.",
+  "question": "Parktaki bankları boyayıp kirletebiliriz.",
   "options": [
    "Hayır",
    "Evet",
    "Fark etmez",
    "Gereksiz"
   ],
-  "correctAnswer": 1,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6183,14 +6183,14 @@
   "id": "hy_0690",
   "subject": "Hayat Bilgisi",
   "theme": "Toplum",
-  "question": "Sokak hayvanlarına şefkat gösteririz.",
+  "question": "Sokak hayvanlarına eziyet edebiliriz.",
   "options": [
    "Hayır",
    "Gereksiz",
    "Evet",
    "Fark etmez"
   ],
-  "correctAnswer": 2,
+  "correctAnswer": 0,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6198,14 +6198,14 @@
   "id": "hy_0691",
   "subject": "Hayat Bilgisi",
   "theme": "Toplum",
-  "question": "Toplumda hoşgörülü olmalıyız.",
+  "question": "Bizden farklı olanlarla alay etmek doğrudur.",
   "options": [
    "Fark etmez",
    "Hayır",
    "Gereksiz",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
@@ -6288,14 +6288,14 @@
   "id": "hy_0697",
   "subject": "Hayat Bilgisi",
   "theme": "Toplum",
-  "question": "Parkta oynarken başkalarını rahatsız etmeyiz.",
+  "question": "Parkta oynarken başkalarını itip kakabiliriz.",
   "options": [
    "Gereksiz",
    "Hayır",
    "Fark etmez",
    "Evet"
   ],
-  "correctAnswer": 3,
+  "correctAnswer": 1,
   "difficulty": "Orta",
   "grade": 1
  },
