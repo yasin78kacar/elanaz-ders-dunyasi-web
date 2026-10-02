@@ -248,19 +248,6 @@
       "correctAnswer": 2
     },
     {
-      "id": "qf800326",
-      "subject": "Matematik",
-      "theme": "Tema 4",
-      "question": "200 tohumdan 75 tanesi filizlendi, 60 tanesi kurudu. Sağlıklı filiz sayısı kaçtır?",
-      "options": [
-        "75",
-        "135",
-        "65",
-        "140"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "qf800327",
       "subject": "Matematik",
       "theme": "Tema 4",
@@ -344,12 +331,12 @@
       "theme": "Tema 4: Doğal Sayılarla Çarpma İşlemi",
       "question": "3 + 3 + 3 + 3 + 3 tekrarlı toplama işleminin çarpma şeklinde gösterimi hangisidir?",
       "options": [
-        "3 x 3",
         "5 x 3",
-        "3 x 5",
-        "5 x 5"
+        "3 x 3",
+        "5 x 5",
+        "4 x 3"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 0
     },
     {
       "id": "q-m-42",
@@ -358,7 +345,7 @@
       "question": "4 x 2 çarpma işleminin anlamı aşağıdakilerden hangisidir?",
       "options": [
         "4 tane 2'nin toplamı",
-        "2 tane 4'ün toplamı",
+        "2 ile 4'ün farkı",
         "4 ile 2'nin toplamı",
         "4'ün 2 eksiği"
       ],

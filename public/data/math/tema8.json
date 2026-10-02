@@ -430,19 +430,6 @@
       "correctAnswer": 0
     },
     {
-      "id": "q768",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "5 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "200 lira",
-        "100 lira",
-        "10 lira",
-        "50 lira"
-      ],
-      "correctAnswer": 3
-    },
-    {
       "id": "q769",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -454,19 +441,6 @@
         "35"
       ],
       "correctAnswer": 1
-    },
-    {
-      "id": "q770",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "10 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "200 lira",
-        "100 lira",
-        "50 lira",
-        "10 lira"
-      ],
-      "correctAnswer": 2
     },
     {
       "id": "q771",
@@ -482,19 +456,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q772",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "15 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "10 lira",
-        "200 lira",
-        "50 lira",
-        "100 lira"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q773",
       "subject": "Matematik",
       "theme": "Tema 8",
@@ -506,19 +467,6 @@
         "35"
       ],
       "correctAnswer": 2
-    },
-    {
-      "id": "q774",
-      "subject": "Matematik",
-      "theme": "Tema 8",
-      "question": "20 liralık ürünü almak için gereken minimum banknot (50 TL)?",
-      "options": [
-        "100 lira",
-        "10 lira",
-        "200 lira",
-        "50 lira"
-      ],
-      "correctAnswer": 3
     },
     {
       "id": "qa50387",
@@ -901,9 +849,9 @@
       "id": "qe600490",
       "subject": "Matematik",
       "theme": "Tema 8",
-      "question": "5 TL'niz var. 8 TL'lik sandviç aldınız. Kaç TL paranız kaldı?",
+      "question": "8 TL'niz var. 5 TL'lik sandviç aldınız. Kaç TL paranız kaldı?",
       "options": [
-        "0",
+        "3",
         "5",
         "8",
         "13"
@@ -940,12 +888,12 @@
       "id": "qe600493",
       "subject": "Matematik",
       "theme": "Tema 8",
-      "question": "15 TL'niz var. 20 TL'lik oyuncak araba aldınız. Kaç TL paranız kaldı?",
+      "question": "20 TL'niz var. 15 TL'lik oyuncak araba aldınız. Kaç TL paranız kaldı?",
       "options": [
         "15",
         "20",
         "35",
-        "0"
+        "5"
       ],
       "correctAnswer": 3
     },
@@ -979,14 +927,14 @@
       "id": "qe600496",
       "subject": "Matematik",
       "theme": "Tema 8",
-      "question": "5 TL'niz var. 7 TL'lik boyama kitabı aldınız. Kaç TL paranız kaldı?",
+      "question": "7 TL'niz var. 5 TL'lik boyama kitabı aldınız. Kaç TL paranız kaldı?",
       "options": [
         "12",
-        "7",
+        "2",
         "5",
-        "0"
+        "7"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 1
     },
     {
       "id": "qe600497",
@@ -1018,14 +966,14 @@
       "id": "qe600499",
       "subject": "Matematik",
       "theme": "Tema 8",
-      "question": "10 TL'niz var. 15 TL'lik boya kalemi seti aldınız. Kaç TL paranız kaldı?",
+      "question": "15 TL'niz var. 10 TL'lik boya kalemi seti aldınız. Kaç TL paranız kaldı?",
       "options": [
         "25",
-        "0",
         "10",
+        "5",
         "15"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "qf800421",

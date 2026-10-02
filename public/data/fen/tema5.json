@@ -69,12 +69,12 @@
       "id": "q1266",
       "subject": "Fen Bilimleri",
       "theme": "Tema 5",
-      "question": "Ağır mı, hafif mi daha hızlı düşer?",
+      "question": "Aşağıdakilerden hangisi yerçekiminin bir sonucudur?",
       "options": [
-        "İkisi de aynı hızda düşer",
-        "Her zaman ağır olan düşer",
-        "Her zaman hafif olan düşer",
-        "Rengi koyu olan düşer"
+        "Top havaya atılınca yere düşer",
+        "Topun rengi değişir",
+        "Lambanın ışık vermesi",
+        "Sesin kulakla duyulması"
       ],
       "correctAnswer": 0
     },
@@ -205,19 +205,6 @@
         "Yerçekimi",
         "İtme kuvveti",
         "Sürtünme"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": "qa51034",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 5",
-      "question": "Sürtünme kuvveti yararlı mıdır?",
-      "options": [
-        "Hiçbir zaman",
-        "Bazen",
-        "Evet (yürümek, frenleme için)",
-        "Hayır, sadece zararlıdır"
       ],
       "correctAnswer": 2
     },
@@ -498,14 +485,14 @@
       "id": "q-f-light-161",
       "subject": "Fen Bilimleri",
       "theme": "Tema 5: Çevremizdeki Işık, Ses ve Elektrik",
-      "question": "Kendiliğinden etrafına ışık yayan varlıklara ne denir?",
+      "question": "Doğada, insan eliyle yapılmadan kendiliğinden ışık yayan varlıklara ne denir?",
       "options": [
-        "Yansıtıcı",
+        "Doğal ışık kaynağı",
         "Yapay ışık kaynağı",
-        "Karanlık",
-        "Doğal ışık kaynağı"
+        "Yansıtıcı",
+        "Gölge"
       ],
-      "correctAnswer": 3
+      "correctAnswer": 0
     },
     {
       "id": "q-f-light-162",

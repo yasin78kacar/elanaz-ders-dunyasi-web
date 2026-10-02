@@ -1111,12 +1111,12 @@
       "theme": "Tema 6",
       "question": "Akşam yemeği için saat 19:00 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
       "options": [
-        "Gece",
-        "Akşam/Gece",
+        "Sabah",
         "Öğleden sonra",
-        "Sabah"
+        "Akşam",
+        "Gece"
       ],
-      "correctAnswer": 1
+      "correctAnswer": 2
     },
     {
       "id": "qe600402",
@@ -1125,9 +1125,9 @@
       "question": "Uyku vakti için saat 21:00 gösterilmektedir. Bu saat hangi zaman dilimine girer?",
       "options": [
         "Sabah",
+        "Öğle",
         "Öğleden sonra",
-        "Gece",
-        "Akşam/Gece"
+        "Gece"
       ],
       "correctAnswer": 3
     },
@@ -1723,11 +1723,11 @@
       "question": "6 çeyrek elma ve 2 yarım elma toplam kaç bütün elma eder?",
       "options": [
         "2",
-        "2 yarım",
+        "2 buçuk",
         "3",
-        "2 buçuk"
+        "3 buçuk"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
     },
     {
       "id": "q-m-152",

@@ -144,19 +144,6 @@
       "correctAnswer": 1
     },
     {
-      "id": "q1198",
-      "subject": "Fen Bilimleri",
-      "theme": "Tema 1",
-      "question": "Hayvanlar neye ihtiyaç duyar?",
-      "options": [
-        "Sadece hava",
-        "Sadece su",
-        "Besin ve su",
-        "Sadece besin"
-      ],
-      "correctAnswer": 2
-    },
-    {
       "id": "q1199",
       "subject": "Fen Bilimleri",
       "theme": "Tema 1",
@@ -268,7 +255,7 @@
       "options": [
         "Yalnızca güneş",
         "Yalnızca toprak",
-        "Su, sıcaklık ve uygun toprak",
+        "Su, hava ve uygun sıcaklık",
         "Yalnızca su"
       ],
       "correctAnswer": 2
@@ -357,7 +344,7 @@
       "theme": "Tema 1",
       "question": "Kartal neden memeli değildir?",
       "options": [
-        "Çünkü çok büyük bir kuştur",
+        "Çünkü yavrularını sütle besler",
         "Çünkü yumurtayla çoğalır",
         "Çünkü etle besleniyor",
         "Çünkü gökyüzünde uçar"

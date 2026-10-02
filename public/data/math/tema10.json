@@ -901,9 +901,9 @@
       "id": "qf800452",
       "subject": "Matematik",
       "theme": "Tema 10",
-      "question": "Yukarıdaki ankette en az seçilen renk hangisidir?",
+      "question": "Bir ankette 15 kişi kırmızıyı, 12 kişi maviyi, 8 kişi sarıyı seçti. En az seçilen renk hangisidir?",
       "options": [
-        "Sarı (8 kişi)",
+        "Sarı",
         "Kırmızı",
         "Mavi",
         "Hepsi eşit"
@@ -914,14 +914,14 @@
       "id": "qf800453",
       "subject": "Matematik",
       "theme": "Tema 10",
-      "question": "Yukarıdaki ankette en çok seçilen renk hangisidir?",
+      "question": "Bir ankette 15 kişi kırmızıyı, 12 kişi maviyi, 8 kişi sarıyı seçti. En çok seçilen renk hangisidir?",
       "options": [
-        "Kırmızı (15 kişi)",
-        "Sarı",
         "Mavi",
+        "Kırmızı",
+        "Sarı",
         "Hepsi eşit"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "id": "qf800454",
@@ -940,12 +940,12 @@
       "id": "qf800455",
       "subject": "Matematik",
       "theme": "Tema 10",
-      "question": "En popüler hayvan hangisidir?",
+      "question": "Bir sınıfta 10 öğrenci kediyi, 7 öğrenci köpeği, 5 öğrenci balığı seviyor. En çok sevilen hayvan hangisidir?",
       "options": [
         "Hepsi eşit",
         "Balık",
         "Köpek",
-        "Kedi (10 kişi)"
+        "Kedi"
       ],
       "correctAnswer": 3
     },
@@ -992,7 +992,7 @@
       "id": "qf800459",
       "subject": "Matematik",
       "theme": "Tema 10",
-      "question": "Elma ile kirazın farkı kaçtır?",
+      "question": "Bir manavda 20 elma, 15 armut ve 10 kiraz var. Elma, kirazdan kaç tane fazladır?",
       "options": [
         "10",
         "5",
@@ -1031,12 +1031,12 @@
       "id": "qf800462",
       "subject": "Matematik",
       "theme": "Tema 10",
-      "question": "3 günlük ortalama kaçtır?",
+      "question": "Çarşamba günü 20, perşembe günü 18, cuma günü 22 öğrenci geldi. Cuma günü, perşembe gününden kaç öğrenci fazla geldi?",
       "options": [
-        "22",
-        "18",
-        "20",
-        "60"
+        "2",
+        "6",
+        "4",
+        "3"
       ],
       "correctAnswer": 2
     },
@@ -1057,7 +1057,7 @@
       "id": "qf800464",
       "subject": "Matematik",
       "theme": "Tema 10",
-      "question": "Kırmızı düğme, mavi düğmeden kaç fazladır?",
+      "question": "Bir kutuda 12 kırmızı, 8 beyaz ve 5 mavi düğme var. Kırmızı düğmeler, mavi düğmelerden kaç tane fazladır?",
       "options": [
         "17",
         "12",
