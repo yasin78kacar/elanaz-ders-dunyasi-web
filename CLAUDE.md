@@ -15,6 +15,7 @@ Bölümler: Öğrenme Köşesi (Tema 1 Soru Kelimeleri, Tema 2 Saat Okuma, Tema 
 - Mevcut bölümleri bozma. Yeni bir şey eklerken çalışan bölümlere yapısal dokunma.
 - Soru yükleme mevcut mekanizmayla (fetch) çalışır. Offline gerekliliği yok.
 - Referans/yedek branch'leri silme (timer-yedek, tasarim-cila).
+- quality_control.mjs public/data/ altındaki tüm dosyaları yeniden yazar ve dry-run modu yoktur; Yasin açıkça istemedikçe ÇALIŞTIRILMAZ.
 
 ## Veri Kaynakları (KRİTİK)
 - Ders soruları SADECE `public/data/{ders}/*.json` dosyalarındadır (math, turkce, fen, hayat, english, sosyal, zeka, gorsel, ogrenme, 5n1k). QuizViewer bunları çalışma anında fetch ile yükler. Soru düzeltmesi yalnızca bu dosyalarda yapılır.
@@ -26,7 +27,7 @@ Bölümler: Öğrenme Köşesi (Tema 1 Soru Kelimeleri, Tema 2 Saat Okuma, Tema 
 
 - Tek tur = tek iş. Büyük işleri tek promptta toplama — agent birini atlar.
 - Büyük içerik üretiminde partiler halinde çalış (ör. 50'şerli), her partiyi ayrı taslak dosyaya yaz.
-- Önce taslak (~/Downloads/), kontrol + onay, sonra canlı veri dosyasına işle.
+- Önce taslak (public/_rapor/taslak/), kontrol + onay, sonra canlı veri dosyasına işle. Denetim raporları public/_rapor/denetim/, inceleme dosyaları public/_rapor/inceleme/ altında. ~/Downloads/ yalnızca yedekler içindir. Yeni içerik üretimi /ders-uret komutuyla yapılır.
 - Canlı veriye toplu değişiklikten önce yedek al (cp <dosya> ~/Downloads/<dosya>_yedek.json).
 - Kayıtları id bazlı eşleştir, sıra bazlı değil.
 - Değişiklikten sonra toplam kayıt sayısını doğrula.
@@ -41,7 +42,7 @@ Bölümler: Öğrenme Köşesi (Tema 1 Soru Kelimeleri, Tema 2 Saat Okuma, Tema 
 
 ## Talimat Formatı
 
-- Her kod bloğu nereye yapıştırılacağını belirtir: CURSOR AGENT'A YAPIŞTIR veya TERMİNALE YAPIŞTIR.
+- Her kod bloğu nereye yapıştırılacağını belirtir: CLAUDE CODE'A YAPIŞTIR veya TERMİNALE YAPIŞTIR.
 
 ## Eleştirel Yaklaşım
 
@@ -57,7 +58,7 @@ Bölümler: Öğrenme Köşesi (Tema 1 Soru Kelimeleri, Tema 2 Saat Okuma, Tema 
 - Çeldiriciler dengeli: doğru cevap açıkça doğru, yanlış şıklar aynı türden ama uymayan.
 - Doğru cevap pozisyonu çeşitli, hep aynı yerde değil.
 - Soru kelimesi/tür dağılımı dengeli.
-- Karakter ismi metinde "Elanaz" yazılır; uygulama otomatik farklı isme çevirir (dokunma).
+- Hikaye Köşesi'nde karakter ismi metinde "Elanaz" yazılır; uygulama otomatik farklı isme çevirir (dokunma). Ders sorularında (QuizViewer) isim çevirisi YOKTUR: "Elanaz" kullanılmaz, farklı ve çeşitli isimler kullanılır.
 
 ## Türkçe Dil Kuralları
 
