@@ -579,8 +579,8 @@
       "question": "5 liranın %10'u kaç liradır?",
       "options": [
         "1",
-        "0.5",
-        "2.5",
+        "0,5",
+        "2,5",
         "50"
       ],
       "correctAnswer": 1
@@ -591,10 +591,10 @@
       "theme": "Tema 8",
       "question": "5 liranın yarısı kaç liradır?",
       "options": [
-        "1.25",
+        "1,25",
         "5",
         "10",
-        "2.5"
+        "2,5"
       ],
       "correctAnswer": 3
     },
@@ -618,7 +618,7 @@
       "question": "10 liranın yarısı kaç liradır?",
       "options": [
         "10",
-        "2.5",
+        "2,5",
         "5",
         "20"
       ],
@@ -630,8 +630,8 @@
       "theme": "Tema 8",
       "question": "15 liranın %10'u kaç liradır?",
       "options": [
-        "1.5",
-        "7.5",
+        "1,5",
+        "7,5",
         "3",
         "150"
       ],
@@ -644,8 +644,8 @@
       "question": "15 liranın yarısı kaç liradır?",
       "options": [
         "30",
-        "7.5",
-        "3.75",
+        "7,5",
+        "3,75",
         "15"
       ],
       "correctAnswer": 1
@@ -1114,7 +1114,7 @@
         "5",
         "4",
         "10",
-        "2.5"
+        "2,5"
       ],
       "correctAnswer": 3
     },

@@ -164,7 +164,7 @@
       "options": [
         "400",
         "40",
-        "0.4",
+        "0,4",
         "4"
       ],
       "correctAnswer": 3
@@ -292,7 +292,7 @@
       "theme": "Tema 7",
       "question": "10 mm kaç cm'dir?",
       "options": [
-        "0.1",
+        "0,1",
         "100",
         "1",
         "10"
@@ -305,7 +305,7 @@
       "theme": "Tema 7",
       "question": "5 cm kaç mm'dir?",
       "options": [
-        "0.5",
+        "0,5",
         "50",
         "500",
         "5"
@@ -449,7 +449,7 @@
       "question": "100 cm kaç m'dir?",
       "options": [
         "2",
-        "0.1",
+        "0,1",
         "10",
         "1"
       ],
@@ -463,7 +463,7 @@
       "options": [
         "20",
         "3",
-        "0.2",
+        "0,2",
         "2"
       ],
       "correctAnswer": 3
@@ -475,7 +475,7 @@
       "question": "300 cm kaç m'dir?",
       "options": [
         "3",
-        "0.3",
+        "0,3",
         "30",
         "4"
       ],
@@ -489,8 +489,8 @@
       "options": [
         "50",
         "5",
-        "1.5",
-        "0.5"
+        "1,5",
+        "0,5"
       ],
       "correctAnswer": 3
     },
@@ -501,9 +501,9 @@
       "question": "15 mm kaç cm'dir?",
       "options": [
         "15",
-        "2.5",
+        "2,5",
         "150",
-        "1.5"
+        "1,5"
       ],
       "correctAnswer": 3
     },
@@ -542,7 +542,7 @@
         "2",
         "1",
         "10",
-        "0.1"
+        "0,1"
       ],
       "correctAnswer": 1
     },
@@ -565,7 +565,7 @@
       "theme": "Tema 7",
       "question": "2000 m kaç km yapar?",
       "options": [
-        "0.2",
+        "0,2",
         "3",
         "2",
         "20"
@@ -592,7 +592,7 @@
       "question": "3000 m kaç km yapar?",
       "options": [
         "30",
-        "0.3",
+        "0,3",
         "4",
         "3"
       ],
@@ -618,7 +618,7 @@
       "question": "4000 m kaç km yapar?",
       "options": [
         "5",
-        "0.4",
+        "0,4",
         "40",
         "4"
       ],
@@ -671,8 +671,8 @@
       "options": [
         "50 g",
         "5 kg",
-        "0.05 kg",
-        "0.5 kg"
+        "0,05 kg",
+        "0,5 kg"
       ],
       "correctAnswer": 3
     },
@@ -682,9 +682,9 @@
       "theme": "Tema 7",
       "question": "250 mL kaç L'dir?",
       "options": [
-        "0.025 L",
-        "2.5 L",
-        "0.25 L",
+        "0,025 L",
+        "2,5 L",
+        "0,25 L",
         "25 L"
       ],
       "correctAnswer": 2
