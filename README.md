@@ -12,5 +12,5 @@ npm run dev
 npm run build
 ```
 ## Görsel kaynakları
-İngilizce bölümündeki kelime ikonları OpenMoji tarafından tasarlanmıştır — açık kaynaklı emoji ve ikon projesi. Lisans: CC BY-SA 4.0 — https://openmoji.org
+İngilizce bölümündeki ve Harfleri Tanıyalım’daki kelime ikonları OpenMoji tarafından tasarlanmıştır — açık kaynaklı emoji ve ikon projesi. Lisans: CC BY-SA 4.0 — https://openmoji.org
 Boyama Köşesi görselleri ticari lisansla edinilmiştir.

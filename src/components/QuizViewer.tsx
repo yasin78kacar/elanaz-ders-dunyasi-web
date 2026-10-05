@@ -7,6 +7,7 @@ import HomePage, { SUBJECT_ROUTE_TO_LABEL, type HomeRoute } from '../pages/home/
 import BilgiModal from './BilgiModal';
 import OnayModal from './OnayModal';
 import SayiBulmacasi from './SayiBulmacasi';
+import HarfleriTaniyalim from './HarfleriTaniyalim';
 import { ilgiHali } from '../lib/turkceEk';
 import { konusmaDestegi, metinleriOku, okuIptal, sesBul } from '../lib/sesliOku';
 
@@ -340,7 +341,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   const [profiller, setProfiller] = useState<Profil[]>(() => profilleriGetir());
   
   // Views: 'profile_selection' | 'home' | 'theme_selection' | 'ogrenme_home' | 'quiz' | 'stats' | 'leaderboard' | 'about'
-  const [view, setView] = useState<'profile_selection' | 'home' | 'theme_selection' | 'ogrenme_home' | 'sayi_bulmacasi' | 'quiz' | 'stats' | 'leaderboard' | 'about'>(() => {
+  const [view, setView] = useState<'profile_selection' | 'home' | 'theme_selection' | 'ogrenme_home' | 'harfler' | 'sayi_bulmacasi' | 'quiz' | 'stats' | 'leaderboard' | 'about'>(() => {
     const active = localStorage.getItem(AKTIF_KEY);
     return active ? 'home' : 'profile_selection';
   });
@@ -881,7 +882,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
             <span className="qv-hikaye-btn-emoji">🧠</span>
             <span className="qv-hikaye-btn-text">
               <span className="qv-hikaye-btn-title">Öğrenme Köşesi</span>
-              <span className="qv-hikaye-btn-sub">Soru kelimeleri &amp; saat okuma</span>
+              <span className="qv-hikaye-btn-sub">Harfler, saat ve soru kelimeleri</span>
             </span>
             <span className="qv-hikaye-btn-arrow">›</span>
           </button>
@@ -1139,7 +1140,28 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
               <span className="ogrenme-tema-alt">{t.alt}</span>
             </button>
           ))}
+          <button
+            type="button"
+            className="ogrenme-tema-kart"
+            style={{ '--card-color': '#DB2777' } as React.CSSProperties}
+            onClick={() => setView('harfler')}
+          >
+            <span className="ogrenme-tema-emoji">🔤</span>
+            <span className="ogrenme-tema-baslik">Harfleri Tanıyalım</span>
+            <span className="ogrenme-tema-alt">Resim ve sesle harfleri tanı</span>
+          </button>
         </div>
+      </div>
+    );
+  }
+
+  if (view === 'harfler') {
+    return goster(
+      <div className="qv-wrap">
+        <button type="button" className="back-btn" onClick={() => setView('ogrenme_home')}>← Öğrenme Köşesi</button>
+        <h1 className="home-title" style={{ color: OGRENME.textColor }}>🔤 Harfleri Tanıyalım</h1>
+        <p className="home-subtitle">Harfe dokun, kelimeyi dinle.</p>
+        <HarfleriTaniyalim />
       </div>
     );
   }
@@ -1302,7 +1324,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
 
           <div className="hakkinda-bolum">
             <h3>🎨 Görsel Kaynakları</h3>
-            <p>İngilizce bölümündeki kelime ikonları OpenMoji tarafından tasarlanmıştır —
+            <p>İngilizce bölümündeki ve Harfleri Tanıyalım’daki kelime ikonları OpenMoji tarafından tasarlanmıştır —
             açık kaynaklı emoji ve ikon projesi. Lisans: CC BY-SA 4.0.
             Daha fazla bilgi: <a href="https://openmoji.org" target="_blank" rel="noopener noreferrer">openmoji.org</a></p>
           </div>

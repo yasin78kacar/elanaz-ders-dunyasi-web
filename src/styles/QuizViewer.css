@@ -1014,6 +1014,78 @@ body::before {
   color: rgba(255,255,255,0.9);
 }
 
+/* ── Harfleri Tanıyalım ──────────────────────────────────── */
+.harf-bolum {
+  margin-top: 8px;
+}
+.harf-grup {
+  margin-top: 22px;
+}
+.harf-grup-baslik {
+  margin: 0 0 12px;
+  font-family: var(--qv-display);
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--qv-text);
+}
+.harf-izgara {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 14px;
+}
+.harf-kart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 120px;
+  min-height: 148px;
+  padding: 16px 10px 14px;
+  border: 3px solid var(--qv-border);
+  border-radius: var(--qv-radius);
+  background: var(--qv-surface);
+  box-shadow: var(--qv-shadow);
+  cursor: pointer;
+  font-family: var(--qv-font);
+  color: var(--qv-text);
+  transition: transform 0.18s var(--qv-ease-bounce), box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.harf-kart img {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  pointer-events: none;
+}
+.harf-kart:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--qv-shadow-md);
+}
+.harf-kart:active {
+  transform: scale(0.98);
+}
+.harf-kart--caliyor {
+  border-color: var(--qv-purple);
+  box-shadow: var(--qv-shadow-md);
+}
+.harf-cift {
+  /* Fredoka'da Ş Ğ İ yok; bu çiftler Nunito latin-ext ile aynı yazı tipinde kalsın. */
+  font-family: 'Nunito', system-ui, sans-serif;
+  font-size: 1.85rem;
+  font-weight: 900;
+  line-height: 1;
+  letter-spacing: 0.5px;
+}
+.harf-kelime {
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.harf-vurgu {
+  color: var(--qv-coral);
+  font-weight: 900;
+}
+
 /* ── Mobil düzeltmeleri ──────────────────────────────────── */
 @media (max-width: 520px) {
   .qv-wrap {

@@ -78,7 +78,7 @@ const FEATURES: FeatureCard[] = [
   { name: 'Boyama Köşesi', desc: 'Tıkla, boya, kutla!', icon: 'coloring', route: 'boyama-kosesi', count: '126', variant: 'coloring' },
   { name: 'Video Köşesi', desc: 'Kısa ders anlatımları', icon: 'play', route: 'video-kosesi', count: 'İzle', variant: 'video' },
   { name: 'Mini Oyunlar', desc: '17 eğlenceli mini oyun', icon: 'games', route: 'mini-oyunlar', count: '17', variant: 'games' },
-  { name: 'Öğrenme Köşesi', desc: 'Soru kelimeleri & saat okuma', icon: 'clock', route: 'ogrenme-kosesi', count: '4 tema', variant: 'learn' },
+  { name: 'Öğrenme Köşesi', desc: 'Harfler, saat ve soru kelimeleri', icon: 'clock', route: 'ogrenme-kosesi', count: '5 konu', variant: 'learn' },
   { name: '5N1K', desc: 'Kim? Ne? Nerede? Ne zaman? Neden? Nasıl?', icon: 'search', route: 'besn1k', count: 'Tablo', variant: 'besn1k' },
   { name: 'İngilizce Öğreniyorum', desc: 'Alfabe, kelimeler ve okunuşları', icon: 'abc', route: 'ingilizce-ogren', count: '127 kelime', variant: 'englishLearn' },
 ];
