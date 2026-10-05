@@ -71,3 +71,6 @@ Bölümler: Öğrenme Köşesi (Tema 1 Soru Kelimeleri, Tema 2 Saat Okuma, Tema 
 ## Çocuk Güvenliği
 
 - Tüm içerik ilkokul çocuğu için uygun, güvenli, yaşa uygun. Korkutucu/üzücü/uygunsuz tema yok.
+
+## Eski Proje (KULLANILMAZ)
+- ~/Desktop/_ESKI_KULLANMA_elanaz-ders-dunyasi eski Expo projesidir. OKUNMAZ, kaynak alınmaz, karşılaştırma yapılmaz. Tek geçerli proje bu klasördür (elanaz-ders-dunyasi-web).
