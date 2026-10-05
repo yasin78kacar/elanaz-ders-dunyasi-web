@@ -74,3 +74,9 @@ Bölümler: Öğrenme Köşesi (Tema 1 Soru Kelimeleri, Tema 2 Saat Okuma, Tema 
 
 ## Eski Proje (KULLANILMAZ)
 - ~/Desktop/_ESKI_KULLANMA_elanaz-ders-dunyasi eski Expo projesidir. OKUNMAZ, kaynak alınmaz, karşılaştırma yapılmaz. Tek geçerli proje bu klasördür (elanaz-ders-dunyasi-web).
+
+## Sınır Kuralları (her görevde geçerli)
+1. Sadece görevin gerektirdiği dosyalara dokun. Görev dışı bir dosyaya dokunmak zorunda kaldıysan raporda dosyayı ve nedenini yaz. Silme, yeniden adlandırma veya büyük değişiklik gerekiyorsa önce sor.
+2. Kapsamı büyütme: istenmeyen refactor, yeniden adlandırma, format düzeltmesi, "iyileştirme" veya yeni özellik yok. Fark ettiğin sorunları düzeltme; iş sonunda "Öneriler" başlığı altında listele.
+3. En küçük değişikliği yap. Çalışan kodu silme veya baştan yazma.
+4. İş bitince değiştirdiğin her dosyayı nedeniyle birlikte tek satırda raporla. Emin olmadığın konuda varsayım yapma, sor.
