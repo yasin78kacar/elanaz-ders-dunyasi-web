@@ -8,6 +8,7 @@ import BilgiModal from './BilgiModal';
 import OnayModal from './OnayModal';
 import SayiBulmacasi from './SayiBulmacasi';
 import { ilgiHali } from '../lib/turkceEk';
+import { konusmaDestegi, metinleriOku, okuIptal, sesBul } from '../lib/sesliOku';
 
 interface Question {
   id: string;
@@ -370,6 +371,20 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
 
   const activeSubject = ALL_SUBJECTS.find(s => s.label === selectedSubject) || SUBJECTS[0];
 
+  const soruDili = selectedSubject === 'İngilizce' ? 'en-US' : 'tr-TR';
+  const [sesVar, setSesVar] = useState(false);
+  useEffect(() => {
+    if (!konusmaDestegi()) return;
+    const bak = () => setSesVar(!!sesBul(soruDili));
+    bak();
+    window.speechSynthesis.addEventListener('voiceschanged', bak);
+    return () => window.speechSynthesis.removeEventListener('voiceschanged', bak);
+  }, [soruDili]);
+  useEffect(() => {
+    okuIptal();
+  }, [currentIndex, view]);
+  useEffect(() => () => okuIptal(), []);
+
   // Auto version update check
   useEffect(() => {
     let checked = false;
@@ -390,6 +405,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
 
   const loadQuestions = useCallback(async (subjectName: string, themeName: string) => {
     if (subjectName === OGRENME.label) ogrenmeStatsYazildiRef.current = false;
+    okuIptal();
     setLoading(true);
     setError(null);
     setFeedback('idle');
@@ -517,21 +533,21 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
 
   const soruyuSeslendir = () => {
     const currentQuestion = questions[currentIndex];
-    if (!currentQuestion) return;
-    window.speechSynthesis.cancel();
-    const metin = currentQuestion.question + '. ' + currentQuestion.options.join('. ');
-    const u = new SpeechSynthesisUtterance(metin);
-    u.lang = selectedSubject === 'İngilizce' ? 'en-US' : 'tr-TR';
-    u.rate = 0.9;
-    const sesler = window.speechSynthesis.getVoices();
-    if (selectedSubject === 'İngilizce') {
-      const s = sesler.find(v => v.name.includes('Samantha')) || sesler.find(v => v.lang === 'en-US');
-      if (s) u.voice = s;
-    } else {
-      const s = sesler.find(v => v.lang === 'tr-TR');
-      if (s) u.voice = s;
-    }
-    window.speechSynthesis.speak(u);
+    if (!currentQuestion || !sesVar) return;
+    const parcalar: string[] = [];
+    const soru = currentQuestion.question.trim();
+    if (soru) parcalar.push(soru);
+    currentQuestion.options.forEach((opt, i) => {
+      const metin = opt.trim();
+      if (!metin) return;
+      parcalar.push(`${OPTION_LABELS[i] || String(i + 1)}, ${metin}`);
+    });
+    metinleriOku(parcalar, soruDili);
+  };
+
+  const sikkiSeslendir = (metin: string) => {
+    if (!sesVar) return;
+    metinleriOku([metin], soruDili);
   };
 
   const yedekIndir = () => {
@@ -1384,7 +1400,9 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
               )}
               <div className="soru-satir">
                 <p className="qv-question-text">{currentQuestion.question}</p>
-                <button className="soru-dinle-btn" onClick={soruyuSeslendir} title="Dinle">🔊</button>
+                {sesVar && (
+                  <button type="button" className="soru-dinle-btn" onClick={soruyuSeslendir} title="Soruyu ve şıkları dinle" aria-label="Soruyu ve şıkları dinle">🔊</button>
+                )}
               </div>
             </div>
 
@@ -1404,28 +1422,43 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
                     ? parseTimeOption(opt)
                     : null;
                 if (digi) cls += ' qv-option--digi';
+                const sikMetin = opt.trim();
                 return (
-                  <button
-                    key={i}
-                    id={`option-${i}`}
-                    className={cls}
-                    onClick={() => handleAnswer(i)}
-                    disabled={feedback !== 'idle'}
-                    aria-label={digi ? `Seçenek ${OPTION_LABELS[i]}: Saat ${opt}` : undefined}
-                  >
-                    <span className="qv-option-label">{OPTION_LABELS[i]}</span>
-                    {digi ? (
-                      <DigitalClock hour={digi.hour} minute={digi.minute} format={12} size={110} />
-                    ) : (
-                      <span className="qv-option-text">{opt}</span>
-                    )}
-                    {selectedOption !== null && i === currentQuestion.correctAnswer ? (
-                      <span className="qv-option-isaret qv-option-isaret--dogru" aria-hidden="true">✓</span>
+                  <div key={i} className="qv-option-satir">
+                    <button
+                      id={`option-${i}`}
+                      className={cls}
+                      onClick={() => handleAnswer(i)}
+                      disabled={feedback !== 'idle'}
+                      aria-label={digi ? `Seçenek ${OPTION_LABELS[i]}: Saat ${opt}` : undefined}
+                    >
+                      <span className="qv-option-label">{OPTION_LABELS[i]}</span>
+                      {digi ? (
+                        <DigitalClock hour={digi.hour} minute={digi.minute} format={12} size={110} />
+                      ) : (
+                        <span className="qv-option-text">{opt}</span>
+                      )}
+                      {selectedOption !== null && i === currentQuestion.correctAnswer ? (
+                        <span className="qv-option-isaret qv-option-isaret--dogru" aria-hidden="true">✓</span>
+                      ) : null}
+                      {selectedOption !== null && i === selectedOption && i !== currentQuestion.correctAnswer ? (
+                        <span className="qv-option-isaret qv-option-isaret--yanlis" aria-hidden="true">✗</span>
+                      ) : null}
+                    </button>
+                    {sesVar && sikMetin ? (
+                      <button
+                        type="button"
+                        className="sik-dinle-btn"
+                        title="Bu şıkkı dinle"
+                        aria-label={`${OPTION_LABELS[i] || i + 1} şıkkını dinle`}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          e.stopPropagation();
+                          sikkiSeslendir(sikMetin);
+                        }}
+                      >🔊</button>
                     ) : null}
-                    {selectedOption !== null && i === selectedOption && i !== currentQuestion.correctAnswer ? (
-                      <span className="qv-option-isaret qv-option-isaret--yanlis" aria-hidden="true">✗</span>
-                    ) : null}
-                  </button>
+                  </div>
                 );
               })}
             </div>
