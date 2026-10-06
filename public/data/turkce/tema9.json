@@ -708,10 +708,10 @@
       "theme": "Tema 9",
       "question": "Hangi sözcük isimdir?",
       "options": [
-        "Güzel (sıfat)",
-        "Koşmak (eylem)",
-        "Hızla (zarf)",
-        "Güzellik (isim)"
+        "Güzel",
+        "Koşmak",
+        "Hızla",
+        "Güzellik"
       ],
       "correctAnswer": 3
     },
@@ -721,10 +721,10 @@
       "theme": "Tema 9",
       "question": "Hangi sözcük sıfattır?",
       "options": [
-        "Koşmak (eylem)",
-        "Ve (bağlaç)",
-        "Yeşil (isim niteliyor)",
-        "Orada (zarf)"
+        "Koşmak",
+        "Ve",
+        "Yeşil",
+        "Orada"
       ],
       "correctAnswer": 2
     },
@@ -750,7 +750,7 @@
         "Koşmak",
         "Güzel",
         "Çiçek",
-        "Hızlıca (eylemi niteliyor)"
+        "Hızlıca"
       ],
       "correctAnswer": 3
     },
@@ -760,7 +760,7 @@
       "theme": "Tema 9",
       "question": "Hangi sözcük zamirdir?",
       "options": [
-        "Ben (öznenin yerini tutar)",
+        "Ben",
         "Koşmak",
         "Kitap",
         "Güzel"
@@ -774,7 +774,7 @@
       "question": "Hangi sözcük bağlaçtır?",
       "options": [
         "Güzel",
-        "Ve (iki ögeyi birleştiriyor)",
+        "Ve",
         "Koşmak",
         "Kitap"
       ],
@@ -827,7 +827,7 @@
       "options": [
         "Eylem",
         "Sıfat",
-        "Zamir (ismin yerini tutar)",
+        "Zamir",
         "İsim"
       ],
       "correctAnswer": 2
@@ -841,7 +841,7 @@
         "Sıfat",
         "Bağlaç",
         "Zamir",
-        "Edat (yer ilgisi kuran)"
+        "Edat"
       ],
       "correctAnswer": 3
     },
@@ -866,7 +866,7 @@
       "options": [
         "Sıfat",
         "Eylem",
-        "Zarf (sıfatı niteliyor)",
+        "Zarf",
         "İsim"
       ],
       "correctAnswer": 2
@@ -880,7 +880,7 @@
         "Eylem",
         "Sıfat",
         "İsim",
-        "Zamir (tamlayan)"
+        "Zamir"
       ],
       "correctAnswer": 3
     }

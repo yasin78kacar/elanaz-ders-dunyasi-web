@@ -82,7 +82,7 @@
       "id": "q1130",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Metinde geçen bilinen bir kelimeye ne denir?",
+      "question": "Okurken anlamını hemen anladığımız kelimeye ne denir?",
       "options": [
         "Zor kelime",
         "Anlamı bilinen kelime",
@@ -303,12 +303,12 @@
       "id": "qe600871",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Türkçeye özgü sesli harfler hangileridir?",
+      "question": "Hangi sözcükte ince ünlü vardır?",
       "options": [
-        "o, u",
-        "a, e, i",
-        "ı, ö, ü",
-        "b, c, d"
+        "Kar",
+        "Top",
+        "Süt",
+        "Kuş"
       ],
       "correctAnswer": 2
     },
@@ -732,7 +732,7 @@
       "id": "turkce_t8_yeni_023",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Fatma sokakta yaralı bir kedi buldu. Kedinin ayağı incinmişti. Fatma kediyi nerede buldu?",
+      "question": "Fatma kaldırımda yürürken yaralı bir kedi gördü. Kedinin ayağı incinmişti. Fatma kediyi nerede buldu?",
       "options": [
         "Sokakta",
         "Parkta",
@@ -745,7 +745,7 @@
       "id": "turkce_t8_yeni_024",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Fatma sokakta yaralı bir kedi buldu. Kedinin ayağı incinmişti. Kedinin sorunu neydi?",
+      "question": "Fatma sokakta yaralı bir kedi buldu. Kedi bir ayağını yere basamıyordu. Kedinin sorunu neydi?",
       "options": [
         "Kaybolmuştu",
         "Aç kalmıştı",
@@ -758,7 +758,7 @@
       "id": "turkce_t8_yeni_025",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Can ve babası bahçeye bir elma ağacı dikti. Can sulamayı unutmadı. Bu yıl ne diktiler?",
+      "question": "Can ve babası bahçeye elma veren bir fidan dikti. Can sulamayı unutmadı. Bu yıl ne diktiler?",
       "options": [
         "Elma ağacı",
         "Kiraz ağacı",
@@ -784,7 +784,7 @@
       "id": "turkce_t8_yeni_027",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Zeynep yeni okula başladı. Kimseyi tanımıyordu. Teneffüste yalnız oturdu. Zeynep neden yalnız oturdu?",
+      "question": "Zeynep yeni okula başladı. Sınıfta tanıdığı kimse yoktu. Teneffüste yalnız oturdu. Zeynep neden yalnız oturdu?",
       "options": [
         "Hasta hissetti",
         "Yorgundu",
@@ -810,7 +810,7 @@
       "id": "turkce_t8_yeni_029",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Hande her gece yatmadan önce kitap okurdu. Annesi \"Işığı kapat, uyu\" derdi. Hande ne zaman kitap okur?",
+      "question": "Hande uyumadan hemen önce her akşam kitabını açardı. Annesi ışığı kapatmasını isterdi. Hande ne zaman kitap okur?",
       "options": [
         "Sabahları",
         "Her gece yatmadan önce",
@@ -836,7 +836,7 @@
       "id": "turkce_t8_yeni_031",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Yağmur yağınca biri \"Eve gidelim\" dedi. Zeynep oynamak istedi. Yağmur yağınca biri ne dedi?",
+      "question": "Yağmur başlayınca biri eve dönmeyi söyledi. Zeynep oynamak istedi. Yağmur yağınca söylenen söz hangisidir?",
       "options": [
         "Bekleyelim",
         "Oynayalım",
@@ -862,7 +862,7 @@
       "id": "turkce_t8_yeni_033",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Hande bisiklete binerken ilk iki denemede düştü. Üçüncüde düşmedi. Hande kaçıncı denemede başardı?",
+      "question": "Hande bisiklete binerken iki kez düştü. Bir sonraki denemede düşmedi. Hande kaçıncı denemede başardı?",
       "options": [
         "İkinci",
         "Birinci",
@@ -875,7 +875,7 @@
       "id": "turkce_t8_yeni_034",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Yusuf sınıfa yeni bir oyuncak getirdi. Herkes görmek istedi. Yusuf ne getirdi?",
+      "question": "Yusuf sınıfa tekerlekli küçük bir araba getirdi. Herkes görmek istedi. Yusuf ne getirdi?",
       "options": [
         "Resim",
         "Kitap",
@@ -888,7 +888,7 @@
       "id": "turkce_t8_yeni_035",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Yusuf önce \"Dokunmayın, benim!\" dedi. Sonra sırayla oynamaya izin verdi. Yusuf sonunda ne yaptı?",
+      "question": "Yusuf önce 'Dokunmayın, benim!' dedi. Sonra herkesin tek tek oynamasını kabul etti. Yusuf sonunda ne yaptı?",
       "options": [
         "Eve gönderdi",
         "Sırayla oynamaya izin verdi",
@@ -914,7 +914,7 @@
       "id": "turkce_t8_yeni_037",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Ali'nin köpeği Rex her gün aynı saatte havlardı. Rex ne yapardı her gün?",
+      "question": "Ali'nin köpeği Rex her gün aynı vakitte hav hav diye bağırırdı. Rex her gün ne yapardı?",
       "options": [
         "Uyurdu",
         "Aynı saatte havlardı",
@@ -953,7 +953,7 @@
       "id": "turkce_t8_yeni_040",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Elanaz sabah uyandı. Önce yüzünü yıkadı, sonra dişlerini fırçaladı. Elanaz sabah ilk ne yaptı?",
+      "question": "Ela sabah gözlerini açtı. Önce yüzünü yıkadı, sonra dişlerini fırçaladı. Ela sabah ilk ne yaptı?",
       "options": [
         "Okula gitti",
         "Kahvaltı etti",
@@ -966,7 +966,7 @@
       "id": "turkce_t8_yeni_041",
       "subject": "Türkçe",
       "theme": "Tema 8",
-      "question": "Elanaz önce yüzünü yıkadı. Sonra dişlerini fırçaladı. Dişlerini fırçalamadan önce ne yapmıştı?",
+      "question": "Deniz önce yüzünü yıkadı. Sonra dişlerini fırçaladı. Dişlerini fırçalamadan önce ne yapmıştı?",
       "options": [
         "Yüzünü yıkamıştı",
         "Okula gitmişti",

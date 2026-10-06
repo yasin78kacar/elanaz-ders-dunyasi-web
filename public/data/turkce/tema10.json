@@ -6,10 +6,10 @@
       "theme": "Tema 10",
       "question": "Hangi cümle en anlamlıdır?",
       "options": [
-        "Bahçede Elanaz.",
+        "Bahçede Yusuf.",
         "Çiçek topladı.",
-        "Topladı Elanaz çiçek.",
-        "Elanaz bahçede çiçek topladı."
+        "Topladı Yusuf çiçek.",
+        "Yusuf bahçede çiçek topladı."
       ],
       "correctAnswer": 3
     },
@@ -48,7 +48,7 @@
         "Gelmemek",
         "Gelemek",
         "Geldik",
-        "Gelme"
+        "Geliyor"
       ],
       "correctAnswer": 0
     },
@@ -839,7 +839,7 @@
       "question": "Sıfat hangi soruya cevap verir?",
       "options": [
         "Ne yaptı?",
-        "Nasıl / kaç tane?",
+        "Nasıl?",
         "Nerede?",
         "Kim?"
       ],
@@ -875,7 +875,7 @@
       "id": "turkce_t10_yeni_025",
       "subject": "Türkçe",
       "theme": "Tema 10",
-      "question": "\"Elanaz kitap okumadı\" cümlesi hangi türdür?",
+      "question": "\"Zeynep kitap okumadı\" cümlesi hangi türdür?",
       "options": [
         "Ünlem",
         "Soru",
@@ -931,7 +931,7 @@
       "options": [
         "Ali gelmedi",
         "Hava güzel değil",
-        "Elanaz uyumadı",
+        "Hande uyumadı",
         "Mehmet koştu"
       ],
       "correctAnswer": 3
@@ -953,7 +953,7 @@
       "id": "turkce_t10_yeni_031",
       "subject": "Türkçe",
       "theme": "Tema 10",
-      "question": "Elanaz büyük topu aldı. \"büyük\" kelimesi neyi anlatır?",
+      "question": "Emir büyük topu aldı. \"büyük\" kelimesi neyi anlatır?",
       "options": [
         "Topun nasıl olduğunu",
         "Topun yerini",
@@ -981,9 +981,9 @@
       "theme": "Tema 10",
       "question": "Hangisinde \"güzel\" var ve cümle anlamlıdır?",
       "options": [
-        "Elanaz güzel resim yaptı.",
-        "Güzel Elanaz yaptı resim.",
-        "Yaptı güzel Elanaz resim.",
+        "Burcu güzel resim yaptı.",
+        "Güzel Burcu yaptı resim.",
+        "Yaptı güzel Burcu resim.",
         "Güzel."
       ],
       "correctAnswer": 0
