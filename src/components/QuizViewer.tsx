@@ -252,6 +252,33 @@ function aktifSinif(ad: string): string {
   return pr ? pr.sinif : '2';
 }
 
+// Sınıfa göre soru gösterme: ./data/{folder}/siniflar.json → { "temaN.json": { "<id>": [sınıflar] } }.
+// Eşleme yüklenemezse veya profilde geçerli sınıf yoksa filtre uygulanmaz.
+type SinifEslemesi = Record<string, Record<string, number[]>>;
+const SINIF_FILTRELI_KLASORLER = ['math', 'turkce', 'fen', 'hayat'];
+const sinifEslemeOnbellek: Record<string, Promise<SinifEslemesi | null>> = {};
+
+function sinifEslemesiGetir(folder: string): Promise<SinifEslemesi | null> {
+  if (!sinifEslemeOnbellek[folder]) {
+    sinifEslemeOnbellek[folder] = fetch(`./data/${folder}/siniflar.json`)
+      .then(r => (r.ok ? r.json() : null))
+      .catch(() => null);
+  }
+  return sinifEslemeOnbellek[folder];
+}
+
+function profilSinifi(ad: string): number | null {
+  const n = Number(profilleriGetir().find(x => x.ad === ad)?.sinif);
+  return n >= 1 && n <= 4 ? n : null;
+}
+
+/** Eşleme ve sınıf varsa temadaki uygun soru sayısı; yoksa null (filtre yok). */
+function temaSinifSayisi(esleme: SinifEslemesi | null | undefined, dosya: string, sinif: number | null): number | null {
+  const temaEsleme = esleme?.[dosya];
+  if (!temaEsleme || sinif === null) return null;
+  return Object.values(temaEsleme).filter(s => s.includes(sinif)).length;
+}
+
 function sayiBulmacasiStatsYaz(ad: string, result: { puzzleId: string; sinif: number; correctOnFirstTry: boolean }) {
   if (!ad) return;
   let stats: QuizResult[] = [];
@@ -357,6 +384,9 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
   const [score, setScore] = useState(0);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  /** Filtreden sonra soru kalmadıysa profil sınıfı ("hazırlanıyor" ekranı). */
+  const [hazirlaniyorSinif, setHazirlaniyorSinif] = useState<number | null>(null);
+  const [sinifEslemeleri, setSinifEslemeleri] = useState<Record<string, SinifEslemesi | null>>({});
 
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [feedback, setFeedback] = useState<'idle' | 'correct' | 'wrong'>('idle');
@@ -404,11 +434,33 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     checkVersion();
   }, []);
 
+  // Tema listesi ve ders kartları için sınıf eşlemelerini bir kez yükle.
+  useEffect(() => {
+    let iptal = false;
+    Promise.all(SINIF_FILTRELI_KLASORLER.map(k => sinifEslemesiGetir(k))).then(liste => {
+      if (iptal) return;
+      const sonuc: Record<string, SinifEslemesi | null> = {};
+      SINIF_FILTRELI_KLASORLER.forEach((k, i) => { sonuc[k] = liste[i]; });
+      setSinifEslemeleri(sonuc);
+    });
+    return () => { iptal = true; };
+  }, []);
+
+  /** Aktif sınıf için o derste hiç soru yoksa true (eşleme/sınıf yoksa false). */
+  const dersteSoruYok = (folder: string): boolean => {
+    if (!SINIF_FILTRELI_KLASORLER.includes(folder)) return false;
+    const esleme = sinifEslemeleri[folder];
+    const sinif = profilSinifi(profilAdi);
+    if (!esleme || sinif === null) return false;
+    return THEMES.every((_, i) => temaSinifSayisi(esleme, `tema${i + 1}.json`, sinif) === 0);
+  };
+
   const loadQuestions = useCallback(async (subjectName: string, themeName: string) => {
     if (subjectName === OGRENME.label) ogrenmeStatsYazildiRef.current = false;
     okuIptal();
     setLoading(true);
     setError(null);
+    setHazirlaniyorSinif(null);
     setFeedback('idle');
     setSelectedOption(null);
     setCurrentIndex(0);
@@ -431,6 +483,20 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
       if (!response.ok) throw new Error('Sorular yüklenemedi.');
       const data = await response.json();
       let yuklenen: Question[] = data.questions || [];
+      // Matematik / Türkçe / Fen / Hayat: siniflar.json eşlemesine göre profil sınıfının soruları
+      if (SINIF_FILTRELI_KLASORLER.includes(folder) && !activeSub.kategoriler) {
+        const sinif = profilSinifi(profilAdi);
+        const dosya = url.split('/').pop() || '';
+        const temaEsleme = sinif !== null ? (await sinifEslemesiGetir(folder))?.[dosya] : undefined;
+        if (sinif !== null && temaEsleme) {
+          yuklenen = yuklenen.filter(q => temaEsleme[q.id]?.includes(sinif));
+          if (yuklenen.length === 0) {
+            setHazirlaniyorSinif(sinif);
+            setQuestions([]);
+            return;
+          }
+        }
+      }
       // Zeka-Dikkat / Sosyal Bilgiler: yalnızca profil sınıfıyla eşleşen sorular
       if (subjectName === 'Zeka-Dikkat' || subjectName === 'Sosyal Bilgiler') {
         const sinif = Number(aktifSinif(profilAdi));
@@ -793,6 +859,10 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
           }}
           onNavigate={git}
           onVeliAc={onVeliAc}
+          hiddenRoutes={(Object.keys(SUBJECT_ROUTE_TO_LABEL) as HomeRoute[]).filter(r => {
+            const ders = SUBJECTS.find(s => s.label === SUBJECT_ROUTE_TO_LABEL[r]);
+            return !!ders && dersteSoruYok(ders.folder);
+          })}
         />
       );
     }
@@ -802,6 +872,7 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
     const visibleSubjects = SUBJECTS.filter(s => {
       if (activeGrade === '1' && s.label === 'İngilizce') return false;
       if (s.siniflar && !s.siniflar.includes(sinifNoHome)) return false;
+      if (dersteSoruYok(s.folder)) return false;
       return true;
     });
 
@@ -1077,21 +1148,29 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
               </button>
             ))
           ) : (
-            THEMES.map(t => (
-              <button
-                key={t}
-                className={`qv-theme-pill`}
-                style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px' } as React.CSSProperties}
-                onClick={() => {
-                  setSelectedTheme(t);
-                  setHataModu(false);
-                  loadQuestions(selectedSubject, t);
-                  setView('quiz');
-                }}
-              >
-                {t}
-              </button>
-            ))
+            THEMES.map(t => {
+              const yakinda = temaSinifSayisi(
+                sinifEslemeleri[activeSubject.folder],
+                `tema${t.replace('Tema ', '')}.json`,
+                profilSinifi(profilAdi),
+              ) === 0;
+              return (
+                <button
+                  key={t}
+                  className={`qv-theme-pill`}
+                  style={{ '--card-color': activeSubject.color, padding: '14px 20px', fontSize: '1.05rem', borderRadius: '14px', opacity: yakinda ? 0.55 : 1 } as React.CSSProperties}
+                  onClick={() => {
+                    setSelectedTheme(t);
+                    setHataModu(false);
+                    loadQuestions(selectedSubject, t);
+                    setView('quiz');
+                  }}
+                >
+                  {t}
+                  {yakinda ? <span style={{ display: 'block', fontSize: '0.75rem', fontWeight: 700 }}>Yakında</span> : null}
+                </button>
+              );
+            })
           )}
         </div>
       </div>
@@ -1347,6 +1426,15 @@ const QuizViewer: React.FC<Props> = ({ onHikayeAc, onOyunlarAc, onBesN1KAc, onDe
           <div className="qv-spinner" />
           <p>Sorular yükleniyor…</p>
         </div>
+      </div>
+    );
+  }
+
+  if (hazirlaniyorSinif !== null && !hataModu) {
+    return goster(
+      <div className="qv-wrap">
+        <button className="back-btn" onClick={() => { setHazirlaniyorSinif(null); setView('theme_selection'); }}>← Geri Dön</button>
+        <div className="qv-error">Bu temada {hazirlaniyorSinif}. sınıfa uygun soru henüz hazırlanıyor 📚</div>
       </div>
     );
   }

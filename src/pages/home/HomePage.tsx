@@ -99,6 +99,8 @@ export type HomePageProps = {
   onChangeProfile: () => void;
   onNavigate: (route: HomeRoute) => void;
   onVeliAc?: () => void;
+  /** Aktif sınıf için hiç sorusu olmayan derslerin route'ları (kart gizlenir). */
+  hiddenRoutes?: HomeRoute[];
 };
 
 export function HomePage({
@@ -110,11 +112,12 @@ export function HomePage({
   onChangeProfile,
   onNavigate,
   onVeliAc,
+  hiddenRoutes,
 }: HomePageProps) {
   const dersRef = useRef<HTMLElement>(null);
   const aktif = profiles.find((p) => p.ad === activeName);
   const sinifNo = Number(aktif?.sinif || '2');
-  const visibleSubjects = SUBJECTS.filter((s) => s.grades.includes(sinifNo));
+  const visibleSubjects = SUBJECTS.filter((s) => s.grades.includes(sinifNo) && !hiddenRoutes?.includes(s.route));
 
   return (
     <div className="home">
