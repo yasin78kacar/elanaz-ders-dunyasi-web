@@ -649,6 +649,71 @@
         "40"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": "mat_t3_yeni_001",
+      "subject": "Matematik",
+      "theme": "Tema 3",
+      "question": "Defne'nin 43 boncuğu vardı. 18 boncuğu kolyeye taktı. Geriye kaç boncuk kaldı?",
+      "options": [
+        "35",
+        "25",
+        "61",
+        "24"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "mat_t3_yeni_002",
+      "subject": "Matematik",
+      "theme": "Tema 3",
+      "question": "72 - 35 işleminin sonucu kaçtır?",
+      "options": [
+        "43",
+        "47",
+        "37",
+        "39"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "mat_t3_yeni_003",
+      "subject": "Matematik",
+      "theme": "Tema 3",
+      "question": "Kütüphanede 85 kitap vardı. Öğrenciler 40 kitap ödünç aldı. Kütüphanede kaç kitap kaldı?",
+      "options": [
+        "125",
+        "55",
+        "35",
+        "45"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "mat_t3_yeni_004",
+      "subject": "Matematik",
+      "theme": "Tema 3",
+      "question": "56 - 29 = 27 işlemini hangi toplama işlemiyle kontrol ederiz?",
+      "options": [
+        "27 + 29",
+        "56 + 29",
+        "56 + 27",
+        "29 + 29"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "mat_t3_yeni_005",
+      "subject": "Matematik",
+      "theme": "Tema 3",
+      "question": "Eda 91 sayfalık kitabın 46 sayfasını okudu. Okuyacağı kaç sayfa kaldı?",
+      "options": [
+        "55",
+        "47",
+        "45",
+        "54"
+      ],
+      "correctAnswer": 2
     }
   ]
 }
