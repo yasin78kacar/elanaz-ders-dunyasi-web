@@ -1039,6 +1039,71 @@
         "Ay"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": "fen_t7_yeni_042",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Duru banyodan çıktı. Islak saçlarına sıcak hava tutmak istiyor. Hangi elektrikli aracı kullanır?",
+      "options": [
+        "Mikser",
+        "Saç kurutma makinesi",
+        "Ütü",
+        "Elektrikli süpürge"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fen_t7_yeni_043",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Elektrikler kesildi. Zeynep hangisini kullanmaya devam edebilir?",
+      "options": [
+        "Çalı süpürgesini",
+        "Çamaşır makinesini",
+        "Televizyonu",
+        "Tost makinesini"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "fen_t7_yeni_044",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Kemal'in annesi ütü yapmayı bitirdi. Şimdi ne yapmalıdır?",
+      "options": [
+        "Ütüyü prize takılı bırakıp çıkmalı",
+        "Ütüyü sıcakken yatağa koymalı",
+        "Kabloyu ütüye hemen sarmalı",
+        "Fişini çekip ütüyü soğumaya bırakmalı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": "fen_t7_yeni_045",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Ece'nin küçük kardeşi Arda prize toka sokmaya çalışıyor. Ece ne yapmalıdır?",
+      "options": [
+        "Tokayı daha derine itmesine izin vermeli",
+        "Arda'yı uzaklaştırıp büyüklere söylemeli",
+        "Tokayı prizden kendisi çekip çıkarmalı",
+        "Görmemiş gibi yapıp odadan çıkmalı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "fen_t7_yeni_046",
+      "subject": "Fen Bilimleri",
+      "theme": "Tema 7",
+      "question": "Ada'nın ve Can'ın odalarında aynı lamba var. Ada'nınki 5 saat, Can'ınki 2 saat yandı. Hangisinde daha çok elektrik harcanmıştır?",
+      "options": [
+        "Can'ın odasında",
+        "İkisinde de aynı miktar",
+        "Ada'nın odasında",
+        "Hiçbirinde elektrik harcanmamıştır"
+      ],
+      "correctAnswer": 2
     }
   ]
 }
